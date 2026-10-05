@@ -1,0 +1,405 @@
+{
+  "version": 1,
+  "pillars": [
+    {
+      "id": "physical-health",
+      "name": "Physical Health",
+      "emoji": "🩺",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "The body you live in, looked after on purpose: screenings and check-ups kept on schedule, long-term conditions managed rather than endured, medicines and results kept in order, and the small daily habits that decide how the next thirty years feel."
+    },
+    {
+      "id": "fitness-sport",
+      "name": "Fitness & Sport",
+      "emoji": "🏋️",
+      "category": "personal",
+      "review_cadence": "monthly",
+      "description": "Training, play and competition: building strength, endurance and skill in a sport or a gym, structuring blocks of work around events, recovering properly, and keeping the sessions honest with a log rather than a feeling."
+    },
+    {
+      "id": "food-nutrition",
+      "name": "Food & Nutrition",
+      "emoji": "🥗",
+      "category": "personal",
+      "review_cadence": "monthly",
+      "description": "What gets eaten, and how it gets to the table: meal planning, shopping and batch cooking, dietary needs and goals, cooking skill as a lifelong craft, and the food rituals that hold a household together."
+    },
+    {
+      "id": "mental-wellbeing",
+      "name": "Mental & Emotional Wellbeing",
+      "emoji": "🧘",
+      "category": "personal",
+      "review_cadence": "monthly",
+      "description": "The inner weather: managing stress and anxiety, recovering from burnout, therapy and support, rest and attention, mood and emotional skills, and the routines that keep a mind steady when life is not."
+    },
+    {
+      "id": "relationships",
+      "name": "Relationships & Friendship",
+      "emoji": "🤝",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "The people who make a life: a partner, close friends, wider circles and new connections, kept in good repair through attention, honest conversations, shared plans and the occasions worth marking."
+    },
+    {
+      "id": "family-parenting",
+      "name": "Family & Parenting",
+      "emoji": "👨‍👩‍👧",
+      "category": "personal",
+      "review_cadence": "monthly",
+      "description": "Raising children and holding a family together: each stage from pregnancy to young adulthood, schooling and activities, family logistics and traditions, extended family, and the decisions parents make together."
+    },
+    {
+      "id": "personal-finance",
+      "name": "Personal Finance",
+      "emoji": "💷",
+      "category": "personal",
+      "review_cadence": "monthly",
+      "description": "The day-to-day money system: income, budget, bills, debt, savings buffers, insurance, tax and big purchases, run so that nothing surprises you and every pound has a job."
+    },
+    {
+      "id": "wealth-investing",
+      "name": "Wealth & Investing",
+      "emoji": "📈",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "Building long-term wealth: pensions and retirement accounts, index investing, property, side income, estate planning and the slow, boring decisions that compound over decades."
+    },
+    {
+      "id": "career-growth",
+      "name": "Career Growth",
+      "emoji": "🧭",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "A working life steered rather than drifted: job searches and promotions, reputation and network, pay negotiations, career changes, credentials, and the evidence that you are getting better at what you do."
+    },
+    {
+      "id": "craft-mastery",
+      "name": "Craft & Mastery",
+      "emoji": "🛠️",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "Getting genuinely good at something with your hands or your head: woodwork and making, repair, deliberate practice, apprenticeships and portfolios, and the long arc from beginner to expert."
+    },
+    {
+      "id": "lifelong-learning",
+      "name": "Lifelong Learning",
+      "emoji": "📚",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "Learning as a habit for life: degrees and courses, self-directed study, reading with intent, memory and note-taking systems, exams and certifications, and turning curiosity into understanding."
+    },
+    {
+      "id": "writing-storytelling",
+      "name": "Writing & Storytelling",
+      "emoji": "✍️",
+      "category": "personal",
+      "review_cadence": "monthly",
+      "description": "Putting words to work: fiction and non-fiction, journals and essays, newsletters and blogs, screenwriting and poetry, editing and publishing, and the daily practice that gets a manuscript finished."
+    },
+    {
+      "id": "arts-music",
+      "name": "Arts & Music",
+      "emoji": "🎨",
+      "category": "personal",
+      "review_cadence": "monthly",
+      "description": "Making and performing art: an instrument or a voice, painting and drawing, photography and film, dance and theatre, exhibitions and gigs, and the practice routines that keep a creative life alive."
+    },
+    {
+      "id": "faith-meaning",
+      "name": "Faith & Meaning",
+      "emoji": "🕯️",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "What a life is for: religious practice and community, prayer and meditation, sacred texts and study, values and philosophy, rites of passage, and the questions worth returning to every year."
+    },
+    {
+      "id": "community-volunteering",
+      "name": "Community & Volunteering",
+      "emoji": "🏘️",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "Showing up for the people around you: neighbourhood life, volunteering and mentoring, clubs and associations, mutual aid, local events and charitable giving that is planned rather than reactive."
+    },
+    {
+      "id": "civic-life",
+      "name": "Civic Life",
+      "emoji": "🏛️",
+      "category": "personal",
+      "review_cadence": "biannual",
+      "description": "Taking part in how things are run: voting and elections, local councils and consultations, campaigning and advocacy, jury service, public meetings and staying informed without drowning in news."
+    },
+    {
+      "id": "home-household",
+      "name": "Home & Household",
+      "emoji": "🏠",
+      "category": "personal",
+      "review_cadence": "monthly",
+      "description": "The place you live and the machinery that keeps it running: cleaning and chores, maintenance and repairs, renovations, moving house, garden, storage, utilities and the household routines everyone shares."
+    },
+    {
+      "id": "environment-sustainability",
+      "name": "Environment & Sustainability",
+      "emoji": "🌱",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "Living more lightly: home energy and carbon, waste and repair, sustainable transport and food, climate-aware money, local conservation and the household changes that actually move the numbers."
+    },
+    {
+      "id": "travel-adventure",
+      "name": "Travel & Adventure",
+      "emoji": "✈️",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "Going places: trip planning and bookings, long journeys and short breaks, travel documents and money, expeditions and once-in-a-lifetime trips, and the memories kept afterwards."
+    },
+    {
+      "id": "nature-outdoors",
+      "name": "Nature & Outdoors",
+      "emoji": "🏞️",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "Time outside, on purpose: hiking and wild camping, birding and wildlife, foraging and growing, water and mountains, outdoor skills and safety, and a seasonal rhythm that gets you out of the house."
+    },
+    {
+      "id": "digital-life",
+      "name": "Digital Life & Personal Tech",
+      "emoji": "💻",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "The devices and accounts a modern life depends on: passwords and security, backups and photos, email and files, home networks, screen time, digital legacy and the personal tech projects worth building."
+    },
+    {
+      "id": "caregiving",
+      "name": "Caregiving",
+      "emoji": "🫶",
+      "category": "personal",
+      "review_cadence": "monthly",
+      "description": "Caring for someone who needs you: an ageing parent, a disabled child or partner, someone through serious illness, coordinating appointments and benefits, care at home or in a home, and the carer's own limits."
+    },
+    {
+      "id": "hobbies-play",
+      "name": "Hobbies & Play",
+      "emoji": "🎲",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "Things done for the joy of them: games and puzzles, collecting, model making, gaming, crafts and pastimes, clubs and conventions, and protecting time for play in an adult schedule."
+    },
+    {
+      "id": "pets-animals",
+      "name": "Pets & Animals",
+      "emoji": "🐾",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "Living with animals: choosing and welcoming a pet, health and vet care, training and exercise, food and grooming, pet-sitting and travel, horses and livestock, and the end-of-life decisions."
+    },
+    {
+      "id": "life-admin",
+      "name": "Life Admin & Paperwork",
+      "emoji": "🗂️",
+      "category": "personal",
+      "review_cadence": "monthly",
+      "description": "The paperwork that runs a life: identity documents, contracts and renewals, tax returns, wills and powers of attorney, records and filing, and the annual admin sweep nobody enjoys but everyone needs."
+    },
+    {
+      "id": "personal-growth",
+      "name": "Character & Personal Growth",
+      "emoji": "🌟",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "Becoming the person you intend to be: habits and discipline, confidence and courage, focus and time, reflection and reviews, life vision and goals, and the honest feedback that makes growth real."
+    },
+    {
+      "id": "later-life",
+      "name": "Ageing Well & Later Life",
+      "emoji": "🌅",
+      "category": "personal",
+      "review_cadence": "biannual",
+      "description": "The decades after full-time work: planning and starting retirement, staying active and connected, downsizing, legacy and family history, grandparenting, and the practical decisions of later life."
+    },
+    {
+      "id": "languages-culture",
+      "name": "Languages & Culture",
+      "emoji": "🗣️",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "Other languages and other ways of living: learning and keeping a language, heritage and roots, cultural fluency, living abroad, translation and the literature, film and food that come with it."
+    },
+    {
+      "id": "founding-startups",
+      "name": "Founding & Startups",
+      "emoji": "🚀",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Starting and steering a young company: validating the idea, incorporating, finding product-market fit, the founder's operating rhythm, co-founder relationships, runway and the hard calls of the early years."
+    },
+    {
+      "id": "strategy-leadership",
+      "name": "Strategy & Leadership",
+      "emoji": "♟️",
+      "category": "business",
+      "review_cadence": "quarterly",
+      "description": "Setting direction and leading people toward it: strategy and planning cycles, objectives and key results, the executive team, decision-making, culture, change programmes and the board."
+    },
+    {
+      "id": "sales-revenue",
+      "name": "Sales & Revenue",
+      "emoji": "💼",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Turning interest into revenue: prospecting and pipeline, discovery and demos, proposals and negotiation, forecasting, key accounts, sales process, enablement and compensation."
+    },
+    {
+      "id": "marketing-brand",
+      "name": "Marketing & Brand",
+      "emoji": "📣",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Making the right people know and want what you do: positioning and brand, campaigns and content, search and paid channels, email and lifecycle, events, and measuring what actually drives demand."
+    },
+    {
+      "id": "communications-pr",
+      "name": "Communications & PR",
+      "emoji": "📰",
+      "category": "business",
+      "review_cadence": "quarterly",
+      "description": "How an organisation is heard: press and media relations, executive voice, internal communications, crisis handling, announcements, reputation monitoring and the messaging that holds it together."
+    },
+    {
+      "id": "product-management",
+      "name": "Product Management",
+      "emoji": "🧩",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Deciding what to build and why: discovery and research, roadmaps and prioritisation, specs and launches, pricing and packaging, product analytics, and the feedback loops that keep a product honest."
+    },
+    {
+      "id": "software-engineering",
+      "name": "Software Engineering",
+      "emoji": "⚙️",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Building and running software: architecture and code quality, delivery and release, testing, infrastructure and reliability, incidents, technical debt, developer experience and engineering teams."
+    },
+    {
+      "id": "design-ux",
+      "name": "Design & UX",
+      "emoji": "🖌️",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Shaping how things look, feel and work: user experience and interface design, research and testing, design systems, accessibility, content design, prototyping and design operations."
+    },
+    {
+      "id": "data-analytics",
+      "name": "Data & Analytics",
+      "emoji": "📊",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Turning data into decisions: metrics and dashboards, data pipelines and warehouses, experimentation, forecasting and modelling, machine learning, data quality and governance."
+    },
+    {
+      "id": "it-security",
+      "name": "IT & Security",
+      "emoji": "🔐",
+      "category": "business",
+      "review_cadence": "quarterly",
+      "description": "Keeping an organisation's technology working and safe: devices and identity, access control, backups and recovery, security programmes and audits, vendors, incident response and user support."
+    },
+    {
+      "id": "business-operations",
+      "name": "Business Operations",
+      "emoji": "🏭",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Making the organisation run: processes and playbooks, tooling and systems, facilities and workplace, quality, planning cadences, cross-team coordination and continuous improvement."
+    },
+    {
+      "id": "supply-chain",
+      "name": "Supply Chain & Procurement",
+      "emoji": "📦",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Getting the right things in at the right cost: sourcing and suppliers, purchasing, inventory, logistics and fulfilment, manufacturing partners, contracts and supply risk."
+    },
+    {
+      "id": "finance-accounting",
+      "name": "Finance & Accounting",
+      "emoji": "🧾",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "The money side of a business: bookkeeping and the monthly close, cash flow, budgeting and forecasting, billing and collections, payroll, tax, audit and financial controls."
+    },
+    {
+      "id": "people-hr",
+      "name": "People & HR",
+      "emoji": "👥",
+      "category": "business",
+      "review_cadence": "quarterly",
+      "description": "Hiring, developing and keeping good people: recruitment, onboarding, performance and development, pay and benefits, policies and employee relations, wellbeing, culture and offboarding."
+    },
+    {
+      "id": "legal-compliance",
+      "name": "Legal & Compliance",
+      "emoji": "⚖️",
+      "category": "business",
+      "review_cadence": "quarterly",
+      "description": "Staying lawful and protected: contracts and commercial terms, corporate governance, data protection, intellectual property, regulatory compliance, disputes, policies and certifications."
+    },
+    {
+      "id": "customer-success",
+      "name": "Customer Success & Support",
+      "emoji": "🎧",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Keeping customers successful and staying: onboarding and adoption, support operations, account health and renewals, help content, feedback loops, escalations and customer advocacy."
+    },
+    {
+      "id": "partnerships-bd",
+      "name": "Partnerships & Business Development",
+      "emoji": "🔗",
+      "category": "business",
+      "review_cadence": "quarterly",
+      "description": "Growing through others: channel and reseller programmes, integrations and alliances, co-marketing, marketplaces, affiliates, joint ventures and the partner relationships that compound."
+    },
+    {
+      "id": "fundraising-investors",
+      "name": "Fundraising & Investor Relations",
+      "emoji": "💰",
+      "category": "business",
+      "review_cadence": "quarterly",
+      "description": "Raising capital and keeping investors informed: rounds from pre-seed to growth, grants and debt, the data room, cap table, investor updates, board reporting and exits."
+    },
+    {
+      "id": "freelance-agency",
+      "name": "Freelancing & Agency Work",
+      "emoji": "🧑‍💼",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Selling expertise by the project or the retainer: winning clients, scoping and pricing, delivery and client communication, contracts and invoicing, utilisation, and growing a practice or studio."
+    },
+    {
+      "id": "ecommerce-retail",
+      "name": "E-commerce & Retail",
+      "emoji": "🛒",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Selling physical and digital products: storefronts and marketplaces, merchandising and pricing, product launches, conversion, returns and reviews, shops and markets, and seasonal trading."
+    },
+    {
+      "id": "education-teaching",
+      "name": "Education & Teaching",
+      "emoji": "🍎",
+      "category": "business",
+      "review_cadence": "quarterly",
+      "description": "The work of educators: curriculum and lesson planning, assessment and feedback, classroom practice, pastoral care, tutoring and coaching, school leadership and the professional development of teachers."
+    },
+    {
+      "id": "science-research",
+      "name": "Science & Research",
+      "emoji": "🔬",
+      "category": "business",
+      "review_cadence": "quarterly",
+      "description": "Doing research for a living: research questions and literature, study design and ethics, lab and field work, data and analysis, writing and peer review, grants, collaborations and a research career."
+    }
+  ]
+}
