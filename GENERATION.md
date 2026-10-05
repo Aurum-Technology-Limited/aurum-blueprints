@@ -332,8 +332,12 @@ Do not hand-write the YAML. Write a JSON draft at `drafts/<pillarId>/<areaId>.js
 
 ```bash
 node scripts/render-area.mjs drafts/<pillarId>/<areaId>.json
-npm run build:catalog && npm run validate
+node scripts/validate.mjs --only blueprints/<pillarId>/<areaId>.md
 ```
+
+`--only` checks your file without touching `catalog.json`, so many generators can run
+at once. Do not run `npm run build:catalog` during a parallel run: whoever coordinates
+the run rebuilds the catalog once at the end and runs the full `npm run check`.
 
 The renderer copies the pillar and area blocks from the taxonomy, applies every
 indentation and quoting rule in section 2, and appends the fixed install sentence to

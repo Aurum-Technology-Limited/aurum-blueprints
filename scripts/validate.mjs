@@ -25,6 +25,11 @@ import {
 const args = process.argv.slice(2);
 const maxIdx = args.indexOf("--max");
 const MAX_PRINT = maxIdx >= 0 ? Number(args[maxIdx + 1]) || 60 : 60;
+// `--only <file>` (repeatable) validates the taxonomy, the legacy starters and
+// just the named library files, and skips catalog.json. It exists so several
+// generators can each check their own file while others are mid-write, without
+// all racing to rebuild one shared catalog. A full run is still the gate.
+const ONLY = new Set(args.flatMap((a, i) => (a === "--only" && args[i + 1] ? [args[i + 1].replace(/^\.\//, "")] : [])));
 
 const errors = [];
 const warnings = [];
@@ -186,8 +191,9 @@ for (const rel of files.filter((f) => !libraryPathParts(f))) {
 for (const [lower, where] of AREA_NAMES)
   if (RESERVED_AREA_NAMES.has(lower)) err(`taxonomy/areas.json [${where}]`, `area name collides with a legacy starter's area`);
 
+for (const f of ONLY) if (!files.includes(f)) err(f, "--only names a file that does not exist under blueprints/");
 const seenLibraryAreaNames = new Map();
-for (const rel of files.filter((f) => libraryPathParts(f))) {
+for (const rel of files.filter((f) => libraryPathParts(f) && (!ONLY.size || ONLY.has(f)))) {
   const { pillarId, areaId } = libraryPathParts(rel);
   let loaded;
   try {
@@ -451,7 +457,7 @@ function validateRules(rel, rules) {
 }
 
 // ── catalog.json ────────────────────────────────────────────────────────────
-{
+if (!ONLY.size) {
   const where = "catalog.json";
   let cat;
   try {
