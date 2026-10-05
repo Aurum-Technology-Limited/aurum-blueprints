@@ -1,0 +1,17 @@
+{
+  "name": "aurum-blueprints",
+  "private": true,
+  "type": "module",
+  "description": "Public catalog of Aurum Life starter blueprints, plus the tooling that validates and indexes the blueprint library.",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build:catalog": "node scripts/build-catalog.mjs",
+    "check": "node scripts/build-catalog.mjs --check && node scripts/validate.mjs"
+  },
+  "dependencies": {
+    "yaml": "^2.8.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

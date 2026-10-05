@@ -5,12 +5,22 @@
       "name": "Balanced Life",
       "description": "A well-rounded starting structure across health, career, relationships, mind, and money. A solid default when you're not sure where to begin.",
       "category": "starter",
-      "tags": ["general", "balanced", "beginner"],
+      "tags": [
+        "general",
+        "balanced",
+        "beginner"
+      ],
       "version": "1.0.0",
       "path": "blueprints/balanced-life.md",
       "author": "Aurum Technology",
       "starterSummary": {
-        "pillars": ["Health & Vitality", "Career & Growth", "Relationships", "Mind & Craft", "Money"],
+        "pillars": [
+          "Health & Vitality",
+          "Career & Growth",
+          "Relationships",
+          "Mind & Craft",
+          "Money"
+        ],
         "totalAreas": 11,
         "totalProjects": 7
       }
@@ -20,12 +30,22 @@
       "name": "Founder",
       "description": "For people building a company. Keeps mission, product, runway, health, and network in one tree so the agent works against the whole picture.",
       "category": "starter",
-      "tags": ["founder", "startup", "work"],
+      "tags": [
+        "founder",
+        "startup",
+        "work"
+      ],
       "version": "1.0.0",
       "path": "blueprints/founder.md",
       "author": "Aurum Technology",
       "starterSummary": {
-        "pillars": ["Work & Mission", "Product", "Health", "Finances", "Network"],
+        "pillars": [
+          "Work & Mission",
+          "Product",
+          "Health",
+          "Finances",
+          "Network"
+        ],
         "totalAreas": 10,
         "totalProjects": 8
       }
@@ -35,12 +55,22 @@
       "name": "Student",
       "description": "For students balancing coursework with health, career prep, money, and a life. A simple structure to stay on top of it all.",
       "category": "starter",
-      "tags": ["student", "study", "learning"],
+      "tags": [
+        "student",
+        "study",
+        "learning"
+      ],
       "version": "1.0.0",
       "path": "blueprints/student.md",
       "author": "Aurum Technology",
       "starterSummary": {
-        "pillars": ["Academics", "Health", "Career Prep", "Money", "Social & Self"],
+        "pillars": [
+          "Academics",
+          "Health",
+          "Career Prep",
+          "Money",
+          "Social & Self"
+        ],
         "totalAreas": 9,
         "totalProjects": 7
       }
