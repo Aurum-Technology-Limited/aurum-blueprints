@@ -55,6 +55,15 @@ const PERSONAS = new Set([
   "agency", "team", "enterprise", "nonprofit", "educator", "researcher", "engineer",
 ]);
 const WEEKDAYS = new Set(["mon", "tue", "wed", "thu", "fri", "sat", "sun"]);
+// GENERATION.md section 8: phrases that signal filler.
+const BANNED = [
+  "journey", "holistic", "unlock", "leverage", "empower", "embark", "seamless",
+  "game-changer", "next level", "dive into", "deep dive", "supercharge", "take control",
+  "stay on top of", "in today's world", "it's important to", "optimize your",
+  "transform your", "robust", "synergy",
+];
+const BANNED_RE = new RegExp(`\\b(${BANNED.map((b) => b.replace(/[-']/g, (c) => "\\" + c)).join("|")})\\b`, "i");
+const INSTALL_SENTENCE = "Installing adds all 50 projects as active, so archive the ones that are not for you yet.";
 
 /** store/tasks.rs::validate_recurrence_pattern, verbatim in effect. */
 function validRecurrence(p) {
@@ -222,6 +231,11 @@ function validateLibraryFile(rel, pillarId, areaId, fm, bytes, text, body) {
     if (new Set(fm.tags).size !== fm.tags.length) err(rel, "duplicate tags");
   }
   if (!body.replace(/^\s+/, "").startsWith(`# ${area.name}\n`)) err(rel, `body must start with '# ${area.name}'`);
+  if (!body.includes(INSTALL_SENTENCE)) err(rel, "body must include the fixed install sentence (GENERATION.md section 7)");
+  {
+    const hit = BANNED_RE.exec(text);
+    if (hit) err(rel, `uses the banned filler phrase '${hit[1]}'`);
+  }
 
   const ss = fm.starter_structure;
   if (!isPlainObject(ss)) return err(rel, "starter_structure missing");
@@ -268,6 +282,7 @@ function validateLibraryFile(rel, pillarId, areaId, fm, bytes, text, body) {
   const referenced = new Set();
   let recurring = 0, daily = 0, high = 0, deadlines = 0, learning = 0;
   const modes = new Map();
+  const openings = new Map();
   for (const [i, pr] of projects.entries()) {
     const w = `${rel} project ${i + 1} '${pr?.name}'`;
     if (!isPlainObject(pr)) { err(w, "not a mapping"); continue; }
@@ -305,6 +320,12 @@ function validateLibraryFile(rel, pillarId, areaId, fm, bytes, text, body) {
     }
 
     validateDescription(w, pr.description, referenced);
+    if (typeof pr.description === "string") {
+      const purpose = pr.description.split("\n")[1] ?? "";
+      if (/^this project\b/i.test(purpose)) err(w, "Purpose must not start with 'This project'");
+      const first = purpose.split(/\s+/)[0]?.toLowerCase();
+      if (first) openings.set(first, (openings.get(first) ?? 0) + 1);
+    }
 
     const tasks = pr.tasks;
     if (!Array.isArray(tasks) || tasks.length < 3 || tasks.length > 6) { err(w, "tasks must list 3 to 6 entries"); continue; }
@@ -328,7 +349,8 @@ function validateLibraryFile(rel, pillarId, areaId, fm, bytes, text, body) {
   if (high > 15) err(rel, `${high} high-priority projects; at most 15`);
   if (deadlines > 20) err(rel, `${deadlines} projects carry deadlineOffsetDays; at most 20`);
   if (learning > 12) warn(rel, `${learning} projects use mode: learning (each appears in the Learning hub)`);
-  if (modes.size < 3) warn(rel, `projects use only ${modes.size} modes; vary them`);
+  if (modes.size < 3) err(rel, `projects use only ${modes.size} modes; use at least 3`);
+  for (const [word, n] of openings) if (n > 3) err(rel, `${n} Purposes open with '${word}'; at most 3 may share an opening word`);
   for (const id of referenced) if (!listed.has(id)) err(rel, `a project names the '${TEMPLATE_BY_ID.get(id).name}' template but starter_structure.templates does not list '${id}'`);
   for (const id of listed) if (!referenced.has(id)) err(rel, `starter_structure.templates lists '${id}' but no project mentions it`);
 }
