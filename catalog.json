@@ -129,6 +129,62 @@
         "totalTasks": 186
       },
       "contentHash": "sha256:26e2fa91dee7502fac16bf4afeeb25ef191fbc29e975909707ae8275272c88fc"
+    },
+    {
+      "id": "physical-health.cancer-screening-schedule",
+      "name": "Cancer Screening Schedule",
+      "description": "Every cancer screening you are due for on one calendar, invitations answered and kits returned on time, results chased, and the follow-up tests and higher-risk schedules handled calmly.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "cancer-screening-schedule",
+        "everyone",
+        "screening",
+        "bowel-screening",
+        "breast-screening",
+        "cervical-screening",
+        "prostate"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/cancer-screening-schedule.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:7f11075056e03d9b86fdb37233ca1e5691946bd6cc30b61f52ad3a628a6ac6f1"
+    },
+    {
+      "id": "sales-revenue.cold-email-prospecting-sequences",
+      "name": "Cold Email Prospecting",
+      "description": "Sending domains that stay out of spam, prospect lists you can trust, short emails that earn replies, and the weekly routines that turn cold outreach into booked meetings.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "cold-email-prospecting-sequences",
+        "small-business",
+        "founder",
+        "team",
+        "outbound",
+        "deliverability",
+        "copywriting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/cold-email-prospecting-sequences.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:1e9d423a9de61189d9afe74eef0f565b655c006c084ad3dd0eec1775a3cee8e1"
     }
   ]
 }
