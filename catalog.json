@@ -74,6 +74,61 @@
         "totalAreas": 9,
         "totalProjects": 7
       }
+    },
+    {
+      "id": "physical-health.annual-health-check-ups",
+      "name": "Annual Health Check-Ups",
+      "description": "A yearly check-up routine you actually keep: a registered practice, a written baseline, a booked appointment every year and a follow-up for every result.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "annual-health-check-ups",
+        "everyone",
+        "check-ups",
+        "blood-tests",
+        "baseline",
+        "prevention"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/annual-health-check-ups.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:69c906c304a570e32e76c449c24b3bff70d2a6b8e00a7a59f8e2e43f1881c557"
+    },
+    {
+      "id": "physical-health.blood-pressure-management",
+      "name": "Blood Pressure Management",
+      "description": "Home readings you can trust, a target agreed with your clinician, medicine routines and reviews, and the salt and lifestyle changes that bring the numbers down.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "blood-pressure-management",
+        "everyone",
+        "retiree",
+        "hypertension",
+        "home-monitoring",
+        "salt",
+        "medication"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/blood-pressure-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 186
+      },
+      "contentHash": "sha256:26e2fa91dee7502fac16bf4afeeb25ef191fbc29e975909707ae8275272c88fc"
     }
   ]
 }

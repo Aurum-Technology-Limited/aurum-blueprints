@@ -324,3 +324,53 @@ The two pilot files are the reference for length: about 70 to 90 KB each, which 
 roughly 20,000 output tokens per area file. At 2,500 files the fan-out writes on the
 order of 50 million output tokens before retries; budget for a 10 to 15 percent retry
 rate on validator failures.
+
+## 11. Write a draft, render the file
+
+Do not hand-write the YAML. Write a JSON draft at `drafts/<pillarId>/<areaId>.json`
+(the folder is git-ignored) and render it:
+
+```bash
+node scripts/render-area.mjs drafts/<pillarId>/<areaId>.json
+npm run build:catalog && npm run validate
+```
+
+The renderer copies the pillar and area blocks from the taxonomy, applies every
+indentation and quoting rule in section 2, and appends the fixed install sentence to
+the second body paragraph. It also prints the targets the validator cannot enforce
+(15 to 25 recurring tasks, 8 to 12 high, 8 to 15 deadlines); fix anything it lists as
+off target before you hand back. Draft shape:
+
+```json
+{
+  "pillarId": "physical-health",
+  "areaId": "blood-pressure-management",
+  "description": "One sentence, 40 to 240 chars.",
+  "tags": ["persona-or-topic", "slugs-beyond-the-pillar-and-area-ids"],
+  "templates": ["purchase-decision"],
+  "automationRules": [],
+  "body": ["Paragraph 1.", "Paragraph 2, without the install sentence."],
+  "projects": [
+    {
+      "name": "Choosing a validated home blood pressure monitor",
+      "purpose": "Two to four sentences.",
+      "milestones": ["A result, as a state.", "...", "..."],
+      "notes": "Optional. May include `Start from the **Purchase decision** template.`",
+      "priority": "high",
+      "deadlineOffsetDays": 21,
+      "mode": "research",
+      "output_kind": "decision",
+      "success_criteria": "One checkable sentence.",
+      "cadence": "one-shot",
+      "effort_hours_estimate": "2",
+      "tasks": ["Verb-first task", "Recurring task @recurring(monthly:6)"]
+    }
+  ]
+}
+```
+
+`templates`, `automationRules`, `notes`, `deadlineOffsetDays` and
+`effort_hours_estimate` are optional. The two pilots,
+`blueprints/physical-health/annual-health-check-ups.md` and
+`blueprints/physical-health/blood-pressure-management.md`, were written this way and
+are the reference for tone, length and balance.
