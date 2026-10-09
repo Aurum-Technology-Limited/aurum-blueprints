@@ -76,6 +76,1539 @@
       }
     },
     {
+      "id": "fitness-sport.5k-to-half-marathon-running",
+      "name": "5K to Half Marathon Running",
+      "description": "A safe start, shoes that fit, a walk-run route to your first 5K, then steady steps through 10K to a half marathon, with sensible weekly distance, honest pacing and race days that go to plan.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "5k-to-half-marathon-running",
+        "everyone",
+        "athlete",
+        "couch-to-5k",
+        "10k",
+        "half-marathon",
+        "pacing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/5k-to-half-marathon-running.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:2e51ac2b6b19eb125f18f710a2f5cd33213a9659f1125fb9d2a5b50b7c628705"
+    },
+    {
+      "id": "fitness-sport.adaptive-para-sport",
+      "name": "Adaptive & Para Sport",
+      "description": "Adaptive sport from first taster to national pathway: the right sport and club, classification, equipment and funding, skin, shoulder and heat routines, and the travel and support that get you to the start line.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "adaptive-para-sport",
+        "athlete",
+        "para-sport",
+        "classification",
+        "wheelchair-sport",
+        "adaptive-equipment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/adaptive-para-sport.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:226ec8e664644cf4b04cbe6454fa51dc839bb6b1ebe0753bced62cb89bbde039"
+    },
+    {
+      "id": "fitness-sport.amateur-football-soccer",
+      "name": "Amateur Football (Soccer)",
+      "description": "Finding a team at your level, boots for every surface, match fitness and skills, plus the captain's machinery of availability polls, subs, pitches, referees and match-day duties that keeps a Sunday side playing.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "amateur-football-soccer",
+        "athlete",
+        "team",
+        "sunday-league",
+        "captain",
+        "match-day",
+        "five-a-side"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/amateur-football-soccer.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:55d29572cc3db192e80b567ba7e04c6e45d7032375e550b8b97479d175240072"
+    },
+    {
+      "id": "fitness-sport.beginner-gym-strength-base",
+      "name": "Beginner Gym Strength Base",
+      "description": "A proven full-body programme, a gym you will use, safe technique on the main lifts and simple rules for adding weight, so complete beginners lift with confidence.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "beginner-gym-strength-base",
+        "everyone",
+        "beginner",
+        "strength-training",
+        "full-body",
+        "lifting-technique",
+        "gym-confidence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/beginner-gym-strength-base.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:3d7137994214e8e67adf02518790257c3beb47e33e92bb1ef4de5b583485958c"
+    },
+    {
+      "id": "fitness-sport.bodybuilding-hypertrophy",
+      "name": "Bodybuilding & Hypertrophy Training",
+      "description": "A split that fits your week, set counts and progression rules you can follow, honest photos and measurements, planned bulks and cuts, and for competitors a show prep, posing and peak week run with a coach.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "bodybuilding-hypertrophy",
+        "athlete",
+        "hypertrophy",
+        "progressive-overload",
+        "physique",
+        "contest-prep"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/bodybuilding-hypertrophy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:fbf31fc56d771af56df9f1937ef3bc82adf94e67cd8705c073014d8345e81ec2"
+    },
+    {
+      "id": "fitness-sport.bouldering-indoor-climbing",
+      "name": "Bouldering & Indoor Climbing",
+      "description": "From your first induction and pair of shoes to steady grade progress at the wall: footwork and movement skills, sensible finger training, skin and kit care, and sessions planned around the injuries climbers actually get.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "bouldering-indoor-climbing",
+        "athlete",
+        "everyone",
+        "bouldering",
+        "finger-strength",
+        "climbing-technique",
+        "grades"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/bouldering-indoor-climbing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:fa20c825eb80523282b3587075d791ca4c821fc0dbb12cf7a5acc804c032eed5"
+    },
+    {
+      "id": "fitness-sport.boxing-combat-conditioning",
+      "name": "Boxing & Combat Conditioning",
+      "description": "Combat training with a plan: the right gym and kit, a medical check, wraps and stance, roadwork, bag work and a round log, controlled sparring with head contact limits, and preparation for interclub days and amateur bouts.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "boxing-combat-conditioning",
+        "athlete",
+        "boxing",
+        "kickboxing",
+        "muay-thai",
+        "sparring",
+        "amateur-bouts"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/boxing-combat-conditioning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:68ae5f309c5bc3b3cdec06e321295b559945240b6fd0f10a7b5ad20b28782437"
+    },
+    {
+      "id": "fitness-sport.calisthenics-bodyweight-skills",
+      "name": "Calisthenics & Bodyweight Strength",
+      "description": "Step-by-step progressions from your first strict pull-up and wall handstand to muscle-ups, levers and planche work, with a simple bar setup, honest retests and joints that keep up.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "calisthenics-bodyweight-skills",
+        "athlete",
+        "everyone",
+        "pull-ups",
+        "handstands",
+        "muscle-ups",
+        "levers"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/calisthenics-bodyweight-skills.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:ce1f55c722ae1319137c540f1aad30bcdcd3af64e719c42438f7a2e03cded25b"
+    },
+    {
+      "id": "fitness-sport.club-cricket-season",
+      "name": "Club Cricket Season",
+      "description": "Club, bat, helmet and registration sorted, then the weekly machinery of selection, nets with a purpose, bowling workloads, rotas and fees, plus the skills and events that make a good club cricket season.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "club-cricket-season",
+        "athlete",
+        "team",
+        "captain",
+        "nets",
+        "batting",
+        "bowling"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/club-cricket-season.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:b1db443f97bf9c3ed98b7ca7ede065130b6b3a614675f4c997ea6d923f46a258"
+    },
+    {
+      "id": "fitness-sport.crossfit-functional-fitness",
+      "name": "CrossFit & Functional Fitness",
+      "description": "Class training that keeps improving: choosing a box, scaling movements honestly, logging benchmark workouts, building gymnastics and barbell skills, and preparing for the Open and local competitions.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "crossfit-functional-fitness",
+        "athlete",
+        "everyone",
+        "crossfit",
+        "benchmark-workouts",
+        "scaling",
+        "competition"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/crossfit-functional-fitness.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:127c0998b174cc83b27a20751ddb543f369b46b6450f3b69f3e18c8cc0b18579"
+    },
+    {
+      "id": "fitness-sport.dance-fitness-classes",
+      "name": "Dance Fitness Classes",
+      "description": "A style that suits you, classes close to home, kit that lets you turn, a booking and practice rhythm, the steps and counts that make routines click, and versions for families, older adults and shift workers.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "dance-fitness-classes",
+        "everyone",
+        "zumba",
+        "barre",
+        "street-dance",
+        "dance-cardio"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/dance-fitness-classes.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:6a5ca2364dac0b23fac98e6a0c29717878f1d244e69cf5964773550bf5b71ec1"
+    },
+    {
+      "id": "fitness-sport.fitness-testing-benchmarks",
+      "name": "Fitness Testing & Benchmarks",
+      "description": "A short battery of fitness tests with written protocols, fixed test-day conditions and a results register, retested at every block end so time trials, max lifts and VO2 estimates show real progress, not noise.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "fitness-testing-benchmarks",
+        "athlete",
+        "time-trials",
+        "one-rep-max",
+        "vo2-max",
+        "field-tests",
+        "test-protocols"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/fitness-testing-benchmarks.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 209
+      },
+      "contentHash": "sha256:79844cdeb12f1e796fe0341e1af4752d0e273a0a63d7c3e567136a49cc38a051"
+    },
+    {
+      "id": "fitness-sport.golf-handicap-improvement",
+      "name": "Golf Handicap Improvement",
+      "description": "A route to a lower golf handicap: an official index and stats baseline, weekly practice by scoring zone, short game skills, course management, competitions and plans for retirees and busy players.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "golf-handicap-improvement",
+        "athlete",
+        "retiree",
+        "golf",
+        "handicap",
+        "short-game",
+        "course-management"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/golf-handicap-improvement.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:16c1ef7e88dc10ca4222b2dea23afe75aae74aaa528b5dd34ffb84f0b78937ae"
+    },
+    {
+      "id": "fitness-sport.grassroots-team-coaching",
+      "name": "Grassroots Team Coaching",
+      "description": "Qualifications and safeguarding in order, a season planned in blocks, weekly sessions players enjoy, fair selection and minutes, calm parent communication, and the match days, tours and reports that keep a grassroots team running.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "grassroots-team-coaching",
+        "educator",
+        "team",
+        "junior-sport",
+        "session-planning",
+        "safeguarding",
+        "coaching-qualifications"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/grassroots-team-coaching.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:2a498d4502db0d4dd620150c8246636d6789fc91e209623f1660473ccefd8b5e"
+    },
+    {
+      "id": "fitness-sport.heart-rate-zone-training",
+      "name": "Heart Rate Zone Training",
+      "description": "Heart rate zones you can trust, from sensor choice and threshold test to one model on every device, with weekly intensity checks, monthly aerobic benchmarks and base blocks for running, cycling, swimming and rowing.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "heart-rate-zone-training",
+        "athlete",
+        "everyone",
+        "zone-2",
+        "aerobic-base",
+        "heart-rate-monitor",
+        "endurance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/heart-rate-zone-training.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:b8df720984ed34413834f85c0b8cf68d8f6071bc4782eaa1ba83547253c6a0f0"
+    },
+    {
+      "id": "fitness-sport.hiit-metabolic-conditioning",
+      "name": "HIIT & Metabolic Conditioning",
+      "description": "Intervals that keep paying off: a readiness check, a capped hard-day schedule, protocols matched to your goal, rep-by-rep logging, and blocks for fat loss, sport and work capacity.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "hiit-metabolic-conditioning",
+        "everyone",
+        "athlete",
+        "intervals",
+        "conditioning",
+        "fat-loss",
+        "work-capacity"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/hiit-metabolic-conditioning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:09334705785d28255b50f9e8cc1edd9a5c045e706545f6b69a4cd65c46dc83df"
+    },
+    {
+      "id": "fitness-sport.home-gym-setup",
+      "name": "Home Gym Setup",
+      "description": "A home or garage gym planned from a measured space, a safe floor and a phased budget, equipped one sound decision at a time, kept in working order, and programmed around the kit and minutes you really have.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "home-gym-setup",
+        "everyone",
+        "homeowner",
+        "garage-gym",
+        "equipment",
+        "training-at-home",
+        "small-space"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/home-gym-setup.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:30a925e858aa85a00fb79b279b0afdf7dc6ad012ca3b71fd0168a5b49b6da6a8"
+    },
+    {
+      "id": "fitness-sport.hyrox-fitness-racing",
+      "name": "Hyrox & Fitness Racing",
+      "description": "A first race and division chosen well, the standards learned, eight runs and eight stations trained week by week, splits that show your weakest link, and a route from first finish to Pro weights and qualification.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "hyrox-fitness-racing",
+        "athlete",
+        "hyrox",
+        "fitness-racing",
+        "compromised-running",
+        "sled-training",
+        "wall-balls"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/hyrox-fitness-racing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:dda5dc5cb2f3caf968c8ccadc312eca784f033942d730d54b3b93aaea5f52fa4"
+    },
+    {
+      "id": "fitness-sport.kettlebell-training",
+      "name": "Kettlebell Training",
+      "description": "The right bells and a safe space, coached swings, get-ups, cleans, presses and snatches, a programme with clear rules for moving up a bell, and the paths into doubles, kettlebell sport and instructing.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "kettlebell-training",
+        "everyone",
+        "athlete",
+        "kettlebells",
+        "swings",
+        "turkish-get-up",
+        "strength-conditioning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/kettlebell-training.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 188
+      },
+      "contentHash": "sha256:a87ccdfbda654ab37f71e03b1cc1bc8bdc3e25257dd8a40d8adc33cbd5a2c2b2"
+    },
+    {
+      "id": "fitness-sport.marathon-training-blocks",
+      "name": "Marathon Training Blocks",
+      "description": "A full marathon build laid out week by week: race and goal choice, long runs and key sessions, pacing skills, taper, race week and recovery, for first-timers and time chasers.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "marathon-training-blocks",
+        "athlete",
+        "everyone",
+        "marathon",
+        "long-runs",
+        "taper",
+        "race-pace"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/marathon-training-blocks.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:9f64f128a16d7a498584391302b94a2e3963316a93da13c9369de8901fb1d678"
+    },
+    {
+      "id": "fitness-sport.martial-arts-grading-path",
+      "name": "Martial Arts Grading Path",
+      "description": "A style and club chosen well, the full syllabus in hand, training logged against attendance minimums, gradings prepared week by week, and a route from first belt to black belt, competition and coaching.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "martial-arts-grading-path",
+        "athlete",
+        "everyone",
+        "karate",
+        "judo",
+        "taekwondo",
+        "jiu-jitsu"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/martial-arts-grading-path.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:e1b05ecdd18504c49aee71141180c3eb3222c70976bec6665d363feda4dc19f1"
+    },
+    {
+      "id": "fitness-sport.masters-athlete-training",
+      "name": "Masters Athlete Training (40+)",
+      "description": "Training adapted for athletes over 40: health checks first, year-round strength and power, longer recovery, age-graded goals, and age-group racing from a first masters event to world championships.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "masters-athlete-training",
+        "athlete",
+        "retiree",
+        "masters",
+        "age-group",
+        "strength",
+        "recovery"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/masters-athlete-training.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:104e7d20b14afd4ad3f5ed46594868bc6532b9d94b72d33a7b1a91ccd1989f9d"
+    },
+    {
+      "id": "fitness-sport.mobility-flexibility-work",
+      "name": "Mobility & Flexibility Work",
+      "description": "Measured range of motion, a daily ten-minute routine and targeted work for ankles, hips, upper back and shoulders, so you can squat deeper, reach overhead, run freely and get up off the floor with ease.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "mobility-flexibility-work",
+        "athlete",
+        "everyone",
+        "stretching",
+        "range-of-motion",
+        "splits",
+        "joint-prep"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/mobility-flexibility-work.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:c2f214a630b207fc036b1ee81ba50781d3f46e2da81ce996805d12def2fd9994"
+    },
+    {
+      "id": "fitness-sport.mountain-bike-riding",
+      "name": "Mountain Bike Riding & Racing",
+      "description": "The right bike set up properly, a repair kit and ride plan you trust, weekly rides and maintenance, coached skills from cornering to drops, and a route from your first bike park day to cross-country and enduro racing.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "mountain-bike-riding",
+        "athlete",
+        "mtb",
+        "trail-riding",
+        "enduro",
+        "cross-country",
+        "bike-maintenance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/mountain-bike-riding.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 209
+      },
+      "contentHash": "sha256:e01536b5febb036f65cbe3db4b1b906ddfe50062451ccbbd0d8941ed54a35d16"
+    },
+    {
+      "id": "fitness-sport.obstacle-course-racing",
+      "name": "Obstacle Course Racing",
+      "description": "Obstacle races finished on your own terms: the right first event, grip and pulling strength, off-road running, wall, rope and rig technique, burpee and carry capacity, and race weeks that run to plan.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "obstacle-course-racing",
+        "athlete",
+        "spartan",
+        "tough-mudder",
+        "grip-strength",
+        "trail-running",
+        "obstacles"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/obstacle-course-racing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 187
+      },
+      "contentHash": "sha256:452d8c223f077bc8f80c8e36adbe9e3a552f36642e080bc6779d47c9d2a938d2"
+    },
+    {
+      "id": "fitness-sport.olympic-weightlifting",
+      "name": "Olympic Weightlifting",
+      "description": "A coached route from first snatch lessons to club competition: a club and shoes, mobility, technique progressions, a lifting log, training blocks, attempt plans and a peak.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "olympic-weightlifting",
+        "athlete",
+        "snatch",
+        "clean-and-jerk",
+        "technique",
+        "competition"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/olympic-weightlifting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:6efcbee0eb369d85350567822941002261470890d0088636625d6edad1b54d68"
+    },
+    {
+      "id": "fitness-sport.open-water-swim-racing",
+      "name": "Open Water Swim Racing",
+      "description": "A first race and a supervised venue chosen, a wetsuit that fits, sighting, drafting and mass starts practised, cold water logged safely, and a route from a first 1500 m swim to 10 km marathons and channel crossings.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "open-water-swim-racing",
+        "athlete",
+        "open-water",
+        "wetsuit",
+        "sighting",
+        "cold-water",
+        "marathon-swimming"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/open-water-swim-racing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:90f73a9ac79662ae90ec2e9597be41ac05c0107af08cd4fcc7d2f0934edcb8d3"
+    },
+    {
+      "id": "fitness-sport.padel-squash-badminton",
+      "name": "Padel, Squash & Badminton",
+      "description": "Playing padel, squash and badminton better and more often: venue and kit choices, court bookings and partners, box leagues, core strokes and footwork, coaching and tournaments, for social and competitive players.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "padel-squash-badminton",
+        "athlete",
+        "everyone",
+        "padel",
+        "squash",
+        "badminton",
+        "racket-sports"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/padel-squash-badminton.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:378e03cfcc9e772134acda96e8b24fce3b8715a3adef47f3c33b606cb5efdb9e"
+    },
+    {
+      "id": "fitness-sport.pilates-core-strength",
+      "name": "Pilates & Core Strength",
+      "description": "A studio and instructor you trust, a measured core and posture baseline, a weekly mat and reformer rhythm, the fundamentals learned properly, and Pilates shaped for backs, runners, older adults and busy parents.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "pilates-core-strength",
+        "everyone",
+        "mat-pilates",
+        "reformer",
+        "core-strength",
+        "posture"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/pilates-core-strength.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:b1a7771d8130039c27392479b1a4255f903c55d8323212542cc4f7cc7016365c"
+    },
+    {
+      "id": "fitness-sport.pool-swimming-technique",
+      "name": "Pool Swimming Technique",
+      "description": "A pool and timetable that suit you, a timed and filmed baseline, weekly drill, endurance and threshold sets, every stroke and turn learned in order, and a route from adult beginner to masters galas.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "pool-swimming-technique",
+        "everyone",
+        "athlete",
+        "front-crawl",
+        "adult-learn-to-swim",
+        "masters-swimming",
+        "stroke-drills"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/pool-swimming-technique.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:541e82333821540876dbf6b2f925c379d8ca266de495b633949cf33af83b1f99"
+    },
+    {
+      "id": "fitness-sport.powerlifting-strength-programme",
+      "name": "Powerlifting Strength Programme",
+      "description": "A powerlifting system from federation choice and baseline maxes to periodised blocks, technique work on squat, bench and deadlift, attempt selection and meet day.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "powerlifting-strength-programme",
+        "athlete",
+        "powerlifting",
+        "squat",
+        "bench-press",
+        "deadlift",
+        "meet-preparation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/powerlifting-strength-programme.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6f8b5817d09dd82486370bd855250a72750cfdbcd307f8981defd2a44216d2e5"
+    },
+    {
+      "id": "fitness-sport.pregnancy-postnatal-exercise",
+      "name": "Pregnancy & Postnatal Exercise",
+      "description": "Activity through pregnancy agreed with your midwife, daily pelvic floor work, core restoration after birth and a graded, test-based return to running, lifting and sport.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "pregnancy-postnatal-exercise",
+        "parent",
+        "pregnancy",
+        "postnatal",
+        "pelvic-floor",
+        "core-restoration",
+        "return-to-running"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/pregnancy-postnatal-exercise.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:f87ba7190da6e103688ee42856a496cb5128de4982dad8d947cf56f2a28512e7"
+    },
+    {
+      "id": "fitness-sport.race-calendar-event-entries",
+      "name": "Race Calendar & Event Entries",
+      "description": "A season of races planned on purpose: an A race chosen first, priorities for every start, entry windows and ballots caught in time, fees and travel tracked, and a yearly review that shapes the next calendar.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "race-calendar-event-entries",
+        "athlete",
+        "race-calendar",
+        "event-entries",
+        "ballots",
+        "season-planning",
+        "race-travel"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/race-calendar-event-entries.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:307496c95b801361b1b5d0da1ded77ed408d28563aff7582e5e3a2e625dfefb2"
+    },
+    {
+      "id": "fitness-sport.race-day-fuelling-hydration",
+      "name": "Race Day Fuelling & Hydration",
+      "description": "A sweat rate, a gut that has been trained, products and carry kit chosen on evidence, and a one-page race plan rehearsed in long sessions until carbohydrate, fluid and electrolytes work on race day.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "race-day-fuelling-hydration",
+        "athlete",
+        "carbohydrate",
+        "hydration",
+        "electrolytes",
+        "gut-training",
+        "endurance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/race-day-fuelling-hydration.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:b25b5a151cda80ae92b6a5a7fa692be9a8cc0016f512abb2bf6162b52154e7eb"
+    },
+    {
+      "id": "fitness-sport.recreational-basketball",
+      "name": "Recreational Basketball",
+      "description": "Pick-up runs and league teams found, shoes and warm-ups sorted, a weekly shooting and conditioning rhythm with honest percentages, team admin handled, and a game that keeps improving into your forties.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "recreational-basketball",
+        "athlete",
+        "basketball",
+        "pick-up-basketball",
+        "shooting",
+        "adult-league",
+        "court-conditioning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/recreational-basketball.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 208
+      },
+      "contentHash": "sha256:b2e0d9f560757d18f5cf88549b6a12c632b7053ec79ea3067d0f606f50555faa"
+    },
+    {
+      "id": "fitness-sport.return-to-training-after-injury",
+      "name": "Return to Training After Injury",
+      "description": "A route back from a sports injury: a diagnosis and written rehab plan, daily exercises and an honest log, graded return stages agreed with your physio, test days, clearance and a first competition back.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "return-to-training-after-injury",
+        "athlete",
+        "rehab",
+        "physiotherapy",
+        "graded-return",
+        "reinjury"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/return-to-training-after-injury.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:93a906da70ef41743b62440bde7f655d73c5952133d739e688c6c86575a116b6"
+    },
+    {
+      "id": "fitness-sport.road-cycling-training",
+      "name": "Road Cycling Training",
+      "description": "Road cycling built on numbers: a proper bike fit, FTP and power zones, a weekly training structure, bike upkeep, group and descending skills, and preparation for sportives, time trials and first races.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "road-cycling-training",
+        "athlete",
+        "cycling",
+        "ftp",
+        "power-zones",
+        "sportive",
+        "bike-fit"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/road-cycling-training.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:d758d92994e2a5c64b45aed1158b2a47cd4799304ed1430d8f30c577617d5e6b"
+    },
+    {
+      "id": "fitness-sport.rowing-indoor-erg",
+      "name": "Rowing & Indoor Erg Training",
+      "description": "A club or erg start chosen well, the stroke and drag factor set up right, steady and interval weeks logged by split, and a route from a first 2,000 m test to regattas, head races, selection and coaching.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "rowing-indoor-erg",
+        "athlete",
+        "rowing",
+        "indoor-rowing",
+        "erg-testing",
+        "sculling",
+        "regatta"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/rowing-indoor-erg.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6370f6858fe691c135a836d5152736ab44e877d386c21f1b8482b04124d2af27"
+    },
+    {
+      "id": "fitness-sport.rugby-conditioning-play",
+      "name": "Rugby Conditioning & Play",
+      "description": "A club at your level, the right kit and a fitness baseline, then the strength, speed, neck and contact conditioning, tackle and breakdown skills, and season planning that keep a club or social rugby player fit to play.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "rugby-conditioning-play",
+        "athlete",
+        "team",
+        "club-rugby",
+        "contact-conditioning",
+        "sevens",
+        "breakdown"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/rugby-conditioning-play.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 191
+      },
+      "contentHash": "sha256:805413716d3fef83ddcd6eda5d01e96a30454d1cb2a371b0b19f514f526125c9"
+    },
+    {
+      "id": "fitness-sport.ski-snowboard-season-prep",
+      "name": "Ski & Snowboard Season Prep",
+      "description": "Ski legs built before the trip, boots and bindings fitted properly, lessons and passes booked in good time, and a clear route from first turns to carving, powder and the backcountry.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "ski-snowboard-season-prep",
+        "everyone",
+        "athlete",
+        "skiing",
+        "snowboarding",
+        "pre-season-conditioning",
+        "ski-trip"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/ski-snowboard-season-prep.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:13152f7cc5ce8a0f3fb1c70a8940557a52c0c4c7bc9f187f7c4a08de71c4e297"
+    },
+    {
+      "id": "fitness-sport.sports-injury-prevention",
+      "name": "Sports Injury Prevention",
+      "description": "Warm-ups that actually protect, a training load you measure and cap, strength work aimed at your sport's weak links, and written rules for acting on niggles before they turn into injuries.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "sports-injury-prevention",
+        "athlete",
+        "injury-prevention",
+        "load-management",
+        "warm-up",
+        "prehab",
+        "strength-training"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/sports-injury-prevention.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b440a00532118f75b70cdfae6ebcd59104d264cd5aae4d0509042f4829c01c3f"
+    },
+    {
+      "id": "fitness-sport.surfing-progression",
+      "name": "Surfing Progression",
+      "description": "Lessons and ocean safety first, then a session log, forecast and paddle fitness routines, the skills from green waves to turns, board choices, surf trips and contests, and the specialist work of bigger waves and barrels.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "surfing-progression",
+        "athlete",
+        "surfing",
+        "wave-reading",
+        "paddle-fitness",
+        "surfboards",
+        "ocean-safety"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/surfing-progression.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9aef6e5e0e5800449e6b83b99d91726a65c14075682432a18d804d81e0c5bfeb"
+    },
+    {
+      "id": "fitness-sport.tennis-match-play",
+      "name": "Tennis Match Play",
+      "description": "Tennis that improves on purpose: an honest rating, the right racket, strings and shoes, weekly lessons and drills, a match log, stroke and doubles skills, and preparation for leagues, club championships and tournaments.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "tennis-match-play",
+        "athlete",
+        "everyone",
+        "racket-sport",
+        "doubles",
+        "league",
+        "tournament"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/tennis-match-play.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:d0c97fe0b365a409a2ebc0e0f93452977bb53611d80f18192a961c620b884bc3"
+    },
+    {
+      "id": "fitness-sport.track-sprinting-athletics",
+      "name": "Track Sprinting & Athletics",
+      "description": "A route through sprints, hurdles, jumps and throws: a club and coach, spikes and baseline tests, a weekly training system, technique skills, competitions and the specialist work of peaking and qualifying.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "track-sprinting-athletics",
+        "athlete",
+        "student",
+        "sprints",
+        "hurdles",
+        "jumps",
+        "throws"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/track-sprinting-athletics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:38bf86ad051f6a6c40fe0c2f42fe4d779e72a90bb6b221fc724984a44b71d5ef"
+    },
+    {
+      "id": "fitness-sport.trail-ultra-running",
+      "name": "Trail & Ultra Running",
+      "description": "A goal race chosen well, kit that passes the check, long runs and climbing built week by week, the navigation and safety skills hills demand, and a route from first trail race to 100 miles.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "trail-ultra-running",
+        "athlete",
+        "ultramarathon",
+        "mountain-running",
+        "vertical-gain",
+        "navigation",
+        "trail-kit"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/trail-ultra-running.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:ce861749793a32ba75314c0bdfd6c68302db2a723238802548550aed09e94f92"
+    },
+    {
+      "id": "fitness-sport.training-log-performance-metrics",
+      "name": "Training Log & Performance Metrics",
+      "description": "An honest training log with fixed fields and a two-minute entry habit, weekly and monthly summaries, effort and load numbers you understand, and block reviews that turn months of sessions into decisions.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "training-log-performance-metrics",
+        "athlete",
+        "everyone",
+        "training-diary",
+        "session-rpe",
+        "training-load",
+        "progress-tracking"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/training-log-performance-metrics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:7cf9da6bc217170d3d448142235db1845e4f251a99c6e659c98796739477ddb7"
+    },
+    {
+      "id": "fitness-sport.training-recovery-deloads",
+      "name": "Training Recovery & Deloads",
+      "description": "Deload weeks planned by rule, rest days that stay rest days, sleep and readiness tracked honestly, and the recovery routines that turn hard training into progress instead of fatigue.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "training-recovery-deloads",
+        "athlete",
+        "deload",
+        "recovery",
+        "sleep",
+        "rest-days",
+        "fatigue-management"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/training-recovery-deloads.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:62563b32e89ef0d34f17216ad8e11a257ee124b83e51efc9ee4160ded71c5f2d"
+    },
+    {
+      "id": "fitness-sport.triathlon-training",
+      "name": "Triathlon Training",
+      "description": "A swim, bike and run build from choosing a first race and baseline tests to bricks, transitions, aero riding, race morning and middle or full distance blocks.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "triathlon-training",
+        "athlete",
+        "swim-bike-run",
+        "brick-sessions",
+        "transitions",
+        "multisport",
+        "endurance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/triathlon-training.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:26f96fdff43debd3b781b496e27a52573131fd89cba2d181ef1990e85f07a20f"
+    },
+    {
+      "id": "fitness-sport.yoga-practice-progression",
+      "name": "Yoga Practice Progression",
+      "description": "A yoga practice that actually happens: the right first style, studio and props, three fixed sessions a week, poses advanced with a teacher's eye, and a route from sun salutations to inversions.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "yoga-practice-progression",
+        "everyone",
+        "vinyasa",
+        "yin",
+        "home-practice",
+        "studio-classes",
+        "inversions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/yoga-practice-progression.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:21d51fdbefda68f0f6766e38eb16c80762547e33f3bff311bdfc714a6df7703a"
+    },
+    {
+      "id": "fitness-sport.youth-sport-parent-duties",
+      "name": "Youth Sport Parent Duties",
+      "description": "The parent's side of a child's sport: choosing a club, forms and safeguarding, kit that fits, lift shares and fixture calendars, fees, tournament weekends, hard conversations and being the calm voice on the sideline.",
+      "category": "personal",
+      "tags": [
+        "fitness-sport",
+        "youth-sport-parent-duties",
+        "parent",
+        "junior-sport",
+        "kids-sport",
+        "lift-share",
+        "tournaments",
+        "safeguarding"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fitness-sport/youth-sport-parent-duties.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fitness & Sport"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:bf36c97a03ca86e4e8a8304e24adaf6a3e1546b3887051c86320a5c46548964e"
+    },
+    {
+      "id": "food-nutrition.batch-cooking-freezer-meals",
+      "name": "Batch Cooking & Freezer Meals",
+      "description": "A freezer you can see into, meals that survive freezing and reheating, a monthly cook day, a weekly pull plan, and stashes ready for a new baby, an operation or a hard week.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "batch-cooking-freezer-meals",
+        "parent",
+        "everyone",
+        "freezer",
+        "make-ahead",
+        "new-baby",
+        "meal-stash"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/batch-cooking-freezer-meals.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:4314c8de1c2f05d936aaae9ff3165488002e3bec0571e4f5270aeec92093016c"
+    },
+    {
+      "id": "food-nutrition.weekly-family-meal-planning",
+      "name": "Weekly Family Meal Planning",
+      "description": "A weekly planning slot that fits the household's real schedule, a dinner list everyone eats, leftovers and fallbacks built in, and plans that bend for shift work, school holidays, guests and two homes.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "weekly-family-meal-planning",
+        "parent",
+        "everyone",
+        "meal-plan",
+        "dinner-rotation",
+        "leftovers",
+        "family-schedule"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/weekly-family-meal-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:8484ec3d4df1c60a962a51e917b2913fbbff04ccafb4422b86bfd4df58943606"
+    },
+    {
+      "id": "physical-health.alcohol-reduction-for-health",
+      "name": "Alcohol Reduction for Health",
+      "description": "An honest drinking baseline, a safe goal agreed with your doctor, unit tracking and alcohol-free days, liver checks, and plans for the evenings, weekends and celebrations where drinking happens.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "alcohol-reduction-for-health",
+        "everyone",
+        "alcohol",
+        "units",
+        "alcohol-free-days",
+        "liver",
+        "moderation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/alcohol-reduction-for-health.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:8db5c39eb2a06475f9143fbe637b7ccb448bce330cd8a606bb5a77e417d223cb"
+    },
+    {
+      "id": "physical-health.allergy-hay-fever-management",
+      "name": "Allergy & Hay Fever Management",
+      "description": "A symptom diary, your pollen season and a clear diagnosis, then seasonal medicine routines, home allergen control, auto-injector readiness and plans for children at school and away.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "allergy-hay-fever-management",
+        "everyone",
+        "parent",
+        "hay-fever",
+        "pollen",
+        "anaphylaxis",
+        "food-allergy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/allergy-hay-fever-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:92505625125fb64fd1e5ccb9dbb8b52b100705656f3106c24c4aba3971672866"
+    },
+    {
+      "id": "physical-health.anaemia-iron-deficiency",
+      "name": "Anaemia & Iron Deficiency",
+      "description": "From unexplained tiredness to recovered blood levels: the right tests, a cause looked for, an iron or B12 plan you can stick to, and retests booked until the numbers hold.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "anaemia-iron-deficiency",
+        "everyone",
+        "iron-deficiency",
+        "ferritin",
+        "vitamin-b12",
+        "blood-tests"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/anaemia-iron-deficiency.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:8780558f09210a19758f97df0bce1b6704197a432682dc00f778119fd6f30cb1"
+    },
+    {
       "id": "physical-health.annual-health-check-ups",
       "name": "Annual Health Check-Ups",
       "description": "A yearly check-up routine you actually keep: a registered practice, a written baseline, a booked appointment every year and a follow-up for every result.",
@@ -101,6 +1634,90 @@
         "totalTasks": 194
       },
       "contentHash": "sha256:69c906c304a570e32e76c449c24b3bff70d2a6b8e00a7a59f8e2e43f1881c557"
+    },
+    {
+      "id": "physical-health.arthritis-joint-care",
+      "name": "Arthritis & Joint Care",
+      "description": "Joint protection, exercise that eases pain, safe medicine and monitoring routines, flare plans and well-prepared rheumatology appointments, for living with osteoarthritis or rheumatoid arthritis.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "arthritis-joint-care",
+        "retiree",
+        "everyone",
+        "osteoarthritis",
+        "rheumatoid-arthritis",
+        "joint-protection",
+        "rheumatology"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/arthritis-joint-care.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:7b2a1be0bd30b7ad9b179733ff9af9bce41526eacc93b5f45130ff653d39455d"
+    },
+    {
+      "id": "physical-health.asthma-copd-care",
+      "name": "Asthma & COPD Care",
+      "description": "A written action plan, inhalers used well and never run out, peak flow and symptom records your clinician can use, and plans for attacks, flare-ups, school and winter.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "asthma-copd-care",
+        "everyone",
+        "parent",
+        "asthma",
+        "copd",
+        "inhalers",
+        "peak-flow"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/asthma-copd-care.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 191
+      },
+      "contentHash": "sha256:f0b72eb8bc5da9a348a3aca622d75c929cca245c1d04377061cd7deacf39b472"
+    },
+    {
+      "id": "physical-health.autoimmune-condition-management",
+      "name": "Autoimmune Condition Management",
+      "description": "A written flare plan, safe routines for infusions, injections and monitoring bloods, organised specialist appointments and the decisions about treatment, work and family, for living with lupus, MS, Crohn's or another autoimmune condition.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "autoimmune-condition-management",
+        "everyone",
+        "lupus",
+        "multiple-sclerosis",
+        "crohns-disease",
+        "immunosuppression",
+        "biologics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/autoimmune-condition-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:526ec658297ca421ad1691c136932583953af9741886e0374bb15d87bbb8c2a0"
     },
     {
       "id": "physical-health.blood-pressure-management",
@@ -131,6 +1748,34 @@
       "contentHash": "sha256:26e2fa91dee7502fac16bf4afeeb25ef191fbc29e975909707ae8275272c88fc"
     },
     {
+      "id": "physical-health.bone-density-osteoporosis",
+      "name": "Bone Density & Osteoporosis",
+      "description": "A fracture risk estimate, a bone density scan and a treatment plan you understand, plus the medicine, calcium, strength, balance and falls routines that protect bones in later life.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "bone-density-osteoporosis",
+        "retiree",
+        "everyone",
+        "osteoporosis",
+        "fracture-risk",
+        "bone-scan",
+        "falls-prevention"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/bone-density-osteoporosis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:37ab4a1c122947719e93312bcb21d542e0285a5006970d2549096e7f8d08d40a"
+    },
+    {
       "id": "physical-health.cancer-screening-schedule",
       "name": "Cancer Screening Schedule",
       "description": "Every cancer screening you are due for on one calendar, invitations answered and kits returned on time, results chased, and the follow-up tests and higher-risk schedules handled calmly.",
@@ -157,6 +1802,1121 @@
         "totalTasks": 197
       },
       "contentHash": "sha256:7f11075056e03d9b86fdb37233ca1e5691946bd6cc30b61f52ad3a628a6ac6f1"
+    },
+    {
+      "id": "physical-health.cancer-treatment-survivorship",
+      "name": "Cancer Treatment & Survivorship",
+      "description": "A clear record of your diagnosis and team, a treatment calendar, side effect and safety routines, the big decisions prepared for, and a survivorship plan for the years after.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "cancer-treatment-survivorship",
+        "everyone",
+        "oncology",
+        "chemotherapy",
+        "radiotherapy",
+        "survivorship",
+        "carers"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/cancer-treatment-survivorship.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f83eb421d30818ecb2f3e61d9472fe97c06a9b442e68bc66e8b823cf0e658fc1"
+    },
+    {
+      "id": "physical-health.cardiac-rehabilitation",
+      "name": "Cardiac Rehabilitation",
+      "description": "A rehab place secured and finished, heart medicines kept on track, graded activity you trust again, and a plan for driving, work, mood and the risk factors that follow a heart attack, stent or heart surgery.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "cardiac-rehabilitation",
+        "everyone",
+        "retiree",
+        "heart-attack",
+        "heart-surgery",
+        "secondary-prevention",
+        "graded-exercise"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/cardiac-rehabilitation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:374a80fe4160989deeb6074c076d9ac01b75ff0bcd73bfe4e5190768c4826fa4"
+    },
+    {
+      "id": "physical-health.cholesterol-heart-health",
+      "name": "Cholesterol & Heart Health",
+      "description": "Your lipid results in one place, a risk score and target agreed with your clinician, statin decisions made on honest numbers, and the food routines that bring cholesterol down.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "cholesterol-heart-health",
+        "everyone",
+        "retiree",
+        "statins",
+        "lipid-tests",
+        "cardiovascular-risk",
+        "diet"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/cholesterol-heart-health.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:39da1421e37217899e118c9d25ac22ec84c60df5508aa1aace1d5f891e041c95"
+    },
+    {
+      "id": "physical-health.chronic-back-neck-pain",
+      "name": "Chronic Back & Neck Pain",
+      "description": "A pain history and diary your clinician can use, a written flare-up plan, a daily exercise prescription you actually keep, and paced, confident steps back to the work and activities pain has taken.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "chronic-back-neck-pain",
+        "everyone",
+        "knowledge-worker",
+        "low-back-pain",
+        "neck-pain",
+        "pacing",
+        "flare-ups"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/chronic-back-neck-pain.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9c4cbc59e372734988123124a2e9529836982d055c9f3584c77e9d99e0383803"
+    },
+    {
+      "id": "physical-health.chronic-fatigue-long-covid",
+      "name": "Chronic Fatigue & Long Covid",
+      "description": "Pacing that prevents crashes, a symptom diary your clinician can use, specialist appointments prepared for, and careful, agreed steps up in activity for ME, chronic fatigue syndrome and long covid.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "chronic-fatigue-long-covid",
+        "everyone",
+        "me-cfs",
+        "long-covid",
+        "pacing",
+        "post-exertional-malaise"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/chronic-fatigue-long-covid.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 212
+      },
+      "contentHash": "sha256:0661231d83e2c84197a7024d8881056863d54813a08a392b79e4c7c39b741e28"
+    },
+    {
+      "id": "physical-health.clinical-weight-management",
+      "name": "Clinical Weight Management",
+      "description": "Trustworthy measurements, prepared appointments, weight medication and bariatric surgery routes weighed with your clinicians, and the follow-up routines that keep metabolic risk falling.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "clinical-weight-management",
+        "everyone",
+        "obesity",
+        "weight-medication",
+        "bariatric-surgery",
+        "metabolic-risk"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/clinical-weight-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 184
+      },
+      "contentHash": "sha256:c248363345787f2ccecaf787a8254b94d7b4d734c8573d2d5b7b9fd780987d65"
+    },
+    {
+      "id": "physical-health.dental-oral-health",
+      "name": "Dental & Oral Health",
+      "description": "A dentist you trust, recall dates for the whole household, daily brushing and cleaning between teeth that sticks, and clear decisions on fillings, braces, implants and gum treatment.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "dental-oral-health",
+        "everyone",
+        "parent",
+        "dentist",
+        "gum-health",
+        "orthodontics",
+        "children"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/dental-oral-health.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:b383c86dc5c1131dea4d2a355a29b7a34d530c2f29e95197aa8ad2ef8c7c694c"
+    },
+    {
+      "id": "physical-health.desk-posture-ergonomics",
+      "name": "Desk Posture & Ergonomics",
+      "description": "A desk that fits your body: measured chair, screen and keyboard set-up, break and eye-rest routines, equipment trials, and plans for hot desks, small homes and crunch weeks.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "desk-posture-ergonomics",
+        "knowledge-worker",
+        "engineer",
+        "ergonomics",
+        "repetitive-strain",
+        "eye-strain",
+        "home-office"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/desk-posture-ergonomics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9a3c83dfc93a4b155400b93d9d25796766f7ee891baa94451a63f50ff9bda077"
+    },
+    {
+      "id": "physical-health.eczema-psoriasis-care",
+      "name": "Eczema & Psoriasis Care",
+      "description": "A written treatment plan, moisturising and cream routines that actually get followed, trigger and flare records, and well-prepared dermatology visits for eczema, psoriasis and rosacea at any age.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "eczema-psoriasis-care",
+        "everyone",
+        "parent",
+        "eczema",
+        "psoriasis",
+        "rosacea",
+        "skin-care"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/eczema-psoriasis-care.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:9db5fd920bb1e1d12e2eabc0d9a7ca01fc2e34611191071f190ddf6bee88412e"
+    },
+    {
+      "id": "physical-health.everyday-walking-for-health",
+      "name": "Everyday Walking for Health",
+      "description": "Daily steps and short walks built into ordinary life: a baseline and realistic target, routes from your door, routines that survive bad weather, and goals to walk towards.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "everyday-walking-for-health",
+        "everyone",
+        "retiree",
+        "walking",
+        "step-count",
+        "daily-activity"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/everyday-walking-for-health.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:abad22a75452f74d65b70f72650a9e1b7b47bb20be0e05241bf619d22415fa68"
+    },
+    {
+      "id": "physical-health.eye-health-vision-care",
+      "name": "Eye Health & Vision Care",
+      "description": "Eye tests kept on schedule, glasses and contact lenses handled well, urgent warning signs known, and glaucoma, cataract and macular care organised for screen workers and older adults.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "eye-health-vision-care",
+        "everyone",
+        "retiree",
+        "glaucoma",
+        "cataracts",
+        "contact-lenses",
+        "screen-work"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/eye-health-vision-care.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f4f60258f5d7f349dd237b8ae1ac56e701f3d41f76e9dce3e5b34510c8d3d81f"
+    },
+    {
+      "id": "physical-health.family-medical-history",
+      "name": "Family Medical History & Genetics",
+      "description": "A three-generation family health record, clear decisions about genetic counselling and testing, and the history shared with the clinicians and relatives who need it.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "family-medical-history",
+        "everyone",
+        "parent",
+        "genetics",
+        "family-tree",
+        "genetic-testing",
+        "genetic-counselling"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/family-medical-history.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5c5e82694f44770911cf72e1d917f66ef06f39f22c89b0c8a05ebe1f0ee96bbd"
+    },
+    {
+      "id": "physical-health.fertility-treatment-ivf",
+      "name": "Fertility Treatment & IVF",
+      "description": "Fertility tests, funding and clinic choice, cycle calendars and medicine logs, results and costs kept in one place, and the embryo, donor and stopping decisions made with care.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "fertility-treatment-ivf",
+        "everyone",
+        "ivf",
+        "iui",
+        "fertility-tests",
+        "treatment-costs",
+        "embryo-storage"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/fertility-treatment-ivf.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:67b74d2d47ebe2225ce47903788807b1a8690802614ae3f29345c98ff47d2f2d"
+    },
+    {
+      "id": "physical-health.foot-health-podiatry",
+      "name": "Foot Health & Podiatry",
+      "description": "A foot health baseline, a registered podiatrist, nail, skin and shoe routines, and plans for runners, older adults, diabetic feet and common problems from bunions to heel pain.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "foot-health-podiatry",
+        "everyone",
+        "athlete",
+        "retiree",
+        "podiatry",
+        "footwear",
+        "diabetic-foot"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/foot-health-podiatry.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:843f87c73dd15c138ca1da5ad076f10e9801586bd15f77074573e2d89b17fc25"
+    },
+    {
+      "id": "physical-health.gut-health-ibs",
+      "name": "Gut Health & IBS Management",
+      "description": "A symptom diary, a red flag card and the right first tests, then low FODMAP and fibre trials, reflux and toilet routines, gastroenterology visits, flare plans and the gut-brain skills that settle symptoms.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "gut-health-ibs",
+        "everyone",
+        "ibs",
+        "reflux",
+        "low-fodmap",
+        "inflammatory-bowel-disease",
+        "symptom-diary"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/gut-health-ibs.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:d5d44fd38b7d6dbc7efbbc8ccb6ed7c3f89360900f167c173f3a82a302409749"
+    },
+    {
+      "id": "physical-health.hearing-health-tinnitus",
+      "name": "Hearing Health & Tinnitus",
+      "description": "Hearing tests you understand, protection you actually wear, hearing aids chosen and cared for, and a calm, organised plan for tinnitus, for musicians, noisy jobs and anyone noticing a change.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "hearing-health-tinnitus",
+        "everyone",
+        "retiree",
+        "creative",
+        "tinnitus",
+        "hearing-aids",
+        "noise"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/hearing-health-tinnitus.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:97914c54178cc93fcd25b4ebda0738c47dfd03fe38081a1e7348ddb18b48a65f"
+    },
+    {
+      "id": "physical-health.home-first-aid-preparedness",
+      "name": "Home First Aid Preparedness",
+      "description": "A stocked and checked first aid kit, hands-on CPR and first aid skills, emergency medical details ready to hand over, and plans for children, older relatives and trips.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "home-first-aid-preparedness",
+        "everyone",
+        "parent",
+        "first-aid",
+        "cpr",
+        "emergency-planning",
+        "defibrillator"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/home-first-aid-preparedness.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:0733c5641d276cece7bc50a285937aeee12ff1fdd1e833590101ad6ec1d7b788"
+    },
+    {
+      "id": "physical-health.kidney-liver-health-monitoring",
+      "name": "Kidney & Liver Health Monitoring",
+      "description": "Abnormal kidney and liver results followed up properly, trends you can read, medicines checked for safety, and chronic kidney disease or fatty liver monitored on a schedule you own.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "kidney-liver-health-monitoring",
+        "everyone",
+        "retiree",
+        "chronic-kidney-disease",
+        "fatty-liver",
+        "egfr",
+        "liver-function"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/kidney-liver-health-monitoring.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:d13f7bf5f9ee7b71832133f933ea05b6365cea4c7dfe73a85b0e42a46dc4af77"
+    },
+    {
+      "id": "physical-health.living-with-physical-disability",
+      "name": "Living With Physical Disability",
+      "description": "An access needs profile, equipment that is serviced before it fails, skin and care routines that hold, and planned adaptations, so daily life with a physical disability runs on your terms.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "living-with-physical-disability",
+        "everyone",
+        "wheelchair-users",
+        "mobility-equipment",
+        "home-adaptations",
+        "pressure-care",
+        "personal-assistants"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/living-with-physical-disability.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:b40327a1d7c85d5fe8b067f3473166d0cf30a1115687f520c7b5fb86adcaff06"
+    },
+    {
+      "id": "physical-health.medical-test-results-records",
+      "name": "Medical Test Results & Records",
+      "description": "One folder for every blood result, scan, letter and discharge summary, with trend tables, a one-page summary for new doctors and routines that chase what is missing.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "medical-test-results-records",
+        "everyone",
+        "test-results",
+        "medical-records",
+        "blood-tests",
+        "imaging",
+        "patient-portal"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/medical-test-results-records.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7c31a69df0e14e48b8c6d83370f36ae2a49382c0ae0680ac1e5207b09a80ed68"
+    },
+    {
+      "id": "physical-health.menopause-perimenopause-care",
+      "name": "Menopause & Perimenopause Care",
+      "description": "Symptom tracking, a well-prepared first appointment, HRT and non-hormonal decisions, bone and heart checks, and workplace adjustments for the perimenopause and menopause years.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "menopause-perimenopause-care",
+        "everyone",
+        "knowledge-worker",
+        "perimenopause",
+        "hrt",
+        "workplace-adjustments"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/menopause-perimenopause-care.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0d318f84ea0a9e49ee427c3bf3a6a17ada93694072d52927d570706d976f3702"
+    },
+    {
+      "id": "physical-health.mens-health-prostate",
+      "name": "Men's Health & Prostate Care",
+      "description": "A men's health baseline, informed PSA decisions with a trend log, urinary symptom scores, testosterone testing done properly and the appointments men tend to put off, from midlife onwards.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "mens-health-prostate",
+        "everyone",
+        "retiree",
+        "prostate",
+        "psa",
+        "testosterone",
+        "urinary-symptoms"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/mens-health-prostate.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 183
+      },
+      "contentHash": "sha256:ee861b06479244e0792b48fb6923810b1666489976847e3ddb8be476cc0a36db"
+    },
+    {
+      "id": "physical-health.menstrual-health-endometriosis",
+      "name": "Menstrual Health & Endometriosis",
+      "description": "Cycle and symptom records clinicians can act on, a clear route to diagnosis for endometriosis or PCOS, and treatment routines and reviews for heavy or painful periods.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "menstrual-health-endometriosis",
+        "everyone",
+        "student",
+        "endometriosis",
+        "pcos",
+        "heavy-periods",
+        "cycle-tracking"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/menstrual-health-endometriosis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:40e4e110c8f2d083601384dba6fe56224097cddc69ba392b9cd4baf11e9c8772"
+    },
+    {
+      "id": "physical-health.migraine-headache-management",
+      "name": "Migraine & Headache Management",
+      "description": "A daily headache diary your clinician can read, a written attack plan, a monthly guard against painkiller overuse, and fair, one-at-a-time trials of triggers and preventive treatments.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "migraine-headache-management",
+        "everyone",
+        "migraine",
+        "headache-diary",
+        "triggers",
+        "preventive-treatment",
+        "attack-plan"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/migraine-headache-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:b7aff86a4fad530de7fc2c902a72bc4346bbadcb6f3ba254a8a75987ffaa3538"
+    },
+    {
+      "id": "physical-health.physiotherapy-rehab-plans",
+      "name": "Physiotherapy Rehab Plans",
+      "description": "A rehab programme you can follow: referral and first assessment, baseline measures and written goals, a daily home routine, honest progress checks and a planned return to work, sport and everyday life.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "physiotherapy-rehab-plans",
+        "everyone",
+        "athlete",
+        "rehabilitation",
+        "home-exercise",
+        "injury-recovery",
+        "return-to-sport"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/physiotherapy-rehab-plans.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:d13ac6eb33d2c20b71982feed0a0fa28e8fa121219a9fe1b4d4857fb7fcba2cb"
+    },
+    {
+      "id": "physical-health.prescription-medication-management",
+      "name": "Prescription Medication Management",
+      "description": "A complete medication list, refills that never run out, side effects written down, yearly pharmacist reviews and safe routines for anyone managing several prescriptions or someone else's.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "prescription-medication-management",
+        "everyone",
+        "retiree",
+        "carer",
+        "medication-list",
+        "repeat-prescriptions",
+        "pharmacist"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/prescription-medication-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:e2f5563c8548d3811a87536fd280df2b35148c3ec6b182e76a423dbe606c69c3"
+    },
+    {
+      "id": "physical-health.preventive-health-over-40",
+      "name": "Preventive Health Over 40",
+      "description": "A written midlife prevention plan: your risk factors listed, the checks due this decade booked, muscle and fitness measured and trained, and a yearly review that keeps the next forty years in view.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "preventive-health-over-40",
+        "everyone",
+        "midlife",
+        "prevention",
+        "strength-training",
+        "risk-factors"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/preventive-health-over-40.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 190
+      },
+      "contentHash": "sha256:0826fc07899d24b5f186dc2b3e6a44545bb7094be63ad99019bd0f111d759303"
+    },
+    {
+      "id": "physical-health.quitting-smoking-vaping",
+      "name": "Quitting Smoking & Vaping",
+      "description": "A quit date with a plan behind it: stop smoking support and medicine chosen with a professional, cravings and triggers mapped, the first weeks covered, and the routines that keep you smoke-free and vape-free for good.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "quitting-smoking-vaping",
+        "everyone",
+        "parent",
+        "smoking-cessation",
+        "vaping",
+        "nicotine-replacement",
+        "relapse-prevention"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/quitting-smoking-vaping.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:6b0c621936ab01a2ad140f160906059154ef22f531d02dca63cefa26a92fdd69"
+    },
+    {
+      "id": "physical-health.sexual-health-sti-testing",
+      "name": "Sexual Health & STI Testing",
+      "description": "Sexual health kept private and on schedule: a testing interval, emergency contraception and PEP plans, contraception refills, results followed up and partners told.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "sexual-health-sti-testing",
+        "everyone",
+        "student",
+        "sti-testing",
+        "contraception",
+        "prep",
+        "privacy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/sexual-health-sti-testing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 188
+      },
+      "contentHash": "sha256:76019ab8d6b5b4b31992309813f2d0ff7da5c94df1bca362930e4802bbee2f59"
+    },
+    {
+      "id": "physical-health.sleep-disorder-treatment",
+      "name": "Sleep Disorder Treatment",
+      "description": "From first symptoms to long-term care for sleep apnoea, chronic insomnia, restless legs and narcolepsy: diaries, sleep studies, CPAP routines, insomnia therapy and specialist follow-ups.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "sleep-disorder-treatment",
+        "everyone",
+        "sleep-apnoea",
+        "insomnia",
+        "cpap",
+        "restless-legs",
+        "narcolepsy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/sleep-disorder-treatment.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:4f1f8baf3f51406af5178414a2dcb56cb507a429ff0641d785a3b697d0511425"
+    },
+    {
+      "id": "physical-health.specialist-referrals-waiting-lists",
+      "name": "Specialist Referrals & Waiting Lists",
+      "description": "Referrals confirmed and tracked, a steady chase routine, symptoms logged while you wait, and clear decisions on moving hospital, paying privately or escalating a delay.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "specialist-referrals-waiting-lists",
+        "everyone",
+        "carer",
+        "referrals",
+        "waiting-lists",
+        "private-care",
+        "patient-advocacy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/specialist-referrals-waiting-lists.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:b293baacb22c2ac2569b4ec301a59e24009722e91958ebd33230d2cc0ef399a2"
+    },
+    {
+      "id": "physical-health.stroke-rehabilitation",
+      "name": "Stroke Rehabilitation",
+      "description": "A calm route through life after a stroke: discharge and therapy organised, home made safe, recovery measured, a second stroke guarded against, and carers supported too.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "stroke-rehabilitation",
+        "retiree",
+        "carer",
+        "aphasia",
+        "secondary-prevention",
+        "therapy",
+        "home-adaptations"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/stroke-rehabilitation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:7b5f8f1b985ea6bb9543424450f8f1f1ad9143f40c97647c6eaa857ea31e0146"
+    },
+    {
+      "id": "physical-health.sun-safety-mole-monitoring",
+      "name": "Sun Safety & Mole Monitoring",
+      "description": "Sun protection you will actually use, a photo record of your moles, monthly self-checks and the appointments that follow a change, for everyday life, outdoor sport and higher-risk skin.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "sun-safety-mole-monitoring",
+        "everyone",
+        "athlete",
+        "sunscreen",
+        "melanoma",
+        "mole-checks",
+        "skin-cancer"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/sun-safety-mole-monitoring.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:1a3385420cc406d0cb6b4ef2db77debb77ee5abb4a83ca85a2948a46c4af10bf"
+    },
+    {
+      "id": "physical-health.surgery-preparation",
+      "name": "Surgery Preparation & Aftercare",
+      "description": "Your operation planned on paper, pre-op checks and medicines sorted, home and helpers ready, then the wound, pain and walking routines that carry you safely through recovery.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "surgery-preparation",
+        "everyone",
+        "pre-op-assessment",
+        "recovery",
+        "wound-care",
+        "pain-relief",
+        "discharge"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/surgery-preparation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:361dc0e771874cb21c676ddeb26de005080dbe6f55d1200ee2f24a2ee7ce079f"
+    },
+    {
+      "id": "physical-health.thyroid-condition-management",
+      "name": "Thyroid Condition Management",
+      "description": "Thyroid results logged against a target agreed with your clinician, a steady tablet routine, retests after every dose change, and plans for treatment decisions, pregnancy and later life.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "thyroid-condition-management",
+        "everyone",
+        "hypothyroidism",
+        "hyperthyroidism",
+        "graves-disease",
+        "blood-tests",
+        "medication"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/thyroid-condition-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7d7bf8cbd6058e0e4e4c62a9c0debd143b1583452cfe6a66c9c34a13424548c9"
+    },
+    {
+      "id": "physical-health.travel-health-preparation",
+      "name": "Travel Health Preparation",
+      "description": "A travel clinic visit booked in time, malaria and bite plans, medicines and insurance sorted for the border, and the altitude, flight and return-home precautions that keep a trip from ending in a clinic abroad.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "travel-health-preparation",
+        "everyone",
+        "travel-vaccines",
+        "malaria",
+        "travel-insurance",
+        "altitude",
+        "long-haul-flights"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/travel-health-preparation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 208
+      },
+      "contentHash": "sha256:93196fd3911f9a4fd6be7ab9c7d52649c8149d6afcb5c63c9ec7fc557e82c36b"
+    },
+    {
+      "id": "physical-health.type-1-diabetes-management",
+      "name": "Type 1 Diabetes Management",
+      "description": "Hypo plans, glucagon and sick day rules first, then routines for supplies, sensors, pumps and clinic visits, the skills behind daily decisions, and plans for exams, sport, travel and pregnancy.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "type-1-diabetes-management",
+        "everyone",
+        "student",
+        "athlete",
+        "insulin-pump",
+        "cgm",
+        "hypoglycaemia"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/type-1-diabetes-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:ef09bfb4e7763f9c77174209fc44cb9f8d1b9012b4c97c1ace67e5b7205ef38d"
+    },
+    {
+      "id": "physical-health.type-2-diabetes-management",
+      "name": "Type 2 Diabetes Management",
+      "description": "A target agreed with your clinician, a steady rhythm of HbA1c tests, eye and foot checks, medicine routines, and the food and movement habits that bring the numbers down.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "type-2-diabetes-management",
+        "everyone",
+        "retiree",
+        "hba1c",
+        "prediabetes",
+        "glucose-monitoring",
+        "diabetic-foot-and-eye"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/type-2-diabetes-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:bc5f776c51cd3e10d9b9d3ef9042aa7eab5a1e348112025443cb753e0b271713"
+    },
+    {
+      "id": "physical-health.vaccination-schedule-tracking",
+      "name": "Vaccination Schedule Tracking",
+      "description": "One vaccination record for everyone in the household, the gaps found and booked, reminders that fire before doses fall due, and the flu, booster and life-stage rounds kept on time.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "vaccination-schedule-tracking",
+        "everyone",
+        "parent",
+        "immunisation",
+        "boosters",
+        "flu-vaccine",
+        "health-records"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/vaccination-schedule-tracking.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c558245624db7315324c650c66e5f170bdd557b09d0d96b6090d32534021e6be"
+    },
+    {
+      "id": "physical-health.wearable-health-data",
+      "name": "Wearable Health Data Tracking",
+      "description": "Smartwatch, scale, cuff and sensor readings you can trust: devices chosen and checked, one data hub, weekly and monthly trend reviews, and clear summaries worth showing your doctor.",
+      "category": "personal",
+      "tags": [
+        "physical-health",
+        "wearable-health-data",
+        "everyone",
+        "knowledge-worker",
+        "smartwatch",
+        "smart-scale",
+        "health-data",
+        "trends"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/physical-health/wearable-health-data.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Physical Health"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:43c64d84e36e3f2ba8126737bda2fa48ebe5e6d57a54f4f9fcb7f6595e6ffdb5"
     },
     {
       "id": "sales-revenue.cold-email-prospecting-sequences",
