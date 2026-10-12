@@ -239,7 +239,14 @@ function validateLibraryFile(rel, pillarId, areaId, fm, bytes, text, body) {
   if (!body.replace(/^\s+/, "").startsWith(`# ${area.name}\n`)) err(rel, `body must start with '# ${area.name}'`);
   if (!body.includes(INSTALL_SENTENCE)) err(rel, "body must include the fixed install sentence (GENERATION.md section 7)");
   {
-    const hit = BANNED_RE.exec(text);
+    // Strings copied verbatim from the taxonomy (area id, name and description,
+    // pillar description) cannot be reworded by a generator, so only the
+    // generated content is checked for filler.
+    let generated = text;
+    for (const fixed of [area.description, pillar.description, area.name, areaId]) {
+      if (fixed) generated = generated.split(fixed).join("");
+    }
+    const hit = BANNED_RE.exec(generated);
     if (hit) err(rel, `uses the banned filler phrase '${hit[1]}'`);
   }
 

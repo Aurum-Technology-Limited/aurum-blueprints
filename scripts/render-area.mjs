@@ -86,6 +86,8 @@ function render(draft, file) {
   out.push("          projects:");
   draft.projects.forEach((p, i) => {
     const where = `${file} project ${i + 1} (${p.name})`;
+    // Same rule as validate.mjs PROJECT_NAME_RE; names are written unquoted.
+    if (!/^[A-Za-z0-9][A-Za-z0-9 &'(),+.%-]{2,78}[A-Za-z0-9)%]$/.test(p.name)) fail(`${where}: name uses a character outside letters, digits, spaces and & ' ( ) , + . % - (or is too long)`);
     out.push(`            - name: ${p.name}`);
     out.push("              description: |-");
     out.push(block(descriptionLines(p, where), 16));

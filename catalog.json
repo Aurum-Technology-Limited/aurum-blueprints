@@ -1497,6 +1497,33 @@
       "contentHash": "sha256:7d1231ae2efca1f305285352a2167ff5697bc82f80e0f2389ff82ef86f67d4e6"
     },
     {
+      "id": "food-nutrition.barbecue-live-fire-cooking",
+      "name": "Barbecue & Live-Fire Cooking",
+      "description": "A grill chosen for how you cook, a safe set-up, two-zone fires and true thermometers, weekly grill nights and monthly low-and-slow cooks, then smokers, brisket, asado, embers and whole-animal spits.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "barbecue-live-fire-cooking",
+        "everyone",
+        "grilling",
+        "smoking",
+        "charcoal",
+        "live-fire"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/barbecue-live-fire-cooking.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:22502843c927f301fd4b72e86f06936a13bf2964b2c9324735a5ccc54a8d7c96"
+    },
+    {
       "id": "food-nutrition.batch-cooking-freezer-meals",
       "name": "Batch Cooking & Freezer Meals",
       "description": "A freezer you can see into, meals that survive freezing and reheating, a monthly cook day, a weekly pull plan, and stashes ready for a new baby, an operation or a hard week.",
@@ -1609,6 +1636,34 @@
       "contentHash": "sha256:f81889740c4b969cfe0c9e13da01b611ccd9f9f38f35df9066a7c86b4ee26e05"
     },
     {
+      "id": "food-nutrition.cocktail-mocktail-making",
+      "name": "Cocktail & Mocktail Making",
+      "description": "A home bar built from eight tools and five bottles, fresh citrus and syrup routines, the core techniques for sours, stirred drinks and alcohol-free serves, and batched drinks for parties, gifts and every kind of guest.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "cocktail-mocktail-making",
+        "everyone",
+        "home-bar",
+        "classic-cocktails",
+        "mocktails",
+        "low-alcohol",
+        "batching"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/cocktail-mocktail-making.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:37bf0fc90d322d073763e22c9bc26048a9dadfc4539129e30f443ab7ee250de4"
+    },
+    {
       "id": "food-nutrition.coeliac-gluten-free-eating",
       "name": "Coeliac & Gluten-Free Eating",
       "description": "A strictly gluten-free life that holds up: diagnosis sorted, a kitchen safe from crumbs, labels you can read fast, baking that works, and plans for eating out, travel, school and later life.",
@@ -1635,6 +1690,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:929b1a91457bb962aa11302abd6ac8cab092d644970b94a5d84de62beb919fa5"
+    },
+    {
+      "id": "food-nutrition.cooking-for-one",
+      "name": "Cooking for One",
+      "description": "Satisfying meals for one without the waste: small pans, a freezer of labelled single portions, recipes scaled down properly, a cook-once-eat-twice week, and versions for retirees and anyone newly living alone.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "cooking-for-one",
+        "everyone",
+        "retiree",
+        "single-portions",
+        "freezer-meals",
+        "leftovers",
+        "living-alone"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/cooking-for-one.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:c750952ff449dc78a24cc43752859a73ac303472d3d4751eab067032fdcc5292"
     },
     {
       "id": "food-nutrition.cooking-on-tight-food-budget",
@@ -1747,6 +1830,34 @@
       "contentHash": "sha256:2c27df71482378ff8e6a24083af301c99427b7faecb613bcbaa0994bc7beeec6"
     },
     {
+      "id": "food-nutrition.family-recipe-collection",
+      "name": "Family Recipe Collection",
+      "description": "An inventory of the dishes worth saving, cook-along sessions with the relatives who hold them, tested recipes with their stories, safe backups and a family cookbook to pass down.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "family-recipe-collection",
+        "everyone",
+        "parent",
+        "heritage-recipes",
+        "oral-history",
+        "recipe-archive",
+        "family-cookbook"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/family-recipe-collection.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:86ec5bfd974b48a7be572ded2e6415c56210c2533e4d443709b265650610b2f2"
+    },
+    {
       "id": "food-nutrition.feeding-fussy-eating-children",
       "name": "Feeding Fussy-Eating Children",
       "description": "A food diary and safe food list, low-pressure routines for new foods, calm mealtimes shared by every carer, and a clear route to a dietitian or feeding therapist when home strategies are not enough.",
@@ -1803,6 +1914,61 @@
       "contentHash": "sha256:17de3b9425c95f0b431491cdbc846f0d7afc62dab1fdf6c43452978310971dbf"
     },
     {
+      "id": "food-nutrition.food-allergy-safe-kitchen",
+      "name": "Food Allergy Safe Kitchen",
+      "description": "A household allergy register and action plan, label and recall routines, cross-contact rules and safe recipes, so one kitchen can feed everyone safely around nut, milk, egg and other allergies.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "food-allergy-safe-kitchen",
+        "parent",
+        "everyone",
+        "food-allergy",
+        "label-reading",
+        "cross-contact",
+        "anaphylaxis"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/food-allergy-safe-kitchen.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:452ae6ff1941ef090fd3c9af944c7900c2d3719f501d1cdef7e1f96776c495cf"
+    },
+    {
+      "id": "food-nutrition.food-hygiene-safe-storage",
+      "name": "Food Hygiene & Safe Storage",
+      "description": "A fridge you have measured, raw and ready-to-eat food kept apart, safe cooling, defrosting and reheating, cleaning routines that actually happen, and a plan for the day someone gets ill.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "food-hygiene-safe-storage",
+        "everyone",
+        "food-safety",
+        "fridge-temperature",
+        "cross-contamination",
+        "kitchen-cleaning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/food-hygiene-safe-storage.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 191
+      },
+      "contentHash": "sha256:471b2fce428ce42b76cecde97f292bb9d3e9efdbe2effd259915f4783af096a1"
+    },
+    {
       "id": "food-nutrition.grocery-shopping-pantry-stock",
       "name": "Grocery Shopping & Pantry Stock",
       "description": "A master staples list with minimum stock levels, a shared list and a fixed shopping day, online orders that arrive right, a grocery budget built from real receipts, and a pantry that shows at a glance what to buy.",
@@ -1828,6 +1994,34 @@
         "totalTasks": 205
       },
       "contentHash": "sha256:fc08bb62c5572b112b3cfc1160fa27c3203ad520d3316852f16089c0637f82d2"
+    },
+    {
+      "id": "food-nutrition.halal-kosher-kitchen",
+      "name": "Halal & Kosher Kitchen",
+      "description": "A kitchen run to the halal or kosher standard your household keeps: certified sourcing, label checks, meat and dairy separation, kashering, and festivals such as Passover and Eid al-Adha planned around the rules.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "halal-kosher-kitchen",
+        "everyone",
+        "halal",
+        "kosher",
+        "kashrut",
+        "certification",
+        "religious-dietary-law"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/halal-kosher-kitchen.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:e25182c935ded35fc203b2d7146d45178b558f59e1c3d93450f77045b437d00e"
     },
     {
       "id": "food-nutrition.high-protein-eating-for-training",
@@ -1858,6 +2052,61 @@
       "contentHash": "sha256:8dfc4376423a9630df36633ba073a073a8e67e5d06f24d60c5b1eed79b730795"
     },
     {
+      "id": "food-nutrition.holiday-feast-cooking",
+      "name": "Holiday Feast Cooking",
+      "description": "Festival dates, a core menu, quantities, a six-week countdown and a feast-day schedule, then the yearly routines, centrepiece skills and plans for each big feast so the day runs to time.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "holiday-feast-cooking",
+        "everyone",
+        "parent",
+        "festivals",
+        "feast-menus",
+        "countdown"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/holiday-feast-cooking.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:1d9aca29566258c87dfc9132da5c3b1efe71130e2af83306774550a076651bf8"
+    },
+    {
+      "id": "food-nutrition.homemade-pasta-pizza",
+      "name": "Homemade Pasta & Pizza",
+      "description": "The right flours, a stone or steel and a properly hot oven, a weekly pizza night and pasta session with a bake log, the rolling, shaping and stretching skills, and specialist work from wood-fired Neapolitan to extruded pasta.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "homemade-pasta-pizza",
+        "everyone",
+        "fresh-pasta",
+        "pizza-dough",
+        "pizza-oven",
+        "tomato-sauce",
+        "cold-fermentation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/homemade-pasta-pizza.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:72c756980606c44f09544520010cabb710a122bcf348934f574543a13a9cf924"
+    },
+    {
       "id": "food-nutrition.intermittent-fasting-schedule",
       "name": "Intermittent Fasting Schedule",
       "description": "A careful way to try fasting: a safety check with your doctor, baseline markers, a gentle first pattern, a daily log of hunger and energy, and regular reviews that decide whether to keep, change or stop.",
@@ -1884,6 +2133,89 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:98db17d29343b09e795fbcee114c8ea0fc35595628a013867a9cb093a6f24c1a"
+    },
+    {
+      "id": "food-nutrition.intuitive-eating-practice",
+      "name": "Intuitive Eating Practice",
+      "description": "A diet history and rules inventory, a personal hunger scale, daily check-ins, fear food work and the professional support to step off dieting for good, at your own pace.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "intuitive-eating-practice",
+        "everyone",
+        "hunger-cues",
+        "non-diet",
+        "food-freedom",
+        "body-image",
+        "mindful-eating"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/intuitive-eating-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:d16c0758ddec088b7d6dcd1870596c4bcdd46eb0ad68646db31696b40fbb12c7"
+    },
+    {
+      "id": "food-nutrition.keto-low-carb-eating",
+      "name": "Keto & Low-Carb Eating",
+      "description": "A careful low-carb set-up: a medical check, a chosen carb level, baseline tests, electrolytes and a keto flu plan, weekly menus and ketone logs, and regular reviews of how your body and blood results respond.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "keto-low-carb-eating",
+        "everyone",
+        "ketogenic",
+        "low-carb",
+        "ketones",
+        "electrolytes",
+        "net-carbs"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/keto-low-carb-eating.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:de6dad680a34aa1480fd5747eb2396a3117d9218761765d5ed1640065ab1166b"
+    },
+    {
+      "id": "food-nutrition.kitchen-equipment-layout",
+      "name": "Kitchen Equipment & Layout",
+      "description": "A kitchen set up around how your household really cooks: the right knives and pans, zones that save steps, appliances kept clean and serviced, and clear decisions on what to buy, repair or let go.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "kitchen-equipment-layout",
+        "homeowner",
+        "renter",
+        "cookware",
+        "appliances",
+        "kitchen-organisation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/kitchen-equipment-layout.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:e39ae5db8f5be3cf8d422c1e62ec64069e6be20067d78e1aa263f7f610185627"
     },
     {
       "id": "food-nutrition.kitchen-food-waste-reduction",
@@ -1938,6 +2270,62 @@
         "totalTasks": 201
       },
       "contentHash": "sha256:0c49a8b09f2c4a5a9cc86ac40c53eeafc436a9cbe7c4b4f810f031e47e70b554"
+    },
+    {
+      "id": "food-nutrition.learning-to-cook-from-scratch",
+      "name": "Learning to Cook From Scratch",
+      "description": "An honest takeaway audit, a starter kit and cupboard, ten target dinners, weekly cooking habits and the staple dishes that turn a ready-meal eater into someone with twenty reliable meals.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "learning-to-cook-from-scratch",
+        "everyone",
+        "student",
+        "beginner-cooking",
+        "repertoire",
+        "takeaway-swap",
+        "home-cooking"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/learning-to-cook-from-scratch.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ff1ae407ef668353a8fdb77ce94252d0a1854ef945ed57f2b872d427226a2429"
+    },
+    {
+      "id": "food-nutrition.low-fodmap-gut-friendly-diet",
+      "name": "Low-FODMAP & Gut-Friendly Diet",
+      "description": "A low-FODMAP trial done properly: checks with your doctor first, a short elimination, careful reintroduction challenges, and a broad personal diet that keeps your trigger foods in their place.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "low-fodmap-gut-friendly-diet",
+        "everyone",
+        "ibs",
+        "elimination-diet",
+        "reintroduction",
+        "symptom-diary",
+        "dietitian"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/low-fodmap-gut-friendly-diet.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:c008c7bd9e537cbd74dd8f6ca940d8644caa9335553a80a242de065d160782e7"
     },
     {
       "id": "food-nutrition.low-salt-heart-healthy-cooking",
@@ -1996,6 +2384,90 @@
       "contentHash": "sha256:6d8b48b57df78a0c527c99672d7c2df1cfd4705eebab551734a03ee615604d5c"
     },
     {
+      "id": "food-nutrition.meat-fish-butchery-prep",
+      "name": "Meat & Fish Butchery Prep",
+      "description": "Butchery tools and a raw prep station, a butcher and fishmonger you trust, and the skills to joint chickens, fillet whole fish, tie roasts and buy better cuts for less.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "meat-fish-butchery-prep",
+        "everyone",
+        "butchery",
+        "fishmonger",
+        "poultry",
+        "seafood",
+        "whole-animal"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/meat-fish-butchery-prep.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:194c96107edf046da11d14a9f089a88d6e8815a6ebae3f30babbc82ae052d975"
+    },
+    {
+      "id": "food-nutrition.mediterranean-diet-transition",
+      "name": "Mediterranean Diet Transition",
+      "description": "A baseline score, a twelve-week meal-by-meal plan, and the routines, cooking skills and swaps that move a household toward vegetables, legumes, fish and olive oil.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "mediterranean-diet-transition",
+        "everyone",
+        "retiree",
+        "olive-oil",
+        "legumes",
+        "fish",
+        "heart-health"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/mediterranean-diet-transition.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:9bbbb37eeb886539983f737c4e333a7034b574209d24aedaff65476fee2265cc"
+    },
+    {
+      "id": "food-nutrition.nutrition-for-older-adults",
+      "name": "Nutrition for Older Adults",
+      "description": "Eating to keep muscle, appetite, fluids and bones in good shape in later life: weight and screening checks, protein and fortified meals, softer textures, carer routines and plans for hospital stays and care.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "nutrition-for-older-adults",
+        "retiree",
+        "carer",
+        "healthy-ageing",
+        "protein",
+        "hydration",
+        "texture-modified"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/nutrition-for-older-adults.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:7dcbd8afad3c72cddb82e359efc42e29ff5ddb7b5114f1c4b3d4288e9e0e0bfb"
+    },
+    {
       "id": "food-nutrition.plant-based-vegan-eating",
       "name": "Plant-Based & Vegan Eating",
       "description": "A plant-based diet that is balanced, not just meat-free: a B12 and nutrient plan agreed with professionals, a staged switch, pulse and tofu skills, weekly routines, and versions for children, pregnancy, training and later life.",
@@ -2023,6 +2495,60 @@
       "contentHash": "sha256:14357a082fefafa906800f3e157d5aab2a9000ffcf7fab0a3cb99865d02f7130"
     },
     {
+      "id": "food-nutrition.pregnancy-breastfeeding-nutrition",
+      "name": "Pregnancy & Breastfeeding Nutrition",
+      "description": "Supplements and foods to avoid agreed with your midwife, steady meals and snacks through each trimester, freezer meals before the birth, and easy one-handed eating while breastfeeding.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "pregnancy-breastfeeding-nutrition",
+        "parent",
+        "pregnancy",
+        "breastfeeding",
+        "prenatal-nutrition",
+        "postnatal"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/pregnancy-breastfeeding-nutrition.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:4d799c0b9361ed32ef130ea91139ef1da6bbd51011c1efc805f37204e910b740"
+    },
+    {
+      "id": "food-nutrition.restaurant-wishlist-dining-out",
+      "name": "Restaurant Wishlist & Dining Out",
+      "description": "One restaurant wishlist, dish notes worth returning for, a dining budget and the booking habits that land good tables for ordinary nights and special occasions.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "restaurant-wishlist-dining-out",
+        "everyone",
+        "restaurants",
+        "dining-out",
+        "reservations",
+        "food-travel"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/restaurant-wishlist-dining-out.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:cb701a9110ee2a355edd40e795fb90650651614dda6104234042e6139125fd9a"
+    },
+    {
       "id": "food-nutrition.school-packed-lunches",
       "name": "School Packed Lunches",
       "description": "Packed lunches children actually eat: the school's rules, the right kit, a balanced formula, a weekly plan, prep and night-before packing, plus versions for allergies, two households, teenagers and new starters.",
@@ -2048,6 +2574,201 @@
         "totalTasks": 202
       },
       "contentHash": "sha256:b9ad1814276c195d9fc81416822ab9b62461e0df191986e29b2710eea4034e65"
+    },
+    {
+      "id": "food-nutrition.seasonal-produce-cooking",
+      "name": "Cooking With Seasonal Produce",
+      "description": "A local seasonal calendar and sources, veg box and market routines with weekly plans, cooking skills for each season, buying decisions, harvest events and a cookbook of your own seasonal year.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "seasonal-produce-cooking",
+        "everyone",
+        "seasonal-eating",
+        "farmers-market",
+        "veg-box",
+        "local-produce"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/seasonal-produce-cooking.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:00af21b5f0f42c6479405224594a48cc829ee7d24ed694325983d2d7bc6aeb09"
+    },
+    {
+      "id": "food-nutrition.shared-family-mealtimes",
+      "name": "Shared Family Mealtimes",
+      "description": "Regular shared meals the whole household turns up for: protected meal slots, a phone-free table, real conversation, and children who help cook, serve and clear.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "shared-family-mealtimes",
+        "parent",
+        "family-dinner",
+        "phone-free",
+        "conversation",
+        "kids-cooking",
+        "rituals"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/shared-family-mealtimes.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4679ee5eec59668332896a5c3b230c85a9c72eb788016b09e6e0bbcabee37838"
+    },
+    {
+      "id": "food-nutrition.specialty-coffee-brewing",
+      "name": "Specialty Coffee Brewing",
+      "description": "A grinder, scale and water you can trust, a written recipe and brew log, cleaning and reorder routines, the extraction, espresso and milk skills, and the specialist work of water recipes, refractometers and home roasting.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "specialty-coffee-brewing",
+        "everyone",
+        "espresso",
+        "pour-over",
+        "grinder",
+        "home-barista",
+        "tasting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/specialty-coffee-brewing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f1d9c2f71f9b380442bbef0f2bbe692c2176710afab54249d16b92624e6b89ab"
+    },
+    {
+      "id": "food-nutrition.spice-flavour-building",
+      "name": "Spice & Flavour Building",
+      "description": "A spice collection that is fresh, labelled and easy to reach, a working grasp of salt, acid, umami, heat and herbs, and the habits and blends that make food taste balanced every time.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "spice-flavour-building",
+        "everyone",
+        "parent",
+        "student",
+        "spices",
+        "herbs",
+        "seasoning",
+        "umami"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/spice-flavour-building.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:e18b74de2b4ad5a87f283e3e9258fc7707f7e40a3d7c77ac84e444a5cde9739a"
+    },
+    {
+      "id": "food-nutrition.student-kitchen-cooking",
+      "name": "Student Kitchen Cooking",
+      "description": "A shared kitchen that works for you: a move-in record, a labelled shelf, a one-crate kit, fast one-pan dinners, rotas and fridge etiquette, and plans for exams, house moves and life after halls.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "student-kitchen-cooking",
+        "student",
+        "renter",
+        "shared-kitchen",
+        "halls",
+        "fridge-etiquette"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/student-kitchen-cooking.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:72cac43ad98224b87c5d2add00fec9eaeda11a38dc3450c4da31dcc232407605"
+    },
+    {
+      "id": "food-nutrition.sugar-ultra-processed-reduction",
+      "name": "Sugar & Ultra-Processed Food Reduction",
+      "description": "Less added sugar and fewer ultra-processed foods at home: a diary baseline, label-reading skills, weekly snack and sauce batches, family swaps, and plans for parties, teenagers, grandparents and festival sweets.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "sugar-ultra-processed-reduction",
+        "everyone",
+        "parent",
+        "added-sugar",
+        "ultra-processed-food",
+        "label-reading",
+        "food-swaps"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/sugar-ultra-processed-reduction.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:1cd8ee48cb3c32367080f893c7aee26a1d96164b91d82cfe7b4dc0defa181235"
+    },
+    {
+      "id": "food-nutrition.vitamins-supplements-review",
+      "name": "Vitamins & Supplements Review",
+      "description": "A checked inventory of everything you take, the pharmacist questions and blood tests that decide what stays, and the routines, quality checks and yearly reviews that keep every supplement earning its place.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "vitamins-supplements-review",
+        "everyone",
+        "supplements",
+        "vitamins",
+        "blood-tests",
+        "interactions",
+        "evidence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/vitamins-supplements-review.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:51ffbedd08cbca5f03657c10d9f83bbbaa7b0b271be800b7e21e997a740a9a29"
     },
     {
       "id": "food-nutrition.weekly-family-meal-planning",
@@ -2078,6 +2799,33 @@
       "contentHash": "sha256:8484ec3d4df1c60a962a51e917b2913fbbff04ccafb4422b86bfd4df58943606"
     },
     {
+      "id": "food-nutrition.wine-food-pairing",
+      "name": "Wine & Food Pairing",
+      "description": "A taste baseline, pairing rules and a log, a stocked house shelf with weekly pairing tests, tasting and pairing skills, storage and buying decisions, hosted occasions and a small cellar for ageing.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "wine-food-pairing",
+        "everyone",
+        "wine",
+        "pairing",
+        "tasting",
+        "cellar"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/wine-food-pairing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b92f01a242595b67cff99f458c8dc96c1e68329d8543f455401ddf68c5b0bc22"
+    },
+    {
       "id": "food-nutrition.work-lunch-meal-prep",
       "name": "Work Lunch Meal Prep",
       "description": "A week of work lunches that are planned, packed and worth eating: the right containers, a Sunday prep hour, a midweek top-up, a lunch budget you can see, and versions for hybrid, commuting and shift workers.",
@@ -2104,6 +2852,1388 @@
         "totalTasks": 201
       },
       "contentHash": "sha256:e6f5fde8d5bd9ce6376691dd2764850156b095855256f0364be660ba9a1210eb"
+    },
+    {
+      "id": "mental-wellbeing.addiction-recovery-sobriety",
+      "name": "Addiction Recovery & Sobriety",
+      "description": "A safe way to stop, a recovery community and sponsor, a written relapse plan, the daily and weekly routines that keep you sober, and the milestones and repairs of a life in recovery.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "addiction-recovery-sobriety",
+        "everyone",
+        "sobriety",
+        "relapse-prevention",
+        "recovery-meetings",
+        "sponsor",
+        "alcohol-and-drugs"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/addiction-recovery-sobriety.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:1b7067927315037d32ad45afc66b4c2b15187903b31223e34c8eac201fcb04c9"
+    },
+    {
+      "id": "mental-wellbeing.adult-adhd-self-management",
+      "name": "Adult ADHD Self-Management",
+      "description": "A well-prepared adult ADHD assessment, medication decided and tracked with your prescriber, and the capture, calendar, time and home systems that work with an ADHD brain at work and at home.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "adult-adhd-self-management",
+        "everyone",
+        "knowledge-worker",
+        "adhd",
+        "executive-function",
+        "time-management",
+        "medication"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/adult-adhd-self-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:0a16932cd91df8d32c8e44dac06cd8c35e20e092c0ec1568132e02ce819edf26"
+    },
+    {
+      "id": "mental-wellbeing.anger-management",
+      "name": "Anger Management",
+      "description": "Learn your triggers and early warning signs, cool down before the words come out, repair properly afterwards, and stop temper from costing you relationships, work or safety.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "anger-management",
+        "everyone",
+        "anger",
+        "triggers",
+        "time-out",
+        "repair",
+        "relationships"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/anger-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:da3790c436a5138ac4dd1ba9af9b4bee1d1377583376f043fa4cef6778ed8f35"
+    },
+    {
+      "id": "mental-wellbeing.attachment-inner-child-work",
+      "name": "Attachment & Inner Child Work",
+      "description": "Map the patterns you keep repeating, trace them back through your family story, practise reparenting and repair, and choose the right support so early experience stops running your adult relationships.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "attachment-inner-child-work",
+        "everyone",
+        "attachment",
+        "inner-child",
+        "family-of-origin",
+        "reparenting",
+        "relationships"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/attachment-inner-child-work.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:53fda6a6a968a68552246efa4e21278865b0bb6ee2a68b4fb8ee195e3818f49a"
+    },
+    {
+      "id": "mental-wellbeing.autistic-wellbeing-sensory-needs",
+      "name": "Autistic Wellbeing & Sensory Needs",
+      "description": "A map of your sensory profile, an energy budget you can plan a week around, a meltdown and shutdown plan, and the home, work and social adjustments that keep overwhelm rarer and recovery faster.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "autistic-wellbeing-sensory-needs",
+        "everyone",
+        "autism",
+        "sensory-processing",
+        "energy-accounting",
+        "masking",
+        "neurodiversity"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/autistic-wellbeing-sensory-needs.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:ca02f0043202ff4b3739f7ab6f97a05f694ced6ed2fa20e084e20fdb12dfc12c"
+    },
+    {
+      "id": "mental-wellbeing.bipolar-stability-plan",
+      "name": "Bipolar Disorder Stability Plan",
+      "description": "A two-way mood chart, steady sleep and daily rhythms, mood stabiliser monitoring on schedule, and early warning and relapse plans agreed with your clinicians and the people you trust.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "bipolar-stability-plan",
+        "everyone",
+        "bipolar",
+        "mood-charting",
+        "relapse-prevention",
+        "sleep-regularity",
+        "mood-stabilisers"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/bipolar-stability-plan.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 213
+      },
+      "contentHash": "sha256:fde03c398a169d6cbfb0e3918b3dfa50c794c4fb700c8d0c491021397c6ead23"
+    },
+    {
+      "id": "mental-wellbeing.body-image-self-esteem",
+      "name": "Body Image & Self-Esteem",
+      "description": "Baseline scores, a trigger map, daily and weekly routines and practical skills for a kinder relationship with your body, less comparison and self-worth that rests on more than appearance.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "body-image-self-esteem",
+        "everyone",
+        "student",
+        "body-neutrality",
+        "comparison",
+        "media-literacy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/body-image-self-esteem.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:57631918a88ac9d1a4a8af9e15707dcad752838562b171f145a9ca45f20b435e"
+    },
+    {
+      "id": "mental-wellbeing.breathwork-nervous-system",
+      "name": "Breathwork & Nervous System Regulation",
+      "description": "A safety check, one go-to calming breath, a daily slow-breathing habit and body-based resets for tense moments and the end of the working day, gathered into a playbook you trust.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "breathwork-nervous-system",
+        "everyone",
+        "breathing",
+        "heart-rate-variability",
+        "vagal-tone",
+        "relaxation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/breathwork-nervous-system.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1f751fbb9c50aed146c6dc573d8e4dd7796617027059f3446971d6eaaa44664b"
+    },
+    {
+      "id": "mental-wellbeing.burnout-recovery-plan",
+      "name": "Burnout Recovery Plan",
+      "description": "Spotting burnout honestly, cutting load and agreeing time off, rebuilding energy and motivation in stages, and the boundaries and early warning signs that stop it coming back, for knowledge workers, managers and founders.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "burnout-recovery-plan",
+        "knowledge-worker",
+        "manager",
+        "founder",
+        "workload",
+        "energy",
+        "relapse-prevention"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/burnout-recovery-plan.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 182
+      },
+      "contentHash": "sha256:84dcf237128277e6161d37ddfe35a5ebd26cb798905959517277c723fbc9f68b"
+    },
+    {
+      "id": "mental-wellbeing.cbt-thought-record-practice",
+      "name": "CBT Thought Record Practice",
+      "description": "A thought record format you will keep, the skills to catch a hot thought and weigh the evidence fairly, a weekly review rhythm, and the deeper work on rules and core beliefs.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "cbt-thought-record-practice",
+        "everyone",
+        "cbt",
+        "thought-records",
+        "cognitive-distortions",
+        "core-beliefs",
+        "self-help"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/cbt-thought-record-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:e5aac3693b3c15f120b45a518f1ee597c9b22b27143576e3982e0c605bc784df"
+    },
+    {
+      "id": "mental-wellbeing.chronic-illness-emotional-coping",
+      "name": "Chronic Illness Emotional Coping",
+      "description": "Ways through the frustration, grief and identity shifts of long-term illness: a bad-day plan, a support circle, routines that link feelings and flares, and the skills and conversations that keep life bigger than the condition.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "chronic-illness-emotional-coping",
+        "everyone",
+        "chronic-illness",
+        "long-term-conditions",
+        "acceptance",
+        "flares",
+        "identity"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/chronic-illness-emotional-coping.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:56ad8a8de076a5a2f3de8cc054b2816182e78d557eae4b59d1120c617452d37a"
+    },
+    {
+      "id": "mental-wellbeing.climate-eco-anxiety",
+      "name": "Climate & Eco-Anxiety",
+      "description": "An honest read on how climate worry affects you, a calmer climate news diet, a monthly action habit, community you can lean on and plans for the heatwaves, reports and conversations that bring it all back.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "climate-eco-anxiety",
+        "everyone",
+        "parent",
+        "student",
+        "eco-anxiety",
+        "climate-action",
+        "ecological-grief"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/climate-eco-anxiety.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:da3173a03e626ed3c34e7cc97726e8299df717246ba05c572426513f224d7687"
+    },
+    {
+      "id": "mental-wellbeing.daily-stress-management",
+      "name": "Daily Stress Management",
+      "description": "Your stress triggers mapped and early warning signs written down, with daily and weekly routines, boundaries and plans that keep everyday pressure from spilling into health, work and home.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "daily-stress-management",
+        "everyone",
+        "knowledge-worker",
+        "stress",
+        "triggers",
+        "work-life-balance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/daily-stress-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:756ab75066609465c895605f996d26d17ac8beaa5b3aa7973d104ed4bdef4753"
+    },
+    {
+      "id": "mental-wellbeing.dbt-skills-practice",
+      "name": "DBT Skills Practice",
+      "description": "Diary cards, chain analysis and a weekly rhythm for practising DBT mindfulness, distress tolerance, emotion regulation and interpersonal skills until they hold up in real moments.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "dbt-skills-practice",
+        "everyone",
+        "dbt",
+        "distress-tolerance",
+        "interpersonal-effectiveness",
+        "diary-card",
+        "chain-analysis"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/dbt-skills-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 208
+      },
+      "contentHash": "sha256:6b21b801341f8af059f04f580df0214c28fb98addb8450132898422fc55f851f"
+    },
+    {
+      "id": "mental-wellbeing.doomscrolling-attention-rest",
+      "name": "Doomscrolling & Attention Rest",
+      "description": "An honest screen time baseline, a phone set up to be less grabby, a calmer news diet, weekly offline time and the skills that let attention rest instead of being pulled at all day.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "doomscrolling-attention-rest",
+        "everyone",
+        "screen-time",
+        "news-overload",
+        "social-media",
+        "digital-detox",
+        "attention"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/doomscrolling-attention-rest.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:77a1ecb3a15f6149f4b45688db224ac7ad62f57f6c194781d349fdf8d385146f"
+    },
+    {
+      "id": "mental-wellbeing.eating-disorder-recovery-support",
+      "name": "Eating Disorder Recovery Support",
+      "description": "Getting assessed and into specialist treatment, a regular eating pattern and meal plan agreed with your team, relapse warning signs and the people who support you, for anyone recovering from anorexia, bulimia or binge eating.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "eating-disorder-recovery-support",
+        "everyone",
+        "student",
+        "anorexia",
+        "bulimia",
+        "binge-eating",
+        "relapse-prevention"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/eating-disorder-recovery-support.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:f906ed1cfd6ae96d632e0baca8dd4a511daa5abceecb058778f0b72ac086a3c0"
+    },
+    {
+      "id": "mental-wellbeing.emotional-regulation-skills",
+      "name": "Emotional Regulation Skills",
+      "description": "Name what you feel, notice the urge and choose the response: a baseline, a reaction diary, practised skills such as reappraisal and urge surfing, and plans for the people and moments that test you most.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "emotional-regulation-skills",
+        "everyone",
+        "emotion-regulation",
+        "reappraisal",
+        "affect-labelling",
+        "self-awareness"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/emotional-regulation-skills.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:410bb2f4d32f753ec09ff1b294443003e089dd399f7ca22995f2a155521bcb74"
+    },
+    {
+      "id": "mental-wellbeing.exam-stress-study-anxiety",
+      "name": "Exam Stress & Study Anxiety",
+      "description": "An exam calendar and honest targets, a revision plan with real rest, calming and exam-hall skills that hold under pressure, plans for results day and resits, and versions for school, university, mature and professional students.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "exam-stress-study-anxiety",
+        "student",
+        "test-anxiety",
+        "revision",
+        "exam-season",
+        "results-day"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/exam-stress-study-anxiety.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:428e711467dbdfaf5f22ceff5766d63d660d762f0d56578316ff28e27adc4a6d"
+    },
+    {
+      "id": "mental-wellbeing.gambling-harm-recovery",
+      "name": "Gambling Harm Recovery",
+      "description": "Bank blocks, self-exclusion and blocking software, support services and treatment, debt plans and money safeguards, and the people and routines that keep you gamble-free.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "gambling-harm-recovery",
+        "everyone",
+        "gambling",
+        "self-exclusion",
+        "debt",
+        "relapse-prevention",
+        "affected-others"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/gambling-harm-recovery.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:2fe0a4a20d24f1e0a5adfdd5f131641c0110f3b15faa15db2975b5217e43585b"
+    },
+    {
+      "id": "mental-wellbeing.generalised-anxiety-management",
+      "name": "Generalised Anxiety Management",
+      "description": "Persistent worry understood and measured, a treatment route agreed with your doctor, CBT skills for uncertainty and avoidance, and a running record of what actually helps.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "generalised-anxiety-management",
+        "everyone",
+        "worry",
+        "cbt",
+        "gad-7",
+        "uncertainty"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/generalised-anxiety-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:772dfd3f473358138ac81dba563e1d421fe69f8605d51486a58a79b41dc92152"
+    },
+    {
+      "id": "mental-wellbeing.gratitude-positive-psychology",
+      "name": "Gratitude & Positive Psychology",
+      "description": "A gratitude habit that lasts, your signature strengths put to use, savouring and kindness routines, and small experiments that show which positive psychology exercises actually help you.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "gratitude-positive-psychology",
+        "everyone",
+        "gratitude",
+        "savouring",
+        "character-strengths",
+        "optimism"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/gratitude-positive-psychology.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:c786458b943be0e37cf8139cb05c5fcede259db750fd5d5a40e4cc451f2095da"
+    },
+    {
+      "id": "mental-wellbeing.grief-bereavement-support",
+      "name": "Grief & Bereavement Support",
+      "description": "A steady floor for the first weeks after a death, the right counsellor or support group, a calendar for the hard dates, and room to grieve at your own pace, including after a child, a suicide or a sudden loss.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "grief-bereavement-support",
+        "everyone",
+        "bereavement",
+        "counselling",
+        "support-groups",
+        "anniversaries",
+        "continuing-bonds"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/grief-bereavement-support.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:743b91b8eb690ea0bf7233ca2ac44b90611b681622bc6564cf24295f2d8cf8e5"
+    },
+    {
+      "id": "mental-wellbeing.health-anxiety-management",
+      "name": "Health Anxiety Management",
+      "description": "Planned check-ins with your doctor instead of crisis visits, honest counts of checking, searching and reassurance, CBT skills for body sensations and uncertainty, and a relapse plan for the next new symptom.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "health-anxiety-management",
+        "everyone",
+        "symptom-checking",
+        "reassurance-seeking",
+        "cyberchondria",
+        "cbt"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/health-anxiety-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:3c76577f0fce3e8241df8a0dec3303f13c00c98288360070c18b352669a6ae71"
+    },
+    {
+      "id": "mental-wellbeing.imposter-syndrome",
+      "name": "Imposter Syndrome",
+      "description": "An evidence file, a weekly wins habit, reframes for the it-was-luck voice, and prepared honest conversations for reviews, vivas, pitches and new roles where feeling like a fraud gets loudest.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "imposter-syndrome",
+        "knowledge-worker",
+        "student",
+        "founder",
+        "self-doubt",
+        "evidence-file",
+        "confidence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/imposter-syndrome.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:1f9fc0c908011c6ce1cb901de98bfc054b0fda00c48a72c81dd93602d89d59a7"
+    },
+    {
+      "id": "mental-wellbeing.life-transition-adjustment",
+      "name": "Life Transition Adjustment",
+      "description": "Steadier footing through big changes like a move, a divorce, retirement or a new baby: name what is ending, keep daily anchors, track adjustment month by month and plan for the hard dates ahead.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "life-transition-adjustment",
+        "everyone",
+        "transitions",
+        "moving-home",
+        "divorce",
+        "retirement",
+        "new-parent"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/life-transition-adjustment.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:9f5f27071ae15c2f6067b31932494a01e4222be900d7a6beaecc637d4b4e86c6"
+    },
+    {
+      "id": "mental-wellbeing.loneliness-isolation-support",
+      "name": "Loneliness & Isolation Support",
+      "description": "A clear picture of who is in your life, small daily and weekly contact habits, befriending, groups and volunteering, and plans for living alone, moving somewhere new, retiring or losing a partner.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "loneliness-isolation-support",
+        "everyone",
+        "retiree",
+        "living-alone",
+        "befriending",
+        "community",
+        "social-connection"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/loneliness-isolation-support.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:2adf367b753347da569519d1b534ebebd4495cb8edb510f2fa63c42121b22fcc"
+    },
+    {
+      "id": "mental-wellbeing.low-mood-depression-support",
+      "name": "Low Mood & Depression Support",
+      "description": "Weekly activity scheduling that gets you moving again, treatment choices prepared with your doctor, a support network that knows how to help, and plans for the days when everything feels heavy.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "low-mood-depression-support",
+        "everyone",
+        "depression",
+        "low-mood",
+        "behavioural-activation",
+        "support-network",
+        "relapse-prevention"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/low-mood-depression-support.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:23deaee412fa5fbbc4f26b2f8467d77ead950930c7d0167f0043c5039cbd951a"
+    },
+    {
+      "id": "mental-wellbeing.mens-mental-health-check-ins",
+      "name": "Men's Mental Health Check-Ins",
+      "description": "Honest check-ins men will actually do: a personal score, a small circle of mates, side-by-side conversations, men's groups and a doctor's appointment that feels doable.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "mens-mental-health-check-ins",
+        "everyone",
+        "men",
+        "check-ins",
+        "help-seeking",
+        "friendship",
+        "peer-support"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/mens-mental-health-check-ins.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:fb4d8fe4ec0bb7771c0c8989bbec17b9276ebe35d74c9a25aac7dc30dd7477c6"
+    },
+    {
+      "id": "mental-wellbeing.mental-health-crisis-safety-plan",
+      "name": "Mental Health Crisis Safety Plan",
+      "description": "A written crisis safety plan with your warning signs, coping steps, safe people, crisis numbers and a safer home, shared with the people who need it and kept current, plus the carer's side of the same plan.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "mental-health-crisis-safety-plan",
+        "everyone",
+        "carer",
+        "safety-plan",
+        "suicide-prevention",
+        "crisis-support"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/mental-health-crisis-safety-plan.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:9aa480df1f4e1e9e3fdf54c71ab7a8fb879baa39aabf908fa52b73b5b9ab3419"
+    },
+    {
+      "id": "mental-wellbeing.mental-health-medication-tracking",
+      "name": "Mental Health Medication Tracking",
+      "description": "A complete record of your psychiatric medicines, a daily dose routine, side effects and mood tracked against agreed targets, and well-prepared reviews, switches and tapers with your prescriber.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "mental-health-medication-tracking",
+        "everyone",
+        "antidepressants",
+        "side-effects",
+        "tapering",
+        "prescriber-review",
+        "medication-log"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/mental-health-medication-tracking.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:73ee414f4a25ff0579d36d427e980fcd5220b18e223d2d297c2d82e18291825c"
+    },
+    {
+      "id": "mental-wellbeing.mindfulness-meditation-practice",
+      "name": "Mindfulness Meditation Practice",
+      "description": "A secular sitting practice that actually sticks: a seat, a time and a log, short daily sits that grow, courses and teachers, retreats from a half day to ten days, and an honest record of what changes in attention and mood.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "mindfulness-meditation-practice",
+        "everyone",
+        "meditation",
+        "attention",
+        "retreats",
+        "mbsr"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/mindfulness-meditation-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5f3f2b3c292454415b5e09fb5004c4f6bca48de62ffe6c7ad5706d0922238ba2"
+    },
+    {
+      "id": "mental-wellbeing.mood-tracking-patterns",
+      "name": "Mood Tracking & Patterns",
+      "description": "A daily mood and energy log you will actually keep, reviews that turn entries into patterns, your personal early warning signs, and small experiments that show what lifts or drains you.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "mood-tracking-patterns",
+        "everyone",
+        "mood-log",
+        "energy",
+        "early-warning-signs",
+        "self-experiments",
+        "patterns"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/mood-tracking-patterns.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:2bbf409ae7438560001291933aa006caafbc71f0a61d2759d03e930a7cffa04c"
+    },
+    {
+      "id": "mental-wellbeing.ocd-management",
+      "name": "OCD Management",
+      "description": "A map of your obsessions and rituals, an ERP-trained therapist, a graded exposure ladder with daily practice, less reassurance and fewer mental rituals, and a relapse plan that keeps the gains.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "ocd-management",
+        "everyone",
+        "erp",
+        "intrusive-thoughts",
+        "compulsions",
+        "exposure-hierarchy",
+        "reassurance-seeking"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/ocd-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:33eab96467804bf2933cad3b9d33ab9e20b5a75783d86a4929637f3d27a7f685"
+    },
+    {
+      "id": "mental-wellbeing.panic-attack-coping-plan",
+      "name": "Panic Attack Coping Plan",
+      "description": "A medical check, a pocket coping card, a panic diary and an exposure ladder that takes you back, step by step, to the shops, trains, roads and rooms that panic took away.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "panic-attack-coping-plan",
+        "everyone",
+        "panic-disorder",
+        "agoraphobia",
+        "cbt",
+        "exposure"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/panic-attack-coping-plan.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:f94eaa128fb21f43a2ac4f2ce637a260208b4fd86b56fa00542a25e51eed90d6"
+    },
+    {
+      "id": "mental-wellbeing.peer-support-groups",
+      "name": "Mental Health Peer Support Groups",
+      "description": "Finding a peer group that fits, getting through the first meetings, sharing and listening well, staying safe online, and in time helping to run a group of your own.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "peer-support-groups",
+        "everyone",
+        "peer-support",
+        "support-groups",
+        "lived-experience",
+        "online-groups"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/peer-support-groups.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:ee28a93a8aade8e0706212a353097d82ac5f6a02b576afc78be1f14a465d16a2"
+    },
+    {
+      "id": "mental-wellbeing.perfectionism-self-criticism",
+      "name": "Perfectionism & Self-Criticism",
+      "description": "A clear picture of where your standards cost more than they give, weekly good-enough experiments, checking and time limits, fairer ways to judge your own work, and versions for students, knowledge workers, managers and parents.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "perfectionism-self-criticism",
+        "everyone",
+        "knowledge-worker",
+        "student",
+        "perfectionism",
+        "behavioural-experiments",
+        "self-evaluation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/perfectionism-self-criticism.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 187
+      },
+      "contentHash": "sha256:97687b6354d238456a163ff1e9965316b5d92871b5d9a1d3bba1fcd3ae25c816"
+    },
+    {
+      "id": "mental-wellbeing.perinatal-postnatal-mental-health",
+      "name": "Perinatal & Postnatal Mental Health",
+      "description": "A plan for your mind through pregnancy and the first year: warning signs the household knows, a support team and rota, weekly mood check-ins, the right referrals, and versions for partners, solo parents and harder starts.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "perinatal-postnatal-mental-health",
+        "parent",
+        "pregnancy",
+        "postnatal-depression",
+        "postpartum-psychosis",
+        "partners",
+        "birth-trauma"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/perinatal-postnatal-mental-health.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:ccbca9fcbffe926d9183a04888d6f19b84193f8ec773906cad47c3b75ee4d4da"
+    },
+    {
+      "id": "mental-wellbeing.phobia-exposure-therapy",
+      "name": "Phobia Exposure Therapy",
+      "description": "A precisely named fear, a measured baseline, a graded ladder practised every week, skills for fainting and disgust, and planned tests such as a flight, a blood test or a spider in the hand.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "phobia-exposure-therapy",
+        "everyone",
+        "specific-phobia",
+        "exposure-ladder",
+        "fear-of-flying",
+        "needle-phobia",
+        "one-session-treatment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/phobia-exposure-therapy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:e9fea4d9a7bae020acf6ee5c539ff4a2ca4214c90f8ddc3e3d246afa9777e1dd"
+    },
+    {
+      "id": "mental-wellbeing.progressive-relaxation-body-scans",
+      "name": "Progressive Relaxation & Body Scans",
+      "description": "A tension baseline, a fixed daily slot and the full ladder from sixteen-group muscle relaxation to thirty-second release, plus body scans and imagery adapted for pain, pregnancy and trauma.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "progressive-relaxation-body-scans",
+        "everyone",
+        "progressive-muscle-relaxation",
+        "body-scan",
+        "guided-imagery",
+        "muscle-tension",
+        "applied-relaxation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/progressive-relaxation-body-scans.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a2ffaaa3923a70d34b54a8033fc92ff3c7fa8593908b2c808dd7de8a2111f63b"
+    },
+    {
+      "id": "mental-wellbeing.resilience-after-setbacks",
+      "name": "Resilience After Life Setbacks",
+      "description": "Steady footing after job loss, illness or failure: a calm first 72 hours, a clear recovery plan, weekly check-ins and support, and a personal playbook so the next setback starts from a plan.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "resilience-after-setbacks",
+        "everyone",
+        "setbacks",
+        "job-loss",
+        "recovery",
+        "coping-skills"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/resilience-after-setbacks.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:f400029dcd8e18f592ad4184d4b3344986e5844d1baac1a8054f38beb3e7d38f"
+    },
+    {
+      "id": "mental-wellbeing.restorative-rest-planning",
+      "name": "Restorative Rest Planning",
+      "description": "Rest you plan rather than whatever time is left over: an audit of where downtime goes, rest days and quiet weekends, leave spread across the year, and recharge activities tested for whether they actually restore.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "restorative-rest-planning",
+        "everyone",
+        "knowledge-worker",
+        "rest-days",
+        "annual-leave",
+        "recovery",
+        "downtime"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/restorative-rest-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:2413fe9d0910a2fde6a1c1545ab382a8d3e46a13809819c7514074c19d1ee4a1"
+    },
+    {
+      "id": "mental-wellbeing.seasonal-affective-disorder",
+      "name": "Seasonal Affective Disorder Plan",
+      "description": "A plan for the darker months: light therapy chosen and used safely, more daylight in the working day, a winter activity and social rhythm, and support from your doctor before seasonal low mood takes hold.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "seasonal-affective-disorder",
+        "everyone",
+        "light-therapy",
+        "daylight",
+        "winter",
+        "seasonal-depression"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/seasonal-affective-disorder.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:0f5b33553d42a92c0d876d7fea8eef8807dbcbcf491a52021466679b7680dfb7"
+    },
+    {
+      "id": "mental-wellbeing.self-compassion-practice",
+      "name": "Self-Compassion Practice",
+      "description": "A kinder inner voice built step by step: a baseline and critic audit, daily self-compassion breaks, letters and imagery, self-forgiveness work, and plans for parents, carers, students and later life.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "self-compassion-practice",
+        "everyone",
+        "inner-critic",
+        "mindful-self-compassion",
+        "compassion-focused-therapy",
+        "self-forgiveness"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/self-compassion-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:6baa31e8da99831e4ef930e2cb53e218bd4392265425ac267784fa8408ba40c2"
+    },
+    {
+      "id": "mental-wellbeing.sleep-wind-down-racing-thoughts",
+      "name": "Sleep Wind-Down & Racing Thoughts",
+      "description": "Evening wind-down routines, a bedside notebook, an out-of-bed plan and tested techniques that quieten a racing mind, so sleep comes more easily on stressful nights.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "sleep-wind-down-racing-thoughts",
+        "everyone",
+        "wind-down-routine",
+        "racing-thoughts",
+        "bedtime",
+        "sleep-hygiene"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/sleep-wind-down-racing-thoughts.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:87554959bf1b5ff621ee77869cbc332282092544e6fe904aece7f3d725fe7b0c"
+    },
+    {
+      "id": "mental-wellbeing.social-anxiety-exposure-work",
+      "name": "Social Anxiety Exposure Work",
+      "description": "A map of what you avoid, a graded exposure ladder, behavioural experiments on anxious predictions, dropped safety behaviours and steady weekly practice in the social situations that matter to you.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "social-anxiety-exposure-work",
+        "everyone",
+        "student",
+        "graded-exposure",
+        "cbt",
+        "safety-behaviours",
+        "public-speaking"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/social-anxiety-exposure-work.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:299b789aeb3f91c204795e8660d1b2dc8e48bf32e13c931e8082599e8f35af62"
+    },
+    {
+      "id": "mental-wellbeing.somatic-therapy-body-awareness",
+      "name": "Somatic Therapy & Body Awareness",
+      "description": "An interoception baseline, a map of where stress lands in your body, daily check-ins and Focusing practice, and a well-checked somatic therapist, so the body's signals of stress and safety become readable again.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "somatic-therapy-body-awareness",
+        "everyone",
+        "interoception",
+        "somatic-experiencing",
+        "focusing",
+        "embodiment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/somatic-therapy-body-awareness.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:0de85f158038fe02e46885b56105c311e58e617d11ae59d63986bd5986cf4f66"
+    },
+    {
+      "id": "mental-wellbeing.therapy-counselling-journey",
+      "name": "Therapy & Counselling Journey",
+      "description": "A therapist chosen with care, sessions prepared for and reflected on, homework and progress tracked, and a planned, evidence-based decision about when therapy has done its job.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "therapy-counselling-journey",
+        "everyone",
+        "therapy",
+        "counselling",
+        "finding-a-therapist",
+        "talking-therapy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/therapy-counselling-journey.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:0e66ffe33da6bfebafae38fe4ecb9dfc6a1c74af2eb1cb9339ae8a6f36157fda"
+    },
+    {
+      "id": "mental-wellbeing.trauma-ptsd-healing",
+      "name": "Trauma & PTSD Healing",
+      "description": "A clear assessment, a grounding kit and trigger log, the right trauma-focused therapy such as EMDR, and steady routines for nightmares, anniversaries and court dates while you rebuild safety after a traumatic event.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "trauma-ptsd-healing",
+        "everyone",
+        "ptsd",
+        "emdr",
+        "trauma-therapy",
+        "flashbacks",
+        "nightmares"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/trauma-ptsd-healing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:b8df13b78f1e8ded7fd731c95f1b5c1cb3c62941d882096e5555831b688d6afb"
+    },
+    {
+      "id": "mental-wellbeing.workplace-mental-health-adjustments",
+      "name": "Workplace Mental Health Adjustments",
+      "description": "Disclosure decisions, written adjustment requests, phased returns, and the records and routines that keep workplace support working while you manage a mental health condition.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "workplace-mental-health-adjustments",
+        "knowledge-worker",
+        "everyone",
+        "reasonable-adjustments",
+        "phased-return",
+        "disclosure",
+        "occupational-health"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/workplace-mental-health-adjustments.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:c1718e91f5dbe595c82cf86ec4c5f2642b4668c5a77eec4043813da4458fe2e3"
+    },
+    {
+      "id": "mental-wellbeing.worry-time-rumination-control",
+      "name": "Worry Time & Rumination Control",
+      "description": "Scheduled worry time, a capture habit, problem-solving for practical worries and attention skills that interrupt rumination, so overthinking takes minutes a day instead of hours.",
+      "category": "personal",
+      "tags": [
+        "mental-wellbeing",
+        "worry-time-rumination-control",
+        "everyone",
+        "rumination",
+        "worry-postponement",
+        "problem-solving",
+        "metacognition",
+        "overthinking"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/mental-wellbeing/worry-time-rumination-control.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Mental & Emotional Wellbeing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:3e7eaa31499084fc43655f27b1e23e886eaa41438d4370d6b8ab49ef99a87bdb"
     },
     {
       "id": "physical-health.alcohol-reduction-for-health",
@@ -3497,6 +5627,116 @@
         "totalTasks": 203
       },
       "contentHash": "sha256:43c64d84e36e3f2ba8126737bda2fa48ebe5e6d57a54f4f9fcb7f6595e6ffdb5"
+    },
+    {
+      "id": "relationships.date-night-planning",
+      "name": "Date Night Planning",
+      "description": "Date nights that actually happen: an agreed rhythm, a sitter shortlist, an idea bank, a budget that covers childcare, and plans that fit every stage of family life.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "date-night-planning",
+        "everyone",
+        "parent",
+        "romance",
+        "babysitting",
+        "date-ideas",
+        "budget"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/date-night-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:bad69ae348b4a0e43858dedd36c76609e630a46f15ce3846267ae6846f342393"
+    },
+    {
+      "id": "relationships.early-dating-new-relationships",
+      "name": "Early Dating & New Relationships",
+      "description": "Clear intentions and dealbreakers, a pace that suits you, safety and sexual health basics, the exclusivity talk, first introductions and the honest three and six month reviews of a new relationship.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "early-dating-new-relationships",
+        "everyone",
+        "dating",
+        "new-relationship",
+        "exclusivity",
+        "pacing",
+        "red-flags"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/early-dating-new-relationships.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:91f11deb827ac736772d265cff9e59cf6bc96058f215dc6eacad3ec99de93308"
+    },
+    {
+      "id": "relationships.long-term-partnership-check-ins",
+      "name": "Long-Term Partnership Check-Ins",
+      "description": "A weekly check-in you both look forward to, ground rules that keep it safe, a shared notebook of agreements, and quarterly and yearly reviews of how the relationship is really going.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "long-term-partnership-check-ins",
+        "everyone",
+        "couples",
+        "communication",
+        "weekly-check-in",
+        "relationship-review"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/long-term-partnership-check-ins.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:42669f7730e0058caca2afb8986e8c1e10c6f79fa604c39b389257b4fa544824"
+    },
+    {
+      "id": "relationships.online-dating-search",
+      "name": "Online Dating Search",
+      "description": "A deliberate online dating search: honest profiles, filters built on real dealbreakers, safe first meetings, scam awareness and private notes on who felt right.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "online-dating-search",
+        "everyone",
+        "dating-apps",
+        "dating-profile",
+        "first-dates",
+        "dating-safety"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/online-dating-search.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:26d46ebfe70b1a61ec4ec4905ca35212d5bb771597b3d5c50615b5a88470bb04"
     },
     {
       "id": "sales-revenue.cold-email-prospecting-sequences",
