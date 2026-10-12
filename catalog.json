@@ -1470,6 +1470,33 @@
       "contentHash": "sha256:bf36c97a03ca86e4e8a8304e24adaf6a3e1546b3887051c86320a5c46548964e"
     },
     {
+      "id": "food-nutrition.baby-weaning-toddler-meals",
+      "name": "Baby Weaning & Toddler Meals",
+      "description": "A readiness check and a chosen weaning approach, safe shapes and early allergens, freezer and menu routines, texture stages, and toddler meals the whole family can share.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "baby-weaning-toddler-meals",
+        "parent",
+        "weaning",
+        "baby-led-weaning",
+        "allergen-introduction",
+        "toddler-meals"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/baby-weaning-toddler-meals.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7d1231ae2efca1f305285352a2167ff5697bc82f80e0f2389ff82ef86f67d4e6"
+    },
+    {
       "id": "food-nutrition.batch-cooking-freezer-meals",
       "name": "Batch Cooking & Freezer Meals",
       "description": "A freezer you can see into, meals that survive freezing and reheating, a monthly cook day, a weekly pull plan, and stashes ready for a new baby, an operation or a hard week.",
@@ -1498,6 +1525,531 @@
       "contentHash": "sha256:4314c8de1c2f05d936aaae9ff3165488002e3bec0571e4f5270aeec92093016c"
     },
     {
+      "id": "food-nutrition.bread-sourdough-baking",
+      "name": "Bread & Sourdough Baking",
+      "description": "A scale, a lidded pot and a live starter, a weekly bake rhythm with a bake log, the fermentation, shaping and scoring skills behind a good loaf, and the specialist work of signature formulas, milling and selling.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "bread-sourdough-baking",
+        "everyone",
+        "creative",
+        "sourdough",
+        "yeasted-bread",
+        "starter",
+        "bake-log"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/bread-sourdough-baking.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:dc1a01299449a5a17d5cc26bc0369a75594d9c1dc489abfff87e68adc054fcbd"
+    },
+    {
+      "id": "food-nutrition.cakes-pastry-desserts",
+      "name": "Cakes, Pastry & Desserts",
+      "description": "An honest oven, a baking log, benchmark sponges and pastry, a run of classic techniques, birthday cakes planned a month ahead and the showpieces worth working up to.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "cakes-pastry-desserts",
+        "everyone",
+        "creative",
+        "baking",
+        "pastry",
+        "cake-decorating",
+        "desserts"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/cakes-pastry-desserts.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 212
+      },
+      "contentHash": "sha256:b40e2044123ebbfc9a92e3c69557fe2cd7d4c43b3cb391a9e5fb878685a2c87b"
+    },
+    {
+      "id": "food-nutrition.calorie-deficit-meal-planning",
+      "name": "Calorie Deficit Meal Planning",
+      "description": "A calorie target you can live with: a safe rate agreed with your clinician, filling meals that fit the numbers, weekly plans and weight trends, and a planned route back to maintenance.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "calorie-deficit-meal-planning",
+        "everyone",
+        "fat-loss",
+        "meal-planning",
+        "satiety",
+        "portion-control",
+        "weight-maintenance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/calorie-deficit-meal-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f81889740c4b969cfe0c9e13da01b611ccd9f9f38f35df9066a7c86b4ee26e05"
+    },
+    {
+      "id": "food-nutrition.coeliac-gluten-free-eating",
+      "name": "Coeliac & Gluten-Free Eating",
+      "description": "A strictly gluten-free life that holds up: diagnosis sorted, a kitchen safe from crumbs, labels you can read fast, baking that works, and plans for eating out, travel, school and later life.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "coeliac-gluten-free-eating",
+        "everyone",
+        "coeliac-disease",
+        "gluten-free",
+        "cross-contact",
+        "eating-out",
+        "travel"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/coeliac-gluten-free-eating.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:929b1a91457bb962aa11302abd6ac8cab092d644970b94a5d84de62beb919fa5"
+    },
+    {
+      "id": "food-nutrition.cooking-on-tight-food-budget",
+      "name": "Cooking on a Tight Food Budget",
+      "description": "An honest food spend figure, a daily cost ceiling, a costed repertoire built on cheap staples, weekly big pots and planned leftovers, and plans for students, renters, families and lean months.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "cooking-on-tight-food-budget",
+        "everyone",
+        "student",
+        "renter",
+        "cheap-staples",
+        "cost-per-portion",
+        "leftovers"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/cooking-on-tight-food-budget.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:ece9e3979274f21fb1f1ea526517e78d1729cb6af89cac144d76dcc3de31ba00"
+    },
+    {
+      "id": "food-nutrition.cooking-world-cuisines",
+      "name": "Cooking Through World Cuisines",
+      "description": "One cuisine at a time: a pantry that fits it, the techniques it rests on, signature dishes cooked until they are yours, and a steady rhythm of new dishes, grocer trips and quarterly reviews.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "cooking-world-cuisines",
+        "everyone",
+        "pantry",
+        "technique",
+        "signature-dishes",
+        "specialist-grocers"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/cooking-world-cuisines.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:133ebfbc8cc931d974dda9e133aa6ca6087921b64c24bd993f487747cc8ec7c1"
+    },
+    {
+      "id": "food-nutrition.diabetes-friendly-meal-plans",
+      "name": "Diabetes-Friendly Meal Plans",
+      "description": "Meals that keep blood sugar steadier: guidance from your diabetes team, carbohydrate awareness, a weekly plan and shop, favourite recipes reworked, and plans for festivals, travel, fasting and later life.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "diabetes-friendly-meal-plans",
+        "everyone",
+        "retiree",
+        "blood-sugar",
+        "carbohydrate",
+        "prediabetes",
+        "meal-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/diabetes-friendly-meal-plans.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:52ed2c1e78972b1519ee1f642eafd5232bffa883080e3996ebdaa4ecc31ad9ac"
+    },
+    {
+      "id": "food-nutrition.dinner-party-hosting-menus",
+      "name": "Dinner Party Hosting Menus",
+      "description": "A capacity check, quantities per head, a make-ahead menu rule and a party countdown, then the routines, techniques and dated dinners that let the host cook calmly and still sit down.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "dinner-party-hosting-menus",
+        "everyone",
+        "hosting",
+        "entertaining",
+        "menu-planning",
+        "make-ahead"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/dinner-party-hosting-menus.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:2c27df71482378ff8e6a24083af301c99427b7faecb613bcbaa0994bc7beeec6"
+    },
+    {
+      "id": "food-nutrition.feeding-fussy-eating-children",
+      "name": "Feeding Fussy-Eating Children",
+      "description": "A food diary and safe food list, low-pressure routines for new foods, calm mealtimes shared by every carer, and a clear route to a dietitian or feeding therapist when home strategies are not enough.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "feeding-fussy-eating-children",
+        "parent",
+        "picky-eating",
+        "safe-foods",
+        "food-exposure",
+        "mealtimes",
+        "feeding-therapy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/feeding-fussy-eating-children.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:d0eef0a9e8926d6b026b0dc4dd766b3fdd7c5c49ff85729b06637ff955cb9c51"
+    },
+    {
+      "id": "food-nutrition.fermenting-preserving",
+      "name": "Fermenting & Preserving",
+      "description": "Tested recipes and safe rules, fermenting and canning kit, a batch log, weekly jar checks and culture care, the skills behind kraut, kimchi, jam and chutney, and the specialist work of pressure canning, miso and selling.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "fermenting-preserving",
+        "everyone",
+        "creative",
+        "fermentation",
+        "canning",
+        "pickles",
+        "jam"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/fermenting-preserving.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:17de3b9425c95f0b431491cdbc846f0d7afc62dab1fdf6c43452978310971dbf"
+    },
+    {
+      "id": "food-nutrition.grocery-shopping-pantry-stock",
+      "name": "Grocery Shopping & Pantry Stock",
+      "description": "A master staples list with minimum stock levels, a shared list and a fixed shopping day, online orders that arrive right, a grocery budget built from real receipts, and a pantry that shows at a glance what to buy.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "grocery-shopping-pantry-stock",
+        "everyone",
+        "shopping-list",
+        "pantry-stock",
+        "online-grocery",
+        "grocery-budget"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/grocery-shopping-pantry-stock.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:fc08bb62c5572b112b3cfc1160fa27c3203ad520d3316852f16089c0637f82d2"
+    },
+    {
+      "id": "food-nutrition.high-protein-eating-for-training",
+      "name": "High-Protein Eating for Training",
+      "description": "Enough protein to match your training, mostly from real food: a figure agreed with a professional, a training-week meal plan, post-session and pre-bed routines, and versions for vegetarians, masters, teens and competitors.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "high-protein-eating-for-training",
+        "athlete",
+        "protein",
+        "sports-nutrition",
+        "muscle-gain",
+        "recovery",
+        "strength-training"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/high-protein-eating-for-training.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:8dfc4376423a9630df36633ba073a073a8e67e5d06f24d60c5b1eed79b730795"
+    },
+    {
+      "id": "food-nutrition.intermittent-fasting-schedule",
+      "name": "Intermittent Fasting Schedule",
+      "description": "A careful way to try fasting: a safety check with your doctor, baseline markers, a gentle first pattern, a daily log of hunger and energy, and regular reviews that decide whether to keep, change or stop.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "intermittent-fasting-schedule",
+        "everyone",
+        "time-restricted-eating",
+        "eating-window",
+        "fasting-log",
+        "health-markers",
+        "hunger"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/intermittent-fasting-schedule.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:98db17d29343b09e795fbcee114c8ea0fc35595628a013867a9cb093a6f24c1a"
+    },
+    {
+      "id": "food-nutrition.kitchen-food-waste-reduction",
+      "name": "Kitchen Food Waste Reduction",
+      "description": "A two-week bin diary and a target, a fridge with an eat-first shelf, weekly use-it-up meals, portions that match real appetites and a freezer that rescues food instead of burying it.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "kitchen-food-waste-reduction",
+        "everyone",
+        "food-waste",
+        "leftovers",
+        "freezing",
+        "fridge-organisation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/kitchen-food-waste-reduction.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:088201fb942f53f36001ac028b0486715a53b7a0fde60d57849ecf04298722c2"
+    },
+    {
+      "id": "food-nutrition.knife-skills-kitchen-technique",
+      "name": "Knife Skills & Kitchen Technique",
+      "description": "A safe cutting station, a proper grip and the core cuts, heat control, sauces and seasoning, weekly drills and a technique a month, so you cook from skill rather than from recipes.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "knife-skills-kitchen-technique",
+        "everyone",
+        "knife-work",
+        "heat-control",
+        "sauces",
+        "cooking-technique"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/knife-skills-kitchen-technique.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:0c49a8b09f2c4a5a9cc86ac40c53eeafc436a9cbe7c4b4f810f031e47e70b554"
+    },
+    {
+      "id": "food-nutrition.low-salt-heart-healthy-cooking",
+      "name": "Low-Salt Heart-Healthy Cooking",
+      "description": "Home cooking with far less salt and saturated fat that still tastes of something: a salt baseline, a flavour shelf, a gradual step-down, weekly routines, and the skills and swaps behind blood pressure and cholesterol goals.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "low-salt-heart-healthy-cooking",
+        "everyone",
+        "retiree",
+        "salt-reduction",
+        "saturated-fat",
+        "heart-health",
+        "flavour"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/low-salt-heart-healthy-cooking.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 190
+      },
+      "contentHash": "sha256:3b46b65650b71fdff074c00c3d61146f500db8af063d7c5a24b24355668c46ab"
+    },
+    {
+      "id": "food-nutrition.macro-calorie-tracking",
+      "name": "Macro & Calorie Tracking",
+      "description": "Accurate food logging for a set period: the right app and scale, an honest baseline, daily and weekly routines, portion skills, and the data reviews that move you toward a body composition goal.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "macro-calorie-tracking",
+        "athlete",
+        "everyone",
+        "food-logging",
+        "macros",
+        "portion-sizes",
+        "body-composition"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/macro-calorie-tracking.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6d8b48b57df78a0c527c99672d7c2df1cfd4705eebab551734a03ee615604d5c"
+    },
+    {
+      "id": "food-nutrition.plant-based-vegan-eating",
+      "name": "Plant-Based & Vegan Eating",
+      "description": "A plant-based diet that is balanced, not just meat-free: a B12 and nutrient plan agreed with professionals, a staged switch, pulse and tofu skills, weekly routines, and versions for children, pregnancy, training and later life.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "plant-based-vegan-eating",
+        "everyone",
+        "vegan",
+        "vegetarian",
+        "plant-protein",
+        "vitamin-b12"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/plant-based-vegan-eating.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:14357a082fefafa906800f3e157d5aab2a9000ffcf7fab0a3cb99865d02f7130"
+    },
+    {
+      "id": "food-nutrition.school-packed-lunches",
+      "name": "School Packed Lunches",
+      "description": "Packed lunches children actually eat: the school's rules, the right kit, a balanced formula, a weekly plan, prep and night-before packing, plus versions for allergies, two households, teenagers and new starters.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "school-packed-lunches",
+        "parent",
+        "packed-lunch",
+        "lunch-box",
+        "school",
+        "snacks"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/school-packed-lunches.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:b9ad1814276c195d9fc81416822ab9b62461e0df191986e29b2710eea4034e65"
+    },
+    {
       "id": "food-nutrition.weekly-family-meal-planning",
       "name": "Weekly Family Meal Planning",
       "description": "A weekly planning slot that fits the household's real schedule, a dinner list everyone eats, leftovers and fallbacks built in, and plans that bend for shift work, school holidays, guests and two homes.",
@@ -1524,6 +2076,34 @@
         "totalTasks": 194
       },
       "contentHash": "sha256:8484ec3d4df1c60a962a51e917b2913fbbff04ccafb4422b86bfd4df58943606"
+    },
+    {
+      "id": "food-nutrition.work-lunch-meal-prep",
+      "name": "Work Lunch Meal Prep",
+      "description": "A week of work lunches that are planned, packed and worth eating: the right containers, a Sunday prep hour, a midweek top-up, a lunch budget you can see, and versions for hybrid, commuting and shift workers.",
+      "category": "personal",
+      "tags": [
+        "food-nutrition",
+        "work-lunch-meal-prep",
+        "knowledge-worker",
+        "everyone",
+        "meal-prep",
+        "packed-lunch",
+        "office",
+        "lunch-budget"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/food-nutrition/work-lunch-meal-prep.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Food & Nutrition"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:e6f5fde8d5bd9ce6376691dd2764850156b095855256f0364be660ba9a1210eb"
     },
     {
       "id": "physical-health.alcohol-reduction-for-health",
