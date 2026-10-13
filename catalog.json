@@ -76,6 +76,1191 @@
       }
     },
     {
+      "id": "family-parenting.adoption-journey",
+      "name": "Adoption Journey",
+      "description": "A route through adoption from first enquiry and assessment to matching, introductions, placement and the adoption order, then life story work, birth family contact and long-term support.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "adoption-journey",
+        "parent",
+        "adopters",
+        "assessment",
+        "matching",
+        "life-story-work",
+        "post-adoption-support"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/adoption-journey.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:9871040647c2a8899e6f399ff594e080259814f2c06764ffb83aed0ded718dd2"
+    },
+    {
+      "id": "family-parenting.baby-toddler-sleep",
+      "name": "Baby & Toddler Sleep",
+      "description": "A safe sleep space, a diary baseline, an approach both parents agree on, and the routines, nap changes and regression plans that get babies and toddlers sleeping.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "baby-toddler-sleep",
+        "parent",
+        "naps",
+        "bedtime-routine",
+        "night-wakings",
+        "sleep-regressions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/baby-toddler-sleep.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:67d665cd406d155c30bd22099811493d059a8b093b15bbdd2f955d9211f6d7ee"
+    },
+    {
+      "id": "family-parenting.birth-plan-hospital-bag",
+      "name": "Birth Plan & Hospital Bag",
+      "description": "Choose where to give birth, write a one-page birth plan your midwife has seen, pack three bags by 36 weeks, rehearse the route in and line up help for the first days home.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "birth-plan-hospital-bag",
+        "parent",
+        "labour",
+        "birth-partner",
+        "maternity-unit",
+        "postnatal-help"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/birth-plan-hospital-bag.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:bf07709543243edaddf9380917aca4e8a247ba21c7829c8f8519d6f874414bfa"
+    },
+    {
+      "id": "family-parenting.blended-step-family-life",
+      "name": "Blended & Step-Family Life",
+      "description": "Paced introductions, a step-parent role agreed for each child, shared house rules and bedrooms, routines that give every child a place, and the money, legal and milestone decisions blended families face.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "blended-step-family-life",
+        "parent",
+        "step-parent",
+        "step-siblings",
+        "merging-households",
+        "couple"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/blended-step-family-life.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:438bb74a720e6954010d003aedd3fd615ae7624e49feb240ff45f0c89be57039"
+    },
+    {
+      "id": "family-parenting.child-leaving-home",
+      "name": "Child Leaving Home",
+      "description": "A move-out timeline, the cooking, laundry, money and admin skills a young adult needs before the door closes, a calm moving day, and a plan for how parents and child adjust afterwards.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "child-leaving-home",
+        "parent",
+        "young-adults",
+        "life-skills",
+        "money-basics",
+        "moving-out",
+        "empty-nest"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/child-leaving-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:61f51609c2c884c6373d79b7d722ec7b4e39c80af2f810fbdbadcf821e73433f"
+    },
+    {
+      "id": "family-parenting.childcare-nursery-arrangements",
+      "name": "Childcare & Nursery Arrangements",
+      "description": "Choosing between nursery, childminder, nanny and family care, getting through waiting lists, funding and contracts, settling in, and the weekly rota and monthly bills that keep childcare running.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "childcare-nursery-arrangements",
+        "parent",
+        "nursery",
+        "childminder",
+        "nanny",
+        "childcare-costs"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/childcare-nursery-arrangements.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:7f52b48dbfc4a0fc76aaa99e86622155b5dbb96c5c4b064aa38c707a78ed4437"
+    },
+    {
+      "id": "family-parenting.childrens-birthday-parties",
+      "name": "Children's Birthday Parties",
+      "description": "A budget and guest list settled early, invitations that answer every question, allergy-safe food, a run sheet for the day and calm machinery for the parties your children are invited to.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "childrens-birthday-parties",
+        "parent",
+        "party-planning",
+        "invitations",
+        "party-food",
+        "budget"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/childrens-birthday-parties.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d66267d5e89944dfb0139512cbbca50f732f1fa65b5419445c74a84eb3a4f03b"
+    },
+    {
+      "id": "family-parenting.childrens-health-appointments",
+      "name": "Children's Health Appointments",
+      "description": "A health folder and vaccination check for every child, dentist, doctor and eye test rhythms, growth records, referral chasing, and a clean handover to teenagers who start booking their own care.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "childrens-health-appointments",
+        "parent",
+        "vaccinations",
+        "dentist",
+        "check-ups",
+        "growth-records",
+        "child-health"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/childrens-health-appointments.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:656ae8b512211d341bbe69e94ac625140c4b41cf90bc7f1e0ccca1ca40a7e9b2"
+    },
+    {
+      "id": "family-parenting.childrens-online-safety",
+      "name": "Children's Online Safety",
+      "description": "Content filters, privacy settings and age-correct accounts on every device, a no-blame promise to tell you, and a calm plan for grooming, scams, sextortion and the other risks children meet online.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "childrens-online-safety",
+        "parent",
+        "parental-controls",
+        "privacy-settings",
+        "grooming",
+        "sextortion",
+        "digital-footprint"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/childrens-online-safety.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:a84c5c14b515b3675e0e3d3adab8731e7b682f0a35c385dde3bc6b0b409860c5"
+    },
+    {
+      "id": "family-parenting.childrens-screen-time-rules",
+      "name": "Children's Screen Time Rules",
+      "description": "A written family screen agreement by age, device curfews and screen-free zones, time controls that actually hold, calm ways to end a session, and the conversations that explain why.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "childrens-screen-time-rules",
+        "parent",
+        "screen-time",
+        "gaming",
+        "smartphones",
+        "family-media-plan",
+        "device-curfew"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/childrens-screen-time-rules.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:21d68b563a6d0aeb5e507eda5cabc1f3a6e030cb58867eeb71843c72ee9ef32b"
+    },
+    {
+      "id": "family-parenting.co-parenting-after-separation",
+      "name": "Co-Parenting After Separation",
+      "description": "A written parenting plan, a schedule that suits your children's ages, calm handovers, one message channel, shared costs and calendars, and plans for holidays, new partners, distance and high conflict.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "co-parenting-after-separation",
+        "parent",
+        "separation",
+        "two-homes",
+        "parenting-plan",
+        "handovers",
+        "communication"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/co-parenting-after-separation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:c60b6b816386398cae07afa2505edd1c3ee08e75de5a02132fd51de6e89f9b76"
+    },
+    {
+      "id": "family-parenting.dealing-with-bullying",
+      "name": "Dealing With Bullying",
+      "description": "Spotting the signs early, a dated incident log and evidence folder, calm work with the school from first email to formal complaint, help for a child who bullies others, and rebuilding confidence afterwards.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "dealing-with-bullying",
+        "parent",
+        "school",
+        "cyberbullying",
+        "child-wellbeing",
+        "anti-bullying"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/dealing-with-bullying.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:27b9ade51d158102585cd02383af69ba803aacf494d4a50957554c0121b23bce"
+    },
+    {
+      "id": "family-parenting.extended-family-gatherings",
+      "name": "Extended Family Gatherings",
+      "description": "A fair hosting rotation, clear cost sharing, dietary and access notes for every relative, countdown lists for hosting, travel plans with children and calm ways to keep the peace at the big table.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "extended-family-gatherings",
+        "parent",
+        "everyone",
+        "hosting",
+        "holidays",
+        "family-reunion",
+        "travel"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/extended-family-gatherings.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f53c1c843e68be1f21cc18cb2dd5c86021f1ddf46e99c0080f22ad89e7468d26"
+    },
+    {
+      "id": "family-parenting.family-calendar-logistics",
+      "name": "Family Calendar & Logistics",
+      "description": "One shared family calendar every adult trusts, a clear owner for each logistics job, weekly and termly planning rhythms, and cover plans for the weeks when normal routines break.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "family-calendar-logistics",
+        "parent",
+        "shared-calendar",
+        "mental-load",
+        "school-admin",
+        "family-organisation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/family-calendar-logistics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:98219072b857a6117b57103fda633cb4f066086113ac9b21513ade8f7db60968"
+    },
+    {
+      "id": "family-parenting.family-meetings-decisions",
+      "name": "Family Meetings & Decisions",
+      "description": "A weekly family meeting that children actually join, clear rules on who decides what, a decisions log, problem-solving and voting methods, and versions for toddlers, teenagers, step-families, single parents and away parents.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "family-meetings-decisions",
+        "parent",
+        "family-meetings",
+        "decision-making",
+        "problem-solving",
+        "children-voice"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/family-meetings-decisions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:a9f992a9b8f9684110fe0f0f72c55bf8024f35b2e60e55566c541faea25c00af"
+    },
+    {
+      "id": "family-parenting.family-traditions-rituals",
+      "name": "Family Traditions & Rituals",
+      "description": "An audit of the customs you already keep, the values behind them, weekly and seasonal rituals that really happen, festival run-ups shared fairly, and versions for step-families, two homes, teenagers and grief.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "family-traditions-rituals",
+        "parent",
+        "traditions",
+        "rituals",
+        "festivals",
+        "belonging"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/family-traditions-rituals.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:cb4c04ac84bc0aacf416bb715946443bb5f51dc5b2be80621aecd8ff5888f1c3"
+    },
+    {
+      "id": "family-parenting.foster-caring",
+      "name": "Foster Caring",
+      "description": "Fostering from first enquiry to approval panel, then the recordings, reviews, family time, allowances and support that keep placements stable, with plans for arrivals, endings and specialist placements.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "foster-caring",
+        "parent",
+        "carer",
+        "fostering",
+        "placements",
+        "safer-caring",
+        "family-time"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/foster-caring.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 209
+      },
+      "contentHash": "sha256:88ec433cad1f0640520a3bba3a9a208a4a1dc846c64ee51ac9673244e8315c31"
+    },
+    {
+      "id": "family-parenting.homework-support",
+      "name": "Homework Support",
+      "description": "A homework time and spot that work, a clear line on how much parents help, calm ways through stuck evenings, and a steady handover to a child who manages their own work.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "homework-support",
+        "parent",
+        "routines",
+        "study-space",
+        "independent-learning",
+        "school"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/homework-support.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b9ef1f7b097c98613b5a6ece3c9bf64aa22eec0b7b1a91ae9a0908bfe7707a8a"
+    },
+    {
+      "id": "family-parenting.kids-clubs-activities-schedule",
+      "name": "Kids' Clubs & Activities Schedule",
+      "description": "A clear weekly timetable of every child's clubs, lessons and sports, with fees, kit, lifts and safeguarding sorted, room left for free time, and calm decisions about starting, switching or quitting.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "kids-clubs-activities-schedule",
+        "parent",
+        "after-school-clubs",
+        "sports",
+        "music-lessons",
+        "overscheduling",
+        "lift-sharing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/kids-clubs-activities-schedule.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0615d845febfa8647dfc4e2d2ad534482c2edc94901425c868ab4cf1836cabc1"
+    },
+    {
+      "id": "family-parenting.kids-household-jobs-chart",
+      "name": "Kids' Household Jobs Chart",
+      "description": "Age-matched jobs for every child, a chart and reward system both parents back, daily and weekly job routines, the skills to teach, and charts that work for toddlers, teens, two homes and additional needs.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "kids-household-jobs-chart",
+        "parent",
+        "chores",
+        "jobs-chart",
+        "independence",
+        "rewards",
+        "routines"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/kids-household-jobs-chart.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:f3c92a89f6d5773a339a57e76d73faea28848b4ed617e039a2eae40e9ff610c3"
+    },
+    {
+      "id": "family-parenting.kids-time-with-grandparents",
+      "name": "Kids' Time With Grandparents",
+      "description": "Regular, safe and fair time between your children and their grandparents, from house rules and childcare deals to video calls, visits and the harder seasons of illness and loss.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "kids-time-with-grandparents",
+        "parent",
+        "grandparents",
+        "grandparent-childcare",
+        "long-distance-family",
+        "intergenerational"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/kids-time-with-grandparents.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:666e5ebf65dcefa90841f2e104499e654971582b199dbe5f459506d82b951c51"
+    },
+    {
+      "id": "family-parenting.learner-driver-teen-practice",
+      "name": "Learner Driver Teen Practice",
+      "description": "Learner rules, a legal and insured practice car, an instructor and a logbook, weekly supervised practice across every road and condition, the tests, and the first year on a full licence.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "learner-driver-teen-practice",
+        "parent",
+        "teen-driver",
+        "driving-lessons",
+        "driving-test",
+        "learner-insurance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/learner-driver-teen-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:42115255435c7a3cd127f16f4b46da7b9008504548e082b39949cf990042df3c"
+    },
+    {
+      "id": "family-parenting.newborn-first-three-months",
+      "name": "Newborn First Three Months",
+      "description": "Feed, nappy and weight logs, a safe sleep space and warning signs card, visitor rules and a fair night rota, plus the feeding skills, checks and recovery routines that see new parents through twelve weeks.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "newborn-first-three-months",
+        "parent",
+        "newborn",
+        "infant-feeding",
+        "night-feeds",
+        "postnatal",
+        "visitors"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/newborn-first-three-months.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a72c834a2277077ebebbae3a4411aa03c81e417a6724456541687e33e4d52cd8"
+    },
+    {
+      "id": "family-parenting.parental-leave-planning",
+      "name": "Parental Leave Planning",
+      "description": "Entitlements and notice dates for both parents, a leave-year money plan, a proper handover, keeping-in-touch days and a return to work you have shaped rather than drifted into.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "parental-leave-planning",
+        "parent",
+        "knowledge-worker",
+        "maternity-leave",
+        "shared-parental-leave",
+        "return-to-work"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/parental-leave-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9f7d0bab25926c8bfc0120436a1d69cae588df27ca10bd52150efd261b0db4b7"
+    },
+    {
+      "id": "family-parenting.parenting-adult-children",
+      "name": "Parenting Adult Children",
+      "description": "An honest picture of where you stand with each grown-up child, a contact rhythm that suits you both, clear rules on money and help, boomerang agreements, grandparenting on their terms and the harder talks about estrangement and later life.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "parenting-adult-children",
+        "parent",
+        "retiree",
+        "adult-children",
+        "boomerang-kids",
+        "grandparenting",
+        "boundaries"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/parenting-adult-children.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:daca62cafebce1271a780d2f785b95a87ce6ec36f7eac379930077e526e22362"
+    },
+    {
+      "id": "family-parenting.parenting-approach-agreement",
+      "name": "Parenting Approach Agreement",
+      "description": "Both parents on the same page: your upbringings and values compared, a written agreement on discipline, school and screens, a weekly check-in, and a plan for the moments you disagree.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "parenting-approach-agreement",
+        "parent",
+        "consistency",
+        "family-values",
+        "discipline",
+        "parenting-partnership"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/parenting-approach-agreement.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1dc8642c15861014720ea83fd4f4403ff35123abf819da9387a026041b2bb638"
+    },
+    {
+      "id": "family-parenting.parenting-teenagers",
+      "name": "Parenting Teenagers",
+      "description": "A conversation log, family non-negotiables, a freedoms map and curfew deal, weekly time together, and calm plans for parties, alcohol, drugs, broken trust and a teen who is not home.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "parenting-teenagers",
+        "parent",
+        "teenagers",
+        "curfews",
+        "independence",
+        "risk-taking",
+        "communication"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/parenting-teenagers.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 218
+      },
+      "contentHash": "sha256:74c4ef94d984a391d18a80bc3b3b0c8018e8bd6df77050d2f370f6bc390318cb"
+    },
+    {
+      "id": "family-parenting.pocket-money-kids-money-lessons",
+      "name": "Pocket Money & Kids' Money Lessons",
+      "description": "A pocket money amount and pay day that suit each child, spend, save and give jars, savings goals and accounts, and age-by-age money lessons that turn small coins into real judgement.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "pocket-money-kids-money-lessons",
+        "parent",
+        "allowance",
+        "saving",
+        "budgeting",
+        "financial-literacy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/pocket-money-kids-money-lessons.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:2a5bfbdcb8c56b77b8355b98403bfbb85e6093b211533cc6c6cddc2f727a90b5"
+    },
+    {
+      "id": "family-parenting.positive-discipline-strategies",
+      "name": "Positive Discipline Strategies",
+      "description": "A shouting tally, five house rules and a consequences menu agreed in advance, the skills of calm limits and emotion coaching, and plans for backchat, lying and school incidents, for parents of four to twelve year olds.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "positive-discipline-strategies",
+        "parent",
+        "positive-discipline",
+        "consequences",
+        "shouting-less",
+        "school-age",
+        "emotion-coaching"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/positive-discipline-strategies.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f1f6919f8ac902354ab1e7554a12156c39879f4030a297cb7cafaea41bb38c2d"
+    },
+    {
+      "id": "family-parenting.potty-training",
+      "name": "Potty Training",
+      "description": "Readiness signs, a method both parents and every carer follow, calm accident handling, poo and constipation watch, outings, nursery handovers and, later, dry nights.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "potty-training",
+        "parent",
+        "toddler",
+        "toilet-training",
+        "night-dryness",
+        "accidents"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/potty-training.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:9bd7984b0784b8bd04fb9417b96c84eab9ecb2d6ba7381a34acacc181a24546a"
+    },
+    {
+      "id": "family-parenting.pregnancy-antenatal-planning",
+      "name": "Pregnancy & Antenatal Planning",
+      "description": "Appointments, scans, screening choices, antenatal classes, workplace notice and the practical preparations both parents need, from the positive test to the due date.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "pregnancy-antenatal-planning",
+        "parent",
+        "pregnancy",
+        "antenatal-appointments",
+        "scans",
+        "antenatal-classes",
+        "workplace-notice"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/pregnancy-antenatal-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:20fa9e34cca70f71e8900be1bb41d29b700004370695f38cda9ae704c0f836d9"
+    },
+    {
+      "id": "family-parenting.puberty-growing-up-talks",
+      "name": "Puberty & Growing Up Talks",
+      "description": "An age-by-age talk map, body safety rules, a first period kit, honest answers on periods, wet dreams, consent and pornography, and calm plans for early puberty, disclosures and health worries.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "puberty-growing-up-talks",
+        "parent",
+        "puberty",
+        "periods",
+        "consent",
+        "body-changes",
+        "relationships"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/puberty-growing-up-talks.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:ec548af65825be53ad97299147cdbfd33d2f764c7d44be061c2d3c0098e3fc0a"
+    },
+    {
+      "id": "family-parenting.reading-with-your-children",
+      "name": "Reading With Your Children",
+      "description": "A nightly story that survives busy evenings, library cards and a home shelf that works, the skills to help a beginner reader, and ways to keep older children and teenagers reading for pleasure.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "reading-with-your-children",
+        "parent",
+        "bedtime-stories",
+        "library",
+        "early-reading",
+        "reading-for-pleasure"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/reading-with-your-children.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9df83fd0de20ce596a4495c5f4b8a8d527387165e955048d9e03ab4121eadbfa"
+    },
+    {
+      "id": "family-parenting.school-admissions-choice",
+      "name": "School Admissions & Choice",
+      "description": "Key dates, catchment and odds, a shortlist built on what your family values, visits that tell you something, preferences ranked well, and calm handling of offers, waiting lists and appeals.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "school-admissions-choice",
+        "parent",
+        "school-places",
+        "open-days",
+        "catchment",
+        "appeals",
+        "secondary-transfer"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/school-admissions-choice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:e2fefb7755ed634dfff12ad0c4ae62066099c43d3604c67731dc8dcf94b2a281"
+    },
+    {
+      "id": "family-parenting.school-holiday-childcare",
+      "name": "School Holiday Childcare Planning",
+      "description": "A year of school holidays mapped and covered in advance: term dates, leave split between parents, clubs and camps booked before they fill, a holiday budget and backup plans for the days that go wrong.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "school-holiday-childcare",
+        "parent",
+        "knowledge-worker",
+        "holiday-clubs",
+        "summer-camps",
+        "annual-leave",
+        "childcare-costs"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/school-holiday-childcare.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:f2ce8febb002639a54deadf049e255a3bd785bc383ecd26a17ef613b46847ca5"
+    },
+    {
+      "id": "family-parenting.school-run-carpools",
+      "name": "School Run & Carpools",
+      "description": "A school run that works every weekday: a clear map of who takes whom, carpool rotas other families trust, safe routes children can learn, and backup collectors ready for sick days and late meetings.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "school-run-carpools",
+        "parent",
+        "carpools",
+        "lift-sharing",
+        "road-safety",
+        "walking-to-school",
+        "school-transport"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/school-run-carpools.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:b4f4997d550a313e771a96f0843ea272652c2fd64cb89127d09a19d33972bc1a"
+    },
+    {
+      "id": "family-parenting.secondary-school-exam-years",
+      "name": "Secondary School Exam Years",
+      "description": "One exam calendar, an honest picture of every subject, revision your child owns, weekly wellbeing check-ins, well-made subject and post-16 choices, and calm handling of mocks, exam days, results and reviews.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "secondary-school-exam-years",
+        "parent",
+        "revision",
+        "exam-season",
+        "subject-choices",
+        "results-day",
+        "teen-wellbeing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/secondary-school-exam-years.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:23e75a3613563e0e2d2e6f09ab5f32d91279a9359b623db181821126726997a3"
+    },
+    {
+      "id": "family-parenting.sibling-rivalry-sharing",
+      "name": "Sibling Rivalry & Sharing",
+      "description": "A two-week fight log, house rules both parents enforce, daily one-to-one time with each child, turn-taking systems for the things siblings fight over, and coaching that teaches children to settle their own disputes.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "sibling-rivalry-sharing",
+        "parent",
+        "siblings",
+        "sharing",
+        "conflict-resolution",
+        "fairness"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/sibling-rivalry-sharing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:58f3da803679883a456aab70710fabbc2483c79cdafc225bd89468043ad17e1f"
+    },
+    {
+      "id": "family-parenting.single-parent-juggling",
+      "name": "Single Parent Juggling",
+      "description": "A support network you can actually call on, backup childcare for sick days and your own illness, routines one adult can run, and protected time to recharge when you run the household alone.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "single-parent-juggling",
+        "parent",
+        "single-parent",
+        "support-network",
+        "backup-childcare",
+        "routines",
+        "self-care"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/single-parent-juggling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:ee72953e250944c83bc08c5519e02a7ef300c92d34385a13db720ece1abefcee"
+    },
+    {
+      "id": "family-parenting.special-educational-needs-support",
+      "name": "Special Educational Needs Support",
+      "description": "A clear record of your child's needs, assessments and support plans that hold up, school adjustments checked against what was promised, and calm preparation for every review, transition and dispute.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "special-educational-needs-support",
+        "parent",
+        "carer",
+        "support-plans",
+        "assessments",
+        "school-adjustments",
+        "disability"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/special-educational-needs-support.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:f39370f6de21176c7985d0c29570140ca77ca3e5f20ff0ebd334ec74517c3efb"
+    },
+    {
+      "id": "family-parenting.starting-primary-school",
+      "name": "Starting Primary School",
+      "description": "Forms, uniform, medical plans and wraparound care sorted, calm morning and evening routines, self-care skills practised, and a working partnership with the teacher from the first visit to the end of the first year.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "starting-primary-school",
+        "parent",
+        "primary-school",
+        "school-readiness",
+        "settling-in",
+        "uniform",
+        "school-routines"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/starting-primary-school.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:a09867600bfe9d94616f701a3e446ae72f86f0865e5ed4348a53a2fb5f4f363f"
+    },
+    {
+      "id": "family-parenting.toddler-behaviour-tantrums",
+      "name": "Toddler Behaviour & Tantrums",
+      "description": "A two-week tantrum log, a shared script both parents use in the first ten seconds, calm routines for transitions, and clear plans for biting, hitting and defiance from age one to four.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "toddler-behaviour-tantrums",
+        "parent",
+        "toddler",
+        "tantrums",
+        "biting",
+        "emotional-regulation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/toddler-behaviour-tantrums.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:764bfea2633b63e0f2de9f7fb1f8d12e59ffdb9cd581ad18da161f9c2524ca36"
+    },
+    {
+      "id": "family-parenting.university-applications-with-child",
+      "name": "University Applications With Your Child",
+      "description": "A route from the first honest talk about university to a confirmed place: course research, open days, the statement, offers, student finance and halls, with your child in charge.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "university-applications-with-child",
+        "parent",
+        "university",
+        "admissions",
+        "student-finance",
+        "personal-statement",
+        "accommodation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/university-applications-with-child.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:65cc1ecc8e30c4c75665d5f9a011af7c60b321ac3e86f00cfdffb5ec6a836c79"
+    },
+    {
       "id": "fitness-sport.5k-to-half-marathon-running",
       "name": "5K to Half Marathon Running",
       "description": "A safe start, shoes that fit, a walk-run route to your first 5K, then steady steps through 10K to a half marathon, with sensible weekly distance, honest pacing and race days that go to plan.",
@@ -5629,6 +6814,283 @@
       "contentHash": "sha256:43c64d84e36e3f2ba8126737bda2fa48ebe5e6d57a54f4f9fcb7f6595e6ffdb5"
     },
     {
+      "id": "relationships.adult-sibling-relationships",
+      "name": "Adult Sibling Relationships",
+      "description": "An honest stocktake of each sibling bond, contact rhythms that survive distance and busy lives, old rivalries and childhood roles worked through, and plans for money, ageing parents, loss and estrangement.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "adult-sibling-relationships",
+        "everyone",
+        "siblings",
+        "rivalry",
+        "family-roles",
+        "nieces-nephews",
+        "estrangement"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/adult-sibling-relationships.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:46cd9faa9f71b44d6692ed0f1eb4d9a607971c456b9c79c5475be5b6aef6e10a"
+    },
+    {
+      "id": "relationships.anniversaries-milestone-celebrations",
+      "name": "Anniversaries & Milestone Celebrations",
+      "description": "Every relationship date recorded and remembered, a budget and countdown for each anniversary, gift themes by year, and plans for the milestone years worth marking properly.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "anniversaries-milestone-celebrations",
+        "everyone",
+        "retiree",
+        "parent",
+        "anniversaries",
+        "milestones",
+        "traditions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/anniversaries-milestone-celebrations.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:e2c2ca7b94816a2671edd3423a45e14e731d3746316c87a9c57d102fc298b469"
+    },
+    {
+      "id": "relationships.attachment-styles-relationships",
+      "name": "Attachment Styles in Relationships",
+      "description": "Know your own attachment pattern and your partner's, spot what sets off the alarm, and practise the steadier habits of secure relating, alone and together.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "attachment-styles-relationships",
+        "everyone",
+        "attachment",
+        "anxious-attachment",
+        "avoidant-attachment",
+        "secure-relating",
+        "self-awareness"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/attachment-styles-relationships.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:38657326b26197245ad95e570b512591d198b986e9bb796fb05393403559c223"
+    },
+    {
+      "id": "relationships.best-man-bridesmaid-duties",
+      "name": "Best Man & Bridesmaid Duties",
+      "description": "Say yes with clear expectations, budget for the role, run a stag or hen everyone can afford, write and deliver the speech, and keep the couple calm and on time on the day.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "best-man-bridesmaid-duties",
+        "everyone",
+        "best-man",
+        "maid-of-honour",
+        "bridesmaid",
+        "wedding-speech",
+        "stag-and-hen"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/best-man-bridesmaid-duties.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:054e8bf9509aa165223502ca566b9f58fcf62a0bbcc0be3433c38a743a46a3ff"
+    },
+    {
+      "id": "relationships.birthday-gift-tracker",
+      "name": "Birthday & Gift Tracker",
+      "description": "Every birthday that matters in one register with reminders, gift ideas captured year round, a record of past presents, a budget that survives the busy months and plans for milestone birthdays.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "birthday-gift-tracker",
+        "everyone",
+        "birthdays",
+        "gift-ideas",
+        "cards",
+        "reminders"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/birthday-gift-tracker.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5f75d327c0ca4faa367fa2802de95c1207dd5d40f4a4ec8c45686e72770b5796"
+    },
+    {
+      "id": "relationships.conversation-small-talk-skills",
+      "name": "Conversation & Small Talk Skills",
+      "description": "A practice ladder, ready openers and exits, people notes for remembering details, and the listening and questioning skills that turn small talk into real conversation.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "conversation-small-talk-skills",
+        "everyone",
+        "student",
+        "small-talk",
+        "listening",
+        "social-confidence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/conversation-small-talk-skills.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:259ab9af7f604ae9b690ca82b70d149a458f2a488ae59534a88f31a633b31e56"
+    },
+    {
+      "id": "relationships.couple-conflict-repair",
+      "name": "Couple Conflict Repair",
+      "description": "Fair fighting rules, a time-out you both honour, apologies that land and a habit of repair, so arguments with your partner end in understanding instead of distance.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "couple-conflict-repair",
+        "everyone",
+        "couples",
+        "arguments",
+        "apology",
+        "repair",
+        "de-escalation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/couple-conflict-repair.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:95a62aac0a45dba1ec737d8eb5e4b4a1a6f25c90ac155319538c3e715ded4952"
+    },
+    {
+      "id": "relationships.couple-rituals-routines",
+      "name": "Couple Rituals & Shared Traditions",
+      "description": "Small daily rituals and yearly traditions that anchor a couple: morning coffee, hello and goodbye habits, seasonal outings, an annual trip and traditions worth passing on.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "couple-rituals-routines",
+        "everyone",
+        "rituals",
+        "traditions",
+        "daily-habits",
+        "seasonal",
+        "annual-trip"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/couple-rituals-routines.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:511780c449df2a0430c23d16705510a605a8daa798ed55fc6feab09f93c0376d"
+    },
+    {
+      "id": "relationships.couples-counselling",
+      "name": "Couples Counselling",
+      "description": "A safe and well-chosen start with the right couples therapist, sessions that tackle your recurring problems, homework you actually practise at home, and a plan for ending well.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "couples-counselling",
+        "everyone",
+        "couples-therapy",
+        "therapist-search",
+        "session-notes",
+        "homework"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/couples-counselling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:9a6b8b2991d2eb1f6a1b6f851e6c1adceaf3c882a197b8e9418737cfb1814c5b"
+    },
+    {
+      "id": "relationships.couples-shared-life-vision",
+      "name": "Couple's Shared Life Vision",
+      "description": "A shared picture of where you will live, how you will both work, whether and when to grow your family and which adventures come first, written down, costed and revisited on a steady rhythm.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "couples-shared-life-vision",
+        "everyone",
+        "couples",
+        "life-planning",
+        "shared-goals",
+        "relocation",
+        "future-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/couples-shared-life-vision.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6fa33ddc3200413610118d60a058789becbbf6a0146f5e0bb5d16691cf0e5089"
+    },
+    {
       "id": "relationships.date-night-planning",
       "name": "Date Night Planning",
       "description": "Date nights that actually happen: an agreed rhythm, a sitter shortlist, an idea bank, a budget that covers childcare, and plans that fit every stage of family life.",
@@ -5655,6 +7117,144 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:bad69ae348b4a0e43858dedd36c76609e630a46f15ce3846267ae6846f342393"
+    },
+    {
+      "id": "relationships.dating-again-after-loss",
+      "name": "Dating Again After Loss",
+      "description": "Opening up to new love after a partner's death or a long marriage ending, at grief's pace: a readiness check, family conversations, scam-safe dating, hard dates planned around and the legal questions before commitment.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "dating-again-after-loss",
+        "retiree",
+        "widowed",
+        "bereavement",
+        "grief",
+        "later-life-dating"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/dating-again-after-loss.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:94fc1d4f0e8bbc686cfa8d5657f430effb70a57be0b4be60ad2897e4678ee30b"
+    },
+    {
+      "id": "relationships.dating-as-a-single-parent",
+      "name": "Dating as a Single Parent",
+      "description": "Dating again with children at home, done with care: a custody-aware calendar, trusted sitters, privacy rules for the children and a clear plan for when and how a partner meets them.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "dating-as-a-single-parent",
+        "parent",
+        "single-parent",
+        "co-parenting",
+        "childcare",
+        "introductions",
+        "blended-family"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/dating-as-a-single-parent.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:602902c4c30aa78139ceeef50a675e133a4fb89d75914f7524dd6d5f2b9ecbac"
+    },
+    {
+      "id": "relationships.deepening-close-friendships",
+      "name": "Deepening Close Friendships",
+      "description": "A chosen inner circle, a contact rhythm you actually keep, deeper conversations, a plan for showing up in hard times and shared experiences that turn good friends into lifelong ones.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "deepening-close-friendships",
+        "everyone",
+        "close-friends",
+        "vulnerability",
+        "quality-time",
+        "support"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/deepening-close-friendships.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:c3bea6dcbdffb60afbe12449848a0479259675775d3cd37e3f48a5dfba483663"
+    },
+    {
+      "id": "relationships.difficult-conversations-loved-ones",
+      "name": "Difficult Conversations With Loved Ones",
+      "description": "A short list of the conversations you are avoiding, a preparation method that works, and plans for the hard talks about hurt, money, health and the future with partners and friends.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "difficult-conversations-loved-ones",
+        "everyone",
+        "hard-conversations",
+        "honesty",
+        "boundaries",
+        "disclosure",
+        "communication"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/difficult-conversations-loved-ones.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:eff57738bd82b3a68aafc69643f93de46c8321143ac4038cc75973a99d6c6f96"
+    },
+    {
+      "id": "relationships.divorce-separation-process",
+      "name": "Divorce & Separation Process",
+      "description": "A calm first week, the right legal and mediation help, full financial disclosure, a parenting plan the children can live with, and civil communication that holds up until the final order.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "divorce-separation-process",
+        "everyone",
+        "parent",
+        "mediation",
+        "co-parenting",
+        "legal-process",
+        "financial-disclosure"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/divorce-separation-process.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:bb5f98625e3668576b37506fe6a0460ee1ee79656cb40ab6bafb1876e46f4481"
     },
     {
       "id": "relationships.early-dating-new-relationships",
@@ -5685,6 +7285,394 @@
       "contentHash": "sha256:91f11deb827ac736772d265cff9e59cf6bc96058f215dc6eacad3ec99de93308"
     },
     {
+      "id": "relationships.empty-nest-couple-reconnection",
+      "name": "Empty Nest Couple Reconnection",
+      "description": "Rediscover each other once the children leave home: honest talks about the change, a new weekly shape for two, shared projects and adventures, and plans for retirement, grandchildren and returning children.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "empty-nest-couple-reconnection",
+        "parent",
+        "retiree",
+        "empty-nest",
+        "midlife",
+        "retirement",
+        "couple-time"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/empty-nest-couple-reconnection.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:b6daeb62f951379b3ccf03349f8519a65fc142c91226a0dfdd3cb6c270996c98"
+    },
+    {
+      "id": "relationships.ethical-non-monogamy",
+      "name": "Ethical Non-Monogamy",
+      "description": "Clear written agreements, honest disclosure, safer sex and testing routines, a shared calendar across partners, and the skills for jealousy, metamours and change in open and polyamorous relationships.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "ethical-non-monogamy",
+        "everyone",
+        "polyamory",
+        "open-relationships",
+        "agreements",
+        "scheduling",
+        "sexual-health"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/ethical-non-monogamy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6ddcbdd392602c487a9b47136387c52e74d2670089f3fb3da151a5be48b5b118"
+    },
+    {
+      "id": "relationships.fair-division-of-household-labour",
+      "name": "Fair Division of Household Labour",
+      "description": "A shared map of every household job and the thinking behind it, a written split you both agree is fair, weekly and monthly rhythms that keep it there, and plans for babies, illness and changing work.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "fair-division-of-household-labour",
+        "everyone",
+        "parent",
+        "mental-load",
+        "housework",
+        "life-admin",
+        "chores"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/fair-division-of-household-labour.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1fac48d12567d1871be00fb168369bf9e427a94b05d9a534bcde6de68b81f8ab"
+    },
+    {
+      "id": "relationships.friend-group-gatherings-reunions",
+      "name": "Friend Group Gatherings & Reunions",
+      "description": "A friend group that keeps meeting: a roster, a planning thread, an organiser rota, fair money rules, standing gatherings and traditions, plus weekends away, school and university reunions and the occasions worth marking together.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "friend-group-gatherings-reunions",
+        "everyone",
+        "reunions",
+        "group-trips",
+        "traditions",
+        "organising"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/friend-group-gatherings-reunions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:2f87dbea5d47eb385048250e4927de1f4d232e0a9ba9e57ce2dc10a47d4a5bc9"
+    },
+    {
+      "id": "relationships.friendship-fallouts-endings",
+      "name": "Friendship Fallouts & Endings",
+      "description": "Clear thinking when a friendship goes wrong: cooling off, choosing to repair or release, hard conversations held with care, shared ties untangled, and room to grieve the friend you lost.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "friendship-fallouts-endings",
+        "everyone",
+        "friendship",
+        "conflict",
+        "repair",
+        "friendship-grief",
+        "boundaries"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/friendship-fallouts-endings.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:007b0b1920f631ecbdfa99affc9a32a8e26d8b89f9e863394ecc956423e2b0ee"
+    },
+    {
+      "id": "relationships.friendships-through-life-changes",
+      "name": "Friendships Through Life Changes",
+      "description": "Friendships carried through new babies, moves, career changes, caring and retirement, with reset contact rhythms, plans that fit new schedules and support at each turning point.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "friendships-through-life-changes",
+        "everyone",
+        "parent",
+        "life-transitions",
+        "new-baby",
+        "moving",
+        "career-change"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/friendships-through-life-changes.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1776b60e88a2242d7922bd3a6db4c82f93321b5defe50f981d54e2d99cf70e3b"
+    },
+    {
+      "id": "relationships.getting-on-with-in-laws",
+      "name": "Getting On With the In-Laws",
+      "description": "A clear map of your partner's family, a united front and shared boundaries, steady contact rhythms, calmer visits and holidays, and plans for babies, culture, ageing parents and in-laws who cross a line.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "getting-on-with-in-laws",
+        "everyone",
+        "parent",
+        "boundaries",
+        "grandparents",
+        "family-visits"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/getting-on-with-in-laws.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:e9d5479e619bdb09108d49b5b167264228018e9d7c4241629d1c03dde40405f1"
+    },
+    {
+      "id": "relationships.getting-over-a-breakup",
+      "name": "Getting Over a Breakup",
+      "description": "A plan for the first raw weeks, a no-contact line you can hold, shared accounts and belongings untangled, friends lined up, and steady rebuilding of a life that is yours again.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "getting-over-a-breakup",
+        "everyone",
+        "student",
+        "breakup",
+        "no-contact",
+        "grief",
+        "self-care"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/getting-over-a-breakup.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:51364623c8af5a2fdae49a392f3d0f26f614a6826a204335b644ef44a19a7e18"
+    },
+    {
+      "id": "relationships.hosting-friends-at-home",
+      "name": "Hosting Friends at Home",
+      "description": "A home friends actually come to: what your space can hold, a guest list, easy formats, open houses and games nights on a rhythm, cooking for a crowd, and hosting that fits rentals, families and limited energy.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "hosting-friends-at-home",
+        "everyone",
+        "homeowner",
+        "renter",
+        "games-night",
+        "open-house",
+        "dinner-parties"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/hosting-friends-at-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:62881e54ee99941c078dec3405b290b0ce695a644a007b7560387c9749a18bb7"
+    },
+    {
+      "id": "relationships.intimacy-sex-life",
+      "name": "Intimacy & Sex Life",
+      "description": "Honest talk about sex, protected time for touch and closeness, a fair plan for mismatched desire, and the health checks and specialist help that keep a couple's intimacy alive.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "intimacy-sex-life",
+        "everyone",
+        "couples",
+        "intimacy",
+        "sex",
+        "desire",
+        "sexual-health"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/intimacy-sex-life.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:49d124297869474ec394bf7fd4028ff10e5095b22351e381220f535a0e3da0ea"
+    },
+    {
+      "id": "relationships.introvert-social-energy-pacing",
+      "name": "Introvert Social Energy Pacing",
+      "description": "A clear picture of what drains and restores you, a weekly social energy budget, recharge time that holds and kind ways to say no, so you keep your people without running on empty.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "introvert-social-energy-pacing",
+        "everyone",
+        "introvert",
+        "social-energy",
+        "recharge",
+        "boundaries",
+        "burnout"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/introvert-social-energy-pacing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:9608b3509051e643ce5fcaacf14611bbaa03f49db600e79c5890b742e11ac0b2"
+    },
+    {
+      "id": "relationships.leaving-an-unhealthy-relationship",
+      "name": "Leaving an Unhealthy Relationship",
+      "description": "A private, safety-first plan for leaving a controlling or abusive relationship: helplines and advocates, trusted people, documents and money, the leaving day and staying safe afterwards.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "leaving-an-unhealthy-relationship",
+        "everyone",
+        "domestic-abuse",
+        "coercive-control",
+        "safety-planning",
+        "support-services"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/leaving-an-unhealthy-relationship.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:6234a3de87bb38e1250018b870f0880efe12f0427245a545371dd54434c20c9c"
+    },
+    {
+      "id": "relationships.lgbtq-relationships-chosen-family",
+      "name": "LGBTQ+ Relationships & Chosen Family",
+      "description": "A mapped and looked-after chosen family, coming out on your own terms, safer ways to handle unsupportive relatives, real community ties and the paperwork that protects the people you love.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "lgbtq-relationships-chosen-family",
+        "everyone",
+        "chosen-family",
+        "coming-out",
+        "queer-community",
+        "family-boundaries"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/lgbtq-relationships-chosen-family.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:af970f0834eb89288025bca75bd0679efc5950847bb92c46d2fc78f3b98a6dfc"
+    },
+    {
+      "id": "relationships.long-distance-relationship",
+      "name": "Long-Distance Relationship",
+      "description": "Call rhythms that survive time zones, visits planned and paid for, trust without tracking, and a shared plan with a real window for closing the distance.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "long-distance-relationship",
+        "everyone",
+        "student",
+        "time-zones",
+        "visits",
+        "travel-budget",
+        "closing-the-distance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/long-distance-relationship.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:22f2f7af58e9b4180851c6eb200b7aa5c508fe880a470a4e188bfd74cc90eb92"
+    },
+    {
       "id": "relationships.long-term-partnership-check-ins",
       "name": "Long-Term Partnership Check-Ins",
       "description": "A weekly check-in you both look forward to, ground rules that keep it safe, a shared notebook of agreements, and quarterly and yearly reviews of how the relationship is really going.",
@@ -5712,6 +7700,145 @@
       "contentHash": "sha256:42669f7730e0058caca2afb8986e8c1e10c6f79fa604c39b389257b4fa544824"
     },
     {
+      "id": "relationships.love-languages-appreciation",
+      "name": "Love Languages & Appreciation",
+      "description": "Learn how your partner gives and receives love, then build specific thank-yous, small daily acts and a weekly rhythm of appreciation that keep you both feeling valued.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "love-languages-appreciation",
+        "everyone",
+        "couples",
+        "appreciation",
+        "gratitude",
+        "affection"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/love-languages-appreciation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:2ddc9480e3535df2f9677dcc01db182161e95ee7c5131fcbebc30668ea45996d"
+    },
+    {
+      "id": "relationships.making-friends-as-an-adult",
+      "name": "Making Friends as an Adult",
+      "description": "One anchor group, protected hours, invitations you actually send and follow-ups that turn familiar faces into friends, for anyone building new friendships after school and university.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "making-friends-as-an-adult",
+        "everyone",
+        "friendship",
+        "clubs",
+        "classes",
+        "loneliness",
+        "social-life"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/making-friends-as-an-adult.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:13ca92d9988b62989c2ffd5df5aba137ae03811fbcb5985eb1fa5b30a06cbe72"
+    },
+    {
+      "id": "relationships.marriage-proposal-planning",
+      "name": "Marriage Proposal Planning",
+      "description": "A proposal planned with care: readiness checked, a ring chosen and paid for, blessings asked, the place, words and day rehearsed, and family and friends told in the right order.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "marriage-proposal-planning",
+        "everyone",
+        "proposal",
+        "engagement-ring",
+        "family-blessing",
+        "engagement",
+        "surprise-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/marriage-proposal-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:222e5a9f719057c92cb0513c3fa2968975afdb3c97b3ba661b614dea81184f5f"
+    },
+    {
+      "id": "relationships.money-conversations-as-couple",
+      "name": "Money Conversations as a Couple",
+      "description": "Money histories shared, debts disclosed, a fair way to combine finances and a monthly money date, so spending, saving and big decisions become a shared project instead of a recurring fight.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "money-conversations-as-couple",
+        "everyone",
+        "couples",
+        "joint-finances",
+        "budgeting",
+        "debt",
+        "money-talks"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/money-conversations-as-couple.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:7ba0a30b734d490c42f0f8a164fce7a5a76e2c6536f404a08ad9194abe8dadcc"
+    },
+    {
+      "id": "relationships.moving-in-together",
+      "name": "Moving In Together",
+      "description": "Decide whether and where to move in together, then merge homes, belongings, routines and the costs of the household with clear agreements, a calm move and regular reviews.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "moving-in-together",
+        "everyone",
+        "renter",
+        "homeowner",
+        "cohabiting",
+        "tenancy",
+        "household-setup"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/moving-in-together.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:3975742c341528292e7ffbacbd2291387f7a2e02356f629fe54f4181befff039"
+    },
+    {
       "id": "relationships.online-dating-search",
       "name": "Online Dating Search",
       "description": "A deliberate online dating search: honest profiles, filters built on real dealbreakers, safe first meetings, scam awareness and private notes on who felt right.",
@@ -5737,6 +7864,339 @@
         "totalTasks": 197
       },
       "contentHash": "sha256:26d46ebfe70b1a61ec4ec4905ca35212d5bb771597b3d5c50615b5a88470bb04"
+    },
+    {
+      "id": "relationships.online-friendships-communities",
+      "name": "Online Friendships & Communities",
+      "description": "A map of the friends you have made online, privacy and safety settings that fit, rhythms for game nights and check-ins, safe first meetups, and the skills to moderate and run a community.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "online-friendships-communities",
+        "everyone",
+        "gaming",
+        "forums",
+        "online-safety",
+        "meetups",
+        "moderation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/online-friendships-communities.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:5905bab49b6c177b8c1fb23f91031b1ffafcaf2d0b4e19d55da31813640f85d8"
+    },
+    {
+      "id": "relationships.premarital-preparation",
+      "name": "Premarital Preparation",
+      "description": "A preparation plan that runs alongside the wedding: a course or counsellor chosen, the big conversations on values, roles, money, faith and children held on purpose, and agreements written down before you sign.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "premarital-preparation",
+        "everyone",
+        "engaged-couples",
+        "premarital-counselling",
+        "marriage-preparation",
+        "faith",
+        "family-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/premarital-preparation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:17134f5db43272639aec79f6c47a1b8afdd7651ad88fa9d1e859ea77925170b6"
+    },
+    {
+      "id": "relationships.rebuilding-trust-after-infidelity",
+      "name": "Rebuilding Trust After Infidelity",
+      "description": "A path through infidelity or betrayal: steadying the first weeks, affair-informed therapy, transparency and check-in routines, a considered stay or go decision and the slow work of rebuilding trust.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "rebuilding-trust-after-infidelity",
+        "everyone",
+        "infidelity",
+        "affair-recovery",
+        "betrayal",
+        "transparency",
+        "couples-therapy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/rebuilding-trust-after-infidelity.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 188
+      },
+      "contentHash": "sha256:9c31bd946bac634238ddaa2f637f8f30752e8c71d8ee3019223def69cc017d0b"
+    },
+    {
+      "id": "relationships.reconnecting-with-old-friends",
+      "name": "Reconnecting With Old Friends",
+      "description": "A clear list of the friends you drifted from, a decision on which to rebuild, first messages that land gently and the follow-up rhythm that turns one catch-up into a friendship again.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "reconnecting-with-old-friends",
+        "everyone",
+        "old-friends",
+        "reconnection",
+        "friendship",
+        "outreach"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/reconnecting-with-old-friends.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:880e7c2e3d0cf16e90347637b11bef9e5e4110c16309f9f7108ce3180a7f9be4"
+    },
+    {
+      "id": "relationships.social-calendar-balance",
+      "name": "Social Calendar Balance",
+      "description": "A weekend shape you agree on, a shared calendar coloured by circle, limits and protected time, plus the habits, scripts and seasonal plans that keep friends, family and couple time in proportion.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "social-calendar-balance",
+        "everyone",
+        "weekends",
+        "scheduling",
+        "overcommitment",
+        "shared-calendar"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/social-calendar-balance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:2f33409eb103d78f66c2610fc1c19796ad702aeed584039989b52c72bbe57bc1"
+    },
+    {
+      "id": "relationships.social-life-in-new-city",
+      "name": "Social Life in a New City",
+      "description": "Build a social circle from nothing after a move: a map of local places and listings, weekly outings and a regular group, neighbours and newcomer networks, and reviews that show who your people are becoming.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "social-life-in-new-city",
+        "everyone",
+        "renter",
+        "relocation",
+        "newcomer",
+        "neighbourhood",
+        "community"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/social-life-in-new-city.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7e0948d7cf1dcdb2c7aa8fcf893cac51d027d7c49972a4c8dabff8a583efa853"
+    },
+    {
+      "id": "relationships.staying-in-touch-across-time-zones",
+      "name": "Staying in Touch Across Time Zones",
+      "description": "A map of friends abroad with their time zones, contact rhythms that fit the overlap, voice notes, post and group calls, and visits planned and paid for.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "staying-in-touch-across-time-zones",
+        "everyone",
+        "friends-abroad",
+        "time-zones",
+        "voice-notes",
+        "video-calls",
+        "visits"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/staying-in-touch-across-time-zones.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:0d2c81153c7aba4de0d705593b4b1d215c0f057e0606ebda3e2d37048511f3dd"
+    },
+    {
+      "id": "relationships.supporting-a-friend-in-crisis",
+      "name": "Supporting a Friend in Crisis",
+      "description": "A steady way to help a friend through illness, grief, a breakup or a mental health crisis: what to say, what to offer, who else to call, when to hand over and how to keep going yourself.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "supporting-a-friend-in-crisis",
+        "everyone",
+        "grief",
+        "mental-health",
+        "serious-illness",
+        "peer-support",
+        "carer-wellbeing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/supporting-a-friend-in-crisis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:c11eb0548942bad85b7e1641150c93229061290c2e9fbecf8f79e23cb70d67bb"
+    },
+    {
+      "id": "relationships.thoughtful-gestures-surprises",
+      "name": "Thoughtful Gestures & Surprises",
+      "description": "Notice what the people closest to you love, then turn it into hidden notes, posted cards, well-timed good-luck kits and small surprises between the big occasions.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "thoughtful-gestures-surprises",
+        "everyone",
+        "partners",
+        "friends",
+        "surprises",
+        "handwritten-notes"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/thoughtful-gestures-surprises.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:367bc35d6a791605394ab075dbdf291c9f99deb9ba634746df688aa160ef894d"
+    },
+    {
+      "id": "relationships.vow-renewal-planning",
+      "name": "Vow Renewal Planning",
+      "description": "A vow renewal planned with care: why you are renewing, a ceremony that fits the marriage you have now, rewritten vows, the right guests and a day you can actually enjoy.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "vow-renewal-planning",
+        "everyone",
+        "retiree",
+        "vows",
+        "ceremony",
+        "celebrant",
+        "anniversary"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/vow-renewal-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ff5a8dfccce2e4fbd753d2ca76f4bf8a48aa2c31e3b2ac6672dc096a18d91ca4"
+    },
+    {
+      "id": "relationships.wedding-planning",
+      "name": "Wedding Planning",
+      "description": "A wedding planned from engagement to the last thank-you card: a shared vision, a budget that holds, the venue and suppliers booked, the legal paperwork done and a running order everyone can follow.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "wedding-planning",
+        "everyone",
+        "venue",
+        "guest-list",
+        "suppliers",
+        "ceremony",
+        "budget"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/wedding-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:417a07957ce712e49dfa8723a65c52ee6ff854b1fee96231970bfd9bca01f966"
+    },
+    {
+      "id": "relationships.workplace-friendships",
+      "name": "Workplace Friendships",
+      "description": "A map of your work relationships, clear boundaries, weekly coffee and cross-team rhythms, and the skills to handle promotions, politics, leaving dos and friendships that outlast the job.",
+      "category": "personal",
+      "tags": [
+        "relationships",
+        "workplace-friendships",
+        "knowledge-worker",
+        "everyone",
+        "colleagues",
+        "hybrid-work",
+        "boundaries",
+        "office-politics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/relationships/workplace-friendships.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Relationships & Friendship"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:ecc73deba660cf831931a794aa335d4a80ff9e2b49640e59d2b42fc23b6f4e7d"
     },
     {
       "id": "sales-revenue.cold-email-prospecting-sequences",
