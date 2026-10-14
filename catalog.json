@@ -76,6 +76,1773 @@
       }
     },
     {
+      "id": "caribbean-diaspora.buying-property-back-home",
+      "name": "Buying Land or a House Back Home",
+      "description": "Buy land or a house in the Caribbean from abroad with your own attorney, a clean title search, an independent survey, money sent safely and a build you can oversee from overseas.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "buying-property-back-home",
+        "everyone",
+        "homeowner",
+        "title-search",
+        "conveyancing",
+        "building-remotely",
+        "property-scams"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/buying-property-back-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:1c7d841e5d465450f4ca80a5fd1c48e2920609f5631a2820c2fb6599b660f729"
+    },
+    {
+      "id": "caribbean-diaspora.caribbean-family-history",
+      "name": "Caribbean Family History and Genealogy",
+      "description": "A Caribbean family tree built from real records: elders' memories recorded, civil and church registers, slave registers, indentureship papers, DNA matches and archive trips, with routines that keep it sourced and shared.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "caribbean-family-history",
+        "everyone",
+        "genealogy",
+        "family-tree",
+        "dna",
+        "archives",
+        "indentureship"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/caribbean-family-history.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:ab53f953fd4f71f59d7b3ce4861638c53370c80f3fafea0b63cdab483efc2e8b"
+    },
+    {
+      "id": "caribbean-diaspora.caring-for-parents-back-home",
+      "name": "Caring for Parents Back Home",
+      "description": "Caring for ageing parents in the Caribbean from abroad, organised: the people on the ground, doctors and medicines, carers and neighbours, bills and money, visits home and plans for what comes next.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "caring-for-parents-back-home",
+        "everyone",
+        "carer",
+        "ageing-parents",
+        "long-distance-caregiving",
+        "eldercare",
+        "home-carer"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/caring-for-parents-back-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 209
+      },
+      "contentHash": "sha256:f515ada20c10cf56b8d85a642ba964c9173db64c482d909712dca216ebeba348"
+    },
+    {
+      "id": "caribbean-diaspora.diaspora-carnivals-abroad",
+      "name": "Diaspora Carnivals Abroad",
+      "description": "Choosing a carnival abroad, a budget and savings plan, mas bands and costume deposits, fetes, J'ouvert and road day logistics, crowd safety, volunteering and running a section, from Notting Hill to Labor Day and Caribana.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "diaspora-carnivals-abroad",
+        "everyone",
+        "notting-hill",
+        "labor-day",
+        "caribana",
+        "mas-bands",
+        "fetes"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/diaspora-carnivals-abroad.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d4748515d105699c32ff9a6c1f5e979fd52f4fc9be926525ca81904eee8cd0f2"
+    },
+    {
+      "id": "caribbean-diaspora.dual-citizenship-passports",
+      "name": "Dual Citizenship and Passports",
+      "description": "Every passport and citizenship document in the family listed and kept current: descent claims, renewals from abroad, children's applications, consular appointments and which passport to show at each border.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "dual-citizenship-passports",
+        "everyone",
+        "parent",
+        "passports",
+        "citizenship-by-descent",
+        "consular-services",
+        "travel-documents"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/dual-citizenship-passports.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d857f46b056cd3d547292ce74c105fdb56c5d191f1beedd37be39c96ac006a6e"
+    },
+    {
+      "id": "caribbean-diaspora.family-land-succession",
+      "name": "Family Land and Succession Back Home",
+      "description": "Family land back home put in order: papers found, heirs mapped, title checked, probate or letters of administration seen through, costs shared and decisions agreed without breaking the family.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "family-land-succession",
+        "everyone",
+        "homeowner",
+        "family-land",
+        "probate",
+        "land-title",
+        "inheritance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/family-land-succession.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:af4d85fa54da37416af32e303f6738c3d9f75ddeb520cc358ee8b2aa782c0a64"
+    },
+    {
+      "id": "caribbean-diaspora.returning-resident-move-home",
+      "name": "Returning Resident Move Home",
+      "description": "A planned move back to the Caribbean: returning resident eligibility checked, a container shipped under the duty concession, life abroad closed down cleanly and the first year back home settled with care.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "returning-resident-move-home",
+        "everyone",
+        "retiree",
+        "returning-resident",
+        "customs-concession",
+        "relocation",
+        "container-shipping"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/returning-resident-move-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:dd4124301e91e1ea56319b2f9420aa1bd9b44516125df2b391c9bced540c52e6"
+    },
+    {
+      "id": "caribbean-diaspora.sending-money-home",
+      "name": "Sending Money Home",
+      "description": "Cheaper transfers compared on total cost, a steady monthly sending routine, an emergency pot, clear records and honest agreements with the family you support in the Caribbean.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "sending-money-home",
+        "everyone",
+        "parent",
+        "remittances",
+        "exchange-rates",
+        "transfer-fees",
+        "family-support"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/sending-money-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:196d15cb735b87653a0114edaed29c36c2574bcd66b355ebd55e640538c3e72a"
+    },
+    {
+      "id": "caribbean-diaspora.shipping-barrels-home",
+      "name": "Shipping Barrels Home",
+      "description": "Ship barrels home without surprises: a trusted shipper, customs rules checked, tight packing, a briefed consignee, and Christmas and back-to-school barrels that arrive on time.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "shipping-barrels-home",
+        "everyone",
+        "barrels",
+        "customs",
+        "shipping",
+        "christmas",
+        "back-to-school"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/shipping-barrels-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:68050b1fe403cf33959dcc230ecaa32b1d2988c025f6cb02e92d4c9bd630a507"
+    },
+    {
+      "id": "caribbean-diaspora.sou-sou-partner-savings",
+      "name": "Sou-Sou and Partner Savings",
+      "description": "Join or run a sou-sou, partner hand or box with clear rules, a fair draw order, clean records, safe handling of the pot and a calm plan for the member who stops paying.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "sou-sou-partner-savings",
+        "everyone",
+        "small-business",
+        "rotating-savings",
+        "partner-hand",
+        "banker",
+        "community-savings"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/sou-sou-partner-savings.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:816407fe37b2298169ee891fb443cc44e032ea78a408748efc3c92a7168a7f92"
+    },
+    {
+      "id": "caribbean-diaspora.trinidad-carnival-playing-mas",
+      "name": "Trinidad Carnival and Playing Mas",
+      "description": "Play mas at Trinidad Carnival with a band and section chosen well, the costume paid and collected, fetes and J'ouvert planned, your body ready and a budget that survives Monday and Tuesday on the road.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "trinidad-carnival-playing-mas",
+        "everyone",
+        "athlete",
+        "carnival",
+        "trinidad",
+        "jouvert",
+        "fetes"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/trinidad-carnival-playing-mas.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:7ca5fa84cfdce7fd7d4f5d1c2ad7628f82a7d1be7b7b3cd03e2193d1982f5be4"
+    },
+    {
+      "id": "caribbean-diaspora.trips-back-home",
+      "name": "Trips Back Home",
+      "description": "Trips home planned instead of scrambled: family dates mapped ahead, fares watched, a trip fund, gifts and requests handled, and short visits shared fairly across the family.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "trips-back-home",
+        "everyone",
+        "travel",
+        "flights",
+        "family-visits",
+        "christmas",
+        "gifts"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/trips-back-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:a127020045e18e5d6c52e2a7d1769173eed39c1005d44f06c223900c721ecf5c"
+    },
+    {
+      "id": "caribbean-exams.barbados-common-entrance",
+      "name": "Barbados Common Entrance (BSSEE)",
+      "description": "The Class 4 year of the Barbados Common Entrance laid out for child, parent and teacher: format check, English and Mathematics topic by topic, timed papers, school choices, exam day and placement.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "barbados-common-entrance",
+        "student",
+        "parent",
+        "educator",
+        "bssee",
+        "common-entrance",
+        "barbados",
+        "english",
+        "mathematics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/barbados-common-entrance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ce91b82fa3d2a24cf2f2f512dd82f0db10a0f1ed41ce028af1e35cc082d20b33"
+    },
+    {
+      "id": "caribbean-exams.cape-accounting",
+      "name": "CAPE Accounting",
+      "description": "CAPE Accounting Units 1 and 2 in syllabus order: control systems, partnership and company statements, cash flows and ratios, costing, budgets, variances and investment appraisal, plus the internal assessment and past papers.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cape-accounting",
+        "cxc",
+        "cape",
+        "accounting",
+        "student",
+        "parent",
+        "educator",
+        "cost-accounting",
+        "past-papers"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cape-accounting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:215e69ad3a06fe41ac13d78deee47f334565ed7edb99757a8f63ebec557e8d95"
+    },
+    {
+      "id": "caribbean-exams.cape-applied-mathematics",
+      "name": "CAPE Applied Mathematics",
+      "description": "CAPE Applied Mathematics from syllabus check to exam day: data, probability and inference in Unit 1, discrete methods and mechanics in Unit 2, both internal assessments, timed past papers and a revision plan.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cape-applied-mathematics",
+        "student",
+        "parent",
+        "cxc",
+        "cape",
+        "statistics",
+        "mechanics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cape-applied-mathematics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:4f7ddd267eb638c4c17c330159c540f337bb601d8b38e0b4ffab80830c7a4f3d"
+    },
+    {
+      "id": "caribbean-exams.cape-biology",
+      "name": "CAPE Biology",
+      "description": "A full CAPE Biology plan for Units 1 and 2: the current syllabus and papers, weekly routines, every module from biomolecules to immunology, the internal assessment labs, essay practice, mocks and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cape-biology",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "cape",
+        "biology",
+        "internal-assessment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cape-biology.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:e4cc1a5db70c1e7d871261914f5e6bc96ca2373c3d2e585159ddb7d97429d94f"
+    },
+    {
+      "id": "caribbean-exams.cape-caribbean-studies",
+      "name": "CAPE Caribbean Studies",
+      "description": "A complete CAPE Caribbean Studies plan: the current syllabus and papers, Caribbean society and culture, issues in development, the research project from topic to submission, timed past papers, the mock and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cape-caribbean-studies",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "cape",
+        "caribbean-studies",
+        "internal-assessment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cape-caribbean-studies.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:509e8d56389ba8216f76479ff30717f26d7a854314d6d43cfac434406260e91e"
+    },
+    {
+      "id": "caribbean-exams.cape-chemistry",
+      "name": "CAPE Chemistry",
+      "description": "CAPE Chemistry Units 1 and 2 module by module, from atomic structure and equilibria to organic synthesis, spectroscopy and industry, with the internal assessment, timed past papers and an exam-day plan.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cape-chemistry",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "cape",
+        "chemistry"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cape-chemistry.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:2e3d90fca94213370b8974dd0cf633c076168c444f8c229c279a791102594256"
+    },
+    {
+      "id": "caribbean-exams.cape-communication-studies",
+      "name": "CAPE Communication Studies",
+      "description": "A full CAPE Communication Studies plan: the current paper format, a diagnostic, weekly essay and reading routines, all three modules in syllabus order, the internal assessment portfolio and oral, past papers, the mock and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cape-communication-studies",
+        "cxc",
+        "cape",
+        "communication-studies",
+        "student",
+        "parent",
+        "educator"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cape-communication-studies.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:a360e9f6f845329210c7eb478ae565bb7ad7ff40339bbf055397354edd1f624e"
+    },
+    {
+      "id": "caribbean-exams.cape-computer-science",
+      "name": "CAPE Computer Science",
+      "description": "A full CAPE Computer Science plan: the paper format check, a C compiler at home, weekly coding and trace drills, every module of Units 1 and 2 in syllabus order, both internal assessment projects, past papers, the mock and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cape-computer-science",
+        "cxc",
+        "cape",
+        "programming",
+        "student",
+        "parent",
+        "educator"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cape-computer-science.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 210
+      },
+      "contentHash": "sha256:02a1e26d91fa178fc2e82598b56f96890b0c87860e66abcd36a6ad35e582e7d5"
+    },
+    {
+      "id": "caribbean-exams.cape-economics",
+      "name": "CAPE Economics",
+      "description": "CAPE Economics Units 1 and 2 topic by topic: consumer theory, market structures, market failure, distribution, national income, money, policy, trade and development, plus the IA, past papers and exam days.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cape-economics",
+        "cxc",
+        "cape",
+        "economics",
+        "student",
+        "parent",
+        "educator",
+        "microeconomics",
+        "macroeconomics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cape-economics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 225
+      },
+      "contentHash": "sha256:c92cd482adeba3327bcfe506b3b306c83fb73f35f8e883a8272ccaff6f12caf6"
+    },
+    {
+      "id": "caribbean-exams.cape-law",
+      "name": "CAPE Law",
+      "description": "A full CAPE Law plan for Units 1 and 2: the current syllabus and papers, IRAC answers, every module from legal systems to property, a case bank, the internal assessment, timed past papers and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cape-law",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "cape",
+        "law",
+        "internal-assessment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cape-law.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:f54e3195fe4ddff309951a36dbfca23259a95818691261c778905a411ea89c2e"
+    },
+    {
+      "id": "caribbean-exams.cape-literatures-in-english",
+      "name": "CAPE Literatures in English",
+      "description": "A route through CAPE Literatures in English Units 1 and 2: set texts by genre, unseen extracts, timed essays, the internal assessment, mocks and exam day, for students, parents and teachers.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cape-literatures-in-english",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "cape",
+        "literature"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cape-literatures-in-english.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:483321e10254ff546862698c569739321f5fd9607858dc90aed57ac51e3f6a71"
+    },
+    {
+      "id": "caribbean-exams.cape-management-of-business",
+      "name": "CAPE Management of Business",
+      "description": "A complete CAPE Management of Business plan for Units 1 and 2: the syllabus and papers, all six modules, case answers, finance and operations calculations, the internal assessment, timed past papers, the mock and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cape-management-of-business",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "cape",
+        "management-of-business"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cape-management-of-business.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:ecd715ffdb9fe1340e650530f246fe1cb27f24ff004e7fd1517843a99ea873bd"
+    },
+    {
+      "id": "caribbean-exams.cape-physics",
+      "name": "CAPE Physics",
+      "description": "A full CAPE Physics plan for Units 1 and 2: the current paper format, a diagnostic, weekly question routines, every module in syllabus order, the lab book and internal assessment, past papers, the mock and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cape-physics",
+        "cxc",
+        "cape",
+        "physics",
+        "student",
+        "parent",
+        "educator"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cape-physics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:d6c96648662ac66e281ea31a2e0a284de6556f8be41535cd146f64abf9da945a"
+    },
+    {
+      "id": "caribbean-exams.cape-pure-mathematics",
+      "name": "CAPE Pure Mathematics",
+      "description": "CAPE Pure Mathematics Units 1 and 2 module by module: logic, algebra, trigonometry, vectors, calculus, complex numbers, series, matrices and differential equations, plus the internal assessment, past papers and exam days.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cape-pure-mathematics",
+        "cxc",
+        "cape",
+        "pure-mathematics",
+        "student",
+        "parent",
+        "educator",
+        "calculus",
+        "past-papers"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cape-pure-mathematics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a661d0467dc685af2dfa539a6ffd7c4cb2a205b49d572e4766da10cf8fe45d1f"
+    },
+    {
+      "id": "caribbean-exams.cape-scholarships-university-entry",
+      "name": "CAPE Results, Scholarships and University",
+      "description": "From CAPE results to a university seat: official dates, national scholarship rules, UWI and overseas applications, offers, reviews, loans, visas and the first semester, for students and parents.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cape-scholarships-university-entry",
+        "student",
+        "parent",
+        "cxc",
+        "cape",
+        "scholarships",
+        "university"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cape-scholarships-university-entry.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:d4f022ad03d78cb066109ce3d5a4faf2ca0db73711fe7f8e93f51091d23c26fd"
+    },
+    {
+      "id": "caribbean-exams.cape-sociology",
+      "name": "CAPE Sociology",
+      "description": "A full CAPE Sociology plan for Units 1 and 2: theory and methods, family, religion, stratification, education and development, the research project from question to submission, timed past papers, the mock and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cape-sociology",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "cape",
+        "sociology"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cape-sociology.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3897270ad5874b74415ad9a70dd60a8d43eb9b96b63f531a0917b2ec76705f5d"
+    },
+    {
+      "id": "caribbean-exams.csec-additional-mathematics",
+      "name": "CSEC Additional Mathematics",
+      "description": "CSEC Additional Mathematics from the first syllabus check to exam day: algebra, functions, coordinate geometry, vectors, trigonometry, calculus, statistics and probability, the SBA project, timed past papers and a revision plan.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-additional-mathematics",
+        "cxc",
+        "csec",
+        "additional-mathematics",
+        "student",
+        "parent",
+        "educator",
+        "calculus",
+        "past-papers"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-additional-mathematics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:52d2ff7c2ef24960384b0e74d038e4aff7ac3eabd736b5075b6e93ead49179cf"
+    },
+    {
+      "id": "caribbean-exams.csec-agricultural-science",
+      "name": "CSEC Agricultural Science",
+      "description": "A complete CSEC Agricultural Science plan: the current syllabus and award choice, weekly routines, every topic from soil to crops, livestock and agribusiness, the practical SBA, timed past papers, the mock, exam day and results.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-agricultural-science",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "agricultural-science",
+        "sba"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-agricultural-science.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4cdbc4da57c5cad94279f9d2d3b6b1a1d12ac71de75efb88834285a410253ba9"
+    },
+    {
+      "id": "caribbean-exams.csec-biology",
+      "name": "CSEC Biology",
+      "description": "A complete CSEC Biology plan: the current syllabus and papers, weekly routines, every topic from ecology and cells to genetics, SBA labs and write-ups, timed past papers, the mock, exam day and results.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-biology",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "biology",
+        "sba"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-biology.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:51c1a6f06fb356f4a9c0264fcf55e114c12f30196881fb53ea1aeb48ea926fba"
+    },
+    {
+      "id": "caribbean-exams.csec-caribbean-history",
+      "name": "CSEC Caribbean History",
+      "description": "A complete CSEC Caribbean History plan: the current syllabus and papers, weekly routines, every theme from the first peoples to independence and society, source skills, the SBA research, timed past papers, the mock and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-caribbean-history",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "history"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-caribbean-history.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:66f8db05ae3df17ab9d40aa8b150fee692c5ca4a03a746da285096552f7ba0cc"
+    },
+    {
+      "id": "caribbean-exams.csec-chemistry",
+      "name": "CSEC Chemistry",
+      "description": "CSEC Chemistry studied section by section, from atomic structure and the mole to organic and qualitative analysis, with lab skills, the SBA, timed past papers and an exam-day plan for students, parents and teachers.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-chemistry",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "chemistry"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-chemistry.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:6541d1e24565e03b1337603f6b3b5ae019527c63b9c24ff0c947b11395622dcf"
+    },
+    {
+      "id": "caribbean-exams.csec-economics",
+      "name": "CSEC Economics",
+      "description": "A complete CSEC Economics plan: the current syllabus and papers, weekly routines, every topic from scarcity and markets to money, government and Caribbean trade, the SBA, data questions, the mock, exam day and results.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-economics",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "economics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-economics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:92d9ebda0adba27e76e4deb6c539681163ab907a5f1360847de544e7b2f0fa42"
+    },
+    {
+      "id": "caribbean-exams.csec-edpm",
+      "name": "CSEC Electronic Document Preparation (EDPM)",
+      "description": "A full CSEC EDPM plan: the current syllabus and papers, daily touch typing and timed speed tests, every document type from letters to mail merge and newsletters, the SBA portfolio, the practical mock and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-edpm",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "edpm",
+        "keyboarding",
+        "sba"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-edpm.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d492207ca1d5d1ece81139e77a6a11d4f971ea6488a4594c02b98a8e80c41388"
+    },
+    {
+      "id": "caribbean-exams.csec-english-a",
+      "name": "CSEC English A",
+      "description": "A full CSEC English A plan: the current paper format, a diagnostic, weekly summary, comprehension and timed writing routines, each syllabus skill in turn, the SBA from theme to submission, past papers, the mock and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-english-a",
+        "cxc",
+        "csec",
+        "english",
+        "student",
+        "parent",
+        "educator"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-english-a.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:33cbfe40d00292ec4142cfad839bfd1622a3a00292e2ed94e2a5de932034ec39"
+    },
+    {
+      "id": "caribbean-exams.csec-english-b",
+      "name": "CSEC English B (Literature)",
+      "description": "Set drama, poetry and prose texts studied genre by genre, quote banks, a weekly timed essay habit, the SBA, past papers and an exam-day plan for students, parents and teachers preparing for CSEC English B.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-english-b",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "literature",
+        "english-b"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-english-b.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:b5abc9144716becbd69be7b63244a18ab8c64798821e2b4f9c394aa8c019588e"
+    },
+    {
+      "id": "caribbean-exams.csec-food-nutrition-health",
+      "name": "CSEC Food, Nutrition and Health",
+      "description": "A complete CSEC Food, Nutrition and Health plan: the current syllabus, weekly study and home cooking, every topic from nutrients to food science and preservation, the practical SBA, timed past papers, the mock and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-food-nutrition-health",
+        "student",
+        "parent",
+        "cxc",
+        "csec",
+        "nutrition",
+        "sba"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-food-nutrition-health.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a95007867577fbf401ecd06f45acd8c6187f80456015ede6926472deb3d15382"
+    },
+    {
+      "id": "caribbean-exams.csec-french",
+      "name": "CSEC French",
+      "description": "A full CSEC French plan: the current paper format, daily vocabulary and weekly listening and speaking routines, grammar and syllabus themes, the oral, any SBA, past papers, the mock and exam days.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-french",
+        "cxc",
+        "csec",
+        "french",
+        "student",
+        "parent",
+        "educator"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-french.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:ca9e0dcd43c061aefb2fb27f8a75ea23ad96e80a35a3ecdadf424f68a4f40479"
+    },
+    {
+      "id": "caribbean-exams.csec-geography",
+      "name": "CSEC Geography",
+      "description": "A complete CSEC Geography plan: the current syllabus and papers, weekly mapwork and study routines, every topic from contours and plate tectonics to hurricanes, migration and tourism, the field study SBA, the mock, exam day and results.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-geography",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "geography"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-geography.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a1f028392bd6e45d470761d612b263b564b8a11013c341aee69274dc070a8c25"
+    },
+    {
+      "id": "caribbean-exams.csec-human-social-biology",
+      "name": "CSEC Human and Social Biology",
+      "description": "A full CSEC Human and Social Biology plan: the paper format check, every syllabus section from cells to disease and the environment, the SBA lab book, timed past papers and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-human-social-biology",
+        "cxc",
+        "csec",
+        "hsb",
+        "biology",
+        "student",
+        "parent"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-human-social-biology.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 212
+      },
+      "contentHash": "sha256:e9425d1744c08f4985383fbd78328249b7d7232e6851f2fe77d53611b49c4a82"
+    },
+    {
+      "id": "caribbean-exams.csec-information-technology",
+      "name": "CSEC Information Technology",
+      "description": "A complete CSEC Information Technology plan: the current syllabus and papers, daily coding drills, every section from computer fundamentals to program implementation, the SBA, timed past papers, the mock, exam day and results.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-information-technology",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "programming",
+        "sba"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-information-technology.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4e46f3d21ba50034616f1313099812420cbcc449e61a5aa28e04e1e73b1ab735"
+    },
+    {
+      "id": "caribbean-exams.csec-integrated-science",
+      "name": "CSEC Integrated Science",
+      "description": "A full CSEC Integrated Science plan: the current paper format, every syllabus topic from cells to circuits to hurricanes, the SBA lab book, Paper 032 for private candidates, timed past papers and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-integrated-science",
+        "cxc",
+        "csec",
+        "integrated-science",
+        "student",
+        "parent",
+        "educator"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-integrated-science.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:942240d0c3a4a08d705d6836c2d0fe95c3df45ae904012221457d1f54cb8f00c"
+    },
+    {
+      "id": "caribbean-exams.csec-mathematics",
+      "name": "CSEC Mathematics",
+      "description": "A full CSEC Mathematics plan: the current paper format, every syllabus section from number to vectors and matrices, the SBA project, timed past papers, mark schemes and the final weeks to exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-mathematics",
+        "cxc",
+        "csec",
+        "mathematics",
+        "student",
+        "parent",
+        "educator"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-mathematics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:b62844aa56c16d9106978187a40b77c52ff0d1cb83aafb8d58dab09bc60f7db6"
+    },
+    {
+      "id": "caribbean-exams.csec-music",
+      "name": "CSEC Music",
+      "description": "A daily practice routine, ear training, notation and theory, Caribbean and world styles studied for the listening paper, composing and performing for the SBA, and a timed plan to the CSEC Music exam.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-music",
+        "student",
+        "parent",
+        "creative",
+        "cxc",
+        "csec",
+        "music"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-music.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:49f9a6ae4a071b277426ef0f63e8f1fbf24fbfd62c091a968dcd5d60374a3818"
+    },
+    {
+      "id": "caribbean-exams.csec-office-administration",
+      "name": "CSEC Office Administration",
+      "description": "A full CSEC Office Administration plan: the current syllabus and papers, weekly routines, every topic from reception and mail to records, meetings and purchasing, the SBA, timed past papers, the mock and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-office-administration",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "office-administration",
+        "sba"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-office-administration.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:3d3c6e8f602d55e8a36a5fff412fc29f3478ba453b9c894155893a1b991c7be8"
+    },
+    {
+      "id": "caribbean-exams.csec-physical-education-sport",
+      "name": "CSEC Physical Education and Sport",
+      "description": "A complete CSEC Physical Education and Sport plan: the current syllabus and papers, anatomy, fitness and training, sport in Caribbean society, practical activities, the SBA, timed past papers, the mock and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-physical-education-sport",
+        "student",
+        "athlete",
+        "educator",
+        "cxc",
+        "csec",
+        "physical-education"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-physical-education-sport.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:6fbb9593a087ae40eb898aad86c447fd2f71165812071bebc266954d087f421a"
+    },
+    {
+      "id": "caribbean-exams.csec-physics",
+      "name": "CSEC Physics",
+      "description": "A full CSEC Physics plan: the current paper format, all five syllabus sections from mechanics to the atom, the SBA lab book, timed past papers, mark schemes and the final weeks to exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-physics",
+        "cxc",
+        "csec",
+        "physics",
+        "student",
+        "parent",
+        "educator"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-physics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7f7372f4f8ae0bedaa0f6d43e2ee86b004be38910f9a1366bf6f9ba090c84966"
+    },
+    {
+      "id": "caribbean-exams.csec-principles-of-accounts",
+      "name": "CSEC Principles of Accounts",
+      "description": "A complete CSEC Principles of Accounts plan: the current syllabus and papers, daily double-entry drills, every section from the cash book to payroll, the SBA, timed past papers, the mock, exam day and results.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-principles-of-accounts",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "accounting",
+        "sba"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-principles-of-accounts.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:2aa6f32ff57bd0da4e65d257815bbfa833b2700643cf7f997ba5d52bb9719297"
+    },
+    {
+      "id": "caribbean-exams.csec-principles-of-business",
+      "name": "CSEC Principles of Business",
+      "description": "A complete CSEC Principles of Business plan: the current syllabus and papers, weekly routines, every section from business organisation to the Caribbean economy, the SBA research project, timed past papers, the mock and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-principles-of-business",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "principles-of-business",
+        "sba"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-principles-of-business.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:9993af79cc98445ce1b7efbd2712ff6a986bc37068e4c1628c40fc6f222dddb4"
+    },
+    {
+      "id": "caribbean-exams.csec-private-candidate",
+      "name": "CSEC as a Private or Adult Candidate",
+      "description": "A complete plan for sitting CSEC without a school: the Local Registrar and entry, Paper 032 in place of the SBA, self-study around work and family, mock week, exam day, results and using them abroad.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-private-candidate",
+        "cxc",
+        "csec",
+        "private-candidate",
+        "student",
+        "knowledge-worker",
+        "parent"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-private-candidate.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:b2f3eca2907e233deffc2c0a45338fcfdff2fced520d17909197b9ef74f353f8"
+    },
+    {
+      "id": "caribbean-exams.csec-sba-planning",
+      "name": "CSEC SBA Planning Across Subjects",
+      "description": "Every CSEC School-Based Assessment planned as one system: an SBA inventory and master calendar, shared research and writing skills, drafts and feedback, sign-off and submission, plus projects for parents and SBA teachers.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-sba-planning",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "sba"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-sba-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:5c7ad70a550bdc4976b0a40092646a803a3541ece3830053e139c46279f58c8d"
+    },
+    {
+      "id": "caribbean-exams.csec-social-studies",
+      "name": "CSEC Social Studies",
+      "description": "A complete CSEC Social Studies plan: the current syllabus and papers, family, society, development and regional integration section by section, your option, the SBA research project, timed past papers, the mock and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-social-studies",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "social-studies",
+        "sba"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-social-studies.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:e8ce40103a852c2dafa2242f36841bfc13384778f6ab1e585ab7ab5186d29de7"
+    },
+    {
+      "id": "caribbean-exams.csec-spanish",
+      "name": "CSEC Spanish",
+      "description": "A full CSEC Spanish plan: the current paper and oral format, a diagnostic, daily vocabulary and weekly listening and speaking routines, the grammar and topic areas in turn, every exam section, mocks, the oral and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-spanish",
+        "cxc",
+        "csec",
+        "spanish",
+        "modern-languages",
+        "student",
+        "parent",
+        "educator",
+        "oral-exam"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-spanish.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:89947f5390321c586eec1424c3d1041134bf66e9fd496726fd767664f3019b40"
+    },
+    {
+      "id": "caribbean-exams.csec-technical-drawing",
+      "name": "CSEC Technical Drawing",
+      "description": "A full CSEC Technical Drawing plan: the syllabus and papers, plane and solid geometry topic by topic, the building or mechanical option, timed past papers, the SBA drawings, the mock and exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-technical-drawing",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "geometrical-drawing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-technical-drawing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:face3ba45d6da2a37e569146c6986b47551c960cda9325b75b4c344181256130"
+    },
+    {
+      "id": "caribbean-exams.csec-visual-arts",
+      "name": "CSEC Visual Arts",
+      "description": "Expressive form pieces, a reflective journal that tells the story of your work, art history, studio routines and a schedule to the submission date for students, parents and teachers preparing for CSEC Visual Arts.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "csec-visual-arts",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "csec",
+        "art",
+        "art-history"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/csec-visual-arts.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:300fb0236cd1ef4bac8ca7b08049a252602074e35f1e75d49e5c140150e59b1b"
+    },
+    {
+      "id": "caribbean-exams.cxc-cpea-primary-exit",
+      "name": "CXC CPEA Primary Exit Assessment",
+      "description": "A Grade 6 plan for the CXC Primary Exit Assessment: the current format, weekly routines, topic work in all four subjects, the coursework, a mock and exam day, for students, parents and teachers.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "cxc-cpea-primary-exit",
+        "student",
+        "parent",
+        "educator",
+        "cxc",
+        "cpea",
+        "oecs",
+        "grade-6"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/cxc-cpea-primary-exit.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:6489c1ef45719d1fc0ba021af3aa010099dc2d4daee2c38a36c9b05c05570f85"
+    },
+    {
+      "id": "caribbean-exams.jamaica-pep-grade-six",
+      "name": "Jamaica PEP Grade Six Exams",
+      "description": "A grade six PEP year laid out for child, parent and teacher: the ability test, performance tasks and curriculum-based tests by subject, a study routine, timed practice, high school choices and test days.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "jamaica-pep-grade-six",
+        "student",
+        "parent",
+        "educator",
+        "pep",
+        "jamaica",
+        "ability-test",
+        "performance-task",
+        "grade-six"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/jamaica-pep-grade-six.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:41b0e9daf6d39addfd2ddee070dcb6ac18b4057182eb1d82bc75a6b40d8bc8a1"
+    },
+    {
+      "id": "caribbean-exams.sea-creative-writing",
+      "name": "SEA Creative Writing",
+      "description": "Timed story planning, gripping openings and solid endings, description, paragraphing and a weekly marked composition routine for pupils, parents and teachers preparing for the SEA Creative Writing paper.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "sea-creative-writing",
+        "student",
+        "parent",
+        "educator",
+        "sea",
+        "creative-writing",
+        "trinidad-and-tobago",
+        "composition"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/sea-creative-writing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:693fee34b69aa0cd6a896cad0cc719b3d6cb18f1771d8f543e9a0dcea7b794f9"
+    },
+    {
+      "id": "caribbean-exams.sea-english-language-arts",
+      "name": "SEA English Language Arts",
+      "description": "A full SEA English Language Arts plan: the current paper format, daily reading and spelling routines, grammar, vocabulary and comprehension topic drills, timed practice papers and the final weeks to exam day.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "sea-english-language-arts",
+        "sea",
+        "english-language-arts",
+        "student",
+        "parent",
+        "educator",
+        "comprehension"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/sea-english-language-arts.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:54ed9aa92aa6f457ee8f29ce79026377c17397114db3d13687f1e568159d9471"
+    },
+    {
+      "id": "caribbean-exams.sea-mathematics",
+      "name": "SEA Mathematics",
+      "description": "A full SEA Mathematics plan for Trinidad and Tobago: framework check, diagnostic paper, topic drills strand by strand, timed past papers, mock review and a calm exam morning.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "sea-mathematics",
+        "sea",
+        "mathematics",
+        "student",
+        "parent",
+        "educator",
+        "trinidad-and-tobago",
+        "past-papers"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/sea-mathematics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:ce4a58d840b564b78d835699674161995ac710134ec17a46651cb92201eb9330"
+    },
+    {
+      "id": "caribbean-exams.sea-school-choices-results",
+      "name": "SEA School Choices and Results",
+      "description": "Secondary school choices made with the right facts, SEA placement rules understood, results day handled calmly and a child settled into Form One with travel, routines and costs sorted.",
+      "category": "personal",
+      "tags": [
+        "caribbean-exams",
+        "sea-school-choices-results",
+        "sea",
+        "parent",
+        "student",
+        "school-choice",
+        "form-one",
+        "trinidad-tobago"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-exams/sea-school-choices-results.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean School Exams"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:30c2060bf25bc6be72a732460f9ce3d28d7df89f5c78e8f742b5b45a322079c7"
+    },
+    {
       "id": "family-parenting.adoption-journey",
       "name": "Adoption Journey",
       "description": "A route through adoption from first enquiry and assessment to matching, introductions, placement and the adoption order, then life story work, birth family contact and long-term support.",
@@ -8391,6 +10158,928 @@
         "totalTasks": 203
       },
       "contentHash": "sha256:43c64d84e36e3f2ba8126737bda2fa48ebe5e6d57a54f4f9fcb7f6595e6ffdb5"
+    },
+    {
+      "id": "professions-trades.accountancy-qualification-path",
+      "name": "ACCA and CPA Accountancy Path",
+      "description": "The route to qualifying as an accountant: choosing ACCA, CPA or another body, exemptions and registration, a paper-by-paper exam plan, practical experience, membership and the first finance roles.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "accountancy-qualification-path",
+        "everyone",
+        "student",
+        "acca",
+        "cpa",
+        "accounting",
+        "professional-exams"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/accountancy-qualification-path.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:cff7b40ee78e942d2c4e01c843ab7bc0e1d9e75056cd69b17241090a8d533524"
+    },
+    {
+      "id": "professions-trades.air-conditioning-refrigeration-trade",
+      "name": "Air Conditioning and Refrigeration Trade",
+      "description": "From first interest to trusted cooling technician: training routes, refrigerant certification, brazing and vacuum skills, installs and servicing, proper records and a client base of your own.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "air-conditioning-refrigeration-trade",
+        "student",
+        "hvacr",
+        "refrigeration",
+        "air-conditioning",
+        "refrigerant-certification",
+        "csec"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/air-conditioning-refrigeration-trade.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:e378936e418c052929672deb4b597de718e1c2e3893a0d23ef9743db5d698406"
+    },
+    {
+      "id": "professions-trades.architecture-career",
+      "name": "Architecture Career",
+      "description": "The route to becoming an architect, from CSEC, CAPE or A-level subjects and an admissions portfolio to an accredited degree, logged experience, the licensing exam, registration and running projects or a practice.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "architecture-career",
+        "everyone",
+        "student",
+        "creative",
+        "architecture",
+        "registration",
+        "portfolio"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/architecture-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:0516b517030a3070c3d6312e77df6b8d2e04c20dec32f137e8156c17757439b8"
+    },
+    {
+      "id": "professions-trades.banking-career",
+      "name": "Banking Career",
+      "description": "The route into and up through banking: entry roles in branches and operations, banking qualifications, AML and compliance, lending and credit, specialist tracks and running a branch.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "banking-career",
+        "everyone",
+        "student",
+        "banking",
+        "finance",
+        "credit",
+        "compliance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/banking-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:160f920d3b21b211a15792d2ee814451e7834f153367832725f7d2938b2bc4b5"
+    },
+    {
+      "id": "professions-trades.becoming-a-doctor",
+      "name": "Becoming a Doctor",
+      "description": "The route into medicine from CSEC and CAPE sciences or A-levels to medical school, internship, licensing, a chosen specialty and the first senior years, organised as 50 practical projects.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "becoming-a-doctor",
+        "everyone",
+        "student",
+        "medicine",
+        "medical-school",
+        "residency",
+        "cape"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/becoming-a-doctor.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:d4194a798f8bd82758158cd0ae87582c186484a8e4c1091a4489207446ffc930"
+    },
+    {
+      "id": "professions-trades.becoming-a-lawyer",
+      "name": "Becoming a Lawyer",
+      "description": "The route into law, from CSEC and CAPE subjects to admission: choosing where to qualify, the law degree, law school or the bar course, pupillage or articling, the first years of practice and choosing a field.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "becoming-a-lawyer",
+        "student",
+        "law-degree",
+        "law-school",
+        "bar-exam",
+        "legal-education-certificate",
+        "pupillage"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/becoming-a-lawyer.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:36d55fe905ea18d5cca52a7df6acaeaea4fe3cbcfc07e62e8f5939857cd2e61f"
+    },
+    {
+      "id": "professions-trades.becoming-a-teacher",
+      "name": "Becoming a Teacher",
+      "description": "From a first week of classroom observation to a qualified post: entry qualifications, teacher training and placements, registration, the induction year, and later exam classes, mentoring and school leadership.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "becoming-a-teacher",
+        "student",
+        "educator",
+        "teacher-training",
+        "classroom-practice",
+        "teaching-abroad",
+        "school-leadership"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/becoming-a-teacher.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:248294be70c50647118668ea1985f67f78b2b36667015a6ddfd91508c807ea7d"
+    },
+    {
+      "id": "professions-trades.carpentry-joinery-trade",
+      "name": "Carpentry and Joinery Trade",
+      "description": "The route from a first woodwork class to a qualified carpenter or joiner: training and apprenticeship, site and bench skills, roofing and formwork, safety cards, trade tests and pricing your own work.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "carpentry-joinery-trade",
+        "everyone",
+        "student",
+        "carpentry",
+        "joinery",
+        "apprenticeship",
+        "formwork"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/carpentry-joinery-trade.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:e439b3ea2076c61a0e4f257df61b583b810855fd02668bf081ff06fc830e374a"
+    },
+    {
+      "id": "professions-trades.civil-engineering-career",
+      "name": "Civil Engineering Career",
+      "description": "The route into civil engineering from CSEC and CAPE mathematics or A-levels to an accredited degree, site experience, professional registration, a chosen specialism and leading projects, as 50 practical projects.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "civil-engineering-career",
+        "everyone",
+        "student",
+        "engineer",
+        "civil-engineering",
+        "professional-registration",
+        "cape"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/civil-engineering-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:fbc4fd4997f594d6fc333f9f8e363fcf81ae21b804018af7a3ce8bbde36143fa"
+    },
+    {
+      "id": "professions-trades.commercial-pilot-training",
+      "name": "Commercial Pilot Training",
+      "description": "The route from a first trial lesson to the right-hand seat of an airliner: the medical, choosing a flight school, private and commercial licences, the instrument rating, building hours and airline applications.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "commercial-pilot-training",
+        "student",
+        "aviation",
+        "pilot-licence",
+        "flight-school",
+        "airline",
+        "instrument-rating"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/commercial-pilot-training.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7741bbf58381a07f873e8d871a825f0a440ce094e8828aa92dea45ae4097032d"
+    },
+    {
+      "id": "professions-trades.cybersecurity-career-entry",
+      "name": "Cybersecurity Career Entry",
+      "description": "The route into a first security role, from networking and Linux basics, a home lab and capture the flag practice to entry certifications, a portfolio, interviews and the first 90 days.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "cybersecurity-career-entry",
+        "everyone",
+        "student",
+        "engineer",
+        "soc-analyst",
+        "certifications",
+        "home-lab"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/cybersecurity-career-entry.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 223
+      },
+      "contentHash": "sha256:7cee634e5bed57956cfe7870128a6bcc40158b2382dc568b97f84a68434ae5f0"
+    },
+    {
+      "id": "professions-trades.defence-force-military-career",
+      "name": "Defence Force and Military Career",
+      "description": "The route into a defence force or military, from eligibility and selection through basic training, a trade, promotion and reserve service to resettlement and life after you leave.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "defence-force-military-career",
+        "everyone",
+        "student",
+        "defence-force",
+        "military",
+        "enlistment",
+        "coast-guard"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/defence-force-military-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:c9a5970e5183b8ab49c35da98aa6e647c1c15c42eddfd2fc38d5648ee5200913"
+    },
+    {
+      "id": "professions-trades.electrician-trade-licence",
+      "name": "Electrician Trade and Licence",
+      "description": "The route to a licensed electrician from CSEC subjects or a first course through apprenticeship hours, wiring regulations, the licence exams and safe practice to a client base of your own, as 50 practical projects.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "electrician-trade-licence",
+        "everyone",
+        "student",
+        "electrician",
+        "apprenticeship",
+        "wiring-regulations",
+        "cvq"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/electrician-trade-licence.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:64a92f4b33f7a2a364639caeb331835c484b434317c7e4b896dffb83ceac2f44"
+    },
+    {
+      "id": "professions-trades.farming-as-a-career",
+      "name": "Farming as a Career",
+      "description": "The route into farming as a living: training, land and water, choosing crops or livestock, finance, farm records, selling to buyers and running the farm as a registered business.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "farming-as-a-career",
+        "everyone",
+        "small-business",
+        "agriculture",
+        "farm-business",
+        "crops",
+        "livestock"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/farming-as-a-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:a246739743a5f77de47d0eacec9dd90a4d7a2f811877681601e517c8aaeca2cd"
+    },
+    {
+      "id": "professions-trades.firefighter-career",
+      "name": "Firefighter Career",
+      "description": "The route into the fire service from first interest to experienced firefighter: entry requirements, fitness and aptitude tests, recruit school, probation, shift life, specialist certifications and promotion, as 50 practical projects.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "firefighter-career",
+        "student",
+        "athlete",
+        "fire-service",
+        "fitness-test",
+        "recruit-training",
+        "fire-officer"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/firefighter-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:175c5da4634cb3ce3c52eadfd4c00681fa591844cf6ed76d7262e400be216250"
+    },
+    {
+      "id": "professions-trades.hairdressing-barbering",
+      "name": "Hairdressing and Barbering",
+      "description": "The hair route from first interest to your own chair or shop: training and licences, hygiene and chemical safety, fades, colour, braids and locs, pricing, a full client book and opening a salon.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "hairdressing-barbering",
+        "everyone",
+        "student",
+        "small-business",
+        "barbering",
+        "cosmetology",
+        "cvq"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/hairdressing-barbering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:7e4bb6cbc2f4198af8b0b2706c066fb6ce934a5801df6d00822a21bef16dca2b"
+    },
+    {
+      "id": "professions-trades.healthcare-jobs-abroad",
+      "name": "Nursing and Healthcare Jobs Abroad",
+      "description": "The route to a nursing or healthcare job abroad: recognised qualifications, English and licensing exams, overseas registration, ethical recruiters, visas, contracts and the first years settled in a new country.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "healthcare-jobs-abroad",
+        "student",
+        "nursing",
+        "international-recruitment",
+        "work-visa",
+        "nclex",
+        "oet"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/healthcare-jobs-abroad.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:1e73c9f48e68a00b39310e2bfb9cc11f0a6ecdc4a45dbf36bf992669a9e7a87e"
+    },
+    {
+      "id": "professions-trades.hotel-tourism-careers",
+      "name": "Hotel and Tourism Careers",
+      "description": "From a first shadow shift to running a hotel: entry qualifications, front office, food and beverage and housekeeping skills, guiding licences, the first job and shift life, specialising and moving into management.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "hotel-tourism-careers",
+        "student",
+        "hospitality",
+        "front-office",
+        "housekeeping",
+        "tour-guiding",
+        "hotel-management"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/hotel-tourism-careers.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:8426383c5a810bf6ad2ab976bd4bc1180086bd081c41cd330460f186b5d46f13"
+    },
+    {
+      "id": "professions-trades.it-support-technician-career",
+      "name": "IT Support Technician Career",
+      "description": "The route into IT support from CSEC IT or a first course through a home lab, an entry certification, the help desk interview and the first 90 days, to second line, systems work or team leadership, as 50 practical projects.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "it-support-technician-career",
+        "everyone",
+        "student",
+        "help-desk",
+        "comptia",
+        "home-lab",
+        "cvq"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/it-support-technician-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:d7b414041e60681ea1aabff734d258b4993817d57523f3a1532b1c736384e100"
+    },
+    {
+      "id": "professions-trades.joining-the-police-service",
+      "name": "Joining the Police Service",
+      "description": "The route into policing from CSEC subjects or a first enquiry through the fitness test, written exam, interview and vetting, academy training and probation to specialist units and promotion, as 50 practical projects.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "joining-the-police-service",
+        "everyone",
+        "student",
+        "police",
+        "recruitment",
+        "fitness-test",
+        "law-enforcement"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/joining-the-police-service.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ee300829b8bd0a8a6f51a65b65b1495a59ea3cc084b9467e57e39ccd78786b5f"
+    },
+    {
+      "id": "professions-trades.journalism-broadcasting-career",
+      "name": "Journalism and Broadcasting Career",
+      "description": "From a first newsroom visit to a specialist beat: entry qualifications, training routes, a clips portfolio, media law and ethics, radio and TV presenting skills, internships, freelancing and moving up to the editing desk.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "journalism-broadcasting-career",
+        "student",
+        "creative",
+        "journalism",
+        "broadcasting",
+        "media-law",
+        "freelance-journalism"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/journalism-broadcasting-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:cdef98d0cc757aaac009f4dfb02e8f03a25e7a41931e90c34e8aed882e519f26"
+    },
+    {
+      "id": "professions-trades.motor-vehicle-mechanic-trade",
+      "name": "Motor Vehicle Mechanic Trade",
+      "description": "The route from a first week in a garage to master technician: entry subjects, training and apprenticeship, workshop safety, diagnostics, certification, hybrid and diesel work, working abroad and running your own garage.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "motor-vehicle-mechanic-trade",
+        "student",
+        "mechanic",
+        "automotive",
+        "diagnostics",
+        "cvq",
+        "apprenticeship"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/motor-vehicle-mechanic-trade.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:2233b91e1dc51b3cdb305a0be941be03ccf4c0d1039e4f95a191934055d54ed6"
+    },
+    {
+      "id": "professions-trades.oil-gas-energy-careers",
+      "name": "Oil, Gas and Energy Careers",
+      "description": "The route into oil, gas and energy work, from school subjects and safety tickets to the first rotation, plant competence, chartership and the move into offshore wind, hydrogen and geothermal.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "oil-gas-energy-careers",
+        "everyone",
+        "student",
+        "engineer",
+        "offshore",
+        "process-operator",
+        "energy-transition"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/oil-gas-energy-careers.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:f7a23ac5fba8cc308e370febac4f9fb4a566cfd76aa86ed856bf6433964171e7"
+    },
+    {
+      "id": "professions-trades.paramedic-emt-career",
+      "name": "Paramedic and EMT Career",
+      "description": "From first interest to experienced paramedic: certification levels, entry passes, EMT and paramedic training, clinical hours, exams, ambulance service applications, the first year on the road and specialising.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "paramedic-emt-career",
+        "student",
+        "ems",
+        "ambulance",
+        "emt",
+        "pre-hospital-care"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/paramedic-emt-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ac3c75d5659fcc79d55778cbd91290c66f49f19a0fd7691225622de992f8d1f9"
+    },
+    {
+      "id": "professions-trades.pharmacy-career",
+      "name": "Pharmacy Career",
+      "description": "From first interest in chemistry to registered pharmacist or technician: subject choices, recognised programmes, internship, licensing exams, practice skills, specialising and registering abroad.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "pharmacy-career",
+        "everyone",
+        "student",
+        "pharmacist",
+        "pharmacy-technician",
+        "cape",
+        "licensing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/pharmacy-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:201c17472c3ba3d33e1d2661b41b3ad5b81249f07a4907a74585518626addbfa"
+    },
+    {
+      "id": "professions-trades.plumbing-trade",
+      "name": "Plumbing Trade",
+      "description": "The plumbing route from first interest to running your own jobs: subjects, training and apprenticeship hours, core pipework skills, licences, pricing, self-employment and specialist water systems.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "plumbing-trade",
+        "everyone",
+        "student",
+        "plumbing",
+        "apprenticeship",
+        "cvq",
+        "water-systems"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/plumbing-trade.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7e207d89831724a9d98a61873b37fa4c6d65cafdcc3b9151c0b334354c095de8"
+    },
+    {
+      "id": "professions-trades.professional-chef-career",
+      "name": "Professional Chef Career",
+      "description": "The route to professional chef from CSEC Food, Nutrition and Health or a first kitchen job through culinary school or apprenticeship, food safety certificates, the brigade and specialising to running a kitchen, in 50 projects.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "professional-chef-career",
+        "everyone",
+        "student",
+        "creative",
+        "chef",
+        "culinary-arts",
+        "food-safety"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/professional-chef-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0f2a3d0a883a4530b7d285b7abfe592ed7cda36f428badceeef39cdc20f2ce7f"
+    },
+    {
+      "id": "professions-trades.public-service-careers",
+      "name": "Public Service Careers",
+      "description": "The route into and up through government work: entry tests and applications, ministries and agencies, appointment and promotion rules, core civil service skills, and serving the public well.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "public-service-careers",
+        "everyone",
+        "student",
+        "civil-service",
+        "government",
+        "public-administration"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/public-service-careers.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:eaa424e6923637d53a18e0a6ea0617c71be983048fb786a875a3af2123cbab06"
+    },
+    {
+      "id": "professions-trades.real-estate-agent-career",
+      "name": "Real Estate Agent Career",
+      "description": "The route from first interest to a referral-led real estate business: licensing where it applies, choosing a brokerage, prospecting, listings and buyers, closings, commission money and specialist markets.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "real-estate-agent-career",
+        "everyone",
+        "freelancer",
+        "real-estate",
+        "property-sales",
+        "brokerage",
+        "licensing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/real-estate-agent-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:17a965af34ae4094b168205109158a182cd05e87323d88634f074bbcd0915606"
+    },
+    {
+      "id": "professions-trades.registered-nursing-career",
+      "name": "Registered Nursing Career",
+      "description": "The route to registered nurse and beyond: entry subjects, nursing school and placements, the licensing exam, registration, the first ward, specialising and staying licensed.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "registered-nursing-career",
+        "student",
+        "nursing",
+        "nclex",
+        "csec",
+        "nurse-registration",
+        "healthcare"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/registered-nursing-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:cc247e8a1fee1c5d6608cfd3730a0bafd4e9033dcb0fd0f42674caa58e99e775"
+    },
+    {
+      "id": "professions-trades.social-work-career",
+      "name": "Social Work Career",
+      "description": "From shadowing a practitioner to senior roles: entry subjects, an accredited degree, placements, registration or licensing, the first caseload, specialising with children, families or health, and the routines that prevent burnout.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "social-work-career",
+        "student",
+        "social-work",
+        "placements",
+        "registration",
+        "child-protection",
+        "self-care"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/social-work-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:73ddbb3e40f74a55725ab3a42e33d921368ccbbc8ed82ff774e15e027978f51d"
+    },
+    {
+      "id": "professions-trades.solar-renewable-technician",
+      "name": "Solar and Renewable Energy Technician",
+      "description": "The route to a certified solar and renewable energy technician, from CSEC Physics or a first course through PV training, roof safety, certification and commissioning to battery, microgrid and business work, as 50 practical projects.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "solar-renewable-technician",
+        "everyone",
+        "student",
+        "solar-pv",
+        "renewable-energy",
+        "battery-storage",
+        "nabcep"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/solar-renewable-technician.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:e53d69654b370627123327575657737cd1bd2975c7eafea899cd6043fa4e2ab1"
+    },
+    {
+      "id": "professions-trades.working-on-cruise-ships",
+      "name": "Working on Cruise Ships",
+      "description": "The route onto cruise ships: legitimate recruiters, STCW and medical certificates, crew visas, the contract, life and money on board, and moving up to supervisor, officer or a shore role.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "working-on-cruise-ships",
+        "everyone",
+        "student",
+        "cruise-ships",
+        "stcw",
+        "seafarer",
+        "hospitality"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/working-on-cruise-ships.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:dca0f7b118462e1dc3037fdf1e9de0d6795d67daa00ef98cc24e4e03b17dcfed"
     },
     {
       "id": "relationships.adult-sibling-relationships",
