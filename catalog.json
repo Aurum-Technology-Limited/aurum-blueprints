@@ -132,6 +132,90 @@
       "contentHash": "sha256:ab53f953fd4f71f59d7b3ce4861638c53370c80f3fafea0b63cdab483efc2e8b"
     },
     {
+      "id": "caribbean-diaspora.caribbean-festivals-holidays",
+      "name": "Caribbean Festivals and Holidays",
+      "description": "A Caribbean festival year you can actually keep, at home or abroad: dates, leave and budget, then Divali, Eid, Phagwa, Christmas parang, Easter, Emancipation and Independence kept well.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "caribbean-festivals-holidays",
+        "everyone",
+        "festivals",
+        "divali",
+        "eid",
+        "emancipation",
+        "parang"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/caribbean-festivals-holidays.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:28047c2b71f036e2bf77d7edab691784977589a89a46f71610cccb6e5cfd5f07"
+    },
+    {
+      "id": "caribbean-diaspora.caribbean-home-cooking",
+      "name": "Caribbean Home Cooking",
+      "description": "Caribbean food cooked at home abroad: a stocked cupboard and green seasoning in the freezer, the core techniques from browning to roti, Christmas pastelles and black cake, and family recipes written down before they are lost.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "caribbean-home-cooking",
+        "everyone",
+        "cooking",
+        "recipes",
+        "green-seasoning",
+        "roti",
+        "christmas"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/caribbean-home-cooking.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ade9a58da7c5154b9ef4320c804cfd4c5a1a999bd5e77e83075d5fdcc5cbb16d"
+    },
+    {
+      "id": "caribbean-diaspora.caribbean-students-abroad",
+      "name": "Caribbean Students Studying Abroad",
+      "description": "Choosing where to study and how to pay, scholarships and visas, the first term and first winter abroad, money from home, staying well, and the decision to stay on or come home, for Caribbean students and their parents.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "caribbean-students-abroad",
+        "student",
+        "parent",
+        "scholarships",
+        "student-visa",
+        "university-applications",
+        "international-students"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/caribbean-students-abroad.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9d11928309d841e04b2307f4110e4d8467aed9b7e2f8253e1b1742183af5582c"
+    },
+    {
       "id": "caribbean-diaspora.caring-for-parents-back-home",
       "name": "Caring for Parents Back Home",
       "description": "Caring for ageing parents in the Caribbean from abroad, organised: the people on the ground, doctors and medicines, carers and neighbours, bills and money, visits home and plans for what comes next.",
@@ -158,6 +242,118 @@
         "totalTasks": 209
       },
       "contentHash": "sha256:f515ada20c10cf56b8d85a642ba964c9173db64c482d909712dca216ebeba348"
+    },
+    {
+      "id": "caribbean-diaspora.civic-ties-voting-home",
+      "name": "Civic Ties and Voting Back Home",
+      "description": "Which elections you can vote in, your registration and voter ID kept valid, home politics followed from fair sources, consulate and diaspora channels joined, and your voice heard in consultations, town halls and elections back home.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "civic-ties-voting-home",
+        "everyone",
+        "voting",
+        "elections",
+        "diaspora-engagement",
+        "consulates",
+        "politics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/civic-ties-voting-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 191
+      },
+      "contentHash": "sha256:ec020f9afec918325c34da2797894528c168a72dd76af59b3b4bfadec37ce5fd"
+    },
+    {
+      "id": "caribbean-diaspora.creole-patois-heritage-language",
+      "name": "Creole and Patois Heritage Language",
+      "description": "Keeping a Caribbean creole alive: naming your family's variety, recording elders, a spelling system, daily listening, weekly calls in the language, grammar and proverbs, and passing Patwa, Kwéyòl or Papiamentu on to children.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "creole-patois-heritage-language",
+        "everyone",
+        "parent",
+        "patois",
+        "kweyol",
+        "papiamentu",
+        "heritage-language"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/creole-patois-heritage-language.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:1a5363a277ed38d699e0814c9ae2410c9e8c1cedfbd80b2002a798ce8d645975"
+    },
+    {
+      "id": "caribbean-diaspora.diaspora-associations-groups",
+      "name": "Diaspora Associations and Alumni Groups",
+      "description": "Finding the right group, a sound constitution, register and bank account, committee and AGM routines, welfare for members, fundraising and money sent home with receipts, events from the gala to a reunion back home, and succession.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "diaspora-associations-groups",
+        "everyone",
+        "nonprofit",
+        "alumni",
+        "old-scholars",
+        "fundraising",
+        "governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/diaspora-associations-groups.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:fef660ab63af87cb176e8e9242a4d05799481ad731becfd4ff3794aa4597da01"
+    },
+    {
+      "id": "caribbean-diaspora.diaspora-business-back-home",
+      "name": "Diaspora Business Back Home",
+      "description": "Start or back a business in the Caribbean from abroad with a vetted partner on the ground, proper registration and banking, clean imports and exports, and monthly numbers you can trust from overseas.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "diaspora-business-back-home",
+        "everyone",
+        "founder",
+        "small-business",
+        "company-registration",
+        "import-export",
+        "remote-oversight"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/diaspora-business-back-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3186b51d9590af1cd21a4cfd9755e95bd85c9333c58a751a1e2dd2fa4f712ebb"
     },
     {
       "id": "caribbean-diaspora.diaspora-carnivals-abroad",
@@ -244,6 +440,202 @@
       "contentHash": "sha256:af4d85fa54da37416af32e303f6738c3d9f75ddeb520cc358ee8b2aa782c0a64"
     },
     {
+      "id": "caribbean-diaspora.hosting-visitors-from-home",
+      "name": "Hosting Visitors from Back Home",
+      "description": "Visits from family back home handled well: entry rules and invitation letters checked, health cover in place, a fair budget, a plan for the stay and suitcases packed to the limit for the flight home.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "hosting-visitors-from-home",
+        "everyone",
+        "visitor-visa",
+        "invitation-letter",
+        "travel-insurance",
+        "family-visits",
+        "shopping"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/hosting-visitors-from-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6b92b70fe268175ea4a6230808ecd2007cb6d1de294b76e30163145c814c861d"
+    },
+    {
+      "id": "caribbean-diaspora.hurricane-support-family-home",
+      "name": "Hurricane Support for Family Back Home",
+      "description": "A hurricane plan for family back home, run from abroad: contact trees, alerts, a storm fund, documents, house and insurance checks, the first 72 hours after landfall and the repairs and relief that follow.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "hurricane-support-family-home",
+        "everyone",
+        "carer",
+        "hurricane-season",
+        "disaster-preparedness",
+        "storm-fund",
+        "home-insurance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/hurricane-support-family-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 209
+      },
+      "contentHash": "sha256:c8da5aee1bc5d006398f7eb9b38ee1036520ebdd65562bacef5748873daa8d1e"
+    },
+    {
+      "id": "caribbean-diaspora.immigration-status-windrush",
+      "name": "Immigration Status and Windrush Claims",
+      "description": "Every household member's immigration status proved and kept current: arrival timelines, residence evidence, Windrush Scheme and compensation claims, settlement and citizenship applications, and documents kept safe.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "immigration-status-windrush",
+        "everyone",
+        "windrush",
+        "settlement",
+        "naturalisation",
+        "immigration-records",
+        "status-documents"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/immigration-status-windrush.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:0e3383401115b7bd04ad9e61c3997f6625a0318705a307d897a29ed363c86f64"
+    },
+    {
+      "id": "caribbean-diaspora.investing-caribbean-stock-markets",
+      "name": "Investing in Caribbean Stock Markets",
+      "description": "A licensed broker and depository account on a Caribbean exchange, clear rules, dividend and currency records, and the know-how to buy, hold and sell regional shares from home or abroad.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "investing-caribbean-stock-markets",
+        "everyone",
+        "ttse",
+        "jse",
+        "dividends",
+        "currency-risk",
+        "brokerage"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/investing-caribbean-stock-markets.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0a79f78d23105120359ce4c6842bc97e51a9d31c81db03fb69cf630fde515bec"
+    },
+    {
+      "id": "caribbean-diaspora.medical-care-trips-home",
+      "name": "Medical and Dental Care Back Home",
+      "description": "Care back home done with your eyes open: dentists and clinics checked, records carried both ways, full costs and insurance worked out, and follow-up lined up with your doctor abroad.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "medical-care-trips-home",
+        "everyone",
+        "dental-care",
+        "medical-treatment",
+        "health-records",
+        "travel-insurance",
+        "follow-up-care"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/medical-care-trips-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:31586f8643580ec4fb3635d5388cdd6922cfd9010d854343d6110d925dff4405"
+    },
+    {
+      "id": "caribbean-diaspora.nine-nights-funerals-home",
+      "name": "Nine Nights and Funerals Back Home",
+      "description": "Ready for the call nobody wants: short-notice travel home, nine nights and wakes, funeral arrangements and shared costs, repatriation, remembrance and grieving well across the water.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "nine-nights-funerals-home",
+        "everyone",
+        "funerals",
+        "nine-night",
+        "repatriation",
+        "bereavement",
+        "grief"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/nine-nights-funerals-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:34514611e7fd54fdba5df548954c45cc41857d75bcd58066e3a029f9f2cb410d"
+    },
+    {
+      "id": "caribbean-diaspora.raising-children-caribbean-heritage",
+      "name": "Raising Children with Caribbean Heritage",
+      "description": "A heritage plan for children raised abroad: grandparents and cousins kept close, food, music and stories at home, hard conversations prepared for, and trips and traditions that make home feel like theirs.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "raising-children-caribbean-heritage",
+        "parent",
+        "children",
+        "identity",
+        "family",
+        "culture",
+        "diaspora"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/raising-children-caribbean-heritage.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:6bcb034e407f0c96b192c900166191f132acb697435ceaf0ebe2a3c983cfd870"
+    },
+    {
       "id": "caribbean-diaspora.returning-resident-move-home",
       "name": "Returning Resident Move Home",
       "description": "A planned move back to the Caribbean: returning resident eligibility checked, a container shipped under the duty concession, life abroad closed down cleanly and the first year back home settled with care.",
@@ -328,6 +720,34 @@
       "contentHash": "sha256:68050b1fe403cf33959dcc230ecaa32b1d2988c025f6cb02e92d4c9bd630a507"
     },
     {
+      "id": "caribbean-diaspora.soca-calypso-dancehall-music",
+      "name": "Soca, Calypso and Dancehall Music",
+      "description": "Genre roots from kaiso to dancehall, a year of soca and riddim seasons, playlists and live shows planned properly, and room to write, voice, produce or DJ the music yourself.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "soca-calypso-dancehall-music",
+        "everyone",
+        "creative",
+        "soca",
+        "calypso",
+        "dancehall",
+        "reggae"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/soca-calypso-dancehall-music.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b2a6dcd19be676520881fb3ce5d586a356d2d020b8767fbbc440be830221ab80"
+    },
+    {
       "id": "caribbean-diaspora.sou-sou-partner-savings",
       "name": "Sou-Sou and Partner Savings",
       "description": "Join or run a sou-sou, partner hand or box with clear rules, a fair draw order, clean records, safe handling of the pot and a calm plan for the member who stops paying.",
@@ -354,6 +774,34 @@
         "totalTasks": 201
       },
       "contentHash": "sha256:816407fe37b2298169ee891fb443cc44e032ea78a408748efc3c92a7168a7f92"
+    },
+    {
+      "id": "caribbean-diaspora.steelpan-playing",
+      "name": "Steelpan Playing",
+      "description": "Choosing your pan and your panyard, daily practice and weekly rehearsals, learning by ear and from notation, Panorama season, caring for and tuning the instrument, and playing on as a soloist, arranger or section leader.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "steelpan-playing",
+        "everyone",
+        "creative",
+        "panyard",
+        "panorama",
+        "steelband",
+        "music-practice"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/steelpan-playing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:207b1cbe8504b592563df904bf85abe90545f4a04e21135f94cd65f87c7e6268"
     },
     {
       "id": "caribbean-diaspora.trinidad-carnival-playing-mas",
@@ -410,6 +858,62 @@
         "totalTasks": 205
       },
       "contentHash": "sha256:a127020045e18e5d6c52e2a7d1769173eed39c1005d44f06c223900c721ecf5c"
+    },
+    {
+      "id": "caribbean-diaspora.west-indies-club-cricket",
+      "name": "West Indies Cricket and Club Cricket",
+      "description": "Choosing and joining a club, nets and match routines, batting, bowling and fielding skills, kit and bat care, following West Indies fixtures from anywhere, Test and CPL trips, and coaching, umpiring and captaincy.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "west-indies-club-cricket",
+        "everyone",
+        "athlete",
+        "cricket",
+        "west-indies",
+        "club-cricket",
+        "nets"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/west-indies-club-cricket.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4a6a9f0ea9428b72c0d0c609a2e1721dcee17688dfafd8d650b75ed450b5564b"
+    },
+    {
+      "id": "caribbean-diaspora.wills-estates-two-countries",
+      "name": "Wills and Estates Across Two Countries",
+      "description": "Wills that work in both countries: an inventory of what you own where, the right lawyers and executors on each side, probate planned in advance, originals kept safe and the family told.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "wills-estates-two-countries",
+        "everyone",
+        "retiree",
+        "wills",
+        "probate",
+        "estate-planning",
+        "executors"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/wills-estates-two-countries.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:55aa47683c447e9a085c1f2e91aad4f5517e2a9d83f01ae2ca6f6d9e7a91c54b"
     },
     {
       "id": "caribbean-exams.barbados-common-entrance",
