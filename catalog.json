@@ -104,6 +104,34 @@
       "contentHash": "sha256:1c7d841e5d465450f4ca80a5fd1c48e2920609f5631a2820c2fb6599b660f729"
     },
     {
+      "id": "caribbean-diaspora.caribbean-art-craft-collecting",
+      "name": "Caribbean Art and Craft Collecting",
+      "description": "A collecting focus and a budget, Caribbean artists, galleries and craft workers found and paid fairly, works shipped, framed and cared for, and a catalogue that records the story of every piece you own.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "caribbean-art-craft-collecting",
+        "everyone",
+        "creative",
+        "caribbean-art",
+        "craft",
+        "art-collecting",
+        "galleries"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/caribbean-art-craft-collecting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:14644669324cb111a92ee0bb446b9878944a735969057610c6529adeab1d7b93"
+    },
+    {
       "id": "caribbean-diaspora.caribbean-family-history",
       "name": "Caribbean Family History and Genealogy",
       "description": "A Caribbean family tree built from real records: elders' memories recorded, civil and church registers, slave registers, indentureship papers, DNA matches and archive trips, with routines that keep it sourced and shared.",
@@ -160,6 +188,62 @@
       "contentHash": "sha256:28047c2b71f036e2bf77d7edab691784977589a89a46f71610cccb6e5cfd5f07"
     },
     {
+      "id": "caribbean-diaspora.caribbean-food-business-abroad",
+      "name": "Caribbean Food Business Abroad",
+      "description": "A Caribbean food business abroad built properly: concept, licences, food safety and costing, weekly kitchen routines, doubles, patties, jerk and roti at volume, then pop-ups, carnival stalls, catering and a shop.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "caribbean-food-business-abroad",
+        "small-business",
+        "founder",
+        "street-food",
+        "catering",
+        "food-hygiene",
+        "pop-ups"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/caribbean-food-business-abroad.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:7d0aa239dd1f556d48dad69d704766b3a11599d565563e4b0ca1efbff3a34409"
+    },
+    {
+      "id": "caribbean-diaspora.caribbean-herbs-kitchen-garden",
+      "name": "Caribbean Herbs and Kitchen Garden",
+      "description": "Caribbean herbs and produce grown at home or abroad: the right plants and names, pots, beds and grow lights, peppers, shado beni, callaloo and pimento, seasonal routines and preserving the harvest.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "caribbean-herbs-kitchen-garden",
+        "everyone",
+        "homeowner",
+        "gardening",
+        "herbs",
+        "peppers",
+        "container-gardening"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/caribbean-herbs-kitchen-garden.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:bfd922b1f809ca86cfd5fb00c72a953ffd034f1310135872c659b9107ed26d90"
+    },
+    {
       "id": "caribbean-diaspora.caribbean-home-cooking",
       "name": "Caribbean Home Cooking",
       "description": "Caribbean food cooked at home abroad: a stocked cupboard and green seasoning in the freezer, the core techniques from browning to roti, Christmas pastelles and black cake, and family recipes written down before they are lost.",
@@ -186,6 +270,90 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:ade9a58da7c5154b9ef4320c804cfd4c5a1a999bd5e77e83075d5fdcc5cbb16d"
+    },
+    {
+      "id": "caribbean-diaspora.caribbean-literature-reading",
+      "name": "Caribbean Literature Reading",
+      "description": "A starter shelf and reading queue, writers from every corner of the region, poetry and plays read aloud, book clubs, prize seasons and literary festivals, and Caribbean books shared with children, teenagers and family across the water.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "caribbean-literature-reading",
+        "everyone",
+        "books",
+        "reading-list",
+        "poetry",
+        "book-club",
+        "literary-festivals"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/caribbean-literature-reading.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:f695268928daf129b1eb765b0e5c086dc37208c287693d6db6a377b0436faab0"
+    },
+    {
+      "id": "caribbean-diaspora.caribbean-news-media",
+      "name": "Caribbean News and Media",
+      "description": "A trusted map of home and regional news, a daily and weekly reading rhythm across time zones, the skills to spot fake front pages and hoax voice notes, and ways to take part as a reader, caller, writer or creator.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "caribbean-news-media",
+        "everyone",
+        "news",
+        "radio",
+        "podcasts",
+        "fact-checking",
+        "media-literacy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/caribbean-news-media.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:6f5b62e1a8c915a8ba7c2fc0ce617ddfc9a8d7c86945f94bf7823b45e59d8f02"
+    },
+    {
+      "id": "caribbean-diaspora.caribbean-sport-athletics-fandom",
+      "name": "Caribbean Athletics and Sport Following",
+      "description": "A championship calendar in your time zone, legal ways to watch, watch parties and trips to big meets, your own training, and real support for clubs and young athletes back home.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "caribbean-sport-athletics-fandom",
+        "everyone",
+        "athlete",
+        "track-and-field",
+        "football",
+        "netball",
+        "watch-parties"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/caribbean-sport-athletics-fandom.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b51471a45f7d9d2af195bd10c790ca0711b886782a93a80f60492bfe445c7a0d"
     },
     {
       "id": "caribbean-diaspora.caribbean-students-abroad",
@@ -216,6 +384,62 @@
       "contentHash": "sha256:9d11928309d841e04b2307f4110e4d8467aed9b7e2f8253e1b1742183af5582c"
     },
     {
+      "id": "caribbean-diaspora.caribbean-tax-residency-pensions",
+      "name": "Caribbean Tax Residency and Pensions",
+      "description": "Know where you are tax resident, use the treaty between your two countries, get every pension and social security payment to the right bank, and keep the records that prove it.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "caribbean-tax-residency-pensions",
+        "everyone",
+        "retiree",
+        "double-taxation",
+        "social-security",
+        "pensions-abroad",
+        "residence-test"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/caribbean-tax-residency-pensions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:130bced417b8db6410befedfb43a87b53f46a9ffa357bc753d0ffe05b166ab28"
+    },
+    {
+      "id": "caribbean-diaspora.caribbean-wedding-back-home",
+      "name": "Caribbean Wedding Back Home",
+      "description": "Plan a wedding back home from abroad: the island and date chosen, licence papers in order, vendors booked and paid safely, guests flown in, family traditions honoured and the marriage recognised where you live.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "caribbean-wedding-back-home",
+        "everyone",
+        "wedding",
+        "marriage-licence",
+        "destination-wedding",
+        "black-cake",
+        "family-traditions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/caribbean-wedding-back-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3c3680556b0c9478581b3166fb0c0c5cd5be50e421b677a904b5c2780ed8e1c6"
+    },
+    {
       "id": "caribbean-diaspora.caring-for-parents-back-home",
       "name": "Caring for Parents Back Home",
       "description": "Caring for ageing parents in the Caribbean from abroad, organised: the people on the ground, doctors and medicines, carers and neighbours, bills and money, visits home and plans for what comes next.",
@@ -242,6 +466,34 @@
         "totalTasks": 209
       },
       "contentHash": "sha256:f515ada20c10cf56b8d85a642ba964c9173db64c482d909712dca216ebeba348"
+    },
+    {
+      "id": "caribbean-diaspora.citizenship-by-investment",
+      "name": "Citizenship by Investment Programmes",
+      "description": "A careful route through the five Caribbean citizenship by investment programmes: real costs, routes, due diligence, licensed agents, the application itself and the duties that follow the passport.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "citizenship-by-investment",
+        "everyone",
+        "second-citizenship",
+        "investment-migration",
+        "due-diligence",
+        "oecs",
+        "eastern-caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/citizenship-by-investment.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:925d323c3ef9223fd785b5b7a74ff43713645eb5f4d1c730b836ebfc4b9e6408"
     },
     {
       "id": "caribbean-diaspora.civic-ties-voting-home",
@@ -298,6 +550,34 @@
         "totalTasks": 202
       },
       "contentHash": "sha256:1a5363a277ed38d699e0814c9ae2410c9e8c1cedfbd80b2002a798ce8d645975"
+    },
+    {
+      "id": "caribbean-diaspora.crop-over-junkanoo",
+      "name": "Crop Over and Junkanoo",
+      "description": "Take part in Barbados Crop Over and Bahamian Junkanoo with a band or group chosen well, costumes and dues paid, shack nights and practices kept, the trip booked and Kadooment Day and Bay Street planned to the hour.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "crop-over-junkanoo",
+        "everyone",
+        "barbados",
+        "bahamas",
+        "kadooment",
+        "rushing",
+        "tuk-band"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/crop-over-junkanoo.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:7f095f10548033c33acfc5b202a816e3aeaa642b4f5b9f9d24ca0af9a0257d13"
     },
     {
       "id": "caribbean-diaspora.diaspora-associations-groups",
@@ -384,6 +664,34 @@
       "contentHash": "sha256:d4748515d105699c32ff9a6c1f5e979fd52f4fc9be926525ca81904eee8cd0f2"
     },
     {
+      "id": "caribbean-diaspora.diaspora-youth-mentoring",
+      "name": "Diaspora Youth Mentoring",
+      "description": "Becoming a safe, useful mentor to young Caribbean people at home or abroad, or running a programme that matches them: safeguarding, matching, sessions, careers and scholarship coaching, events and impact.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "diaspora-youth-mentoring",
+        "everyone",
+        "nonprofit",
+        "mentoring",
+        "safeguarding",
+        "careers",
+        "youth"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/diaspora-youth-mentoring.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f59646c00c15260b7c587a2f79b01ae8a012f78adb36974c6942080c75a86684"
+    },
+    {
       "id": "caribbean-diaspora.dual-citizenship-passports",
       "name": "Dual Citizenship and Passports",
       "description": "Every passport and citizenship document in the family listed and kept current: descent claims, renewals from abroad, children's applications, consular appointments and which passport to show at each border.",
@@ -438,6 +746,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:af4d85fa54da37416af32e303f6738c3d9f75ddeb520cc358ee8b2aa782c0a64"
+    },
+    {
+      "id": "caribbean-diaspora.haitian-kreyol-heritage",
+      "name": "Haitian Kreyol and Heritage",
+      "description": "Haitian Kreyol spoken at home and with family in Haiti, the standard spelling and grammar, soup joumou and Sunday dinners, the Revolution and its dates, kompa and rara, Kreyol for children, and support for relatives back home.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "haitian-kreyol-heritage",
+        "everyone",
+        "parent",
+        "haiti",
+        "kreyol",
+        "language",
+        "heritage"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/haitian-kreyol-heritage.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a6d0546eb02493cbc59fcb78899e67c2cdcd15fd0ef020c45f867b20f7cdea84"
     },
     {
       "id": "caribbean-diaspora.hosting-visitors-from-home",
@@ -552,6 +888,90 @@
       "contentHash": "sha256:0a79f78d23105120359ce4c6842bc97e51a9d31c81db03fb69cf630fde515bec"
     },
     {
+      "id": "caribbean-diaspora.island-hopping-caribbean-travel",
+      "name": "Island Hopping Caribbean Travel",
+      "description": "Multi-island Caribbean trips that hold together: entry rules checked island by island, regional flights and ferries mapped, a budget that counts every leg, and festivals and small islands timed right.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "island-hopping-caribbean-travel",
+        "everyone",
+        "travel",
+        "regional-airlines",
+        "ferries",
+        "multi-island",
+        "entry-rules"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/island-hopping-caribbean-travel.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:7756152aeea9ed0c224d73382142b069943f07ef7285761b4e47f1aaedca2aed"
+    },
+    {
+      "id": "caribbean-diaspora.learning-caribbean-dance",
+      "name": "Learning Caribbean Dance",
+      "description": "Learn soca, dancehall, folk and traditional Caribbean dance with the right class and shoes, a weekly practice rhythm, carnival conditioning and a route to performing, choreographing and teaching.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "learning-caribbean-dance",
+        "everyone",
+        "athlete",
+        "creative",
+        "soca",
+        "dancehall",
+        "folk-dance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/learning-caribbean-dance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:e7f90e16995384cc53b815ee811ea8ce99c355d8f11a270f70ae1fbf77ca7510"
+    },
+    {
+      "id": "caribbean-diaspora.mas-costume-making",
+      "name": "Mas Costume Making and Wire Bending",
+      "description": "A path from a first wire headpiece to king and queen costumes: tools and safety, mas camp routines, wire bending, feathers and stoning, costing and selling sections, and the deadlines for the road.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "mas-costume-making",
+        "everyone",
+        "creative",
+        "carnival",
+        "wire-bending",
+        "costume-design",
+        "mas-camp"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/mas-costume-making.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:bc8d5664077045036a146098506b5ab57c4c16a43a31cde492d6fe600a6cd2df"
+    },
+    {
       "id": "caribbean-diaspora.medical-care-trips-home",
       "name": "Medical and Dental Care Back Home",
       "description": "Care back home done with your eyes open: dentists and clinics checked, records carried both ways, full costs and insurance worked out, and follow-up lined up with your doctor abroad.",
@@ -636,6 +1056,62 @@
       "contentHash": "sha256:6bcb034e407f0c96b192c900166191f132acb697435ceaf0ebe2a3c983cfd870"
     },
     {
+      "id": "caribbean-diaspora.remote-work-from-caribbean",
+      "name": "Remote Work from the Caribbean",
+      "description": "Working from the islands without nasty surprises: the right permission and visa, internet and power that survive outages, hours that fit your team's time zone, tax residency tracked and a workspace that works.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "remote-work-from-caribbean",
+        "knowledge-worker",
+        "freelancer",
+        "remote-work",
+        "digital-nomad-visa",
+        "internet-backup",
+        "time-zones"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/remote-work-from-caribbean.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:fdeb4472ffb8fcf5e4944af06f15018261a1030a11fcc0ebf800da6b82bed774"
+    },
+    {
+      "id": "caribbean-diaspora.retiring-to-the-caribbean",
+      "name": "Retiring to the Caribbean",
+      "description": "A retirement in the islands planned with real numbers: choosing an island, residency, pensions paid abroad, healthcare and medicines, housing and backup power, getting around and a social life that lasts.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "retiring-to-the-caribbean",
+        "retiree",
+        "retirement-abroad",
+        "island-living",
+        "residency",
+        "pensions",
+        "healthcare"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/retiring-to-the-caribbean.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:8efe6a934e2629d75e85a2eae0ce349140bb8020e47b153b27d8047dd6202a95"
+    },
+    {
       "id": "caribbean-diaspora.returning-resident-move-home",
       "name": "Returning Resident Move Home",
       "description": "A planned move back to the Caribbean: returning resident eligibility checked, a container shipped under the duty concession, life abroad closed down cleanly and the first year back home settled with care.",
@@ -662,6 +1138,34 @@
         "totalTasks": 192
       },
       "contentHash": "sha256:dd4124301e91e1ea56319b2f9420aa1bd9b44516125df2b391c9bced540c52e6"
+    },
+    {
+      "id": "caribbean-diaspora.second-generation-caribbean-identity",
+      "name": "Second-Generation Caribbean Identity",
+      "description": "Your own hold on Caribbean heritage as the child of parents from back home: their stories recorded, family ties kept in your hands, community found, history learned and the hard identity questions worked through.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "second-generation-caribbean-identity",
+        "everyone",
+        "student",
+        "identity",
+        "heritage",
+        "family-stories",
+        "community"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/second-generation-caribbean-identity.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:03fdf2d428914cc97c5bdf6507715834beda7123c6e4f37ac5dbbe4127a99189"
     },
     {
       "id": "caribbean-diaspora.sending-money-home",
@@ -718,6 +1222,34 @@
         "totalTasks": 198
       },
       "contentHash": "sha256:68050b1fe403cf33959dcc230ecaa32b1d2988c025f6cb02e92d4c9bd630a507"
+    },
+    {
+      "id": "caribbean-diaspora.skills-volunteering-back-home",
+      "name": "Skills Volunteering Back Home",
+      "description": "Professional skills put to good use back home: a vetted host on the ground, registration and insurance sorted, mission weeks, training days and remote mentoring run well, and the work handed to local people.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "skills-volunteering-back-home",
+        "everyone",
+        "volunteering",
+        "medical-missions",
+        "pro-bono",
+        "mentoring",
+        "teaching"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/skills-volunteering-back-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:26bfd21a4106128cdc5eb10ef6cb78cd5bfe7a7fcbb6398ef57bc62c22747ed2"
     },
     {
       "id": "caribbean-diaspora.soca-calypso-dancehall-music",
@@ -802,6 +1334,34 @@
         "totalTasks": 201
       },
       "contentHash": "sha256:207b1cbe8504b592563df904bf85abe90545f4a04e21135f94cd65f87c7e6268"
+    },
+    {
+      "id": "caribbean-diaspora.supporting-schools-back-home",
+      "name": "Supporting Schools Back Home",
+      "description": "A school or community back home supported properly: a needs assessment with the principal, clean money handling, supply drives and shipments with duty relief, scholarships, and honest reports back to donors.",
+      "category": "personal",
+      "tags": [
+        "caribbean-diaspora",
+        "supporting-schools-back-home",
+        "everyone",
+        "nonprofit",
+        "schools",
+        "donations",
+        "scholarships",
+        "fundraising"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/caribbean-diaspora/supporting-schools-back-home.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Caribbean Life & Diaspora"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:f036885825bd6d4071c4de8086b6fb864dfc971ba6fc22f846a31d686c5d0ac8"
     },
     {
       "id": "caribbean-diaspora.trinidad-carnival-playing-mas",
@@ -10776,6 +11336,34 @@
       "contentHash": "sha256:160f920d3b21b211a15792d2ee814451e7834f153367832725f7d2938b2bc4b5"
     },
     {
+      "id": "professions-trades.beauty-therapy-nail-technician",
+      "name": "Beauty Therapy and Nail Technician",
+      "description": "The beauty and nails route from first interest to your own salon: training and licences, hygiene and product safety, manicures, acrylics, waxing, facials and lashes, pricing, a full client book and staff.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "beauty-therapy-nail-technician",
+        "everyone",
+        "small-business",
+        "nail-technician",
+        "beauty-therapy",
+        "cvq",
+        "salon"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/beauty-therapy-nail-technician.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:737b84e8fe424fcdbb96c7dab8030a224f2a714ac6747bf3c2277c29ba07a96f"
+    },
+    {
       "id": "professions-trades.becoming-a-doctor",
       "name": "Becoming a Doctor",
       "description": "The route into medicine from CSEC and CAPE sciences or A-levels to medical school, internship, licensing, a chosen specialty and the first senior years, organised as 50 practical projects.",
@@ -10944,6 +11532,34 @@
       "contentHash": "sha256:7741bbf58381a07f873e8d871a825f0a440ce094e8828aa92dea45ae4097032d"
     },
     {
+      "id": "professions-trades.customs-border-officer-career",
+      "name": "Customs and Border Officer Career",
+      "description": "The route into customs and immigration work from CSEC subjects or a first enquiry through the entrance exam, vetting and induction to the primary line, specialist units and promotion, as 50 practical projects.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "customs-border-officer-career",
+        "everyone",
+        "student",
+        "customs",
+        "immigration",
+        "border-security",
+        "public-service"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/customs-border-officer-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:da647c929b40518a497d5290890702a20ac94602d3ecb6cbb68793f1c1a8e919"
+    },
+    {
       "id": "professions-trades.cybersecurity-career-entry",
       "name": "Cybersecurity Career Entry",
       "description": "The route into a first security role, from networking and Linux basics, a home lab and capture the flag practice to entry certifications, a portfolio, interviews and the first 90 days.",
@@ -10972,6 +11588,34 @@
       "contentHash": "sha256:7cee634e5bed57956cfe7870128a6bcc40158b2382dc568b97f84a68434ae5f0"
     },
     {
+      "id": "professions-trades.data-analyst-career-entry",
+      "name": "Data Analyst Career Entry",
+      "description": "The route into a first data analyst job, from spreadsheets, SQL, statistics and a visualisation tool to a three-project portfolio, applications, technical tests and the first 90 days.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "data-analyst-career-entry",
+        "everyone",
+        "student",
+        "sql",
+        "spreadsheets",
+        "data-visualisation",
+        "portfolio"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/data-analyst-career-entry.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:518bee165160fa79de49680e0b091b824567c61d5c9089c014e0d60e4efc5574"
+    },
+    {
       "id": "professions-trades.defence-force-military-career",
       "name": "Defence Force and Military Career",
       "description": "The route into a defence force or military, from eligibility and selection through basic training, a trade, promotion and reserve service to resettlement and life after you leave.",
@@ -10998,6 +11642,62 @@
         "totalTasks": 201
       },
       "contentHash": "sha256:c9a5970e5183b8ab49c35da98aa6e647c1c15c42eddfd2fc38d5648ee5200913"
+    },
+    {
+      "id": "professions-trades.dentistry-career",
+      "name": "Dentistry Career",
+      "description": "From a first interest in teeth and science to a registered dentist: subject choices, dental school, admissions tests, clinical requirements, licensing, the first associate post, specialising and owning a practice.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "dentistry-career",
+        "everyone",
+        "student",
+        "dentist",
+        "dental-school",
+        "cape",
+        "licensing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/dentistry-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:8def854db15f0b1bac0f164e5c585fe25827a5b4abe13a8165b6103fce697903"
+    },
+    {
+      "id": "professions-trades.early-childhood-educator-career",
+      "name": "Early Childhood Educator Career",
+      "description": "From a first morning volunteering in a nursery to running a centre: training and certificates, child development practice, the first post, daily routines with families, and childminding, leadership or a setting of your own.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "early-childhood-educator-career",
+        "educator",
+        "early-years",
+        "childcare",
+        "nursery",
+        "preschool",
+        "child-development"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/early-childhood-educator-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:5b141c4f20dc0ef2536c368ed754fd5598e812babbb895fa124cf41e4ddd7b74"
     },
     {
       "id": "professions-trades.electrician-trade-licence",
@@ -11084,6 +11784,90 @@
       "contentHash": "sha256:175c5da4634cb3ce3c52eadfd4c00681fa591844cf6ed76d7262e400be216250"
     },
     {
+      "id": "professions-trades.fishing-marine-careers",
+      "name": "Fishing and Marine Careers",
+      "description": "The route into fishing and marine work: registration and boat licences, sea safety training, crewing and catch records, selling fish, then aquaculture, reef conservation and running your own boat.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "fishing-marine-careers",
+        "everyone",
+        "student",
+        "fishing",
+        "sea-safety",
+        "aquaculture",
+        "marine-conservation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/fishing-marine-careers.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:db4c98e731452df38223eebe4bde5e9931d8d4ca777e6582a7390cb4a0531ece"
+    },
+    {
+      "id": "professions-trades.flight-attendant-career",
+      "name": "Flight Attendant Career",
+      "description": "The route into the cabin: airline requirements, applications and assessment days, safety and emergency training, life on rosters and layovers, pay and probation, and promotion to senior crew.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "flight-attendant-career",
+        "student",
+        "cabin-crew",
+        "airline",
+        "aviation",
+        "assessment-day",
+        "safety-training"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/flight-attendant-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:22b07f823cadf959e287acfdeba72ce3de86ce5e9d881bae01253d22fb24a4b7"
+    },
+    {
+      "id": "professions-trades.graphic-design-career",
+      "name": "Graphic Design Career",
+      "description": "The route into graphic design, from CSEC, CAPE or A-level art subjects and an admissions portfolio to software skills, a first studio or in-house role, freelance pricing and contracts, and specialising.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "graphic-design-career",
+        "everyone",
+        "creative",
+        "freelancer",
+        "graphic-design",
+        "portfolio",
+        "branding"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/graphic-design-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:01aa2c808c76185718b2b853cb8fee2f457e68e360f164c994b5b5f6bbe884a7"
+    },
+    {
       "id": "professions-trades.hairdressing-barbering",
       "name": "Hairdressing and Barbering",
       "description": "The hair route from first interest to your own chair or shop: training and licences, hygiene and chemical safety, fades, colour, braids and locs, pricing, a full client book and opening a salon.",
@@ -11140,6 +11924,34 @@
       "contentHash": "sha256:1e73c9f48e68a00b39310e2bfb9cc11f0a6ecdc4a45dbf36bf992669a9e7a87e"
     },
     {
+      "id": "professions-trades.heavy-equipment-operator-trade",
+      "name": "Heavy Equipment Operator Trade",
+      "description": "The route from CSEC subjects or a first course to a certified heavy equipment operator: training school, operator cards, site safety, seat hours, contract work and specialist machines, as 50 practical projects.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "heavy-equipment-operator-trade",
+        "everyone",
+        "student",
+        "plant-operator",
+        "excavator",
+        "construction-safety",
+        "cvq"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/heavy-equipment-operator-trade.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f26fa299476712817d6fdd91c0d3e777c9a580c464853055f344c5c0807a9d09"
+    },
+    {
       "id": "professions-trades.hotel-tourism-careers",
       "name": "Hotel and Tourism Careers",
       "description": "From a first shadow shift to running a hotel: entry qualifications, front office, food and beverage and housekeeping skills, guiding licences, the first job and shift life, specialising and moving into management.",
@@ -11166,6 +11978,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:8426383c5a810bf6ad2ab976bd4bc1180086bd081c41cd330460f186b5d46f13"
+    },
+    {
+      "id": "professions-trades.insurance-career",
+      "name": "Insurance Career",
+      "description": "The route into and up through insurance: sales agent, underwriting, claims and broking roles, licensing and the CII, CIP or CPCU qualifications, a sales and servicing routine, and the move into specialist or management work.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "insurance-career",
+        "everyone",
+        "student",
+        "insurance",
+        "underwriting",
+        "claims",
+        "licensing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/insurance-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a2f4842a993426cbb8b4ec4b78871fcdb4a162a4c0869c6d9e5bc3c7639a6a61"
     },
     {
       "id": "professions-trades.it-support-technician-career",
@@ -11252,6 +12092,34 @@
       "contentHash": "sha256:cdef98d0cc757aaac009f4dfb02e8f03a25e7a41931e90c34e8aed882e519f26"
     },
     {
+      "id": "professions-trades.logistics-port-careers",
+      "name": "Logistics and Port Careers",
+      "description": "The route into logistics, shipping and ports: entry subjects, site safety, forklift and dangerous goods certificates, customs brokerage, supply chain qualifications and the step up to management.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "logistics-port-careers",
+        "everyone",
+        "student",
+        "freight-forwarding",
+        "customs-brokerage",
+        "warehousing",
+        "supply-chain"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/logistics-port-careers.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:5641342949342bd91f9096aba079f440e8f8255b4cc311013d2cefeb0984a112"
+    },
+    {
       "id": "professions-trades.motor-vehicle-mechanic-trade",
       "name": "Motor Vehicle Mechanic Trade",
       "description": "The route from a first week in a garage to master technician: entry subjects, training and apprenticeship, workshop safety, diagnostics, certification, hybrid and diesel work, working abroad and running your own garage.",
@@ -11278,6 +12146,34 @@
         "totalTasks": 203
       },
       "contentHash": "sha256:2233b91e1dc51b3cdb305a0be941be03ccf4c0d1039e4f95a191934055d54ed6"
+    },
+    {
+      "id": "professions-trades.music-industry-careers",
+      "name": "Music Industry Careers",
+      "description": "A working route into music as a performer, producer, engineer, manager or promoter: training, rights registrations, releases, royalties, gigs and touring, with the business records that keep the income coming.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "music-industry-careers",
+        "everyone",
+        "creative",
+        "musician",
+        "royalties",
+        "music-production",
+        "touring"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/music-industry-careers.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:61a763de6de64b1ff0ad59ca318d20a626e2a102543dedb3c61e0c425b536228"
     },
     {
       "id": "professions-trades.oil-gas-energy-careers",
@@ -11363,6 +12259,34 @@
       "contentHash": "sha256:201c17472c3ba3d33e1d2661b41b3ad5b81249f07a4907a74585518626addbfa"
     },
     {
+      "id": "professions-trades.physiotherapy-career",
+      "name": "Physiotherapy Career",
+      "description": "The route to becoming a physiotherapist, from CSEC, CAPE or A-level sciences and observation hours to the degree, clinical placements, licensing exams and registration, then specialising, advanced practice and private clinics.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "physiotherapy-career",
+        "everyone",
+        "student",
+        "physiotherapy",
+        "physical-therapy",
+        "clinical-placements",
+        "rehabilitation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/physiotherapy-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1c9219432160acb58af097684930a02f367a2cd27efc00075bcedce612586075"
+    },
+    {
       "id": "professions-trades.plumbing-trade",
       "name": "Plumbing Trade",
       "description": "The plumbing route from first interest to running your own jobs: subjects, training and apprenticeship hours, core pipework skills, licences, pricing, self-employment and specialist water systems.",
@@ -11419,6 +12343,34 @@
       "contentHash": "sha256:0f2a3d0a883a4530b7d285b7abfe592ed7cda36f428badceeef39cdc20f2ce7f"
     },
     {
+      "id": "professions-trades.psychology-counselling-career",
+      "name": "Psychology and Counselling Career",
+      "description": "From first interest to an established practice: choosing between psychology and counselling routes, accredited degrees, supervised hours, licensing, a modality, a sustainable caseload and private or overseas practice.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "psychology-counselling-career",
+        "student",
+        "psychology",
+        "counselling",
+        "psychotherapy",
+        "licensing",
+        "supervision"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/psychology-counselling-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:a066431c21a3e513a8d6edf7db07b714fea31b8c69e1ef4ae5bb4e9198998ac8"
+    },
+    {
       "id": "professions-trades.public-service-careers",
       "name": "Public Service Careers",
       "description": "The route into and up through government work: entry tests and applications, ministries and agencies, appointment and promotion rules, core civil service skills, and serving the public well.",
@@ -11444,6 +12396,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:eaa424e6923637d53a18e0a6ea0617c71be983048fb786a875a3af2123cbab06"
+    },
+    {
+      "id": "professions-trades.quantity-surveying-career",
+      "name": "Quantity Surveying Career",
+      "description": "The route to becoming a quantity surveyor, from CSEC, CAPE or A-level subjects and an accredited degree to measurement, estimating and contract skills, chartered or professional membership and leading cost control on real projects.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "quantity-surveying-career",
+        "everyone",
+        "student",
+        "quantity-surveying",
+        "construction-cost",
+        "estimating",
+        "chartership"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/quantity-surveying-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:8a8ee485d88e4ddbce73008bbd34cfa20aa00e770242fe1547b7ffb14be62e0a"
     },
     {
       "id": "professions-trades.real-estate-agent-career",
@@ -11502,6 +12482,34 @@
       "contentHash": "sha256:cc247e8a1fee1c5d6608cfd3730a0bafd4e9033dcb0fd0f42674caa58e99e775"
     },
     {
+      "id": "professions-trades.seafarer-merchant-navy-career",
+      "name": "Seafarer and Merchant Navy Career",
+      "description": "The route to sea as a merchant navy officer or rating: maritime school, STCW and medical certificates, sea time and the training record book, certificates of competency, deck or engine progression and coming ashore.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "seafarer-merchant-navy-career",
+        "everyone",
+        "student",
+        "merchant-navy",
+        "stcw",
+        "deck-officer",
+        "marine-engineer"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/seafarer-merchant-navy-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6aefac294aa8fb666c6e764d97a0accba8891b587e95312d8cec1e23c027b34d"
+    },
+    {
       "id": "professions-trades.social-work-career",
       "name": "Social Work Career",
       "description": "From shadowing a practitioner to senior roles: entry subjects, an accredited degree, placements, registration or licensing, the first caseload, specialising with children, families or health, and the routines that prevent burnout.",
@@ -11556,6 +12564,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:e53d69654b370627123327575657737cd1bd2975c7eafea899cd6043fa4e2ab1"
+    },
+    {
+      "id": "professions-trades.veterinary-career",
+      "name": "Veterinary Career",
+      "description": "From first interest in animals to registered vet or veterinary nurse: subjects, accredited schools, funding, licensing exams, clinical skills, the first job, specialising and working abroad.",
+      "category": "personal",
+      "tags": [
+        "professions-trades",
+        "veterinary-career",
+        "everyone",
+        "student",
+        "veterinarian",
+        "veterinary-nurse",
+        "cape",
+        "licensing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/professions-trades/veterinary-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professions & Trades"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:b89010b748dc24ca0560561d91f5ce9ae98b4efe6a1e7c01aea480a8bf71018a"
     },
     {
       "id": "professions-trades.working-on-cruise-ships",
@@ -12971,6 +14007,34 @@
       "contentHash": "sha256:ecc73deba660cf831931a794aa335d4a80ff9e2b49640e59d2b42fc23b6f4e7d"
     },
     {
+      "id": "sales-revenue.cold-calling-phone-outreach",
+      "name": "Cold Calling & Phone Outreach",
+      "description": "Call blocks that actually happen, openers and talk tracks that earn a second sentence, gatekeepers and voicemail handled well, and the calling rules and routines that turn dials into booked meetings.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "cold-calling-phone-outreach",
+        "small-business",
+        "team",
+        "freelancer",
+        "cold-calling",
+        "phone-scripts",
+        "appointment-setting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/cold-calling-phone-outreach.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:eee2612df4e0f4adf7e70a9b0e69571d5949a2fa82c6002e4820de7a5a23d290"
+    },
+    {
       "id": "sales-revenue.cold-email-prospecting-sequences",
       "name": "Cold Email Prospecting",
       "description": "Sending domains that stay out of spam, prospect lists you can trust, short emails that earn replies, and the weekly routines that turn cold outreach into booked meetings.",
@@ -12997,6 +14061,537 @@
         "totalTasks": 202
       },
       "contentHash": "sha256:1e9d423a9de61189d9afe74eef0f565b655c006c084ad3dd0eec1775a3cee8e1"
+    },
+    {
+      "id": "sales-revenue.deal-negotiation-closing",
+      "name": "Deal Negotiation & Closing",
+      "description": "Walk-away points, give-get concession lists, clause positions agreed with your lawyer and a closing routine that turns verbal yeses into signed contracts without giving away margin.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "deal-negotiation-closing",
+        "team",
+        "founder",
+        "small-business",
+        "negotiation",
+        "contracts",
+        "closing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/deal-negotiation-closing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:7d07ff44c986bc54549102bdfeac0607511c49fad13ad0c00c39e97d05219098"
+    },
+    {
+      "id": "sales-revenue.enterprise-complex-deal-cycles",
+      "name": "Enterprise Complex Deal Cycles",
+      "description": "A deal room, a cross-functional deal team, a risk register and weekly momentum checks that carry long enterprise deals through security, legal, procurement and executive sign-off with the champion intact.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "enterprise-complex-deal-cycles",
+        "enterprise",
+        "team",
+        "manager",
+        "long-sales-cycle",
+        "security-review",
+        "legal-redlines"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/enterprise-complex-deal-cycles.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:198a02825c9d1776e579f464e43e7db907da48c2d8e39051a2af11f768152820"
+    },
+    {
+      "id": "sales-revenue.ideal-customer-profile-sales",
+      "name": "Ideal Customer Profile Definition",
+      "description": "Evidence on which customers win fastest, pay most and stay longest, a written ideal customer profile with disqualifiers and tiers, and the routines that keep the whole team selling to it.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "ideal-customer-profile-sales",
+        "founder",
+        "small-business",
+        "team",
+        "icp",
+        "segmentation",
+        "targeting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/ideal-customer-profile-sales.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 208
+      },
+      "contentHash": "sha256:a17b1457fdf1d7b517dccd025fa11f0c854f3bf83c8cff8dfc20114a4a3c9f9e"
+    },
+    {
+      "id": "sales-revenue.key-account-management",
+      "name": "Key Account Management",
+      "description": "Plans for your largest customers: account selection, profiles, relationship maps, health scores, business reviews, executive sponsors and early renewal work that protect revenue and find the next deal.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "key-account-management",
+        "team",
+        "enterprise",
+        "manager",
+        "account-planning",
+        "strategic-accounts",
+        "customer-retention"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/key-account-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:b197247e4fc4f4ba12b534599601fce464b5f1056479151b3b78c89ec94b50fe"
+    },
+    {
+      "id": "sales-revenue.linkedin-social-selling",
+      "name": "LinkedIn Social Selling",
+      "description": "A profile written for buyers, a named target list, posts and comments that build familiarity, and message routines that turn LinkedIn connections into sales conversations.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "linkedin-social-selling",
+        "founder",
+        "freelancer",
+        "knowledge-worker",
+        "linkedin",
+        "personal-brand",
+        "content"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/linkedin-social-selling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:95943ddbfe5ca529fc39067bf436a0a0ada9954825d43e5402c28792617304dc"
+    },
+    {
+      "id": "sales-revenue.product-demo-delivery",
+      "name": "Sales Demo Delivery",
+      "description": "Demo environments that never embarrass you, storylines built on the buyer's own problems, rehearsed tailored demos and same-day recaps that move deals to a next step.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "product-demo-delivery",
+        "team",
+        "founder",
+        "small-business",
+        "product-demo",
+        "presales",
+        "demo-environment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/product-demo-delivery.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:791fba3a0e4e6a3e5f31d155dd38d2cc817a5f47a111e5f8d8be6a2517686276"
+    },
+    {
+      "id": "sales-revenue.sales-coaching-call-review",
+      "name": "Sales Coaching & Call Review",
+      "description": "A skills model and anchored scorecard, a weekly call review and coaching rhythm, peer and team listening, and the calibration and analysis that make sales coaching fair and measurable.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-coaching-call-review",
+        "manager",
+        "team",
+        "call-review",
+        "coaching",
+        "conversation-intelligence",
+        "feedback"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-coaching-call-review.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:95bdd15e50a7b799dbe59e3887994758db83d17adc10b9da54c3b2045a908d6f"
+    },
+    {
+      "id": "sales-revenue.sales-commission-payouts",
+      "name": "Sales Commission Tracking & Payouts",
+      "description": "Effective-dated rates, a calculation anyone can trace, monthly reconciliation, clear statements, clean payroll handoffs, clawbacks and a fair dispute process, so every seller is paid the right commission on time.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-commission-payouts",
+        "manager",
+        "small-business",
+        "team",
+        "commissions",
+        "payroll",
+        "sales-operations"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-commission-payouts.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 210
+      },
+      "contentHash": "sha256:8ffc93c325419a06959c83b7488910a43bfbd99127fd9959fc5ee6ff93146c95"
+    },
+    {
+      "id": "sales-revenue.sales-compensation-plan-design",
+      "name": "Sales Compensation Plan Design",
+      "description": "A written pay philosophy, pay mix and measures by role, payout curves, crediting and clawback rules, a counsel-checked plan document and the yearly cycle that keeps sales incentives fair and affordable.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-compensation-plan-design",
+        "manager",
+        "founder",
+        "enterprise",
+        "commission",
+        "accelerators",
+        "incentive-pay"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-compensation-plan-design.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:6b234ed155877b69e6209a29f5344053ac0963e76478f7e791d5501da4d59181"
+    },
+    {
+      "id": "sales-revenue.sales-crm-administration",
+      "name": "Sales CRM Administration",
+      "description": "Deal stages with exit criteria, stage-gated required fields, permissions, duplicate cleanup, backups and reports reps trust, plus the routines that keep a sales CRM clean.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-crm-administration",
+        "small-business",
+        "team",
+        "manager",
+        "crm",
+        "data-quality",
+        "sales-operations"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-crm-administration.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:a6a86248a4cf36af2316a7741aefa4a81c3a7c16c12c3847851196778c2a9ef8"
+    },
+    {
+      "id": "sales-revenue.sales-discovery-calls",
+      "name": "Sales Discovery Calls",
+      "description": "Clear exit criteria, a tested question bank, fast pre-call research and same-day recaps, so first sales conversations uncover real pain, budget and decision process before any demo.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-discovery-calls",
+        "team",
+        "founder",
+        "freelancer",
+        "discovery",
+        "questioning",
+        "call-preparation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-discovery-calls.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:ebb7abb9c8506f29aa1656ae6e460e425f74ee92b8e1c2ff5319f99a8f5e5998"
+    },
+    {
+      "id": "sales-revenue.sales-enablement-content",
+      "name": "Sales Enablement Content",
+      "description": "One findable library of battle cards, one-pagers, objection guides and talk tracks, with owners and review dates, release-day updates and the usage data that shows which content helps reps win.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-enablement-content",
+        "team",
+        "manager",
+        "enterprise",
+        "battle-cards",
+        "talk-tracks",
+        "content-governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-enablement-content.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 212
+      },
+      "contentHash": "sha256:83a1d69ff9c945424273eb12d11072e5b0f111f470cc07a9fc0e5f2ae0010a3c"
+    },
+    {
+      "id": "sales-revenue.sales-pipeline-forecasting",
+      "name": "Sales Pipeline Forecasting",
+      "description": "Clear forecast categories, a weekly submission rhythm, stage win rates from your own history and an accuracy scorecard, so leadership gets a revenue number it can plan around.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-pipeline-forecasting",
+        "manager",
+        "team",
+        "enterprise",
+        "forecast-accuracy",
+        "win-rates",
+        "revenue-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-pipeline-forecasting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:384d6930eb3434016583c1097dc15fd1fd0401bc1c37580503d4cd4edeb4b54d"
+    },
+    {
+      "id": "sales-revenue.sales-playbook-development",
+      "name": "Sales Playbook Development",
+      "description": "A written account of how your team really sells: segments, buyer roles, stage exit criteria, plays and handoffs, plus the routines that keep the playbook current, short and used.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-playbook-development",
+        "manager",
+        "founder",
+        "team",
+        "sales-process",
+        "playbook",
+        "stage-definitions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-playbook-development.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:b14182379c8ecacd15b98f91182c6726c6c0184e0acd5accfa9775c0318126e6"
+    },
+    {
+      "id": "sales-revenue.sales-proposal-writing",
+      "name": "Sales Proposal Writing",
+      "description": "A standard proposal structure and template, a reusable content library, clear scope and pricing options, and the routines that get proposals out fast, followed up and won.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-proposal-writing",
+        "small-business",
+        "freelancer",
+        "agency",
+        "proposals",
+        "pricing",
+        "scope"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-proposal-writing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:d2f9ab1abbe13fc86e902dc440c6cbb1e1375b33d2c803e0e58ccca089344e0b"
+    },
+    {
+      "id": "sales-revenue.sales-quota-capacity-modelling",
+      "name": "Sales Quota & Capacity Modelling",
+      "description": "Quotas built from your own win rates, ramp curves and attrition, a capacity model that says how many sellers the revenue target really needs, and the monthly checks that keep both honest.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-quota-capacity-modelling",
+        "manager",
+        "founder",
+        "enterprise",
+        "quota-setting",
+        "sales-capacity",
+        "headcount-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-quota-capacity-modelling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4ba3b57998605904e769d111cb0fde496d4224c402a8f7abe2329805540811bb"
+    },
+    {
+      "id": "sales-revenue.sales-rep-onboarding-ramp",
+      "name": "Sales Rep Onboarding & Ramp",
+      "description": "A ninety-day route to a productive seller: a clear ramp definition, a planned first week, stage gates, weekly scorecards, certification calls and early warning signs, built for sales managers and their teams.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-rep-onboarding-ramp",
+        "manager",
+        "team",
+        "enterprise",
+        "onboarding",
+        "ramp",
+        "certification"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-rep-onboarding-ramp.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:90f37d1d6f474e412343a2d927bb6dfab3554a2f88704aec1297e7372809aa1b"
+    },
+    {
+      "id": "sales-revenue.sales-territory-planning",
+      "name": "Sales Territory Planning",
+      "description": "Fair, data-backed sales territories: an account universe and potential scores, balance and coverage routines, clear ownership rules, and planned redesigns that move accounts without losing deals or sellers.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-territory-planning",
+        "manager",
+        "enterprise",
+        "team",
+        "territory-design",
+        "account-assignment",
+        "coverage"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-territory-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:2488e62ff4f5ce0f1d173bc5af592e862acc95540f2ef1350e353d0e7d823064"
+    },
+    {
+      "id": "wealth-investing.active-trading-rules",
+      "name": "Options & Active Trading Rules",
+      "description": "A small, walled-off trading sleeve run by written rules: a hard size cap, per-trade and monthly loss limits, options learned before they are used, honest records and a regular test against simply holding an index fund.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "active-trading-rules",
+        "everyone",
+        "options",
+        "trading-rules",
+        "risk-limits",
+        "trade-journal"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/active-trading-rules.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0f36722dda9d72004d14ae19232f8df3f4c6646eb8384fae64f393f4c624dc48"
     },
     {
       "id": "wealth-investing.alternative-collectible-investments",
@@ -13053,6 +14648,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:93b44183e4539cec739545f168eef98ae81afa9e2e92acdf2f2f231f154475f9"
+    },
+    {
+      "id": "wealth-investing.annual-wealth-review",
+      "name": "Annual Wealth Review",
+      "description": "One fixed day a year to check the whole picture: statements gathered, returns and fees worked out, allocation, tax allowances and beneficiaries checked, and a short report with three actions for the year ahead.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "annual-wealth-review",
+        "everyone",
+        "yearly-review",
+        "returns",
+        "fees",
+        "beneficiaries",
+        "progress-report"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/annual-wealth-review.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:349cd0c2d84039b73ae91892850094cd3797892cbe6e446ac1c39c780ccc98f1"
     },
     {
       "id": "wealth-investing.annuity-decisions",
@@ -13135,6 +14758,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:b22e41a677ba6b5d82247df1af7ced856ea31743cdafbcceee3c10d093e41575"
+    },
+    {
+      "id": "wealth-investing.business-owner-exit-wealth",
+      "name": "Business Owner Exit Wealth Plan",
+      "description": "A personal balance sheet and net number before the sale, safe landing for the money, earn-out and tax routines, choosing who manages it, and plans for co-owners, buyouts, serial founders and family wealth.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "business-owner-exit-wealth",
+        "founder",
+        "small-business",
+        "business-sale",
+        "earn-out",
+        "liquidity-event",
+        "sudden-wealth"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/business-owner-exit-wealth.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f9ef9c41567e55c29bcfd9fe1fe7cb5191d0b23d382a3037e70803ee278a3574"
     },
     {
       "id": "wealth-investing.buy-to-let-property",
@@ -13246,6 +14897,33 @@
         "totalTasks": 202
       },
       "contentHash": "sha256:1d478091b70572b2f70b629b30037829bc629f855df0f23751496a45cc1fdb4f"
+    },
+    {
+      "id": "wealth-investing.couples-retirement-plan-alignment",
+      "name": "Couple's Retirement Plan Alignment",
+      "description": "Two partners' pensions, retirement dates and income goals lined up: a shared inventory, survivor cover checked, routines for talking money together and the joint decisions that leave neither partner short.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "couples-retirement-plan-alignment",
+        "everyone",
+        "couples",
+        "joint-planning",
+        "survivor-benefits",
+        "pension-gap"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/couples-retirement-plan-alignment.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:cf400cccec44668f1505b6ed0891180d411174599d9590de4b854533d6af5778"
     },
     {
       "id": "wealth-investing.cryptocurrency-holdings",
@@ -13553,6 +15231,34 @@
       "contentHash": "sha256:5129549c265ad20ef6427a967ec9984e1858adc358ca69a212f7d5df9f3c015b"
     },
     {
+      "id": "wealth-investing.inflation-protection-strategy",
+      "name": "Inflation Protection Strategy",
+      "description": "Your own inflation rate, real returns on every account, a written role for linked bonds, real assets and shares, and the routines and retirement plans that keep savings worth what they were meant to be.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "inflation-protection-strategy",
+        "everyone",
+        "retiree",
+        "inflation",
+        "inflation-linked-bonds",
+        "real-assets",
+        "purchasing-power"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/inflation-protection-strategy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:663a916a83a519f3ba735303d8fdda9d227ab4612181a90e2fff162f6ba3e67b"
+    },
+    {
       "id": "wealth-investing.investment-fee-reduction",
       "name": "Investment Fee Reduction",
       "description": "Every platform, fund, adviser and dealing charge you pay, found and added up in money terms, with the switches, renegotiations and yearly checks that keep total costs low.",
@@ -13605,6 +15311,61 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:8277106ca573dc6a7afdabb51e560b1a38fcd6d43c1470fca2d08fb290af88f4"
+    },
+    {
+      "id": "wealth-investing.lost-pension-tracing",
+      "name": "Lost Pension Tracing",
+      "description": "A work and address timeline, free official tracing searches, a log of every lead chased to an answer, and a register of found pensions and accounts kept current so nothing goes missing again.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "lost-pension-tracing",
+        "everyone",
+        "pension-tracing",
+        "unclaimed-assets",
+        "old-employers",
+        "executor"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/lost-pension-tracing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:5319d3ffa60a962a5724f75d1de795389e060673d53903e86dd035a5c856960f"
+    },
+    {
+      "id": "wealth-investing.mini-retirement-funding",
+      "name": "Mini-Retirement Funding",
+      "description": "Fund a sabbatical or mini-retirement mid-career: a full cost budget, a dedicated fund and monthly target, the pension gap measured and closed, lost cover replaced and a re-entry buffer for coming back.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "mini-retirement-funding",
+        "knowledge-worker",
+        "everyone",
+        "sabbatical",
+        "career-break",
+        "savings-target",
+        "re-entry-buffer"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/mini-retirement-funding.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:1f1daaf45f7e7f8f3ac42a3a177b355584044c6a049b4f9fd40493d66dc1f52a"
     },
     {
       "id": "wealth-investing.mortgage-overpayment-vs-investing",
@@ -13662,6 +15423,34 @@
       "contentHash": "sha256:c986e81c4b2e51a7b6289c9cb59fbeb22c5578b45848d7957fdfc1af0ecaecc0"
     },
     {
+      "id": "wealth-investing.peer-to-peer-lending",
+      "name": "Peer-to-Peer Lending",
+      "description": "Peer-to-peer and crowdfunded lending run as a small, deliberate slice of your wealth: platforms checked before you lend, written limits per loan and platform, defaults expected and tracked, and clean records for tax.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "peer-to-peer-lending",
+        "everyone",
+        "retiree",
+        "p2p-lending",
+        "crowdfunding",
+        "loan-defaults",
+        "platform-risk"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/peer-to-peer-lending.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:b338dfbd1e2b3fa99df4877fd3bf449d78f3b981d1176768589f3a211285d698"
+    },
+    {
       "id": "wealth-investing.pension-consolidation",
       "name": "Pension Consolidation",
       "description": "Every old pension listed and compared, guarantees and exit fees checked in writing, a receiving pension chosen and each transfer tracked until the money is invested, with the pots worth keeping kept on purpose.",
@@ -13716,6 +15505,62 @@
       "contentHash": "sha256:adac43b4902c7f8f7c96970f8bcb205519ab78e6c3a24e2e814a2fd45ff0590e"
     },
     {
+      "id": "wealth-investing.philanthropic-legacy-giving",
+      "name": "Philanthropic Legacy Giving",
+      "description": "A giving budget and mission you can defend, records that secure every tax relief, the right vehicle from direct gifts to a donor-advised fund or foundation, and charitable legacies written into your long-term plan.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "philanthropic-legacy-giving",
+        "retiree",
+        "everyone",
+        "charitable-giving",
+        "donor-advised-funds",
+        "charitable-legacies",
+        "philanthropy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/philanthropic-legacy-giving.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:ce357ec8930ccca1d6d69e5635eaa8d001e501437bae49fd77a9aadd78859ff0"
+    },
+    {
+      "id": "wealth-investing.precious-metals-holdings",
+      "name": "Precious Metals Holdings",
+      "description": "Gold and silver held on purpose: a written role and cap, a dealer and storage you trust, insurance and cost records in order, and clear plans for selling the metal or passing it on.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "precious-metals-holdings",
+        "everyone",
+        "gold",
+        "silver",
+        "bullion",
+        "storage",
+        "insurance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/precious-metals-holdings.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3d2275dddcb543318be4b07b202185af1eeae8627cea134f764e415e0ee59b5e"
+    },
+    {
       "id": "wealth-investing.private-pension-accounts",
       "name": "Private Pension Accounts",
       "description": "A self-directed pension or IRA chosen on purpose: the right type and provider, contributions and tax relief that actually arrive, sensible funds, and yearly checks on limits, charges and beneficiaries.",
@@ -13742,6 +15587,33 @@
         "totalTasks": 199
       },
       "contentHash": "sha256:c97de6a167dd0bf658478f92d1999744350cb9bd84c9c66e766e59204ec4407d"
+    },
+    {
+      "id": "wealth-investing.property-company-structure",
+      "name": "Property Company Structure",
+      "description": "Weigh personal against company ownership of rental property on your own numbers, then run a property company properly: filings, director loans, dividends, company mortgages, succession and exit.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "property-company-structure",
+        "homeowner",
+        "small-business",
+        "limited-company",
+        "landlord-tax",
+        "company-mortgages"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/property-company-structure.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:74c27cc571db4c3730b145a374c0d2a375d78a583bc1f01821fddaa2f105e933"
     },
     {
       "id": "wealth-investing.property-flipping",
@@ -13881,6 +15753,33 @@
       "contentHash": "sha256:4110875ca436d16675c17a8db7f4c2bfd7d64fc07f4b4329648f7f91db802c7d"
     },
     {
+      "id": "wealth-investing.self-employed-retirement-saving",
+      "name": "Self-Employed Retirement Saving",
+      "description": "A retirement system for the self-employed: the right plan for your profit, a written contribution rule that scales with uneven income, automatic sweeps from every payment and a yearly round of top-ups and tax relief.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "self-employed-retirement-saving",
+        "freelancer",
+        "small-business",
+        "variable-income",
+        "pension-contributions",
+        "sole-trader"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/self-employed-retirement-saving.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:2526200db0e26f4830ea3b1986b3ee2f684f1dbc884507b1607e9daf2380b9b1"
+    },
+    {
       "id": "wealth-investing.side-income-streams",
       "name": "Side Income Streams",
       "description": "Side income run like an investment: a clear purpose for the money, contract and tax basics in place, hours logged against profit, prices that hold up and profit swept into long-term savings every month.",
@@ -13909,6 +15808,34 @@
       "contentHash": "sha256:55acddb776b277aa2be5640a4e6eb19abc0ee9aa7b51aa7ada9555478d759926"
     },
     {
+      "id": "wealth-investing.state-pension-social-security",
+      "name": "State Pension & Social Security",
+      "description": "An official forecast you understand, a contribution record checked year by year with gaps fixed or knowingly left, a claiming age chosen on paper, and the payments, credits and survivor rights kept right once the pension starts.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "state-pension-social-security",
+        "everyone",
+        "retiree",
+        "social-security",
+        "national-insurance",
+        "contribution-record",
+        "claiming-age"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/state-pension-social-security.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 191
+      },
+      "contentHash": "sha256:4990222dc8dea322748c76586673eaf9d65727951d98d74983327f7bdca26a68"
+    },
+    {
       "id": "wealth-investing.tax-advantaged-investment-accounts",
       "name": "Tax-Advantaged Investment Accounts",
       "description": "Every tax-free and tax-deferred wrapper you hold listed, this year's limits and deadlines known, a written funding order, and the routines that use each allowance fully and correctly.",
@@ -13935,6 +15862,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:a60c0f289ed1a5f4329258b4c41c7fce2aeb60f442d5883174f1b7199cd1a2cd"
+    },
+    {
+      "id": "wealth-investing.teaching-heirs-about-wealth",
+      "name": "Teaching Heirs About Wealth",
+      "description": "A staged plan for raising heirs who can handle money: shared family values, age-by-age lessons, regular family meetings, supervised first responsibility and honest conversations about what they will inherit.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "teaching-heirs-about-wealth",
+        "parent",
+        "retiree",
+        "financial-literacy",
+        "family-meetings",
+        "inheritance",
+        "next-generation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/teaching-heirs-about-wealth.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:c10bba95047dbafcdb32601d0fd6176ad13ca04fc6d1b2d56937b798b2e51f99"
     },
     {
       "id": "wealth-investing.university-fund-investing",
