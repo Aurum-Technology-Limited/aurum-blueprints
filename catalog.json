@@ -240,6 +240,34 @@
       "contentHash": "sha256:7f52b48dbfc4a0fc76aaa99e86622155b5dbb96c5c4b064aa38c707a78ed4437"
     },
     {
+      "id": "family-parenting.childhood-memories-keeping",
+      "name": "Childhood Memories Keeping",
+      "description": "One backed-up photo library and an archive box per child, weekly and monthly capture habits, artwork and school paper sorting, books and letters, and a plan for handing the whole record to each child.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "childhood-memories-keeping",
+        "parent",
+        "photos",
+        "keepsakes",
+        "baby-book",
+        "artwork",
+        "family-archive"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/childhood-memories-keeping.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:73af06e54c4dde9f1146d3e9976fb9b313d453d6a6ad31c14aae8a3bc8c19ce5"
+    },
+    {
       "id": "family-parenting.childrens-birthday-parties",
       "name": "Children's Birthday Parties",
       "description": "A budget and guest list settled early, invitations that answer every question, allergy-safe food, a run sheet for the day and calm machinery for the parties your children are invited to.",
@@ -461,6 +489,34 @@
       "contentHash": "sha256:98219072b857a6117b57103fda633cb4f066086113ac9b21513ade8f7db60968"
     },
     {
+      "id": "family-parenting.family-emergency-plan",
+      "name": "Family Emergency Plan",
+      "description": "A written family emergency plan: contact lists and cards, meeting points, a fire escape route, guardianship wishes, medical sheets, grab bags, and children who know exactly what to do and who to call.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "family-emergency-plan",
+        "parent",
+        "emergency-contacts",
+        "fire-safety",
+        "guardianship",
+        "first-aid",
+        "evacuation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/family-emergency-plan.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:7709707458950fb6e4cdf52e1b9f00e91cf41df4e22e9fce92df59a4f64897a3"
+    },
+    {
       "id": "family-parenting.family-meetings-decisions",
       "name": "Family Meetings & Decisions",
       "description": "A weekly family meeting that children actually join, clear rules on who decides what, a decisions log, problem-solving and voting methods, and versions for toddlers, teenagers, step-families, single parents and away parents.",
@@ -541,6 +597,34 @@
         "totalTasks": 209
       },
       "contentHash": "sha256:88ec433cad1f0640520a3bba3a9a208a4a1dc846c64ee51ac9673244e8315c31"
+    },
+    {
+      "id": "family-parenting.home-education",
+      "name": "Home Education",
+      "description": "The legal basics where you live, an approach and weekly rhythm that suit your children, records that satisfy the authority, real teaching skills, and routes to exams and beyond.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "home-education",
+        "parent",
+        "educator",
+        "homeschooling",
+        "curriculum",
+        "record-keeping",
+        "deschooling"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/home-education.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:6847828f9dcd1dfefd380fc161db6ce01c2d90a7be2cd561c17c8c831cee14d9"
     },
     {
       "id": "family-parenting.homework-support",
@@ -956,6 +1040,34 @@
       "contentHash": "sha256:ec548af65825be53ad97299147cdbfd33d2f764c7d44be061c2d3c0098e3fc0a"
     },
     {
+      "id": "family-parenting.raising-neurodivergent-child",
+      "name": "Raising a Neurodivergent Child",
+      "description": "Home support for an autistic or ADHD child: the route to diagnosis, sensory needs, visual routines, calmer meltdowns, sleep and food, medication logs, siblings, other families and your own stamina as a parent carer.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "raising-neurodivergent-child",
+        "parent",
+        "carer",
+        "autism",
+        "adhd",
+        "sensory-needs",
+        "routines"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/raising-neurodivergent-child.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:f9583b1d43fa5174764195d42ed877d735b155b7c203607615acd39e12aec651"
+    },
+    {
       "id": "family-parenting.reading-with-your-children",
       "name": "Reading With Your Children",
       "description": "A nightly story that survives busy evenings, library cards and a home shelf that works, the skills to help a beginner reader, and ways to keep older children and teenagers reading for pleasure.",
@@ -1206,6 +1318,34 @@
       "contentHash": "sha256:a09867600bfe9d94616f701a3e446ae72f86f0865e5ed4348a53a2fb5f4f363f"
     },
     {
+      "id": "family-parenting.supporting-teen-mental-health",
+      "name": "Supporting a Teen's Mental Health",
+      "description": "A baseline and warning signs, a crisis card, a safer home, the first doctor's visit, weekly mood scores, referral chasing, school support and calm plans for self-harm, school avoidance and crisis.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "supporting-teen-mental-health",
+        "parent",
+        "anxiety",
+        "depression",
+        "self-harm",
+        "school-support",
+        "crisis-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/supporting-teen-mental-health.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:d6173fc601e2ae52b4d9cd65d80287011ffa68ca6db588ec630c27ace12f6809"
+    },
+    {
       "id": "family-parenting.toddler-behaviour-tantrums",
       "name": "Toddler Behaviour & Tantrums",
       "description": "A two-week tantrum log, a shared script both parents use in the first ten seconds, calm routines for transitions, and clear plans for biting, hitting and defiance from age one to four.",
@@ -1231,6 +1371,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:764bfea2633b63e0f2de9f7fb1f8d12e59ffdb9cd581ad18da161f9c2524ca36"
+    },
+    {
+      "id": "family-parenting.twins-multiples-parenting",
+      "name": "Twins & Multiples Parenting",
+      "description": "An early arrival plan, kit and buggy decisions, a two-baby feed log and helper rota, tandem feeding and settling skills, one-to-one time for each child, class placement choices and plans for triplets, premature twins and single parents.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "twins-multiples-parenting",
+        "parent",
+        "twins",
+        "triplets",
+        "multiples",
+        "tandem-feeding",
+        "class-placement"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/twins-multiples-parenting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:b2fc78834f1436cd9aefc81fa0d41353a17db4db133d72c062f8a4575a729518"
     },
     {
       "id": "family-parenting.university-applications-with-child",
@@ -1259,6 +1427,34 @@
         "totalTasks": 201
       },
       "contentHash": "sha256:65cc1ecc8e30c4c75665d5f9a011af7c60b321ac3e86f00cfdffb5ec6a836c79"
+    },
+    {
+      "id": "family-parenting.working-parent-juggle",
+      "name": "Working Parent Juggle",
+      "description": "An on-call parent and a sick-day plan, flexible hours that hold up, fair sharing between working adults, protected family evenings and career moves made with the children in mind.",
+      "category": "personal",
+      "tags": [
+        "family-parenting",
+        "working-parent-juggle",
+        "parent",
+        "knowledge-worker",
+        "manager",
+        "flexible-working",
+        "childcare-backup",
+        "work-boundaries"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-parenting/working-parent-juggle.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family & Parenting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:71ae1450a76434af6685d96596ebb0e9b7273313903cc7f3b1a9fd6718cc4269"
     },
     {
       "id": "fitness-sport.5k-to-half-marathon-running",
@@ -5421,6 +5617,1389 @@
       "contentHash": "sha256:3e7eaa31499084fc43655f27b1e23e886eaa41438d4370d6b8ab49ef99a87bdb"
     },
     {
+      "id": "personal-finance.annual-money-plan-review",
+      "name": "Annual Money Plan Review",
+      "description": "A yearly look back at income, spending, savings and debt, a net worth snapshot, three chosen priorities with numbered targets for next year, and the quarterly check-ins that keep the plan honest.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "annual-money-plan-review",
+        "everyone",
+        "annual-review",
+        "net-worth",
+        "goal-setting",
+        "savings-rate",
+        "financial-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/annual-money-plan-review.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:e1980fa64a3e3058c54b4e6420cbe6b580ca32bfc770d0d2408cd69626f05a96"
+    },
+    {
+      "id": "personal-finance.bank-account-interest-switching",
+      "name": "Bank Account & Interest Switching",
+      "description": "Every account and rate on one page, a fee audit, a guaranteed current account switch, top-rate savings moves, bonus and maturity dates tracked, and a yearly review so loyalty never costs you interest.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "bank-account-interest-switching",
+        "everyone",
+        "savings-interest",
+        "current-account",
+        "switching",
+        "bank-fees",
+        "deposit-protection"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/bank-account-interest-switching.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:df0ba2692a0760dcf6cbba76ff1b3886c64123ae0ab284cd243193ba56a6906d"
+    },
+    {
+      "id": "personal-finance.bank-statement-reconciliation",
+      "name": "Household Bank Statement Checks",
+      "description": "Every bank and card statement checked against receipts each month: a receipt system, balance reconciliation, a log of queries and refunds, and the know-how to dispute duplicates, errors and payments you never made.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "bank-statement-reconciliation",
+        "everyone",
+        "statements",
+        "reconciliation",
+        "receipts",
+        "duplicate-charges",
+        "disputes"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/bank-statement-reconciliation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:7a7160d976aa7b5f90812673fda8cb774fa9e4e00fd7e210c26dc5897d5c9bc2"
+    },
+    {
+      "id": "personal-finance.benefits-government-entitlements",
+      "name": "Benefits & Government Entitlements",
+      "description": "Every benefit, credit and grant the household may be owed, checked with independent calculators, claimed with evidence in order, paid correctly, kept up to date and challenged when a decision is wrong.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "benefits-government-entitlements",
+        "everyone",
+        "carer",
+        "welfare-rights",
+        "means-tested-benefits",
+        "disability-benefits",
+        "appeals"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/benefits-government-entitlements.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 210
+      },
+      "contentHash": "sha256:3189a295fe5ccaaf53b11b9c1c0dbfcf9eea23022b637e4d940f51cdfc161917"
+    },
+    {
+      "id": "personal-finance.big-purchase-sinking-funds",
+      "name": "Big Purchase Sinking Funds",
+      "description": "Named pots with real targets and dates for the car, holidays, appliances and annual bills, filled automatically each payday and paid out without reaching for credit.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "big-purchase-sinking-funds",
+        "everyone",
+        "sinking-funds",
+        "savings-pots",
+        "annual-bills",
+        "planned-purchases"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/big-purchase-sinking-funds.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:8934e106023865c9929e98daab23cdb39da53f357ce3025855408ffa64848200"
+    },
+    {
+      "id": "personal-finance.buy-now-pay-later-control",
+      "name": "Buy Now Pay Later Control",
+      "description": "A complete list of every buy now pay later plan, a collection calendar and written limits, then weekly and monthly checks, refund and missed payment know-how, and the decisions that stop small instalments stacking into a squeeze.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "buy-now-pay-later-control",
+        "everyone",
+        "instalment-plans",
+        "late-fees",
+        "checkout-credit",
+        "store-finance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/buy-now-pay-later-control.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:f12f99c4c48823de60d035e73de2600067782dfaa5cb61e70161bf6e4ad3f5d0"
+    },
+    {
+      "id": "personal-finance.buying-a-car-wisely",
+      "name": "Buying a Car Wisely",
+      "description": "A car chosen against a written brief and budget, checked, test driven and negotiated on the total price, with add-ons declined and the paperwork kept after you buy.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "buying-a-car-wisely",
+        "everyone",
+        "car-buying",
+        "used-cars",
+        "negotiation",
+        "vehicle-checks"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/buying-a-car-wisely.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:b3e64ae52cbf3e58a14be10650ad9f71eb147fe1171cd0e1538d7e5619682cb5"
+    },
+    {
+      "id": "personal-finance.car-loan-finance",
+      "name": "Car Loan & Finance",
+      "description": "Car finance compared on total cost, agreements filed with their key dates, balloon payments planned for, and vehicle debt paid down or ended on your terms.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "car-loan-finance",
+        "everyone",
+        "pcp",
+        "hire-purchase",
+        "leasing",
+        "balloon-payment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/car-loan-finance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3d24dd51599cdc60f70d0958c688a1ddd8e2b13baf17d27fc8ef47732d5fcd67"
+    },
+    {
+      "id": "personal-finance.car-running-costs",
+      "name": "Car Running Costs",
+      "description": "A ledger of every car cost, a true cost per mile, a monthly allowance and the yearly routines for servicing, insurance, tyres and tests, so you know what the car costs and whether to keep it.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "car-running-costs",
+        "everyone",
+        "motoring",
+        "cost-per-mile",
+        "fuel",
+        "servicing",
+        "vehicle-maintenance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/car-running-costs.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:7d15ae79249ae370ab0830e2efc1f89d5086428477fa774d9dddc40f323d0ede"
+    },
+    {
+      "id": "personal-finance.cash-envelope-spending",
+      "name": "Cash Envelope Spending",
+      "description": "Envelopes for groceries, fun money and other variable spending, filled each payday in cash or digital pots, with the rules, counts and reviews that stop overspending before it starts.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "cash-envelope-spending",
+        "everyone",
+        "envelope-budgeting",
+        "cash-budget",
+        "variable-spending",
+        "groceries",
+        "fun-money"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/cash-envelope-spending.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:8053817a970956385137311d0aed0fbb0a400f6211508e368abae052a3eb82da"
+    },
+    {
+      "id": "personal-finance.cashback-rewards-points",
+      "name": "Cashback & Rewards Points",
+      "description": "An inventory of every rewards scheme, cards cleared in full, routines that collect missed cashback and points, and the checks that stop rewards nudging you into extra spending.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "cashback-rewards-points",
+        "everyone",
+        "cashback",
+        "loyalty-schemes",
+        "credit-card-rewards",
+        "air-miles"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/cashback-rewards-points.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ea97ee9b82f04ebcaf229727b48c5a7927309908ed9dc4e6e29698317dfb3ff8"
+    },
+    {
+      "id": "personal-finance.childcare-costs-benefits",
+      "name": "Childcare Costs & Benefits",
+      "description": "A costed childcare plan for every child, the government and employer support you qualify for actually claimed, invoices checked, eligibility kept live and the big transitions from nursery to school budgeted ahead.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "childcare-costs-benefits",
+        "parent",
+        "childcare",
+        "funded-hours",
+        "tax-free-childcare",
+        "nursery-fees",
+        "family-budget"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/childcare-costs-benefits.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:362e9a2860b4bc7740e324d70f38d8a9087b05a52f872e50072f5c9e196e377e"
+    },
+    {
+      "id": "personal-finance.christmas-gift-spending-plan",
+      "name": "Christmas & Gift Spending Plan",
+      "description": "A Christmas and gift budget set from last year's real cost, a set amount per person, a pot filled monthly all year, and the lists and rules that keep December and every birthday paid for without credit.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "christmas-gift-spending-plan",
+        "everyone",
+        "parent",
+        "christmas",
+        "gift-budget",
+        "seasonal-saving",
+        "birthdays"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/christmas-gift-spending-plan.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:05a6854f1e40e1bae7b2a936e0258da78e9a430118ce5d5ddb3305cffdb7eb46"
+    },
+    {
+      "id": "personal-finance.cost-of-living-squeeze-plan",
+      "name": "Cost-of-Living Squeeze Plan",
+      "description": "A plan for when prices outrun pay: the monthly gap measured, priority bills protected, cuts aimed at the biggest rises, income boosts and support claimed, and reviews that keep the gap closing.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "cost-of-living-squeeze-plan",
+        "everyone",
+        "inflation",
+        "price-rises",
+        "priority-bills",
+        "support-schemes",
+        "household-budget"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/cost-of-living-squeeze-plan.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:e140822eda893f88b1f0c0e7260936a575b569c91b87db92c42c025ba3184c27"
+    },
+    {
+      "id": "personal-finance.credit-card-debt-payoff",
+      "name": "Credit Card Debt Payoff",
+      "description": "A full card inventory, a firm stop on new spending, a chosen payoff order, balance transfers handled with care and monthly check-ins that carry every card to a zero balance.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "credit-card-debt-payoff",
+        "everyone",
+        "avalanche",
+        "snowball",
+        "balance-transfer",
+        "interest"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/credit-card-debt-payoff.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:0409f163fa1fc248db788a0bfaa2863b8a4ef943f36888cc85ec6e60b900a152"
+    },
+    {
+      "id": "personal-finance.credit-score-improvement",
+      "name": "Credit Score Improvement",
+      "description": "Every credit report pulled and read, errors disputed, payment history and utilisation managed month by month, and a clean, well-prepared file ready before the next big application.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "credit-score-improvement",
+        "everyone",
+        "credit-report",
+        "credit-file",
+        "utilisation",
+        "disputes",
+        "credit-history"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/credit-score-improvement.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:ac4a89e82dad4ff6ccd3b54cbfb960c7be31fdfaf35327b9b1a168b28bff1375"
+    },
+    {
+      "id": "personal-finance.debt-consolidation-management-plans",
+      "name": "Debt Consolidation & Management Plans",
+      "description": "A full list of what you owe, free advice booked, the right route chosen between a consolidation loan, creditor arrangements or a debt management plan, and the monthly checks that carry it to the final payment.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "debt-consolidation-management-plans",
+        "everyone",
+        "debt-advice",
+        "consolidation-loan",
+        "debt-management-plan",
+        "creditors"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/debt-consolidation-management-plans.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:af69a18b04894f7605b006e882391e32f784aaad59978cacc8e62e2fe11f341e"
+    },
+    {
+      "id": "personal-finance.divorce-financial-settlement",
+      "name": "Divorce Financial Settlement",
+      "description": "Safe first steps, a full map of what you both own and owe, disclosure done properly, the home, pensions, debts and maintenance decided, and a binding order carried through to independent accounts.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "divorce-financial-settlement",
+        "everyone",
+        "parent",
+        "separation",
+        "disclosure",
+        "maintenance",
+        "pensions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/divorce-financial-settlement.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:daae9ba9bf03aaca2161d5766dfb5ab7c7703a29fd121b1ccf202721c427ddaf"
+    },
+    {
+      "id": "personal-finance.emergency-fund-building",
+      "name": "Emergency Fund Building",
+      "description": "A target in months built from your real essential costs, an easy-access home for the money, automatic contributions, clear rules for using it and a plan to refill it afterwards.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "emergency-fund-building",
+        "everyone",
+        "savings",
+        "cash-buffer",
+        "easy-access-account",
+        "resilience"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/emergency-fund-building.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 190
+      },
+      "contentHash": "sha256:350c23735c032b124a9bf508cb8d024047611abf09f97dbe0f8ef0ae7cf63ff9"
+    },
+    {
+      "id": "personal-finance.energy-broadband-bill-switching",
+      "name": "Energy & Broadband Bill Switching",
+      "description": "Every contract and end date on one page, your real usage in kWh and Mbps, routine tariff checks, switching playbooks for energy, broadband, mobile and TV, and help for renters, prepayment homes and older relatives.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "energy-broadband-bill-switching",
+        "everyone",
+        "energy-tariffs",
+        "broadband",
+        "mobile-airtime",
+        "loyalty-penalty",
+        "switching"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/energy-broadband-bill-switching.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:40cf4c912c0abd4e3bd8aa8eb9a68d09b6da573e6f8606174018e8f397176646"
+    },
+    {
+      "id": "personal-finance.financial-hardship-support",
+      "name": "Financial Hardship Support",
+      "description": "A calm route through a money crisis: the shortfall measured, food, heat and housing protected first, hardship schemes, food banks, grants and breathing space claimed, and a way back out when income recovers.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "financial-hardship-support",
+        "everyone",
+        "hardship",
+        "food-banks",
+        "grants",
+        "breathing-space",
+        "crisis-support"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/financial-hardship-support.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:7f5587036020961a0baebcf72c3455eafaa22c77c503647ab86a2f6afc7f6f89"
+    },
+    {
+      "id": "personal-finance.first-home-deposit-saving",
+      "name": "First Home Deposit Saving",
+      "description": "A first home deposit plan for renters: a target built on real sold prices and buying costs, a dated timeline, the right accounts and government schemes, steady saving routines and a safe handover at exchange.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "first-home-deposit-saving",
+        "renter",
+        "everyone",
+        "first-time-buyer",
+        "house-deposit",
+        "first-home-savings-account",
+        "savings-goal"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/first-home-deposit-saving.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:48e4c29d4c8d2504c88a1d5a2dab3c6547cfd06dcd5e767aad3c84230637389b"
+    },
+    {
+      "id": "personal-finance.first-paycheck-money-setup",
+      "name": "First Paycheck Money Setup",
+      "description": "Your first wage set up properly: payroll and tax details right, the first payslip checked, pension and benefit choices made in time, a starter spending plan and savings habits from the very first payday.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "first-paycheck-money-setup",
+        "everyone",
+        "student",
+        "first-job",
+        "payslip",
+        "tax-code",
+        "workplace-pension"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/first-paycheck-money-setup.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:181bbeed2fcb97ef44c2aef2226ea3cc98270c786a37e88355060281a7cf0f47"
+    },
+    {
+      "id": "personal-finance.fraud-scam-protection",
+      "name": "Fraud & Scam Protection",
+      "description": "Locked-down accounts and alerts, a family call-back rule, the scam scripts criminals actually use, and a tested plan for the first hour after money goes missing.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "fraud-scam-protection",
+        "everyone",
+        "retiree",
+        "scams",
+        "identity-theft",
+        "account-security",
+        "fraud-response"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/fraud-scam-protection.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 208
+      },
+      "contentHash": "sha256:d32fd85e5fc48749942332ad6d63c08bab0a1d1ec23d4d98abf52c142cef6d03"
+    },
+    {
+      "id": "personal-finance.frugal-living-challenge",
+      "name": "Frugal Living Challenge",
+      "description": "A household frugal challenge with clear rules, a baseline and an honest savings tally, the weekly routines and practical skills that cut costs, and a playbook for the changes worth keeping.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "frugal-living-challenge",
+        "everyone",
+        "household-costs",
+        "groceries",
+        "food-waste",
+        "energy-habits",
+        "diy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/frugal-living-challenge.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:38787dd9b7c740121de03e304a282dc23c263db4b33647af161e354c4f4201ec"
+    },
+    {
+      "id": "personal-finance.handling-windfall-inheritance",
+      "name": "Handling a Windfall or Inheritance",
+      "description": "A calm pause, a protected holding account, the true net figure, a written allocation plan and the decisions on debts, buffers, gifts and inherited assets that make a lump sum last.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "handling-windfall-inheritance",
+        "everyone",
+        "inheritance",
+        "bonus",
+        "lump-sum",
+        "estate",
+        "gifts"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/handling-windfall-inheritance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:8cac46dac9c833afc12595cef11db7e04dece0805f3835ec330b751f98d91acf"
+    },
+    {
+      "id": "personal-finance.household-bills-calendar",
+      "name": "Household Bills Calendar",
+      "description": "Every bill, direct debit and due date mapped on one calendar against payday, with a float that stops bounced payments and routines that catch price rises and contract end dates early.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "household-bills-calendar",
+        "everyone",
+        "homeowner",
+        "renter",
+        "direct-debits",
+        "due-dates",
+        "cash-flow"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/household-bills-calendar.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:c924bbe77e62e19b9cc0aa5ea7ff96dc50ad30a669aa2a82e86785e30a504bb7"
+    },
+    {
+      "id": "personal-finance.housemate-expense-splitting",
+      "name": "Housemate Expense Splitting",
+      "description": "Fair, written rules for splitting rent, bills and shared food with housemates, an expense app and settle-up routine everyone uses, and clean money handovers when people move in or out.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "housemate-expense-splitting",
+        "renter",
+        "student",
+        "house-share",
+        "bill-splitting",
+        "shared-groceries",
+        "housemates"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/housemate-expense-splitting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f334033a76d67b1323f2aabc1512c3c14938b2908e782bb1f58d3f61aed1a913"
+    },
+    {
+      "id": "personal-finance.income-tax-optimisation",
+      "name": "Income Tax Optimisation",
+      "description": "Your tax code checked, every allowance and relief you qualify for claimed, payslips and returns reviewed on a steady rhythm, and pay rises, bonuses and side income handled with the tax in view.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "income-tax-optimisation",
+        "everyone",
+        "knowledge-worker",
+        "tax-code",
+        "allowances",
+        "tax-relief",
+        "tax-return"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/income-tax-optimisation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:cc20649443de0004e37f0649cfecab7571e877ce4f75c458b8052bf6f963656d"
+    },
+    {
+      "id": "personal-finance.insurance-coverage-review",
+      "name": "Insurance Coverage Review",
+      "description": "Every home, contents, car, travel, pet and gadget policy on one list, checked for gaps and double cover, valued correctly and renewed on purpose rather than rolled over at a loyalty price.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "insurance-coverage-review",
+        "everyone",
+        "homeowner",
+        "renter",
+        "home-insurance",
+        "car-insurance",
+        "travel-insurance",
+        "renewals"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/insurance-coverage-review.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 209
+      },
+      "contentHash": "sha256:64eb0614f908bc159a3245d446e9f7953baf558b38f753397978f797b404131c"
+    },
+    {
+      "id": "personal-finance.irregular-income-smoothing",
+      "name": "Irregular Income Smoothing",
+      "description": "A steady monthly salary paid to yourself from a holding account, tax and buffer pots filled from every payment, a rolling cash flow forecast and plans for quiet seasons and big one-off fees.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "irregular-income-smoothing",
+        "freelancer",
+        "creative",
+        "variable-income",
+        "tax-set-aside",
+        "cash-flow",
+        "income-buffer"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/irregular-income-smoothing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:c3a2d91fa9f2f886e345396451fd5f59d7c00ababef636f788cfb665b55fe3ee"
+    },
+    {
+      "id": "personal-finance.joint-account-setup-for-couples",
+      "name": "Joint Account Setup for Couples",
+      "description": "How a couple shares money on purpose: the honest first conversation, joint, separate or hybrid accounts, a fair contribution rule, a written agreement and the monthly money date that keeps it working.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "joint-account-setup-for-couples",
+        "everyone",
+        "couples",
+        "joint-account",
+        "shared-bills",
+        "contributions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/joint-account-setup-for-couples.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 191
+      },
+      "contentHash": "sha256:8a0dbeee32114cc93a8f0b9c07e1bfe1117a6b8a10854e90253ef3de3bc3b217"
+    },
+    {
+      "id": "personal-finance.life-income-protection-insurance",
+      "name": "Life & Income Protection Insurance",
+      "description": "A cover figure built from your dependants' real needs, the right mix of life, critical illness and income protection, policies written in trust and a yearly review that keeps cover in step with family life.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "life-income-protection-insurance",
+        "parent",
+        "everyone",
+        "life-insurance",
+        "income-protection",
+        "critical-illness",
+        "dependants"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/life-income-protection-insurance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:f75b4e92a6accd9013513417669c51bd9f0c4d2a9fa9227c2e75d1d7495f2d23"
+    },
+    {
+      "id": "personal-finance.medical-dental-cost-planning",
+      "name": "Medical & Dental Cost Planning",
+      "description": "A real figure for what teeth, eyes, medicines and private treatment cost your household, the exemptions and benefits you are owed, a health pot to pay the bills, and claims made before allowances reset.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "medical-dental-cost-planning",
+        "everyone",
+        "dental-costs",
+        "prescriptions",
+        "eyewear",
+        "health-cash-plan",
+        "private-treatment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/medical-dental-cost-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:eadaec4c08036ed9366b9249b345e1ed333b39fb7daa9d31232659f89c2e883d"
+    },
+    {
+      "id": "personal-finance.money-mindset-spending-triggers",
+      "name": "Money Mindset & Spending Triggers",
+      "description": "A trigger diary and a map of your money beliefs, pause rules and friction that slow impulse buys, calm weekly routines, and the skills and support to spend on purpose rather than on mood.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "money-mindset-spending-triggers",
+        "everyone",
+        "emotional-spending",
+        "impulse-buying",
+        "money-beliefs",
+        "behavioural-finance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/money-mindset-spending-triggers.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:7c99ebd71daa0f38da52516b4e38c8034ce413640547525ca6b002db7b08b063"
+    },
+    {
+      "id": "personal-finance.mortgage-application-remortgage",
+      "name": "Mortgage Application & Remortgage",
+      "description": "Your current deal and its end date on one page, a document pack lenders accept, deals compared on total cost, and every application, offer and switch-over handled before a fixed rate quietly ends.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "mortgage-application-remortgage",
+        "homeowner",
+        "everyone",
+        "remortgage",
+        "fixed-rate",
+        "product-transfer",
+        "affordability"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/mortgage-application-remortgage.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:58518f6439c0c516302a83599998f4ab595ed64c4979aeac06e00483e9d3cca3"
+    },
+    {
+      "id": "personal-finance.no-spend-months",
+      "name": "No-Spend Months",
+      "description": "Rules written before day one, a named home for the money saved, daily and weekly check-ins that keep a no-spend week or month on track, and an honest review that decides which habits to keep.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "no-spend-months",
+        "everyone",
+        "spending-freeze",
+        "spending-reset",
+        "low-buy",
+        "savings-challenge"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/no-spend-months.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:d4da8ba6e59c988d47b193961d029a4d83dee2bded28ff4c0320190c7c37d019"
+    },
+    {
+      "id": "personal-finance.overdraft-escape-plan",
+      "name": "Overdraft Escape Plan",
+      "description": "A clear picture of your overdraft and what it costs, a monthly reduction plan with limit step-downs, a talk with the bank and the buffer that keeps payday landing in credit for good.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "overdraft-escape-plan",
+        "everyone",
+        "overdraft",
+        "bank-charges",
+        "cash-buffer",
+        "debt"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/overdraft-escape-plan.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:c2d4cabfec5d91a7ffebaadee5961e28caedb01cd9b936d9d418fcd084fad496"
+    },
+    {
+      "id": "personal-finance.parental-leave-finances",
+      "name": "Parental Leave Finances",
+      "description": "A month-by-month plan for the leave year: what you will actually be paid, the new costs of a baby, a leave fund that covers the gap, and the checks that keep leave pay, tax and pension right until you return.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "parental-leave-finances",
+        "parent",
+        "maternity-leave",
+        "paternity-leave",
+        "shared-parental-leave",
+        "new-baby",
+        "family-budget"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/parental-leave-finances.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:481d9ce0a3f150e59876c4c898b9f742eed2a6d9a7ee771c01d5c6124da4d24c"
+    },
+    {
+      "id": "personal-finance.paycheck-allocation-system",
+      "name": "Paycheck Allocation System",
+      "description": "A payday system that splits pay automatically into bills, spending, savings and goals accounts: the account map, the transfer plumbing, payday checks and the reviews that keep it running without willpower.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "paycheck-allocation-system",
+        "everyone",
+        "automation",
+        "standing-orders",
+        "payday",
+        "bank-accounts"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/paycheck-allocation-system.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:380241ca592a81ef68fce2839eb5487de18ab95a1fc96cb0401313f00790f216"
+    },
+    {
+      "id": "personal-finance.personal-insolvency-debt-relief",
+      "name": "Personal Insolvency & Debt Relief",
+      "description": "An honest insolvency test, free regulated advice, a full creditor schedule and the paperwork, decisions and routines that carry you through bankruptcy, an IVA or a debt relief order and out the other side.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "personal-insolvency-debt-relief",
+        "everyone",
+        "bankruptcy",
+        "iva",
+        "debt-relief-order",
+        "insolvency",
+        "debt-advice"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/personal-insolvency-debt-relief.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:ec4466a3f62336b53e8b6d5ca50c15500db71754c71657e5529de04867c5c59c"
+    },
+    {
+      "id": "personal-finance.phone-device-financing",
+      "name": "Phone & Device Financing",
+      "description": "Every phone and gadget agreement in one list, the true cost of contracts against SIM-only and buying outright, and the routines and decisions that make each device cheaper to own, keep and replace.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "phone-device-financing",
+        "everyone",
+        "mobile-phones",
+        "device-finance",
+        "sim-only",
+        "refurbished"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/phone-device-financing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:14858d0d482d79c6d089d671e9611418d33c9d4975810e409a93ca506796c0c5"
+    },
+    {
+      "id": "personal-finance.redundancy-job-loss-money-plan",
+      "name": "Redundancy & Job Loss Money Plan",
+      "description": "A money plan for the months after redundancy: checking what you are owed, a runway in months, an essentials-only budget, unemployment claims, lender payment holidays and a clear route back to steady pay.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "redundancy-job-loss-money-plan",
+        "everyone",
+        "knowledge-worker",
+        "redundancy",
+        "job-loss",
+        "severance",
+        "runway"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/redundancy-job-loss-money-plan.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:ffd1b38201236b2ccbe86a1513e7ece8392794493b07948456b1f4d9793ede52"
+    },
+    {
+      "id": "personal-finance.rent-payments-deposits",
+      "name": "Rent Payments & Deposits",
+      "description": "Rent that always lands on time with proof it was paid, a deposit you know is protected, rent increases handled with evidence, and a tenancy that ends with the deposit back in your account.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "rent-payments-deposits",
+        "renter",
+        "tenancy",
+        "deposit-protection",
+        "rent-increase",
+        "check-out"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/rent-payments-deposits.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:575b34fc8963a6451e1c6f6ffca938cea13a57e0dd410f4f5aba354ab6d950e5"
+    },
+    {
+      "id": "personal-finance.secondhand-buying-selling",
+      "name": "Secondhand Buying & Selling",
+      "description": "Price research from sold listings, a weekly listing routine, safe meetups and payments, sharper inspection of used goods, and a running record of what buying used and selling on actually saves and earns.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "secondhand-buying-selling",
+        "everyone",
+        "used-goods",
+        "online-marketplaces",
+        "reselling",
+        "safe-selling",
+        "price-research"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/secondhand-buying-selling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:5a19d32d31450374501994457b962f664eeb1a042e122cc4438567c317b4c598"
+    },
+    {
+      "id": "personal-finance.spending-tracking-categorisation",
+      "name": "Spending Tracking & Categorisation",
+      "description": "Every transaction captured and categorised: a full map of accounts, a category list and rulebook, weekly and month-end routines, tags and dashboards, and the advanced tools that show where the money really goes.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "spending-tracking-categorisation",
+        "everyone",
+        "expense-tracking",
+        "spending-categories",
+        "transactions",
+        "spending-baseline"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/spending-tracking-categorisation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:54f06fec37cb63993f972248f6e170dcba8bdc7624ae373724a61d09efa65fd4"
+    },
+    {
+      "id": "personal-finance.student-loan-repayment",
+      "name": "Student Loan Repayment",
+      "description": "Every loan and its rules on one page, payslip deductions checked, a reasoned decision on overpaying, and plans for moving abroad, career breaks, hardship and the final payment.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "student-loan-repayment",
+        "student",
+        "everyone",
+        "repayment-threshold",
+        "overpayment",
+        "refinancing",
+        "loan-forgiveness"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/student-loan-repayment.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7eae4dceaccf98368b3a63943241971c5982995760c73e565a53606f369f88c3"
+    },
+    {
+      "id": "personal-finance.student-money-management",
+      "name": "Student Money Management",
+      "description": "A term-by-term income map, a weekly allowance that lasts to the next loan payment, part-time work and support funds organised, and plans for summers, placements and leaving university.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "student-money-management",
+        "student",
+        "maintenance-loan",
+        "bursaries",
+        "term-budget",
+        "part-time-work",
+        "hardship-funds"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/student-money-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:90fcf600b6d06ce3bed4380f1a01695655b162ce136d42d672679215142afe6b"
+    },
+    {
+      "id": "personal-finance.subscription-cleanup",
+      "name": "Subscription Cleanup",
+      "description": "A twelve-month inventory of every subscription and membership, a verdict and cancellation sprint, then light monthly and yearly checks that stop forgotten charges, trials and price rises creeping back.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "subscription-cleanup",
+        "everyone",
+        "streaming",
+        "memberships",
+        "free-trials",
+        "auto-renewal"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/subscription-cleanup.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6ecd75f695286765ca06fcfa86ef41df273b11bb31c04bd20d0a2c99a6f0afb5"
+    },
+    {
+      "id": "personal-finance.zero-based-monthly-budget",
+      "name": "Zero-Based Monthly Budget",
+      "description": "A zero-based budget that gives every unit of take-home pay a job: honest income, real categories, a payday assignment routine, weekly check-ins, month-end reviews and the skills to keep it working through real life.",
+      "category": "personal",
+      "tags": [
+        "personal-finance",
+        "zero-based-monthly-budget",
+        "everyone",
+        "zero-based-budgeting",
+        "spending-plan",
+        "payday",
+        "budget-categories"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/personal-finance/zero-based-monthly-budget.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Personal Finance"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:82f844c0b6e897c58273366565f87f813d49f39b26a4e26671acb52004411e2d"
+    },
+    {
       "id": "physical-health.alcohol-reduction-for-health",
       "name": "Alcohol Reduction for Health",
       "description": "An honest drinking baseline, a safe goal agreed with your doctor, unit tracking and alcohol-free days, liver checks, and plans for the evenings, weekends and celebrations where drinking happens.",
@@ -8225,6 +9804,999 @@
         "totalTasks": 202
       },
       "contentHash": "sha256:1e9d423a9de61189d9afe74eef0f565b655c006c084ad3dd0eec1775a3cee8e1"
+    },
+    {
+      "id": "wealth-investing.alternative-collectible-investments",
+      "name": "Alternative Collectible Investments",
+      "description": "Art, fine wine, watches and classic cars held with clear eyes: an allocation cap, true costs, authentication, specialist insurance and storage, and planned routes to sell or pass pieces on.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "alternative-collectible-investments",
+        "everyone",
+        "collectibles",
+        "fine-art",
+        "fine-wine",
+        "watches",
+        "classic-cars"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/alternative-collectible-investments.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:cfde8d0ca0e1a49b2f1c1aa3c5da32234b6cdfc7e04b96dc4112e54b7513f46c"
+    },
+    {
+      "id": "wealth-investing.angel-investing-in-startups",
+      "name": "Angel Investing in Startups",
+      "description": "Backing early-stage startups with a plan: a ceiling and portfolio size, a chosen route in, standard diligence and term reading, records for reliefs and losses, and the follow-on, exit and write-off decisions that come later.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "angel-investing-in-startups",
+        "founder",
+        "everyone",
+        "startups",
+        "syndicates",
+        "early-stage",
+        "venture-capital"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/angel-investing-in-startups.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:93b44183e4539cec739545f168eef98ae81afa9e2e92acdf2f2f231f154475f9"
+    },
+    {
+      "id": "wealth-investing.annuity-decisions",
+      "name": "Annuity Decisions",
+      "description": "A considered annuity decision: your essential income gap, old policy guarantees, whole-of-market and enhanced quotes, single or joint life, and the checks that keep a lifetime income paid correctly.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "annuity-decisions",
+        "retiree",
+        "annuities",
+        "guaranteed-income",
+        "retirement-income",
+        "pensions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/annuity-decisions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:4360e5aa51fe2e6d03552deb596ebf6aa9fdc12222ec3c9c7f2d7d6fe98da2ec"
+    },
+    {
+      "id": "wealth-investing.asset-allocation-rebalancing",
+      "name": "Asset Allocation & Rebalancing",
+      "description": "A written target mix of shares, bonds and cash set from your real risk capacity, with tolerance bands, a rebalancing rule and the quarterly and yearly routines that keep the portfolio there.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "asset-allocation-rebalancing",
+        "everyone",
+        "target-allocation",
+        "rebalancing-rules",
+        "risk-tolerance",
+        "glide-path"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/asset-allocation-rebalancing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 180
+      },
+      "contentHash": "sha256:99307e3e3162d0e303ff260574795722b803bd193147f8ff8a45efd8e12a32ad"
+    },
+    {
+      "id": "wealth-investing.bonds-fixed-income",
+      "name": "Bonds & Fixed Income",
+      "description": "A clear job for the bonds you hold, with duration matched to when you need the money, a credit floor, income and maturity tracking, and the skills to read yields, ladders and bond fund factsheets.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "bonds-fixed-income",
+        "everyone",
+        "retiree",
+        "government-bonds",
+        "bond-funds",
+        "bond-ladders",
+        "duration"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/bonds-fixed-income.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b22e41a677ba6b5d82247df1af7ced856ea31743cdafbcceee3c10d093e41575"
+    },
+    {
+      "id": "wealth-investing.buy-to-let-property",
+      "name": "Buy-to-Let Property",
+      "description": "A route from first affordability check to a well-run rental: yield maths, buy-to-let mortgages, safety compliance, tenants, letting agents, rental tax records and long-term hold or sell decisions.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "buy-to-let-property",
+        "homeowner",
+        "everyone",
+        "landlord",
+        "rental-yield",
+        "tenancy",
+        "buy-to-let-mortgage"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/buy-to-let-property.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:b1d6a5012fa72f1800a1b59e81c9a2afd5163479369f82c37bc09db262d6f029"
+    },
+    {
+      "id": "wealth-investing.capital-gains-tax-planning",
+      "name": "Capital Gains Tax Planning",
+      "description": "A complete cost record for every taxable holding, a running total of realised gains, year-end allowance and loss decisions, and property and share sales reported and paid on time.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "capital-gains-tax-planning",
+        "everyone",
+        "capital-gains",
+        "cost-basis",
+        "tax-loss-harvesting",
+        "allowances",
+        "property-sale"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/capital-gains-tax-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:0fa8c6118018f62d1e15b5e53b583c13c8b776e20d00280661348a884b9e314a"
+    },
+    {
+      "id": "wealth-investing.childrens-investment-accounts",
+      "name": "Children's Investment Accounts",
+      "description": "Child investment accounts chosen and opened on purpose, funded automatically and by family gifts within the annual limits, reviewed each birthday and handed over at 18 with a plan the child understands.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "childrens-investment-accounts",
+        "parent",
+        "junior-accounts",
+        "custodial-accounts",
+        "family-gifts",
+        "handover"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/childrens-investment-accounts.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:911f6ca37ac85936772e7c066653a39a1c3442a4b2521f9ab1418d26f1057578"
+    },
+    {
+      "id": "wealth-investing.choosing-financial-adviser",
+      "name": "Choosing a Financial Adviser",
+      "description": "Decide whether you need advice, check and compare advisers on status, fees and fit, then read their recommendations critically and review the relationship every year.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "choosing-financial-adviser",
+        "everyone",
+        "retiree",
+        "financial-advice",
+        "adviser-fees",
+        "due-diligence",
+        "suitability"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/choosing-financial-adviser.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:1d478091b70572b2f70b629b30037829bc629f855df0f23751496a45cc1fdb4f"
+    },
+    {
+      "id": "wealth-investing.cryptocurrency-holdings",
+      "name": "Cryptocurrency Holdings",
+      "description": "A small, deliberate crypto allocation run with care: a written size limit, locked-down exchange accounts, tested seed phrase backups, clean records for tax and a plan for who can reach the coins if you cannot.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "cryptocurrency-holdings",
+        "everyone",
+        "cryptocurrency",
+        "self-custody",
+        "hardware-wallet",
+        "crypto-tax"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/cryptocurrency-holdings.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:535ced5a369a86f9dd2d41b88cdfc6d20b118b0f40458d7761c5717104896845"
+    },
+    {
+      "id": "wealth-investing.dividend-income-investing",
+      "name": "Dividend Income Investing",
+      "description": "A dividend portfolio run on purpose: a clear income target, reinvest or pay-out rules for every account, payout safety checks, tidy tax records and a plan for turning dividends into a steady retirement income.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "dividend-income-investing",
+        "everyone",
+        "retiree",
+        "dividends",
+        "income-portfolio",
+        "reinvestment",
+        "dividend-tax"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/dividend-income-investing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ff367d66a14a5dd9f98a67fb4feb45c466e06619c94f547b0c49b5ea2cc8e9fe"
+    },
+    {
+      "id": "wealth-investing.employee-stock-options-rsus",
+      "name": "Employee Stock Options & RSUs",
+      "description": "Every grant documented and in the calendar, vest-day and tax routines, the skills to read plans and exercise options, sell, hold and exercise decisions, and plans for leaving, listings, takeovers and concentration risk.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "employee-stock-options-rsus",
+        "knowledge-worker",
+        "engineer",
+        "founder",
+        "rsus",
+        "stock-options",
+        "espp"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/employee-stock-options-rsus.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:6ab7edb653b3da1c193d3a771341d78aad11fac1397c07e253b4ba38a50131c1"
+    },
+    {
+      "id": "wealth-investing.estate-planning-inheritance-tax",
+      "name": "Estate Planning & Inheritance Tax",
+      "description": "A current will, executors and attorneys in place, an inheritance tax estimate you refresh each year, nominations that match your wishes, and an estate your family can actually administer.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "estate-planning-inheritance-tax",
+        "everyone",
+        "retiree",
+        "wills",
+        "inheritance-tax",
+        "executors",
+        "power-of-attorney"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/estate-planning-inheritance-tax.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:21fd2e9b5b8b3f6f405411f198b3945252c758910421f4183a2e80051e9de00d"
+    },
+    {
+      "id": "wealth-investing.ethical-impact-investing",
+      "name": "Ethical & Impact Investing",
+      "description": "Investments that match your values without losing diversification: written red lines, a look-through of what you own, labelled funds checked for greenwashing, and voting and engagement that use your shareholder voice.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "ethical-impact-investing",
+        "everyone",
+        "esg",
+        "sustainable-investing",
+        "impact-funds",
+        "shareholder-engagement",
+        "greenwashing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/ethical-impact-investing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:67cb26056167369a1553b7caffff650ab027feb9b3a39db2003b73c30f76e1f5"
+    },
+    {
+      "id": "wealth-investing.expat-cross-border-investing",
+      "name": "Expat & Cross-Border Investing",
+      "description": "Every account mapped by country, your tax residency and reporting duties settled, currency and transfers handled on a routine, and pensions, homes and wrappers left behind decided on purpose.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "expat-cross-border-investing",
+        "everyone",
+        "expat",
+        "tax-residency",
+        "currency",
+        "tax-treaties",
+        "pensions-abroad"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/expat-cross-border-investing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 208
+      },
+      "contentHash": "sha256:700dac176cecc2347b5f0899c8d0958f248199e8ae1e7ed43eb488744e2ea29b"
+    },
+    {
+      "id": "wealth-investing.family-trusts-lifetime-gifting",
+      "name": "Family Trusts & Lifetime Gifting",
+      "description": "A gifting plan you can afford, a dated register of every gift, trusts set up and run properly with trustees, deeds and tax filings in order, and specialist advice taken before anything irreversible.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "family-trusts-lifetime-gifting",
+        "retiree",
+        "parent",
+        "trusts",
+        "lifetime-gifts",
+        "trustees",
+        "grandchildren"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/family-trusts-lifetime-gifting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:8245ae02d8bc0e12c49f0adac7c1b7dd1fe3abce2dafd0a3366135cd2c9687fb"
+    },
+    {
+      "id": "wealth-investing.financial-independence-early-retirement",
+      "name": "Financial Independence & Early Retirement",
+      "description": "A route to making work optional: a real spending baseline and savings rate, an FI target built for a long horizon, a funded bridge to pension age, and the routines and exit plan that get you out on time.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "financial-independence-early-retirement",
+        "everyone",
+        "knowledge-worker",
+        "fire",
+        "savings-rate",
+        "bridge-fund",
+        "early-retirement"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/financial-independence-early-retirement.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:20953df074d0409e5e222b2b5abfc561e72ba9e8fc90fc1255a138449f9429a2"
+    },
+    {
+      "id": "wealth-investing.holiday-let-property",
+      "name": "Holiday Let Property",
+      "description": "From viability checks and short-let rules to furnishing, bookings, changeovers, pricing, reviews, safety compliance and tax records for a holiday or short-term let.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "holiday-let-property",
+        "homeowner",
+        "small-business",
+        "holiday-let",
+        "short-term-let",
+        "occupancy",
+        "guest-bookings"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/holiday-let-property.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:e35f2266bdb79cb1701a7e7b9f36e22eaa595f2419751a3d17e1713e9910c111"
+    },
+    {
+      "id": "wealth-investing.index-fund-investing",
+      "name": "Index Fund Investing",
+      "description": "A low-cost index fund portfolio built step by step: platform and fund choice, automatic monthly contributions, the fund checks that matter and a written plan for holding through market falls.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "index-fund-investing",
+        "everyone",
+        "index-funds",
+        "etfs",
+        "passive-investing",
+        "regular-investing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/index-fund-investing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:0265d1a58c68c030a567ecf37de19e7728d30446fddca1939f37cfb09976acc8"
+    },
+    {
+      "id": "wealth-investing.individual-stock-research",
+      "name": "Individual Stock Research",
+      "description": "Individual company shares held on purpose: a capped satellite, written theses, position limits and sell rules, results reviews, and the accounting and valuation skills that make your research worth trusting.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "individual-stock-research",
+        "everyone",
+        "stock-picking",
+        "equity-research",
+        "investment-thesis",
+        "valuation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/individual-stock-research.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:5129549c265ad20ef6427a967ec9984e1858adc358ca69a212f7d5df9f3c015b"
+    },
+    {
+      "id": "wealth-investing.investment-fee-reduction",
+      "name": "Investment Fee Reduction",
+      "description": "Every platform, fund, adviser and dealing charge you pay, found and added up in money terms, with the switches, renegotiations and yearly checks that keep total costs low.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "investment-fee-reduction",
+        "everyone",
+        "fees",
+        "platform-charges",
+        "fund-costs",
+        "adviser-fees"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/investment-fee-reduction.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:1c0395fafaca36fbf20e804659a8adebfcff3b73e8d0a124f9bceb32691104d6"
+    },
+    {
+      "id": "wealth-investing.investor-behaviour-panic-control",
+      "name": "Investor Behaviour & Panic Control",
+      "description": "Pre-commitments that protect long-term returns from your own reactions: a crash letter, cooling-off rules, a decision journal, quieter news habits and rehearsed plans for falls, bubbles and hot tips.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "investor-behaviour-panic-control",
+        "everyone",
+        "behavioural-finance",
+        "market-crashes",
+        "decision-journal",
+        "pre-commitment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/investor-behaviour-panic-control.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:8277106ca573dc6a7afdabb51e560b1a38fcd6d43c1470fca2d08fb290af88f4"
+    },
+    {
+      "id": "wealth-investing.mortgage-overpayment-vs-investing",
+      "name": "Mortgage Overpayment vs Investing",
+      "description": "Your mortgage rate set honestly against investing after tax and fees, the cash and debt checks to clear first, and standing rules that send spare money to the mortgage, investments or both.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "mortgage-overpayment-vs-investing",
+        "homeowner",
+        "mortgage",
+        "overpayment",
+        "early-repayment-charge",
+        "offset-mortgage",
+        "remortgage"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/mortgage-overpayment-vs-investing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 190
+      },
+      "contentHash": "sha256:b6d57b87677cee4e6401c984948d1c50fa187ba883a513dda27c6bbaffc9744b"
+    },
+    {
+      "id": "wealth-investing.net-worth-tracking",
+      "name": "Net Worth Tracking",
+      "description": "A household balance sheet you can trust: every account and debt listed, fixed valuation rules, a quarterly snapshot routine and the analysis that shows whether long-term wealth is really growing.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "net-worth-tracking",
+        "everyone",
+        "balance-sheet",
+        "assets-and-liabilities",
+        "quarterly-snapshot",
+        "household-finances"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/net-worth-tracking.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 191
+      },
+      "contentHash": "sha256:c986e81c4b2e51a7b6289c9cb59fbeb22c5578b45848d7957fdfc1af0ecaecc0"
+    },
+    {
+      "id": "wealth-investing.pension-consolidation",
+      "name": "Pension Consolidation",
+      "description": "Every old pension listed and compared, guarantees and exit fees checked in writing, a receiving pension chosen and each transfer tracked until the money is invested, with the pots worth keeping kept on purpose.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "pension-consolidation",
+        "everyone",
+        "pension-transfer",
+        "defined-benefit",
+        "exit-fees",
+        "guarantees"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/pension-consolidation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:551f4d4e76d1afd44761404904ed6df9911e5cfcde5169c7659495a30c1702c5"
+    },
+    {
+      "id": "wealth-investing.personal-investment-policy",
+      "name": "Personal Investment Policy",
+      "description": "A written investment policy statement covering your goals, risk limits, permitted holdings and buy, sell and rebalancing rules, plus the checks, decision log and annual review that keep you following it.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "personal-investment-policy",
+        "everyone",
+        "investment-policy-statement",
+        "risk-limits",
+        "sell-rules",
+        "decision-log"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/personal-investment-policy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:adac43b4902c7f8f7c96970f8bcb205519ab78e6c3a24e2e814a2fd45ff0590e"
+    },
+    {
+      "id": "wealth-investing.private-pension-accounts",
+      "name": "Private Pension Accounts",
+      "description": "A self-directed pension or IRA chosen on purpose: the right type and provider, contributions and tax relief that actually arrive, sensible funds, and yearly checks on limits, charges and beneficiaries.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "private-pension-accounts",
+        "everyone",
+        "freelancer",
+        "personal-pension",
+        "ira",
+        "tax-relief",
+        "contributions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/private-pension-accounts.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:c97de6a167dd0bf658478f92d1999744350cb9bd84c9c66e766e59204ec4407d"
+    },
+    {
+      "id": "wealth-investing.property-flipping",
+      "name": "Property Flipping",
+      "description": "A route from first deal to repeatable flips: a target patch and sold-price evidence, a deal calculator with a maximum offer, financing, builder and budget control, cash tracking and a disciplined sale.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "property-flipping",
+        "homeowner",
+        "everyone",
+        "renovation",
+        "deal-analysis",
+        "property-development"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/property-flipping.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:26e24c2ff4008447f6acf3171f6acc976d8cf9ff65a2979a1ebc03b1502b40d3"
+    },
+    {
+      "id": "wealth-investing.reit-property-fund-investing",
+      "name": "REIT & Property Fund Investing",
+      "description": "Property exposure without being a landlord: listed REITs and property funds chosen for a written role, read from the accounts, held in the right account and reviewed on a calm schedule.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "reit-property-fund-investing",
+        "everyone",
+        "reits",
+        "property-funds",
+        "investment-trusts",
+        "property-income"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/reit-property-fund-investing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 189
+      },
+      "contentHash": "sha256:6d5fe810c94998e061b478c7d989263c8b7e6f0db45ebabbb75ecc6c66683143"
+    },
+    {
+      "id": "wealth-investing.retirement-income-drawdown",
+      "name": "Retirement Income Drawdown",
+      "description": "A drawdown plan you can live on for decades: every pot mapped, a tested starting withdrawal, a cash reserve, a tax-aware account order and yearly resets that carry income through market falls.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "retirement-income-drawdown",
+        "retiree",
+        "drawdown",
+        "withdrawal-strategy",
+        "sequence-risk",
+        "pension-income",
+        "tax"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/retirement-income-drawdown.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:fc3a9edf4f87c8df5c5272f8c72311188d16cc493633c0b74a9f1fbfd366b8cd"
+    },
+    {
+      "id": "wealth-investing.retirement-number-calculation",
+      "name": "Retirement Number Calculation",
+      "description": "A retirement number you can defend: a real spending baseline, guaranteed income counted, a chosen withdrawal rate, and projections tested against crashes, high inflation, early exit and a long life.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "retirement-number-calculation",
+        "everyone",
+        "retirement-planning",
+        "withdrawal-rate",
+        "spending-estimate",
+        "scenario-testing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/retirement-number-calculation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:23fd31afb8408539fe21c67a81bd05853d8d010d094b926c1733825e9e11f028"
+    },
+    {
+      "id": "wealth-investing.royalty-licensing-income",
+      "name": "Royalty & Licensing Income",
+      "description": "A royalty catalogue run like a small business: every work registered and matched to its payers, statements checked against contracts, licences priced and renewed on time, tax records ready and rights set up to outlast you.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "royalty-licensing-income",
+        "creative",
+        "royalties",
+        "licensing",
+        "copyright",
+        "collecting-societies",
+        "intellectual-property"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/royalty-licensing-income.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:4110875ca436d16675c17a8db7f4c2bfd7d64fc07f4b4329648f7f91db802c7d"
+    },
+    {
+      "id": "wealth-investing.side-income-streams",
+      "name": "Side Income Streams",
+      "description": "Side income run like an investment: a clear purpose for the money, contract and tax basics in place, hours logged against profit, prices that hold up and profit swept into long-term savings every month.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "side-income-streams",
+        "everyone",
+        "knowledge-worker",
+        "creative",
+        "side-hustle",
+        "freelancing",
+        "reinvestment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/side-income-streams.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:55acddb776b277aa2be5640a4e6eb19abc0ee9aa7b51aa7ada9555478d759926"
+    },
+    {
+      "id": "wealth-investing.tax-advantaged-investment-accounts",
+      "name": "Tax-Advantaged Investment Accounts",
+      "description": "Every tax-free and tax-deferred wrapper you hold listed, this year's limits and deadlines known, a written funding order, and the routines that use each allowance fully and correctly.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "tax-advantaged-investment-accounts",
+        "everyone",
+        "isa",
+        "roth-ira",
+        "contribution-limits",
+        "tax-wrappers",
+        "health-savings-account"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/tax-advantaged-investment-accounts.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a60c0f289ed1a5f4329258b4c41c7fce2aeb60f442d5883174f1b7199cd1a2cd"
+    },
+    {
+      "id": "wealth-investing.university-fund-investing",
+      "name": "University Fund Investing",
+      "description": "A university fund with a costed target, the right education account, a monthly contribution worked back from the date fees start and a glide path that moves money to safety before the first term.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "university-fund-investing",
+        "parent",
+        "education-savings",
+        "tuition",
+        "glide-path",
+        "student-finance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/university-fund-investing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:6b44749340dc19799d036425877c6e32af3717f2045136caeaf35b6bced16b70"
+    },
+    {
+      "id": "wealth-investing.workplace-pension-optimisation",
+      "name": "Workplace Pension Optimisation",
+      "description": "Full employer matching captured, contributions checked every payday, a default fund you understand, and the yearly reviews, decisions and life events that keep a workplace pension doing its job.",
+      "category": "personal",
+      "tags": [
+        "wealth-investing",
+        "workplace-pension-optimisation",
+        "knowledge-worker",
+        "everyone",
+        "employer-match",
+        "salary-sacrifice",
+        "default-funds",
+        "contributions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/wealth-investing/workplace-pension-optimisation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Wealth & Investing"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:31b489f41bb03f10869e67caf0f9be26f47cd760992524126a7b7cb571d7f216"
     }
   ]
 }
