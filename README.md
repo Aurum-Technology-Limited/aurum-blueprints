@@ -16,13 +16,15 @@ seed their Life OS (PAPT: Pillars, Areas, Projects, Tasks) from one of these blu
 
 ## The blueprint library (branch `library/v1`, NOT merged)
 
-A library of **2,500 blueprints**: 50 pillars covering personal life and work, each
-with 50 areas, **one blueprint per area**. Each blueprint installs one pillar, that one
+A library of up to **2,650 blueprints**: 53 pillars covering personal life and work
+(the founding 50 plus Caribbean School Exams, Professions & Trades and Caribbean Life &
+Diaspora), each with 50 areas, **one blueprint per area**. Generation stopped at 500
+areas; the rest of the taxonomy is a backlog. Each blueprint installs one pillar, that one
 area and 50 full projects (purpose, milestones, success criteria, 3 to 6 starter tasks
 with real recurring tasks where they fit, priority, and pointers to the app's built-in
 templates).
 
-- `taxonomy/pillars.json`: the 50 pillars (id, name, emoji, category, review cadence,
+- `taxonomy/pillars.json`: the 53 pillars (id, name, emoji, category, review cadence,
   description).
 - `taxonomy/areas.json`: exactly 50 areas per pillar, with globally unique names (an
   installed area's title is a wikilink target and a folder name), a one-line

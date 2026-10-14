@@ -1,8 +1,9 @@
 # Generating the blueprint library
 
 This is the spec every generator follows to write one area blueprint. The library is
-50 pillars x 50 areas = 2,500 files, one blueprint per area, and they must read as one
-product, not 2,500 improvisations. Read the whole spec, then the two pilot files under
+50 founding pillars plus 3 regional and specialist pillars (section 12), 50 areas each,
+one blueprint per area, and they must read as one product, not thousands of
+improvisations. Read the whole spec, then the two pilot files under
 `blueprints/physical-health/`, before writing anything.
 
 A file is done when `npm run build:catalog && npm run validate` passes. The validator
@@ -378,3 +379,61 @@ off target before you hand back. Draft shape:
 `blueprints/physical-health/annual-health-check-ups.md` and
 `blueprints/physical-health/blood-pressure-management.md`, were written this way and
 are the reference for tone, length and balance.
+
+## 12. Regional and specialist pillars
+
+Three pillars were added after the founding 50 and follow everything above, plus the
+rules below. Where these rules name a country or institution, that overrides the
+"avoid country-specific institutions" line in section 8: these areas exist to be
+specific.
+
+### `caribbean-exams`: one exam subject per area
+
+A student should be able to search for their subject, install it and start the same
+day. Build the 50 projects around how that subject is really examined:
+
+- **Follow the syllabus.** For CSEC and CAPE, order the topic projects the way the
+  current CXC syllabus orders its sections, modules or units (CAPE subjects have Unit 1
+  and Unit 2, each with modules). For SEA, PEP, BSSEE and CPEA, follow the Ministry's
+  or CXC's published content areas. Each topic project ends with a past-paper or
+  practice-question milestone.
+- **Cover the whole exam, not just content:** the papers (CSEC and CAPE use Paper 01
+  multiple choice, Paper 02, Paper 031 for the SBA or internal assessment and Paper 032
+  as the alternative for private candidates), the SBA or IA from topic choice to
+  submission, timed past papers, mark schemes and examiner reports, oral or practical
+  components where the subject has them, a revision timetable, the final weeks and exam
+  day.
+- **Do not invent specifics.** Do not state mark weightings, paper durations, numbers
+  of questions, fees or dates unless you are certain they are current. Instead, put a
+  task early in the area to "check the current syllabus and timetable on the CXC
+  website (or the Ministry of Education's) and note the paper format". CSEC's main
+  sitting is May to June and a January sitting exists for some subjects; say only that
+  much.
+- **Personas:** the student first, then the parent and the teacher. Include projects a
+  parent can run (a home study space, a timetable check-in) and at least one a teacher
+  or lessons tutor would use.
+- **Tags:** include the exam and the subject, for example `cxc`, `csec`, `mathematics`
+  or `sea`, `creative-writing`, so search finds the area.
+- **Deadlines** count back from the exam sitting: SBA drafts and submission, mock
+  exams, the last full past paper. Use `deadlineOffsetDays` for these, within the
+  usual 8 to 15.
+
+### `professions-trades`: one career per area
+
+Write the route from first interest to an experienced practitioner: school subjects and
+entry qualifications (name CSEC and CAPE alongside other countries' equivalents),
+training or apprenticeship, licensing or registration ("the nursing council or board in
+your country", unless you are certain of the body), applications and interviews, the
+first year in the job, specialising, pay and progression, and, where it is common,
+working abroad. Make it work for a reader in the Caribbean and one in the UK, US or
+Canada. Include safety and certification projects for the trades.
+
+### `caribbean-diaspora`: life across the water
+
+Cover the whole region, not one island: Trinidad and Tobago, Jamaica, Barbados, Guyana,
+the OECS islands, the Bahamas, Belize, Haiti, Suriname and the Dutch Caribbean, and the
+diaspora in the UK, US and Canada. Be specific and warm, never stereotyped. Immigration,
+tax, property and money projects stay organisational (section 8): prepare, record,
+verify with official sources and the right professional. Use local words the way
+people use them (sou-sou, partner hand, barrel, mas, fete, panyard, nine night) and
+explain any word an outsider would not know the first time it appears.

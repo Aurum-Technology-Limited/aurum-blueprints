@@ -22226,6 +22226,1402 @@
           "student"
         ]
       }
+    ],
+    "caribbean-exams": [
+      {
+        "id": "sea-mathematics",
+        "name": "SEA Mathematics",
+        "description": "Preparing for the Mathematics paper of Trinidad and Tobago's Secondary Entrance Assessment: number, measurement, geometry and statistics, topic drills, timed practice papers and fixing weak areas.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "sea-english-language-arts",
+        "name": "SEA English Language Arts",
+        "description": "Preparing for SEA English Language Arts: grammar, spelling, vocabulary and comprehension, with steady reading, topic drills and timed practice papers.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "sea-creative-writing",
+        "name": "SEA Creative Writing",
+        "description": "Preparing for the SEA Creative Writing paper: planning stories under time, strong openings and endings, description, paragraphing and marked practice compositions.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "sea-school-choices-results",
+        "name": "SEA School Choices and Results",
+        "description": "Choosing secondary schools for SEA, understanding placement, getting through results day and settling a child into Form One.",
+        "personas": [
+          "parent",
+          "student"
+        ]
+      },
+      {
+        "id": "cxc-cpea-primary-exit",
+        "name": "CXC CPEA Primary Exit Assessment",
+        "description": "Preparing for the Caribbean Primary Exit Assessment used in several OECS countries: Mathematics, Language, Science and Social Studies, coursework tasks and the external test.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "jamaica-pep-grade-six",
+        "name": "Jamaica PEP Grade Six Exams",
+        "description": "Preparing for Jamaica's Primary Exit Profile in grade six: the ability test, performance tasks and curriculum-based tests in Mathematics, Language Arts, Science and Social Studies.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "barbados-common-entrance",
+        "name": "Barbados Common Entrance (BSSEE)",
+        "description": "Preparing for the Barbados Secondary Schools' Entrance Examination: English and Mathematics practice, timed papers, school choices and results.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-mathematics",
+        "name": "CSEC Mathematics",
+        "description": "Studying CSEC Mathematics topic by topic, from number and algebra to geometry, statistics and functions, with the SBA, past papers and a revision plan to the exam.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-english-a",
+        "name": "CSEC English A",
+        "description": "Studying CSEC English A: comprehension, summary writing, argumentative and expository essays, short stories and the SBA, with past-paper practice.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-english-b",
+        "name": "CSEC English B (Literature)",
+        "description": "Studying CSEC English B: the set drama, poetry and prose texts, close reading, essay planning and timed literature answers.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-additional-mathematics",
+        "name": "CSEC Additional Mathematics",
+        "description": "Studying CSEC Additional Mathematics: algebra and functions, coordinate geometry, vectors, trigonometry, calculus, probability and statistics, plus the SBA project.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-biology",
+        "name": "CSEC Biology",
+        "description": "Studying CSEC Biology: cells, nutrition, respiration, transport, reproduction, genetics and ecology, with practical skills, lab reports for the SBA and past papers.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-chemistry",
+        "name": "CSEC Chemistry",
+        "description": "Studying CSEC Chemistry: atomic structure, bonding, the mole, acids and bases, redox, organic chemistry and qualitative analysis, with labs, the SBA and past papers.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-physics",
+        "name": "CSEC Physics",
+        "description": "Studying CSEC Physics: mechanics, thermal physics, waves and optics, electricity and magnetism, and the physics of the atom, with labs, the SBA and past papers.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-integrated-science",
+        "name": "CSEC Integrated Science",
+        "description": "Studying CSEC Integrated Science across the organism, the home and workplace, and the earth's resources, with practical work, the SBA and past papers.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-human-social-biology",
+        "name": "CSEC Human and Social Biology",
+        "description": "Studying CSEC Human and Social Biology: body systems, health and disease, nutrition, reproduction and the environment, with the SBA and past papers.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-agricultural-science",
+        "name": "CSEC Agricultural Science",
+        "description": "Studying CSEC Agricultural Science: crop and livestock production, soil, agribusiness and the practical SBA project, single or double award.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-principles-of-accounts",
+        "name": "CSEC Principles of Accounts",
+        "description": "Studying CSEC Principles of Accounts: the double-entry system, ledgers, trial balance, final accounts, control accounts, partnerships and the SBA.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-principles-of-business",
+        "name": "CSEC Principles of Business",
+        "description": "Studying CSEC Principles of Business: business organisation, production, marketing, finance, the Caribbean economy and the SBA research project.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-economics",
+        "name": "CSEC Economics",
+        "description": "Studying CSEC Economics: scarcity, markets, production, money and banking, government and the Caribbean in the global economy, with data questions and past papers.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-office-administration",
+        "name": "CSEC Office Administration",
+        "description": "Studying CSEC Office Administration: office procedures, records management, communication, reception and the SBA, with past-paper practice.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-edpm",
+        "name": "CSEC Electronic Document Preparation (EDPM)",
+        "description": "Studying CSEC Electronic Document Preparation and Management: keyboarding speed and accuracy, document formatting, mail merge, tables and the SBA portfolio.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-information-technology",
+        "name": "CSEC Information Technology",
+        "description": "Studying CSEC Information Technology: computer fundamentals, productivity tools, databases, spreadsheets, problem solving and programming, and the SBA.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-social-studies",
+        "name": "CSEC Social Studies",
+        "description": "Studying CSEC Social Studies: the individual, family and society, development, regional integration and the SBA research project.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-caribbean-history",
+        "name": "CSEC Caribbean History",
+        "description": "Studying CSEC Caribbean History: the indigenous peoples, the Europeans, slavery and emancipation, indentureship, and the movement to independence, with essays and the SBA.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-geography",
+        "name": "CSEC Geography",
+        "description": "Studying CSEC Geography: map reading, physical geography, human and economic geography of the Caribbean, fieldwork and the SBA.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-spanish",
+        "name": "CSEC Spanish",
+        "description": "Studying CSEC Spanish: listening, reading, writing and the oral exam, with vocabulary building, grammar practice and past papers.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-french",
+        "name": "CSEC French",
+        "description": "Studying CSEC French: listening, reading, writing and the oral exam, with vocabulary building, grammar practice and past papers.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-visual-arts",
+        "name": "CSEC Visual Arts",
+        "description": "Studying CSEC Visual Arts: the expressive form pieces, the reflective journal, art history and a planned studio schedule to the submission date.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-music",
+        "name": "CSEC Music",
+        "description": "Studying CSEC Music: listening and appraising, composing, performing and the SBA, with ear training and a practice plan.",
+        "personas": [
+          "student",
+          "parent",
+          "creative"
+        ]
+      },
+      {
+        "id": "csec-physical-education-sport",
+        "name": "CSEC Physical Education and Sport",
+        "description": "Studying CSEC Physical Education and Sport: anatomy, training principles, sport in society, and the practical assessment and SBA.",
+        "personas": [
+          "student",
+          "athlete",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-technical-drawing",
+        "name": "CSEC Technical Drawing",
+        "description": "Studying CSEC Technical Drawing: geometrical drawing, orthographic and isometric projection, building or mechanical drawing options and the SBA.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-food-nutrition-health",
+        "name": "CSEC Food, Nutrition and Health",
+        "description": "Studying CSEC Food, Nutrition and Health: nutrition, meal planning, food science, kitchen practice and the SBA.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-sba-planning",
+        "name": "CSEC SBA Planning Across Subjects",
+        "description": "Planning every CSEC School-Based Assessment across subjects: topics, deadlines, research, drafts, teacher sign-off and submission without a last-minute pile-up.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "csec-private-candidate",
+        "name": "CSEC as a Private or Adult Candidate",
+        "description": "Sitting CSEC subjects as a private or adult candidate: registering through the local registrar, studying without a school, the alternative paper to the SBA and exam day.",
+        "personas": [
+          "student",
+          "knowledge-worker",
+          "parent"
+        ]
+      },
+      {
+        "id": "cape-communication-studies",
+        "name": "CAPE Communication Studies",
+        "description": "Studying CAPE Communication Studies: gathering and processing information, language and community, speaking and writing, and the internal assessment portfolio.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "cape-caribbean-studies",
+        "name": "CAPE Caribbean Studies",
+        "description": "Studying CAPE Caribbean Studies: Caribbean society and culture, issues in development, and the research project that carries the internal assessment.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "cape-pure-mathematics",
+        "name": "CAPE Pure Mathematics",
+        "description": "Studying CAPE Pure Mathematics Units 1 and 2: algebra and functions, trigonometry, calculus, sequences and series, and complex numbers, with past papers and the internal assessment.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "cape-applied-mathematics",
+        "name": "CAPE Applied Mathematics",
+        "description": "Studying CAPE Applied Mathematics: statistical analysis in Unit 1 and mathematical applications in Unit 2, with data work, past papers and the internal assessment.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "cape-biology",
+        "name": "CAPE Biology",
+        "description": "Studying CAPE Biology Units 1 and 2: biomolecules, cells, genetics, reproduction, bioenergetics, systems and applications, with lab work and past papers.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "cape-chemistry",
+        "name": "CAPE Chemistry",
+        "description": "Studying CAPE Chemistry Units 1 and 2: fundamentals, kinetics and equilibria, inorganic and organic chemistry, analytical methods and industry, with lab work and past papers.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "cape-physics",
+        "name": "CAPE Physics",
+        "description": "Studying CAPE Physics Units 1 and 2: mechanics, oscillations and waves, thermal physics, electricity and magnetism, and atomic physics, with labs and past papers.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "cape-computer-science",
+        "name": "CAPE Computer Science",
+        "description": "Studying CAPE Computer Science Units 1 and 2: computer architecture, problem solving and programming, data structures, software engineering and the internal assessment project.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "cape-accounting",
+        "name": "CAPE Accounting",
+        "description": "Studying CAPE Accounting Units 1 and 2: financial accounting, interpretation of statements, cost and management accounting, and the internal assessment.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "cape-economics",
+        "name": "CAPE Economics",
+        "description": "Studying CAPE Economics Units 1 and 2: microeconomics and macroeconomics, market failure, growth and development, and the internal assessment.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "cape-management-of-business",
+        "name": "CAPE Management of Business",
+        "description": "Studying CAPE Management of Business Units 1 and 2: management, finance, production, marketing and small business, with case studies and the internal assessment.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "cape-sociology",
+        "name": "CAPE Sociology",
+        "description": "Studying CAPE Sociology Units 1 and 2: sociological theory and methods, family, religion, education, stratification and development, and the research project.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "cape-law",
+        "name": "CAPE Law",
+        "description": "Studying CAPE Law Units 1 and 2: the Caribbean legal system, sources of law, criminal law, contract, tort and property, with case notes and the internal assessment.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "cape-literatures-in-english",
+        "name": "CAPE Literatures in English",
+        "description": "Studying CAPE Literatures in English Units 1 and 2: drama, poetry and prose set texts, critical approaches, timed essays and the internal assessment.",
+        "personas": [
+          "student",
+          "parent",
+          "educator"
+        ]
+      },
+      {
+        "id": "cape-scholarships-university-entry",
+        "name": "CAPE Results, Scholarships and University",
+        "description": "Turning CAPE results into a place: national scholarship rules, UWI and overseas applications, matriculation, funding and the move to university.",
+        "personas": [
+          "student",
+          "parent"
+        ]
+      }
+    ],
+    "professions-trades": [
+      {
+        "id": "registered-nursing-career",
+        "name": "Registered Nursing Career",
+        "description": "Becoming a registered nurse: entry qualifications, nursing school, licensing exams, the first ward, specialising and continuing education.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "becoming-a-doctor",
+        "name": "Becoming a Doctor",
+        "description": "The route to medicine: science subjects, medical school applications, the degree, internship, licensing, choosing a specialty and early career.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "becoming-a-lawyer",
+        "name": "Becoming a Lawyer",
+        "description": "The route to practising law: the law degree, law school and the bar, pupillage or chambers, the first years of practice and choosing a field.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "becoming-a-teacher",
+        "name": "Becoming a Teacher",
+        "description": "Becoming a qualified teacher: subject degree or diploma, teacher training, the first post, classroom practice and moving up in the profession.",
+        "personas": [
+          "everyone",
+          "student",
+          "educator"
+        ]
+      },
+      {
+        "id": "accountancy-qualification-path",
+        "name": "ACCA and CPA Accountancy Path",
+        "description": "Qualifying as a chartered or certified accountant: choosing ACCA, CPA or another body, the exam papers, practical experience and the first finance roles.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "civil-engineering-career",
+        "name": "Civil Engineering Career",
+        "description": "Becoming a civil engineer: degree routes, site experience, professional registration, specialising in roads, water or structures, and leading projects.",
+        "personas": [
+          "everyone",
+          "student",
+          "engineer"
+        ]
+      },
+      {
+        "id": "electrician-trade-licence",
+        "name": "Electrician Trade and Licence",
+        "description": "Becoming a licensed electrician: training courses, apprenticeship hours, wiring regulations, the licence exam, tools and building a client base.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "plumbing-trade",
+        "name": "Plumbing Trade",
+        "description": "Learning the plumbing trade: training, apprenticeship, water and drainage systems, certification, tools, pricing jobs and working for yourself.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "motor-vehicle-mechanic-trade",
+        "name": "Motor Vehicle Mechanic Trade",
+        "description": "Becoming a motor vehicle technician: training, diagnostics, manufacturer certification, specialising in diesel or hybrid, and running a garage.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "air-conditioning-refrigeration-trade",
+        "name": "Air Conditioning and Refrigeration Trade",
+        "description": "Becoming an air conditioning and refrigeration technician: training, refrigerant handling certification, installation and servicing, and a client base.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "carpentry-joinery-trade",
+        "name": "Carpentry and Joinery Trade",
+        "description": "Learning carpentry and joinery as a trade: training, site and workshop skills, roofing and formwork, certification and pricing work.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "joining-the-police-service",
+        "name": "Joining the Police Service",
+        "description": "Joining the police: entry requirements, the application and fitness tests, academy training, probation and paths into specialist units and promotion.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "firefighter-career",
+        "name": "Firefighter Career",
+        "description": "Becoming a firefighter: entry requirements, fitness preparation, recruit training, shift life, specialist certifications and promotion.",
+        "personas": [
+          "everyone",
+          "student",
+          "athlete"
+        ]
+      },
+      {
+        "id": "defence-force-military-career",
+        "name": "Defence Force and Military Career",
+        "description": "Joining the defence force or military: enlisted and officer routes, selection, basic training, trades and specialisms, and life after service.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "professional-chef-career",
+        "name": "Professional Chef Career",
+        "description": "Becoming a professional chef: culinary school or kitchen apprenticeship, stations and brigade, food safety certification, specialising and running a kitchen.",
+        "personas": [
+          "everyone",
+          "student",
+          "creative"
+        ]
+      },
+      {
+        "id": "hotel-tourism-careers",
+        "name": "Hotel and Tourism Careers",
+        "description": "Building a career in hotels and tourism: front office, food and beverage, housekeeping, guest relations, hospitality qualifications and moving into management.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "working-on-cruise-ships",
+        "name": "Working on Cruise Ships",
+        "description": "Working on cruise ships: finding legitimate recruiters, contracts, medical and safety certificates, life on board, saving money and career progression.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "commercial-pilot-training",
+        "name": "Commercial Pilot Training",
+        "description": "Becoming a commercial pilot: medical certificate, flight school, private and commercial licences, instrument rating, building hours and airline applications.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "hairdressing-barbering",
+        "name": "Hairdressing and Barbering",
+        "description": "Building a hairdressing or barbering career: training, certification, building a chair and client book, pricing, booth rental or opening a shop.",
+        "personas": [
+          "everyone",
+          "student",
+          "small-business"
+        ]
+      },
+      {
+        "id": "pharmacy-career",
+        "name": "Pharmacy Career",
+        "description": "Becoming a pharmacist or pharmacy technician: science subjects, the degree or diploma, registration, community or hospital practice and specialising.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "paramedic-emt-career",
+        "name": "Paramedic and EMT Career",
+        "description": "Becoming an emergency medical technician or paramedic: certification levels, clinical hours, ambulance service applications and advancing in pre-hospital care.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "healthcare-jobs-abroad",
+        "name": "Nursing and Healthcare Jobs Abroad",
+        "description": "Moving abroad to work in nursing or healthcare: recognised qualifications, registration exams, legitimate recruiters, visas, contracts and settling in.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "oil-gas-energy-careers",
+        "name": "Oil, Gas and Energy Careers",
+        "description": "Careers in oil, gas and energy: technical and engineering routes, safety certifications, offshore and plant work, shift patterns and moving into renewables.",
+        "personas": [
+          "everyone",
+          "student",
+          "engineer"
+        ]
+      },
+      {
+        "id": "solar-renewable-technician",
+        "name": "Solar and Renewable Energy Technician",
+        "description": "Becoming a solar and renewable energy technician: electrical foundations, PV installation training, certification, safety and growing an installation business.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "it-support-technician-career",
+        "name": "IT Support Technician Career",
+        "description": "Starting in IT support: help desk skills, entry certifications, hardware and networking basics, the first job and paths into systems or security.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "cybersecurity-career-entry",
+        "name": "Cybersecurity Career Entry",
+        "description": "Breaking into cybersecurity: networking and systems foundations, entry certifications, home labs, capture the flag practice and the first security role.",
+        "personas": [
+          "everyone",
+          "student",
+          "engineer"
+        ]
+      },
+      {
+        "id": "banking-career",
+        "name": "Banking Career",
+        "description": "Building a career in banking: entry roles in branches and operations, banking qualifications, compliance, lending and credit, and moving into management.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "social-work-career",
+        "name": "Social Work Career",
+        "description": "Becoming a social worker: the degree, supervised placements, registration, casework practice, specialising with children, families or health, and self-care.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "journalism-broadcasting-career",
+        "name": "Journalism and Broadcasting Career",
+        "description": "Building a career in journalism and broadcasting: training, a portfolio of clips, newsroom internships, radio and TV presenting, ethics and specialising.",
+        "personas": [
+          "everyone",
+          "student",
+          "creative"
+        ]
+      },
+      {
+        "id": "farming-as-a-career",
+        "name": "Farming as a Career",
+        "description": "Making farming a career: training, land access, choosing crops or livestock, financing, selling to markets and running the farm as a business.",
+        "personas": [
+          "everyone",
+          "small-business"
+        ]
+      },
+      {
+        "id": "real-estate-agent-career",
+        "name": "Real Estate Agent Career",
+        "description": "Becoming a real estate agent: licensing where required, joining a brokerage, finding listings and buyers, closing sales and building a referral business.",
+        "personas": [
+          "everyone",
+          "freelancer"
+        ]
+      },
+      {
+        "id": "public-service-careers",
+        "name": "Public Service Careers",
+        "description": "Building a career in the public service: entry exams and applications, ministries and agencies, promotion rules, training and serving the public well.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "architecture-career",
+        "name": "Architecture Career",
+        "description": "Becoming an architect: the degree, practical experience, registration, design software, building a portfolio and running projects.",
+        "personas": [
+          "everyone",
+          "student",
+          "creative"
+        ]
+      },
+      {
+        "id": "dentistry-career",
+        "name": "Dentistry Career",
+        "description": "Becoming a dentist: science subjects, dental school, licensing, associate positions, specialising and opening a practice.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "physiotherapy-career",
+        "name": "Physiotherapy Career",
+        "description": "Becoming a physiotherapist: the degree, clinical placements, registration, specialising in sport, neuro or musculoskeletal care, and private practice.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "psychology-counselling-career",
+        "name": "Psychology and Counselling Career",
+        "description": "Becoming a psychologist or counsellor: degrees, supervised hours, licensing, choosing a modality, and building a caseload in clinics or private practice.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "veterinary-career",
+        "name": "Veterinary Career",
+        "description": "Becoming a vet or vet technician: science subjects, veterinary school, licensing, small or large animal practice and specialising.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "quantity-surveying-career",
+        "name": "Quantity Surveying Career",
+        "description": "Becoming a quantity surveyor: the degree, measurement and estimating skills, contracts, professional membership and leading cost control on projects.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "flight-attendant-career",
+        "name": "Flight Attendant Career",
+        "description": "Becoming a flight attendant: requirements, applications and assessment days, safety training, life on rosters and moving to senior crew.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "beauty-therapy-nail-technician",
+        "name": "Beauty Therapy and Nail Technician",
+        "description": "Building a career in beauty therapy and nails: training, certification, hygiene standards, a client book, pricing and opening a salon.",
+        "personas": [
+          "everyone",
+          "small-business"
+        ]
+      },
+      {
+        "id": "graphic-design-career",
+        "name": "Graphic Design Career",
+        "description": "Becoming a graphic designer: training, software skills, a portfolio, the first studio or agency role, freelancing and specialising.",
+        "personas": [
+          "everyone",
+          "creative",
+          "freelancer"
+        ]
+      },
+      {
+        "id": "data-analyst-career-entry",
+        "name": "Data Analyst Career Entry",
+        "description": "Breaking into data analysis: spreadsheets, SQL and a visualisation tool, statistics basics, portfolio projects and the first analyst role.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "music-industry-careers",
+        "name": "Music Industry Careers",
+        "description": "Building a career in the music industry: performing, producing, engineering, management and promotion, rights and royalties, and touring.",
+        "personas": [
+          "everyone",
+          "creative"
+        ]
+      },
+      {
+        "id": "fishing-marine-careers",
+        "name": "Fishing and Marine Careers",
+        "description": "Careers in fishing and the marine economy: boat licences, safety at sea, sustainable fishing, aquaculture and marine conservation work.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "seafarer-merchant-navy-career",
+        "name": "Seafarer and Merchant Navy Career",
+        "description": "Becoming a seafarer: maritime school, certificates of competency, sea time, deck or engine routes and progression to officer.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "logistics-port-careers",
+        "name": "Logistics and Port Careers",
+        "description": "Careers in logistics, shipping and ports: warehouse and freight roles, customs brokerage, supply chain qualifications and moving into management.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "customs-border-officer-career",
+        "name": "Customs and Border Officer Career",
+        "description": "Becoming a customs or immigration officer: entry requirements, recruitment, training, enforcement work and promotion.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "insurance-career",
+        "name": "Insurance Career",
+        "description": "Building a career in insurance: sales agent, underwriting and claims routes, insurance qualifications, licensing and moving into management.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "early-childhood-educator-career",
+        "name": "Early Childhood Educator Career",
+        "description": "Becoming an early childhood educator: training and certification, working in nurseries and preschools, child development practice and running a centre.",
+        "personas": [
+          "everyone",
+          "educator"
+        ]
+      },
+      {
+        "id": "heavy-equipment-operator-trade",
+        "name": "Heavy Equipment Operator Trade",
+        "description": "Becoming a heavy equipment operator: training on excavators, loaders and cranes, certification, site safety and finding contract work.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      }
+    ],
+    "caribbean-diaspora": [
+      {
+        "id": "sending-money-home",
+        "name": "Sending Money Home",
+        "description": "Sending money to family in the Caribbean: comparing transfer services and fees, a regular schedule, emergencies, records and agreeing expectations with family.",
+        "personas": [
+          "everyone",
+          "parent"
+        ]
+      },
+      {
+        "id": "shipping-barrels-home",
+        "name": "Shipping Barrels Home",
+        "description": "Packing and shipping barrels home: choosing a shipper, what to pack, customs rules and duty, timing for Christmas and back to school, and collection at the port.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "sou-sou-partner-savings",
+        "name": "Sou-Sou and Partner Savings",
+        "description": "Saving through a sou-sou, partner hand or box: joining or running one, choosing members, the payout order, records and handling a member who stops paying.",
+        "personas": [
+          "everyone",
+          "small-business"
+        ]
+      },
+      {
+        "id": "dual-citizenship-passports",
+        "name": "Dual Citizenship and Passports",
+        "description": "Holding passports for two countries: citizenship by descent, applications, renewals, consular services, travel rules and keeping documents current.",
+        "personas": [
+          "everyone",
+          "parent"
+        ]
+      },
+      {
+        "id": "returning-resident-move-home",
+        "name": "Returning Resident Move Home",
+        "description": "Moving back to the Caribbean as a returning resident: duty concessions, shipping household goods, work and pensions, healthcare and settling in.",
+        "personas": [
+          "everyone",
+          "retiree"
+        ]
+      },
+      {
+        "id": "buying-property-back-home",
+        "name": "Buying Land or a House Back Home",
+        "description": "Buying land or a house in the Caribbean from abroad: trusted lawyers and agents, title searches, surveys, building remotely and avoiding common scams.",
+        "personas": [
+          "everyone",
+          "homeowner"
+        ]
+      },
+      {
+        "id": "family-land-succession",
+        "name": "Family Land and Succession Back Home",
+        "description": "Sorting out family land in the Caribbean: who has a claim, deeds and title, probate and letters of administration, and keeping the peace among relatives.",
+        "personas": [
+          "everyone",
+          "homeowner"
+        ]
+      },
+      {
+        "id": "caring-for-parents-back-home",
+        "name": "Caring for Parents Back Home",
+        "description": "Caring for ageing parents in the Caribbean from abroad: health arrangements, carers and neighbours, money, visits and planning for what comes next.",
+        "personas": [
+          "everyone",
+          "carer"
+        ]
+      },
+      {
+        "id": "trips-back-home",
+        "name": "Trips Back Home",
+        "description": "Planning trips back home: timing around Carnival, Christmas and family events, flights and budgets, gifts, staying with relatives and making the most of short visits.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "trinidad-carnival-playing-mas",
+        "name": "Trinidad Carnival and Playing Mas",
+        "description": "Playing mas at Trinidad Carnival: choosing a band, costume deposits, fetes, J'ouvert, fitness and budget, and the road on Monday and Tuesday.",
+        "personas": [
+          "everyone",
+          "athlete"
+        ]
+      },
+      {
+        "id": "diaspora-carnivals-abroad",
+        "name": "Diaspora Carnivals Abroad",
+        "description": "Taking part in Caribbean carnivals abroad such as Notting Hill, Labor Day and Caribana: bands, costumes, fetes, volunteering and planning the weekend.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "steelpan-playing",
+        "name": "Steelpan Playing",
+        "description": "Learning and playing the steelpan: finding a panyard or class, reading or learning by ear, rehearsals, Panorama season and caring for the instrument.",
+        "personas": [
+          "everyone",
+          "creative"
+        ]
+      },
+      {
+        "id": "caribbean-home-cooking",
+        "name": "Caribbean Home Cooking",
+        "description": "Cooking Caribbean food at home: green seasoning, stews, curries, pelau, roti, rice and peas, pastelles and sorrel, family recipes and finding ingredients abroad.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "creole-patois-heritage-language",
+        "name": "Creole and Patois Heritage Language",
+        "description": "Keeping a Caribbean creole or patois alive: learning or relearning it, speaking it at home, its history and passing it on to children.",
+        "personas": [
+          "everyone",
+          "parent"
+        ]
+      },
+      {
+        "id": "raising-children-caribbean-heritage",
+        "name": "Raising Children with Caribbean Heritage",
+        "description": "Raising children abroad who know where they come from: food, music, stories, language, trips home, family ties and conversations about identity.",
+        "personas": [
+          "parent"
+        ]
+      },
+      {
+        "id": "caribbean-family-history",
+        "name": "Caribbean Family History and Genealogy",
+        "description": "Tracing Caribbean family history: civil and church records, slave registers, indentureship records, elders' memories, DNA tests and a family tree.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "immigration-status-windrush",
+        "name": "Immigration Status and Windrush Claims",
+        "description": "Getting immigration paperwork in order: proving status, Windrush scheme claims, settlement and citizenship applications, and keeping documents safe.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "hurricane-support-family-home",
+        "name": "Hurricane Support for Family Back Home",
+        "description": "Helping family through hurricane season from abroad: preparedness checklists, emergency funds, communication plans, insurance and relief after a storm.",
+        "personas": [
+          "everyone",
+          "carer"
+        ]
+      },
+      {
+        "id": "investing-caribbean-stock-markets",
+        "name": "Investing in Caribbean Stock Markets",
+        "description": "Investing in Caribbean stock exchanges such as the TTSE and JSE: opening a brokerage account, regional companies, dividends, currency risk and records.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "diaspora-associations-groups",
+        "name": "Diaspora Associations and Alumni Groups",
+        "description": "Joining or running a diaspora association or old scholars group: membership, events, fundraising for home, governance and keeping members engaged.",
+        "personas": [
+          "everyone",
+          "nonprofit"
+        ]
+      },
+      {
+        "id": "west-indies-club-cricket",
+        "name": "West Indies Cricket and Club Cricket",
+        "description": "Following West Indies cricket and playing club cricket: fixtures and tours, joining a club, nets and training, kit, and the social side of the game.",
+        "personas": [
+          "everyone",
+          "athlete"
+        ]
+      },
+      {
+        "id": "soca-calypso-dancehall-music",
+        "name": "Soca, Calypso and Dancehall Music",
+        "description": "Enjoying Caribbean music seriously: soca, calypso, dancehall, reggae and chutney, seasonal releases, live shows, playlists and the history behind the songs.",
+        "personas": [
+          "everyone",
+          "creative"
+        ]
+      },
+      {
+        "id": "caribbean-students-abroad",
+        "name": "Caribbean Students Studying Abroad",
+        "description": "Studying abroad as a Caribbean student: choosing universities, scholarships, visas, accommodation, money from home, homesickness and coming back.",
+        "personas": [
+          "student",
+          "parent"
+        ]
+      },
+      {
+        "id": "diaspora-business-back-home",
+        "name": "Diaspora Business Back Home",
+        "description": "Starting or backing a business in the Caribbean from abroad: partners on the ground, registration, banking, imports and exports, and remote oversight.",
+        "personas": [
+          "everyone",
+          "founder",
+          "small-business"
+        ]
+      },
+      {
+        "id": "caribbean-festivals-holidays",
+        "name": "Caribbean Festivals and Holidays",
+        "description": "Keeping Caribbean festivals and holidays: Emancipation and Independence days, Divali, Eid, Phagwa, Christmas parang and Easter traditions, at home or abroad.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "hosting-visitors-from-home",
+        "name": "Hosting Visitors from Back Home",
+        "description": "Hosting family visiting from the Caribbean: invitation letters and visas, travel insurance, the itinerary, shopping trips, costs and sending them back with a full suitcase.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "wills-estates-two-countries",
+        "name": "Wills and Estates Across Two Countries",
+        "description": "Planning a will and estate that covers property and accounts in the Caribbean and abroad: local lawyers, probate in each country and telling the family.",
+        "personas": [
+          "everyone",
+          "retiree"
+        ]
+      },
+      {
+        "id": "medical-care-trips-home",
+        "name": "Medical and Dental Care Back Home",
+        "description": "Getting medical or dental treatment in the Caribbean during visits: finding trusted providers, records, costs, insurance and follow-up care abroad.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "nine-nights-funerals-home",
+        "name": "Nine Nights and Funerals Back Home",
+        "description": "Handling a death in the family back home: travelling at short notice, nine nights and wakes, funeral arrangements and costs, repatriation and grief.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "civic-ties-voting-home",
+        "name": "Civic Ties and Voting Back Home",
+        "description": "Staying civically connected to your home country: voter registration rules, following local news and politics, consular services and diaspora engagement.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "crop-over-junkanoo",
+        "name": "Crop Over and Junkanoo",
+        "description": "Taking part in Barbados Crop Over and Bahamian Junkanoo: groups and costumes, the season's events, music, rehearsals and planning the trip.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "caribbean-literature-reading",
+        "name": "Caribbean Literature Reading",
+        "description": "Reading Caribbean literature: novelists, poets and playwrights from across the region, a reading list, book clubs and literary festivals.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "retiring-to-the-caribbean",
+        "name": "Retiring to the Caribbean",
+        "description": "Retiring to the Caribbean: choosing an island, residency, pensions paid abroad, healthcare, housing and building a social life.",
+        "personas": [
+          "retiree"
+        ]
+      },
+      {
+        "id": "remote-work-from-caribbean",
+        "name": "Remote Work from the Caribbean",
+        "description": "Working remotely from the Caribbean: remote work visas, internet and power backup, time zones, tax residency and a workspace.",
+        "personas": [
+          "everyone",
+          "knowledge-worker",
+          "freelancer"
+        ]
+      },
+      {
+        "id": "caribbean-tax-residency-pensions",
+        "name": "Caribbean Tax Residency and Pensions",
+        "description": "Understanding tax residency between the Caribbean and abroad: double taxation, pensions and social security paid overseas, and keeping records.",
+        "personas": [
+          "everyone",
+          "retiree"
+        ]
+      },
+      {
+        "id": "supporting-schools-back-home",
+        "name": "Supporting Schools Back Home",
+        "description": "Supporting a school or community back home: needs assessments, book and supply drives, scholarships, shipping donations and reporting back to donors.",
+        "personas": [
+          "everyone",
+          "nonprofit"
+        ]
+      },
+      {
+        "id": "caribbean-wedding-back-home",
+        "name": "Caribbean Wedding Back Home",
+        "description": "Planning a wedding in the Caribbean from abroad: legal requirements, venues and vendors, guests travelling, budget and family traditions.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "learning-caribbean-dance",
+        "name": "Learning Caribbean Dance",
+        "description": "Learning Caribbean dance: soca, dancehall, folk and traditional dance, classes, carnival fitness and performing with a group.",
+        "personas": [
+          "everyone",
+          "athlete",
+          "creative"
+        ]
+      },
+      {
+        "id": "caribbean-herbs-kitchen-garden",
+        "name": "Caribbean Herbs and Kitchen Garden",
+        "description": "Growing Caribbean herbs and produce: shado beni, chive, pimento, peppers and callaloo, indoors or out, and preserving the harvest.",
+        "personas": [
+          "everyone",
+          "homeowner"
+        ]
+      },
+      {
+        "id": "island-hopping-caribbean-travel",
+        "name": "Island Hopping Caribbean Travel",
+        "description": "Travelling around the Caribbean: regional airlines and ferries, entry rules, festivals by island, budgets and building a multi-island trip.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "diaspora-youth-mentoring",
+        "name": "Diaspora Youth Mentoring",
+        "description": "Mentoring young Caribbean people at home or abroad: setting up a mentoring programme, matching, sessions, careers advice and staying in touch.",
+        "personas": [
+          "everyone",
+          "nonprofit"
+        ]
+      },
+      {
+        "id": "caribbean-food-business-abroad",
+        "name": "Caribbean Food Business Abroad",
+        "description": "Running a Caribbean food business abroad: doubles, roti, patties and jerk, licences, sourcing ingredients, pop-ups, catering and a shop.",
+        "personas": [
+          "small-business",
+          "founder"
+        ]
+      },
+      {
+        "id": "skills-volunteering-back-home",
+        "name": "Skills Volunteering Back Home",
+        "description": "Volunteering professional skills in the Caribbean: medical missions, teaching, tech and business mentoring, partners on the ground and trip planning.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "second-generation-caribbean-identity",
+        "name": "Second-Generation Caribbean Identity",
+        "description": "Exploring identity as a child of Caribbean parents abroad: family stories, language, culture, trips home and finding community.",
+        "personas": [
+          "everyone",
+          "student"
+        ]
+      },
+      {
+        "id": "caribbean-news-media",
+        "name": "Caribbean News and Media",
+        "description": "Keeping up with Caribbean news and media: regional newspapers, radio, podcasts and creators, fact-checking and following home-country affairs.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "mas-costume-making",
+        "name": "Mas Costume Making and Wire Bending",
+        "description": "Making carnival costumes: design, wire bending, fabric and beading, working in a mas camp, deadlines for the road and selling sections.",
+        "personas": [
+          "everyone",
+          "creative"
+        ]
+      },
+      {
+        "id": "caribbean-art-craft-collecting",
+        "name": "Caribbean Art and Craft Collecting",
+        "description": "Collecting Caribbean art and craft: finding artists and galleries, buying fairly, shipping and framing, and documenting a collection.",
+        "personas": [
+          "everyone",
+          "creative"
+        ]
+      },
+      {
+        "id": "citizenship-by-investment",
+        "name": "Citizenship by Investment Programmes",
+        "description": "Researching Caribbean citizenship by investment programmes: how they work, costs, due diligence, approved agents and the obligations that follow.",
+        "personas": [
+          "everyone"
+        ]
+      },
+      {
+        "id": "caribbean-sport-athletics-fandom",
+        "name": "Caribbean Athletics and Sport Following",
+        "description": "Following Caribbean athletes and sport: track and field, football, netball and more, championship calendars, watch parties and supporting local clubs.",
+        "personas": [
+          "everyone",
+          "athlete"
+        ]
+      },
+      {
+        "id": "haitian-kreyol-heritage",
+        "name": "Haitian Kreyol and Heritage",
+        "description": "Keeping Haitian Kreyol and heritage alive abroad: language at home, food, music, history, community groups and supporting family in Haiti.",
+        "personas": [
+          "everyone",
+          "parent"
+        ]
+      }
     ]
   }
 }

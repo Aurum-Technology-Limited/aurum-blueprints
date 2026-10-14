@@ -400,6 +400,30 @@
       "category": "business",
       "review_cadence": "quarterly",
       "description": "Doing research for a living: research questions and literature, study design and ethics, lab and field work, data and analysis, writing and peer review, grants, collaborations and a research career."
+    },
+    {
+      "id": "caribbean-exams",
+      "name": "Caribbean School Exams",
+      "emoji": "📝",
+      "category": "personal",
+      "review_cadence": "monthly",
+      "description": "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+    },
+    {
+      "id": "professions-trades",
+      "name": "Professions & Trades",
+      "emoji": "🧰",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "Specific careers from first interest to established practitioner: entry qualifications, training and apprenticeships, licensing and registration, the first job, specialising, and working abroad, across health, law, teaching, engineering, the skilled trades, public service, hospitality and more."
+    },
+    {
+      "id": "caribbean-diaspora",
+      "name": "Caribbean Life & Diaspora",
+      "emoji": "🌴",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "Caribbean life at home and abroad: money and barrels sent home, sou-sou savings, passports and returning-resident moves, land and family property, Carnival and mas, steelpan, food, language and heritage, and staying close to family across the water."
     }
   ]
 }

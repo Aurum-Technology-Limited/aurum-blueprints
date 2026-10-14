@@ -105,7 +105,8 @@ const PILLARS = new Map();
 {
   const where = "taxonomy/pillars.json";
   const list = pillarsDoc.pillars ?? [];
-  if (list.length !== 50) err(where, `expected 50 pillars, found ${list.length}`);
+  // 50 founding pillars; regional and specialist pillars may be added after them.
+  if (list.length < 50) err(where, `expected at least 50 pillars, found ${list.length}`);
   const names = new Set();
   for (const p of list) {
     const w = `${where} [${p.id}]`;
