@@ -14,15 +14,15 @@ seed their Life OS (PAPT: Pillars, Areas, Projects, Tasks) from one of these blu
 - **`scripts/`**: the validator and the catalog builder.
 - **`GENERATION.md`**: the spec every library blueprint is written to.
 
-## The blueprint library (branch `library/v1`, NOT merged)
+## The blueprint library
 
 A library of up to **2,650 blueprints**: 53 pillars covering personal life and work
 (the founding 50 plus Caribbean School Exams, Professions & Trades and Caribbean Life &
-Diaspora), each with 50 areas, **one blueprint per area**. Generation stopped at 500
-areas; the rest of the taxonomy is a backlog. Each blueprint installs one pillar, that one
-area and 50 full projects (purpose, milestones, success criteria, 3 to 6 starter tasks
-with real recurring tasks where they fit, priority, and pointers to the app's built-in
-templates).
+Diaspora), each with 50 areas, **one blueprint per area**. 12 pillars are complete
+(600 areas, 30,000 projects); the rest of the taxonomy is a backlog. Each blueprint
+installs one pillar, that one area and 50 full projects (purpose, milestones, success
+criteria, 3 to 6 starter tasks with real recurring tasks where they fit, priority, and
+pointers to the app's built-in templates).
 
 - `taxonomy/pillars.json`: the 53 pillars (id, name, emoji, category, review cadence,
   description).
@@ -31,11 +31,13 @@ templates).
   description and persona tags. This is the list the generators consume.
 - `GENERATION.md`: the per-area spec, quality bar and cost estimate.
 
-**Status: unmerged, on purpose.** Anything on `main` is live in every user's
-Marketplace, and the Marketplace today has no paging and renders every catalog entry
-as a card. 2,500 more cards (and a catalog of a few megabytes) must wait until the app
-pages and filters the catalog. Until then the library lives on `library/v1` only.
-Never push library files to `main`.
+**Status: merged to `main`, not yet in the Marketplace registry.** The app lists the
+Marketplace registry first and reads this repo's `catalog.json` only when the
+registry is empty or unreachable. Builds before aurum-life-desktop #554 also read
+just the first 100 registry rows and render every card at once. So the library
+reaches users in two steps: ship a release with #554 (registry paging, a paged
+grid, a pillar filter and multi-word search), then re-run
+`scripts/seed-marketplace-registry.sh` in that repo to publish these entries.
 
 ## Working on the library
 

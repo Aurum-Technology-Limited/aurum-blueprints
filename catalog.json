@@ -14007,6 +14007,90 @@
       "contentHash": "sha256:ecc73deba660cf831931a794aa335d4a80ff9e2b49640e59d2b42fc23b6f4e7d"
     },
     {
+      "id": "sales-revenue.account-based-selling",
+      "name": "Account-Based Selling",
+      "description": "A named and tiered target account list, coordinated pods, multi-threaded plays, signal watching, engagement scores and the events and specialist work that turn a short list of dream accounts into pipeline.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "account-based-selling",
+        "enterprise",
+        "team",
+        "founder",
+        "target-accounts",
+        "abm",
+        "multi-threading"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/account-based-selling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:fa384228aaef27473f4b07627fc9a6aa8d40498a57388e56c0ad4ca0f7dbf0c8"
+    },
+    {
+      "id": "sales-revenue.account-expansion-upsell",
+      "name": "Account Expansion & Upsell Selling",
+      "description": "A revenue baseline and whitespace map for your customers, clear expansion rules, signal sweeps, upsell and cross-sell skills, and plays for new departments that grow accounts without straining the relationship.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "account-expansion-upsell",
+        "team",
+        "small-business",
+        "enterprise",
+        "upsell",
+        "cross-sell",
+        "net-revenue-retention"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/account-expansion-upsell.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d55acef2c89657092410200ac5c1edc97b96ae335dd862ecade35b225e066ec6"
+    },
+    {
+      "id": "sales-revenue.annual-sales-kickoff",
+      "name": "Annual Sales Kickoff",
+      "description": "The yearly sales kickoff planned end to end: outcomes, budget, venue and run-of-show, the targets reveal, product training, the awards night and the follow-through that keeps the message alive all year.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "annual-sales-kickoff",
+        "manager",
+        "enterprise",
+        "team",
+        "sales-kickoff",
+        "event-planning",
+        "sales-awards"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/annual-sales-kickoff.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:24fc7f68dd38907983d33ed088f90e1d01b0854ea728597896f7a599df0fc97d"
+    },
+    {
       "id": "sales-revenue.cold-calling-phone-outreach",
       "name": "Cold Calling & Phone Outreach",
       "description": "Call blocks that actually happen, openers and talk tracks that earn a second sentence, gatekeepers and voicemail handled well, and the calling rules and routines that turn dials into booked meetings.",
@@ -14063,6 +14147,34 @@
       "contentHash": "sha256:1e9d423a9de61189d9afe74eef0f565b655c006c084ad3dd0eec1775a3cee8e1"
     },
     {
+      "id": "sales-revenue.deal-desk-discount-approvals",
+      "name": "Deal Desk & Discount Approvals",
+      "description": "An approval matrix and signed pricing authority, one intake route for exceptions, a weekly review board, precedent and exception logs, and the monthly leakage numbers that keep discounting fast and fair.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "deal-desk-discount-approvals",
+        "enterprise",
+        "manager",
+        "team",
+        "discounting",
+        "pricing-governance",
+        "approvals"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/deal-desk-discount-approvals.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:89b7f5623ce2109d8f15fd479ac9877939d5c64d690399e5c6150934a4f2d87c"
+    },
+    {
       "id": "sales-revenue.deal-negotiation-closing",
       "name": "Deal Negotiation & Closing",
       "description": "Walk-away points, give-get concession lists, clause positions agreed with your lawyer and a closing routine that turns verbal yeses into signed contracts without giving away margin.",
@@ -14089,6 +14201,62 @@
         "totalTasks": 203
       },
       "contentHash": "sha256:7d07ff44c986bc54549102bdfeac0607511c49fad13ad0c00c39e97d05219098"
+    },
+    {
+      "id": "sales-revenue.deal-qualification-meddicc-bant",
+      "name": "Deal Qualification (MEDDICC, BANT)",
+      "description": "A shared qualification framework, an evidence-based scorecard, written walk-away rules and steady weekly and monthly checks that keep sellers on deals that can close and let the rest go early.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "deal-qualification-meddicc-bant",
+        "team",
+        "manager",
+        "enterprise",
+        "meddicc",
+        "bant",
+        "pipeline-hygiene"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/deal-qualification-meddicc-bant.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:7744e194716a4265c41f2636118f546a525b0394ffbcbee4c9bf6981a2e5df9c"
+    },
+    {
+      "id": "sales-revenue.deal-stakeholder-mapping",
+      "name": "Deal Stakeholder Mapping",
+      "description": "A working map of every buying group: shared role definitions, stance and influence scores, veto lists, weekly chases of unmet stakeholders, person-by-person win plans and the analysis that shows how much coverage deals need.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "deal-stakeholder-mapping",
+        "team",
+        "enterprise",
+        "buying-committee",
+        "stakeholders",
+        "multi-threading",
+        "deal-strategy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/deal-stakeholder-mapping.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:9d6823681889e759e592038feda1c835e0ac7cb6157aa0cdd5438818223bf6b9"
     },
     {
       "id": "sales-revenue.enterprise-complex-deal-cycles",
@@ -14119,6 +14287,117 @@
       "contentHash": "sha256:198a02825c9d1776e579f464e43e7db907da48c2d8e39051a2af11f768152820"
     },
     {
+      "id": "sales-revenue.executive-sales-presentations",
+      "name": "Executive Sales Presentations",
+      "description": "Executive meetings that produce decisions: research on the people in the room, a business case in the buyer's numbers, short decks, rehearsed answers to hard questions and follow-up that lands.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "executive-sales-presentations",
+        "team",
+        "founder",
+        "enterprise",
+        "business-case",
+        "executive-briefing",
+        "presentation-skills"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/executive-sales-presentations.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 212
+      },
+      "contentHash": "sha256:24f5a998781bb833a5310c061041033a1b2824d1e26124229f657034a6925585"
+    },
+    {
+      "id": "sales-revenue.field-sales-territory-visits",
+      "name": "Field Sales & In-Person Visits",
+      "description": "Call cycles, weekly route plans, same-day visit logging, safety and expenses for sellers who meet customers face to face, so every mile on the road earns revenue.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "field-sales-territory-visits",
+        "team",
+        "small-business",
+        "manager",
+        "route-planning",
+        "call-cycle",
+        "site-visits"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/field-sales-territory-visits.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:3f74be2d0fe336dac28f035e1880f8b5106accef6aeae5894d5c1b5bacedb123"
+    },
+    {
+      "id": "sales-revenue.founder-led-sales",
+      "name": "Founder-Led Sales",
+      "description": "A founder's first selling system: protected selling hours, a first hundred names, an opening price and simple terms, weekly reviews, first customers and renewals, and a handover pack for the first sales hire.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "founder-led-sales",
+        "founder",
+        "small-business",
+        "early-stage",
+        "first-customers",
+        "startup-sales"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/founder-led-sales.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:dcef28b212fe031c03fa1ac5af5146f93ee3785c02af188905a77d39f3668b3c"
+    },
+    {
+      "id": "sales-revenue.front-line-sales-management",
+      "name": "Front-Line Sales Management",
+      "description": "A front-line sales manager's week in one place: the team number, one-to-ones, deal inspection, hiring and backfills, recognition and performance, and the situations that test new and seasoned managers.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "front-line-sales-management",
+        "manager",
+        "team",
+        "one-to-ones",
+        "deal-inspection",
+        "sales-hiring",
+        "team-performance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/front-line-sales-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:cc1bc39e0ea71c1da9086a955e332c74f1031754fe4713da6d644f3906697443"
+    },
+    {
       "id": "sales-revenue.ideal-customer-profile-sales",
       "name": "Ideal Customer Profile Definition",
       "description": "Evidence on which customers win fastest, pay most and stay longest, a written ideal customer profile with disqualifiers and tiers, and the routines that keep the whole team selling to it.",
@@ -14145,6 +14424,62 @@
         "totalTasks": 208
       },
       "contentHash": "sha256:a17b1457fdf1d7b517dccd025fa11f0c854f3bf83c8cff8dfc20114a4a3c9f9e"
+    },
+    {
+      "id": "sales-revenue.inbound-lead-response-routing",
+      "name": "Inbound Lead Response & Routing",
+      "description": "Every inbound channel mapped, a response standard by enquiry type, written routing rules, daily queue sweeps and weekly speed to lead reporting, so no enquiry waits and every source shows what it converts.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "inbound-lead-response-routing",
+        "small-business",
+        "team",
+        "manager",
+        "speed-to-lead",
+        "lead-routing",
+        "inbound-leads"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/inbound-lead-response-routing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:eb8690cdd8804bd693c58043f3da3e39c37a826c9f481a3f2b89f377e85d2610"
+    },
+    {
+      "id": "sales-revenue.international-sales-expansion",
+      "name": "Selling Into New Countries",
+      "description": "Opening sales in a new country step by step: choosing the market, local pricing and contracts, partner or direct entry, first hires, time zone routines, launch events and the reviews that decide whether to stay.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "international-sales-expansion",
+        "enterprise",
+        "founder",
+        "manager",
+        "market-entry",
+        "localisation",
+        "channel-partners"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/international-sales-expansion.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:64258225855c143090287d517736135e452a6044d88078fd9f24187fe6dbbd48"
     },
     {
       "id": "sales-revenue.key-account-management",
@@ -14203,6 +14538,90 @@
       "contentHash": "sha256:95943ddbfe5ca529fc39067bf436a0a0ada9954825d43e5402c28792617304dc"
     },
     {
+      "id": "sales-revenue.lost-deal-analysis",
+      "name": "Lost Deal Analysis",
+      "description": "A consistent loss reason taxonomy, honest seller debriefs, regular interviews with lost buyers and a monthly pattern review that feeds pricing, product and the sales playbook.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "lost-deal-analysis",
+        "manager",
+        "team",
+        "enterprise",
+        "win-loss",
+        "loss-reasons",
+        "buyer-interviews"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/lost-deal-analysis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:a8e9806370643f1331f9efa27d09c994c1013c83eaafdd11472297b2d18e24ae"
+    },
+    {
+      "id": "sales-revenue.mutual-action-plans",
+      "name": "Mutual Action Plans",
+      "description": "A shared, dated plan to signature for every serious deal: a team template, buyer-owned steps worked back from go-live, weekly champion updates, slip tracking and plans built for renewals, pilots and enterprise rollouts.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "mutual-action-plans",
+        "team",
+        "enterprise",
+        "close-plans",
+        "buyer-enablement",
+        "deal-execution",
+        "go-live"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/mutual-action-plans.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 190
+      },
+      "contentHash": "sha256:177bc466f81387f729a6e9ff18d227ea74c24e53e4807d119692fee99d86020e"
+    },
+    {
+      "id": "sales-revenue.navigating-buyer-procurement",
+      "name": "Navigating Buyer Procurement",
+      "description": "A supplier document pack, a security answer bank, clear internal owners and a weekly blocker sweep that carry deals through vendor registration, security questionnaires, legal review and purchase orders without stalling.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "navigating-buyer-procurement",
+        "team",
+        "enterprise",
+        "small-business",
+        "procurement",
+        "vendor-onboarding",
+        "security-questionnaires"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/navigating-buyer-procurement.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:6f22f8ab630e0b5433813203dfa61e925c1df0c93be8345627253ab619f98de5"
+    },
+    {
       "id": "sales-revenue.product-demo-delivery",
       "name": "Sales Demo Delivery",
       "description": "Demo environments that never embarrass you, storylines built on the buyer's own problems, rehearsed tailored demos and same-day recaps that move deals to a next step.",
@@ -14229,6 +14648,231 @@
         "totalTasks": 202
       },
       "contentHash": "sha256:791fba3a0e4e6a3e5f31d155dd38d2cc817a5f47a111e5f8d8be6a2517686276"
+    },
+    {
+      "id": "sales-revenue.product-led-sales-motion",
+      "name": "Product-Led Sales Motion",
+      "description": "Product usage signals in the CRM, a clear product qualified lead definition, helpful outreach to trial and free users, and the rules and tests that turn self-serve accounts into paid and larger contracts.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "product-led-sales-motion",
+        "team",
+        "founder",
+        "enterprise",
+        "product-qualified-leads",
+        "free-trial",
+        "self-serve"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/product-led-sales-motion.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:01f3d6035d596030d7d8b002417e8567352f9dc26a435bf03b959e81f469afdc"
+    },
+    {
+      "id": "sales-revenue.public-sector-selling",
+      "name": "Public Sector Selling",
+      "description": "Portal registrations and an evidence pack, tender triage, budget and contract expiry calendars, scored bid writing, award and debrief routines and contract reporting for selling to government, health and education buyers.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "public-sector-selling",
+        "enterprise",
+        "small-business",
+        "team",
+        "government",
+        "tenders",
+        "frameworks"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/public-sector-selling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 210
+      },
+      "contentHash": "sha256:2c4f0b882f793e872eb7ef3443a8a5c5a1a7f2558c5f18eca90d14b23c4f3923"
+    },
+    {
+      "id": "sales-revenue.quote-cpq-management",
+      "name": "Quotes & CPQ Management",
+      "description": "A clean product catalogue and approved price books, one quote template, the weekly and monthly routines that keep quotes accurate, and the CPQ choice, migration and go-live that end spreadsheet quoting.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "quote-cpq-management",
+        "team",
+        "enterprise",
+        "small-business",
+        "cpq",
+        "price-books",
+        "quote-to-cash"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/quote-cpq-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:b655eace7b348eb001df0ddc9ef30483fbaaa17a6e5e7e4162d18703c4eddcbe"
+    },
+    {
+      "id": "sales-revenue.referral-warm-introduction-selling",
+      "name": "Referral & Warm Introduction Selling",
+      "description": "A referral tracker, a warm network map, forwardable introductions, ask scripts and the routines that turn happy customers, investors and partners into introductions that actually close.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "referral-warm-introduction-selling",
+        "freelancer",
+        "small-business",
+        "founder",
+        "referrals",
+        "warm-introductions",
+        "word-of-mouth"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/referral-warm-introduction-selling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0a1c9242ef01c2c8151a2560ee22d9bd70d718b8db4a3bd6e016a40d4762d3c3"
+    },
+    {
+      "id": "sales-revenue.revenue-operations-setup",
+      "name": "Revenue Operations Setup",
+      "description": "A RevOps charter, one glossary of lifecycle terms, a system of record for every metric, agreed handoffs and a monthly revenue council, so sales, marketing and success work from the same numbers.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "revenue-operations-setup",
+        "enterprise",
+        "manager",
+        "team",
+        "revops",
+        "lifecycle-stages",
+        "data-governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/revenue-operations-setup.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:ebd349b71347e791ab243799d73861321fc18c39034ff5c250ef40e80b1d61b5"
+    },
+    {
+      "id": "sales-revenue.rfp-response-management",
+      "name": "RFP Response Management",
+      "description": "A bid or no-bid rubric, one intake route, a maintained answer library, compliance matrices and colour team reviews, plus the debriefs and win-rate numbers that make every RFP response sharper than the last.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "rfp-response-management",
+        "enterprise",
+        "agency",
+        "team",
+        "rfp",
+        "bid-management",
+        "proposal-library",
+        "tenders"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/rfp-response-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:d6b2a8910a7fe2a29813d245fb6647a09fdedffddb59bebb7abd530975edd837"
+    },
+    {
+      "id": "sales-revenue.sales-activity-conversion-metrics",
+      "name": "Sales Activity & Conversion Metrics",
+      "description": "Clear activity definitions, stage conversion and cycle length baselines, weekly and monthly leak reviews, and the analysis skills that show which selling activities really produce revenue.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-activity-conversion-metrics",
+        "manager",
+        "team",
+        "small-business",
+        "conversion-rates",
+        "sales-cycle",
+        "sales-metrics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-activity-conversion-metrics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:9ce25a728130c666fb31327835347671b60994c7f37e0d7362eef82812ab5a51"
+    },
+    {
+      "id": "sales-revenue.sales-candidate-assessment",
+      "name": "Sales Candidate Assessment",
+      "description": "A sales hiring process that predicts success: a scorecard built from your best sellers, role plays and mock calls with anchored scoring, disciplined debriefs and reference checks, and reviews that show which hires worked.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-candidate-assessment",
+        "manager",
+        "founder",
+        "enterprise",
+        "sales-hiring",
+        "role-play",
+        "reference-checks"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-candidate-assessment.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:ed20e2a3b4f31f7c99f1ede1f82326922d52655892261da532084c9bc942091c"
     },
     {
       "id": "sales-revenue.sales-coaching-call-review",
@@ -14315,6 +14959,34 @@
       "contentHash": "sha256:6b234ed155877b69e6209a29f5344053ac0963e76478f7e791d5501da4d59181"
     },
     {
+      "id": "sales-revenue.sales-contests-spiffs",
+      "name": "Sales Contests & SPIFFs",
+      "description": "Short sales contests and SPIFFs that change one behaviour at a time, with a written policy, an agreed budget, fair rules, prizes paid on time and an honest look at what each incentive bought.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-contests-spiffs",
+        "manager",
+        "team",
+        "incentives",
+        "spiffs",
+        "sales-contests",
+        "recognition"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-contests-spiffs.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:fe9aecd95ad35add95b93327711617ac896c564b4af9b68d4062073b8bb2d867"
+    },
+    {
       "id": "sales-revenue.sales-crm-administration",
       "name": "Sales CRM Administration",
       "description": "Deal stages with exit criteria, stage-gated required fields, permissions, duplicate cleanup, backups and reports reps trust, plus the routines that keep a sales CRM clean.",
@@ -14341,6 +15013,34 @@
         "totalTasks": 204
       },
       "contentHash": "sha256:a6a86248a4cf36af2316a7741aefa4a81c3a7c16c12c3847851196778c2a9ef8"
+    },
+    {
+      "id": "sales-revenue.sales-development-team-management",
+      "name": "Sales Development Team Management",
+      "description": "Fair meeting targets, daily standups and weekly one-to-ones, a clean handoff to account executives, and a written promotion path that turns prospecting reps into closers.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-development-team-management",
+        "manager",
+        "team",
+        "enterprise",
+        "sdr",
+        "meeting-targets",
+        "promotion-path"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-development-team-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a9f21accaaeed6162de12c71811c8ef3a6de94c0bb2a92e670457f0215a5afb2"
     },
     {
       "id": "sales-revenue.sales-discovery-calls",
@@ -14399,6 +15099,62 @@
       "contentHash": "sha256:83a1d69ff9c945424273eb12d11072e5b0f111f470cc07a9fc0e5f2ae0010a3c"
     },
     {
+      "id": "sales-revenue.sales-methodology-adoption",
+      "name": "Sales Methodology Adoption",
+      "description": "A selling methodology chosen against your real problems, a rollout that certifies managers first, and the deal reviews, call scoring and refreshers that keep Challenger, SPIN or Sandler habits alive past the first month.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-methodology-adoption",
+        "manager",
+        "team",
+        "enterprise",
+        "challenger",
+        "spin-selling",
+        "sandler"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-methodology-adoption.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:dbdbe7902795a28b5f912e3d26757ff06119dcb332d9a2c56a70931c5741a45e"
+    },
+    {
+      "id": "sales-revenue.sales-objection-handling",
+      "name": "Sales Objection Handling",
+      "description": "A logged and ranked list of the objections your buyers really raise, tested answers for each, regular drills and reviews, and the skills to meet price, timing, competitor and risk pushback calmly.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-objection-handling",
+        "team",
+        "freelancer",
+        "small-business",
+        "objections",
+        "price-objections",
+        "sales-skills"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-objection-handling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:9936f333dcec04f0c935be51f42d82e059932e82585f59c46be9f09d916c2270"
+    },
+    {
       "id": "sales-revenue.sales-pipeline-forecasting",
       "name": "Sales Pipeline Forecasting",
       "description": "Clear forecast categories, a weekly submission rhythm, stage win rates from your own history and an accuracy scorecard, so leadership gets a revenue number it can plan around.",
@@ -14425,6 +15181,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:384d6930eb3434016583c1097dc15fd1fd0401bc1c37580503d4cd4edeb4b54d"
+    },
+    {
+      "id": "sales-revenue.sales-pitch-deck",
+      "name": "Sales Pitch Deck",
+      "description": "One core sales deck that opens on the buyer's problem, with cleared proof, a single master file, monthly releases, talk tracks and variants for each segment and buyer.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-pitch-deck",
+        "team",
+        "founder",
+        "small-business",
+        "sales-narrative",
+        "slide-design",
+        "messaging"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-pitch-deck.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:4bac8e0a6225e9e591e1cadccf18fd029d4e70773e977bfe19ac898096322a64"
     },
     {
       "id": "sales-revenue.sales-playbook-development",
@@ -14539,6 +15323,34 @@
       "contentHash": "sha256:90f37d1d6f474e412343a2d927bb6dfab3554a2f88704aec1297e7372809aa1b"
     },
     {
+      "id": "sales-revenue.sales-tech-stack-selection",
+      "name": "Sales Tech Stack Selection",
+      "description": "An inventory, renewal calendar, overlap map and requirements, then structured choices of CRM, dialer, sequencing and recording tools, with routines that keep seats, spend and integrations in check.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "sales-tech-stack-selection",
+        "manager",
+        "small-business",
+        "founder",
+        "saas-procurement",
+        "integrations",
+        "software-renewals"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/sales-tech-stack-selection.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:32ace27430be8f5e08f1e7e62552261ec38b7d83ef460efc00448ed08213ce7f"
+    },
+    {
       "id": "sales-revenue.sales-territory-planning",
       "name": "Sales Territory Planning",
       "description": "Fair, data-backed sales territories: an account universe and potential scores, balance and coverage routines, clear ownership rules, and planned redesigns that move accounts without losing deals or sellers.",
@@ -14565,6 +15377,34 @@
         "totalTasks": 202
       },
       "contentHash": "sha256:2488e62ff4f5ce0f1d173bc5af592e862acc95540f2ef1350e353d0e7d823064"
+    },
+    {
+      "id": "sales-revenue.weekly-pipeline-review-cadence",
+      "name": "Weekly Pipeline Review Cadence",
+      "description": "A weekly pipeline meeting that inspects what changed, slipped and stalled, built on a data cut-off, rep pre-work, firm next-step rules and an action log the team actually closes.",
+      "category": "business",
+      "tags": [
+        "sales-revenue",
+        "weekly-pipeline-review-cadence",
+        "manager",
+        "team",
+        "pipeline-review",
+        "deal-inspection",
+        "sales-meetings",
+        "close-dates"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/sales-revenue/weekly-pipeline-review-cadence.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Sales & Revenue"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 189
+      },
+      "contentHash": "sha256:afbdea4857e6ff71eb0b8ac3da728b6a843894067007cba9ec21e19a110d1b53"
     },
     {
       "id": "wealth-investing.active-trading-rules",
