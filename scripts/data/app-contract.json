@@ -1,0 +1,303 @@
+{
+  "_source": "Copied from Aurum-Life-Desktop @ 5daba49a. Re-copy when the app adds a built-in template, trigger kind, artifact kind or recurrence form. Sources: content/templates/*.md (life_os/builtin_templates.rs), src-tauri/src/automations.rs (TriggerKind, ArtifactKind), src-tauri/src/store/tasks.rs (RECURRENCE_GRAMMAR), content/blueprints/*.md (built-in blueprint area names).",
+  "builtinTemplates": [
+    {
+      "id": "board-meeting",
+      "name": "Board meeting",
+      "entityType": "project",
+      "description": "One project per board meeting: pre-read, metrics, decisions asked for, and follow-ups with owners."
+    },
+    {
+      "id": "compliance-control",
+      "name": "Compliance control",
+      "entityType": "project",
+      "description": "One control with its evidence cycle as recurring tasks - including annual reviews that actually repeat."
+    },
+    {
+      "id": "content-pipeline",
+      "name": "Content pipeline",
+      "entityType": "project",
+      "description": "Ideas, production, approvals and performance in one project, with stages as sections so the board view works."
+    },
+    {
+      "id": "course",
+      "name": "Course",
+      "entityType": "project",
+      "description": "Work through a course with dated modules, spaced study blocks and a revision pass before the assessment."
+    },
+    {
+      "id": "cover-letter",
+      "name": "Cover letter",
+      "entityType": "page",
+      "description": "A short cover letter: why them, why you, what you would do first."
+    },
+    {
+      "id": "development-plan",
+      "name": "Development plan",
+      "entityType": "project",
+      "description": "Link a person's career goal to the skills that get them there, the feedback they have had, and dated checkpoints."
+    },
+    {
+      "id": "feedback-themes",
+      "name": "Feedback themes",
+      "entityType": "page",
+      "description": "Cluster raw feedback into themes with evidence counts, so the loudest voice does not become the roadmap."
+    },
+    {
+      "id": "habit-tracker",
+      "name": "Habit tracker",
+      "entityType": "project",
+      "description": "Turn habits into daily repeating tasks with a weekly streak table and an honest keep/change/drop review."
+    },
+    {
+      "id": "household-chores",
+      "name": "Household chores",
+      "entityType": "project",
+      "description": "A recurring chore rota - every line is a real repeating task, not a checklist you re-tick by hand."
+    },
+    {
+      "id": "job-application",
+      "name": "Job application",
+      "entityType": "project",
+      "description": "One project per application: pipeline stage, tailored materials, interview prep and dated follow-ups."
+    },
+    {
+      "id": "marketing-campaign",
+      "name": "Marketing campaign",
+      "entityType": "project",
+      "description": "A campaign organised by objective, channel, assets and deadlines, with a results section that gets filled in."
+    },
+    {
+      "id": "meeting-notes",
+      "name": "Meeting notes",
+      "entityType": "page",
+      "description": "Decisions and owners, not a transcript. Actions come out as tasks with dates."
+    },
+    {
+      "id": "metrics-log",
+      "name": "Metrics log",
+      "entityType": "page",
+      "description": "A single place to record a metric over time with its target, so a trend is visible instead of remembered."
+    },
+    {
+      "id": "month-end-close",
+      "name": "Month-end close",
+      "entityType": "project",
+      "description": "The close checklist as real monthly repeating tasks with working-day deadlines and a sign-off."
+    },
+    {
+      "id": "monthly-budget-bills",
+      "name": "Monthly budget and bills",
+      "entityType": "project",
+      "description": "Every bill as a real monthly repeating task, plus a budget-versus-actual table and a renewal watch list."
+    },
+    {
+      "id": "onboarding-30-60-90",
+      "name": "Onboarding 30/60/90",
+      "entityType": "project",
+      "description": "Dated 30, 60 and 90 day checkpoints with what good looks like at each, so progress is intentional."
+    },
+    {
+      "id": "onboarding-plan",
+      "name": "Onboarding plan",
+      "entityType": "project",
+      "description": "A consistent first two weeks for a new hire: access, people, context and a first shipped thing."
+    },
+    {
+      "id": "one-on-one",
+      "name": "1:1",
+      "entityType": "page",
+      "description": "A one-to-one note: their agenda first, then yours, then commitments with owners."
+    },
+    {
+      "id": "operational-checklist",
+      "name": "Operational checklist",
+      "entityType": "project",
+      "description": "A recurring operational routine where each run is auditable - who did it, when, and what they found."
+    },
+    {
+      "id": "person",
+      "name": "Person",
+      "entityType": "project",
+      "description": "A relationship page: recurring check-in, commitments you made, a contact log and a yearly birthday reminder."
+    },
+    {
+      "id": "portfolio-piece",
+      "name": "Portfolio piece",
+      "entityType": "page",
+      "description": "A case-study write-up of one piece of work: context, what you did, the outcome and what you would change."
+    },
+    {
+      "id": "product-spec",
+      "name": "Product spec",
+      "entityType": "project",
+      "description": "Problem, users, scope and success criteria before any solution - with open decisions tracked explicitly."
+    },
+    {
+      "id": "purchase-decision",
+      "name": "Purchase decision",
+      "entityType": "project",
+      "description": "Compare options against criteria you set first, then record the decision and when to revisit it."
+    },
+    {
+      "id": "reading-queue",
+      "name": "Reading queue",
+      "entityType": "project",
+      "description": "A queue of books, articles and videos with a next-up rule, so the list gets consumed rather than collected."
+    },
+    {
+      "id": "remediation-plan",
+      "name": "Remediation plan",
+      "entityType": "project",
+      "description": "Close a finding properly: root cause, corrective actions with owners and dates, and evidence of closure."
+    },
+    {
+      "id": "resume",
+      "name": "Resume",
+      "entityType": "page",
+      "description": "A resume skeleton with achievement-shaped bullets - verb, scope, measurable outcome."
+    },
+    {
+      "id": "risk-register",
+      "name": "Risk register",
+      "entityType": "page",
+      "description": "Risks scored by likelihood and impact, each with an owner, a mitigation and a review date."
+    },
+    {
+      "id": "savings-goal",
+      "name": "Savings goal",
+      "entityType": "project",
+      "description": "Turn a target and a date into a monthly contribution that actually repeats, plus a progress ledger."
+    },
+    {
+      "id": "skills-matrix",
+      "name": "Skills matrix",
+      "entityType": "page",
+      "description": "Rate skills against the level a target role needs, so gaps become a learning plan rather than a feeling."
+    },
+    {
+      "id": "sleep-review",
+      "name": "Sleep review",
+      "entityType": "page",
+      "description": "Two weeks of sleep data reviewed against what you actually did, to find the two levers that matter."
+    },
+    {
+      "id": "training-program",
+      "name": "Training program",
+      "entityType": "project",
+      "description": "A dated training block with sessions, conditioning, recovery and a performance log."
+    },
+    {
+      "id": "trip",
+      "name": "Trip",
+      "entityType": "project",
+      "description": "Plan a trip end to end - bookings, itinerary, packing and documents in one project."
+    },
+    {
+      "id": "vendor",
+      "name": "Vendor",
+      "entityType": "project",
+      "description": "One project per vendor: renewal deadline, contract, owner, spend and a decision log."
+    },
+    {
+      "id": "weekly-meal-plan",
+      "name": "Weekly meal plan",
+      "entityType": "page",
+      "description": "Seven days of meals with a shopping list derived from them."
+    }
+  ],
+  "triggerKinds": [
+    "deadline_within",
+    "area_over_max_projects",
+    "review_cadence_due",
+    "project_stale",
+    "dependency_overdue",
+    "unassigned_tasks",
+    "weekly_on"
+  ],
+  "projectScopedTriggerKinds": [
+    "deadline_within",
+    "project_stale",
+    "dependency_overdue",
+    "unassigned_tasks"
+  ],
+  "triggerParamKeys": [
+    "days",
+    "minCount",
+    "weekday",
+    "cooldownHours"
+  ],
+  "artifactKinds": [
+    "daily-briefing",
+    "weekly-review",
+    "project-audit",
+    "monthly-review",
+    "executive-briefing",
+    "risk-register",
+    "study-recap"
+  ],
+  "recurrenceGrammar": "daily | weekly | weekly:mon,wed,fri | monthly | monthly:<1-31> | quarterly | yearly",
+  "projectModes": [
+    "learning",
+    "building",
+    "operating",
+    "research",
+    "service",
+    "event"
+  ],
+  "projectOutputKinds": [
+    "knowledge",
+    "artifact",
+    "decision",
+    "habit",
+    "event-completion",
+    "deliverable"
+  ],
+  "projectCadences": [
+    "phased",
+    "rolling",
+    "cyclic",
+    "one-shot"
+  ],
+  "pillarReviewCadences": [
+    "quarterly",
+    "monthly",
+    "biannual"
+  ],
+  "builtinBlueprintAreaNames": [
+    "Accounts",
+    "Audits",
+    "Budget & Bills",
+    "Cash",
+    "Certifications",
+    "Chores",
+    "Close",
+    "Close circle",
+    "Commitments",
+    "Competition",
+    "Compliance",
+    "Contracts",
+    "Delivery",
+    "Documents",
+    "Food",
+    "Governance",
+    "Job Search",
+    "Maintenance",
+    "Pipeline",
+    "Portfolio",
+    "Professional network",
+    "Programme",
+    "Prospecting",
+    "Purchases",
+    "Recovery",
+    "Renewals",
+    "Reviews",
+    "Risk",
+    "Routines",
+    "Savings & Goals",
+    "Skills",
+    "Trips",
+    "Vendors",
+    "Win-loss"
+  ]
+}
