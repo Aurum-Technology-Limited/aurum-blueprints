@@ -437,3 +437,41 @@ tax, property and money projects stay organisational (section 8): prepare, recor
 verify with official sources and the right professional. Use local words the way
 people use them (sou-sou, partner hand, barrel, mas, fete, panyard, nine night) and
 explain any word an outsider would not know the first time it appears.
+
+## 13. Certification, finance, engineering, practice, family office and farming pillars
+
+Eleven pillars were added after section 12. They follow everything above, plus these
+rules.
+
+- **`finance-certifications` and `tech-certifications`** work like `caribbean-exams`: one
+  credential or exam per area, built around the awarding body's current published
+  structure (CFA Institute, ACCA, AICPA, PMI, AWS, Cisco, ISC2, NCEES, the Engineering
+  Council, the Board of Engineering of Trinidad and Tobago and so on). Do not state exam
+  weightings, question counts, durations, fees, pass marks or dates unless you are
+  certain they are current; put an early task to check them on the body's website.
+  Recruiting areas (banking, PE, consulting, coding and system-design interviews)
+  are preparation plans with practice, mocks and a dated pipeline.
+- **`private-equity-vc`, `quant-finance`, `investment-banking`, `real-estate-development`
+  and `family-office`** are written for an individual's own career, own deals, own fund
+  or own family, never for a firm's confidential deal data. They are organisational
+  (section 8): no investment, trading, tax or legal advice, no specific securities, and
+  no performance claims. Point to the right professional for tax, legal and regulatory
+  calls. Quant and trading areas put risk limits, position sizing rules and a written
+  stop rule in the plan, and say plainly that most strategies fail out of sample.
+  "Leverage" as a standalone word is banned (section 8); write "debt", "gearing",
+  "borrowing" or the industry term "leveraged" (as in leveraged buyout).
+- **`engineering-practice`** covers the discipline's real work products (design basis,
+  calculations, drawings, datasheets, HAZOP and FMEA records, commissioning dossiers),
+  names the governing standards by family where you are sure (for example ASME, IEC,
+  API, ISO), and treats safety as non-negotiable: permits to work, management of change
+  and stop-work authority appear where they belong. Caribbean energy areas are specific
+  to Trinidad and Tobago's sector without naming companies' internal systems.
+- **`practice-ownership`** areas run a professional practice as a business: licensing
+  and the professional regulator, partnership or shareholder agreements, billing and
+  collections, insurance and liability, client confidentiality, staffing and succession.
+  Regulatory duties are stated generally unless certain for a named jurisdiction.
+- **`agriculture`** is practical and Caribbean-aware: seasons (wet and dry), hurricane
+  preparation, water and soil, pests and disease by monitoring and integrated pest
+  management, records, markets (wholesale, hotels, supermarkets, export), finance and
+  insurance, and government extension services. Never give pesticide, fertiliser or
+  veterinary drug doses; point to the label, the extension officer or the vet.

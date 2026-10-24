@@ -424,6 +424,94 @@
       "category": "personal",
       "review_cadence": "quarterly",
       "description": "Caribbean life at home and abroad: money and barrels sent home, sou-sou savings, passports and returning-resident moves, land and family property, Carnival and mas, steelpan, food, language and heritage, and staying close to family across the water."
+    },
+    {
+      "id": "finance-certifications",
+      "name": "Finance & Business Certifications",
+      "emoji": "🎓",
+      "category": "personal",
+      "review_cadence": "monthly",
+      "description": "Finance and business exams taken one at a time: each CFA level, FRM, CAIA, CMA, CIMA, CAMS, wealth and actuarial credentials, ACCA papers and CPA sections, the GMAT, GRE and MBA applications, and the recruiting tests that stand between a candidate and a finance job."
+    },
+    {
+      "id": "tech-certifications",
+      "name": "Tech & Engineering Certifications",
+      "emoji": "🏅",
+      "category": "personal",
+      "review_cadence": "monthly",
+      "description": "Technical credentials and the exams behind them: FE and PE licensing, Chartered Engineer and Trinidad and Tobago engineering registration, PMP, PRINCE2 and Scrum, AWS, Azure and Google Cloud by level, Kubernetes and Terraform, networking and security certifications, Six Sigma belts, and coding, system design and machine-learning interviews."
+    },
+    {
+      "id": "engineering-practice",
+      "name": "Engineering Practice",
+      "emoji": "🔧",
+      "category": "business",
+      "review_cadence": "quarterly",
+      "description": "The day-to-day work of practising engineers: each major discipline, process safety and risk studies, FEED, design reviews, commissioning, reliability and maintenance, CAD, simulation and PLC work, project delivery, tenders, reports, ethics and standards, and the Caribbean energy sector from Point Lisas to LNG."
+    },
+    {
+      "id": "private-equity-vc",
+      "name": "Private Equity & Venture Capital",
+      "emoji": "💹",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Private markets from the investor's side: sourcing and screening deals, LBO models, investment committee memos, due diligence, value creation and exits, raising and running your own fund, search funds and independent sponsors, venture deal flow and board seats, and careers in both, for people building their own track record."
+    },
+    {
+      "id": "quant-finance",
+      "name": "Quantitative Finance & Trading",
+      "emoji": "🧮",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Systematic research and trading run like engineering: alpha research and honest backtests, factor and risk models, execution and microstructure, statistics and machine learning, quant development and market data, prop-firm evaluations and personal algorithmic trading under strict risk rules, and quant careers. Organisation and method only, never trading advice."
+    },
+    {
+      "id": "investment-banking",
+      "name": "Investment Banking & Advisory",
+      "emoji": "🏦",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Advisory and capital markets work from the banker's seat: pitch books and valuation, sell-side and buy-side M&A, equity and debt capital markets, leveraged finance, restructuring and fairness opinions, plus the analyst, associate and VP years and the career moves that follow."
+    },
+    {
+      "id": "real-estate-development",
+      "name": "Real Estate Investing & Development",
+      "emoji": "🏢",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Property as a business: development appraisals, land, planning and construction finance, delivering schemes, syndications, commercial and multifamily acquisitions, short-let portfolios and property management companies, REIT analysis, and land development in the Caribbean, for sponsors, developers and operators rather than single-unit landlords."
+    },
+    {
+      "id": "management-consulting",
+      "name": "Management Consulting",
+      "emoji": "📋",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Consulting as a craft and a business: case interviews and getting hired, structuring problems with issue trees, hypothesis-driven workplans, client interviews, slides and steering committees, the career from analyst to partner, and going independent or building a boutique firm with sensible pricing."
+    },
+    {
+      "id": "practice-ownership",
+      "name": "Professional Practice Ownership",
+      "emoji": "🔑",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Owning and running a professional practice: medical and dental clinics, law and accounting firms, engineering consultancies, architecture studios, veterinary practices and pharmacies, from buying or starting one through partnership agreements, billing, compliance, hiring and growth to succession and sale."
+    },
+    {
+      "id": "family-office",
+      "name": "Family Office & Private Wealth",
+      "emoji": "🏰",
+      "category": "personal",
+      "review_cadence": "quarterly",
+      "description": "Running the affairs of a wealthy family, not picking investments: family governance and a constitution, trusts and foundations across jurisdictions, setting up a single-family office, a family investment policy and reporting, educating the next generation, philanthropy vehicles, household staff and concierge, and the security and privacy wealth brings."
+    },
+    {
+      "id": "agriculture",
+      "name": "Agriculture & Agribusiness",
+      "emoji": "🌾",
+      "category": "business",
+      "review_cadence": "monthly",
+      "description": "Farming as a business, with the Caribbean in mind: vegetables, root crops, cocoa, coffee, citrus and other tree crops, poultry, goats, cattle and pigs, aquaculture and greenhouses, soil, irrigation and pest management, farm finance, selling to markets, hotels and supermarkets, agro-processing and export, insurance, hurricane resilience and extension services."
     }
   ]
 }
