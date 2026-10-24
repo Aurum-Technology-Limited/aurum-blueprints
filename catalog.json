@@ -4288,6 +4288,676 @@
       "contentHash": "sha256:71ae1450a76434af6685d96596ebb0e9b7273313903cc7f3b1a9fd6718cc4269"
     },
     {
+      "id": "finance-certifications.acca-applied-knowledge-exams",
+      "name": "ACCA Applied Knowledge Exams",
+      "description": "A route through ACCA's BT, MA and FA exams: exemptions and the current syllabus first, a dated study calendar, each topic with question practice, timed mocks, booking and exam day, then the step to Applied Skills.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "acca-applied-knowledge-exams",
+        "student",
+        "acca",
+        "applied-knowledge",
+        "business-and-technology",
+        "management-accounting",
+        "financial-accounting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/acca-applied-knowledge-exams.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:8d4e74e14369b24421ad47b36e48dccb26b4bd15b176dcc976155b35ec3c54cd"
+    },
+    {
+      "id": "finance-certifications.acca-audit-and-assurance-aa",
+      "name": "ACCA Audit and Assurance (AA)",
+      "description": "A full ACCA AA plan: the current syllabus and examinable documents checked, a calendar across all five sections, weekly scenario practice in exam style, timed mocks and an exam day you have rehearsed.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "acca-audit-and-assurance-aa",
+        "student",
+        "acca",
+        "audit",
+        "assurance",
+        "isa",
+        "applied-skills"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/acca-audit-and-assurance-aa.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:53f8316972ebdc82c1ab523071eebe74fc5a95013ae872977055a98cce73b0e0"
+    },
+    {
+      "id": "finance-certifications.acca-financial-management-fm",
+      "name": "ACCA Financial Management (FM)",
+      "description": "A route through ACCA Financial Management: the current syllabus and exam format, a dated study plan, every syllabus area from working capital to currency risk, timed numerical practice, mocks and exam day.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "acca-financial-management-fm",
+        "student",
+        "acca",
+        "investment-appraisal",
+        "cost-of-capital",
+        "working-capital",
+        "business-valuation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/acca-financial-management-fm.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:e5085bb6915d1da7adf42f1dd6bc4cbaf415f17d57635db8ca7ed33e99961fec"
+    },
+    {
+      "id": "finance-certifications.acca-financial-reporting-fr",
+      "name": "ACCA Financial Reporting (FR)",
+      "description": "A route through ACCA Financial Reporting: the current syllabus and session, a dated calendar, every IFRS topic in syllabus order, groups and interpretation, timed mocks, exam day and the resit or next paper.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "acca-financial-reporting-fr",
+        "student",
+        "acca",
+        "ifrs",
+        "consolidation",
+        "interpretation",
+        "applied-skills"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/acca-financial-reporting-fr.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 189
+      },
+      "contentHash": "sha256:a31d3baebe30bac94052dfedcee2875d44e4aedd1ccab8adb911ba02ad9c753f"
+    },
+    {
+      "id": "finance-certifications.acca-performance-management-pm",
+      "name": "ACCA Performance Management (PM)",
+      "description": "A route through ACCA Performance Management: the current syllabus and session, a dated study plan, costing, decision, budgeting, variance and performance topics in syllabus order, exam technique, mocks and results.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "acca-performance-management-pm",
+        "student",
+        "acca",
+        "applied-skills",
+        "management-accounting",
+        "variance-analysis",
+        "decision-making"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/acca-performance-management-pm.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:bd966c9cca3f92f6651000ac0be06cb07bfa441dafc72813806379509cef1575"
+    },
+    {
+      "id": "finance-certifications.acca-taxation-and-corporate-law",
+      "name": "ACCA Taxation and Corporate Law (TX, LW)",
+      "description": "Choosing the right TX and LW variants, a dated study calendar, tax computations and law topics in syllabus order, timed practice in the exam software, mocks, exam day and a resit plan if needed.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "acca-taxation-and-corporate-law",
+        "student",
+        "acca",
+        "taxation",
+        "corporate-law",
+        "tax-computation",
+        "business-law"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/acca-taxation-and-corporate-law.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:8250584ad4031300c07a156331c276b3ab4e1531dd7d2bb53d2f79acb5d72c8e"
+    },
+    {
+      "id": "finance-certifications.actuarial-associateship-and-fellowship",
+      "name": "Actuarial Associateship and Fellowship",
+      "description": "A multi-year route from P and FM to associate and fellow: the right society and track, credits and exemptions, employer study time, steady weekly routines, written assessments and pacing that lasts.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "actuarial-associateship-and-fellowship",
+        "student",
+        "knowledge-worker",
+        "actuarial",
+        "fellowship",
+        "soa",
+        "ifoa"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/actuarial-associateship-and-fellowship.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:647c3504fdcef868eb188a6c253f366438d8d54725a94f3fb84ed0fd56729da5"
+    },
+    {
+      "id": "finance-certifications.actuarial-exams-p-and-fm",
+      "name": "Actuarial Exams P and FM",
+      "description": "From the syllabus check and an approved calculator through every P and FM topic, a daily problem habit, timed mocks and exam day, to an actuarial internship plan.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "actuarial-exams-p-and-fm",
+        "student",
+        "soa",
+        "probability",
+        "interest-theory",
+        "actuarial-internships"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/actuarial-exams-p-and-fm.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:75fb00bd6edd772486a1a03adfd8967bb7020f5166588f89b7cb35c8787c8822"
+    },
+    {
+      "id": "finance-certifications.caia-level-i",
+      "name": "CAIA Level I",
+      "description": "A dated route through CAIA Level I: your window and plan, every topic from professional standards to hedge funds, private equity, real assets and structured products, timed practice, mocks and exam day.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "caia-level-i",
+        "student",
+        "knowledge-worker",
+        "caia",
+        "alternative-investments",
+        "hedge-funds",
+        "private-equity"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/caia-level-i.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c315d6e0fbbc85a83c63fc478423a7a33ea4cdf66153491e7ddc72c46523e935"
+    },
+    {
+      "id": "finance-certifications.caia-level-ii",
+      "name": "CAIA Level II",
+      "description": "A dated plan for CAIA Level II: the exam facts, a Level I gap audit, weekly question and constructed-response practice, allocation, due diligence and risk topics in depth, timed mocks, exam day and the charter steps after.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "caia-level-ii",
+        "student",
+        "knowledge-worker",
+        "caia",
+        "alternative-investments",
+        "due-diligence",
+        "constructed-response"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/caia-level-ii.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:02f1f7722fca3daee8b70e187a47b12e24073daa88092cc683e45cb2441fd1b6"
+    },
+    {
+      "id": "finance-certifications.cams-anti-money-laundering-exam",
+      "name": "CAMS Anti-Money Laundering Exam",
+      "description": "A CAMS plan built for working compliance people: ACAMS rules and eligibility checked, a study calendar, weekly question practice, each topic from typologies to investigations, mocks, exam day and how it applies to Caribbean banking.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "cams-anti-money-laundering-exam",
+        "knowledge-worker",
+        "acams",
+        "cams",
+        "anti-money-laundering",
+        "sanctions",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/cams-anti-money-laundering-exam.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:2293f3762ecb540edf2a2f7903d0517a25a7646d2fc4766738655f8993b288df"
+    },
+    {
+      "id": "finance-certifications.cfa-charter-application",
+      "name": "CFA Charter Application",
+      "description": "From a Level III pass to a charter you can use: qualifying experience logged, references and the membership application, a local society, and the yearly conduct statement, dues and ethics routines.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "cfa-charter-application",
+        "knowledge-worker",
+        "cfa",
+        "charterholder",
+        "professional-ethics",
+        "membership"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/cfa-charter-application.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 208
+      },
+      "contentHash": "sha256:4a24883148b2447d6be05f746b208f6dcd4baa03239c5e4f33a49881186e30c0"
+    },
+    {
+      "id": "finance-certifications.cfa-level-i",
+      "name": "CFA Level I",
+      "description": "A route through CFA Level I: eligibility, window and registration, a weekly study system, all ten topics in curriculum order, timed mocks and a calm exam day.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "cfa-level-i",
+        "student",
+        "knowledge-worker",
+        "cfa",
+        "investment-analysis",
+        "ethics",
+        "mock-exams"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/cfa-level-i.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:96e5e302864989ae3fd65d8523c9ea0a3d29acf487102c7b53d89b2d1a63b890"
+    },
+    {
+      "id": "finance-certifications.cfa-level-ii",
+      "name": "CFA Level II",
+      "description": "CFA Level II from booking to results: a topic-weighted plan, every curriculum topic practised in timed item-set vignettes, error and accuracy logs, two full mocks, the final review weeks and exam day.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "cfa-level-ii",
+        "student",
+        "knowledge-worker",
+        "cfa",
+        "item-sets",
+        "equity-valuation",
+        "fixed-income"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/cfa-level-ii.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:7d1b37ad8c8a4d86cffdaac1155f137e15baba0e69b42c7eeaee13b6011b97c8"
+    },
+    {
+      "id": "finance-certifications.cfa-level-iii",
+      "name": "CFA Level III",
+      "description": "A Level III plan from the format check and pathway choice to constructed-response technique, item sets, an error log, timed mocks and a calm exam day.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "cfa-level-iii",
+        "student",
+        "knowledge-worker",
+        "cfa",
+        "portfolio-management",
+        "constructed-response",
+        "private-wealth"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/cfa-level-iii.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:eab5ea515bdd72f589b3741811772a9656c198ff0f4cfc1806659a68b1c33ece"
+    },
+    {
+      "id": "finance-certifications.cfp-certification",
+      "name": "CFP Certification",
+      "description": "Everything between choosing the CFP route and holding the marks: the certifying body's four requirements, coursework, the exam's planning domains and cases, an experience log, ethics and renewal.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "cfp-certification",
+        "student",
+        "knowledge-worker",
+        "freelancer",
+        "financial-planning",
+        "fiduciary",
+        "planning-domains"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/cfp-certification.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:5d207cccd37d65a5fe2b0bdacb72d8960765a330e8213aa73933f75b6c407f27"
+    },
+    {
+      "id": "finance-certifications.cima-management-level",
+      "name": "CIMA Management Level",
+      "description": "A full CIMA Management level plan: current rules checked, three objective tests booked and passed, weekly study routines, topic work for each subject, and a pre-seen and mock plan that carries you through the case study.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "cima-management-level",
+        "student",
+        "knowledge-worker",
+        "cima",
+        "management-accounting",
+        "case-study",
+        "objective-tests"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/cima-management-level.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:33de3565f6532761c378c3aefc9577d12f3c44bac0d3e271de1274d01c9db348"
+    },
+    {
+      "id": "finance-certifications.cima-operational-level",
+      "name": "CIMA Operational Level",
+      "description": "A route through CIMA's Operational level: exemptions and the current syllabus, a dated study calendar, E1, P1 and F1 topic by topic, exam technique, then the pre-seen, mocks and the Operational case study.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "cima-operational-level",
+        "student",
+        "knowledge-worker",
+        "cima",
+        "cgma",
+        "management-accounting",
+        "case-study"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/cima-operational-level.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:c9e68bd678ddd1766864498ca0cf2718ea1898ce742d875f231953f13fe14433"
+    },
+    {
+      "id": "finance-certifications.cima-strategic-level",
+      "name": "CIMA Strategic Level",
+      "description": "A full CIMA Strategic level plan: current rules checked, E3, P3 and F3 booked and passed, topic work for each subject, the Strategic case study from pre-seen to results, and the experience and membership steps to CGMA.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "cima-strategic-level",
+        "student",
+        "knowledge-worker",
+        "cima",
+        "strategic-case-study",
+        "financial-strategy",
+        "cgma"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/cima-strategic-level.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:8dc0fa30dc8053f938465498893ab218178590c40108afeb92bb817f22fd995b"
+    },
+    {
+      "id": "finance-certifications.cma-part-1",
+      "name": "CMA Part 1",
+      "description": "A full CMA Part 1 plan: IMA's current rules checked, membership and window sorted, a calendar across all six sections, weekly multiple-choice and essay practice, timed mocks and a calm exam day.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "cma-part-1",
+        "student",
+        "knowledge-worker",
+        "ima",
+        "cma",
+        "management-accounting",
+        "budgeting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/cma-part-1.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:f0297120970b7445b8ae28b3b6521b4f15deab93c701b986d11159afa4ca6726"
+    },
+    {
+      "id": "finance-certifications.cma-part-2",
+      "name": "CMA Part 2",
+      "description": "A full CMA Part 2 plan: IMA rules checked, entry and booking sorted, a calendar across the six sections, daily questions, weekly essays, timed mocks, exam day and the steps to certification.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "cma-part-2",
+        "student",
+        "knowledge-worker",
+        "ima",
+        "cma",
+        "corporate-finance",
+        "management-accounting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/cma-part-2.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3aad07a424d3c82314141d56838173eb31af08b372edd23ce8abd5e91c009b18"
+    },
+    {
+      "id": "finance-certifications.cpwa-and-private-wealth-credentials",
+      "name": "CPWA and Private Wealth Credentials",
+      "description": "From the eligibility check to a credential you hold: the pre-study, executive education, the exam, and the tax, wealth transfer and family advising skills behind CPWA and similar private wealth credentials.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "cpwa-and-private-wealth-credentials",
+        "knowledge-worker",
+        "freelancer",
+        "cpwa",
+        "private-wealth",
+        "wealth-transfer",
+        "behavioural-finance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/cpwa-and-private-wealth-credentials.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:653f40a66eeda565a80068326d55a0dfb2af2cc2c4d0d982a49866b07a303ee6"
+    },
+    {
+      "id": "finance-certifications.frm-part-i",
+      "name": "FRM Part I",
+      "description": "A full FRM Part I plan: current GARP rules checked, registration and calculator sorted, a calendar across the four books, weekly question practice, topic-by-topic study, timed mocks and a calm exam day.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "frm-part-i",
+        "student",
+        "knowledge-worker",
+        "garp",
+        "frm",
+        "risk-management",
+        "quantitative-analysis"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/frm-part-i.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:f6c1b6b79cd6638a93a986a0bf979eaec29ed8a26bd23efd5381db5e8893bfd6"
+    },
+    {
+      "id": "finance-certifications.frm-part-ii",
+      "name": "FRM Part II",
+      "description": "A dated route through FRM Part II: this year's readings, a plan by topic, market, credit, operational, liquidity and investment risk practice, mocks, exam day and the work experience submission that certifies you.",
+      "category": "personal",
+      "tags": [
+        "finance-certifications",
+        "frm-part-ii",
+        "student",
+        "knowledge-worker",
+        "frm",
+        "garp",
+        "risk-management",
+        "exam-prep"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-certifications/frm-part-ii.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Business Certifications"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:7aba4e89c4691261c8f29e00a8c719fa8c206e5ff53ad058c81f98e566913cb3"
+    },
+    {
       "id": "fitness-sport.5k-to-half-marathon-running",
       "name": "5K to Half Marathon Running",
       "description": "A safe start, shoes that fit, a walk-run route to your first 5K, then steady steps through 10K to a half marathon, with sensible weekly distance, honest pacing and race days that go to plan.",
