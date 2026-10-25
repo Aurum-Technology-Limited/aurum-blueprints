@@ -11259,6 +11259,1042 @@
       "contentHash": "sha256:82483d090cea3450ee2d2ebb5d442adca11d08e5a47b7e763f2fbb162ad5f9a5"
     },
     {
+      "id": "investment-banking.activism-and-takeover-defence",
+      "name": "Activism and Takeover Defence",
+      "description": "Defence advisory from the banker's seat: vulnerability analysis, stock watch, governance and rules inventories, shareholder engagement, the engage, settle or fight call, proxy contests and responses to unsolicited bids.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "activism-and-takeover-defence",
+        "knowledge-worker",
+        "shareholder-activism",
+        "takeover-defence",
+        "proxy-contest",
+        "hostile-bid",
+        "board-advisory"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/activism-and-takeover-defence.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:259f95859d7d1fa8d335d918f80aff70db3eed2cabb881568c88a40d7f661ed4"
+    },
+    {
+      "id": "investment-banking.alternative-listing-routes",
+      "name": "Alternative Listing Routes",
+      "description": "Routes to a public market other than the classic IPO, worked from the banker's seat: direct listings, SPAC mergers, introductions, cross listings and reverse takeovers, with the mechanics, decisions and risks of each.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "alternative-listing-routes",
+        "knowledge-worker",
+        "direct-listing",
+        "spac",
+        "cross-listing",
+        "depositary-receipts",
+        "listing-by-introduction"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/alternative-listing-routes.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:e98df50be682360c9db6542ac08184057f173b051ffd57ec43d937d3df560bd1"
+    },
+    {
+      "id": "investment-banking.bid-rounds-and-process-letters",
+      "name": "Bid Rounds and Process Letters",
+      "description": "Process letters that bidders cannot misread, bid rounds run to a clean timetable, bids compared on one basis and a preferred bidder recommendation the client and board can stand behind.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "bid-rounds-and-process-letters",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "m-and-a",
+        "auctions",
+        "process-letters"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/bid-rounds-and-process-letters.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:806c9d9f0a8718f7f32c0fdad03eaf58b7e4e0c55b8622608cef73968010f1dd"
+    },
+    {
+      "id": "investment-banking.buy-side-m-and-a-mandates",
+      "name": "Buy-Side M&A Mandates",
+      "description": "A buy-side advisory routine: acquisition criteria, target screens and profiles, approach plans, bid authority and offer letters, diligence and red flags, certainty of funds and the push to signing.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "buy-side-m-and-a-mandates",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "buy-side",
+        "acquisitions",
+        "bid-tactics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/buy-side-m-and-a-mandates.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ac8115d32cbef628a242344ea3b8c0821cec9c760344e0525eac1e5c157cf1cb"
+    },
+    {
+      "id": "investment-banking.buyer-investor-universe-mapping",
+      "name": "Buyer and Investor Universe Mapping",
+      "description": "A buyer and investor universe built from clean data, every name scored on fit, appetite and capacity, conflicts cleared, and an approach order the client has signed off.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "buyer-investor-universe-mapping",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "m-and-a",
+        "buyer-lists",
+        "sponsors"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/buyer-investor-universe-mapping.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:6339b895fe498733819531e84310ba10b3945b15eda4618d05755e2c94184bc5"
+    },
+    {
+      "id": "investment-banking.caribbean-corporate-finance-deals",
+      "name": "Caribbean Corporate Finance Deals",
+      "description": "A banker's system for Caribbean deals: exchanges and regulators by island, currency and exchange control checks, the regional investor base, conglomerate M&A, local listings and bonds, state enterprise sales and making small deals pay.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "caribbean-corporate-finance-deals",
+        "knowledge-worker",
+        "caribbean",
+        "regional-m-and-a",
+        "local-stock-exchanges",
+        "state-enterprises",
+        "small-markets"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/caribbean-corporate-finance-deals.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6ed91acb0a50922713c3f152185bb21d0833e730493909d8738c15489983c531"
+    },
+    {
+      "id": "investment-banking.carve-outs-and-divestitures",
+      "name": "Carve-Outs and Divestitures",
+      "description": "Divisional sales advised properly: the perimeter and entanglement map, carve-out financials, standalone and stranded costs, TSA schedules and pricing, separation governance and a clean path to legal day one and TSA exit.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "carve-outs-and-divestitures",
+        "knowledge-worker",
+        "carve-out",
+        "divestiture",
+        "separation",
+        "tsa",
+        "stranded-costs"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/carve-outs-and-divestitures.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:800c07d55588df97e1726e6764a116a000bfd63ce2fb8455dabb6fd7b81d5ef2"
+    },
+    {
+      "id": "investment-banking.client-coverage-and-origination",
+      "name": "Client Coverage and Origination",
+      "description": "A coverage book you can run: tiered clients, relationship maps, coverage plans, a weekly pipeline, idea meetings on a rhythm, a won and lost log and the habits that turn ideas into signed mandates.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "client-coverage-and-origination",
+        "knowledge-worker",
+        "vice-president",
+        "managing-director",
+        "origination",
+        "client-relationships",
+        "mandates"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/client-coverage-and-origination.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:80b6ac0270feecdd26cded73141fea9ca24cebb7502e85e268354158df164916"
+    },
+    {
+      "id": "investment-banking.coordinating-deal-advisers",
+      "name": "Coordinating Deal Advisers",
+      "description": "The banker's control tower for a deal's other advisers: a working group list, clear scopes, a live workstream list, all-party calls that end in actions, disciplined document turns and adviser fees tracked against budget.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "coordinating-deal-advisers",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "workstream-list",
+        "adviser-fees",
+        "deal-management"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/coordinating-deal-advisers.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:76e488895829df9e483755b5bd2796e99d37f25e49168fddc32f870ebb60da0f"
+    },
+    {
+      "id": "investment-banking.credit-ratings-advisory",
+      "name": "Credit Ratings Advisory",
+      "description": "Ratings advisory from the banker's seat: agency methodologies and adjusted metrics, headroom tracking, rating presentations, pro forma deal impact and the specialist cases that decide a client's cost of debt.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "credit-ratings-advisory",
+        "knowledge-worker",
+        "credit-ratings",
+        "rating-agencies",
+        "credit-metrics",
+        "investment-grade",
+        "rating-presentation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/credit-ratings-advisory.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:49dfc355cb23fdf023be8c27688d1b457e75420b1736ed0ee801423a9a3e7e7d"
+    },
+    {
+      "id": "investment-banking.cross-border-m-and-a-execution",
+      "name": "Cross-Border M&A Execution",
+      "description": "A banker's system for deals across borders: jurisdiction maps, merger control and foreign investment trackers, currency exposure, time zone rhythms, local advisers and negotiating well in another business culture.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "cross-border-m-and-a-execution",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "cross-border",
+        "regulatory-approvals",
+        "foreign-investment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/cross-border-m-and-a-execution.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:dcf14c0ffeb6c1eaca6ec05acfa842b0df1aee78763013c73016f3e69809df46"
+    },
+    {
+      "id": "investment-banking.dcf-valuation-work",
+      "name": "DCF Valuation Work",
+      "description": "A banker's DCF from first build to specialist cases: projection choices, WACC inputs, terminal value, sensitivities, football field pages and the routines that keep every version defensible.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "dcf-valuation-work",
+        "knowledge-worker",
+        "student",
+        "dcf",
+        "wacc",
+        "terminal-value",
+        "valuation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/dcf-valuation-work.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:fdcf55c2e2574b07713684b0e08058652dc854fd46e355c1a132a768bdc14d1e"
+    },
+    {
+      "id": "investment-banking.dcm-bond-issuance",
+      "name": "DCM Bond Issuance",
+      "description": "A working kit for bond issues in debt capital markets: issuer funding profiles, curves and fair value, documentation, ratings timetables, investor marketing, books and pricing, allocations and clean settlement.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "dcm-bond-issuance",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "debt-capital-markets",
+        "bonds",
+        "syndicate"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/dcm-bond-issuance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:5c53c45560009f7ea3af15fa77695d277a1018d6215311a7584499e4eaa94d9a"
+    },
+    {
+      "id": "investment-banking.debt-advisory-for-mid-market",
+      "name": "Debt Advisory for Mid-Market",
+      "description": "Debt advice from the borrower's side for mid-sized companies: lender universes, credit papers, term sheet comparisons, refinancings, acquisition debt and the routines that keep advised clients ahead of their maturities.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "debt-advisory-for-mid-market",
+        "knowledge-worker",
+        "refinancing",
+        "direct-lending",
+        "lender-process",
+        "acquisition-finance",
+        "mid-market"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/debt-advisory-for-mid-market.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:e0a2e766190c429e167f0fd6dcbab14db95424d212ed960d83a6b89bd310f006"
+    },
+    {
+      "id": "investment-banking.equity-story-development",
+      "name": "Equity Story Development",
+      "description": "A method for the equity story behind a sale or listing: highlights with proof, growth drivers, competitive position, financial targets and one master page that keeps every document telling it the same way.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "equity-story-development",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "equity-story",
+        "sell-side",
+        "ipo"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/equity-story-development.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:59e3b1c3f0e5629d374fe7a87d977be6a6c07a82a60774e5d313d469454841b6"
+    },
+    {
+      "id": "investment-banking.fairness-opinions",
+      "name": "Fairness Opinions",
+      "description": "Fairness opinions from the banker's seat: scope and conflicts, the analyses behind the fairness book, internal committee review, the opinion letter, shareholder disclosure and the deals where independence is tested hardest.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "fairness-opinions",
+        "knowledge-worker",
+        "fairness-opinion",
+        "special-committee",
+        "fairness-committee",
+        "proxy-disclosure",
+        "independence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/fairness-opinions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5c42a957247f4361166a2ffe9d5113c12e6d369b011bcddf1793713ee3037490"
+    },
+    {
+      "id": "investment-banking.follow-ons-and-block-trades",
+      "name": "Follow-Ons and Block Trades",
+      "description": "Overnight bookbuilds and block trades from the banker's seat: product mechanics, wall-crossing scripts, discount and sizing work, lock-up calendars, execution checklists and the debriefs that make the next night faster.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "follow-ons-and-block-trades",
+        "knowledge-worker",
+        "ecm",
+        "accelerated-bookbuild",
+        "block-trades",
+        "lock-ups",
+        "syndicate"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/follow-ons-and-block-trades.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6fe54a1e745bc1a32667fc589fd1c0f8112b7cdd21bbc6fd41d0da1c42dc4a28"
+    },
+    {
+      "id": "investment-banking.ib-analyst-training-programme",
+      "name": "IB Analyst Training Programme",
+      "description": "From signed offer to first week on the desk: pre-reading, accounting and modelling courses, graded tests, firm templates, cohort and cross-group networking, and the habits that make the training stick.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "ib-analyst-training-programme",
+        "knowledge-worker",
+        "student",
+        "analyst-training",
+        "financial-modelling",
+        "accounting",
+        "new-analyst"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/ib-analyst-training-programme.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:dfe249cae10383b062c3deb451f139ffcd52a3efcbffade18d50e4ba2f0a6625"
+    },
+    {
+      "id": "investment-banking.ib-analyst-workflow",
+      "name": "IB Analyst Workflow",
+      "description": "An analyst's operating system across live deals: one task list, clean folders and versions, a request intake that captures deadlines, a pre-send check, honest status updates and weekends you actually keep.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "ib-analyst-workflow",
+        "knowledge-worker",
+        "analyst",
+        "task-management",
+        "version-control",
+        "workload",
+        "productivity"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/ib-analyst-workflow.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:a1b9ebc6aca0237c7f38569b51581553323d84895a77df0dae68d3490586c32e"
+    },
+    {
+      "id": "investment-banking.independent-valuation-engagements",
+      "name": "Independent Valuation Engagements",
+      "description": "Valuation reports that hold up: engagement acceptance and scope, standards of value, data and fieldwork, reasoned conclusions, second review, and the transaction, dispute and financial reporting work that follows.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "independent-valuation-engagements",
+        "knowledge-worker",
+        "valuation-reports",
+        "fair-value",
+        "purchase-price-allocation",
+        "expert-witness",
+        "impairment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/independent-valuation-engagements.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:eb1c8ccd06bb4f918a5bb58470c88a9041dab0eabc54721e4f2bf5ea50c0a310"
+    },
+    {
+      "id": "investment-banking.industry-coverage-group-work",
+      "name": "Industry Coverage Group Work",
+      "description": "Sector knowledge built on purpose: a coverage universe map, company profiles, earnings and deal trackers, a weekly market update, an idea log and the habits that make you the person who knows the sector.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "industry-coverage-group-work",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "sector-coverage",
+        "market-updates",
+        "idea-generation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/industry-coverage-group-work.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:bd5ced211a1ff64f8d3a90b4bf6cff6a0e379aa8eef50f468701d5887c1ff3a0"
+    },
+    {
+      "id": "investment-banking.information-memorandum-drafting",
+      "name": "Information Memorandum Drafting",
+      "description": "A working method for the confidential information memorandum: scope and contents, sourced facts, the equity story, business, market and financial sections, model tie-outs, counsel's pages and client sign-off.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "information-memorandum-drafting",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "cim",
+        "sell-side",
+        "deal-documents"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/information-memorandum-drafting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:4150e6a082af4c563b19e47a9cfdc2d8fda24f9150f5396793d9380132c2f636"
+    },
+    {
+      "id": "investment-banking.ipo-execution-ecm",
+      "name": "IPO Execution (ECM)",
+      "description": "An IPO worked from the ECM seat: the bake-off and mandate, readiness and timetable, prospectus drafting and diligence, valuation and price range, analyst day, roadshow, bookbuild, pricing night and the aftermarket.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "ipo-execution-ecm",
+        "knowledge-worker",
+        "ecm",
+        "ipo",
+        "prospectus",
+        "bookbuilding",
+        "equity-capital-markets"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/ipo-execution-ecm.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:78784dca209a059dd23dd358acb8fb708736e40d3b117bbb41afc40d6ce5ee7e"
+    },
+    {
+      "id": "investment-banking.league-tables-and-credentials",
+      "name": "League Tables and Credentials",
+      "description": "Deal credentials you can defend: a clean deal record for every mandate, league table submissions on time, tombstones and credentials pages that match the record, and consent and compliance checks before anything is shown.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "league-tables-and-credentials",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "league-tables",
+        "tombstones",
+        "deal-records"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/league-tables-and-credentials.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:8b83a008bc8dea67f114328a830fcc1f440307c9d932c28a73692315ee121ef1"
+    },
+    {
+      "id": "investment-banking.leveraged-finance-deals",
+      "name": "Leveraged Finance Deals",
+      "description": "Leveraged loans and high-yield bonds from the banker's seat: debt capacity, credit memos, commitment papers, covenants, syndication, lender marketing and the specialist structures seniors expect you to know.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "leveraged-finance-deals",
+        "knowledge-worker",
+        "leveraged-loans",
+        "high-yield",
+        "covenants",
+        "syndication",
+        "lbo-financing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/leveraged-finance-deals.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6a18d79c203460980d1ae48650adc63ad3812ff6f99479efaacf36ed68362dc7"
+    },
+    {
+      "id": "investment-banking.liability-management-exercises",
+      "name": "Liability Management Exercises",
+      "description": "A working kit for liability management: tender, exchange, consent and amend and extend tools, debt stack and document maps, pricing and participation analysis, live offer timetables and the specialist distressed structures.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "liability-management-exercises",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "tender-offers",
+        "exchange-offers",
+        "consent-solicitations"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/liability-management-exercises.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0d5e60ef21647590fc7116eef56a5297140499aa202280d193e9e60fdc172aea"
+    },
+    {
+      "id": "investment-banking.management-presentations",
+      "name": "Management Presentations",
+      "description": "Management presentations from the banker's side: the line-up, storyline and deck, question banks and rehearsals, site visits, bidder sessions, debriefs and the variants for founders, carve-outs and distressed sales.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "management-presentations",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "sell-side",
+        "management-meetings",
+        "rehearsals"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/management-presentations.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:e99b8456ba85585d3375fcd425661630443a8d960ad5716f5fdeecf14574f60a"
+    },
+    {
+      "id": "investment-banking.merger-models-and-accretion-dilution",
+      "name": "Merger Models and Accretion Dilution",
+      "description": "A merger model you can build, defend and turn overnight: share counts, offer bridge, financing mix, purchase accounting, synergies, pro forma EPS, contribution and ownership, plus the checks and specialist cases.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "merger-models-and-accretion-dilution",
+        "knowledge-worker",
+        "m-and-a",
+        "accretion-dilution",
+        "pro-forma-eps",
+        "synergies",
+        "purchase-accounting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/merger-models-and-accretion-dilution.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:37fdc3e1fc3d874c5208627cc8f764d0796c8bae5f3fea41598e6669555ae8bd"
+    },
+    {
+      "id": "investment-banking.pitch-book-preparation",
+      "name": "Pitch Book Preparation",
+      "description": "A pitch book craft and routine: house pages, ghost decks, sourced numbers, valuation and buyer pages, process options, proofing checklists and overnight turns that land without errors.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "pitch-book-preparation",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "pitch-books",
+        "presentations",
+        "valuation-pages"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/pitch-book-preparation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:02543cb24b01fc14f9b10d6d704a1304e3ed63aa5ae3d5fe04cd4fa2d670f14f"
+    },
+    {
+      "id": "investment-banking.precedent-transactions-analysis",
+      "name": "Precedent Transactions Analysis",
+      "description": "Precedent transaction tables you can defend: sourcing deals from filings, deal value bridges, LTM multiples at announcement, control premiums, relevance screening and a clearly argued valuation range.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "precedent-transactions-analysis",
+        "knowledge-worker",
+        "student",
+        "valuation",
+        "m-and-a",
+        "transaction-multiples",
+        "control-premium"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/precedent-transactions-analysis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4c5edcc71c4e9e055bbf56eba37404e400ce36ddfc0a058b9ed84d940c77e7aa"
+    },
+    {
+      "id": "investment-banking.privatisation-public-sector-advisory",
+      "name": "Privatisation and Public Sector Advisory",
+      "description": "Advising governments and state enterprises from the banker's seat: sale methods, approvals and political timelines, transparency and probity, value for money, fiscal impact and the dated events from cabinet to completion.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "privatisation-public-sector-advisory",
+        "knowledge-worker",
+        "privatisation",
+        "public-private-partnerships",
+        "state-owned-enterprises",
+        "government-advisory",
+        "value-for-money"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/privatisation-public-sector-advisory.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5d7015b78b27bdd7c413446ff1945b97eb33a2901f24856d146bdc28342d4968"
+    },
+    {
+      "id": "investment-banking.project-finance-advisory",
+      "name": "Project Finance Advisory",
+      "description": "A project finance adviser's working method: the contract map and risk matrix, a cash flow model lenders trust, debt sizing on DSCR, lender due diligence, term sheets, and the conditions precedent that get you to financial close.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "project-finance-advisory",
+        "knowledge-worker",
+        "project-finance",
+        "infrastructure",
+        "energy",
+        "debt-sizing",
+        "financial-close"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/project-finance-advisory.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5235e3b7d901bb642ed8809a858f7f1f015d734b1a6599c502e2c51f298e5287"
+    },
+    {
+      "id": "investment-banking.restructuring-advisory",
+      "name": "Restructuring Advisory",
+      "description": "A restructuring adviser's working method: the debt stack and waterfall, a 13-week cash flow you trust, options and recovery analysis, creditor negotiations, court milestones and the new capital structure.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "restructuring-advisory",
+        "knowledge-worker",
+        "restructuring",
+        "distressed-debt",
+        "liquidity",
+        "creditor-negotiations",
+        "insolvency"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/restructuring-advisory.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:67d134caf25039dd762e212b2f1fae431c714809fb7687e92d4e9442606417d0"
+    },
+    {
+      "id": "investment-banking.sell-side-data-room-and-qa",
+      "name": "Sell-Side Data Room and Q&A",
+      "description": "A sell-side data room and Q&A system: provider choice, index and request lists, access by bidder and phase, a question log with client-approved answers, audit trails, freeze and close-out.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "sell-side-data-room-and-qa",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "data-room",
+        "due-diligence",
+        "q-and-a"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/sell-side-data-room-and-qa.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7848d0fa3bf465ca5765f3d49f08bf0fd75a1265cf30722d34d0e9977e6a32dd"
+    },
+    {
+      "id": "investment-banking.sell-side-m-and-a-process",
+      "name": "Sell-Side M&A Process",
+      "description": "A sale process you can run end to end: mandate and engagement terms, readiness and timetable, buyer outreach and NDAs, client steering, price mechanics, SPA terms and a controlled path to signing.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "sell-side-m-and-a-process",
+        "knowledge-worker",
+        "m-and-a",
+        "sell-side",
+        "auction",
+        "deal-execution",
+        "process-management"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/sell-side-m-and-a-process.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:bcfda1de3b6dc6e8ffe11208082c8e2ed73078d94472350cbb61ecaec9a49a58"
+    },
+    {
+      "id": "investment-banking.signing-to-closing-workstreams",
+      "name": "Signing to Closing Workstreams",
+      "description": "The period between signing and closing, run like a programme: conditions precedent and filings tracked, interim covenants respected, funds flow rehearsed, closing checklists turned and announcements ready on the day.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "signing-to-closing-workstreams",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "conditions-precedent",
+        "funds-flow",
+        "closing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/signing-to-closing-workstreams.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d44d4630d4f892b80ed6b058951be50f33a5bf1541c3120bfc4d728c2597a46e"
+    },
+    {
+      "id": "investment-banking.trading-comparables-analysis",
+      "name": "Trading Comparables Analysis",
+      "description": "Trading comps you can defend line by line: a clean EV bridge and share count, calendarised and cleaned EBITDA and EPS, a peer set with reasons, multiple ranges, footnotes and refresh routines.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "trading-comparables-analysis",
+        "knowledge-worker",
+        "student",
+        "valuation",
+        "trading-comps",
+        "multiples",
+        "equity-research"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/trading-comparables-analysis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:a0ba4d3abcfe002827bd88731fa4b73c0e2eded55741f89b08592bdb22cbd514"
+    },
+    {
       "id": "mental-wellbeing.addiction-recovery-sobriety",
       "name": "Addiction Recovery & Sobriety",
       "description": "A safe way to stop, a recovery community and sponsor, a written relapse plan, the daily and weekly routines that keep you sober, and the milestones and repairs of a life in recovery.",
@@ -15417,6 +16453,258 @@
       "contentHash": "sha256:43c64d84e36e3f2ba8126737bda2fa48ebe5e6d57a54f4f9fcb7f6595e6ffdb5"
     },
     {
+      "id": "private-equity-vc.100-day-plans",
+      "name": "100-Day Plans",
+      "description": "A working hundred-day programme after an acquisition: charter and day-one readiness, governance and reporting packs, cash control, quick wins, key hires, finance upgrades and the early risks.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "100-day-plans",
+        "knowledge-worker",
+        "manager",
+        "private-equity",
+        "post-acquisition",
+        "portfolio-operations",
+        "integration"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/100-day-plans.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4d2c33b6ef74949b65596682eb4a398046cf4891a5e21472f2661a5706307628"
+    },
+    {
+      "id": "private-equity-vc.add-on-acquisitions",
+      "name": "Add-On Acquisitions",
+      "description": "A working buy-and-build programme: add-on criteria and target maps, owner outreach, debt capacity for add-ons, integration playbooks, synergies tracking and an honest ledger of what multiple arbitrage is really worth.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "add-on-acquisitions",
+        "knowledge-worker",
+        "buy-and-build",
+        "roll-up",
+        "integration",
+        "multiple-arbitrage",
+        "owner-outreach"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/add-on-acquisitions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:4c91f9600b1899053dd02b215ff541b7401a7eccd34d19a158d15e7b52f23815"
+    },
+    {
+      "id": "private-equity-vc.angel-to-fund-manager",
+      "name": "Angel to Fund Manager",
+      "description": "The step from writing your own angel cheques to looking after other people's money: an honest record of your angel deals, a first SPV, a small fund if it is right, and the duties, conflicts and reporting that come with it.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "angel-to-fund-manager",
+        "founder",
+        "angel-investor",
+        "spv",
+        "nano-fund",
+        "solo-gp",
+        "fiduciary-duty"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/angel-to-fund-manager.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5ccfaa05c02cd0c2667dcf66b286501a93a04a8618ebded7a3ffba4c459bb42f"
+    },
+    {
+      "id": "private-equity-vc.breaking-into-venture-capital",
+      "name": "Breaking Into Venture Capital",
+      "description": "A clear route into a venture job from operating, banking, startups or university: a target fund list, a public point of view, steady partner conversations, small learning cheques and interview practice that holds up.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "breaking-into-venture-capital",
+        "knowledge-worker",
+        "student",
+        "venture-capital",
+        "careers",
+        "interviews",
+        "networking"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/breaking-into-venture-capital.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3d403b64e1a4b9df6e4368247f3bc1b4f9a9b1fa1575872bb4a27d6f7ab42580"
+    },
+    {
+      "id": "private-equity-vc.caribbean-private-capital-deals",
+      "name": "Caribbean Private Capital Deals",
+      "description": "Caribbean private deals done with care: market and currency maps, family owner relationships, DFI co-investment, exchange controls, governance upgrades and realistic exit routes across the region.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "caribbean-private-capital-deals",
+        "knowledge-worker",
+        "founder",
+        "caribbean",
+        "family-business",
+        "development-finance",
+        "currency-risk"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/caribbean-private-capital-deals.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:93b4d0cff73ad3eade40b16a8de7df9fd4da5882e240ae1fb56c1c34b2b16660"
+    },
+    {
+      "id": "private-equity-vc.carried-interest-and-waterfalls",
+      "name": "Carried Interest and Waterfalls",
+      "description": "Carried interest you can read, model and check: European and American waterfalls, hurdle and catch-up, clawback exposure, a personal carry ledger, team allocation and vesting, from a first award letter to a fund wind-up.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "carried-interest-and-waterfalls",
+        "knowledge-worker",
+        "founder",
+        "carried-interest",
+        "distribution-waterfall",
+        "clawback",
+        "hurdle-rate"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/carried-interest-and-waterfalls.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:01b7126db29f9a4b1fea8e7dc0976f9e45e310bc9f7778b623342a64cd3e54c0"
+    },
+    {
+      "id": "private-equity-vc.co-investment-deals",
+      "name": "Co-Investment Deals",
+      "description": "A written allocation policy, standard co-invest terms and SPV structure agreed with counsel, a co-investor map, fast underwriting habits for LPs and the routines that keep every co-investor informed from offer to exit.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "co-investment-deals",
+        "knowledge-worker",
+        "co-investment",
+        "allocation-policy",
+        "spv",
+        "limited-partners",
+        "syndication"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/co-investment-deals.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:576b3e3936dd97db0a4e221e6c1c9bfaa7d61dcd063e36e7e1ea151d940b1e27"
+    },
+    {
+      "id": "private-equity-vc.commercial-due-diligence",
+      "name": "Commercial Due Diligence",
+      "description": "Key diligence questions, a scoped adviser, a customer call programme, market sizing you can defend and a findings log that feeds the model, so the commercial case you take to committee is tested, not assumed.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "commercial-due-diligence",
+        "knowledge-worker",
+        "cdd",
+        "customer-calls",
+        "market-sizing",
+        "competitor-review",
+        "expert-networks"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/commercial-due-diligence.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:c42bf170525f04f74ce2c060ed5834f85be15ac7ed24d0fa0037e9253c1e8109"
+    },
+    {
+      "id": "private-equity-vc.deal-pipeline-crm",
+      "name": "Deal Pipeline CRM",
+      "description": "Clear stages, clean intermediary and relationship records, a weekly partner pipeline pack and a hygiene routine, so the deal system you run in DealCloud, Affinity or a spreadsheet is one the team trusts.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "deal-pipeline-crm",
+        "knowledge-worker",
+        "team",
+        "dealcloud",
+        "affinity",
+        "pipeline-reporting",
+        "data-hygiene"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/deal-pipeline-crm.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:aa447b5e6fc3fb86db08303cc68020714bcb1fa5e92f9759d1293c197d9b635f"
+    },
+    {
       "id": "private-equity-vc.deal-screening-and-first-look",
       "name": "Deal Screening and First Look",
       "description": "Written screening criteria, a one-page first look, a red flag library, a weekly partner screen and a clear yes, no or wait on every teaser, so your time goes to the deals that can actually close.",
@@ -15443,6 +16731,286 @@
         "totalTasks": 190
       },
       "contentHash": "sha256:8ef17887967cb006612fe6b12bf337950340368d7161206e29c94eb72000edea"
+    },
+    {
+      "id": "private-equity-vc.early-stage-startup-diligence",
+      "name": "Early-Stage Startup Diligence",
+      "description": "A repeatable way to diligence seed and Series A companies: founder references, customer calls, product and tech review, cap table checks, and a written rule for when you know enough to decide.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "early-stage-startup-diligence",
+        "knowledge-worker",
+        "venture-capital",
+        "seed",
+        "series-a",
+        "references",
+        "cap-table"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/early-stage-startup-diligence.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:47807bef95728d1051ffd646be6a6b697577a900ec8e379fa496fadb2e9ab294"
+    },
+    {
+      "id": "private-equity-vc.emerging-manager-fund-launch",
+      "name": "Emerging Manager Fund Launch",
+      "description": "A route from the decision to launch to the first close of your first fund: a written strategy, an evidenced track record, the GP entity, fund counsel, the PPM and LPA, anchor investors and a first close day that runs to plan.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "emerging-manager-fund-launch",
+        "founder",
+        "emerging-manager",
+        "first-time-fund",
+        "fund-formation",
+        "anchor-investors",
+        "first-close"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/emerging-manager-fund-launch.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:52bd92209c9f01a6bebca52f1ba8f6b8a6736f14de388d73dfdb9fced9dc033a"
+    },
+    {
+      "id": "private-equity-vc.financial-due-diligence-qoe",
+      "name": "Financial Due Diligence (QoE)",
+      "description": "A scoped request list, an EBITDA bridge you can defend, a working capital peg, a net debt schedule and a findings log that turns every diligence issue into a price, structure or protection decision.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "financial-due-diligence-qoe",
+        "knowledge-worker",
+        "quality-of-earnings",
+        "normalised-ebitda",
+        "working-capital",
+        "net-debt",
+        "buyouts"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/financial-due-diligence-qoe.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:c82b05488b1bcce4d74184a9af290228b6651bc62eddc640f00c92ce33ab5a6d"
+    },
+    {
+      "id": "private-equity-vc.follow-on-investment-decisions",
+      "name": "Follow-On Investment Decisions",
+      "description": "A written follow-on policy, a live reserves ledger, pro rata rights on file, a scorecard and rationale for every later-round cheque, and honest hindsight reviews.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "follow-on-investment-decisions",
+        "knowledge-worker",
+        "venture-capital",
+        "reserves",
+        "pro-rata",
+        "follow-on",
+        "portfolio-management"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/follow-on-investment-decisions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:7c9b8e0dfa44dfa27f37c5c964ca40b075f928dbf3ffb8e062f343511e534ee4"
+    },
+    {
+      "id": "private-equity-vc.fund-administration",
+      "name": "Fund Administration",
+      "description": "A working fund administration set-up: capital calls and distributions that land cleanly, NAV and register checks, payment controls, audit support and a clear way to choose, manage or switch an administrator.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "fund-administration",
+        "founder",
+        "knowledge-worker",
+        "capital-calls",
+        "nav",
+        "investor-register",
+        "fund-operations"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/fund-administration.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:b6ccd642d8b4a9f96cb7dbe028fc268d105189796879e369378b2e7cef17a59e"
+    },
+    {
+      "id": "private-equity-vc.fund-compliance-and-regulatory-filings",
+      "name": "Fund Compliance and Regulatory Filings",
+      "description": "A working compliance programme for your own fund manager: registration or exemption settled with counsel, a filing calendar, investor AML and KYC, a conflicts register, a code of ethics and the yearly review that proves it all runs.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "fund-compliance-and-regulatory-filings",
+        "founder",
+        "emerging-manager",
+        "compliance",
+        "aml-kyc",
+        "regulatory-filings",
+        "conflicts"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/fund-compliance-and-regulatory-filings.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3cc882ccb38f48ffdc090581009fb5169ae72d0ad22146c4e1c6cf3574c6078a"
+    },
+    {
+      "id": "private-equity-vc.fund-terms-and-lpa-negotiation",
+      "name": "Fund Terms and LPA Negotiation",
+      "description": "A negotiating method for your own fund's terms: a market benchmark, a term sheet with walk-away lines, LP markups and side letters tracked, MFN rounds run cleanly and every promise kept after closing.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "fund-terms-and-lpa-negotiation",
+        "founder",
+        "emerging-manager",
+        "lpa",
+        "side-letters",
+        "ilpa",
+        "fund-terms"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/fund-terms-and-lpa-negotiation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9043ff306ae811fbce9c06dcfb4b8b2ab6ebddee8fc78143c0ee3b148ec34362"
+    },
+    {
+      "id": "private-equity-vc.gp-economics-and-management-fees",
+      "name": "GP Economics and Management Fees",
+      "description": "A fee income schedule, a management company budget and breakeven, a funded GP commitment, monthly cash and cost reviews, and an economics plan that carries a manager from Fund I to Fund III.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "gp-economics-and-management-fees",
+        "founder",
+        "management-company",
+        "management-fees",
+        "gp-commitment",
+        "fund-budgeting",
+        "emerging-manager"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/gp-economics-and-management-fees.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:689061cd4b866ef90b0b5c599e1c1011d314f8b3b18efbc1783602aae26cc103"
+    },
+    {
+      "id": "private-equity-vc.growth-equity-investing",
+      "name": "Growth Equity Investing",
+      "description": "A working method for minority growth investments: clear criteria, a standard term sheet and protective provisions, growth diligence on cohorts and unit economics, and a steady rhythm of working alongside founders who keep control.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "growth-equity-investing",
+        "knowledge-worker",
+        "minority-investing",
+        "term-sheets",
+        "growth-diligence",
+        "protective-provisions",
+        "founders"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/growth-equity-investing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:0c5cf0d477202e4f653f3e7531821e93d890503bf9d1681623485dd64843b2e2"
+    },
+    {
+      "id": "private-equity-vc.independent-sponsor-deals",
+      "name": "Independent Sponsor Deals",
+      "description": "A sponsor credibility pack, a deal pipeline and capital partner map, fee and promote terms agreed with counsel, and the routines that take one buyout from first owner call to closing without a committed fund.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "independent-sponsor-deals",
+        "founder",
+        "independent-sponsor",
+        "capital-partners",
+        "promote",
+        "lower-mid-market",
+        "buyouts"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/independent-sponsor-deals.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:38b08166615402284f98c836579308c196234eb798929425b0201d1e79757f32"
     },
     {
       "id": "private-equity-vc.investment-committee-memos",
@@ -15528,6 +17096,230 @@
       "contentHash": "sha256:643085605fca171821fc9c6d74c113ab985ae26dda947a582fc7ad67e94c4505"
     },
     {
+      "id": "private-equity-vc.leading-an-angel-syndicate",
+      "name": "Leading an Angel Syndicate",
+      "description": "A syndicate thesis, a platform and carry terms set up properly, deal launches that close on time, honest backer communication, fair allocations and the reporting backers need from first SPV to final distribution.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "leading-an-angel-syndicate",
+        "founder",
+        "knowledge-worker",
+        "syndicates",
+        "spv",
+        "angel-investing",
+        "carry"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/leading-an-angel-syndicate.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:146fabcec624000dafb6ad2a1d3a31a90ab4f572d9b0f52f90c980cdc95c1cbf"
+    },
+    {
+      "id": "private-equity-vc.lois-and-bid-letters",
+      "name": "LOIs and Bid Letters",
+      "description": "A house bid letter template, a binding versus non-binding map agreed with counsel, funding evidence, walk-away prices, a live bid tracker and the drafting skills that keep an IOI or LOI credible from first round to signing.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "lois-and-bid-letters",
+        "knowledge-worker",
+        "founder",
+        "loi",
+        "ioi",
+        "bid-letters",
+        "exclusivity"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/lois-and-bid-letters.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0594b52b17daa10afec8b644df1a74dfcf0d542b1dc0ab825da079cac886bce5"
+    },
+    {
+      "id": "private-equity-vc.lp-reporting-and-annual-meetings",
+      "name": "LP Reporting and Annual Meetings",
+      "description": "LP reporting that arrives on time and answers the questions: an obligations map, a valuation policy, quarterly reports and capital account statements, ILPA templates, an LP enquiry log and an annual meeting worth the flight.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "lp-reporting-and-annual-meetings",
+        "founder",
+        "knowledge-worker",
+        "investor-relations",
+        "quarterly-reporting",
+        "ilpa",
+        "fund-valuation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/lp-reporting-and-annual-meetings.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:35be33b44ac47ec9c3d2edbd36a5459c245cfb9d4f09e832038fd3aae6912487"
+    },
+    {
+      "id": "private-equity-vc.management-incentive-plans",
+      "name": "Management Incentive Plans",
+      "description": "A route from first principles to a signed management equity plan: instrument choice, pool sizing, sweet equity and the envy ratio, vesting and leaver terms, a register that stays reconciled, and a plan the team actually understands.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "management-incentive-plans",
+        "knowledge-worker",
+        "sweet-equity",
+        "management-equity",
+        "leaver-terms",
+        "vesting",
+        "envy-ratio"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/management-incentive-plans.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d18d8d7ce42d74c3fa43c64d2578b5a8d8329b510faf2919b0bd3815f3b499b4"
+    },
+    {
+      "id": "private-equity-vc.management-team-assessment",
+      "name": "Management Team Assessment",
+      "description": "A scorecard, a question bank and a reference routine for judging the leaders you back, plus a gap analysis and a post-close hiring plan, so people risk is priced into the deal rather than discovered after it.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "management-team-assessment",
+        "knowledge-worker",
+        "management-diligence",
+        "references",
+        "executive-interviews",
+        "leadership-gaps",
+        "post-close-hiring"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/management-team-assessment.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:175caca9f66b60f7d0610e6b81fa15bfe2d9387f455b325df45e625bcb720395"
+    },
+    {
+      "id": "private-equity-vc.operating-partner-role",
+      "name": "Operating Partner Role",
+      "description": "Set up and run the operating partner role: a clear mandate, an engagement model with deal teams, CEO support, functional playbooks, interim seats and evidence of what the operating team adds.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "operating-partner-role",
+        "knowledge-worker",
+        "manager",
+        "private-equity",
+        "portfolio-operations",
+        "operating-partner",
+        "interim-executive"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/operating-partner-role.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:dd92954b81c8813ceb8387dff5b39fcaaf778d91f4039608aef22337ca528b59"
+    },
+    {
+      "id": "private-equity-vc.pe-associate-years",
+      "name": "PE Associate Years",
+      "description": "A plan for the private equity associate years: a strong start at the fund, deal execution routines, diligence and adviser management, portfolio duties, feedback and reviews, and a clear promotion, move or MBA decision.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "pe-associate-years",
+        "knowledge-worker",
+        "associate",
+        "deal-execution",
+        "career",
+        "mba-decision",
+        "diligence-management"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/pe-associate-years.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:dd6093ed0dd49bbcc304e5c645f3874362fd7f1f8e36af3b3794eabb8f7550ec"
+    },
+    {
+      "id": "private-equity-vc.pe-career-progression-to-partner",
+      "name": "PE Career Progression to Partner",
+      "description": "Move from VP to principal and partner on purpose: real promotion criteria, origination credit, leading deals, the carry conversation, sponsorship inside the partnership and a clear-eyed call on starting your own firm.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "pe-career-progression-to-partner",
+        "knowledge-worker",
+        "private-equity",
+        "promotion",
+        "origination",
+        "carried-interest",
+        "partnership"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/pe-career-progression-to-partner.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:49cd9e8d149c0172074be82f2553730ef3e30c87715744b9573950d2a31619d0"
+    },
+    {
       "id": "private-equity-vc.pe-deal-sourcing",
       "name": "PE Deal Sourcing",
       "description": "A written buy box, a tiered map of intermediaries, steady owner outreach, conference plans and a channel scorecard, so buyout opportunities arrive from sources you can name and measure.",
@@ -15554,6 +17346,509 @@
         "totalTasks": 204
       },
       "contentHash": "sha256:003ce4e6274c267260599d134c9cbfe4450b3674e2a8311aaa42ec9a0fe3beab"
+    },
+    {
+      "id": "private-equity-vc.pe-fund-lp-fundraising",
+      "name": "PE Fund LP Fundraising",
+      "description": "A scored LP target list, a deck, data room and DDQ library that survive scrutiny, a placement agent decision, operational due diligence readiness and the weekly pipeline machinery that carries a fund from launch to final close.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "pe-fund-lp-fundraising",
+        "founder",
+        "knowledge-worker",
+        "limited-partners",
+        "fundraising",
+        "investor-relations",
+        "placement-agents"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/pe-fund-lp-fundraising.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:00b10a52045188ea70516b001dd10a47d6f8fdb2b1c785f39c1b4eccabe6a037"
+    },
+    {
+      "id": "private-equity-vc.portfolio-company-board-work",
+      "name": "Portfolio Company Board Work",
+      "description": "The governance papers read, a board pack and KPI set agreed, routines for meetings, minutes, approvals and the CEO relationship, and clear rules for when an investor director steps in.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "portfolio-company-board-work",
+        "knowledge-worker",
+        "investor-director",
+        "board-packs",
+        "governance",
+        "reserved-matters",
+        "ceo-relationship"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/portfolio-company-board-work.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a98e5d446446c57e369868f6ba6bb32c89116a9b03074fa16e36905d41d3f1dc"
+    },
+    {
+      "id": "private-equity-vc.portfolio-company-exit-planning",
+      "name": "Portfolio Company Exit Planning",
+      "description": "Prepare a portfolio company for sale from early in the hold: exit routes and timing, buyer maps, vendor due diligence, the equity story, adviser choice and a sale run with management.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "portfolio-company-exit-planning",
+        "knowledge-worker",
+        "private-equity",
+        "exit-planning",
+        "sale-process",
+        "vendor-due-diligence",
+        "equity-story"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/portfolio-company-exit-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:964f8e4921de13bb63888ad1cd764267af63ebe1b62709647350fe76246297d7"
+    },
+    {
+      "id": "private-equity-vc.portfolio-monitoring-and-kpis",
+      "name": "Portfolio Monitoring and KPIs",
+      "description": "A standard monthly pack, a KPI dictionary and dashboard, covenant headroom checks, an early warning watchlist and quarterly valuation workpapers for tracking portfolio companies between board meetings.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "portfolio-monitoring-and-kpis",
+        "knowledge-worker",
+        "portfolio-monitoring",
+        "kpi-dashboards",
+        "covenants",
+        "valuation",
+        "early-warning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/portfolio-monitoring-and-kpis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:271140e4f9ee4ed643c143718dfa494ebb44613ffc476681893757582dbbe5c1"
+    },
+    {
+      "id": "private-equity-vc.search-fund-acquisition-phase",
+      "name": "Search Fund Acquisition Phase",
+      "description": "Written acquisition criteria, a weekly owner outreach engine, a pipeline you review every Friday, LOIs and exclusivity run to a plan, the acquisition equity raise and a step-up you can calculate before closing.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "search-fund-acquisition-phase",
+        "founder",
+        "searcher",
+        "search-fund",
+        "small-business-acquisition",
+        "loi",
+        "step-up"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/search-fund-acquisition-phase.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:23745ba03447fd4789f8771964bb8414d087152b2ac8617932cdfe41d14ab911"
+    },
+    {
+      "id": "private-equity-vc.search-fund-launch",
+      "name": "Search Fund Launch",
+      "description": "From the decision to search to a funded search vehicle and a working first quarter: the model chosen, the economics understood, the budget and raise sized, counsel and the entity in place, search investors signed and the search running.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "search-fund-launch",
+        "founder",
+        "searcher",
+        "search-capital",
+        "traditional-search-fund",
+        "search-investors",
+        "entrepreneurship-through-acquisition"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/search-fund-launch.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:09422fc2d53328b486537c10788586c35dfda2484151fc305eee3fb072f3c8a3"
+    },
+    {
+      "id": "private-equity-vc.searcher-as-ceo",
+      "name": "Searcher as CEO",
+      "description": "Run the business you bought through a search fund: the seller handover, a first board, careful early changes, the team you build and honest reporting to search investors.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "searcher-as-ceo",
+        "founder",
+        "manager",
+        "search-fund",
+        "ceo-transition",
+        "small-business-ownership",
+        "investor-reporting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/searcher-as-ceo.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:d723e32210e757a6bee0198a810efc96a045dc26e1fec6d4e210011074e12b87"
+    },
+    {
+      "id": "private-equity-vc.secondaries-and-continuation-funds",
+      "name": "Secondaries and Continuation Funds",
+      "description": "A working secondaries practice: the market map, LP portfolio pricing, GP-led continuation vehicles, conflicts and fairness, transfer mechanics and LP communication, organised for the deal professional doing the work.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "secondaries-and-continuation-funds",
+        "knowledge-worker",
+        "secondaries",
+        "continuation-vehicles",
+        "gp-led",
+        "lp-portfolio-sales",
+        "nav-pricing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/secondaries-and-continuation-funds.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:226e07e8c38ab3b9dc13f00cb5867834d5ef15dd0f51584bdac8e647d1fa56cc"
+    },
+    {
+      "id": "private-equity-vc.track-record-and-attribution",
+      "name": "Track Record and Attribution",
+      "description": "A track record other people can check: every deal inventoried, dated cash flows, gross and net returns calculated one consistent way, credit attributed honestly to you and your team, and clear rules for when and how you may show it.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "track-record-and-attribution",
+        "knowledge-worker",
+        "founder",
+        "irr",
+        "gross-and-net-returns",
+        "attribution",
+        "gips"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/track-record-and-attribution.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:5d932f743cf446004717e048afbb3037555b85d316f24eda3482108adc4850cb"
+    },
+    {
+      "id": "private-equity-vc.value-creation-plans",
+      "name": "Value Creation Plans",
+      "description": "Turn an investment thesis into a value creation plan with sized levers, named owners, milestones and leading indicators, then track it monthly and report slips honestly.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "value-creation-plans",
+        "knowledge-worker",
+        "manager",
+        "private-equity",
+        "portfolio-operations",
+        "ebitda-bridge",
+        "initiative-tracking"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/value-creation-plans.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:aa5e5604d6d80dd25c8419d60c0354a9dd08b52e2376977d113b4b92223b0f39"
+    },
+    {
+      "id": "private-equity-vc.vc-board-seats",
+      "name": "VC Board Seats",
+      "description": "A clear brief for every venture board seat you hold: the charter read as a director, duties to all shareholders, a working pact with the founder, steady meeting routines, and a calm process for down rounds and wind-downs.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "vc-board-seats",
+        "knowledge-worker",
+        "board-of-directors",
+        "fiduciary-duties",
+        "founders",
+        "down-rounds",
+        "startup-governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/vc-board-seats.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 184
+      },
+      "contentHash": "sha256:8d5a28198f2113da0e314907be364bb80bceb9f80cfdf3a2c836c281f8a19a08"
+    },
+    {
+      "id": "private-equity-vc.vc-career-growth",
+      "name": "VC Career Growth",
+      "description": "A route from analyst to partner in venture: a written promotion ladder, a sourcing edge you own, deals you champion to approval, a prediction log that proves judgement and the big career calls along the way.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "vc-career-growth",
+        "knowledge-worker",
+        "venture-capital",
+        "promotion",
+        "carried-interest",
+        "sourcing",
+        "investor-judgement"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/vc-career-growth.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:55dac86b88578f5820b161b57599c4e110ab6353dd42640359d3566f4c7cc869"
+    },
+    {
+      "id": "private-equity-vc.vc-deal-flow",
+      "name": "VC Deal Flow",
+      "description": "A clear statement of what you back, an inbound routine founders respect, steady outbound and community work, and a source scorecard that shows which channels actually produce investments.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "vc-deal-flow",
+        "knowledge-worker",
+        "sourcing",
+        "inbound",
+        "accelerators",
+        "founder-communities",
+        "venture-capital"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/vc-deal-flow.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:15bc90ac7000a8f7fd7ef81db07900db3d308f88533bd4c43883ffbbbb991aac"
+    },
+    {
+      "id": "private-equity-vc.vc-portfolio-construction",
+      "name": "VC Portfolio Construction",
+      "description": "A written fund strategy, investable capital, company count, cheque sizes, ownership targets and reserves, turned into a working model of the fund's return paths that you reforecast every quarter.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "vc-portfolio-construction",
+        "knowledge-worker",
+        "founder",
+        "reserves",
+        "ownership",
+        "power-law",
+        "fund-model"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/vc-portfolio-construction.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:0febec3b46ce34b5b099966d87c18153346feb1ef8beb2a99164980a54fd610c"
+    },
+    {
+      "id": "private-equity-vc.vc-portfolio-support",
+      "name": "VC Portfolio Support",
+      "description": "A support promise you can keep, a request log, introductions founders welcome, hiring and fundraising help that lands, and an honest read on whether any of it made a difference.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "vc-portfolio-support",
+        "knowledge-worker",
+        "platform",
+        "founder-support",
+        "introductions",
+        "startup-hiring",
+        "venture-capital"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/vc-portfolio-support.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:09653fd853274b944dfe759a4a47bb524ba5709325c35c08f39cbc85d0a01f59"
+    },
+    {
+      "id": "private-equity-vc.venture-investment-memos",
+      "name": "Venture Investment Memos",
+      "description": "A working system for venture investment memos: your fund's standard, tight team, market, traction and why-now sections, honest risks, clear round terms and a follow-on view partners can read in ten minutes.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "venture-investment-memos",
+        "knowledge-worker",
+        "venture-capital",
+        "investment-memo",
+        "partner-meeting",
+        "startups"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/venture-investment-memos.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:27eb4fd4f463a465497bb5ba39a833e9458d9ea20933bc68deb9d9fbd35ed6b3"
+    },
+    {
+      "id": "private-equity-vc.venture-scout-programmes",
+      "name": "Venture Scout Programmes",
+      "description": "A scout agreement you understand, a clear lane and conflict check, a referral routine the fund trusts, carry you can track, and a scouting record that builds your own name in venture.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "venture-scout-programmes",
+        "knowledge-worker",
+        "founder",
+        "scouting",
+        "referrals",
+        "scout-carry",
+        "venture-capital"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/venture-scout-programmes.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:0eead198a616ed4a173baffd6b2c61e241dd948369d84da3d785f61561d35708"
+    },
+    {
+      "id": "private-equity-vc.working-in-corporate-venture-capital",
+      "name": "Working in Corporate Venture Capital",
+      "description": "A working system for investing from inside a corporate venture arm: a clear mandate, a mapped approval path, business unit sponsors, clean information walls, strategic value you can show the parent, and a career plan of your own.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "working-in-corporate-venture-capital",
+        "knowledge-worker",
+        "enterprise",
+        "corporate-venture-capital",
+        "strategic-investing",
+        "business-units",
+        "governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/working-in-corporate-venture-capital.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d2932cc3c68db57e1151893aeaa99aabcdfff7d26aa7031ad6c5b1fa9bb00b5f"
     },
     {
       "id": "professions-trades.accountancy-qualification-path",
@@ -16952,6 +19247,1407 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:dca0f7b118462e1dc3037fdf1e9de0d6795d67daa00ef98cc24e4e03b17dcfed"
+    },
+    {
+      "id": "quant-finance.active-trading-tax-records",
+      "name": "Active Trading Tax Records",
+      "description": "Tax records for active trading kept in order all year: every account inventoried, trade exports and statements filed monthly, cost basis and matching rules tracked, and a clean year-end file for your accountant.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "active-trading-tax-records",
+        "everyone",
+        "tax-records",
+        "cost-basis",
+        "wash-sale",
+        "broker-statements",
+        "year-end-file"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/active-trading-tax-records.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ff526fe386bf168f1e6e424327386c959bd3685995e6dcbefa276827769e3e66"
+    },
+    {
+      "id": "quant-finance.alpha-research-process",
+      "name": "Alpha Research Process",
+      "description": "Alpha research run as a process: a research charter, hypothesis memos, data gates, out-of-sample rules written in advance, peer review and a promotion bar every signal must clear before production.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "alpha-research-process",
+        "researcher",
+        "knowledge-worker",
+        "alpha-research",
+        "signal-research",
+        "stage-gates",
+        "research-process"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/alpha-research-process.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a29638f67b47ef914989732af3b7bfc62435f6e46449b018a560c7ca9c052f03"
+    },
+    {
+      "id": "quant-finance.alternative-data-research",
+      "name": "Alternative Data Research",
+      "description": "An intake register, a standard scorecard, legal and licensing checks, fixed-length vendor trials, coverage and signal tests and a written cost against value decision for every alternative data set you consider.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "alternative-data-research",
+        "researcher",
+        "knowledge-worker",
+        "alternative-data",
+        "data-vendors",
+        "data-licensing",
+        "nowcasting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/alternative-data-research.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 191
+      },
+      "contentHash": "sha256:a3cf76aadc27d3ac39af1f49b044b553506dca36624efe290b73ba52525895ae"
+    },
+    {
+      "id": "quant-finance.backtesting-discipline",
+      "name": "Backtesting Discipline",
+      "description": "A written backtest protocol, point-in-time and survivorship checks, honest cost and fill assumptions, fixed test periods and a register of every variant, so a result means what it claims.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "backtesting-discipline",
+        "researcher",
+        "knowledge-worker",
+        "look-ahead-bias",
+        "survivorship-bias",
+        "transaction-costs",
+        "out-of-sample"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/backtesting-discipline.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d182a225afbe2a38ca878c3d7972da669f1f49a3c995ee0b558ec74d8b795e2a"
+    },
+    {
+      "id": "quant-finance.backtesting-engine-build",
+      "name": "Backtesting Engine Build",
+      "description": "A written spec, a clear architecture choice, a tested core for orders, fills and accounting, corporate actions and cost models, and golden tests that prove the engine reproduces known results.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "backtesting-engine-build",
+        "engineer",
+        "researcher",
+        "event-driven",
+        "fill-models",
+        "corporate-actions",
+        "simulation-testing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/backtesting-engine-build.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:79913fb626f8d4fc6dca7a18fa280234c521291ddfa1971b533ebd826b20ddb0"
+    },
+    {
+      "id": "quant-finance.broker-exchange-api-integration",
+      "name": "Broker and Exchange API Integration",
+      "description": "A broker shortlist, sandbox and secrets set up properly, an order state machine, FIX and REST skills, reconnection and reconciliation routines and a staged first live order, for engineers wiring research to real venues.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "broker-exchange-api-integration",
+        "engineer",
+        "fix-protocol",
+        "order-state",
+        "rate-limits",
+        "sandbox-testing",
+        "reconciliation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/broker-exchange-api-integration.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3e649ae6544658e9eb2ef3628aa3686db38823a87053c99feb750485e867e65d"
+    },
+    {
+      "id": "quant-finance.choosing-a-quant-employer",
+      "name": "Choosing a Quant Employer",
+      "description": "A clear map of hedge funds, prop firms, market makers, banks and asset managers, how their work, pay and risk differ, a researched shortlist, and a written decision on which employer fits you.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "choosing-a-quant-employer",
+        "student",
+        "knowledge-worker",
+        "hedge-funds",
+        "prop-trading",
+        "compensation",
+        "career-decisions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/choosing-a-quant-employer.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:bb7afdf4f7a3390cc00b8655fb702329f2aa996a0827cba5f5640508edd2bdfc"
+    },
+    {
+      "id": "quant-finance.derivatives-pricing-models",
+      "name": "Derivatives Pricing Models",
+      "description": "A tested pricing library built step by step: payoffs, closed-form references, binomial trees, Monte Carlo and finite differences, Greeks, calibration and the checks that show where each model breaks.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "derivatives-pricing-models",
+        "researcher",
+        "student",
+        "black-scholes",
+        "monte-carlo",
+        "finite-differences",
+        "calibration"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/derivatives-pricing-models.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1f08c0b673041c9de1cdffb98e5f7e0ddad49692135ef05bfed1e1d5d9e27527"
+    },
+    {
+      "id": "quant-finance.execution-algorithms",
+      "name": "Execution Algorithms",
+      "description": "Written execution objectives and benchmarks, hard limits on every parent order, a replay simulator, staged rollouts and regular reviews of TWAP, VWAP, shortfall and routing logic, for the researchers and engineers who build them.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "execution-algorithms",
+        "researcher",
+        "engineer",
+        "twap-vwap",
+        "implementation-shortfall",
+        "smart-order-routing",
+        "order-scheduling"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/execution-algorithms.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:f03c1a9e197c2ba7991bd15c835048194b38b8a1add91c466051b3300fe5a747"
+    },
+    {
+      "id": "quant-finance.factor-models",
+      "name": "Factor Models",
+      "description": "A point-in-time factor library you can defend: clear definitions, cross-sectional regressions, exposure and factor return reports, crowding and regime checks, and a record of every methodology change.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "factor-models",
+        "researcher",
+        "knowledge-worker",
+        "equity-factors",
+        "fama-macbeth",
+        "factor-exposures",
+        "crowding"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/factor-models.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:79f8b2ca4f61e3a82964114a44111436e72da8ab6b3f7a7d63e4ee2f7338a1e3"
+    },
+    {
+      "id": "quant-finance.financial-time-series-econometrics",
+      "name": "Financial Time Series Econometrics",
+      "description": "Time series work you can defend: clean return conventions, stationarity and lag rules, ARMA, cointegration, VAR and GARCH skills, residual diagnostics, honest forecast comparisons and a record of every specification you trust.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "financial-time-series-econometrics",
+        "researcher",
+        "econometrics",
+        "stationarity",
+        "cointegration",
+        "garch",
+        "forecast-evaluation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/financial-time-series-econometrics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:cd185340039fadf6f6992d5da2fbdf74a626b80dbc761503e15c5d6ca6e0a629"
+    },
+    {
+      "id": "quant-finance.live-strategy-monitoring",
+      "name": "Live Strategy Monitoring",
+      "description": "An inventory of what is live, expected behaviour written down, live versus backtest tracking, tiered alerts, daily reports, reconciliations and written pause rules, for the engineers and researchers who watch strategies in production.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "live-strategy-monitoring",
+        "engineer",
+        "researcher",
+        "production-monitoring",
+        "alerting",
+        "live-vs-backtest",
+        "pause-rules"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/live-strategy-monitoring.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:1fd97cc6f64330d2af9da0d5c98eebc476d159a91ff148db4f95e84f6c79e66c"
+    },
+    {
+      "id": "quant-finance.low-latency-trading-systems",
+      "name": "Low-Latency Trading Systems",
+      "description": "A written latency budget, hardware timestamps and synced clocks, tuned and audited hosts, kernel bypass and lock-free hot paths, and an honest yearly test of whether the speed still pays for itself.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "low-latency-trading-systems",
+        "engineer",
+        "kernel-bypass",
+        "colocation",
+        "tick-to-trade",
+        "lock-free",
+        "ptp-clock-sync"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/low-latency-trading-systems.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a3bd2aee6546be17d0549648436feb41c5b28e85ddd24acd4dc3892cd72b1af5"
+    },
+    {
+      "id": "quant-finance.machine-learning-for-finance",
+      "name": "Machine Learning for Finance",
+      "description": "Targets and baselines fixed first, point-in-time features, purged cross-validation, honest labelling and feature importance, decay monitoring and the discipline to keep the simpler model when it wins.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "machine-learning-for-finance",
+        "researcher",
+        "engineer",
+        "purged-cross-validation",
+        "labelling",
+        "feature-importance",
+        "model-decay"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/machine-learning-for-finance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:4abd8110f816bd1763a3ac3f78850ede94798d56480dba9b0942851e0f30773a"
+    },
+    {
+      "id": "quant-finance.market-data-sourcing",
+      "name": "Market Data Sourcing",
+      "description": "A data inventory, a licence register, a security master, vendor trials and golden source rules, plus the daily, monthly and yearly checks that keep market data complete, correct and paid for properly.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "market-data-sourcing",
+        "engineer",
+        "researcher",
+        "market-data",
+        "data-vendors",
+        "data-licensing",
+        "symbology",
+        "corporate-actions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/market-data-sourcing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:df5f162c112a0e88d490e4a2e28e44a5c9ac73d87015f1aad38edc869f3f1d05"
+    },
+    {
+      "id": "quant-finance.market-making-strategy-research",
+      "name": "Market Making Strategy Research",
+      "description": "A scoped research plan, fee and obligation tables, a P&L decomposition, queue-aware simulation and honest tests of inventory, quoting and adverse selection models, all under written risk limits.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "market-making-strategy-research",
+        "researcher",
+        "inventory-risk",
+        "adverse-selection",
+        "quoting-models",
+        "order-book-simulation",
+        "exchange-fees"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/market-making-strategy-research.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b7e149979f95712585f2442483574e32bec6f27508ef4abba2799a3b2327068a"
+    },
+    {
+      "id": "quant-finance.market-microstructure-study",
+      "name": "Market Microstructure Study",
+      "description": "A study plan, a classic reading list, a reconstructed order book and the models behind spreads, queues, auctions and market makers, so you understand how prices really form at the order level.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "market-microstructure-study",
+        "researcher",
+        "order-book",
+        "limit-order-book",
+        "tick-size",
+        "auctions",
+        "price-discovery"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/market-microstructure-study.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:158cc5641c493a8ac988174e9c7182179fa9a8c46014bd1042ecd691bf547c73"
+    },
+    {
+      "id": "quant-finance.model-validation-and-model-risk",
+      "name": "Model Validation and Model Risk",
+      "description": "Model validation run as a craft: a model inventory and tiering, conceptual soundness and replication, benchmarks and outcomes analysis, findings that get fixed, ongoing monitoring and documentation a model risk team accepts.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "model-validation-and-model-risk",
+        "researcher",
+        "knowledge-worker",
+        "model-risk",
+        "independent-validation",
+        "model-governance",
+        "model-monitoring"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/model-validation-and-model-risk.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:766da469bfd5b2fbaac7440e3ada6905aef0de7e80dedca3dbfbb5244ea56dc8"
+    },
+    {
+      "id": "quant-finance.non-competes-and-garden-leave",
+      "name": "Non-Competes and Garden Leave",
+      "description": "Your covenants mapped and dated, a lawyer's view on record, deferred pay and runway planned, clean IP boundaries, and a restricted period used well before the next quant job starts.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "non-competes-and-garden-leave",
+        "knowledge-worker",
+        "researcher",
+        "restrictive-covenants",
+        "garden-leave",
+        "employment-contracts",
+        "job-moves"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/non-competes-and-garden-leave.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:2451a928513b5d1d1675de7ec645f3f986998f5c218236ba53cdec00d1134aa3"
+    },
+    {
+      "id": "quant-finance.options-strategy-research",
+      "name": "Options Strategy Research",
+      "description": "Options strategies studied like a researcher: payoffs and Greeks you can explain, clean historical chains, backtests with honest fills and assignment, written risk limits and a go or no-go gate before any money is involved.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "options-strategy-research",
+        "researcher",
+        "everyone",
+        "options",
+        "greeks",
+        "implied-volatility",
+        "assignment-risk"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/options-strategy-research.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:9d81aad816807540e6e591c6e3618a11412cf5099e428c4f0a60c762b8f6a9e4"
+    },
+    {
+      "id": "quant-finance.overfitting-and-multiple-testing",
+      "name": "Overfitting and Multiple Testing",
+      "description": "A trial ledger, a sealed holdout, deflated Sharpe ratios, purged cross-validation and a written evidence bar, so the strategies you promote are less likely to be noise you selected.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "overfitting-and-multiple-testing",
+        "researcher",
+        "backtest-overfitting",
+        "deflated-sharpe",
+        "cross-validation",
+        "false-discovery",
+        "holdout"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/overfitting-and-multiple-testing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b8291fb44fdb9960823701f099816ada16821eeb38cb21a33d85f91c99c5a83d"
+    },
+    {
+      "id": "quant-finance.paper-replication",
+      "name": "Paper Replication",
+      "description": "A repeatable way to replicate published finance papers: a target sheet of every number, a written protocol and tolerances, a discrepancy log, out-of-sample tests and a write-up of what held.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "paper-replication",
+        "researcher",
+        "student",
+        "replication",
+        "empirical-asset-pricing",
+        "out-of-sample",
+        "reproducibility"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/paper-replication.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:be2c3d832b87fc61c1217a7fa733c05f86aa43f82c2a53c9a63f29e7201c2948"
+    },
+    {
+      "id": "quant-finance.paper-trading-before-going-live",
+      "name": "Paper Trading Before Going Live",
+      "description": "A frozen strategy version, go or no-go criteria written in advance, a fixed trial period, fill and signal checks against the backtest and a staged route to small live size.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "paper-trading-before-going-live",
+        "everyone",
+        "engineer",
+        "paper-trading",
+        "simulated-fills",
+        "go-no-go",
+        "forward-testing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/paper-trading-before-going-live.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c0706dbb54fba016ded253b28c7d495d4fb9756dbacc759d1cf7ddd273fe8eda"
+    },
+    {
+      "id": "quant-finance.personal-algorithmic-trading",
+      "name": "Personal Algorithmic Trading",
+      "description": "A small personal trading bot run like an engineering project: capital you can afford to lose, written strategy and stop rules, paper trading first, daily checks, clean logs and a monthly review.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "personal-algorithmic-trading",
+        "everyone",
+        "engineer",
+        "algorithmic-trading",
+        "trading-bot",
+        "risk-limits",
+        "paper-trading"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/personal-algorithmic-trading.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:dde32f2566a785ad22972092d2d6260582bce9bfbc548a9e14dd2cdb9c374828"
+    },
+    {
+      "id": "quant-finance.portfolio-construction-optimisation",
+      "name": "Portfolio Construction and Optimisation",
+      "description": "Signals turned into portfolios on purpose: a written mandate, a constraint register, baseline portfolios, a reproducible optimiser, turnover budgets, transfer coefficient tracking and checks that the solver does what you meant.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "portfolio-construction-optimisation",
+        "researcher",
+        "portfolio-construction",
+        "optimisation",
+        "risk-budgeting",
+        "turnover",
+        "constraints"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/portfolio-construction-optimisation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:cbc71b0d835b8cf68e56e8cf9ec628074de2667c0495350bb53d3cfef99958a4"
+    },
+    {
+      "id": "quant-finance.portfolio-risk-models",
+      "name": "Portfolio Risk Models",
+      "description": "A portfolio risk model you can defend: clean inputs, a covariance estimator chosen on evidence, factor and specific risk split, stress scenarios, and a standing check of predicted against realised risk.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "portfolio-risk-models",
+        "researcher",
+        "knowledge-worker",
+        "risk-models",
+        "covariance-estimation",
+        "stress-scenarios",
+        "tracking-error"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/portfolio-risk-models.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:1814346fb7af49f1e4b4ee576ed050d5af9d0d16b336824c0ba383dba2d3778a"
+    },
+    {
+      "id": "quant-finance.probability-and-brainteaser-practice",
+      "name": "Probability and Brainteaser Practice",
+      "description": "A practice system for probability problems and brainteasers: a timed baseline, a sourced problem bank, daily sessions with a log, topic drills from counting to martingales and monthly speed and accuracy reviews.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "probability-and-brainteaser-practice",
+        "student",
+        "probability",
+        "brainteasers",
+        "combinatorics",
+        "expected-value",
+        "practice-log"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/probability-and-brainteaser-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5b85f90c95bdfaf20ac9733e4a6f510a5a0b00dba79a5bc9be58043a398593a4"
+    },
+    {
+      "id": "quant-finance.prop-firm-evaluation-challenge",
+      "name": "Prop Firm Evaluation Challenge",
+      "description": "The rule book read line by line, drawdown limits worked out in numbers, a trading plan and stop rule fixed in advance, a daily journal and headroom log, and an honest ledger of what the attempts cost.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "prop-firm-evaluation-challenge",
+        "everyone",
+        "knowledge-worker",
+        "prop-firm",
+        "drawdown-limits",
+        "trading-plan",
+        "risk-rules"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/prop-firm-evaluation-challenge.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:46ebfb725a01dd21b67561abc2b960eede529692a4e166636c4d0dfd15e36a32"
+    },
+    {
+      "id": "quant-finance.quant-careers-after-a-phd",
+      "name": "Quant Careers After a PhD",
+      "description": "A route from PhD or postdoc to a quant seat: the roles that fit, a CV a desk can read, the finance learned on purpose, recruiters and pipelines run like research, and the first year on the job.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "quant-careers-after-a-phd",
+        "researcher",
+        "student",
+        "phd",
+        "postdoc",
+        "career-change",
+        "quant-cv"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/quant-careers-after-a-phd.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:48da971fe8ca0578b5747b032616cac1ca2c249a83f92a82b90e402201fb0ed1"
+    },
+    {
+      "id": "quant-finance.quant-developer-interviews",
+      "name": "Quant Developer Interviews",
+      "description": "A dated preparation plan for quant developer roles: a skills baseline, daily coding and weekly C++ drills, peer mocks, systems and low-latency design practice, take-home delivery, onsite loops and offer week.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "quant-developer-interviews",
+        "student",
+        "engineer",
+        "cpp",
+        "python",
+        "coding-interviews",
+        "low-latency"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/quant-developer-interviews.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:661ee3d8531ceecf964067283820d6a006d35488b411484470bda4ed5ea6d845"
+    },
+    {
+      "id": "quant-finance.quant-development-cpp-python",
+      "name": "Quant Development (C++ and Python)",
+      "description": "Locked Python environments, a disciplined C++ toolchain, numerical reference tests, stored benchmarks and profiling habits, plus the review rota and release routine that keep a research team's quant library fast and correct.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "quant-development-cpp-python",
+        "engineer",
+        "cpp",
+        "python",
+        "numerical-testing",
+        "profiling",
+        "pybind11"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/quant-development-cpp-python.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5766cb573ff96f64866bce107e5fdc901a49a794be7433b747ac4a79dc21e467"
+    },
+    {
+      "id": "quant-finance.quant-finance-masters-programmes",
+      "name": "Quant Finance Masters Programmes",
+      "description": "A quant master's chosen on evidence: honest prerequisites, a costed shortlist, placement reports read critically, applications and recommenders on a calendar, offers compared and the first term planned.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "quant-finance-masters-programmes",
+        "student",
+        "financial-engineering",
+        "mfe",
+        "graduate-admissions",
+        "statement-of-purpose",
+        "funding"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/quant-finance-masters-programmes.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:e5ee74c31d2b3b8b1131da152f0de31690174da784a2b424cbc6825096eff948"
+    },
+    {
+      "id": "quant-finance.quant-finance-self-study-curriculum",
+      "name": "Quant Finance Self-Study Curriculum",
+      "description": "A self-study route into quantitative finance: a maths diagnostic, a twelve-month curriculum map, core textbooks, weekly problem sets, four portfolio coding projects and an evidence pack you can show an employer.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "quant-finance-self-study-curriculum",
+        "student",
+        "knowledge-worker",
+        "self-study",
+        "curriculum",
+        "textbooks",
+        "portfolio-projects"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/quant-finance-self-study-curriculum.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:191adbfff9d2477130be4b5ee0eac333b84dfaf4c2fd822b7d78d5ea028da75d"
+    },
+    {
+      "id": "quant-finance.quant-research-code-quality",
+      "name": "Quant Research Code Quality",
+      "description": "Version control for every study, tests for data and signals, notebooks moved into reviewed modules, a shared research library and a rule that no result counts until someone has read the code behind it.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "quant-research-code-quality",
+        "engineer",
+        "researcher",
+        "code-review",
+        "testing",
+        "notebooks",
+        "reproducibility"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/quant-research-code-quality.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:892610697284854cba5f38e6cb1465ca3db6eea0ead53ff85a6dd495182b8ede"
+    },
+    {
+      "id": "quant-finance.quant-research-competitions",
+      "name": "Quant Research Competitions",
+      "description": "A disciplined way to enter quant and data competitions: the right contests chosen, rules read, a validation split that mirrors the hidden test, logged submissions and results turned into evidence.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "quant-research-competitions",
+        "student",
+        "researcher",
+        "data-competitions",
+        "trading-competitions",
+        "reproducibility",
+        "portfolio-evidence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/quant-research-competitions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d74a84bb95a4283e16918b6b613e49436de0288e0a3f987014123b203e6cb75e"
+    },
+    {
+      "id": "quant-finance.quant-research-log",
+      "name": "Quant Research Log",
+      "description": "A research log that holds up: one entry format, IDs for ideas and runs, data and code versions beside every result, decision records, and the weekly, monthly and quarterly reviews that keep it searchable and repeatable.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "quant-research-log",
+        "researcher",
+        "research-log",
+        "lab-notebook",
+        "reproducibility",
+        "provenance",
+        "documentation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/quant-research-log.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5b227e6278af7102ad1d971755cef5120e875dcb636aaa440da51a1e8e1b1513"
+    },
+    {
+      "id": "quant-finance.quant-researcher-interviews",
+      "name": "Quant Researcher Interviews",
+      "description": "A dated preparation plan for quant research interviews: probability and statistics drills, research case practice, timed coding tests, a defensible CV, a thesis pitch, mocks and a pipeline tracked to the offer.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "quant-researcher-interviews",
+        "student",
+        "researcher",
+        "interview-prep",
+        "probability",
+        "research-case",
+        "coding-tests"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/quant-researcher-interviews.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3f633989652010b1fbbbf5099b3ea1258aedc9a78fed9858ff3d24ceb9f6ee99"
+    },
+    {
+      "id": "quant-finance.quant-trader-interviews",
+      "name": "Quant Trader Interviews",
+      "description": "A dated recruiting calendar, mental maths and probability measured and drilled, market-making games practised with a partner, expected value reasoning made automatic, and behavioural stories ready for the final round.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "quant-trader-interviews",
+        "student",
+        "trading-interviews",
+        "mental-maths",
+        "market-making-games",
+        "expected-value",
+        "internships"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/quant-trader-interviews.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 188
+      },
+      "contentHash": "sha256:1d39771943bdb4369a9fe2a971a33f20954e73aaa020819246e76c1206617354"
+    },
+    {
+      "id": "quant-finance.rates-and-credit-modelling",
+      "name": "Rates and Credit Modelling",
+      "description": "Curves you can defend and credit models you can explain: conventions and quotes checked, single and multi-curve builds, duration and key rate risk, short-rate and hazard models, spread measures and a record of every change.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "rates-and-credit-modelling",
+        "researcher",
+        "yield-curve",
+        "short-rate-models",
+        "credit-spreads",
+        "cds",
+        "duration"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/rates-and-credit-modelling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:df7a9d85a4ddc0ce250e89abd804e6b1f08a20b84c40e1dcc319fa0ee169e0fd"
+    },
+    {
+      "id": "quant-finance.statistical-arbitrage-research",
+      "name": "Statistical Arbitrage Research",
+      "description": "A point-in-time universe, honest spread tests, half-life and hedge ratio studies, borrow, cost and capacity checks, crowding monitors and written stop rules for researching pairs, baskets and residual reversion.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "statistical-arbitrage-research",
+        "researcher",
+        "pairs-trading",
+        "mean-reversion",
+        "cointegration",
+        "crowding",
+        "capacity"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/statistical-arbitrage-research.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:cef76686552bf2942aec7c0cb4f773ef92aadcf553718fe25103f01b638f7981"
+    },
+    {
+      "id": "quant-finance.statistics-for-finance",
+      "name": "Statistics for Finance",
+      "description": "Return conventions, standard errors for every estimate, fat-tail fits, honest hypothesis tests, regression with the right errors and block bootstraps, built as habits a quant researcher or student keeps.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "statistics-for-finance",
+        "researcher",
+        "student",
+        "fat-tails",
+        "bootstrap",
+        "regression",
+        "hypothesis-testing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/statistics-for-finance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:e76c375ce279f2e8288e0b5ad0a9bdf6941ca5ff2b776d7c0030a1314956eb16"
+    },
+    {
+      "id": "quant-finance.stochastic-calculus-study",
+      "name": "Stochastic Calculus Study",
+      "description": "A study plan for stochastic calculus that sticks: the probability you need first, Brownian motion, the Ito integral and Ito's lemma, Girsanov and risk-neutral pricing, and the weekly exercises, retests and exams that prove it.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "stochastic-calculus-study",
+        "student",
+        "researcher",
+        "ito-calculus",
+        "brownian-motion",
+        "martingales",
+        "risk-neutral-pricing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/stochastic-calculus-study.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:2409c1f77565582faace3b6796e7d770fd45dad7330dc96b362b0122278c07f0"
+    },
+    {
+      "id": "quant-finance.strategy-stress-testing",
+      "name": "Strategy Stress Testing",
+      "description": "Stress testing for each strategy you run: crisis replays, shocked correlations, liquidity and capacity limits, a launch gate, monthly reruns and a written stop rule tied to the results.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "strategy-stress-testing",
+        "researcher",
+        "stress-testing",
+        "crisis-scenarios",
+        "liquidity-risk",
+        "capacity",
+        "drawdown"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/strategy-stress-testing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9239858881fbb91b5066a2caa9e9a7e91769dde618bd4a08b31bba2db1a178fd"
+    },
+    {
+      "id": "quant-finance.systematic-strategy-retirement",
+      "name": "Systematic Strategy Retirement",
+      "description": "Retirement criteria written before launch, monthly decay reviews, a probation watch list, staged wind-downs, honest post-mortems and a register of retired strategies, so research time moves to better ideas.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "systematic-strategy-retirement",
+        "researcher",
+        "alpha-decay",
+        "strategy-lifecycle",
+        "post-mortem",
+        "decommissioning",
+        "research-allocation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/systematic-strategy-retirement.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:f2794fa94e6752ab9fb93e5e835a3b1247c53f6496192c125b3bc47762b94efe"
+    },
+    {
+      "id": "quant-finance.tick-data-storage-and-cleaning",
+      "name": "Tick Data Storage and Cleaning",
+      "description": "A canonical tick schema, one timestamp policy, a partitioned columnar store with tested backups, written cleaning rules for bad ticks, gaps and corrections, and queries researchers can trust.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "tick-data-storage-and-cleaning",
+        "engineer",
+        "tick-data",
+        "data-quality",
+        "timestamps",
+        "parquet",
+        "time-series-database"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/tick-data-storage-and-cleaning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f77087eac02a16a1a2a90f72de6ddb76dfa132d7b91196ef2bd2f8cd9074cc6b"
+    },
+    {
+      "id": "quant-finance.trading-journal-and-review",
+      "name": "Trading Journal and Review",
+      "description": "A trading journal you will actually keep: one record per trade with its reason, rule checks and mistakes, broker reconciliation, daily, weekly and monthly reviews, and a change log so rules move only after a review.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "trading-journal-and-review",
+        "everyone",
+        "trading-journal",
+        "trade-review",
+        "rule-compliance",
+        "expectancy",
+        "trading-psychology"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/trading-journal-and-review.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:fbd2216b0a786ffe0e7f333af24a87d0fdd732b3007ee98b02e4e8f49fd51a02"
+    },
+    {
+      "id": "quant-finance.trading-risk-rules-and-kill-switches",
+      "name": "Trading Risk Rules and Kill Switches",
+      "description": "Written risk rules for your own trading, from loss limits and position caps to software and manual kill switches, breach logs, a cooling-off rule and regular drills that prove the stops work.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "trading-risk-rules-and-kill-switches",
+        "everyone",
+        "engineer",
+        "risk-limits",
+        "kill-switch",
+        "position-sizing",
+        "drawdown"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/trading-risk-rules-and-kill-switches.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:2633dc174296c1c59ed91aa172db5a490da124d698b47524d20fb5a1d3fef53d"
+    },
+    {
+      "id": "quant-finance.transaction-cost-analysis",
+      "name": "Transaction Cost Analysis",
+      "description": "Trading costs measured instead of guessed: clean order and fill records, the right benchmark per order, shortfall decomposition, cost models for research, broker scorecards and post-trade reports people read.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "transaction-cost-analysis",
+        "researcher",
+        "knowledge-worker",
+        "tca",
+        "implementation-shortfall",
+        "market-impact",
+        "best-execution"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/transaction-cost-analysis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:acd97f178af41b12b82f9188bc7a021aea6cc37d143831e96bbfaea7647d3eb6"
+    },
+    {
+      "id": "quant-finance.trend-following-research",
+      "name": "Trend-Following Research",
+      "description": "Trend-following research done properly: a clean futures universe, honest continuous series and rolls, volatility-scaled sizing, risk limits fixed in advance, and the patience to study long drawdowns before judging a signal.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "trend-following-research",
+        "researcher",
+        "managed-futures",
+        "time-series-momentum",
+        "futures-roll",
+        "volatility-targeting",
+        "drawdowns"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/trend-following-research.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:837773eb9d83ca67179f297147f472cb6f7f32e8d1ce44c9a800458ac5630828"
+    },
+    {
+      "id": "quant-finance.volatility-modelling",
+      "name": "Volatility Modelling",
+      "description": "Volatility work you can defend: clean realised measures, an arbitrage-free implied surface, term structure and skew tracked over time, and forecasts compared on loss functions chosen before the test.",
+      "category": "business",
+      "tags": [
+        "quant-finance",
+        "volatility-modelling",
+        "researcher",
+        "realised-volatility",
+        "implied-volatility",
+        "volatility-surface",
+        "forecasting",
+        "skew"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/quant-finance/volatility-modelling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Quantitative Finance & Trading"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6516efef1c56b66e18747702093153c85f9bcdabd98470e8dc000f83db696dcf"
     },
     {
       "id": "relationships.adult-sibling-relationships",
