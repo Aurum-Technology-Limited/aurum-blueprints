@@ -11315,6 +11315,118 @@
       "contentHash": "sha256:e98df50be682360c9db6542ac08184057f173b051ffd57ec43d937d3df560bd1"
     },
     {
+      "id": "investment-banking.analyst-to-associate-promotion",
+      "name": "Analyst to Associate Promotion",
+      "description": "A plan for the analyst years that end in a decision: the written promotion criteria, reviews prepared on purpose, a sponsor, evidence of associate-level work, and a clear choice between direct promotion, an MBA or leaving.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "analyst-to-associate-promotion",
+        "knowledge-worker",
+        "analyst",
+        "promotion",
+        "performance-review",
+        "mba",
+        "career-decision"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/analyst-to-associate-promotion.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5c25feddc87851f2bbf2e8241f7d289b8105a8c1928c2e3542719911c2c0945f"
+    },
+    {
+      "id": "investment-banking.associate-role-in-banking",
+      "name": "Associate Role in Banking",
+      "description": "The associate job done well: owning the model and the deck, reviewing analyst work fast and fairly, handling client contact, keeping processes on their critical path and training the juniors behind you.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "associate-role-in-banking",
+        "knowledge-worker",
+        "manager",
+        "associate",
+        "deal-management",
+        "review",
+        "people-management"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/associate-role-in-banking.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 180
+      },
+      "contentHash": "sha256:3ed944a3141a41e318b0f9a501401c21ea2c68764d9fc85a678a1d00263ee5c9"
+    },
+    {
+      "id": "investment-banking.banking-bonus-season",
+      "name": "Banking Bonus Season",
+      "description": "A year-round plan for the bonus: the plan rules and calendar, a contribution log kept every Friday, market pay data, a rehearsed conversation, and calm decisions about the money and your next move after the number lands.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "banking-bonus-season",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "compensation",
+        "bonus",
+        "deferred-pay"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/banking-bonus-season.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 190
+      },
+      "contentHash": "sha256:913fecd1d4ad176ce92f4a444fcc4380b9cb19a5dc0621eff826e5ca08609184"
+    },
+    {
+      "id": "investment-banking.banking-exit-opportunities",
+      "name": "Banking Exit Opportunities",
+      "description": "A planned exit from banking: a written thesis, a timing window, a clean deal sheet, headhunter and networking routines, modelling test and case practice, offer comparisons and a resignation that leaves your reputation intact.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "banking-exit-opportunities",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "private-equity-recruiting",
+        "buy-side",
+        "headhunters"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/banking-exit-opportunities.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6bed7703df870f4d67e67e9f6b9e6e6b47cd7f1bafa51ec4053ce826eb1e02a2"
+    },
+    {
       "id": "investment-banking.bid-rounds-and-process-letters",
       "name": "Bid Rounds and Process Letters",
       "description": "Process letters that bidders cannot misread, bid rounds run to a clean timetable, bids compared on one basis and a preferred bidder recommendation the client and board can stand behind.",
@@ -11341,6 +11453,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:806c9d9f0a8718f7f32c0fdad03eaf58b7e4e0c55b8622608cef73968010f1dd"
+    },
+    {
+      "id": "investment-banking.boutique-or-bulge-bracket-choice",
+      "name": "Boutique or Bulge Bracket Choice",
+      "description": "A structured way to choose your bank: a map of the tiers, criteria you set before the logos dazzle you, real deal and alumni evidence, and offers scored on training, hours, pay and exits.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "boutique-or-bulge-bracket-choice",
+        "knowledge-worker",
+        "student",
+        "bulge-bracket",
+        "elite-boutique",
+        "middle-market",
+        "career-decision"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/boutique-or-bulge-bracket-choice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:91437bededb690ecc7340aab6e9c38e2659183a91105f14d0eabfd4db2a4f55a"
     },
     {
       "id": "investment-banking.buy-side-m-and-a-mandates",
@@ -11623,6 +11763,34 @@
       "contentHash": "sha256:5c53c45560009f7ea3af15fa77695d277a1018d6215311a7584499e4eaa94d9a"
     },
     {
+      "id": "investment-banking.deal-staffing-and-hours",
+      "name": "Deal Staffing and Hours",
+      "description": "Getting staffed on the right deals at a load you can carry: a working relationship with the staffer, an honest hours log, weekly capacity updates, clear ways to say yes or not yet, and protected time that actually holds.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "deal-staffing-and-hours",
+        "knowledge-worker",
+        "analyst",
+        "staffing",
+        "hours-log",
+        "workload",
+        "protected-time"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/deal-staffing-and-hours.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b51cfbe976cdab46b0134c20f78d91caa2ecf7ae7a74a317b2c5b2b2f5249ea5"
+    },
+    {
       "id": "investment-banking.debt-advisory-for-mid-market",
       "name": "Debt Advisory for Mid-Market",
       "description": "Debt advice from the borrower's side for mid-sized companies: lender universes, credit papers, term sheet comparisons, refinancings, acquisition debt and the routines that keep advised clients ahead of their maturities.",
@@ -11679,6 +11847,34 @@
       "contentHash": "sha256:59e3b1c3f0e5629d374fe7a87d977be6a6c07a82a60774e5d313d469454841b6"
     },
     {
+      "id": "investment-banking.excel-and-powerpoint-speed",
+      "name": "Excel and PowerPoint Speed",
+      "description": "Fast, accurate work in banking software: a mouse-free set-up, house formatting standards, slide templates, add-ins, timed drills and a personal checklist of the errors you actually make.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "excel-and-powerpoint-speed",
+        "knowledge-worker",
+        "student",
+        "excel",
+        "powerpoint",
+        "keyboard-shortcuts",
+        "formatting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/excel-and-powerpoint-speed.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0885a9d36ea32956dc211f0223fa79c9a75a69d79d4010347b7688c289607c99"
+    },
+    {
       "id": "investment-banking.fairness-opinions",
       "name": "Fairness Opinions",
       "description": "Fairness opinions from the banker's seat: scope and conflicts, the analyses behind the fairness book, internal committee review, the opinion letter, shareholder disclosure and the deals where independence is tested hardest.",
@@ -11707,6 +11903,33 @@
       "contentHash": "sha256:5c42a957247f4361166a2ffe9d5113c12e6d369b011bcddf1793713ee3037490"
     },
     {
+      "id": "investment-banking.financial-model-checking",
+      "name": "Financial Model Checking",
+      "description": "A model review routine you trust: balance and cash checks, link and hard-code audits, sign conventions, scenario sweeps, an error log and the specialist checks for LBO, merger and diligence models.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "financial-model-checking",
+        "knowledge-worker",
+        "model-review",
+        "error-checks",
+        "excel",
+        "quality-control"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/financial-model-checking.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f82a00353494da8615afae5b1201ea49ce63bb6b1fb61110ccc4efa70b9b5dc2"
+    },
+    {
       "id": "investment-banking.follow-ons-and-block-trades",
       "name": "Follow-Ons and Block Trades",
       "description": "Overnight bookbuilds and block trades from the banker's seat: product mechanics, wall-crossing scripts, discount and sizing work, lock-up calendars, execution checklists and the debriefs that make the next night faster.",
@@ -11733,6 +11956,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:6fe54a1e745bc1a32667fc589fd1c0f8112b7cdd21bbc6fd41d0da1c42dc4a28"
+    },
+    {
+      "id": "investment-banking.health-under-banking-hours",
+      "name": "Health Under Banking Hours",
+      "description": "A sleep strategy, food and exercise that fit short windows, protected personal time and a written list of signs that it is time to change, for bankers working long and unpredictable hours.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "health-under-banking-hours",
+        "knowledge-worker",
+        "sleep",
+        "burnout",
+        "exercise",
+        "nutrition",
+        "wellbeing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/health-under-banking-hours.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0cf09204394bfc4501aed8fe79463c0182cc08ec8b1ca69d0c576daffb070330"
     },
     {
       "id": "investment-banking.ib-analyst-training-programme",
@@ -11901,6 +12152,34 @@
         "totalTasks": 201
       },
       "contentHash": "sha256:78784dca209a059dd23dd358acb8fb708736e40d3b117bbb41afc40d6ce5ee7e"
+    },
+    {
+      "id": "investment-banking.lateral-moves-between-banks",
+      "name": "Lateral Moves Between Banks",
+      "description": "A lateral move run with care: clear reasons, contract and deferred pay checked, a discreet search, diligence on the new group, a negotiated buyout and deal credit, then a clean exit, garden leave and a strong start.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "lateral-moves-between-banks",
+        "knowledge-worker",
+        "lateral-hiring",
+        "garden-leave",
+        "guaranteed-bonus",
+        "deal-credit",
+        "headhunters"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/lateral-moves-between-banks.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:d0935b677036fb1c8616d84d1536056c041fcdf02e0498bf1a1e28db531be4d2"
     },
     {
       "id": "investment-banking.league-tables-and-credentials",
@@ -12293,6 +12572,1487 @@
         "totalTasks": 198
       },
       "contentHash": "sha256:a0ba4d3abcfe002827bd88731fa4b73c0e2eded55741f89b08592bdb22cbd514"
+    },
+    {
+      "id": "investment-banking.turning-comments-from-seniors",
+      "name": "Turning Comments from Seniors",
+      "description": "A system for markups from associates, VPs and MDs: a comment log for every turn, clarifying questions batched early, ripple checks on changed numbers and a tick-back so nothing is missed.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "turning-comments-from-seniors",
+        "knowledge-worker",
+        "analyst",
+        "associate",
+        "markups",
+        "comment-log",
+        "page-turns"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/turning-comments-from-seniors.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:2e7875cb39f16fea1df31bb9aa08ed95f55d6931dd45fedc07820a8203f08698"
+    },
+    {
+      "id": "investment-banking.vice-president-deal-leadership",
+      "name": "Vice President Deal Leadership",
+      "description": "Running deals as a VP: a portfolio map, team charters and a review standard, weekly client and team rhythms, process strategy calls, quality gates before every send and first steps toward origination.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "vice-president-deal-leadership",
+        "knowledge-worker",
+        "manager",
+        "vice-president",
+        "deal-execution",
+        "team-leadership",
+        "client-lead"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/vice-president-deal-leadership.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1a3a2fa5627b7b776222c948d3144ae86da59b7103209e6246362df7c5880a48"
+    },
+    {
+      "id": "investment-banking.wall-crossing-and-compliance",
+      "name": "Wall Crossing and Compliance",
+      "description": "Working inside banking compliance from the banker's seat: inside information, wall crossings, restricted and watch lists, personal account dealing, pre-clearance, attestations and the daily habits that keep your record clean.",
+      "category": "business",
+      "tags": [
+        "investment-banking",
+        "wall-crossing-and-compliance",
+        "knowledge-worker",
+        "inside-information",
+        "restricted-list",
+        "personal-account-dealing",
+        "pre-clearance",
+        "market-abuse"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/investment-banking/wall-crossing-and-compliance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Investment Banking & Advisory"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 184
+      },
+      "contentHash": "sha256:d4df279a778d7e6d7abd207ba498ab0b366e7659c671a807e98f928b4019d1e5"
+    },
+    {
+      "id": "management-consulting.benchmarking-studies",
+      "name": "Benchmarking Studies",
+      "description": "A working method for client benchmarks: the decision it serves, a defensible peer set, defined metrics, clean collection and normalisation, gaps shown honestly and false comparisons caught before the readout.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "benchmarking-studies",
+        "knowledge-worker",
+        "benchmarking",
+        "peer-group",
+        "normalisation",
+        "kpi",
+        "gap-analysis"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/benchmarking-studies.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:760bdb6e285da1186d7768d135e0a6dced21f1b797e53c3a9b47bb46a4eeb68d"
+    },
+    {
+      "id": "management-consulting.big-four-advisory-careers",
+      "name": "Big Four Advisory Careers",
+      "description": "A career plan for Big Four advisory: the service lines mapped, a practice chosen, independence and timesheets handled cleanly, qualifications sat, technical skills built and a clear route from graduate to director.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "big-four-advisory-careers",
+        "knowledge-worker",
+        "student",
+        "big-four",
+        "deal-advisory",
+        "risk-advisory",
+        "technology-consulting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/big-four-advisory-careers.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3153273c0a60b248e09d125b2a8a0f01390ba526661572c64b0dba96aa8ecd4b"
+    },
+    {
+      "id": "management-consulting.boutique-consulting-firm-building",
+      "name": "Boutique Consulting Firm Building",
+      "description": "A route from solo practice to a small firm: a sharp niche, firm foundations, delivery standards, a weekly pipeline, monthly economics and a client base no single account can sink.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "boutique-consulting-firm-building",
+        "founder",
+        "small-business",
+        "boutique-firm",
+        "professional-services",
+        "firm-economics",
+        "client-concentration"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/boutique-consulting-firm-building.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f54c4616ed1e1ecea004fc100ab1ee058db31a1148265268f84a25ecdcb7d06c"
+    },
+    {
+      "id": "management-consulting.case-maths-and-market-sizing",
+      "name": "Case Maths and Market Sizing",
+      "description": "Case maths you can do fast and out loud: a timed baseline, daily drills, percentages and growth rates, break-even and margins, market sizing from top down and bottom up, and sanity checks that catch the dropped zero.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "case-maths-and-market-sizing",
+        "student",
+        "knowledge-worker",
+        "mental-maths",
+        "market-sizing",
+        "estimation",
+        "case-interviews"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/case-maths-and-market-sizing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:7f30acee09822b44b1d0c0eb89c3c341653ebfc775188f501cf9b61f0c52452c"
+    },
+    {
+      "id": "management-consulting.client-data-requests-and-analysis",
+      "name": "Client Data Requests and Analysis",
+      "description": "Field-level data requests, a tracked register, secure handling, cleaning and a single master dataset, checks that tie to the accounts, and written limitations, from the first request letter to deletion at close.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "client-data-requests-and-analysis",
+        "knowledge-worker",
+        "data-requests",
+        "data-cleaning",
+        "data-quality",
+        "analysis",
+        "reconciliation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/client-data-requests-and-analysis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c64291e324bbecef0918665d444cd61d9765cae9dd899a075aebae956dbebf68"
+    },
+    {
+      "id": "management-consulting.client-interviews-and-expert-calls",
+      "name": "Client Interviews and Expert Calls",
+      "description": "An interview programme you can run on any engagement: guides built from the issue tree, scheduling, fast clean notes, expert calls inside compliance rules, synthesis across interviews and confidentiality that holds.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "client-interviews-and-expert-calls",
+        "knowledge-worker",
+        "stakeholder-interviews",
+        "expert-calls",
+        "interview-guides",
+        "interview-synthesis",
+        "confidentiality"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/client-interviews-and-expert-calls.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:5e6d80bc839117415bc8e34d9b616d17720797c837226d4897919de1c150d20e"
+    },
+    {
+      "id": "management-consulting.consulting-application-strategy",
+      "name": "Consulting Application Strategy",
+      "description": "A dated recruiting plan for consulting: a tiered firm and office list, weekly networking, a one-page CV, online test practice and a tracker that keeps every deadline in view.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "consulting-application-strategy",
+        "student",
+        "knowledge-worker",
+        "recruiting",
+        "networking",
+        "cv",
+        "online-assessments"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/consulting-application-strategy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6b87e479a5857bcf95a30a45a5b9528710c848c5d52258abca3a04a3f33bf979"
+    },
+    {
+      "id": "management-consulting.consulting-case-interview-prep",
+      "name": "Consulting Case Interview Prep",
+      "description": "A dated case prep plan: firm formats checked, a scored practice log, live cases with partners, structures built from the question, chart reading, synthesis drills and interview days rehearsed.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "consulting-case-interview-prep",
+        "student",
+        "knowledge-worker",
+        "case-interviews",
+        "consulting-recruiting",
+        "structuring",
+        "mock-interviews"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/consulting-case-interview-prep.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 190
+      },
+      "contentHash": "sha256:64185a552024596b3d1db391d54262d87092bbbd44bfa344de14bbb1fe300aa9"
+    },
+    {
+      "id": "management-consulting.consulting-engagement-pricing",
+      "name": "Consulting Engagement Pricing",
+      "description": "A pricing system for independent consultants and small firms: a floor rate from real costs, effort estimates before quoting, fixed fees by phase, retainers, success fees, discount rules and reviews of what each job actually earned.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "consulting-engagement-pricing",
+        "freelancer",
+        "small-business",
+        "day-rates",
+        "fixed-fees",
+        "retainers",
+        "effort-estimating"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/consulting-engagement-pricing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:929b9cabccbc7becbabb4762611ad36af6f06d1b557c81dbf31c47a3f8e3feec"
+    },
+    {
+      "id": "management-consulting.consulting-excel-modelling",
+      "name": "Consulting Excel Modelling",
+      "description": "Engagement models built to a house standard: a scoping note, clean inputs and outputs, scenario switches, a checks sheet, version control and a handover the client can run without you.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "consulting-excel-modelling",
+        "knowledge-worker",
+        "excel",
+        "financial-modelling",
+        "scenarios",
+        "model-checks",
+        "handover"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/consulting-excel-modelling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:3ccddeeadb1662f160478a112eec958576a120b733802576600f981e6ad69dca"
+    },
+    {
+      "id": "management-consulting.consulting-exit-options",
+      "name": "Consulting Exit Options",
+      "description": "Leave consulting for the right role at the right moment: a clear reason to go, money and contract terms checked, a map of exit lanes, a live search pipeline, alumni and headhunters worked well, offers compared and a clean departure.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "consulting-exit-options",
+        "knowledge-worker",
+        "career-change",
+        "private-equity",
+        "corporate-strategy",
+        "alumni-network",
+        "headhunters"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/consulting-exit-options.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:5e53a48002e256adb5777ba67a811437b30e033b665f7d3289a91eb76e7b9312"
+    },
+    {
+      "id": "management-consulting.consulting-firm-partnership-model",
+      "name": "Consulting Firm Partnership Model",
+      "description": "Partner economics for a consulting firm you own: the ownership baseline, equity or profit share, origination credit, drawings, buy-ins, admitting new partners and fair, documented exits.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "consulting-firm-partnership-model",
+        "founder",
+        "small-business",
+        "partner-compensation",
+        "origination-credit",
+        "partner-buy-in",
+        "partnership-agreement"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/consulting-firm-partnership-model.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:75955c1877732ac4de7047f1b250a53bae2556f4345a98929ab185c343ad292b"
+    },
+    {
+      "id": "management-consulting.consulting-fit-interviews",
+      "name": "Consulting Fit Interviews",
+      "description": "A story bank that covers leadership, impact, teamwork and why consulting, each told in two minutes and tested against hard follow-up probes, with mocks, debriefs and plans for first and final rounds.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "consulting-fit-interviews",
+        "student",
+        "knowledge-worker",
+        "fit-interview",
+        "behavioural-interview",
+        "story-bank",
+        "recruiting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/consulting-fit-interviews.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5783acf41aee61d7d974a079c7848bad7887cdde1d4a2184fd331efabaadd36e"
+    },
+    {
+      "id": "management-consulting.consulting-knowledge-reuse",
+      "name": "Consulting Knowledge Reuse",
+      "description": "Find, judge and adapt your firm's past work fast: a map of the knowledge sources, search habits, practice experts on call, safe reuse of client material and a steady routine of sanitised contributions back.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "consulting-knowledge-reuse",
+        "knowledge-worker",
+        "knowledge-management",
+        "case-database",
+        "practice-experts",
+        "sanitisation",
+        "reuse"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/consulting-knowledge-reuse.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:3ba0f77f2b29ed99c82516973db4cb8f3e824f0a4e5d108ae02522bf3d0b3a97"
+    },
+    {
+      "id": "management-consulting.consulting-promotion-reviews",
+      "name": "Consulting Promotion Reviews",
+      "description": "Get promoted on your own terms: the criteria for the next grade read closely, an evidence file kept all year, reviews and upward feedback handled well, stretch roles asked for, and up-or-out timing planned rather than feared.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "consulting-promotion-reviews",
+        "knowledge-worker",
+        "promotion",
+        "performance-review",
+        "upward-feedback",
+        "up-or-out",
+        "career-development"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/consulting-promotion-reviews.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:18fd647c57d14d9b01b0104fde75f30805d8f1029b9cdf4a1ad304764f347b58"
+    },
+    {
+      "id": "management-consulting.consulting-proposal-letters",
+      "name": "Consulting Proposal Letters",
+      "description": "A proposal system for independents and small firms: qualifying the opportunity, the problem in the client's words, clear phases, credentials, fees and terms, and a follow-up call that gets a decision.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "consulting-proposal-letters",
+        "freelancer",
+        "small-business",
+        "proposals",
+        "rfp-responses",
+        "credentials",
+        "win-rate"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/consulting-proposal-letters.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1d312d2661cab715e8d39a5f2c28106bde98b9db7c11e7ebdd2ec75a242c6a36"
+    },
+    {
+      "id": "management-consulting.consulting-staffing-and-project-choice",
+      "name": "Consulting Staffing and Project Choice",
+      "description": "Have a say in which projects you get: how your firm's staffing really works, a clear record of what you have done, signals partners notice, and choices that balance travel, growth and life.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "consulting-staffing-and-project-choice",
+        "knowledge-worker",
+        "staffing",
+        "project-choice",
+        "career-development",
+        "partner-relationships",
+        "travel-balance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/consulting-staffing-and-project-choice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b517d79347ce99c2f196b5e7175c42843e10ffb2144e09ef69ad26ab3b5b330a"
+    },
+    {
+      "id": "management-consulting.consulting-thought-leadership",
+      "name": "Consulting Thought Leadership",
+      "description": "A defined point of view that brings in consulting work: one topic, a publishing calendar, articles, reports, talks and webinars, and a plain record of which pieces produced conversations and fees.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "consulting-thought-leadership",
+        "freelancer",
+        "small-business",
+        "thought-leadership",
+        "content-marketing",
+        "speaking",
+        "newsletters"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/consulting-thought-leadership.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:93dd7da4e98b74ae4c999e75974e3d02a4218b20d6bd1399a9577b282af0734e"
+    },
+    {
+      "id": "management-consulting.consulting-travel-life",
+      "name": "Consulting Travel Life",
+      "description": "Run a Monday to Thursday travel life that lasts: policies and kit sorted, expenses filed weekly, loyalty status used well, health kept on the road and written limits that protect home.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "consulting-travel-life",
+        "knowledge-worker",
+        "business-travel",
+        "loyalty-programmes",
+        "health-on-the-road",
+        "work-life-balance",
+        "expenses"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/consulting-travel-life.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:8c5c1fd39c617aba8c23a63519c536b269425306726273843b7ff26a9f236774"
+    },
+    {
+      "id": "management-consulting.cost-reduction-engagements",
+      "name": "Cost Reduction Engagements",
+      "description": "A delivery system for client cost work: a savings definition finance accepts, a reconciled baseline and spend cube, sized levers, an initiative register with gates, and savings traced into the accounts and next year's budget.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "cost-reduction-engagements",
+        "knowledge-worker",
+        "cost-reduction",
+        "spend-cube",
+        "zero-based-budgeting",
+        "procurement",
+        "savings-tracking"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/cost-reduction-engagements.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5039c7da4be8dd34820954b1395e0fc16980d90671adb113c88db15c401befac"
+    },
+    {
+      "id": "management-consulting.deliverable-quality-control",
+      "name": "Deliverable Quality Control",
+      "description": "A checking routine for consulting work before the client sees it: numbers tied to sources, consistent pages, fact checks, confidentiality sweeps, a final read-through and a recorded sign-off.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "deliverable-quality-control",
+        "knowledge-worker",
+        "team",
+        "quality-control",
+        "proofreading",
+        "fact-checking",
+        "sign-off"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/deliverable-quality-control.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:328f0da872761d9649aa70bdb9911adb965f8745bc024af1a6006243038a2f2e"
+    },
+    {
+      "id": "management-consulting.engagement-kickoff",
+      "name": "Engagement Kickoff",
+      "description": "A first-fortnight system for consulting engagements: scope confirmed in writing, the client team mapped, governance agreed, data and interviews requested early and a day-by-day first week.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "engagement-kickoff",
+        "knowledge-worker",
+        "freelancer",
+        "kickoff",
+        "scope",
+        "governance",
+        "first-week-plan"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/engagement-kickoff.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0c889792e8b96f9497c245361ad67b47e2c0ba704fabf8593530a276d89bf7cb"
+    },
+    {
+      "id": "management-consulting.engagement-manager-role",
+      "name": "Engagement Manager Role",
+      "description": "Run engagements as the manager: an agreed split of work with your partner, a plan and budget you can defend, a weekly operating rhythm, a team that grows, and top-down problem solving that keeps the answer moving.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "engagement-manager-role",
+        "knowledge-worker",
+        "manager",
+        "engagement-management",
+        "team-management",
+        "engagement-economics",
+        "partner-relationship"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/engagement-manager-role.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:7b91e68d260ba2c03c23812e30ab1f63d842fa66c4948b4b87062ae6593b3ccc"
+    },
+    {
+      "id": "management-consulting.ethics-and-conflicts-in-consulting",
+      "name": "Ethics and Conflicts in Consulting",
+      "description": "Your red lines in writing, a working conflicts register, clean handling of confidential client information, honest findings under pressure and a clear rule for when to walk away.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "ethics-and-conflicts-in-consulting",
+        "knowledge-worker",
+        "freelancer",
+        "conflicts-of-interest",
+        "confidentiality",
+        "professional-ethics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/ethics-and-conflicts-in-consulting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:d42875dda8408859028cd712e09c4c40d4bc1a535531dcf9d3a37ed5f637b4f6"
+    },
+    {
+      "id": "management-consulting.expert-network-calls",
+      "name": "Expert Network Calls",
+      "description": "A clean, well-paid expert sideline: employer permission, a conflicts register, sharp network profiles, fair rates, compliant calls that never stray into confidential ground, and income records ready for tax.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "expert-network-calls",
+        "freelancer",
+        "knowledge-worker",
+        "expert-networks",
+        "paid-consultations",
+        "compliance",
+        "rates"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/expert-network-calls.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:e7d59a9bdea6565886070ca2da7262c232ef442fc1e822227c5e0d6a5a80d5ad"
+    },
+    {
+      "id": "management-consulting.final-recommendations-readout",
+      "name": "Final Recommendations Readout",
+      "description": "A system for the final readout of an engagement: the decision sought, one clear recommendation with its evidence and financial case, a roadmap, rehearsals, objection handling and the follow-through afterwards.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "final-recommendations-readout",
+        "knowledge-worker",
+        "final-readout",
+        "recommendations",
+        "implementation-roadmap",
+        "objection-handling",
+        "executive-presentation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/final-recommendations-readout.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:79e90a77e708a662c212d8515ef71ad39c3e3e3864d3d04dc78759db81c79cbe"
+    },
+    {
+      "id": "management-consulting.first-year-as-a-consultant",
+      "name": "First Year as a Consultant",
+      "description": "A first year as an analyst or associate set up to go well: tools and notes ready from day one, a daily rhythm with your manager, feedback asked for and logged, client etiquette and one lesson kept from every project.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "first-year-as-a-consultant",
+        "knowledge-worker",
+        "student",
+        "analyst",
+        "associate",
+        "feedback",
+        "client-etiquette"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/first-year-as-a-consultant.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f5bc0892dc522b23b36a3f94c5f80d0a8187e251e81400bf255efbfc1e9c3d71"
+    },
+    {
+      "id": "management-consulting.follow-on-work-and-extensions",
+      "name": "Follow-On Work and Extensions",
+      "description": "A way to earn the next phase honestly: a needs log kept during delivery, account maps and budget calendars, timed extension conversations, short continuation notes and the quality bar that makes clients ask you back.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "follow-on-work-and-extensions",
+        "freelancer",
+        "knowledge-worker",
+        "account-growth",
+        "extensions",
+        "client-retention",
+        "repeat-business"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/follow-on-work-and-extensions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:b5c213d4730f3e18bfdf0f802883a31e14d46f5e426c6b62f78bbe2af9b32189"
+    },
+    {
+      "id": "management-consulting.going-independent-after-a-firm",
+      "name": "Going Independent After a Firm",
+      "description": "A route from consulting firm to independent practice: exit clauses read and checked, a runway and rate floor, a one-line offer, a company set up properly, a first client signed and routines that keep you sharp alone.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "going-independent-after-a-firm",
+        "freelancer",
+        "knowledge-worker",
+        "independent-consultant",
+        "restrictive-covenants",
+        "day-rate",
+        "solo-practice"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/going-independent-after-a-firm.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:653b58d03bb64702eafe1a8aceee4e400d912868f6a8b3618626036ad8fb8233"
+    },
+    {
+      "id": "management-consulting.hiring-consultants-for-a-boutique",
+      "name": "Hiring Consultants for a Boutique",
+      "description": "A hiring system for a small consulting firm: the case for each hire, role profiles and a scorecard, your own case interviews, pay bands, contractor or employee choices, offers and onboarding new consultants to your methods.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "hiring-consultants-for-a-boutique",
+        "founder",
+        "small-business",
+        "recruiting",
+        "case-interviews",
+        "compensation",
+        "onboarding"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/hiring-consultants-for-a-boutique.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:5403d0c03dafee8f6ef69e0527e31203daca21fddec312a3b9b3bfa6f34332a5"
+    },
+    {
+      "id": "management-consulting.hypothesis-driven-workplans",
+      "name": "Hypothesis-Driven Workplans",
+      "description": "Workplans that start from an answer: a day-one hypothesis, analyses mapped to it with sources, owners and dates, weekly answer rewrites, and stop rules that keep effort on what changes the recommendation.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "hypothesis-driven-workplans",
+        "knowledge-worker",
+        "hypotheses",
+        "workplans",
+        "project-planning",
+        "problem-solving"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/hypothesis-driven-workplans.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:e39e217fa41370e13f76b702428f58793c4760248de4741d11db3505f7481fc5"
+    },
+    {
+      "id": "management-consulting.implementation-support-phases",
+      "name": "Implementation Support Phases",
+      "description": "Stay on after the recommendation and help the client make it real: pilots with clear go or no-go criteria, change support, benefits tracked against a locked baseline and a handover the client owns.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "implementation-support-phases",
+        "knowledge-worker",
+        "implementation",
+        "pilots",
+        "change-management",
+        "benefits-tracking",
+        "handover"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/implementation-support-phases.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4eba6c807640d41e2193057d17ab3ac078242325d8d3a22811d3060b95a54a3d"
+    },
+    {
+      "id": "management-consulting.issue-trees-and-problem-structuring",
+      "name": "Issue Trees and Problem Structuring",
+      "description": "A sharp key question, MECE issue trees that can be tested, branches prioritised by value at stake, a living tree on real work and the weekly drills that make structuring fast and natural.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "issue-trees-and-problem-structuring",
+        "knowledge-worker",
+        "issue-trees",
+        "mece",
+        "problem-solving",
+        "driver-trees",
+        "key-question"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/issue-trees-and-problem-structuring.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:2bbbff7379685c553933ed0e53333725330d5fc4a2a805e53cf6971d1bc5cafe"
+    },
+    {
+      "id": "management-consulting.managing-client-sponsors",
+      "name": "Managing Client Sponsors",
+      "description": "A working system for the client sponsor relationship: expectations agreed early, a steady check-in rhythm, bad news delivered before it surprises anyone, and senior support for the recommendation kept to the end.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "managing-client-sponsors",
+        "knowledge-worker",
+        "sponsor",
+        "stakeholder-management",
+        "expectations",
+        "bad-news",
+        "trusted-adviser"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/managing-client-sponsors.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:2ffb9ee4425cbca2c2a9527ff9a9e8ea176be364bd2fe484fc2ebc627a6cdb10"
+    },
+    {
+      "id": "management-consulting.mba-consulting-internship",
+      "name": "MBA Consulting Internship",
+      "description": "A ten-week plan for the MBA consulting summer: offer terms and housing settled, staffing and feedback routines, a module delivered well, the mid and final reviews, and a clear decision on the return offer.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "mba-consulting-internship",
+        "student",
+        "mba",
+        "summer-internship",
+        "return-offer",
+        "consulting-careers"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/mba-consulting-internship.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 191
+      },
+      "contentHash": "sha256:1a55c07e8dda2647044781932f685d6a03368ef7b8806ca4084611ea61aba4ee"
+    },
+    {
+      "id": "management-consulting.multilateral-donor-funded-consultancies",
+      "name": "Multilateral and Donor-Funded Consultancies",
+      "description": "Find, win and deliver consultancies funded by development banks and donors: portal registration, donor-format CVs, EOIs, proposals to the funder's rules, inception to final report, and getting paid.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "multilateral-donor-funded-consultancies",
+        "freelancer",
+        "small-business",
+        "knowledge-worker",
+        "development-banks",
+        "procurement",
+        "terms-of-reference"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/multilateral-donor-funded-consultancies.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:47f1b69554df1e8c819a7f59844c81b376c5d7b6cef543ec75b963a34959ab70"
+    },
+    {
+      "id": "management-consulting.operations-improvement-engagements",
+      "name": "Operations Improvement Engagements",
+      "description": "Deliver operations improvement for a client: a measured baseline, process walks and value stream maps, bottleneck and loss analysis, pilots run on the floor with supervisors, and a handover client owners can run.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "operations-improvement-engagements",
+        "knowledge-worker",
+        "lean",
+        "value-stream-mapping",
+        "bottleneck-analysis",
+        "process-improvement",
+        "shop-floor"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/operations-improvement-engagements.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:09b836355b96bb159a50dea6f4ce2da4f3edeb8978690c474e42bccc3d483de2"
+    },
+    {
+      "id": "management-consulting.organisation-design-engagements",
+      "name": "Organisation Design Engagements",
+      "description": "A delivery method for organisation design work: the question and scope, a clean people baseline, design principles, options, spans and layers, role definitions, selection and a transition plan that holds up on day one.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "organisation-design-engagements",
+        "knowledge-worker",
+        "organisation-design",
+        "spans-and-layers",
+        "operating-model",
+        "role-design",
+        "transition-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/organisation-design-engagements.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:016478e376bf914d46d8f5d48b8fcbb6390dd9474bdd94c06ccf3804477f01e4"
+    },
+    {
+      "id": "management-consulting.partner-track-and-selling-work",
+      "name": "Partner Track and Selling Work",
+      "description": "A route from senior manager to partner: the election bar in writing, a sponsor, client relationships you own, a pipeline and origination record, proposals that win, a practice to be known for and the nomination itself.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "partner-track-and-selling-work",
+        "knowledge-worker",
+        "partner-track",
+        "business-development",
+        "origination",
+        "account-planning",
+        "partner-election"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/partner-track-and-selling-work.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:42a5259ebf80c48cf0d2f858d971b3f3d6b17d78dcc5023b873263e8e475e7aa"
+    },
+    {
+      "id": "management-consulting.pricing-strategy-engagements",
+      "name": "Pricing Strategy Engagements",
+      "description": "A delivery method for client pricing work: the pricing decision framed, a price waterfall from list to pocket, willingness-to-pay research, discount leakage closed, controlled pilots and a sales rollout that holds.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "pricing-strategy-engagements",
+        "knowledge-worker",
+        "pricing",
+        "price-waterfall",
+        "willingness-to-pay",
+        "discount-leakage",
+        "price-architecture"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/pricing-strategy-engagements.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:24e0b9893f0fa0812139e2ed004da1a1f6a4d08ef7e0e4a1fe007e1f61109561"
+    },
+    {
+      "id": "management-consulting.proprietary-frameworks-and-tools",
+      "name": "Proprietary Frameworks and Tools",
+      "description": "Turn the work you repeat into firm IP: an inventory of repeats, ownership checked in contracts, diagnostics, benchmarks and playbooks built and versioned, protection in place, and tools used in proposals, pilots and licences.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "proprietary-frameworks-and-tools",
+        "founder",
+        "small-business",
+        "freelancer",
+        "intellectual-property",
+        "diagnostics",
+        "methods"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/proprietary-frameworks-and-tools.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:8bc00bb57f909a155d83e8e0ceb546638f5a87b1013b5b54dd0c1091a54097eb"
+    },
+    {
+      "id": "management-consulting.public-sector-consulting-engagements",
+      "name": "Public Sector Consulting Engagements",
+      "description": "A working system for consulting to government: procurement routes and compliance packs, bid gates, value for money and business cases, contract reporting, approval tracking, transparency habits and the political calendar.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "public-sector-consulting-engagements",
+        "knowledge-worker",
+        "freelancer",
+        "public-procurement",
+        "value-for-money",
+        "business-case",
+        "government"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/public-sector-consulting-engagements.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:e09837a336cb04ef5c923f6c9b1952834408036cb426c9851bcdb1cb683f8750"
+    },
+    {
+      "id": "management-consulting.slide-storylining-and-action-titles",
+      "name": "Slide Storylining and Action Titles",
+      "description": "A working system for consulting slides: storyline before analysis, full-sentence action titles, one message per page, exhibits that prove the title and a ghost deck kept current.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "slide-storylining-and-action-titles",
+        "knowledge-worker",
+        "storyline",
+        "action-titles",
+        "ghost-deck",
+        "exhibits",
+        "powerpoint"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/slide-storylining-and-action-titles.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:63164bc5fc1c2fe811e5618793360e428cbb49b8637baebfe3cb236212c2bd6e"
+    },
+    {
+      "id": "management-consulting.steering-committee-meetings",
+      "name": "Steering Committee Meetings",
+      "description": "A working system for consulting steering committees: terms of reference, pre-wiring each member, a deck built around decisions, minutes out within a day and actions chased until they close.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "steering-committee-meetings",
+        "knowledge-worker",
+        "steering-committee",
+        "governance",
+        "pre-wiring",
+        "decision-making",
+        "minutes"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/steering-committee-meetings.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 182
+      },
+      "contentHash": "sha256:6a59cf6590f03b79fc321d1e1c02d4ef87c184a70c181c4e0295b76cb3169224"
+    },
+    {
+      "id": "management-consulting.subcontracting-to-larger-firms",
+      "name": "Subcontracting to Larger Firms",
+      "description": "Get onto bigger firms' approved supplier lists and stay there: a clear offer, a supplier pack, rate and term positions, branding and IP rules understood, client ownership respected and invoices paid on time.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "subcontracting-to-larger-firms",
+        "freelancer",
+        "small-business",
+        "subcontracting",
+        "approved-supplier",
+        "white-label",
+        "ip-terms"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/subcontracting-to-larger-firms.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a7d457e293d47744bae44a3264b79aca1fc774c56b5ca0716751ffee8b34e891"
+    },
+    {
+      "id": "management-consulting.synthesis-and-executive-summaries",
+      "name": "Synthesis and Executive Summaries",
+      "description": "A governing thought in one sentence, pyramid-structured one-page summaries with the answer first, recommendations a reader can act on, and the daily and weekly habits that turn analysis into answers.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "synthesis-and-executive-summaries",
+        "knowledge-worker",
+        "synthesis",
+        "pyramid-principle",
+        "executive-summary",
+        "business-writing",
+        "recommendations"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/synthesis-and-executive-summaries.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 190
+      },
+      "contentHash": "sha256:ea86dee0b4be8591c2407e990c55fcdee68838872d1489ca16fe2339f47adbf6"
+    },
+    {
+      "id": "management-consulting.transformation-office-support",
+      "name": "Transformation Office Support",
+      "description": "A working transformation office for a client: an agreed value target and baseline, stage gates that mean something, a weekly and monthly governance rhythm, value reconciled with finance and a board report people trust.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "transformation-office-support",
+        "knowledge-worker",
+        "transformation-office",
+        "pmo",
+        "value-tracking",
+        "stage-gates",
+        "governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/transformation-office-support.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:7869da507b9d163a715c9f1e1e03a45008b0e89ac9dfb25e378007376bd6772f"
+    },
+    {
+      "id": "management-consulting.workshop-facilitation",
+      "name": "Workshop Facilitation",
+      "description": "Client workshops that end in decisions: a clear objective, a timed agenda and exercises, prework that arrives, a room you can manage and a write-up within two days.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "workshop-facilitation",
+        "knowledge-worker",
+        "freelancer",
+        "facilitation",
+        "workshop-design",
+        "remote-workshops",
+        "decision-making"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/workshop-facilitation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 210
+      },
+      "contentHash": "sha256:2cc214a93dc816020297875dccb23dd0a53cddf56581ee833019b50164241b3d"
+    },
+    {
+      "id": "management-consulting.workstream-leadership",
+      "name": "Workstream Leadership",
+      "description": "Run one workstream of an engagement well: a one-page charter, a daily team check-in, reviews that raise quality, a working relationship with the client counterpart and crisp weekly reporting to your manager.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "workstream-leadership",
+        "knowledge-worker",
+        "manager",
+        "team-leadership",
+        "daily-check-in",
+        "client-counterpart",
+        "analysis-quality"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/workstream-leadership.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:3eb77306e1bd7b1a3bbfb95cfdf23ee83aafd9d3505191b58e362ec65c7e0ec1"
+    },
+    {
+      "id": "management-consulting.written-and-group-case-exercises",
+      "name": "Written and Group Case Exercises",
+      "description": "A practice plan for written and group cases: reading a data pack against the clock, a few clear slides, a confident presentation and calm, useful teamwork with other candidates.",
+      "category": "business",
+      "tags": [
+        "management-consulting",
+        "written-and-group-case-exercises",
+        "student",
+        "knowledge-worker",
+        "written-case",
+        "group-case",
+        "assessment-centre",
+        "data-pack"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/management-consulting/written-and-group-case-exercises.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Management Consulting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:30ca120b4d5b825944eadcdacf575217df95016e86d88f2075d68e24f37a5d6a"
     },
     {
       "id": "mental-wellbeing.addiction-recovery-sobriety",
@@ -16451,6 +18211,566 @@
         "totalTasks": 203
       },
       "contentHash": "sha256:43c64d84e36e3f2ba8126737bda2fa48ebe5e6d57a54f4f9fcb7f6595e6ffdb5"
+    },
+    {
+      "id": "practice-ownership.admitting-new-partners",
+      "name": "Admitting New Partners",
+      "description": "A clear case for adding a partner, written criteria, a buy-in figure and financing plan, a fair trial period, a recorded admission vote and an amended agreement signed by everyone.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "admitting-new-partners",
+        "small-business",
+        "partnership",
+        "buy-in",
+        "partner-admission",
+        "capital-account",
+        "due-diligence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/admitting-new-partners.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:5b3b5710cb984b6fe874d0f943578c09626145d605ac41969452ee17e134c625"
+    },
+    {
+      "id": "practice-ownership.buying-an-existing-practice",
+      "name": "Buying an Existing Practice",
+      "description": "Search criteria, an adviser team and finance in place, due diligence on the books, the patient or client list, staff and lease, an offer you can defend, and a handover that keeps the people and the goodwill you paid for.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "buying-an-existing-practice",
+        "founder",
+        "small-business",
+        "acquisition",
+        "due-diligence",
+        "practice-purchase",
+        "handover"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/buying-an-existing-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:3b1f3d7601b04a7625f50331291eb296e681da509436ed6392b52a014096d860"
+    },
+    {
+      "id": "practice-ownership.owning-a-dental-practice",
+      "name": "Owning a Dental Practice",
+      "description": "Surgeries, equipment and decontamination records, associates and hygienists, treatment plans, fees and lab bills, and the recall system that keeps a dental practice full and inspection-ready.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "owning-a-dental-practice",
+        "small-business",
+        "founder",
+        "dentistry",
+        "infection-control",
+        "dental-lab",
+        "patient-recalls"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/owning-a-dental-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b3dac50bcc7e49c3ee82d63472f25cf54de4dfe00193ae2b147e880fe17f4210"
+    },
+    {
+      "id": "practice-ownership.owning-a-law-firm",
+      "name": "Owning a Law Firm",
+      "description": "Practice area choices, conflict checks, key dates, undertakings, billing rhythms and partner routines for owning a law firm, from opening day to merger talks.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "owning-a-law-firm",
+        "small-business",
+        "founder",
+        "law-firm",
+        "conflict-checks",
+        "professional-conduct",
+        "fee-earners"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/owning-a-law-firm.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:2286a266720c35730735281685b78ec1cfa3043b948327b2944aa217e86675b1"
+    },
+    {
+      "id": "practice-ownership.owning-a-medical-clinic",
+      "name": "Owning a Medical Clinic",
+      "description": "Run your clinic as a business without losing the doctor in you: licences and services set, rosters and session maps, results and recall systems, cold chain and stock, new services, inspections and the owner's own clinical load.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "owning-a-medical-clinic",
+        "small-business",
+        "founder",
+        "family-practice",
+        "clinic-operations",
+        "rosters",
+        "primary-care"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/owning-a-medical-clinic.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4acb7fe9bd341f7ad37a15d3c995135313e427cf437916a73432b63519b5e344"
+    },
+    {
+      "id": "practice-ownership.owning-a-pharmacy",
+      "name": "Owning a Pharmacy",
+      "description": "Dispensing workflow and SOPs, wholesaler accounts, drug programme and insurer claims, controlled drug registers, cold chain and expiry routines, and a front shop that pays its way in an independent pharmacy.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "owning-a-pharmacy",
+        "small-business",
+        "founder",
+        "pharmacy",
+        "dispensing",
+        "controlled-drugs",
+        "retail"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/owning-a-pharmacy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:42692822b1fd5cc3178434859b8800829b51637dfdbf3c143c7ae7d5cf467a4f"
+    },
+    {
+      "id": "practice-ownership.owning-a-physiotherapy-clinic",
+      "name": "Owning a Physiotherapy Clinic",
+      "description": "Treatment rooms and equipment, therapist diaries and utilisation, insurer and self-pay billing, referrers kept informed and outcome data you can show, for the physiotherapist who owns the clinic.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "owning-a-physiotherapy-clinic",
+        "small-business",
+        "founder",
+        "physiotherapy",
+        "rehabilitation",
+        "outcome-measures",
+        "insurer-billing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/owning-a-physiotherapy-clinic.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:bd9fab84c049e05211493ec54fcfb96fbba787f47683a122fdf59974af1a7fba"
+    },
+    {
+      "id": "practice-ownership.owning-a-therapy-practice",
+      "name": "Owning a Therapy Practice",
+      "description": "Clinician agreements, supervision and caseload limits, fees, insurers and cancellations, confidentiality, notes and records, room bookings and the risk protocols that let a counselling or psychology practice run safely.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "owning-a-therapy-practice",
+        "small-business",
+        "founder",
+        "counselling",
+        "psychology",
+        "clinical-supervision",
+        "confidentiality"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/owning-a-therapy-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6146be7e404e09f0597f1ba0242566531f3ce9a966a3db1b3840356cb383257f"
+    },
+    {
+      "id": "practice-ownership.owning-a-veterinary-practice",
+      "name": "Owning a Veterinary Practice",
+      "description": "Premises standards, theatre and dispensary routines, controlled drugs, out-of-hours cover, vet and nurse rotas, fees, health plans and client billing, for the vet who owns the practice as well as working in it.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "owning-a-veterinary-practice",
+        "small-business",
+        "founder",
+        "veterinary",
+        "dispensary",
+        "out-of-hours",
+        "pet-health-plans"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/owning-a-veterinary-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:386a666d4eeb795f51b158d3b19fa6b7bc528989905f602afb755eb5fc8d5d76"
+    },
+    {
+      "id": "practice-ownership.owning-an-accounting-firm",
+      "name": "Owning an Accounting Firm",
+      "description": "Service lines mapped, engagement letters and a deadline calendar in place, a quality system that survives a monitoring visit, a busy season you plan for, and the decisions that shape an accounting firm you own.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "owning-an-accounting-firm",
+        "small-business",
+        "founder",
+        "accounting",
+        "audit",
+        "tax-practice",
+        "quality-control"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/owning-an-accounting-firm.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:82293d173684d690a25deb6325b341919cdbe8ea5cd273d343cad5c552fe39c3"
+    },
+    {
+      "id": "practice-ownership.owning-an-architecture-studio",
+      "name": "Owning an Architecture Studio",
+      "description": "Run your architecture studio as a business: registration kept current, fees tied to work stages, resourcing through peaks, consultant appointments, competitions and a studio culture people stay for.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "owning-an-architecture-studio",
+        "small-business",
+        "founder",
+        "architecture",
+        "fee-stages",
+        "competitions",
+        "studio-resourcing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/owning-an-architecture-studio.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b93a91eb4f8e40edf8e17b43415a93fceb1e3ecf414109faf21d38864a5df1b9"
+    },
+    {
+      "id": "practice-ownership.owning-an-engineering-consultancy",
+      "name": "Owning an Engineering Consultancy",
+      "description": "Run an engineering consultancy as a business: disciplines and sign-off authority set, fee bids that price the real hours, indemnity in place, staff on the right jobs and cash that holds steady between commissions.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "owning-an-engineering-consultancy",
+        "small-business",
+        "founder",
+        "engineer",
+        "fee-bids",
+        "professional-sign-off",
+        "resourcing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/owning-an-engineering-consultancy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:c79904a57f634d167ba62e61857503501bf363d05da1ec0382dc49a6ca2f993a"
+    },
+    {
+      "id": "practice-ownership.owning-an-optometry-practice",
+      "name": "Owning an Optometry Practice",
+      "description": "Eye exams and recalls, frame and lens stock, lab accounts and remakes, retail margins, clinical equipment and the services that keep an independent optometry practice busy and inspection-ready.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "owning-an-optometry-practice",
+        "small-business",
+        "founder",
+        "optometry",
+        "optical-retail",
+        "eyewear",
+        "patient-recalls"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/owning-an-optometry-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:5e2018821e0d70aa2df105491b263192bce91a13a40ace39834a596d0ff80994"
+    },
+    {
+      "id": "practice-ownership.partner-profit-sharing-models",
+      "name": "Partner Profit Sharing Models",
+      "description": "A clear profit pool, a chosen sharing model, origination credit rules, drawings and tax reserves, a yearly allocation cycle and a planned review as the partnership grows.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "partner-profit-sharing-models",
+        "small-business",
+        "lockstep",
+        "merit-pay",
+        "origination-credit",
+        "partner-drawings",
+        "partner-compensation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/partner-profit-sharing-models.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3673053b8e0c5a19dcd3daf101dbd9e1549e07b37abcf4c2ad33b3f1a8890a0c"
+    },
+    {
+      "id": "practice-ownership.partner-retirement-and-exit",
+      "name": "Partner Retirement and Exit",
+      "description": "Exit clauses mapped, notice served, capital and goodwill bought out on agreed terms, clients handed over properly, covenants respected and every deferred payment tracked until the last one clears.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "partner-retirement-and-exit",
+        "small-business",
+        "retiree",
+        "partner-exit",
+        "buyout",
+        "goodwill",
+        "restrictive-covenants"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/partner-retirement-and-exit.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:711fa451160e53886932cf641c48c7abae27907cc0b56a8d1a84e031a8c82ca5"
+    },
+    {
+      "id": "practice-ownership.practice-partnership-agreements",
+      "name": "Practice Partnership Agreements",
+      "description": "Heads of terms, capital and profit clauses, decision rules, covenants, death and disability terms, exit formulas and the yearly routines that keep a practice partnership agreement current and signed.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "practice-partnership-agreements",
+        "small-business",
+        "partnership-agreement",
+        "members-agreement",
+        "restrictive-covenants",
+        "partner-capital",
+        "exit-terms"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/practice-partnership-agreements.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:1f7d3d8c8fe175c2fc1094bc87790f2aed678311c0717ba24cef1451ecaa0a6f"
+    },
+    {
+      "id": "practice-ownership.practice-premises-and-fit-out",
+      "name": "Practice Premises and Fit-Out",
+      "description": "A space brief and budget, zoning and lease checks, a layout that meets your regulator's room rules, a fit-out delivered on cost, and the maintenance, safety and lease dates that keep practice premises working.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "practice-premises-and-fit-out",
+        "small-business",
+        "premises",
+        "fit-out",
+        "commercial-lease",
+        "accessibility",
+        "zoning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/practice-premises-and-fit-out.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:8ea7d824ba93a7329e08ec19c42cf126c796e1b6f283ac348244ef7453469f9c"
+    },
+    {
+      "id": "practice-ownership.practice-regulator-compliance",
+      "name": "Practice Regulator Compliance",
+      "description": "A map of every regulator duty the practice carries, registration and annual returns filed on time, an evidence library inspectors can test, and a calm routine for inspections, findings and notifiable changes.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "practice-regulator-compliance",
+        "small-business",
+        "regulator",
+        "inspections",
+        "annual-returns",
+        "registration",
+        "compliance-records"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/practice-regulator-compliance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:80897426b9cb19ae58524d0f97ef9f468523cc5394d1e7a874fee71d3d89695a"
+    },
+    {
+      "id": "practice-ownership.practice-valuation",
+      "name": "Practice Valuation",
+      "description": "Normalised earnings, a clean valuation file, the methods buyers and valuers use, owner dependence and retention measured, and a value you can explain before any sale, buy-in or dispute.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "practice-valuation",
+        "small-business",
+        "valuation",
+        "goodwill",
+        "ebitda",
+        "multiples",
+        "owner-dependence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/practice-valuation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:50e17fc002362e13bb1d8bd794e36e0388bef2ac38958353125b62e10d2154f2"
+    },
+    {
+      "id": "practice-ownership.starting-a-practice-from-scratch",
+      "name": "Starting a Practice from Scratch",
+      "description": "A tested concept, the cash to last until fees arrive, licences and insurance in force, a chosen location, day-one systems, first staff and a first base of patients or clients for a brand new practice.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "starting-a-practice-from-scratch",
+        "founder",
+        "small-business",
+        "new-practice",
+        "start-up-costs",
+        "licensing",
+        "first-clients"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/starting-a-practice-from-scratch.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c76aa4d02782b0d0a963f7fa34b6ae859b8f71e0e825628dbbf1c37fddfaeadf"
     },
     {
       "id": "private-equity-vc.100-day-plans",
@@ -20648,6 +22968,1407 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:6516efef1c56b66e18747702093153c85f9bcdabd98470e8dc000f83db696dcf"
+    },
+    {
+      "id": "real-estate-development.affordable-housing-development",
+      "name": "Affordable Housing Development",
+      "description": "Affordable homes delivered with confidence: the right agency and non-profit partners, subsidy and grant terms understood, eligibility rules kept, mixed-tenure design that works and units handed over on time.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "affordable-housing-development",
+        "founder",
+        "small-business",
+        "nonprofit",
+        "subsidy",
+        "mixed-tenure",
+        "housing-agencies"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/affordable-housing-development.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1c4927a8f2845e9cf1d4f8a1dda6e9b40765d99b5153069eaf968ea754f45280"
+    },
+    {
+      "id": "real-estate-development.appointing-a-design-team",
+      "name": "Appointing a Design Team",
+      "description": "A design team you chose on purpose: clear scopes, comparable fee bids, signed appointments with warranties and insurance in place, and a steady rhythm for coordinating architects, engineers and consultants.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "appointing-a-design-team",
+        "founder",
+        "small-business",
+        "architects",
+        "consultant-appointments",
+        "fee-bids",
+        "collateral-warranties"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/appointing-a-design-team.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:107f1f2381af20d3999a3473a6cb88b43e1d9854eb9e4429470a87ee86b18712"
+    },
+    {
+      "id": "real-estate-development.build-contracts-contractor-selection",
+      "name": "Build Contracts and Contractor Selection",
+      "description": "A contractor chosen on purpose: the right procurement route, a vetted tender list, comparable bids scored on quality as well as price, and a signed building contract with bonds, retentions and insurances in place.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "build-contracts-contractor-selection",
+        "founder",
+        "small-business",
+        "tendering",
+        "building-contracts",
+        "contractor-selection",
+        "bonds-and-retentions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/build-contracts-contractor-selection.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f3bd09d1370a50ce68a0d4812d0dc048faf00be9e8ad7430b55b0c6719fe7d08"
+    },
+    {
+      "id": "real-estate-development.build-to-rent-development",
+      "name": "Build-to-Rent Development",
+      "description": "Purpose-built rental housing from first thesis to a stabilised scheme: rent evidence, design for long-term letting, amenity and operating cost budgets, income-based appraisals and forward funding deals.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "build-to-rent-development",
+        "founder",
+        "small-business",
+        "build-to-rent",
+        "forward-funding",
+        "rental-housing",
+        "operating-costs"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/build-to-rent-development.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:693c1b2b371a050171edd925acb8943caba8b2637c0204952af19d7c474c84f5"
+    },
+    {
+      "id": "real-estate-development.building-capex-reserves",
+      "name": "Building Capex Reserves",
+      "description": "A capital plan you can defend: condition surveys, an asset register and lifecycle schedule, a funded reserve, a scoring matrix for roof, plant and facade works, and the yearly cycle that keeps it current.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "building-capex-reserves",
+        "small-business",
+        "knowledge-worker",
+        "capital-planning",
+        "reserve-fund",
+        "condition-survey",
+        "lifecycle"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/building-capex-reserves.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a6be4ff0e8f79d84e893dc0147fb314b5b3aa0dae3b0d10070f309f967f88a0d"
+    },
+    {
+      "id": "real-estate-development.cap-rates-and-property-valuation",
+      "name": "Cap Rates and Property Valuation",
+      "description": "Values you can defend: clear yield definitions, a normalised NOI, a live comparables log, direct capitalisation, DCF and replacement cost methods, and a written reconciliation to one figure.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "cap-rates-and-property-valuation",
+        "knowledge-worker",
+        "founder",
+        "cap-rates",
+        "comparable-sales",
+        "discounted-cash-flow",
+        "replacement-cost"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/cap-rates-and-property-valuation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:2d28e9199ca27d280be053cd92a5ae06f0b70cda282554a02ce193e3178a038d"
+    },
+    {
+      "id": "real-estate-development.caribbean-development-approvals",
+      "name": "Caribbean Development Approvals",
+      "description": "Caribbean development approvals run as a managed programme: the agencies mapped, zoning checked, planning, environmental and building applications submitted complete, consultees chased, conditions logged and completion certificates secured.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "caribbean-development-approvals",
+        "founder",
+        "small-business",
+        "caribbean",
+        "planning-approval",
+        "environmental-clearance",
+        "building-permits"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/caribbean-development-approvals.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:33b4646a26004d35b088e98842701c0328487de514237889c87bb35cab1a864c"
+    },
+    {
+      "id": "real-estate-development.caribbean-land-subdivision-projects",
+      "name": "Caribbean Land Subdivision Projects",
+      "description": "A lot count brief, surveys and a constraint map, subdivision approval, roads, drains, water and power, a cost-to-complete routine, lot sales and separate titles for every lot.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "caribbean-land-subdivision-projects",
+        "founder",
+        "small-business",
+        "caribbean",
+        "subdivision",
+        "serviced-lots",
+        "infrastructure"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/caribbean-land-subdivision-projects.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:f571789051774003d3a60b7f433f57e81ff2287a8c4ff59cff5fe065076d0fa9"
+    },
+    {
+      "id": "real-estate-development.caribbean-land-title-checks",
+      "name": "Caribbean Land Title Checks",
+      "description": "Know who really owns a Caribbean site before you build: deeds and registered titles, family land, occupiers and squatters, boundary surveys, fraud checks and title insurance where it exists.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "caribbean-land-title-checks",
+        "founder",
+        "small-business",
+        "caribbean",
+        "land-title",
+        "family-land",
+        "boundary-survey"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/caribbean-land-title-checks.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7561f74daf7ed897ae187016bfeb3a8ae52dca91ced068b88cc0e59697765ca7"
+    },
+    {
+      "id": "real-estate-development.caribbean-tourism-real-estate",
+      "name": "Caribbean Tourism Real Estate",
+      "description": "Villas, condo-hotel units and small resorts in the Caribbean run as a business: an island chosen on evidence, foreign buyer licences, incentives, rental programmes that pay, windstorm cover that responds and a workable exit.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "caribbean-tourism-real-estate",
+        "founder",
+        "small-business",
+        "caribbean",
+        "villas",
+        "resorts",
+        "tourism"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/caribbean-tourism-real-estate.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:1d3aa454f9a6044b52e91546130aa27b8b7091f8183d6bb02c7e295140d32ffb"
+    },
+    {
+      "id": "real-estate-development.commercial-property-asset-management",
+      "name": "Commercial Property Asset Management",
+      "description": "Running commercial buildings after purchase: a business plan per asset, a leasing strategy, service charges that reconcile, capex that earns its keep and an honest hold or sell review every year.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "commercial-property-asset-management",
+        "knowledge-worker",
+        "small-business",
+        "business-plan",
+        "service-charges",
+        "capex",
+        "hold-sell-review"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/commercial-property-asset-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0c41fb10f53679461aa51b675f8fea4b2269420eb285cc70c91ec985987c6122"
+    },
+    {
+      "id": "real-estate-development.commercial-property-underwriting",
+      "name": "Commercial Property Underwriting",
+      "description": "Underwriting you can defend: evidenced market rents, scored tenant covenants, a lease expiry profile, a hold-period capex budget, a reasoned exit cap rate and downside cases that decide the bid.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "commercial-property-underwriting",
+        "knowledge-worker",
+        "founder",
+        "tenant-covenant",
+        "lease-expiry",
+        "exit-cap-rate",
+        "downside-case"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/commercial-property-underwriting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b0229a93826bb313d5a9b2ea938a6ddbcb869ffa5d50b4f37b9595bedc9761a8"
+    },
+    {
+      "id": "real-estate-development.commercial-real-estate-acquisitions",
+      "name": "Commercial Real Estate Acquisitions",
+      "description": "A disciplined route to buying office, retail and industrial property: a clear buy box, offering memoranda screened fast, rent rolls and leases read properly, bids that win on terms and closings that land on time.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "commercial-real-estate-acquisitions",
+        "founder",
+        "small-business",
+        "knowledge-worker",
+        "offering-memorandum",
+        "rent-roll",
+        "lease-review"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/commercial-real-estate-acquisitions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:ef1b1abe0b7c49752af1a3b918ba387a05baf1cfda35a202f65eba5e2cc5dbea"
+    },
+    {
+      "id": "real-estate-development.commercial-real-estate-debt",
+      "name": "Commercial Real Estate Debt",
+      "description": "Borrowing against income property with your eyes open: a debt register, lender-ready sponsor papers, quotes compared on all-in cost, covenant tests run before the lender runs them, and refinancing planned years ahead.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "commercial-real-estate-debt",
+        "founder",
+        "small-business",
+        "commercial-mortgages",
+        "dscr",
+        "loan-to-value",
+        "refinancing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/commercial-real-estate-debt.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:0d44171e41d5d6601a872abf74debdf49528df30fad9f4f68c51d343246fe10a"
+    },
+    {
+      "id": "real-estate-development.construction-finance",
+      "name": "Construction Finance",
+      "description": "Development finance you can raise and run: a clear capital stack, a lender-ready credit pack, term sheets compared properly, clean monthly drawdowns, monitoring surveyor sign-off and mezzanine or equity for the gap.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "construction-finance",
+        "founder",
+        "small-business",
+        "development-finance",
+        "loan-to-cost",
+        "drawdowns",
+        "mezzanine"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/construction-finance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:99998279383ecd70f8db3c4ebb0e10aeb48566c9ae35101631f55ccbe4245a38"
+    },
+    {
+      "id": "real-estate-development.development-appraisal",
+      "name": "Development Appraisal",
+      "description": "A repeatable appraisal you trust: evidenced GDV, build and fee costs, finance, profit on cost, residual land value and the sensitivities that decide whether to bid, renegotiate or walk away.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "development-appraisal",
+        "founder",
+        "small-business",
+        "knowledge-worker",
+        "residual-land-value",
+        "gdv",
+        "profit-on-cost",
+        "sensitivity-analysis"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/development-appraisal.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:89a22c30bd1baa2da967ccaa7a766215ac51798904e47b5e1747afd84d56dd16"
+    },
+    {
+      "id": "real-estate-development.development-cost-control",
+      "name": "Development Cost Control",
+      "description": "Build costs you can see and steer: a locked budget and cost codes, a monthly QS report and final cost forecast, variations under change control, contingency spent on purpose, value engineering and a final account settled on time.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "development-cost-control",
+        "founder",
+        "small-business",
+        "quantity-surveying",
+        "cost-plan",
+        "variations",
+        "final-account"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/development-cost-control.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:729b49874ef825e06170e3b99dffeaa7807c6f552e6811346a88317ddfab53ba"
+    },
+    {
+      "id": "real-estate-development.development-exit-and-refinancing",
+      "name": "Development Exit and Refinancing",
+      "description": "A planned way out of every finished scheme: exit routes compared early, stabilisation tracked, investment debt sized and secured, block sales run well and capital recycled into the next site.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "development-exit-and-refinancing",
+        "founder",
+        "small-business",
+        "refinancing",
+        "block-sale",
+        "stabilisation",
+        "capital-recycling"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/development-exit-and-refinancing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:288b8de432bfac88fcba0051db967d4204bc5ff35ccf67c947495cc2176be8c7"
+    },
+    {
+      "id": "real-estate-development.development-joint-ventures",
+      "name": "Development Joint Ventures",
+      "description": "Development joint ventures set up and run with care: the right partner, clear contributions, heads of terms, profit shares, decision rights, deadlock and exit clauses, and the reporting that keeps partners aligned.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "development-joint-ventures",
+        "founder",
+        "small-business",
+        "landowner-jv",
+        "equity-partner",
+        "profit-share",
+        "deadlock"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/development-joint-ventures.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:09692f258cc207b00239dfe6fb0b0ff559991790798ea60ba92f98210d5a58cd"
+    },
+    {
+      "id": "real-estate-development.development-project-delivery",
+      "name": "Development Project Delivery",
+      "description": "Run a development from start on site to completion: a locked baseline programme, design team and progress meetings, contractor oversight, monthly cost and project reports and a live risk register.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "development-project-delivery",
+        "founder",
+        "small-business",
+        "manager",
+        "construction-programme",
+        "contract-administration",
+        "site-management"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/development-project-delivery.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6f93e8b19a60920438716aaa9ec2faef579aa2350907a2f294df903976899b67"
+    },
+    {
+      "id": "real-estate-development.distressed-property-acquisitions",
+      "name": "Distressed Property Acquisitions",
+      "description": "Buy distressed property without being the one who overpaid: clear risk limits, cash ready to close, a feel for how repossessions and receiver sales work, extra diligence, honest repair budgets and a plan for auction day.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "distressed-property-acquisitions",
+        "founder",
+        "small-business",
+        "foreclosure",
+        "auctions",
+        "receivership",
+        "non-performing-loans"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/distressed-property-acquisitions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:e8e3cab6dea1c0aaeb779b3661f77e3d571afc768a15303c8bed14b80fcef0e7"
+    },
+    {
+      "id": "real-estate-development.hotel-and-hospitality-property",
+      "name": "Hotel and Hospitality Property",
+      "description": "Hotel ownership run as a business: a clear buy box, the RevPAR and P&L literacy owners need, the right operator, brand and lease terms, monthly owner oversight, FF&E reserves and the refurbishment cycles that keep a hotel saleable.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "hotel-and-hospitality-property",
+        "founder",
+        "small-business",
+        "hotels",
+        "revpar",
+        "management-contracts",
+        "hotel-capex"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/hotel-and-hospitality-property.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:8b85bd44ace2a8355669d39ac836464f379bbf3d72f5be3572991b1ad40a6234"
+    },
+    {
+      "id": "real-estate-development.hurricane-resilient-development",
+      "name": "Hurricane-Resilient Development",
+      "description": "Developments designed and financed for hurricanes and flooding: site exposure mapped, wind and flood design set early, roofs and openings built right, insurance costs managed and resilience turned into a reason to buy.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "hurricane-resilient-development",
+        "founder",
+        "small-business",
+        "hurricanes",
+        "flood-risk",
+        "building-codes",
+        "storm-insurance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/hurricane-resilient-development.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:18deede46a92b915cb2bbe3d24bf1eeba3945954c521948535e5281c7623e744"
+    },
+    {
+      "id": "real-estate-development.industrial-and-logistics-property",
+      "name": "Industrial and Logistics Property",
+      "description": "Warehouse and light industrial investing run as a business: a clear buy box, a specification checklist for every shed, local market data, sound industrial leases and the upgrades that keep units lettable.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "industrial-and-logistics-property",
+        "founder",
+        "small-business",
+        "warehouses",
+        "logistics",
+        "light-industrial",
+        "multi-let-estates"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/industrial-and-logistics-property.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f56fe4db90fc29f7f47c929a5c496f58b2062e672855e84af5a0f12b76a27acc"
+    },
+    {
+      "id": "real-estate-development.land-banking-and-strategic-land",
+      "name": "Land Banking and Strategic Land",
+      "description": "A written land banking thesis, a holdings register and holding cost ledger, local plan and growth watches, promotion through call for sites and examination, and a disciplined route to timing and completing a sale.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "land-banking-and-strategic-land",
+        "founder",
+        "small-business",
+        "strategic-land",
+        "land-promotion",
+        "local-plans",
+        "holding-costs"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/land-banking-and-strategic-land.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3d4801a48cb12915974d3642f6afa6d58e049e633bb69ad2f3de12ad0eaa66c5"
+    },
+    {
+      "id": "real-estate-development.mixed-use-development",
+      "name": "Mixed-Use Development",
+      "description": "Mixed-use schemes that work as one building: a use mix backed by demand, separate cores and servicing, a clear ownership split, commercial units leased well and homes sold or held with confidence.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "mixed-use-development",
+        "founder",
+        "small-business",
+        "ground-floor-retail",
+        "workspace",
+        "service-charges",
+        "active-frontage"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/mixed-use-development.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:da49148b9efb481d346410f4292fc7e390cf5cec42e8a938bc702cb7369339c7"
+    },
+    {
+      "id": "real-estate-development.multifamily-acquisitions",
+      "name": "Multifamily Acquisitions",
+      "description": "Buy apartment buildings with your eyes open: a clear buy box, a team and lender ready, rent rolls and expenses audited, every unit walked, debt arranged and a closing that hands over cleanly to a day one takeover plan.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "multifamily-acquisitions",
+        "founder",
+        "small-business",
+        "apartments",
+        "rent-roll",
+        "due-diligence",
+        "takeover"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/multifamily-acquisitions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:8f03b60315596a456e5794a0258cc3e42201ccb2d7599f17e318a364654656d7"
+    },
+    {
+      "id": "real-estate-development.multifamily-value-add-programmes",
+      "name": "Multifamily Value-Add Programmes",
+      "description": "Improving apartment buildings you own: a value-add plan per building, tested unit renovations, amenity and other income upgrades, lawful rent increases, expense cuts and a ledger tracking the return on every spend.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "multifamily-value-add-programmes",
+        "founder",
+        "small-business",
+        "value-add",
+        "unit-renovations",
+        "rent-increases",
+        "expense-reduction"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/multifamily-value-add-programmes.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:72d04c4a4d3fd7496bbe732ce012bff4e6cc3e92815d16ccf37803e2c3aeceeb"
+    },
+    {
+      "id": "real-estate-development.niche-property-sectors",
+      "name": "Niche Property Sectors",
+      "description": "A disciplined way into self-storage, student housing, healthcare property and data centres: a sector scorecard, the metrics each runs on, market watches, operator diligence and specialist structures.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "niche-property-sectors",
+        "founder",
+        "knowledge-worker",
+        "self-storage",
+        "student-housing",
+        "healthcare-property",
+        "data-centres"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/niche-property-sectors.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:7c5e8dc9e4e5960cb79b67c5f94e6142978e725bb06ebf34b6c6530bef21af78"
+    },
+    {
+      "id": "real-estate-development.off-market-deal-sourcing",
+      "name": "Off-Market Deal Sourcing",
+      "description": "A written buying brief, a patch you know street by street, owner outreach that respects consent rules, agents who call you first, distress signals watched and a deal pipeline reviewed every week.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "off-market-deal-sourcing",
+        "founder",
+        "small-business",
+        "deal-sourcing",
+        "owner-outreach",
+        "deal-pipeline",
+        "off-market"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/off-market-deal-sourcing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9fa2ffd20c2b34b98fd89b896c7151ecfd24ac1da58dc96ea6f689cdf8010a30"
+    },
+    {
+      "id": "real-estate-development.off-plan-and-development-sales",
+      "name": "Off-Plan and Development Sales",
+      "description": "Selling the homes in your scheme on purpose: a sales strategy and price list, an agent on clear terms, reservations and deposits handled properly, weekly progression, show units, launch events and a calm completion and keys day.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "off-plan-and-development-sales",
+        "founder",
+        "small-business",
+        "new-homes-sales",
+        "pricing",
+        "reservations",
+        "sales-progression"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/off-plan-and-development-sales.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:8f43c0a8cba67ea7e26070f90eaba109af3e64b7f88248d9cac2f7f97ceade08"
+    },
+    {
+      "id": "real-estate-development.office-and-retail-leasing",
+      "name": "Office and Retail Leasing",
+      "description": "Leasing office and retail space as a landlord: vacant units marketed well, heads of terms you can defend, incentives priced as net effective rent, a tenant mix that works and renewals agreed before they become breaks.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "office-and-retail-leasing",
+        "small-business",
+        "knowledge-worker",
+        "heads-of-terms",
+        "lease-incentives",
+        "tenant-mix",
+        "lease-renewals"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/office-and-retail-leasing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:697ba9634d27c04b849680bcf1322d33fe481525c1032a555aee929e2d467c01"
+    },
+    {
+      "id": "real-estate-development.option-and-conditional-land-deals",
+      "name": "Option and Conditional Land Deals",
+      "description": "Land deals that cap your risk before planning: option agreements, contracts conditional on consent and promotion agreements, with every fee, notice and long-stop date tracked from signing to completion.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "option-and-conditional-land-deals",
+        "founder",
+        "small-business",
+        "option-agreements",
+        "conditional-contracts",
+        "promotion-agreements",
+        "long-stop-dates"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/option-and-conditional-land-deals.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1c2c38e9584c4f72c11bd8a1b13e981e6e84cf722c494ccf3707a79e3dd37943"
+    },
+    {
+      "id": "real-estate-development.planning-permission-applications",
+      "name": "Planning Permission Applications",
+      "description": "A planning application run like a project: the site's history and policy checked, pre-application advice taken, a complete submission, consultees and neighbours managed, committee prepared for, conditions discharged and appeals handled.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "planning-permission-applications",
+        "founder",
+        "small-business",
+        "planning-permission",
+        "pre-application",
+        "planning-conditions",
+        "planning-appeals"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/planning-permission-applications.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:c15f2ce7a488d343a48bb98f6316a7eb7b380853010bf3d0fd712df2d89af102"
+    },
+    {
+      "id": "real-estate-development.practical-completion-and-handover",
+      "name": "Practical Completion and Handover",
+      "description": "A scheme that reaches practical completion on your terms: a document register that fills itself, snags closed weekly, certificates chased, insurance switched cleanly, a managed defects period and retentions released on time.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "practical-completion-and-handover",
+        "founder",
+        "small-business",
+        "snagging",
+        "defects-period",
+        "retentions",
+        "handover-documents"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/practical-completion-and-handover.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:13d027253291e225fd917c7174efa5f8d5d5a5076d142b1bf769830ce5a18215"
+    },
+    {
+      "id": "real-estate-development.property-acquisition-due-diligence",
+      "name": "Property Acquisition Due Diligence",
+      "description": "Check a property before you are committed: scope, timetable and advisers, then title, searches, planning, surveys, environmental reports, leases and contracts, with a findings register that drives the price.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "property-acquisition-due-diligence",
+        "founder",
+        "small-business",
+        "title",
+        "surveys",
+        "environmental",
+        "leases"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/property-acquisition-due-diligence.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:61df809fd023d7fc1fdca588dd1c2d83bad37ecf21cc4d823f01ebcd79fe8a72"
+    },
+    {
+      "id": "real-estate-development.property-development-company-setup",
+      "name": "Property Development Company Setup",
+      "description": "A development business built to carry real schemes: a holding company and one SPV per project, a shareholder agreement, clean bank accounts, project cost accounting and a compliance calendar lenders will trust.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "property-development-company-setup",
+        "founder",
+        "small-business",
+        "spv",
+        "holding-company",
+        "shareholder-agreement",
+        "development-accounting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/property-development-company-setup.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:54a4dbb81f7f56087b5a6cea7d11ea84ddf6500315f09a27028fc1f3e7e4824a"
+    },
+    {
+      "id": "real-estate-development.property-management-company",
+      "name": "Property Management Company",
+      "description": "A property management business built to last: a clear service menu and fees, a sound management agreement, segregated client money, the right software and a steady flow of landlords and staff.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "property-management-company",
+        "small-business",
+        "founder",
+        "letting-agent",
+        "management-fees",
+        "client-money",
+        "management-agreement"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/property-management-company.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:2174de9c4ba73c8c96099d1d7e28c9b6e105befcf9436459d9d3082c83269d7a"
+    },
+    {
+      "id": "real-estate-development.property-portfolio-reporting",
+      "name": "Property Portfolio Reporting",
+      "description": "Portfolio numbers people can rely on: one property list, agreed KPI definitions, a consolidated rent roll, arrears, occupancy, debt and valuation schedules, and a quarterly pack for partners or lenders that goes out on time.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "property-portfolio-reporting",
+        "small-business",
+        "knowledge-worker",
+        "rent-roll",
+        "arrears",
+        "covenants",
+        "quarterly-reporting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/property-portfolio-reporting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6bcdf0ec1e1f6239112165e540bc2e5c6b96e59c5f285b16cb9fa7e0ee2b3c5f"
+    },
+    {
+      "id": "real-estate-development.real-estate-club-deals",
+      "name": "Real Estate Club Deals",
+      "description": "A club deal run like a small business: the right few partners, a vehicle that fits, decision and capital call rules agreed in writing, clean distributions and an exit everyone saw coming.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "real-estate-club-deals",
+        "founder",
+        "small-business",
+        "co-investment",
+        "partnership-agreement",
+        "distributions",
+        "exit-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/real-estate-club-deals.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:05a92a6bd4614204e7b8944ee7ae8886b596c52136210389bbce0b50216d0b99"
+    },
+    {
+      "id": "real-estate-development.real-estate-financial-modelling",
+      "name": "Real Estate Financial Modelling",
+      "description": "Property models you can defend line by line: monthly development cash flows, acquisition pro formas, debt schedules, IRR and equity multiple, JV waterfalls, and the checks, versions and reviews that keep them right.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "real-estate-financial-modelling",
+        "knowledge-worker",
+        "founder",
+        "cash-flow-model",
+        "debt-schedule",
+        "irr",
+        "jv-waterfall"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/real-estate-financial-modelling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:fb55a95ccd711f7a3bed435c5ef3b78663b7e9410ca6903cfa99fff071058cf1"
+    },
+    {
+      "id": "real-estate-development.real-estate-syndications",
+      "name": "Real Estate Syndications",
+      "description": "Sponsor a syndication properly: a buy box and deal screen, counsel and the right offering exemption, a clean GP and SPV structure, fair investor terms, your own capital in the deal and a raise that closes on time.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "real-estate-syndications",
+        "founder",
+        "small-business",
+        "syndication",
+        "sponsor",
+        "private-placement",
+        "investor-terms"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/real-estate-syndications.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:2d9781577ec3fb695a18fb198434366fc9aa691f827e17b8a83c56b4e1fe8a47"
+    },
+    {
+      "id": "real-estate-development.reit-financial-analysis",
+      "name": "REIT Financial Analysis",
+      "description": "A working REIT analyst's kit: FFO and AFFO you can reconcile, a NAV model with sourced cap rates, balance sheet scorecards, sector comparisons and an earnings season routine that holds up.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "reit-financial-analysis",
+        "knowledge-worker",
+        "ffo",
+        "affo",
+        "net-asset-value",
+        "listed-property",
+        "equity-research"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/reit-financial-analysis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:cd624a175186be887806edbd5840ecdd2e67e52c0cd397cd819c3e138db1433a"
+    },
+    {
+      "id": "real-estate-development.residential-property-management-ops",
+      "name": "Residential Property Management Operations",
+      "description": "The daily machinery of residential property management: fair tenant screening, rent collection and a firm arrears ladder, maintenance triage, inspections, compliance renewals and landlord statements that arrive on time.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "residential-property-management-ops",
+        "small-business",
+        "property-management",
+        "tenant-screening",
+        "rent-arrears",
+        "maintenance",
+        "inspections"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/residential-property-management-ops.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:193c39c1af28ebc22fa8e42b75ab9f642e7859c48285551bdf10d65185f12109"
+    },
+    {
+      "id": "real-estate-development.short-let-portfolio-operations",
+      "name": "Short-Let Portfolio Operations",
+      "description": "Run a portfolio of short-let units as a real business: licences and permissions per unit, unit economics, pricing tools, cleaning teams, guest messaging, occupancy data and the systems that let you scale.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "short-let-portfolio-operations",
+        "small-business",
+        "founder",
+        "short-let",
+        "holiday-lets",
+        "revenue-management",
+        "guest-operations"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/short-let-portfolio-operations.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b75ea695ed02e43b4f6d9973ed7870fd116ae6f3397edd7c85be50d6413b27fa"
+    },
+    {
+      "id": "real-estate-development.site-feasibility-and-massing",
+      "name": "Site Feasibility and Massing",
+      "description": "Know what a site can hold before you buy it: a red line, constraints mapped, policy limits on density and height, three massing options, early cost checks and a clear go, renegotiate or walk away call.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "site-feasibility-and-massing",
+        "founder",
+        "small-business",
+        "massing-study",
+        "site-capacity",
+        "density",
+        "constraints"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/site-feasibility-and-massing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a210bb33c4c3c30399badd4838f8f2ad6e8b05acb1fd4c4e3da77e464d42a9c1"
+    },
+    {
+      "id": "real-estate-development.site-finding-and-land-acquisition",
+      "name": "Site Finding and Land Acquisition",
+      "description": "A land buying brief, target areas, a land agent network and owner outreach, fast site screening, site reports, heads of terms and the legal steps to a binding contract.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "site-finding-and-land-acquisition",
+        "founder",
+        "small-business",
+        "land-acquisition",
+        "site-sourcing",
+        "heads-of-terms",
+        "landowners"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/site-finding-and-land-acquisition.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:4ce3e124f3916d6364433ee0ca45eff5395b73e3fdd49f7f7160421ca994dcce"
+    },
+    {
+      "id": "real-estate-development.site-utilities-and-connections",
+      "name": "Site Utilities and Connections",
+      "description": "Power, water, sewer and telecoms brought to your site on time: demand estimates, asset searches, capacity enquiries, offers compared, wayleaves secured, costs tracked and the connection dates that hold up completion managed.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "site-utilities-and-connections",
+        "founder",
+        "small-business",
+        "utility-connections",
+        "wayleaves",
+        "grid-capacity",
+        "drainage"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/site-utilities-and-connections.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:0e1311944302096c433b53c8a356deb3d5e40e0710627a232718cde7d0b9d59b"
+    },
+    {
+      "id": "real-estate-development.sustainable-building-certification",
+      "name": "Sustainable Building Certification",
+      "description": "A green building rating planned from day one: the right system chosen, a target and budget set early, credits tracked through design and build, evidence ready for the assessor, and the certificate turned into value and rent.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "sustainable-building-certification",
+        "founder",
+        "small-business",
+        "leed",
+        "breeam",
+        "edge",
+        "green-building"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/sustainable-building-certification.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:c5a1ab5188b9c1db42adc0aa6f35516c34dc33bf2eb078ba42f9007393122f01"
+    },
+    {
+      "id": "real-estate-development.syndication-investor-relations",
+      "name": "Syndication Investor Relations",
+      "description": "Investor relations a sponsor can run: a clean investor register, subscription paperwork that closes, quarterly updates on time, distributions and tax statements delivered properly, and bad news told early and well.",
+      "category": "business",
+      "tags": [
+        "real-estate-development",
+        "syndication-investor-relations",
+        "founder",
+        "small-business",
+        "investor-relations",
+        "investor-reporting",
+        "distributions",
+        "capital-calls"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/real-estate-development/syndication-investor-relations.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Real Estate Investing & Development"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:afa6ce8ca37185bfd9fac4d979e91f9e08fcbfcffd38d54fa3baabd1bddbaa45"
     },
     {
       "id": "relationships.adult-sibling-relationships",
