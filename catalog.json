@@ -76,6 +76,1209 @@
       }
     },
     {
+      "id": "agriculture.agricultural-export-compliance",
+      "name": "Agricultural Export Compliance",
+      "description": "Exporting produce and farm products without stuck shipments: market access checked, licences and phytosanitary steps in place, a document pack that clears first time, cold chain, freight and buyers abroad.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "agricultural-export-compliance",
+        "small-business",
+        "export",
+        "phytosanitary",
+        "market-access",
+        "cold-chain",
+        "freight",
+        "diaspora-markets"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/agricultural-export-compliance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4a31066975d242b0c5a3dff5fe47a3f7c6643c5f5314a5e620373eb464d7001e"
+    },
+    {
+      "id": "agriculture.agricultural-insurance",
+      "name": "Agricultural Insurance",
+      "description": "Farm insurance set up on purpose: risks mapped, assets valued and photographed, policies read and compared, parametric weather cover understood, claims evidence kept ready and a savings fund for the losses no one will insure.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "agricultural-insurance",
+        "small-business",
+        "crop-insurance",
+        "livestock-insurance",
+        "parametric-insurance",
+        "claims",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/agricultural-insurance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:584a5527271dd59e88694b2bbe3b8ee64c89b44fcfb7f3be01f1f564bd6aa96e"
+    },
+    {
+      "id": "agriculture.agro-processing-business",
+      "name": "Agro-Processing Business",
+      "description": "A small food processing business built on your produce: one product chosen and costed, a licensed kitchen, safe acidified recipes, compliant labels, batch records and buyers who reorder.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "agro-processing-business",
+        "small-business",
+        "founder",
+        "pepper-sauce",
+        "food-processing",
+        "value-added",
+        "food-labelling"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/agro-processing-business.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4f9665148212debcf34bacf5555936c1a41e1f5be351442f535e95f6753ec22e"
+    },
+    {
+      "id": "agriculture.aquaponics-systems",
+      "name": "Aquaponics Systems",
+      "description": "Design, cycle and run an aquaponics unit that raises fish and vegetables in one water loop, with water tests, fish care, crop planning, power backup and sales.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "aquaponics-systems",
+        "small-business",
+        "aquaponics",
+        "fish",
+        "vegetables",
+        "water-quality",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/aquaponics-systems.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d5de15c32e74b4ea8ecb94a0646c39aa4c0ccb0c6ca751dbd43bb06540470e51"
+    },
+    {
+      "id": "agriculture.banana-and-plantain-farming",
+      "name": "Banana and Plantain Farming",
+      "description": "Bananas and plantains grown as a business: clean suckers in sheltered, well drained ground, bunches bagged and propped, leaf disease watched every week, harvests timed to buyers and blocks that recover after wind.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "banana-and-plantain-farming",
+        "small-business",
+        "plantain",
+        "banana",
+        "black-sigatoka",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/banana-and-plantain-farming.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f30c7b46b9c4d6d585c18a4bd7984c57d623bfceaaba523ed94ca47889816255"
+    },
+    {
+      "id": "agriculture.beef-cattle-farming",
+      "name": "Beef Cattle Farming",
+      "description": "Count and tag the herd, pick breeds that thrive in the heat, graze paddocks in rotation, plan herd health with your vet and sell finished cattle to the abattoir at a known weight and price.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "beef-cattle-farming",
+        "small-business",
+        "cattle",
+        "grazing",
+        "pasture",
+        "herd-health",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/beef-cattle-farming.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:5776f6a464f14040fb96b2eb20225d101401cc7630ec377e460522cfd7c09173"
+    },
+    {
+      "id": "agriculture.broiler-production",
+      "name": "Broiler Production",
+      "description": "Plan batches, set up a clean broiler house, place and grow chicks to target weight with biosecurity and daily records, then process and sell every batch at a known cost.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "broiler-production",
+        "small-business",
+        "poultry",
+        "broilers",
+        "biosecurity",
+        "meat-chickens",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/broiler-production.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:aa90accd40b25263084eb9a5e539ecf9f9f1a3f655b6ebec73757e3c298c78c9"
+    },
+    {
+      "id": "agriculture.citrus-orchards",
+      "name": "Citrus Orchards",
+      "description": "A citrus orchard run block by block: rootstocks and clean nursery trees, greening and psyllid scouting, leaf-led nutrition, water at flowering, maturity testing and harvest sold to juice or fresh buyers.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "citrus-orchards",
+        "small-business",
+        "citrus",
+        "citrus-greening",
+        "orchard",
+        "rootstocks",
+        "juice-fruit"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/citrus-orchards.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c6fbb3218dd8d315dffe36c235a5a0bee42947a04a399df2c6b6a64d21d8ecf8"
+    },
+    {
+      "id": "agriculture.cocoa-farming",
+      "name": "Cocoa Farming",
+      "description": "Map and rehabilitate old cocoa, keep black pod and witches' broom in check, ferment and dry beans to a buyer's standard, and sell fine flavour cocoa at the price its quality earns.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "cocoa-farming",
+        "small-business",
+        "cocoa",
+        "fine-flavour",
+        "fermentation",
+        "rehabilitation",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/cocoa-farming.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:80b73aaf7a6e7fed3f77f439aa81f34d308ec912f21ebd7dd1f986e72d1d9a4f"
+    },
+    {
+      "id": "agriculture.coconut-farming",
+      "name": "Coconut Farming",
+      "description": "Map and count your palms, harvest water nuts and dry nuts on a steady round, watch for lethal yellowing and red ring, replant old groves and turn nuts into copra, oil and other products buyers pay more for.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "coconut-farming",
+        "small-business",
+        "coconut",
+        "coconut-water",
+        "copra",
+        "lethal-yellowing",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/coconut-farming.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d1d4246b2e0a44ee5231b824dceb8d002291a069ce6458b3beddbbf20eeba155"
+    },
+    {
+      "id": "agriculture.coffee-farming",
+      "name": "Coffee Farming",
+      "description": "A coffee holding run as a business: varieties for your elevation, nurseries and shade, borer and rust scouting, picking, pulping and drying, cup quality and the origin rules your beans must meet.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "coffee-farming",
+        "small-business",
+        "arabica",
+        "blue-mountain",
+        "specialty-coffee",
+        "wet-processing",
+        "cupping"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/coffee-farming.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:f836fdbe7951aea2eb45138372995e31c3ab1bfdd417afbc24d2ced8ff673f4c"
+    },
+    {
+      "id": "agriculture.contract-farming-agreements",
+      "name": "Contract Farming Agreements",
+      "description": "Grow under contract with your eyes open: buyers mapped, every clause read before signing, a price floor you will not go below, deliveries and payments reconciled, inputs and deductions tracked, and a plan for the bad season.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "contract-farming-agreements",
+        "small-business",
+        "outgrower-schemes",
+        "processors",
+        "pricing",
+        "grower-groups",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/contract-farming-agreements.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:923297ea704c7f7762c657881a381fc8fa31222c00a44383424dc7fc1ffa766a"
+    },
+    {
+      "id": "agriculture.dairy-farming",
+      "name": "Dairy Farming",
+      "description": "A clean, written milking routine, cold milk the processor accepts, cows kept cool and fed for yield in tropical heat, breeding on time, and the records and costs that show whether each litre pays.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "dairy-farming",
+        "small-business",
+        "dairy",
+        "milking",
+        "milk-quality",
+        "heat-stress",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/dairy-farming.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0ae120e63d7665c2630653fd4cbbd3695a739facbcbb531f2e966a3acca21c92"
+    },
+    {
+      "id": "agriculture.farm-budgets-and-enterprise-costing",
+      "name": "Farm Budgets and Enterprise Costing",
+      "description": "Know which crops and animals pay: costs coded by enterprise, your own labour valued, gross margins and break-even prices worked out, price floors set and a yearly farm budget checked against actuals every month.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "farm-budgets-and-enterprise-costing",
+        "small-business",
+        "enterprise-budgets",
+        "gross-margin",
+        "cost-of-production",
+        "break-even",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/farm-budgets-and-enterprise-costing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c8b5a9158376d65451d40b60604802d81e1ae6577120e501948cdba56b02db16"
+    },
+    {
+      "id": "agriculture.farm-finance-and-loans",
+      "name": "Farm Finance and Loans",
+      "description": "Farm borrowing set up on purpose: debts mapped, a cash flow that follows the seasons, a lender-ready plan, loan and equipment finance offers compared properly, and repayments timed to harvest money.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "farm-finance-and-loans",
+        "small-business",
+        "founder",
+        "agricultural-credit",
+        "equipment-finance",
+        "credit-unions",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/farm-finance-and-loans.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:c38dbe5cc87eda4b01e0e284c52d52eb7add7dc65783c51162c8ecb220cc3a8c"
+    },
+    {
+      "id": "agriculture.farm-irrigation-systems",
+      "name": "Farm Irrigation Systems",
+      "description": "Irrigation that puts the right water on each block: sources mapped and permitted, drip and sprinkler layouts that suit the crop, pumps and solar sized properly, schedules, logs and the maintenance that keeps emitters running.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "farm-irrigation-systems",
+        "small-business",
+        "drip-irrigation",
+        "sprinklers",
+        "solar-pumping",
+        "water-permits",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/farm-irrigation-systems.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:033f9910117075178edb55e7f563fc08b0feb1cc2b43d2efb26e87317b94eb45"
+    },
+    {
+      "id": "agriculture.farm-labour-and-workers",
+      "name": "Farm Labour and Workers",
+      "description": "Plan farm labour by season, hire and pay workers properly with statutory contributions, train crews to work safely, keep decent housing and welfare, and get through harvest shortages.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "farm-labour-and-workers",
+        "small-business",
+        "manager",
+        "farm-workers",
+        "payroll",
+        "seasonal-labour",
+        "farm-safety"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/farm-labour-and-workers.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ade87248951889957f27d50c62932501856d6b4cbf214fe60379d076fa0c84fd"
+    },
+    {
+      "id": "agriculture.farm-land-tenure-and-leases",
+      "name": "Farm Land Tenure and Leases",
+      "description": "Secure ground to farm on: every parcel and document accounted for, state and private leases read and kept in good standing, family land put on paper, renewals never missed and the land papers a lender will ask for ready to hand over.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "farm-land-tenure-and-leases",
+        "small-business",
+        "founder",
+        "land-leases",
+        "state-land",
+        "family-land",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/farm-land-tenure-and-leases.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 208
+      },
+      "contentHash": "sha256:8b6b1747ae723cfa1758b54b6f5dd4e3d5dee698aa0487a1a40531d100481ea2"
+    },
+    {
+      "id": "agriculture.farm-machinery-and-equipment",
+      "name": "Farm Machinery and Equipment",
+      "description": "Tractors, implements and small engines run as farm assets: a graded inventory, hire or own decisions, hour-meter servicing, fuel and parts discipline, safe operators, storm and flood plans and a costed replacement plan.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "farm-machinery-and-equipment",
+        "small-business",
+        "tractors",
+        "implements",
+        "machinery-maintenance",
+        "equipment-hire",
+        "small-engines"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/farm-machinery-and-equipment.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9e9b7b850215cf63012395f0e0f955c8cc6ce78a81eb4356aa9866245a8f29ab"
+    },
+    {
+      "id": "agriculture.farmers-markets-and-direct-sales",
+      "name": "Farmers Markets and Direct Sales",
+      "description": "Selling straight to the people who eat your produce: a market stall, a farm stand, delivery boxes and WhatsApp orders, priced properly, run on a weekly rhythm and built around regular buyers.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "farmers-markets-and-direct-sales",
+        "small-business",
+        "farmers-market",
+        "farm-stand",
+        "veg-box",
+        "whatsapp-ordering",
+        "pricing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/farmers-markets-and-direct-sales.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:bb3c0d1a4900e47166a20c36d7a53bb53bced298807683e61f0d5bab8733eef7"
+    },
+    {
+      "id": "agriculture.food-safety-and-gap-certification",
+      "name": "Food Safety and GAP Certification",
+      "description": "Buyer requirements, field and water risk checks, hygiene for crews and packing sheds, HACCP basics, audit-ready records and a clear route to GAP certification and recertification.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "food-safety-and-gap-certification",
+        "small-business",
+        "gap-certification",
+        "food-safety",
+        "haccp",
+        "water-testing",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/food-safety-and-gap-certification.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:7a3b53de6710fc6221269a0769c451b798a235986a8ef6f005b62876901252c0"
+    },
+    {
+      "id": "agriculture.goat-and-sheep-farming",
+      "name": "Goat and Sheep Farming",
+      "description": "Housing, fencing and a vet-agreed health plan for goats or hair sheep, worm control by FAMACHA scoring, breeding and weight records, and meat, milk and breeding stock sold at the right time.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "goat-and-sheep-farming",
+        "small-business",
+        "goats",
+        "sheep",
+        "small-ruminants",
+        "parasite-control",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/goat-and-sheep-farming.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:f5fb59cd8bde7bc46b4d10a4b0d9aba240ebe95deca62a0c8d4f89826d038652"
+    },
+    {
+      "id": "agriculture.greenhouse-and-shade-house-production",
+      "name": "Greenhouse and Shade House Production",
+      "description": "Covered growing run as a business in the tropics: the right structure and wind rating, cool air through the house, daily drip fertigation checks, clean entry and nets, rotation and cost per kilo.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "greenhouse-and-shade-house-production",
+        "small-business",
+        "protected-agriculture",
+        "shade-house",
+        "fertigation",
+        "greenhouse-tomato",
+        "sweet-pepper"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/greenhouse-and-shade-house-production.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b50def4d6745bf0b12f53e356cea70aa7d4ddb1b3b1a1be10018ebc2d7ff233d"
+    },
+    {
+      "id": "agriculture.herbs-and-seasoning-crops",
+      "name": "Herbs and Seasoning Crops",
+      "description": "A seasoning crop business that cuts every week: chadon beni, chive, thyme and celery grown in beds or containers, bunched to a standard, kept fresh and sold to steady buyers.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "herbs-and-seasoning-crops",
+        "small-business",
+        "chadon-beni",
+        "culantro",
+        "chive",
+        "thyme",
+        "green-seasoning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/herbs-and-seasoning-crops.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d7eb1a82dd33b02a02bb1c43a0c6176b39a55d3c83ed2f30792837b70a34036e"
+    },
+    {
+      "id": "agriculture.hot-pepper-farming",
+      "name": "Hot Pepper Farming",
+      "description": "A hot pepper enterprise run as a business: variety and buyer chosen first, clean seedlings, steady picking rounds, grading to spec, and sales to sauce makers and exporters.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "hot-pepper-farming",
+        "small-business",
+        "scotch-bonnet",
+        "moruga-scorpion",
+        "pepper-sauce",
+        "capsicum"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/hot-pepper-farming.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4980ea073d4c51701b9992fdb3200f867078c3e757d1fa5bb503f485ff591d0d"
+    },
+    {
+      "id": "agriculture.hydroponic-greens-production",
+      "name": "Hydroponic Greens Production",
+      "description": "A hydroponic greens business that harvests every week: the right system, clean water, nutrient solution checked daily, staggered seeding and lettuce, herbs and greens packed for supermarkets and hotels.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "hydroponic-greens-production",
+        "small-business",
+        "hydroponics",
+        "lettuce",
+        "nft",
+        "nutrient-solution",
+        "salad-greens"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/hydroponic-greens-production.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:be705bd49d210c19db0023e92cb3145c598565932c9b64c2c746596fbc51fdd5"
+    },
+    {
+      "id": "agriculture.integrated-pest-management",
+      "name": "Integrated Pest Management",
+      "description": "Pests managed by evidence: a field history and pest calendar, weekly scouting and traps, written action thresholds, cultural and biological controls first, products chosen with the extension officer and records buyers trust.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "integrated-pest-management",
+        "small-business",
+        "ipm",
+        "scouting",
+        "action-thresholds",
+        "biological-control",
+        "crop-protection"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/integrated-pest-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:7041c688ea0844018993610736bf20021d6f44e0dbeeb843c28765d531eb6b47"
+    },
+    {
+      "id": "agriculture.layer-egg-production",
+      "name": "Layer Egg Production",
+      "description": "Plan a layer flock that pays, rear or buy pullets, run the house, light and feed routines, collect, grade and cool eggs every day, and keep shops supplied with a steady count of clean trays.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "layer-egg-production",
+        "small-business",
+        "poultry",
+        "eggs",
+        "layers",
+        "pullets",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/layer-egg-production.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:f624f97cd826fb957a12a913654717ef36fde07235a3e52382b6d69643c2b6d6"
+    },
+    {
+      "id": "agriculture.livestock-feed-and-forage",
+      "name": "Livestock Feed and Forage",
+      "description": "Know what your animals eat and what it costs, grow and conserve more of it on the farm as grass, silage and hay, store bought feed safely and plan rations with a nutritionist.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "livestock-feed-and-forage",
+        "small-business",
+        "livestock",
+        "forage",
+        "silage",
+        "pasture",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/livestock-feed-and-forage.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:65b0b263a74c19d6d7a7ba0caff3a509d01c83c60a0c1f500844e835ecbff751"
+    },
+    {
+      "id": "agriculture.livestock-health-and-vet-care",
+      "name": "Livestock Health and Vet Care",
+      "description": "A working vet relationship, a written health plan, treatment and withdrawal records, biosecurity and isolation pens, and the daily checks that keep a commercial herd or flock healthy and saleable.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "livestock-health-and-vet-care",
+        "small-business",
+        "animal-health",
+        "veterinary",
+        "biosecurity",
+        "withdrawal-periods",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/livestock-health-and-vet-care.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:f9b49e890d3a2a6489df3c9c635372c49441673056588b73650315bc75fa5127"
+    },
+    {
+      "id": "agriculture.nutmeg-and-spice-crops",
+      "name": "Nutmeg and Spice Crops",
+      "description": "Map and census your spice trees, gather and dry nutmeg, mace, clove, pimento and cinnamon to grade, replant with grafted females after storms, and sell through the board, a cooperative or exporters.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "nutmeg-and-spice-crops",
+        "small-business",
+        "nutmeg",
+        "mace",
+        "pimento",
+        "cinnamon",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/nutmeg-and-spice-crops.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:23d3eb91ce07f3ab510102af54bfdffaa0f7cb3fddacc382abe23a42302c901c"
+    },
+    {
+      "id": "agriculture.open-field-vegetable-farming",
+      "name": "Open-Field Vegetable Farming",
+      "description": "A plot map, a wet and dry season crop calendar, bed standards, a seedling nursery, succession planting for steady harvests and a record for every plot, from the first quarter acre to year-round supply.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "open-field-vegetable-farming",
+        "small-business",
+        "founder",
+        "vegetables",
+        "succession-planting",
+        "crop-calendar",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/open-field-vegetable-farming.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:4b8cbe21c381247521b675c10f5336aa401efb9d22eb33717e07f79d87519ece"
+    },
+    {
+      "id": "agriculture.pesticide-safety-and-records",
+      "name": "Pesticide Safety and Records",
+      "description": "A checked chemical inventory, a locked store, the right protective kit, label-first mixing, spray records and pre-harvest interval checks that keep workers, families and buyers safe.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "pesticide-safety-and-records",
+        "small-business",
+        "pesticides",
+        "spray-records",
+        "ppe",
+        "pre-harvest-interval",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/pesticide-safety-and-records.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:3a7ea4f657ecabdcfa36dc1e72466d260990f5a1071544cae1533eecaf86362b"
+    },
+    {
+      "id": "agriculture.pig-farming",
+      "name": "Pig Farming",
+      "description": "Lay out pens and waste handling that neighbours and inspectors accept, run breeding, farrowing and grow-out on records, keep disease out with a vet's plan, and sell pigs to butchers and processors at a margin.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "pig-farming",
+        "small-business",
+        "pigs",
+        "farrowing",
+        "biosecurity",
+        "pork",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/pig-farming.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 210
+      },
+      "contentHash": "sha256:eda5c0e5d9c031c94f094553e3ce71f114da1aaa79d56e9f5fd424c115b81420"
+    },
+    {
+      "id": "agriculture.post-harvest-handling-and-packing",
+      "name": "Post-Harvest Handling and Packing",
+      "description": "Less produce lost between the field and the buyer: harvest at the right maturity and hour, cool fast, wash, grade and pack to a written standard, store and ripen with care, and deliver in condition.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "post-harvest-handling-and-packing",
+        "small-business",
+        "post-harvest",
+        "cold-chain",
+        "packing-house",
+        "grading",
+        "shelf-life"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/post-harvest-handling-and-packing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:63c7695054aafc8337a373bd1bd9cbdfaab2133126568b026db55a96f87609c2"
+    },
+    {
+      "id": "agriculture.rice-farming-in-guyana-and-suriname",
+      "name": "Rice Farming in Guyana and Suriname",
+      "description": "Map your rice fields, plan the two crops a year around water and the combine, keep blast, paddy bug and red rice in check, and deliver dry, clean paddy to a miller on terms you understand.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "rice-farming-in-guyana-and-suriname",
+        "small-business",
+        "rice",
+        "paddy",
+        "guyana",
+        "suriname",
+        "water-control"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/rice-farming-in-guyana-and-suriname.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9329f35dd3299ce3c3b238ca3c45310e45daebaf104351f0adbfb5e37f8548ac"
+    },
+    {
+      "id": "agriculture.root-crop-farming",
+      "name": "Root Crop Farming",
+      "description": "Dasheen, cassava, sweet potato, eddoes and yams grown as a business: clean planting material, fields that drain, harvests timed to buyers, storage that keeps roots sound and sales to markets and processors.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "root-crop-farming",
+        "small-business",
+        "cassava",
+        "dasheen",
+        "sweet-potato",
+        "yam",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/root-crop-farming.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f7ded0d8e6a38bd2ce7b08db3ad89677d71efe3e3dd9e6719dae4928bf1cb16d"
+    },
+    {
+      "id": "agriculture.soil-testing-and-fertility",
+      "name": "Soil Testing and Fertility",
+      "description": "Soil managed for yield on a working farm: fields mapped and sampled properly, lab reports understood, pH and organic matter corrected, fertiliser planned from test results, and soil kept on slopes with cover crops and erosion control.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "soil-testing-and-fertility",
+        "small-business",
+        "soil-testing",
+        "fertiliser",
+        "liming",
+        "cover-crops",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/soil-testing-and-fertility.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:548045d32cb1f34625e5abe356961f1a37db644a6f0da3ae257e218458df0b67"
+    },
+    {
+      "id": "agriculture.supermarket-supply-contracts",
+      "name": "Supermarket Supply Contracts",
+      "description": "Get registered as a supermarket supplier, price and pack produce to the buyer's specification, deliver steady weekly volumes, and keep invoices, rejects and payment cycles under control.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "supermarket-supply-contracts",
+        "small-business",
+        "supermarkets",
+        "retail-supply",
+        "produce-buyers",
+        "packaging",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/supermarket-supply-contracts.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:172ba78e26458029066863b6a2cb3a1d74976fd3b4b7cc9c21742a331eea2851"
+    },
+    {
+      "id": "agriculture.supplying-hotels-and-restaurants",
+      "name": "Supplying Hotels and Restaurants",
+      "description": "A farm run as a dependable hospitality supplier: the right kitchens and lines chosen, specs and prices agreed with chefs, weekly orders and deliveries that arrive as promised, and invoices that get paid.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "supplying-hotels-and-restaurants",
+        "small-business",
+        "hospitality",
+        "chefs",
+        "hotels",
+        "restaurants",
+        "food-service"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/supplying-hotels-and-restaurants.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:eda66f4794f08a30a00077109c97b0946bfc4a0ddc450e5a0bd8d5c4c43c3047"
+    },
+    {
+      "id": "agriculture.tilapia-aquaculture",
+      "name": "Tilapia Aquaculture",
+      "description": "Plan a tilapia farm, get permits and water right, stock good fingerlings, run daily oxygen, feeding and water tests, then harvest, process and sell every pond at a known cost per kilogram.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "tilapia-aquaculture",
+        "small-business",
+        "aquaculture",
+        "fish-farming",
+        "tilapia",
+        "water-quality",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/tilapia-aquaculture.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 191
+      },
+      "contentHash": "sha256:b75f3b7bc3f9d90e61db974952f697509aaa475425408a3b3aa9d8d1d4e86b8a"
+    },
+    {
+      "id": "agriculture.tropical-fruit-orchards",
+      "name": "Tropical Fruit Orchards",
+      "description": "Map the trees you have, plant grafted mango, avocado, pawpaw and pineapple that suit your land, keep fruit fly and anthracnose in check, and pick at the right stage for fresh or processed buyers.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "tropical-fruit-orchards",
+        "small-business",
+        "mango",
+        "avocado",
+        "pawpaw",
+        "pineapple",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/tropical-fruit-orchards.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:ce026ff325d04bfa3a1066574eab67e53b63343c0580d1b0fa3ca0b9fe02d497"
+    },
+    {
+      "id": "agriculture.wholesale-market-selling",
+      "name": "Wholesale Market Selling",
+      "description": "Selling through wholesale markets and middlemen with fewer surprises: the right market and crops, a priced market day, honest weights, buyers you can trust and money that actually comes home.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "wholesale-market-selling",
+        "small-business",
+        "wholesale-market",
+        "middlemen",
+        "higglers",
+        "produce-prices",
+        "getting-paid"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/wholesale-market-selling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1d728ba503d0aaf41f335aef861ac66ca7b332f1ec346e782cc48736f518e2d5"
+    },
+    {
       "id": "caribbean-diaspora.buying-property-back-home",
       "name": "Buying Land or a House Back Home",
       "description": "Buy land or a house in the Caribbean from abroad with your own attorney, a clean title search, an independent survey, money sent safely and a build you can oversee from overseas.",
@@ -4304,6 +5507,1404 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:23ac253c823987d8d2937b4adce32af1f11d2f7c63e681c4537b8d4d44a438dd"
+    },
+    {
+      "id": "family-office.adviser-and-manager-oversight",
+      "name": "Adviser and Manager Oversight",
+      "description": "A family's system for watching the people who manage its money: a register of advisers and mandates, clear reporting standards, fee checks, a fair selection process and a calm way to replace a manager.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "adviser-and-manager-oversight",
+        "parent",
+        "retiree",
+        "investment-managers",
+        "adviser-selection",
+        "manager-due-diligence",
+        "fee-review"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/adviser-and-manager-oversight.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:e5f37adacfd002d63498ef7a4ee0d6456f8e860ed16991c44d839650c939b53b"
+    },
+    {
+      "id": "family-office.aircraft-and-yacht-ownership",
+      "name": "Aircraft and Yacht Ownership",
+      "description": "A clear decision on whether to own, share or charter, then aircraft and yachts held in sound structures, run by vetted managers and crew, costed honestly and shared fairly under written family usage rules.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "aircraft-and-yacht-ownership",
+        "parent",
+        "retiree",
+        "private-aviation",
+        "superyacht",
+        "charter",
+        "crew"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/aircraft-and-yacht-ownership.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:8ff87f8568344fb331ed0f2baac190f3551bce188724b4b639b6993a98ecb555"
+    },
+    {
+      "id": "family-office.art-and-collection-management",
+      "name": "Art and Collection Management",
+      "description": "A family collection run like a small museum: a full inventory with provenance and title papers, condition and environment checks, valuations for insurance, safe storage and moves, museum loans and a plan for the heirs.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "art-and-collection-management",
+        "parent",
+        "retiree",
+        "art-collection",
+        "provenance",
+        "conservation",
+        "registrar"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/art-and-collection-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1c74643d6080c1577d5a7427f2c67210b6794868176a24f8ddc24abca37c7559"
+    },
+    {
+      "id": "family-office.bank-and-custodian-relationships",
+      "name": "Bank and Custodian Relationships",
+      "description": "Every private bank and custodian the family uses mapped and justified, KYC kept current, fees and credit lines tested, bankers reviewed on a steady rhythm, and a calm plan for switching or losing a bank.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "bank-and-custodian-relationships",
+        "parent",
+        "retiree",
+        "private-banking",
+        "custody",
+        "kyc",
+        "bank-fees"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/bank-and-custodian-relationships.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:b1dcf6ac4e106a923bfd8f599c0d2342f8f95fa255476a6f01e1a07c36e27c9c"
+    },
+    {
+      "id": "family-office.caribbean-family-business-groups",
+      "name": "Caribbean Family Business Groups",
+      "description": "A Caribbean family group run as one: every company and island mapped, listed holdings kept within the market's rules, family and non-family executives held to one standard, and succession planned across generations.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "caribbean-family-business-groups",
+        "parent",
+        "founder",
+        "caribbean",
+        "conglomerate",
+        "listed-companies",
+        "multi-island"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/caribbean-family-business-groups.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:18ee424fb453879f5e8550e2ce495d2dccf2ebcacca0482fbdef19c69b376ff2"
+    },
+    {
+      "id": "family-office.caribbean-family-philanthropy",
+      "name": "Caribbean Family Philanthropy",
+      "description": "Caribbean giving run as a family: focus islands chosen, local partners checked and visited, disaster relief ready before the season, scholarships that run every year and receipts the tax adviser can use.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "caribbean-family-philanthropy",
+        "parent",
+        "retiree",
+        "caribbean",
+        "disaster-relief",
+        "scholarships",
+        "ngos"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/caribbean-family-philanthropy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:880d7bef9e1d692c09bfd41535a0aae239f667d2fba96d2b3fb842d7293d8c3e"
+    },
+    {
+      "id": "family-office.close-protection-arrangements",
+      "name": "Close Protection Arrangements",
+      "description": "Personal protection arranged properly: a clear decision on who needs cover and when, a licensed provider under a written contract, rules for the team, secure transport, residential guarding and travel security that fit family life.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "close-protection-arrangements",
+        "parent",
+        "close-protection",
+        "residential-security",
+        "secure-transport",
+        "travel-security"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/close-protection-arrangements.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:73735e84a03f5c84b0436a5e65c11f1001ef86e6e226f1ac0d9b4d7f8015045e"
+    },
+    {
+      "id": "family-office.concierge-and-lifestyle-management",
+      "name": "Concierge and Lifestyle Management",
+      "description": "Concierge and lifestyle requests run as one system: a single intake channel, preference profiles for every family member, approved vendors, spending rules, and the routines behind travel, reservations, gifts and family events.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "concierge-and-lifestyle-management",
+        "parent",
+        "retiree",
+        "concierge",
+        "travel-planning",
+        "gifting",
+        "family-events"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/concierge-and-lifestyle-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:3813db5e8f6fa1b5ef004ed2f4a3659344f74281712a99ef631c85096ff4dc9f"
+    },
+    {
+      "id": "family-office.consolidated-wealth-reporting",
+      "name": "Consolidated Wealth Reporting",
+      "description": "One trusted report of everything the family owns and owes: a full account map, valuation rules for private assets, a monthly reconciliation, a quarterly pack, and views each family member can read.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "consolidated-wealth-reporting",
+        "parent",
+        "retiree",
+        "wealth-reporting",
+        "net-worth",
+        "reconciliation",
+        "private-assets"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/consolidated-wealth-reporting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d199261c38d88d8b82e25e657bb94eb129d78d6c08960664af005bcf1b54e5f4"
+    },
+    {
+      "id": "family-office.crs-and-fatca-reporting",
+      "name": "CRS and FATCA Reporting",
+      "description": "Family structures kept in line with CRS and FATCA: a residence and US-person map, entity classifications, self-certifications on file, a reporting calendar and a yearly review with the adviser.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "crs-and-fatca-reporting",
+        "parent",
+        "retiree",
+        "crs",
+        "fatca",
+        "self-certification",
+        "tax-information-exchange"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/crs-and-fatca-reporting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ffe2cf6610fd324b9f15811d26c440e38bf4b1cc7fd0c8c40ab555a6682ed77c"
+    },
+    {
+      "id": "family-office.donor-advised-funds",
+      "name": "Donor-Advised Funds",
+      "description": "A donor-advised fund run as a family habit: a sponsor chosen on fees and policies, clean contribution records, a grant workflow and family meetings, children with their own allocations, and successors named.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "donor-advised-funds",
+        "parent",
+        "retiree",
+        "philanthropy",
+        "charitable-giving",
+        "grant-recommendations",
+        "family-giving"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/donor-advised-funds.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:39939668feeba806705f212db9c7d7e685b4d7c84de6e88f30f6a5acc88154fa"
+    },
+    {
+      "id": "family-office.estate-manager-and-house-manager",
+      "name": "Estate Manager and House Manager",
+      "description": "Hiring and working with an estate or house manager: the right role, a written scope and spending limits, a fair hire, weekly meetings, monthly reports, staff supervision and reviews.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "estate-manager-and-house-manager",
+        "parent",
+        "homeowner",
+        "house-manager",
+        "estate-manager",
+        "delegation",
+        "household-staff"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/estate-manager-and-house-manager.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 176
+      },
+      "contentHash": "sha256:8affea0ea7f97f0a715a4fc9a2b9892292c8bb90a6b36c2e84493c605e2ec93c"
+    },
+    {
+      "id": "family-office.family-bank-and-member-loans",
+      "name": "Family Bank and Member Loans",
+      "description": "An internal family bank that lends on written terms: a lending policy and committee, standard loan agreements, a clean ledger, repayment and arrears routines, and fairness across every branch.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-bank-and-member-loans",
+        "parent",
+        "retiree",
+        "family-bank",
+        "intra-family-loans",
+        "lending-policy",
+        "loan-records"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-bank-and-member-loans.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:7b1ee7f1744cab4adf1ed0509ee2089cf0d4c106678efe0deb64b6ac0f48f2ba"
+    },
+    {
+      "id": "family-office.family-conflict-resolution",
+      "name": "Family Conflict Resolution",
+      "description": "A family ready for disagreement: early warning signs, a mediator and independent advisers lined up in advance, calm routines for raising grievances, buy-out options and repair work that keeps relationships intact.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-conflict-resolution",
+        "parent",
+        "retiree",
+        "mediation",
+        "family-disputes",
+        "buy-outs",
+        "reconciliation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-conflict-resolution.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:882316a0d1c75f2cbdf97c9173f0bce077e26dd7b7cf2e930e52766f624879ad"
+    },
+    {
+      "id": "family-office.family-constitution-drafting",
+      "name": "Family Constitution Drafting",
+      "description": "A family constitution drafted, agreed and kept alive: a drafting group and adviser, member interviews, the values, ownership, roles, disputes and amendment chapters, ratification and a regular review.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-constitution-drafting",
+        "parent",
+        "retiree",
+        "family-charter",
+        "family-values",
+        "succession",
+        "governance-documents"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-constitution-drafting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:529051804ecbb7f2b34ce0522631dd3e7acd3b09a177fd284df419dc7cefed06"
+    },
+    {
+      "id": "family-office.family-council-and-assembly",
+      "name": "Family Council and Assembly",
+      "description": "A family council that meets, decides and writes things down, and a family assembly every branch actually attends: membership, elections, agendas, minutes and updates that reach everyone.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-council-and-assembly",
+        "parent",
+        "retiree",
+        "family-governance",
+        "family-meetings",
+        "minutes",
+        "elections"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-council-and-assembly.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:eac4204b878cc7dc0ead1b251483793d0d4ef13d527a62019cf309f313f8e866"
+    },
+    {
+      "id": "family-office.family-crisis-and-reputation-plan",
+      "name": "Family Crisis and Reputation Plan",
+      "description": "A family crisis plan that works at 2am: a named crisis team, advisers already engaged, rules on who speaks, holding statements, playbooks for illness, scandal and lawsuits, and a practice run.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-crisis-and-reputation-plan",
+        "parent",
+        "crisis-management",
+        "reputation",
+        "crisis-communications",
+        "tabletop-exercise"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-crisis-and-reputation-plan.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:bbdcf8e0d9aee431580a78c98140673e83729f5966e5901c3142d2614ea31971"
+    },
+    {
+      "id": "family-office.family-employment-policy",
+      "name": "Family Employment Policy",
+      "description": "A written family employment policy that holds up: who is eligible, the qualifications and outside experience required, market pay, honest performance reviews, fair exits and a yearly review by the family.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-employment-policy",
+        "parent",
+        "founder",
+        "nepotism",
+        "family-business",
+        "market-pay",
+        "performance-reviews"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-employment-policy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c67e2fe5d9b1722747e703c3e398820984a41999b0114bb05cbef2430421e567"
+    },
+    {
+      "id": "family-office.family-enterprise-ownership-rules",
+      "name": "Family Enterprise Ownership Rules",
+      "description": "Written rules for owning shares in the family business: an accurate register, who may hold shares, transfer and pre-emption rules, a dividend policy, fair exit routes for members who want out, and voting.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-enterprise-ownership-rules",
+        "parent",
+        "founder",
+        "shareholders-agreement",
+        "dividend-policy",
+        "share-transfers",
+        "family-enterprise"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-enterprise-ownership-rules.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:7970a1871b351bda3f3c25c16885aee62ff55c2c69de3338c84f9ca2417f44d9"
+    },
+    {
+      "id": "family-office.family-governance-framework",
+      "name": "Family Governance Framework",
+      "description": "A governance framework a wealthy family can run: a readiness check, a map of family, business and office roles, forums with clear terms, written decision rights and voting rules, and a yearly review.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-governance-framework",
+        "parent",
+        "retiree",
+        "founder",
+        "family-governance",
+        "decision-rights",
+        "family-enterprise"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-governance-framework.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:9283121b4cfa017daf070e10e30f6fa55f13dc94a99b7077154555356365a865"
+    },
+    {
+      "id": "family-office.family-grant-making-strategy",
+      "name": "Family Grant-Making Strategy",
+      "description": "A family giving strategy that holds together: chosen focus areas, a budget and grant sizes, due diligence on charities, a grants register, honest measures of results and a seat at the table for every generation.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-grant-making-strategy",
+        "parent",
+        "retiree",
+        "nonprofit",
+        "philanthropy",
+        "grant-making",
+        "due-diligence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-grant-making-strategy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:e90b53cb6e7ff8de7aa2cbe18553b13ba33c70375c47f563d66ec3c92dc397dc"
+    },
+    {
+      "id": "family-office.family-holding-company",
+      "name": "Family Holding Company",
+      "description": "A family holding company run properly: a clear map of what it holds, a working board, intercompany loans on paper, dividend flows traced, annual accounts closed and every filing made on time.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-holding-company",
+        "parent",
+        "founder",
+        "holding-company",
+        "corporate-governance",
+        "intercompany-loans",
+        "statutory-filings"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-holding-company.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1f3793cd55168b09ad9f2871da6e4f19bf9b287d900ef74ae37d053dd439d027"
+    },
+    {
+      "id": "family-office.family-investment-committee",
+      "name": "Family Investment Committee",
+      "description": "A family investment committee that works like a proper board: clear terms of reference, the right mix of family and independent members, packs and minutes on time, and a written path from recommendation to approval.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-investment-committee",
+        "parent",
+        "retiree",
+        "investment-governance",
+        "committee",
+        "independent-members",
+        "minutes"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-investment-committee.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 187
+      },
+      "contentHash": "sha256:6a1a4b6fbd0c55bc1a026901931db8b85027eff2f9a8ae901f69e6ab3fa78285"
+    },
+    {
+      "id": "family-office.family-investment-policy-statement",
+      "name": "Family Investment Policy Statement",
+      "description": "A written family investment policy statement drafted with your advisers: goals and time horizons, risk tolerance, liquidity needs, roles, limits and a yearly review that keeps it current.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-investment-policy-statement",
+        "parent",
+        "retiree",
+        "investment-policy",
+        "ips",
+        "risk-tolerance",
+        "governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-investment-policy-statement.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:cd67f16c9f0319c1cfbdfe88e781c9757e954d071cbad933a3537b5954138e67"
+    },
+    {
+      "id": "family-office.family-leadership-succession",
+      "name": "Family Leadership Succession",
+      "description": "A planned handover of the family leader's roles: emergency stand-ins, agreed principles, a fair candidate process, successor development, a dated transition and an announcement every branch hears properly.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-leadership-succession",
+        "parent",
+        "retiree",
+        "succession-planning",
+        "family-leadership",
+        "transition",
+        "governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-leadership-succession.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:5bcb777a32f1ba60912347d17f3c1eed480f0845629032e77afa6a08876ae4ba"
+    },
+    {
+      "id": "family-office.family-liquidity-planning",
+      "name": "Family Liquidity Planning",
+      "description": "Enough cash in the right place at the right time: a map of family liquidity, a twelve-month needs schedule, capital call and tax calendars, a reserve policy, a rolling forecast and stress tests.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-liquidity-planning",
+        "parent",
+        "retiree",
+        "cash-flow",
+        "capital-calls",
+        "liquidity-reserve",
+        "distributions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-liquidity-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d762965de5cf8bfa287a743903c4e184e12b123193e1bdf00eeca461d1b27841"
+    },
+    {
+      "id": "family-office.family-office-budget-and-costs",
+      "name": "Family Office Budget and Costs",
+      "description": "A family office budget that the family trusts: a cost baseline, clear categories and approval limits, monthly actuals against budget, fair recharges to each member and a yearly review.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-office-budget-and-costs",
+        "parent",
+        "manager",
+        "budgeting",
+        "cost-allocation",
+        "adviser-fees",
+        "recharges"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-office-budget-and-costs.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:82576c3f90cd0536fbf3039984cbfe8e957d8e4f6fb9df287133cbd25ae6f6d3"
+    },
+    {
+      "id": "family-office.family-office-cybersecurity",
+      "name": "Family Office Cybersecurity",
+      "description": "Cyber protection sized for a wealthy family and its office: locked-down accounts and devices, a payment verification rule fraudsters cannot talk past, trained staff and a rehearsed incident plan.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-office-cybersecurity",
+        "parent",
+        "manager",
+        "payment-fraud",
+        "phishing",
+        "incident-response",
+        "device-security"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-office-cybersecurity.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:1eb6246db487c892b46f62df82bcb77aba0997cdaf068975bc00a94dda32c841"
+    },
+    {
+      "id": "family-office.family-office-staffing",
+      "name": "Family Office Staffing",
+      "description": "A family office team built on purpose: the work mapped, roles defined, the head of office and controller hired well, pay and incentives set fairly, and clear lines between staff and the family.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-office-staffing",
+        "parent",
+        "manager",
+        "hiring",
+        "head-of-office",
+        "compensation",
+        "executive-search"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-office-staffing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:72ddaa511b6f11821a28e21f914f0970c7f698fff0b2cc87268a15986aac0121"
+    },
+    {
+      "id": "family-office.family-office-systems",
+      "name": "Family Office Systems",
+      "description": "A family office system stack chosen on purpose: requirements, wealth reporting, document vault, bill pay, accounting and secure messaging, wired to banks and administrators and kept reconciled.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-office-systems",
+        "parent",
+        "manager",
+        "wealth-reporting",
+        "document-vault",
+        "bill-pay",
+        "family-office-technology"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-office-systems.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0ec545c758fec3500600171b88638fd746f0c67e6b2e6d6f1ba170262340560d"
+    },
+    {
+      "id": "family-office.family-prenuptial-policy",
+      "name": "Family Prenuptial Policy",
+      "description": "A family-wide marital agreement policy that protects family shares and trust interests while staying fair: who it covers, independent advice for both partners, full disclosure, good timing and a kind way to raise it.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-prenuptial-policy",
+        "parent",
+        "prenuptial-agreement",
+        "marital-agreements",
+        "trust-protection",
+        "disclosure",
+        "family-wealth"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-prenuptial-policy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ccb11bc7ae36033d827852f3c4c6a0dc824d9f8c374b510f00c77e8e81b61dc2"
+    },
+    {
+      "id": "family-office.family-privacy-and-public-profile",
+      "name": "Family Privacy and Public Profile",
+      "description": "A quieter public footprint for a wealthy family: registries and addresses handled with care, one door for media enquiries, social media rules each member keeps, and personal data removed and kept off the internet.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-privacy-and-public-profile",
+        "parent",
+        "everyone",
+        "privacy",
+        "public-records",
+        "media-enquiries",
+        "data-removal"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-privacy-and-public-profile.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:3495f89324a1170858f3ad9adb3e87602e5e5415802fa4e3781f8e7f01d39a5e"
+    },
+    {
+      "id": "family-office.family-records-and-archives",
+      "name": "Family Records and Archives",
+      "description": "The family's papers found, mapped and kept safe: key documents and originals, structure charts, deeds, access rules, a calendar of checks and a family history archive worth handing down.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-records-and-archives",
+        "parent",
+        "retiree",
+        "key-documents",
+        "structure-chart",
+        "property-deeds",
+        "family-history"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-records-and-archives.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:ed566cedb731e3041115f5a5416d1a87a43054b16a6357c23ea7b0d29538a5d5"
+    },
+    {
+      "id": "family-office.family-risk-and-insurance-review",
+      "name": "Family Risk and Insurance Review",
+      "description": "A family risk map, one schedule of every policy, correct named insureds, up-to-date valuations, a broker who reviews the whole programme each year, umbrella limits chosen on purpose and a claims record you can stand behind.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-risk-and-insurance-review",
+        "parent",
+        "homeowner",
+        "insurance",
+        "umbrella-liability",
+        "risk-management",
+        "claims"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-risk-and-insurance-review.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:d23315809d350e10a6c8ed7428b6eca891c468c46f9702b3719346f0dd339462"
+    },
+    {
+      "id": "family-office.family-security-assessment",
+      "name": "Family Security Assessment",
+      "description": "A clear picture of the security risks around a wealthy family: a threat profile, surveys of each home, travel and routine reviews, online exposure, and a prioritised security plan agreed with a qualified specialist.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "family-security-assessment",
+        "parent",
+        "homeowner",
+        "threat-assessment",
+        "residential-security",
+        "travel-security",
+        "risk-assessment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/family-security-assessment.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:3065e04bf6de9c1707caff4f9b8f3908114ac2212dabd1e52e3180013f4d2a14"
+    },
+    {
+      "id": "family-office.household-staff-employment",
+      "name": "Household Staff Employment",
+      "description": "Household staff employed properly: worker status settled, employer registrations, written contracts and confidentiality agreements, payroll and contributions on time, hours and leave recorded, fair pay reviews and endings handled well.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "household-staff-employment",
+        "parent",
+        "homeowner",
+        "household-staff",
+        "domestic-payroll",
+        "employment-contracts",
+        "nanny"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/household-staff-employment.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d448e27e6a6c2173e795f27ed73158c1b8631eca5cfd2ba038f4266eb61155f6"
+    },
+    {
+      "id": "family-office.kidnap-and-extortion-preparedness",
+      "name": "Kidnap and Extortion Preparedness",
+      "description": "A family ready for the call nobody wants: kidnap and extortion cover understood, a response consultancy on retainer, a crisis team and written plan, proof-of-life files, code words and calm routines for the children.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "kidnap-and-extortion-preparedness",
+        "parent",
+        "kidnap-and-ransom",
+        "extortion",
+        "crisis-response",
+        "child-safety",
+        "code-words"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/kidnap-and-extortion-preparedness.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:27303cb6843beac3dfcf0a2ee55226546e5c49353acc6f700fd895844bfe28b7"
+    },
+    {
+      "id": "family-office.multi-family-office-selection",
+      "name": "Multi-Family Office Selection",
+      "description": "A careful route to choosing a multi-family office: what the family needs, fee models and conflicts understood, a proper RFP and due diligence, a negotiated agreement, a trial period and a yearly review.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "multi-family-office-selection",
+        "parent",
+        "retiree",
+        "multi-family-office",
+        "due-diligence",
+        "fee-models",
+        "adviser-selection"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/multi-family-office-selection.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:a3fdc90d4fec452be5880df25466369b659dafa302a659861b52b99d6d1dd36a"
+    },
+    {
+      "id": "family-office.multiple-residences-management",
+      "name": "Multiple Residences Management",
+      "description": "Several homes run as one estate: a register of every residence, maintenance calendars, staff and suppliers at each property, budgets, security systems and the routines for opening and closing seasonal homes.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "multiple-residences-management",
+        "parent",
+        "homeowner",
+        "estate-management",
+        "seasonal-homes",
+        "property-maintenance",
+        "second-homes"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/multiple-residences-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:24b60732ad782494ae9e4691068af6e479202eba4eacd0368f1a571df0a9a4da"
+    },
+    {
+      "id": "family-office.next-generation-education-programme",
+      "name": "Next-Generation Education Programme",
+      "description": "A structured education programme for the family's children and young adults: age-based learning goals, money skills, governance training, outside work experience and yearly reviews.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "next-generation-education-programme",
+        "parent",
+        "rising-generation",
+        "financial-literacy",
+        "governance-training",
+        "work-experience",
+        "family-education"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/next-generation-education-programme.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:92f5f113fab0a896d2dd3b6dca10ee19226045176927cc8d4acda41adca829cd"
+    },
+    {
+      "id": "family-office.pre-immigration-wealth-planning",
+      "name": "Pre-Immigration Wealth Planning",
+      "description": "Planning a family member's move abroad before it happens: residency rules in both countries, a dated move plan, records and source of wealth ready, restructuring options weighed with advisers on each side, and clean first-year filings.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "pre-immigration-wealth-planning",
+        "parent",
+        "everyone",
+        "relocation",
+        "tax-residency",
+        "cross-border",
+        "exit-tax"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/pre-immigration-wealth-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:e21d3b6e62c91c8ae071e632cf324c99c53af939fd56158a0432f61a18149cad"
+    },
+    {
+      "id": "family-office.private-foundation-set-up",
+      "name": "Private Foundation Set-Up",
+      "description": "A family foundation built properly from the first decision: purpose, legal form and jurisdiction, founding documents and registration, board and staff, the endowment, grant policies and the yearly cycle of meetings, accounts and filings.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "private-foundation-set-up",
+        "parent",
+        "retiree",
+        "nonprofit",
+        "philanthropy",
+        "charitable-foundation",
+        "endowment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/private-foundation-set-up.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9720159ef96ff907ccca9eb98b3cad307bdcf6bd0f3c743457ea4621f20651da"
+    },
+    {
+      "id": "family-office.private-trust-company",
+      "name": "Private Trust Company",
+      "description": "A considered decision on whether the family should run its own trustee, and if so a private trust company built properly: ownership, board, licensing route, costs, decision records, filings and continuity across generations.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "private-trust-company",
+        "parent",
+        "retiree",
+        "trustee-governance",
+        "ptc-board",
+        "purpose-trust",
+        "trust-administration"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/private-trust-company.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5d0c71dafe4ce92a1921cc7dd1688c0073a4b2cafe6422715e549472d86ee9d6"
+    },
+    {
+      "id": "family-office.rising-generation-leadership-roles",
+      "name": "Rising Generation Leadership Roles",
+      "description": "A clear route for young adults into family governance: observer seats, a junior board, committee roles and mentors, with written rules for eligibility, voting and the step up to full responsibility.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "rising-generation-leadership-roles",
+        "parent",
+        "student",
+        "next-generation",
+        "junior-board",
+        "mentoring",
+        "family-governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/rising-generation-leadership-roles.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:800ff1679f0fc35f8002b41f8406e4419c2722b0a271d67579fe614375db7a44"
+    },
+    {
+      "id": "family-office.single-family-office-set-up",
+      "name": "Single-Family Office Set-Up",
+      "description": "A single-family office set up on purpose: a written scope, a reasoned build or outsource call, the right entity and location, a first hire, a launch stack, a set-up budget and a first year that runs.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "single-family-office-set-up",
+        "parent",
+        "founder",
+        "single-family-office",
+        "build-or-outsource",
+        "office-entity",
+        "liquidity-event"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/single-family-office-set-up.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:953f8fe6c6592b93ce9fde0499b1cf22eca4930f7213043137287239cc7dd575"
+    },
+    {
+      "id": "family-office.staff-vetting-and-background-checks",
+      "name": "Staff Vetting and Background Checks",
+      "description": "Vetting that matches each role's access to the family: tiered checks, a lawful consent process, a trusted screening provider, careful reference calls, fair handling of findings and scheduled re-checks.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "staff-vetting-and-background-checks",
+        "parent",
+        "homeowner",
+        "background-checks",
+        "references",
+        "screening",
+        "household-staff"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/staff-vetting-and-background-checks.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b33ccbff744e5886ecae1476917a41f4cf0c8d43c1ac8cda3a41dce397cf084f"
+    },
+    {
+      "id": "family-office.trust-structures-across-jurisdictions",
+      "name": "Trust Structures Across Jurisdictions",
+      "description": "A documented picture of every family trust across countries: an inventory and structure chart, a deed library, residence maps, trust types understood, a filing calendar and a yearly review with advisers in each jurisdiction.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "trust-structures-across-jurisdictions",
+        "parent",
+        "retiree",
+        "trusts",
+        "cross-border",
+        "trust-reporting",
+        "estate-structures"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/trust-structures-across-jurisdictions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:dac4d021935cffb16f46e040f10fb4a11f34ca565217f0de3ff2a11a294a2bcb"
+    },
+    {
+      "id": "family-office.trustee-selection-and-oversight",
+      "name": "Trustee Selection and Oversight",
+      "description": "A family's working system for trustees: who holds which role, letters of wishes, a proper selection process, a reporting and fee routine, and a calm plan for replacing a trustee when it is time.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "trustee-selection-and-oversight",
+        "parent",
+        "retiree",
+        "trustees",
+        "protector",
+        "letter-of-wishes",
+        "trust-oversight"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/trustee-selection-and-oversight.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:8904e25a15f4087f29952000b1fd8725dd45a52c8e867be0d4019e453eaf3d50"
+    },
+    {
+      "id": "family-office.wealth-structuring-jurisdictions",
+      "name": "Wealth Structuring Jurisdictions",
+      "description": "A disciplined way to compare and choose jurisdictions for family structures: a map of what exists, weighted criteria, substance and filing calendars, reputation checks and a yearly health review of every centre used.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "wealth-structuring-jurisdictions",
+        "parent",
+        "retiree",
+        "offshore-jurisdictions",
+        "economic-substance",
+        "cayman-bahamas-bvi",
+        "jurisdiction-comparison"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/wealth-structuring-jurisdictions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:f6ab20ee7c6e9ec236a7b411ecc334bdc1126095d82723eecb52d3d1a0d6b4b4"
+    },
+    {
+      "id": "family-office.welcoming-spouses-into-the-family",
+      "name": "Welcoming Spouses into the Family",
+      "description": "A planned welcome for every new spouse: a sponsor, an orientation pack, clear rules on forums and information, governance education, privacy expectations and a one-year review with the couple.",
+      "category": "personal",
+      "tags": [
+        "family-office",
+        "welcoming-spouses-into-the-family",
+        "parent",
+        "in-laws",
+        "spouse-onboarding",
+        "family-governance",
+        "orientation",
+        "inclusion"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/family-office/welcoming-spouses-into-the-family.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Family Office & Private Wealth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b8021b049ee7fe8cc5c738ec9693e625dd74f222bdf743e27e8d36638a00bdcd"
     },
     {
       "id": "family-parenting.adoption-journey",
@@ -18236,9 +20837,93 @@
         ],
         "totalAreas": 1,
         "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:8e4e79f9a84dccd25cd5f2bd1d3e13aa4c4d0b87289905d7cfe6e7c5ea577aaa"
+    },
+    {
+      "id": "practice-ownership.aml-duties-law-accounting-firms",
+      "name": "AML Duties for Law and Accounting Firms",
+      "description": "A firm-wide risk assessment, a named reporting officer, client due diligence that happens before work starts, internal reporting, training and records a supervisor can inspect without surprises.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "aml-duties-law-accounting-firms",
+        "small-business",
+        "anti-money-laundering",
+        "client-due-diligence",
+        "law-firm",
+        "accounting-firm",
+        "suspicious-activity-reporting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/aml-duties-law-accounting-firms.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
         "totalTasks": 202
       },
-      "contentHash": "sha256:5b3b5710cb984b6fe874d0f943578c09626145d605ac41969452ee17e134c625"
+      "contentHash": "sha256:a2466b48377fa91686bfe31890b19962a5ef36be9636445c4bf546d9186bd84d"
+    },
+    {
+      "id": "practice-ownership.associate-to-equity-partner-path",
+      "name": "Associate to Equity Partner Path",
+      "description": "Written partnership criteria, a clear ladder from associate to salaried and equity partner, buy-in terms people can afford, career conversations that keep good associates, and a fair route for those on the path.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "associate-to-equity-partner-path",
+        "small-business",
+        "manager",
+        "partnership",
+        "career-progression",
+        "retention",
+        "buy-in"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/associate-to-equity-partner-path.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4dedeadc193b5ae86a3916045b57650ceb21b39d5fc10a21990854b3ed0755b3"
+    },
+    {
+      "id": "practice-ownership.billable-time-and-fee-notes",
+      "name": "Billable Time and Fee Notes",
+      "description": "A written time policy, daily capture habits, narratives clients accept, monthly pro formas and fee notes, controlled write-offs and realisation figures for law, accounting and engineering firms.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "billable-time-and-fee-notes",
+        "small-business",
+        "team",
+        "timekeeping",
+        "fee-notes",
+        "realisation",
+        "write-offs"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/billable-time-and-fee-notes.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:fa6ccdd9023f2bd719d97f40262c35974a5e929b3977ca275feabbaffa2bb721"
     },
     {
       "id": "practice-ownership.buying-an-existing-practice",
@@ -18267,6 +20952,258 @@
         "totalTasks": 195
       },
       "contentHash": "sha256:3b1f3d7601b04a7625f50331291eb296e681da509436ed6392b52a014096d860"
+    },
+    {
+      "id": "practice-ownership.client-trust-accounts",
+      "name": "Client Trust Accounts",
+      "description": "A designated client account, a ledger for every client, monthly three-way reconciliations, clear withdrawal and payment rules, fraud checks and a firm that is ready for the accountant's report and the regulator's inspection.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "client-trust-accounts",
+        "small-business",
+        "client-money",
+        "trust-accounting",
+        "reconciliation",
+        "law-firm",
+        "accounts-rules"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/client-trust-accounts.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:2b2f98fa4304936b5f4b39b0e1bb2b7baebdad37a52a55fd31b66feb8d2e478e"
+    },
+    {
+      "id": "practice-ownership.clinical-governance-and-audits",
+      "name": "Clinical Governance and Audits",
+      "description": "A governance framework with named leads, an incident and significant event routine, a yearly clinical audit programme that closes the loop, current protocols, patient feedback that changes things and evidence an inspector can follow.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "clinical-governance-and-audits",
+        "small-business",
+        "clinical-audit",
+        "significant-events",
+        "patient-safety",
+        "quality-improvement",
+        "protocols"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/clinical-governance-and-audits.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:e8af7b2f43938ad3f16dc46bfc866f5fcceb5ded14bf5c69d8dca0ffc12ad269"
+    },
+    {
+      "id": "practice-ownership.complaints-and-professional-discipline",
+      "name": "Complaints and Professional Discipline",
+      "description": "A written complaints procedure, a log and deadlines that hold, replies that resolve, and a calm, prepared route through regulator referrals, investigations and discipline hearings, with lessons acted on.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "complaints-and-professional-discipline",
+        "small-business",
+        "complaints",
+        "fitness-to-practise",
+        "regulator",
+        "discipline-hearings",
+        "client-service"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/complaints-and-professional-discipline.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:ee754fb8efad00b2c665d0799006cf6a360f9c30719f388261be81300d5b6ba6"
+    },
+    {
+      "id": "practice-ownership.controlled-drugs-pharmacy-registers",
+      "name": "Controlled Drugs and Pharmacy Registers",
+      "description": "A controlled drug register that balances every week, a cabinet and key regime that meets the safe custody rules, witnessed destruction, discrepancy handling and a practice ready for the controlled drugs inspector.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "controlled-drugs-pharmacy-registers",
+        "small-business",
+        "controlled-drugs",
+        "pharmacy",
+        "veterinary",
+        "safe-custody",
+        "registers"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/controlled-drugs-pharmacy-registers.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9e528510742620bc5dd11262185620b8462d7d04e2a362a59ae8734f7db3ac1a"
+    },
+    {
+      "id": "practice-ownership.group-practice-and-multi-site-growth",
+      "name": "Group Practice and Multi-Site Growth",
+      "description": "A tested case for a second site, a founding-site playbook, a central team and shared systems, a professional lead per location, and the reviews and audits that keep every site to one standard.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "group-practice-and-multi-site-growth",
+        "small-business",
+        "founder",
+        "multi-site",
+        "expansion",
+        "site-selection",
+        "central-team"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/group-practice-and-multi-site-growth.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c49517b79bf9c756b84af41f5503f0cb4a86c0b1520ce03db278f59c6cea3314"
+    },
+    {
+      "id": "practice-ownership.hiring-associates-and-professionals",
+      "name": "Hiring Associates and Professionals",
+      "description": "A workforce plan, role profiles, pay bands, a fair scored interview process, verified credentials, a lawyer-checked contract and an induction that gets each new associate productive and staying.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "hiring-associates-and-professionals",
+        "small-business",
+        "manager",
+        "recruitment",
+        "associates",
+        "employment-contracts",
+        "credential-checks"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/hiring-associates-and-professionals.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:8ec265763b94808198ea11de3818dc64a2269727fe61354a4ed72c00ed4f06b2"
+    },
+    {
+      "id": "practice-ownership.hiring-front-desk-and-support-staff",
+      "name": "Hiring Front Desk and Support Staff",
+      "description": "Clear support roles and pay bands, fair hiring with work sample tests, first-week inductions, phone scripts and service standards, and a rota with cover that keeps the front desk staffed every session.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "hiring-front-desk-and-support-staff",
+        "small-business",
+        "manager",
+        "reception",
+        "recruitment",
+        "rotas",
+        "staff-training"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/hiring-front-desk-and-support-staff.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d800544aac6036f54a8e5a6f40097ca51da90116e507dda7027dfb58af6d0f52"
+    },
+    {
+      "id": "practice-ownership.infection-prevention-in-practice",
+      "name": "Infection Prevention in Practice",
+      "description": "A named infection prevention lead, a written policy and risk assessment, sterilisation and waste routines with logs, cleaning schedules, staff training and an annual audit an inspector can follow.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "infection-prevention-in-practice",
+        "small-business",
+        "infection-control",
+        "decontamination",
+        "sterilisation",
+        "clinical-waste",
+        "hand-hygiene"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/infection-prevention-in-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:92576d3a3fb0c558cc63e5f3b331312a3345700c6d2728573b653c9459c2648b"
+    },
+    {
+      "id": "practice-ownership.locums-and-contract-professionals",
+      "name": "Locums and Contract Professionals",
+      "description": "A cover plan, a trusted locum bank, checked credentials, fair rates, a lawyer-reviewed agreement, an induction pack and handover notes that keep quality steady whoever is covering.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "locums-and-contract-professionals",
+        "small-business",
+        "locums",
+        "contractors",
+        "temporary-cover",
+        "credential-checks",
+        "handover"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/locums-and-contract-professionals.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:3fba454c6e8a2f4d3fbfd859f15c60e77c27d2263ed1fe3515dbc749dd8345be"
     },
     {
       "id": "practice-ownership.owning-a-dental-practice",
@@ -18633,6 +21570,286 @@
       "contentHash": "sha256:711fa451160e53886932cf641c48c7abae27907cc0b56a8d1a84e031a8c82ca5"
     },
     {
+      "id": "practice-ownership.patient-and-client-records",
+      "name": "Patient and Client Records",
+      "description": "A records system an owner can defend: every file located, a retention schedule, consent and confidentiality rules, access requests answered on time, secure storage and files closed and destroyed on schedule.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "patient-and-client-records",
+        "small-business",
+        "records-management",
+        "confidentiality",
+        "data-protection",
+        "retention",
+        "access-requests"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/patient-and-client-records.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 208
+      },
+      "contentHash": "sha256:cdfd1c4691b63ad5c89a5da8482ca833179726a73a2705bafc02fc46b935d2d7"
+    },
+    {
+      "id": "practice-ownership.patient-billing-and-insurance-claims",
+      "name": "Patient Billing and Insurance Claims",
+      "description": "Clean claims out the door within days, eligibility checked before the visit, denials worked every week, patient balances collected kindly and every day's takings reconciled to the bank.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "patient-billing-and-insurance-claims",
+        "small-business",
+        "insurance-claims",
+        "denials",
+        "revenue-cycle",
+        "patient-balances",
+        "reconciliation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/patient-billing-and-insurance-claims.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:adcd921995b1fbcfbf19fa5fb5ddfdb3be13917d219ec227d19c1db25313820c"
+    },
+    {
+      "id": "practice-ownership.practice-cpd-and-licence-renewals",
+      "name": "Practice CPD and Licence Renewals",
+      "description": "One register of every professional's licence, renewal date, CPD hours and certificates, with reminders that fire months ahead, an audit-ready evidence folder and a clear rule for what happens if anything lapses.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "practice-cpd-and-licence-renewals",
+        "small-business",
+        "team",
+        "cpd",
+        "licence-renewals",
+        "continuing-education",
+        "credentials"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/practice-cpd-and-licence-renewals.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:beb4f413498538cf6871bfe6d72dc098060ddaa3dd72b14cd6750b1d2cf9ad0a"
+    },
+    {
+      "id": "practice-ownership.practice-equipment-finance",
+      "name": "Practice Equipment Finance",
+      "description": "An equipment register and capital plan, specifications and quotes compared on whole-life cost, lease and loan terms you understand, maintenance contracts that are watched, and replacement decisions made before a breakdown makes them.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "practice-equipment-finance",
+        "small-business",
+        "equipment-leasing",
+        "asset-finance",
+        "maintenance-contracts",
+        "medical-devices",
+        "capital-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/practice-equipment-finance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:3f3d9e2efecc3d96144e098fa02909de18f36d9a9bfd745c56f9545ff66f535e"
+    },
+    {
+      "id": "practice-ownership.practice-fee-schedules",
+      "name": "Practice Fee Schedules",
+      "description": "A fee schedule built from your real cost per hour, the rules your regulator sets, local comparisons and clear policies, kept current with an annual review and increases clients understand.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "practice-fee-schedules",
+        "small-business",
+        "pricing",
+        "fee-schedule",
+        "fixed-fees",
+        "price-increases",
+        "hourly-rates"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/practice-fee-schedules.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:680ae3d1870b890191934a89fafa5d01ff5e742eabc42202a28c17465569e132"
+    },
+    {
+      "id": "practice-ownership.practice-financial-dashboard",
+      "name": "Practice Financial Dashboard",
+      "description": "A one-page practice dashboard built on clean definitions: revenue per professional, utilisation, collection rate, overheads and profit per partner, refreshed monthly and reviewed with the partners so every red number gets an owner.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "practice-financial-dashboard",
+        "small-business",
+        "kpis",
+        "management-accounts",
+        "utilisation",
+        "profitability",
+        "budgeting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/practice-financial-dashboard.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3b96ffd6399ac9f6ca04a37719e78e7bc772c204d8cddf013243cb6dcf7f4480"
+    },
+    {
+      "id": "practice-ownership.practice-management-software",
+      "name": "Practice Management Software",
+      "description": "A clear picture of the systems you run today, a software choice made against real requirements, a clean data migration and go-live, tight access controls, tested backups and staff who know the system well.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "practice-management-software",
+        "small-business",
+        "practice-software",
+        "vendor-selection",
+        "data-migration",
+        "access-controls",
+        "staff-training"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/practice-management-software.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:88e47a46489c8d6f860387b21c354422f276ffda6a653de8c95ece07e4eed8bf"
+    },
+    {
+      "id": "practice-ownership.practice-manager-role",
+      "name": "Practice Manager Role",
+      "description": "A clear case for the role, a written scope and authority limits, a sound hire or promotion, a monthly report and scorecard for the owners, and the routines that hand admin off the professionals for good.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "practice-manager-role",
+        "small-business",
+        "manager",
+        "practice-manager",
+        "delegation",
+        "operations",
+        "reporting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/practice-manager-role.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:58e36c6aa7c3612cd294638c24af5c47dbcb19f4fbfd866d3709134dd1124e5f"
+    },
+    {
+      "id": "practice-ownership.practice-marketing-professional-rules",
+      "name": "Practice Marketing Within Professional Rules",
+      "description": "Marketing a practice the regulator would sign off: the advertising rules on one page, a sign-off checklist, consented testimonials, honest reviews, a compliant website and a community presence that brings in the right clients.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "practice-marketing-professional-rules",
+        "small-business",
+        "advertising-rules",
+        "online-reviews",
+        "testimonials",
+        "practice-website",
+        "community-presence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/practice-marketing-professional-rules.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:0a6ef9ed4aadc6945c980cbb641b6bcecb3fcac89d758f076ce09a7ebd8146fe"
+    },
+    {
+      "id": "practice-ownership.practice-owner-time-management",
+      "name": "Practice Owner Time Management",
+      "description": "A true picture of where the owner's hours go, protected management time, delegation that sticks, a weekly owner review and the limits, breaks and leave that keep a practice owner from burning out.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "practice-owner-time-management",
+        "small-business",
+        "founder",
+        "time-management",
+        "delegation",
+        "burnout",
+        "weekly-review"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/practice-owner-time-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7533f783eb4fb1267d813195e825bdf36d3fd54fdf6cbcd479138a92a6b7e961"
+    },
+    {
       "id": "practice-ownership.practice-partnership-agreements",
       "name": "Practice Partnership Agreements",
       "description": "Heads of terms, capital and profit clauses, decision rules, covenants, death and disability terms, exit formulas and the yearly routines that keep a practice partnership agreement current and signed.",
@@ -18717,6 +21934,34 @@
       "contentHash": "sha256:80897426b9cb19ae58524d0f97ef9f468523cc5394d1e7a874fee71d3d89695a"
     },
     {
+      "id": "practice-ownership.practice-succession-planning",
+      "name": "Practice Succession Planning",
+      "description": "A written succession goal, an emergency plan for the day you cannot work, a successor chosen and developed, client and patient handover tracked, and terms agreed well before you step back.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "practice-succession-planning",
+        "small-business",
+        "retiree",
+        "succession",
+        "continuity",
+        "successor",
+        "handover"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/practice-succession-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a9cb7edfdb67efe9f4ccb389d94a39a341e3a71142bdf7b49bd8d076e320a9c9"
+    },
+    {
       "id": "practice-ownership.practice-valuation",
       "name": "Practice Valuation",
       "description": "Normalised earnings, a clean valuation file, the methods buyers and valuers use, owner dependence and retention measured, and a value you can explain before any sale, buy-in or dispute.",
@@ -18745,6 +21990,146 @@
       "contentHash": "sha256:50e17fc002362e13bb1d8bd794e36e0388bef2ac38958353125b62e10d2154f2"
     },
     {
+      "id": "practice-ownership.professional-indemnity-for-practices",
+      "name": "Professional Indemnity for Practices",
+      "description": "Indemnity and malpractice cover the practice can rely on: the right limit and retroactive date, a broker and renewal routine, claims notified on time, risk controls insurers reward and run-off arranged before you need it.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "professional-indemnity-for-practices",
+        "small-business",
+        "professional-indemnity",
+        "malpractice-insurance",
+        "run-off-cover",
+        "claims-notification",
+        "risk-management"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/professional-indemnity-for-practices.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:2c21596279d0bcf2183455860b69bd6d60523942438b5bf6e1bedd3dbc777a1c"
+    },
+    {
+      "id": "practice-ownership.professional-referral-networks",
+      "name": "Professional Referral Networks",
+      "description": "A clear picture of where your work really comes from, a register of referrers kept warm on purpose, referral rules checked with your regulator, and routines that keep both sides of every introduction informed.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "professional-referral-networks",
+        "small-business",
+        "freelancer",
+        "referrals",
+        "business-development",
+        "professional-networks",
+        "client-acquisition"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/professional-referral-networks.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:2378d8d6e3640ba57383be0445f2bb10d050578bb6eba2da4a37f229a41ab844"
+    },
+    {
+      "id": "practice-ownership.selling-a-practice",
+      "name": "Selling a Practice",
+      "description": "Exit goals and a timeline, sale-ready books, less owner dependence, a confidential search for the right buyer, deal terms and earn-outs you understand, and a transition you can live with after completion.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "selling-a-practice",
+        "small-business",
+        "retiree",
+        "exit",
+        "deal-terms",
+        "earn-out",
+        "due-diligence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/selling-a-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:be5e36ef6cfd2de9ee59a64e6cffc5cf57691a52a3573114f9d1e3be9b77be49"
+    },
+    {
+      "id": "practice-ownership.selling-to-a-practice-group",
+      "name": "Selling to a Practice Group",
+      "description": "Weighing an offer from a consolidator or corporate group: deal structure, rollover equity and earn-outs, the employment contract you sign, the professional autonomy you keep and what changes for your staff.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "selling-to-a-practice-group",
+        "small-business",
+        "consolidator",
+        "private-equity",
+        "earn-out",
+        "rollover-equity",
+        "employment-contract"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/selling-to-a-practice-group.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:12439cea0cbb5f58ef84286c850a140df30ac5aa2c867ee8dfb4ec5779d55861"
+    },
+    {
+      "id": "practice-ownership.setting-up-a-caribbean-practice",
+      "name": "Setting Up a Caribbean Practice",
+      "description": "Local council registration, company, tax and national insurance numbers, the licences a Caribbean practice needs to open, the filings that follow, and the CSME routes for practising across the region.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "setting-up-a-caribbean-practice",
+        "founder",
+        "small-business",
+        "caribbean",
+        "caricom",
+        "csme",
+        "registration"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/setting-up-a-caribbean-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a98b6b386c9464fb3a35520fbb0de82e01c264d8e431f619de6ebad217d620e7"
+    },
+    {
       "id": "practice-ownership.starting-a-practice-from-scratch",
       "name": "Starting a Practice from Scratch",
       "description": "A tested concept, the cash to last until fees arrive, licences and insurance in force, a chosen location, day-one systems, first staff and a first base of patients or clients for a brand new practice.",
@@ -18771,6 +22156,62 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:c76aa4d02782b0d0a963f7fa34b6ae859b8f71e0e825628dbbf1c37fddfaeadf"
+    },
+    {
+      "id": "practice-ownership.telehealth-and-remote-services",
+      "name": "Telehealth and Remote Services",
+      "description": "A clear scope for what your practice can deliver remotely, regulator and insurer checks, consent and identity steps, a chosen platform, safe escalation, remote billing and a launch you can review and improve.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "telehealth-and-remote-services",
+        "small-business",
+        "telehealth",
+        "video-consultations",
+        "remote-services",
+        "consent",
+        "virtual-care"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/telehealth-and-remote-services.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1d267aaba3415ab075687619dcc312cb838fdec65dab7561e36666dd66447083"
+    },
+    {
+      "id": "practice-ownership.work-in-progress-and-lockup",
+      "name": "Work in Progress and Lockup",
+      "description": "A measured lockup baseline, agreed targets, payment terms that work, weekly credit control, monthly WIP reviews and the campaigns, policies and forecasts that turn unbilled time and old invoices into cash.",
+      "category": "business",
+      "tags": [
+        "practice-ownership",
+        "work-in-progress-and-lockup",
+        "small-business",
+        "lockup",
+        "debtor-days",
+        "wip",
+        "credit-control",
+        "cash-flow"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/practice-ownership/work-in-progress-and-lockup.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Professional Practice Ownership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f0800c9ec2f9884477ff1fcb3be341aacecfbbadb323c114065a71fc2426f4f3"
     },
     {
       "id": "private-equity-vc.100-day-plans",

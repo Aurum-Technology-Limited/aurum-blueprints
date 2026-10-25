@@ -268,7 +268,7 @@ starter_structure:
                 - "Create the register with five columns and restricted access"
                 - "Add every associate and known external prospect"
                 - "Review the pipeline register at the partners' meeting @recurring(quarterly)"
-                - "Log any conversation with a prospect within a week of it happening"
+                - "Ask each partner for prospect conversations to log @recurring(monthly:3)"
             - name: Incoming partner capital account ledger
               description: |-
                 ## Purpose
@@ -1089,6 +1089,7 @@ starter_structure:
                 - "Start credentialing for the new clinician partner"
                 - "Agree which clinical governance duties they will take on"
                 - "Draft the patient notice about the new partner"
+                - "Chase credentialing status with each insurer @recurring(weekly:wed)"
             - name: Two partners becoming three, voting and deadlock
               description: |-
                 ## Purpose
@@ -1136,6 +1137,7 @@ starter_structure:
                 - "Run conflict checks on the incoming team's work"
                 - "Name an integration lead and write the ninety-day plan"
                 - "Compare proposed offers with existing staff pay"
+                - "Review the ninety-day plan with the integration lead @recurring(weekly:tue)"
             - name: Admission into a company-structured practice
               description: |-
                 ## Purpose
@@ -1178,7 +1180,7 @@ starter_structure:
               tasks:
                 - "Ask the local regulator how a foreign qualification is recognised"
                 - "Check work permit or regional mobility rules for the partner"
-                - "Confirm with the broker that cover applies in each country"
+                - "Confirm with the broker that cover applies in each country @recurring(yearly)"
                 - "Book a call with a tax adviser on residence questions"
             - name: Declining a candidate or ending a failed trial
               description: |-
