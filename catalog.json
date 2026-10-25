@@ -2907,6 +2907,1405 @@
       "contentHash": "sha256:30c2060bf25bc6be72a732460f9ce3d28d7df89f5c78e8f742b5b45a322079c7"
     },
     {
+      "id": "engineering-practice.aerospace-engineering-practice",
+      "name": "Aerospace Engineering Practice",
+      "description": "Your approvals and certification basis mapped, a controlled configuration baseline, and the directive, reliability, change board and compliance routines that keep aerospace design and maintenance evidence approvable.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "aerospace-engineering-practice",
+        "engineer",
+        "airworthiness",
+        "certification",
+        "configuration-control",
+        "continuing-airworthiness",
+        "stress"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/aerospace-engineering-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:5b9a1277909c8a17a2f87316459d6cd6a6906b55ae3eeb360e22b5d8d6a2549d"
+    },
+    {
+      "id": "engineering-practice.asset-integrity-and-inspection",
+      "name": "Asset Integrity and Inspection",
+      "description": "Inspection plans built on real damage mechanisms, corrosion rates and remaining life you can defend, risk-based intervals, fitness-for-service calls and integrity records that keep pressure equipment safely in service.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "asset-integrity-and-inspection",
+        "engineer",
+        "mechanical-integrity",
+        "inspection",
+        "corrosion",
+        "risk-based-inspection",
+        "fitness-for-service"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/asset-integrity-and-inspection.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:fb31fddc0f9115d354f109dacd7caa71002a09f753bd67b46efdf8b213e8b803"
+    },
+    {
+      "id": "engineering-practice.biomedical-engineering-practice",
+      "name": "Biomedical Engineering Practice",
+      "description": "The working kit of a biomedical engineer: design controls and a design history file, an ISO 14971 risk file, verification and validation evidence, hospital equipment programmes and submissions a regulator can follow.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "biomedical-engineering-practice",
+        "engineer",
+        "medical-devices",
+        "design-controls",
+        "iso-14971",
+        "clinical-engineering",
+        "regulatory-affairs"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/biomedical-engineering-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:1e79a2021ed818edca5384c4c6810108854e44995ca065e162c99de40356dd6d"
+    },
+    {
+      "id": "engineering-practice.cad-modelling-and-drawings",
+      "name": "CAD Modelling and Drawings",
+      "description": "Drawing standards, templates and layers set up once, 3D models built with design intent, every sheet checked and revised properly, and drawing packages issued for construction or manufacture with confidence.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "cad-modelling-and-drawings",
+        "engineer",
+        "drafting",
+        "3d-modelling",
+        "gd-and-t",
+        "drawing-standards",
+        "title-blocks"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/cad-modelling-and-drawings.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:160957ded2b94513d6364510799e6a2c4065a56a12be7dc929d56d1b522f3c67"
+    },
+    {
+      "id": "engineering-practice.caribbean-wind-and-seismic-design",
+      "name": "Caribbean Wind and Seismic Design",
+      "description": "A written hazard basis for every Caribbean job, the right code edition for each island, wind, seismic and flood loads you can defend, detailing that survives a hurricane or an earthquake, and checks after the event.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "caribbean-wind-and-seismic-design",
+        "engineer",
+        "hurricane-design",
+        "seismic-design",
+        "wind-loads",
+        "storm-surge",
+        "building-codes"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/caribbean-wind-and-seismic-design.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:cb054237dcba77c6530f39aad19a4f99da2c92eaf57e8c39d92ad328aa9f4cc7"
+    },
+    {
+      "id": "engineering-practice.chemical-and-process-engineering",
+      "name": "Chemical and Process Engineering",
+      "description": "A working process engineer's area: learning the unit from its PFD, closing mass and energy balances, sizing equipment by hand, watching performance and troubleshooting the plant within its operating envelope.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "chemical-and-process-engineering",
+        "engineer",
+        "process-engineering",
+        "mass-balance",
+        "equipment-sizing",
+        "troubleshooting",
+        "plant-performance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/chemical-and-process-engineering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d57a60b66d3aebeb190a05c3623572ab07683e607ff734277a590c362c579a24"
+    },
+    {
+      "id": "engineering-practice.codes-and-standards-compliance",
+      "name": "Codes and Standards Compliance",
+      "description": "A codes and standards register with the right editions, an applicability matrix, controlled deviations, vendor and inspector checks, and compliance dossiers that stand up to a regulator.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "codes-and-standards-compliance",
+        "engineer",
+        "code-compliance",
+        "asme",
+        "api",
+        "iec",
+        "deviations"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/codes-and-standards-compliance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:52d476bd89238c81f328ec4e8af89bd7da643a996fbb985ee7631b48e7cacddc"
+    },
+    {
+      "id": "engineering-practice.commissioning-and-start-up",
+      "name": "Commissioning and Start-Up",
+      "description": "A plant or system taken from mechanical completion to steady operation: clear system boundaries, a completions database, punch lists under control, safe first energisation and first feed, and performance tests that close the job.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "commissioning-and-start-up",
+        "engineer",
+        "commissioning",
+        "start-up",
+        "mechanical-completion",
+        "punch-list",
+        "handover"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/commissioning-and-start-up.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:db7a80ec261559456d8ee0b918615861d73a9c60fd6d40bb104b007370201258"
+    },
+    {
+      "id": "engineering-practice.controls-and-automation-engineering",
+      "name": "Controls and Automation Engineering",
+      "description": "The working kit of a controls and automation engineer: an instrument index you trust, loops that stay in automatic, alarms operators can act on, cause and effect charts, safety system bypasses under control and clean loop checks.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "controls-and-automation-engineering",
+        "engineer",
+        "instrumentation",
+        "pid-tuning",
+        "alarm-management",
+        "loop-checks",
+        "safety-systems"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/controls-and-automation-engineering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:76d3c3fffe3324b2a48934cf138b2aad17ca43c865716171be6ec3e42b6ce1a1"
+    },
+    {
+      "id": "engineering-practice.electrical-engineering-practice",
+      "name": "Electrical Engineering Practice",
+      "description": "The working kit of an electrical engineer: single-line diagrams you trust, load, fault and protection studies, earthing, equipment specifications, energisation and the site safety habits that keep people clear of arc flash.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "electrical-engineering-practice",
+        "engineer",
+        "power-systems",
+        "protection",
+        "earthing",
+        "arc-flash",
+        "switchgear"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/electrical-engineering-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:deec8d2058d770ec9de37b5b88dcb22bb50deb46ad60db1173cd165e23f931d8"
+    },
+    {
+      "id": "engineering-practice.energy-contractor-safety-stow",
+      "name": "Energy Sector Contractor Safety (STOW)",
+      "description": "STOW certification earned and kept, OSH Act duties mapped, safety passports and training current, HSE plans clients accept, and the inspections, audits and records that hold up on a Trinidad and Tobago energy site.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "energy-contractor-safety-stow",
+        "engineer",
+        "small-business",
+        "stow",
+        "contractor-safety",
+        "osh-act",
+        "trinidad-and-tobago"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/energy-contractor-safety-stow.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 190
+      },
+      "contentHash": "sha256:e2c1b0bf992e9142eace7f13fb3ffccf780b20a66cc63dd70c7339af2518d543"
+    },
+    {
+      "id": "engineering-practice.energy-transition-engineering-projects",
+      "name": "Energy Transition Engineering Projects",
+      "description": "Lower-carbon engineering that survives scrutiny: a measured emissions baseline, screened and costed options, flare and methane cuts, solar, storage, carbon capture and hydrogen studies, and savings proved after the work is done.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "energy-transition-engineering-projects",
+        "engineer",
+        "decarbonisation",
+        "solar-pv",
+        "carbon-capture",
+        "green-hydrogen",
+        "energy-efficiency"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/energy-transition-engineering-projects.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3131d92e59f440ad74f33891f7f1c75e78799e69f67283e4810ccdaabb65c6f9"
+    },
+    {
+      "id": "engineering-practice.engineering-calculation-packages",
+      "name": "Engineering Calculation Packages",
+      "description": "Calculations another engineer can check: a register, controlled inputs and assumptions, cited methods, independent checks, verified spreadsheets and tools, and a clean record from first issue to as-built.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "engineering-calculation-packages",
+        "engineer",
+        "calculation-register",
+        "design-verification",
+        "spreadsheet-control",
+        "independent-checking",
+        "assumptions-log"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/engineering-calculation-packages.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:aed568e85fd69a7d55afbeb2d6b24367e160365f5a320fb046f3c53d4c6121bc"
+    },
+    {
+      "id": "engineering-practice.engineering-cost-estimating",
+      "name": "Engineering Cost Estimating",
+      "description": "Estimates people can check and trust: a clear class and basis, quantities and vendor quotes under control, contingency and escalation argued from evidence, and a cost database that gets better with every project.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "engineering-cost-estimating",
+        "engineer",
+        "cost-estimating",
+        "cost-engineering",
+        "estimate-classes",
+        "contingency",
+        "benchmarking"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/engineering-cost-estimating.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:07dac412ce57f0d27f7d5b40cd6e755c961a46427d6102d8aae8bd68529dff6a"
+    },
+    {
+      "id": "engineering-practice.engineering-design-reviews",
+      "name": "Engineering Design Reviews",
+      "description": "Stage reviews at 30, 60 and 90 percent, 3D model reviews, operability and constructability input, a comment log with severity codes, and every action closed with a named owner and evidence.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "engineering-design-reviews",
+        "engineer",
+        "design-review",
+        "model-review",
+        "constructability",
+        "comment-log",
+        "operability"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/engineering-design-reviews.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:354cc0e8e0b0a54d3b4b373ad709f8c3077af470b08f2c692b5bcdb0455ccca6"
+    },
+    {
+      "id": "engineering-practice.engineering-drawing-and-document-control",
+      "name": "Engineering Drawing and Document Control",
+      "description": "A numbering and revision scheme everyone follows, a master document register that matches reality, transmittals and vendor documents tracked to return, superseded prints off site and as-builts handed over complete.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "engineering-drawing-and-document-control",
+        "engineer",
+        "document-control",
+        "document-register",
+        "transmittals",
+        "vendor-documents",
+        "as-built"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/engineering-drawing-and-document-control.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:e4655971afc505ed0aa670d8e2c334bda0e44e50f4dbc4f7851ed0520be1e5df"
+    },
+    {
+      "id": "engineering-practice.engineering-ethics",
+      "name": "Engineering Ethics",
+      "description": "A working ethics practice for engineers: the codes that bind you, honest sign-off, declared conflicts, a clear route for raising safety concerns, and the records that show you acted with care.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "engineering-ethics",
+        "engineer",
+        "professional-conduct",
+        "public-safety",
+        "conflicts-of-interest",
+        "whistleblowing",
+        "sign-off"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/engineering-ethics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3c297392f36a88a578d207320281637194fb2fe3f5e67b352b4df14b0dfed352"
+    },
+    {
+      "id": "engineering-practice.engineering-project-delivery",
+      "name": "Engineering Project Delivery",
+      "description": "A scope and work breakdown you can measure against, a critical path schedule, an interface register, weekly progress by rules of credit, change control, honest forecasts and reports, through to engineering close-out.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "engineering-project-delivery",
+        "engineer",
+        "manager",
+        "project-controls",
+        "scheduling",
+        "earned-value",
+        "change-control"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/engineering-project-delivery.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9bbc37017c6f5a9954627970050beb10a58ecedbeae103d773a4bc3a1fc76896"
+    },
+    {
+      "id": "engineering-practice.engineering-report-writing",
+      "name": "Engineering Report Writing",
+      "description": "Engineering reports that get read and acted on: a house template, executive summaries and recommendations that stand alone, figures that make one point, a clean review and approval route, and the habits that keep reports on time.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "engineering-report-writing",
+        "engineer",
+        "technical-writing",
+        "executive-summary",
+        "peer-review",
+        "technical-reports"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/engineering-report-writing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:826e99c77be95893148055c32cb34beb018bb0f24b558925484e871e02262246"
+    },
+    {
+      "id": "engineering-practice.engineering-tender-bids",
+      "name": "Engineering Tender Bids",
+      "description": "Bids that are compliant, priced on purpose and delivered on time: a go or no-go discipline, a tender register and compliance matrix, clarifications, priced risks, a settled price and a clean submission.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "engineering-tender-bids",
+        "engineer",
+        "small-business",
+        "tendering",
+        "bid-management",
+        "proposals",
+        "procurement"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/engineering-tender-bids.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7c3a7178026cfc4c8d37f54c972ab65dd43824eadd4c2e780341235ebb8d3ef2"
+    },
+    {
+      "id": "engineering-practice.environmental-engineering-practice",
+      "name": "Environmental Engineering Practice",
+      "description": "Environmental engineering as it is really practised: permit registers, discharge limits and monitoring rounds, treatment works process control, EIA chapters, contaminated land investigation and remediation closure.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "environmental-engineering-practice",
+        "engineer",
+        "wastewater",
+        "water-treatment",
+        "eia",
+        "environmental-permits",
+        "remediation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/environmental-engineering-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:e2aa96ff242f265a731bfd59573749faca1aa06a72fde51bc7904d265fb33a6d"
+    },
+    {
+      "id": "engineering-practice.factory-acceptance-testing",
+      "name": "Factory Acceptance Testing",
+      "description": "A working system for factory and site acceptance tests: test requirements pinned to the PO, ITPs and witness points agreed, criteria signed before the day, punch items closed and equipment released with its records.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "factory-acceptance-testing",
+        "engineer",
+        "fat",
+        "sat",
+        "inspection-and-test-plans",
+        "vendor-packages",
+        "witness-testing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/factory-acceptance-testing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f5209d3f98ebaa680eef5a3fc1e80e62d74a3a423581cbccfc0df6b594d5a61a"
+    },
+    {
+      "id": "engineering-practice.fea-and-cfd-simulation",
+      "name": "FEA and CFD Simulation",
+      "description": "Finite element and CFD work you can defend: a clear analysis question, hand checks first, converged meshes, honest boundary conditions, independent model checks, validation against test data and reports that state their limits.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "fea-and-cfd-simulation",
+        "engineer",
+        "fea",
+        "cfd",
+        "verification-validation",
+        "mesh-convergence",
+        "stress-analysis"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/fea-and-cfd-simulation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:a8dbb17641463a3865072e7902e9ae66e26c627f73ccc3f8a354b3004cdc9722"
+    },
+    {
+      "id": "engineering-practice.feed-studies",
+      "name": "FEED Studies",
+      "description": "A FEED that holds up at final investment decision: a frozen basis of design, defined process and layout, controlled holds and changes, a defensible estimate basis and a clean handover to the EPC contractor.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "feed-studies",
+        "engineer",
+        "feed",
+        "basis-of-design",
+        "front-end-loading",
+        "final-investment-decision",
+        "owners-engineer"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/feed-studies.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:31df99e612c3d516b863540e9a333e48baa74c3a6fad0ac50cf027e57a1ba724"
+    },
+    {
+      "id": "engineering-practice.fmea-studies",
+      "name": "FMEA Studies",
+      "description": "Design, process and machinery FMEAs run properly: scope and structure, function trees, failure chains, calibrated ratings, Action Priority, and actions tracked to verified closure with named owners.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "fmea-studies",
+        "engineer",
+        "dfmea",
+        "pfmea",
+        "aiag-vda",
+        "action-priority",
+        "control-plan"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/fmea-studies.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:004a4017e9d7de6c859094f92d9bedac8b2bfb71ce5446d02da2f09a912f2c72"
+    },
+    {
+      "id": "engineering-practice.graduate-engineer-development",
+      "name": "Graduate Engineer Development",
+      "description": "A 90-day start, a mentor, an evidence log against the registration standard, rotations and site exposure, real technical depth and a dated route to the professional review.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "graduate-engineer-development",
+        "engineer",
+        "student",
+        "graduate-scheme",
+        "professional-registration",
+        "mentoring",
+        "competence-evidence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/graduate-engineer-development.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:b3e2bd14579603883e5d5613d00cca3a41e3e05cd3d4612718fab873cf11aa69"
+    },
+    {
+      "id": "engineering-practice.hazop-studies",
+      "name": "HAZOP Studies",
+      "description": "Everything a HAZOP needs from one engineer: a clear scope, sound nodes and design intent, a well run session, worksheets that stand up to audit, and actions closed out with named owners and evidence.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "hazop-studies",
+        "engineer",
+        "process-safety",
+        "hazop",
+        "hazard-analysis",
+        "p-and-id",
+        "action-close-out"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/hazop-studies.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c8232896cfcf7ceadf2371984b49184397621b50db4e8a262601f5fdbf829f4b"
+    },
+    {
+      "id": "engineering-practice.industrial-and-manufacturing-engineering",
+      "name": "Industrial and Manufacturing Engineering",
+      "description": "Plant floor engineering done properly: routings, takt and capacity, time studies, OEE and SPC, standard cost, layouts, kaizen and the specialist work of scheduling and greenfield plant design.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "industrial-and-manufacturing-engineering",
+        "engineer",
+        "lean",
+        "time-study",
+        "oee",
+        "spc",
+        "continuous-improvement"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/industrial-and-manufacturing-engineering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:2cf95fe8994a9803de520bc4de58ea08069a91e6610eb087ad49834dfbd6e3ed"
+    },
+    {
+      "id": "engineering-practice.lng-plant-operations-and-engineering",
+      "name": "LNG Plant Operations and Engineering",
+      "description": "The engineering of an LNG plant from feed gas to ship: liquefaction trains understood, cryogenic hazards respected, compressors and cold boxes watched, tanks and loading managed, and the Point Fortin context known.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "lng-plant-operations-and-engineering",
+        "engineer",
+        "lng",
+        "liquefaction",
+        "cryogenic",
+        "point-fortin",
+        "trinidad-and-tobago"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/lng-plant-operations-and-engineering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:98e23b4c4259bee842354d90f99a6f5ad35248632c0056cfcc2916109665465c"
+    },
+    {
+      "id": "engineering-practice.local-content-in-energy-contracting",
+      "name": "Local Content in Energy Contracting",
+      "description": "Local content rules mapped, local status proven, prequalification held, partners chosen with care and a capability record that wins energy sector work for local firms and engineers.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "local-content-in-energy-contracting",
+        "engineer",
+        "small-business",
+        "local-content",
+        "prequalification",
+        "trinidad-and-tobago",
+        "guyana"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/local-content-in-energy-contracting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7cb2fe0f93190c8315271df55b093ee3ff2889adbb572c93fc373540f7f9cd85"
+    },
+    {
+      "id": "engineering-practice.lopa-and-safety-integrity-levels",
+      "name": "LOPA and Safety Integrity Levels",
+      "description": "A working functional safety kit: risk tolerance criteria, LOPA worksheets that hold up to challenge, SIL targets, safety requirements specifications, PFD verification and proof test records that prove each SIF still works.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "lopa-and-safety-integrity-levels",
+        "engineer",
+        "functional-safety",
+        "iec-61511",
+        "sil-verification",
+        "proof-testing",
+        "safety-instrumented-systems"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/lopa-and-safety-integrity-levels.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:610190c7455a950cb887e3de61117ed26632fccd362a6908e9faee8aa2a8fd9b"
+    },
+    {
+      "id": "engineering-practice.maintenance-planning-and-scheduling",
+      "name": "Maintenance Planning and Scheduling",
+      "description": "A maintenance planning system that works: clean work orders, a priority matrix, job plans with parts kitted, PM compliance, backlog in crew-weeks and a weekly schedule agreed with operations.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "maintenance-planning-and-scheduling",
+        "engineer",
+        "manager",
+        "work-orders",
+        "cmms",
+        "preventive-maintenance",
+        "backlog"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/maintenance-planning-and-scheduling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 187
+      },
+      "contentHash": "sha256:a7cf1c20715a5a4a75f07f07641751ceed4e08d11c14912610ca241baee2d7a4"
+    },
+    {
+      "id": "engineering-practice.management-of-change",
+      "name": "Management of Change",
+      "description": "A working management of change system: clear rules on what counts as a change, risk-tiered reviews, temporary change expiry, pre-start-up checks, updated drawings and the audits that prove it works.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "management-of-change",
+        "engineer",
+        "manager",
+        "process-safety",
+        "moc",
+        "pssr",
+        "temporary-changes"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/management-of-change.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6fbd81027961e21dedd724ae32a7f86c1237a95e9d18d5b1e1e058025b298ee4"
+    },
+    {
+      "id": "engineering-practice.marine-engineering-practice",
+      "name": "Marine Engineering Practice",
+      "description": "Marine engineering as it is really done: knowing the machinery space, keeping the PMS, fuel, oil and emissions records straight, class surveys, dry-docks, overhauls and the step from cadet to chief or superintendent.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "marine-engineering-practice",
+        "engineer",
+        "marine",
+        "ship-machinery",
+        "class-surveys",
+        "dry-docking",
+        "propulsion"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/marine-engineering-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:077a81655a1e7388169017bf614958d35958c1066bfd28a096f600d8b80a8600"
+    },
+    {
+      "id": "engineering-practice.mechanical-engineering-practice",
+      "name": "Mechanical Engineering Practice",
+      "description": "Mechanical engineering work as it is really done: design basis and datasheets, pump, vessel, piping and HVAC checks, vendor reviews, site tests and the step from graduate to discipline lead.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "mechanical-engineering-practice",
+        "engineer",
+        "mechanical",
+        "rotating-equipment",
+        "piping",
+        "hvac",
+        "pressure-vessels"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/mechanical-engineering-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:30be62cb4ac826926afd783ef69207fc65f8df880e2e9ddf9b779d9bfb5153fd"
+    },
+    {
+      "id": "engineering-practice.mining-and-minerals-engineering",
+      "name": "Mining and Minerals Engineering",
+      "description": "The working kit of a mine planning, production or processing engineer: site data and legal duties in order, mine routines, ground control and tailings checks, core skills, and the bauxite, gold and quarry work of the region.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "mining-and-minerals-engineering",
+        "engineer",
+        "mine-planning",
+        "mineral-processing",
+        "ground-control",
+        "bauxite",
+        "gold-mining"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/mining-and-minerals-engineering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4fe9ff599591547a6f04aff83e18deb548749acd1789ff7cea7006e46bfa03d5"
+    },
+    {
+      "id": "engineering-practice.natural-gas-curtailment-planning",
+      "name": "Natural Gas Curtailment Planning",
+      "description": "A plant that knows its gas position, has rate cut and restart plans ready before the supplier calls, and runs efficiency work that makes every MMscf go further in a gas-short economy.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "natural-gas-curtailment-planning",
+        "engineer",
+        "manager",
+        "gas-supply",
+        "curtailment",
+        "restart-planning",
+        "energy-efficiency"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/natural-gas-curtailment-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 208
+      },
+      "contentHash": "sha256:635f7f02f5aeac12ab2d90b36396f6ef10e0821bcd903dd8f61c3ce1d5364c8f"
+    },
+    {
+      "id": "engineering-practice.offshore-platform-engineering",
+      "name": "Offshore Platform Engineering",
+      "description": "Offshore platform engineering as it is really done: survival certificates and the safety case, topsides and weight control, jacket integrity, boats, helicopters and bed space, SIMOPS, campaigns and life extension.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "offshore-platform-engineering",
+        "engineer",
+        "offshore",
+        "topsides",
+        "jacket-integrity",
+        "simops",
+        "offshore-logistics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/offshore-platform-engineering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:46ca4d98bd7a53e23b0be6c6e75f242b52c2bfb13a88784ebf7f2cf02bcaa229"
+    },
+    {
+      "id": "engineering-practice.permit-to-work-and-isolations",
+      "name": "Permit to Work and Isolations",
+      "description": "A permit to work practice you can stand behind: the right permit for each job, isolations proven before anyone touches the plant, gas tests that mean something, clean shift handovers and returns to service.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "permit-to-work-and-isolations",
+        "engineer",
+        "permit-to-work",
+        "lockout-tagout",
+        "energy-isolation",
+        "gas-testing",
+        "simops"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/permit-to-work-and-isolations.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c59dc085a3eb62e875bdfc3b100dd672be2a4e15ff406608f6da3527a530d0cf"
+    },
+    {
+      "id": "engineering-practice.petroleum-engineering-practice",
+      "name": "Petroleum Engineering Practice",
+      "description": "The working kit of a reservoir, drilling or production engineer: field and well data in order, surveillance and reporting routines, core analysis skills, well proposals and reviews, and the specialist work of a senior engineer.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "petroleum-engineering-practice",
+        "engineer",
+        "reservoir-engineering",
+        "drilling",
+        "production-engineering",
+        "well-planning",
+        "regulatory-reporting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/petroleum-engineering-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:b7e91e62c1ebac86b0763672a3e4496f91c210cd0699506a05c2276b1fbb72d1"
+    },
+    {
+      "id": "engineering-practice.plant-turnarounds-and-shutdowns",
+      "name": "Plant Turnarounds and Shutdowns",
+      "description": "A turnaround run as a project with gates: scope challenged and frozen on time, contractors mobilised safely, a critical path you trust, costs forecast weekly and a start-up that goes right first time.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "plant-turnarounds-and-shutdowns",
+        "engineer",
+        "manager",
+        "turnaround",
+        "shutdown",
+        "scope-freeze",
+        "critical-path"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/plant-turnarounds-and-shutdowns.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 209
+      },
+      "contentHash": "sha256:25890195c4bce8bb51cdaf0ca5ed00940c0544287ce1bf92931c665d432f0b09"
+    },
+    {
+      "id": "engineering-practice.plc-programming",
+      "name": "PLC Programming",
+      "description": "PLC programs you can trust: a known master copy of every controller, written programming standards, IO lists, version control, simulation before site, safe online edits and clean go-lives.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "plc-programming",
+        "engineer",
+        "plc",
+        "ladder-logic",
+        "structured-text",
+        "iec-61131-3",
+        "industrial-automation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/plc-programming.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:58702f8b9cd733072c1420a626ac8c4bec590d964feeadc0944c320fc1625c50"
+    },
+    {
+      "id": "engineering-practice.point-lisas-petrochemical-plants",
+      "name": "Point Lisas Petrochemical Plants",
+      "description": "Know your ammonia, methanol or urea plant from gas inlet to ship, work safely among toxic and flammable inventories, run the monitoring routines and grow from new engineer to technical authority on the estate.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "point-lisas-petrochemical-plants",
+        "engineer",
+        "trinidad-and-tobago",
+        "ammonia",
+        "methanol",
+        "urea",
+        "petrochemicals"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/point-lisas-petrochemical-plants.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:c6a1e8a527649e0b5c488003e88d65b46016a2f87284ab05336564e190d8d5b0"
+    },
+    {
+      "id": "engineering-practice.process-safety-management",
+      "name": "Process Safety Management",
+      "description": "A working process safety management system: covered processes defined, element owners named, process safety information and procedures current, actions closed, audits passed and leading indicators that warn before an incident does.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "process-safety-management",
+        "engineer",
+        "manager",
+        "psm",
+        "process-safety",
+        "leading-indicators",
+        "major-accident-hazards"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/process-safety-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:38a9db4efc881bc5479b3a7fd1ddc978a9ec24db6fea6f75b6bd7aecf1437ca0"
+    },
+    {
+      "id": "engineering-practice.process-simulation-modelling",
+      "name": "Process Simulation Modelling",
+      "description": "Process simulations people can trust: a written model basis, the right thermodynamics, flowsheets that converge, models kept matched to plant data, and the case studies, debottlenecking and dynamic work that decisions rest on.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "process-simulation-modelling",
+        "engineer",
+        "process-simulation",
+        "aspen-hysys",
+        "thermodynamics",
+        "debottlenecking",
+        "dynamic-simulation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/process-simulation-modelling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:8f82bf1c1ff55f043f5fcd00c7762b6cc94216666d05a84c3994bcafe9e8d174"
+    },
+    {
+      "id": "engineering-practice.reliability-engineering",
+      "name": "Reliability Engineering",
+      "description": "A working reliability programme for a plant: a clean asset hierarchy, criticality and failure codes, bad actor reviews, Weibull and RCM done properly, condition monitoring follow-up and the KPIs that show it paying off.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "reliability-engineering",
+        "engineer",
+        "weibull",
+        "rcm",
+        "bad-actors",
+        "criticality",
+        "condition-monitoring"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/reliability-engineering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:71c23e3daad7354e59981eb16fe2d94a43963a673d4e8cc0dbb3d45a300cc52f"
+    },
+    {
+      "id": "engineering-practice.root-cause-analysis",
+      "name": "Root Cause Analysis",
+      "description": "Investigations that find the real reason equipment failed or an incident happened: trigger levels, evidence and timelines, five whys, fishbone and fault trees, honest causal statements and corrective actions checked for effect.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "root-cause-analysis",
+        "engineer",
+        "manager",
+        "incident-investigation",
+        "five-whys",
+        "fault-tree",
+        "corrective-actions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/root-cause-analysis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:85c271ff53a14ff862fbda7233b013491544d8a2d68edebe1446b3914808e441"
+    },
+    {
+      "id": "engineering-practice.scada-and-hmi-systems",
+      "name": "SCADA and HMI Systems",
+      "description": "The working kit of a SCADA and HMI engineer: an architecture and tag database you trust, screens operators can read at a glance, healthy telemetry links, a clean historian and a control network that is locked down.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "scada-and-hmi-systems",
+        "engineer",
+        "hmi-design",
+        "historian",
+        "telemetry",
+        "ot-security",
+        "isa-101"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/scada-and-hmi-systems.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5a3167474b8b91f39d476cc038f97af97ea28ab5d74c36276dac65b238b9cde8"
+    },
+    {
+      "id": "engineering-practice.structural-engineering-practice",
+      "name": "Structural Engineering Practice",
+      "description": "A written design basis and clear load paths, member and connection design you can defend, drawings checked against calculations, site inspections with hold points, and sign-off you are willing to put your name to.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "structural-engineering-practice",
+        "engineer",
+        "structural-design",
+        "reinforced-concrete",
+        "steelwork",
+        "site-inspection",
+        "temporary-works"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/structural-engineering-practice.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6c4c625859290ba0d65f9adb05472b03bc4c132431b01a663169a7b146b4d6d7"
+    },
+    {
+      "id": "engineering-practice.trinidad-upstream-oil-and-gas",
+      "name": "Trinidad Upstream Oil and Gas",
+      "description": "A working kit for upstream engineers in Trinidad and Tobago: licences and approvals, legacy wells, field routines, gas delivery, onshore and offshore decisions, campaigns and the specialist work of mature basins.",
+      "category": "business",
+      "tags": [
+        "engineering-practice",
+        "trinidad-upstream-oil-and-gas",
+        "engineer",
+        "trinidad-and-tobago",
+        "upstream",
+        "onshore-fields",
+        "gas-development",
+        "mature-assets"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/engineering-practice/trinidad-upstream-oil-and-gas.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Engineering Practice"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:23ac253c823987d8d2937b4adce32af1f11d2f7c63e681c4537b8d4d44a438dd"
+    },
+    {
       "id": "family-parenting.adoption-journey",
       "name": "Adoption Journey",
       "description": "A route through adoption from first enquiry and assessment to matching, introductions, placement and the adoption order, then life story work, birth family contact and long-term support.",
@@ -8464,6 +9863,1402 @@
       "contentHash": "sha256:e6f5fde8d5bd9ce6376691dd2764850156b095855256f0364be660ba9a1210eb"
     },
     {
+      "id": "founding-startups.accelerator-and-incubator-applications",
+      "name": "Accelerator and Incubator Applications",
+      "description": "A clear decision on whether to apply, a shortlist checked against alumni and deal terms, sharp written answers and rehearsed interviews, then a cohort, demo day and alumni network used to the full.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "accelerator-and-incubator-applications",
+        "founder",
+        "accelerator",
+        "incubator",
+        "applications",
+        "demo-day",
+        "cohort"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/accelerator-and-incubator-applications.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:3e8329773af4785a5f22b1aef62412df09a35dd55128df370ed7125c12f80206"
+    },
+    {
+      "id": "founding-startups.acquiring-a-small-business",
+      "name": "Acquiring a Small Business",
+      "description": "A written buy box, a deal team and financing map, a steady sourcing rhythm, honest diligence, a clean close and a first hundred days that keep staff, customers and the lender with you.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "acquiring-a-small-business",
+        "founder",
+        "small-business",
+        "search-fund",
+        "due-diligence",
+        "deal-structuring",
+        "succession"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/acquiring-a-small-business.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c2a7e7f7e1600b6884a58ed77908e4df20fbe4f094c59806d4e74bf2025daa4b"
+    },
+    {
+      "id": "founding-startups.ai-native-startup-building",
+      "name": "AI-Native Startup Building",
+      "description": "Decide where models genuinely earn their place, build a real evaluation set, keep inference costs inside the margin, ship model changes safely and turn your data and workflow into a position a model release cannot erase.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "ai-native-startup-building",
+        "founder",
+        "engineer",
+        "ai",
+        "llm",
+        "evaluation",
+        "inference-cost",
+        "defensibility"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/ai-native-startup-building.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:c030567e7023e1864ae56f30a4dd3eead7f7cebeeb6be87f166ad1ef45d0e04c"
+    },
+    {
+      "id": "founding-startups.b2b-saas-startup-building",
+      "name": "B2B SaaS Startup Building",
+      "description": "Build an early business software company on solid ground: account model, billing, onboarding, honest MRR reporting, account health, churn and renewals, and the security and admin features that teams expect.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "b2b-saas-startup-building",
+        "founder",
+        "saas",
+        "recurring-revenue",
+        "churn",
+        "customer-onboarding",
+        "subscription-billing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/b2b-saas-startup-building.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d5b883578245d5e9346eb6ea5f7337033854c7d165f3a59f8ffd68571deb202b"
+    },
+    {
+      "id": "founding-startups.bootstrapped-startup-growth",
+      "name": "Bootstrapped Startup Growth",
+      "description": "Grow on customer revenue alone: a written choice to bootstrap, a break-even line, profit set aside before spending, lean cost rules, no-budget channels and a reinvestment rhythm that keeps you independent.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "bootstrapped-startup-growth",
+        "founder",
+        "small-business",
+        "bootstrapping",
+        "profitability",
+        "reinvestment",
+        "lean-operations"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/bootstrapped-startup-growth.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:bf3a7b40e0b4847b2c2b6e8cd6b7404f4b448ad6af5f7c07ac2e47074a75b8e7"
+    },
+    {
+      "id": "founding-startups.choosing-the-startup-tech-stack",
+      "name": "Choosing the Startup Tech Stack",
+      "description": "Pick a language, framework, database, hosting and core services a small team can ship fast with, record why, keep the stack healthy month to month and know your exit routes before the company outgrows it.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "choosing-the-startup-tech-stack",
+        "founder",
+        "engineer",
+        "tech-stack",
+        "architecture",
+        "hosting",
+        "vendor-choice"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/choosing-the-startup-tech-stack.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ce5b6d2478b4636bb90767df6fcd8e4d85e98abe9b2fedc4194b6c61ac45370c"
+    },
+    {
+      "id": "founding-startups.cofounder-equity-split",
+      "name": "Co-Founder Equity Split",
+      "description": "A split every founder can defend: expectations written down, contributions weighed, a cap table, vesting and leaver terms signed early, and the reviews that keep the deal fair as roles change.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "cofounder-equity-split",
+        "founder",
+        "equity",
+        "vesting",
+        "cap-table",
+        "founders-agreement",
+        "dilution"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/cofounder-equity-split.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:747b979905fbe4d8650c38e063c71059104f3e4015dceae5f82680fa140dfae7"
+    },
+    {
+      "id": "founding-startups.cofounder-relationship-health",
+      "name": "Co-Founder Relationship Health",
+      "description": "Clear roles and decision rights, a written co-founder charter, weekly and monthly honest check-ins, and agreed ways to settle disagreements before they turn into the thing that sinks the company.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "cofounder-relationship-health",
+        "founder",
+        "cofounders",
+        "roles",
+        "check-ins",
+        "conflict",
+        "trust"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/cofounder-relationship-health.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ea682f60d4f45bb6911240abb269d1cfdf8d9c11f9feeb63fdcc3606412adbaa"
+    },
+    {
+      "id": "founding-startups.cofounder-separation",
+      "name": "Co-Founder Separation",
+      "description": "Read the agreements, work out vested shares, agree fair terms with proper counsel, hand over the role, tell the team, customers and investors well, and keep the company whole after a co-founder leaves.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "cofounder-separation",
+        "founder",
+        "founder-departure",
+        "leaver-terms",
+        "share-buyback",
+        "handover"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/cofounder-separation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:8aff12f2447431f0fe9ad925bb7baa4dc53394594fe7dc5d999fa93142adb7da"
+    },
+    {
+      "id": "founding-startups.consumer-app-startup-growth",
+      "name": "Consumer App Startup Growth",
+      "description": "A consumer app growth engine you can read: an activation moment and retention cohorts you trust, store listings that convert, lifecycle messaging, referral loops and paid acquisition that pays back.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "consumer-app-startup-growth",
+        "founder",
+        "consumer-app",
+        "retention",
+        "app-store-optimisation",
+        "virality",
+        "user-acquisition"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/consumer-app-startup-growth.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:824b4095840726d4b82f8bb4c34618bf54d44474331ff73d62b67ba60828c190"
+    },
+    {
+      "id": "founding-startups.deep-tech-university-spinout",
+      "name": "Deep Tech University Spinout",
+      "description": "From invention disclosure to a signed licence and a funded company: research IP mapped, the technology transfer office negotiated with, the founding team settled and the science turned into a first market.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "deep-tech-university-spinout",
+        "founder",
+        "researcher",
+        "technology-transfer",
+        "university-ip",
+        "licensing",
+        "patents"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/deep-tech-university-spinout.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:2b707c2dc81eb51496f650bf29a1590bc41c6bce24b0fd91809663f5ace20f62"
+    },
+    {
+      "id": "founding-startups.design-partner-programme",
+      "name": "Design Partner Programme",
+      "description": "A small cohort of early customers building the product with you: a clear partner profile, a fair agreement, a working cadence that keeps them engaged, honest triage of their requests and a planned route to paid contracts.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "design-partner-programme",
+        "founder",
+        "design-partners",
+        "early-customers",
+        "pilots",
+        "co-development",
+        "b2b"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/design-partner-programme.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7d84dc84ac6fd5a9277b0a7a69d639c135760c386c232ea4cd44e0eea717e15c"
+    },
+    {
+      "id": "founding-startups.early-stage-layoff-decisions",
+      "name": "Early-Stage Layoff Decisions",
+      "description": "Test whether cuts are truly needed, get employment counsel early, choose roles and terms you can defend, run notification day with care, then look after the people who leave and the team that stays.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "early-stage-layoff-decisions",
+        "founder",
+        "layoffs",
+        "redundancy",
+        "severance",
+        "restructuring",
+        "difficult-conversations"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/early-stage-layoff-decisions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ae3bc5fa55f89aa38acf9aa356515f09fed87f7a64eabcaa1795bc7b3c2d843b"
+    },
+    {
+      "id": "founding-startups.early-unit-economics-modelling",
+      "name": "Early Unit Economics Modelling",
+      "description": "A unit economics model a founder can defend: one agreed unit, honest CAC, contribution margin and payback, cohort-based lifetime value, monthly refreshes against actuals and the thresholds that decide when to scale spend.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "early-unit-economics-modelling",
+        "founder",
+        "unit-economics",
+        "cac",
+        "ltv",
+        "contribution-margin",
+        "payback"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/early-unit-economics-modelling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4ff6273e744e14fe8064055309e518dd473f23e77d8c1d79c242b69786c6471c"
+    },
+    {
+      "id": "founding-startups.finding-a-cofounder",
+      "name": "Finding a Co-Founder",
+      "description": "A clear role profile and dealbreakers, a steady sourcing rhythm, structured first conversations, a time-boxed trial project and a recorded decision to commit to a co-founder or walk away.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "finding-a-cofounder",
+        "founder",
+        "cofounder-search",
+        "founding-team",
+        "trial-project",
+        "recruiting",
+        "team-fit"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/finding-a-cofounder.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:606a1df411177b613713ffa4e83dcc0eaf3473edb952202e0784b87dfa403fd4"
+    },
+    {
+      "id": "founding-startups.first-hundred-customers",
+      "name": "First Hundred Customers",
+      "description": "A hands-on route from customer zero to customer one hundred: a named target list, the places your buyers already gather, a daily outreach habit, personal onboarding, honest channel tracking and the unscalable work that wins early trust.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "first-hundred-customers",
+        "founder",
+        "early-customers",
+        "customer-acquisition",
+        "outreach",
+        "communities",
+        "do-things-that-dont-scale"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/first-hundred-customers.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:48e41e50cf17b9cfd77bced5f91fa25e6a083840acf0917c039eb43c8d0e4072"
+    },
+    {
+      "id": "founding-startups.first-team-culture-setting",
+      "name": "First Team Culture Setting",
+      "description": "Values tested against real decisions, a written working agreement, weekly all-hands, monthly retros and pulse checks, and the founder habits that decide what a tiny startup team becomes.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "first-team-culture-setting",
+        "founder",
+        "team",
+        "values",
+        "norms",
+        "rituals",
+        "psychological-safety"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/first-team-culture-setting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:758e0b1cdb83b791b077c802a84a2d8b418c19f8f7bf5ec1a644109991f7cc5a"
+    },
+    {
+      "id": "founding-startups.first-ten-hires",
+      "name": "First Ten Hires",
+      "description": "A hiring plan tied to runway, scorecards and a written bar, a fair interview loop, offers and equity done properly, and onboarding that makes each of the first ten hires count.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "first-ten-hires",
+        "founder",
+        "hiring",
+        "recruiting",
+        "early-employees",
+        "equity",
+        "interviewing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/first-ten-hires.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:b796a653ba3f6c704856b3faeaa4a1bbed681f088144b787b74e9d667a0be9a3"
+    },
+    {
+      "id": "founding-startups.founder-and-family-life",
+      "name": "Founder and Family Life",
+      "description": "Agreements with your partner, a family calendar the company has to respect, childcare and money safety nets, then the weekly rituals and life-stage plans that keep a founder's family close.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "founder-and-family-life",
+        "founder",
+        "parent",
+        "partner",
+        "childcare",
+        "family-time",
+        "household"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/founder-and-family-life.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:9d8a9191cc2c0a2981c9a9449fbfaf4dec9d026157e141d310bc2575217e7b8f"
+    },
+    {
+      "id": "founding-startups.founder-building-in-public",
+      "name": "Founder Building in Public",
+      "description": "A clear reason to share, a written line between public and private, a weekly build log and monthly numbers post, and the judgement to handle praise, copycats and pile-ons.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "founder-building-in-public",
+        "founder",
+        "building-in-public",
+        "founder-content",
+        "audience-building",
+        "transparency",
+        "newsletter"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/founder-building-in-public.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:7e50147320db1f9e9f38778bc94c172d7c940ad31dfabdaf14bc8f7fedfa9576"
+    },
+    {
+      "id": "founding-startups.founder-burnout-prevention",
+      "name": "Founder Burnout Prevention",
+      "description": "A burnout baseline, written limits and a support map, then the weekly check-ins, days off, sleep and recovery routines that keep a founder well enough to lead for years.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "founder-burnout-prevention",
+        "founder",
+        "burnout",
+        "sleep",
+        "recovery",
+        "boundaries",
+        "mental-health"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/founder-burnout-prevention.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:067ce3d99c8a35c15262cb919c3b6781e9c231dc342d089c16d41a32903328d2"
+    },
+    {
+      "id": "founding-startups.founder-customer-discovery",
+      "name": "Founder Customer Discovery",
+      "description": "Recruit the right people, run unbiased discovery interviews, debrief and synthesise every week, and turn what customers actually do into decisions you can defend.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "founder-customer-discovery",
+        "founder",
+        "customer-interviews",
+        "user-research",
+        "problem-validation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/founder-customer-discovery.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:4d5578c0acad53fc07e3fd5b0d8469103630e0dcb80531ea7f9c5a689eab4daf"
+    },
+    {
+      "id": "founding-startups.founder-led-selling",
+      "name": "Founder-Led Selling",
+      "description": "Sell the product yourself with a clear buyer profile, a real pipeline, disciplined calls and follow-up, honest forecasts and a written playbook you can hand to your first salesperson.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "founder-led-selling",
+        "founder",
+        "sales-pipeline",
+        "discovery-calls",
+        "negotiation",
+        "first-sales-hire"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/founder-led-selling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:d0f5ecd2987a41706b02644aae33306b7cc7a8e000328e7298076fdc10f07303"
+    },
+    {
+      "id": "founding-startups.founder-peer-groups",
+      "name": "Founder Peer Groups",
+      "description": "Find or form a small, confidential circle of founders, run monthly meetings that work, share experience instead of advice, and keep the group honest, useful and alive for years.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "founder-peer-groups",
+        "founder",
+        "peer-groups",
+        "founder-forum",
+        "accountability",
+        "confidentiality",
+        "facilitation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/founder-peer-groups.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3807df49a3ba3fe1e1c0657cf07f73e14b8b8614c1090ee4ddf1027f486fd280"
+    },
+    {
+      "id": "founding-startups.founder-to-ceo-transition",
+      "name": "Founder to CEO Transition",
+      "description": "The shift from doing everything to leading a company: a map of the jobs you still hold, a CEO role written down, decision rights, a leadership team hired and run well, and the board work of the seat.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "founder-to-ceo-transition",
+        "founder",
+        "manager",
+        "ceo",
+        "delegation",
+        "leadership-team",
+        "board"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/founder-to-ceo-transition.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:867ecb9e60bbfd96ef9c7adb37f747c65febe09c5213dd7d36337c11618844fa"
+    },
+    {
+      "id": "founding-startups.founder-visa-and-relocation",
+      "name": "Founder Visa and Relocation",
+      "description": "A founder visa route chosen with a lawyer, an application file an assessor can say yes to, a move planned from documents to first lease, and the conditions, records and renewals that lead to settlement.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "founder-visa-and-relocation",
+        "founder",
+        "founder-visa",
+        "startup-visa",
+        "immigration",
+        "relocation",
+        "expat"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/founder-visa-and-relocation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:462277cb81ba3539d242e8f990c8ec9a31f1e2573536a2fc5c14a86c06407e8f"
+    },
+    {
+      "id": "founding-startups.founder-weekly-operating-rhythm",
+      "name": "Founder Weekly Operating Rhythm",
+      "description": "A founder's week built on purpose: a calendar audit, three priorities, protected thinking time, a Monday numbers read, team check-ins and a Friday review that keep the company off adrenaline.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "founder-weekly-operating-rhythm",
+        "founder",
+        "weekly-review",
+        "time-management",
+        "meetings",
+        "priorities",
+        "operating-cadence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/founder-weekly-operating-rhythm.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:156a09fdf9ea1bb3b4c2486c71d4a39011c9566c91a9359f25eecf137fe633c7"
+    },
+    {
+      "id": "founding-startups.founding-a-social-enterprise",
+      "name": "Founding a Social Enterprise",
+      "description": "A mission written into the company from day one: theory of change, the right legal structure and mission lock, impact measures, a funding mix of earned income, grants and social investment, and the routines that stop mission drift.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "founding-a-social-enterprise",
+        "founder",
+        "nonprofit",
+        "social-enterprise",
+        "impact-measurement",
+        "theory-of-change",
+        "social-investment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/founding-a-social-enterprise.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b82634920cab1a2e816fb15998bea186373f345b6923bf92197466eb0604a036"
+    },
+    {
+      "id": "founding-startups.hardware-startup-prototyping",
+      "name": "Hardware Startup Prototyping",
+      "description": "A costed bill of materials, staged prototype builds from EVT to PVT, suppliers and a factory you can trust, certification booked early and a first production run signed off against a written quality plan.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "hardware-startup-prototyping",
+        "founder",
+        "engineer",
+        "hardware",
+        "prototyping",
+        "manufacturing",
+        "certification"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/hardware-startup-prototyping.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:1c7f5498918080949cb9af1136c588554fc86222caef7f95d68c6a87300ec74d"
+    },
+    {
+      "id": "founding-startups.incorporating-a-startup",
+      "name": "Incorporating a Startup",
+      "description": "A company formed in the right place and shape: jurisdiction and entity chosen with a lawyer, founder shares and IP in the company, a bank account, clean registers and a compliance calendar that keeps it in good standing.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "incorporating-a-startup",
+        "founder",
+        "incorporation",
+        "company-formation",
+        "cap-table",
+        "founder-agreements",
+        "corporate-compliance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/incorporating-a-startup.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:1f198ff6ed15023de2751b17b7731058fa908b5c92eb93b3384c80493c1d1ab3"
+    },
+    {
+      "id": "founding-startups.landing-page-smoke-tests",
+      "name": "Landing Page Smoke Tests",
+      "description": "Demand tests you can trust before any product code: a written bet and pass mark, a tracked page with honest consent, paid and organic traffic, waitlists, deposits and pre-orders, and a go, iterate or kill call.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "landing-page-smoke-tests",
+        "founder",
+        "smoke-test",
+        "waitlist",
+        "pre-orders",
+        "demand-validation",
+        "conversion"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/landing-page-smoke-tests.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5d4f2b1361816ca91afd327529ade79ae1e81ee6ec93886ae84bea6500001bfc"
+    },
+    {
+      "id": "founding-startups.leaving-a-job-to-start-up",
+      "name": "Leaving a Job to Start Up",
+      "description": "A planned exit from salaried work: your personal runway number, contract and IP checks, vesting and benefits timing, a clean resignation and handover, and a steady plan for the first year as a full-time founder.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "leaving-a-job-to-start-up",
+        "founder",
+        "knowledge-worker",
+        "resignation",
+        "personal-runway",
+        "employment-contract",
+        "career-change"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/leaving-a-job-to-start-up.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:4342ef17a2512acb201add63ff7688ca8ef5cd1f0d8b8858bd8ca8083dc8957a"
+    },
+    {
+      "id": "founding-startups.mvp-scoping-and-build",
+      "name": "MVP Scoping and Build",
+      "description": "Name the one bet your first product tests, cut everything else, build it inside a fixed time box and put it in front of real users within weeks, with pass and fail lines set in advance.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "mvp-scoping-and-build",
+        "founder",
+        "engineer",
+        "mvp",
+        "scope",
+        "time-box",
+        "shipping"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/mvp-scoping-and-build.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f28bc7fdad1e9f90c28da8c0b5ac8e25df89b78b50b446d7c40a4162cac1b974"
+    },
+    {
+      "id": "founding-startups.pivot-or-persevere-decisions",
+      "name": "Pivot or Persevere Decisions",
+      "description": "A written core bet, persevere criteria and a decision date set in advance, then the reviews, time-boxed tests and honest team conversations that turn a gut feeling about direction into a recorded call.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "pivot-or-persevere-decisions",
+        "founder",
+        "pivot",
+        "strategy",
+        "decision-making",
+        "evidence",
+        "time-boxed-tests"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/pivot-or-persevere-decisions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:5517d376bef1acd31789fc9e43ddf83f647153acf0d78fe1ed9066306b76f920"
+    },
+    {
+      "id": "founding-startups.product-market-fit-search",
+      "name": "Product-Market Fit Search",
+      "description": "A written definition of fit, retention cohorts and a disappointment survey you trust, a weekly iteration loop on segment and positioning, and the evidence to say when a clear segment is pulling the product from you.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "product-market-fit-search",
+        "founder",
+        "product-market-fit",
+        "retention-cohorts",
+        "positioning",
+        "segmentation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/product-market-fit-search.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a002b2f8fd7ad94d525e6be7f97625ced960c1d8367eb33248d32a86fed4a544"
+    },
+    {
+      "id": "founding-startups.side-project-to-company",
+      "name": "Side Project to Company",
+      "description": "Turn the thing you build on evenings and weekends into a real company: clean ownership, honest traction numbers, written full-time criteria and a proper setup for growth.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "side-project-to-company",
+        "founder",
+        "engineer",
+        "knowledge-worker",
+        "side-project",
+        "indie-hacker",
+        "intellectual-property"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/side-project-to-company.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:abd9b6703a525e51fcbb992ebf3e84b7c11bb7dfae5aeff2968f10795c95f396"
+    },
+    {
+      "id": "founding-startups.solo-founder-operations",
+      "name": "Solo Founder Operations",
+      "description": "Run a company on your own without it running you: every hat mapped, the right work automated or outsourced, cover for when you are away, and real accountability and company.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "solo-founder-operations",
+        "founder",
+        "solo-founder",
+        "outsourcing",
+        "automation",
+        "accountability",
+        "business-continuity"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/solo-founder-operations.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:60bb8f3cce18a6760cd9eb5e3f82969e9a2ce7403810f494e4b5afcac86cfa21"
+    },
+    {
+      "id": "founding-startups.startup-advisor-board",
+      "name": "Startup Advisor Board",
+      "description": "A small advisory bench chosen for real gaps, signed on standard terms with vesting, kept useful with monthly updates and specific asks, and refreshed or wound down as the company changes.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "startup-advisor-board",
+        "founder",
+        "advisors",
+        "advisory-board",
+        "advisor-equity",
+        "mentorship",
+        "startup-governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/startup-advisor-board.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c297a104042a68951b8dca4f13bb034e5108cd4b8abe42dedfdec3e861184b36"
+    },
+    {
+      "id": "founding-startups.startup-business-plan-writing",
+      "name": "Startup Business Plan Writing",
+      "description": "A short business plan that tests the startup's logic: clear readers, a one-page canvas, evidenced sections from market to milestones, honest financials and risks, and a plan kept alive against actuals every month.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "startup-business-plan-writing",
+        "founder",
+        "business-plan",
+        "market-sizing",
+        "financial-projections",
+        "executive-summary",
+        "funding"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/startup-business-plan-writing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5fef0957ee1651dc491c807c58df4368926f803a2eced72eabb91bcff476d958"
+    },
+    {
+      "id": "founding-startups.startup-idea-validation",
+      "name": "Startup Idea Validation",
+      "description": "A written problem hypothesis, ranked assumptions and kill criteria, then the research, problem conversations and cheap experiments that tell you whether the idea deserves building.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "startup-idea-validation",
+        "founder",
+        "validation",
+        "problem-hypothesis",
+        "assumptions",
+        "experiments",
+        "evidence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/startup-idea-validation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f39bfea1c50d574e33cb8beabe85d51a085a5502331391d4ad6ddb1510c8740a"
+    },
+    {
+      "id": "founding-startups.startup-naming-and-domain",
+      "name": "Startup Naming and Domain",
+      "description": "A startup name chosen on purpose: a written brief and scorecard, a longlist screened for trademark, domain and handle conflicts, tested on real customers, then the domains, marks and accounts secured and kept safe.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "startup-naming-and-domain",
+        "founder",
+        "naming",
+        "trademark",
+        "domain-names",
+        "brand",
+        "social-handles"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/startup-naming-and-domain.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:407e627fd9f92bf048e9dce7149ad0930b7963303802b5e98328b4722e8a36e8"
+    },
+    {
+      "id": "founding-startups.startup-north-star-metrics",
+      "name": "Startup North Star Metrics",
+      "description": "Pick the one number that shows your startup is working, the few inputs that move it, exact definitions behind each, and a weekly dashboard the whole team reads and acts on.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "startup-north-star-metrics",
+        "founder",
+        "north-star-metric",
+        "kpi-dashboard",
+        "input-metrics",
+        "product-analytics",
+        "cohort-retention"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/startup-north-star-metrics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0d2ba25f712e64b3dbb17034acc476a25f7caf193d30d7122a1ba86f157f15b2"
+    },
+    {
+      "id": "founding-startups.startup-pricing-experiments",
+      "name": "Startup Pricing Experiments",
+      "description": "A first price you can defend and change: a cost floor, a value metric, willingness-to-pay research, tiers and discounts with rules, a running test log, and price increases handled without losing trust.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "startup-pricing-experiments",
+        "founder",
+        "pricing",
+        "packaging",
+        "willingness-to-pay",
+        "discounts",
+        "price-increase"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/startup-pricing-experiments.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:39014e43271c3dddb7b63dc68dc1a3d24968a46ec45dd4880ef47e45f8d59ee9"
+    },
+    {
+      "id": "founding-startups.startup-public-launch-day",
+      "name": "Startup Public Launch Day",
+      "description": "A launch you can grade: a written goal, readiness check, date, message and channels, then the countdown, launch-day events, follow-up and a retrospective that becomes your playbook.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "startup-public-launch-day",
+        "founder",
+        "product-launch",
+        "product-hunt",
+        "press",
+        "launch-day",
+        "community"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/startup-public-launch-day.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:ba6f41ca488252f8beb4106b3d463efc96e72080a55215588190bd553d5cdc95"
+    },
+    {
+      "id": "founding-startups.startup-runway-management",
+      "name": "Startup Runway Management",
+      "description": "Know your cash, burn and zero-cash date every week, with a 13-week forecast, red-line triggers, spending rules and a cut plan written long before the money gets tight.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "startup-runway-management",
+        "founder",
+        "runway",
+        "burn-rate",
+        "cash-flow-forecast",
+        "spending-rules",
+        "cost-cutting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/startup-runway-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6db4d286425cec31762ee550ffc7e3a9c9b75ec587391cbde0e6e26f43fc68da"
+    },
+    {
+      "id": "founding-startups.student-startup-founding",
+      "name": "Student Startup Founding",
+      "description": "Build a company while you finish your degree: an hours budget that protects your grades, the university's IP rules checked, campus resources and competitions used well, and a clear plan for graduation day.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "student-startup-founding",
+        "student",
+        "founder",
+        "university",
+        "campus",
+        "startup-competitions",
+        "graduation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/student-startup-founding.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:551131ce2266f64cbb531b319aae15c3cbf95463234d288c0632f80aeba64acf"
+    },
+    {
+      "id": "founding-startups.two-sided-marketplace-launch",
+      "name": "Two-Sided Marketplace Launch",
+      "description": "A marketplace launched one tight niche at a time: the atomic transaction defined, the hard side seeded first, liquidity measured weekly, trust and payments in place, and expansion only once the first market works.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "two-sided-marketplace-launch",
+        "founder",
+        "marketplace",
+        "chicken-and-egg",
+        "liquidity",
+        "trust-and-safety",
+        "network-effects"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/two-sided-marketplace-launch.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:bc25bfe7ea9d1226f238eeed7ab7eea31107a25e69f2e125d86a5d2ec37c6678"
+    },
+    {
+      "id": "founding-startups.venture-studio-company-building",
+      "name": "Venture Studio Company Building",
+      "description": "A venture studio run as a system: a written thesis and economics model, idea gates, shared services, founder recruitment, fair studio equity terms and clean spinouts, reviewed on a steady monthly and quarterly rhythm.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "venture-studio-company-building",
+        "founder",
+        "venture-studio",
+        "company-building",
+        "startup-studio",
+        "entrepreneur-in-residence",
+        "spinouts"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/venture-studio-company-building.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:789994fcc7469fed07a7dd9950d9cd3c9f6bc1206448936f737555cf0669cd5a"
+    },
+    {
+      "id": "founding-startups.winding-down-a-startup",
+      "name": "Winding Down a Startup",
+      "description": "Make the shutdown call on evidence, pick the right closure route with advisers, look after staff, customers and creditors, file the final paperwork and come out with your reputation and lessons intact.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "winding-down-a-startup",
+        "founder",
+        "shutdown",
+        "dissolution",
+        "insolvency",
+        "creditors",
+        "post-mortem"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/winding-down-a-startup.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:aa0a84a08a2d01ba53f135be799a1111aabb71d4aa35bfe52479ab4b4bc805e7"
+    },
+    {
+      "id": "founding-startups.working-with-a-founder-coach",
+      "name": "Working with a Founder Coach",
+      "description": "A coach chosen on purpose, a clear agreement and three goals you can see, session prep and practice between sessions, honest reviews of whether it is working, and a clean ending.",
+      "category": "business",
+      "tags": [
+        "founding-startups",
+        "working-with-a-founder-coach",
+        "founder",
+        "executive-coaching",
+        "leadership-development",
+        "coaching-goals",
+        "360-feedback",
+        "self-awareness"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/founding-startups/working-with-a-founder-coach.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Founding & Startups"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:82483d090cea3450ee2d2ebb5d442adca11d08e5a47b7e763f2fbb162ad5f9a5"
+    },
+    {
       "id": "mental-wellbeing.addiction-recovery-sobriety",
       "name": "Addiction Recovery & Sobriety",
       "description": "A safe way to stop, a recovery community and sponsor, a written relapse plan, the daily and weekly routines that keep you sober, and the milestones and repairs of a life in recovery.",
@@ -12620,6 +15415,145 @@
         "totalTasks": 203
       },
       "contentHash": "sha256:43c64d84e36e3f2ba8126737bda2fa48ebe5e6d57a54f4f9fcb7f6595e6ffdb5"
+    },
+    {
+      "id": "private-equity-vc.deal-screening-and-first-look",
+      "name": "Deal Screening and First Look",
+      "description": "Written screening criteria, a one-page first look, a red flag library, a weekly partner screen and a clear yes, no or wait on every teaser, so your time goes to the deals that can actually close.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "deal-screening-and-first-look",
+        "knowledge-worker",
+        "screening",
+        "teasers",
+        "cim",
+        "red-flags",
+        "first-look"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/deal-screening-and-first-look.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 190
+      },
+      "contentHash": "sha256:8ef17887967cb006612fe6b12bf337950340368d7161206e29c94eb72000edea"
+    },
+    {
+      "id": "private-equity-vc.investment-committee-memos",
+      "name": "Investment Committee Memos",
+      "description": "A working system for investment committee memos: your firm's standard, a clear thesis and ask, honest risks, returns and diligence sections, rehearsed hard questions and look-backs.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "investment-committee-memos",
+        "knowledge-worker",
+        "private-equity",
+        "investment-committee",
+        "deal-execution",
+        "memo-writing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/investment-committee-memos.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:be4ec74e9b8d307664ffb013def503093fcfe47096e4eff0ec0c547486340788"
+    },
+    {
+      "id": "private-equity-vc.investment-thesis-development",
+      "name": "Investment Thesis Development",
+      "description": "A written sector thesis before you chase deals: market maps, target lists, the hypotheses that must hold, expert calls, kill criteria and a yearly refresh that keeps conviction honest.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "investment-thesis-development",
+        "knowledge-worker",
+        "founder",
+        "sector-thesis",
+        "market-mapping",
+        "expert-calls",
+        "private-equity"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/investment-thesis-development.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:34239634c383c195489deb9058151582b7c90578a7241d463a4cf20894c2e291"
+    },
+    {
+      "id": "private-equity-vc.lbo-modelling",
+      "name": "LBO Modelling",
+      "description": "A route to building buyout models you trust: workspace and conventions, sources and uses, the operating case, debt schedules, returns and sensitivities, review routines, tests and the specialist structures seen on live deals.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "lbo-modelling",
+        "knowledge-worker",
+        "student",
+        "leveraged-buyout",
+        "financial-modelling",
+        "returns-analysis",
+        "debt-schedule"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/lbo-modelling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:643085605fca171821fc9c6d74c113ab985ae26dda947a582fc7ad67e94c4505"
+    },
+    {
+      "id": "private-equity-vc.pe-deal-sourcing",
+      "name": "PE Deal Sourcing",
+      "description": "A written buy box, a tiered map of intermediaries, steady owner outreach, conference plans and a channel scorecard, so buyout opportunities arrive from sources you can name and measure.",
+      "category": "business",
+      "tags": [
+        "private-equity-vc",
+        "pe-deal-sourcing",
+        "knowledge-worker",
+        "founder",
+        "origination",
+        "intermediaries",
+        "proprietary-outreach",
+        "buyouts"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/private-equity-vc/pe-deal-sourcing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Private Equity & Venture Capital"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:003ce4e6274c267260599d134c9cbfe4450b3674e2a8311aaa42ec9a0fe3beab"
     },
     {
       "id": "professions-trades.accountancy-qualification-path",
@@ -16861,6 +19795,63 @@
       "contentHash": "sha256:e1bf3382a0a27b3eeeb2455362525639567c4173c44ac7a6231341cf6aff08eb"
     },
     {
+      "id": "software-engineering.application-security-testing",
+      "name": "Application Security Testing",
+      "description": "Static analysis, dependency, secrets and dynamic scanning wired into your pipelines, with a triage policy, merge gates and review routines that keep findings actionable instead of ignored.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "application-security-testing",
+        "engineer",
+        "team",
+        "sast",
+        "dast",
+        "dependency-scanning",
+        "vulnerability-triage",
+        "devsecops"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/application-security-testing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c2ad945d9b202452f4d3b6a3807e64bb699bbcbd6c20e974c76c1dbd2d1a16a9"
+    },
+    {
+      "id": "software-engineering.architecture-review-board",
+      "name": "Architecture Review Board",
+      "description": "A chartered review board with clear thresholds, a fast intake and outcome process, a waiver register with expiry dates, and the rhythms that keep big technical decisions consistent without becoming a bottleneck.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "architecture-review-board",
+        "engineer",
+        "enterprise",
+        "architecture-governance",
+        "design-review",
+        "technical-decisions",
+        "waivers"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/architecture-review-board.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:daa414ef118231109c43465ef6eb85733a68776f5b49ba30d4a4cee924eaf029"
+    },
+    {
       "id": "software-engineering.automated-test-strategy",
       "name": "Automated Test Strategy",
       "description": "A written test strategy for your codebase: what to test at unit, integration and end-to-end level, fast feedback loops, coverage that means something, and the reviews that keep the suite trusted.",
@@ -16887,6 +19878,118 @@
         "totalTasks": 199
       },
       "contentHash": "sha256:d63300e8f25938410dd6e919ba5d094128528dfe013765658f0a3e4f143c1940"
+    },
+    {
+      "id": "software-engineering.backend-services-engineering",
+      "name": "Backend Services Engineering",
+      "description": "Server-side services built to be correct and easy to run: clear business rules, safe error handling and timeouts, background jobs and integrations that retry without harm, and the routines that keep them healthy.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "backend-services-engineering",
+        "engineer",
+        "backend",
+        "background-jobs",
+        "integrations",
+        "idempotency",
+        "business-logic"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/backend-services-engineering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:38cd7a28cca0f9504dace0a279b46f5888a8578a37d269c95a87b52a2578c680"
+    },
+    {
+      "id": "software-engineering.build-systems-monorepos",
+      "name": "Build Systems & Monorepos",
+      "description": "A measured build, a dependency graph you can read, a repository layout and build tool chosen on purpose, remote caching that hits, and the routines that keep a large codebase fast to build and easy to change.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "build-systems-monorepos",
+        "engineer",
+        "enterprise",
+        "monorepo",
+        "build-caching",
+        "dependency-graph",
+        "bazel"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/build-systems-monorepos.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:48c961739906550b96285b42f32f49d7fa8a84d1d0c643646eeaa8f73d196c9d"
+    },
+    {
+      "id": "software-engineering.chaos-engineering-resilience",
+      "name": "Chaos Engineering & Resilience",
+      "description": "Safe, hypothesis-driven failure experiments, from a first pod kill in staging to game days, failover drills and continuous chaos in production, with findings tracked until the fix is proven.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "chaos-engineering-resilience",
+        "engineer",
+        "enterprise",
+        "fault-injection",
+        "game-days",
+        "disaster-recovery",
+        "resilience-patterns"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/chaos-engineering-resilience.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:e643a756b7021e2dd2a2b066382e903f3c6b9235dcaf84abe533f845c745456a"
+    },
+    {
+      "id": "software-engineering.cloud-cost-optimisation-finops",
+      "name": "Cloud Cost Optimisation (FinOps)",
+      "description": "A cloud bill you can read and explain: billing data you can query, tags and owners on every pound spent, budgets and anomaly alerts, waste sweeps, right-sizing, commitment decisions and unit costs that teams own.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "cloud-cost-optimisation-finops",
+        "engineer",
+        "manager",
+        "founder",
+        "finops",
+        "cloud-billing",
+        "right-sizing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/cloud-cost-optimisation-finops.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:29b0238e458d009619a3736b9a6c4e437bfb3e45c684c3b49eac059a1283df02"
     },
     {
       "id": "software-engineering.cloud-infrastructure-provisioning",
@@ -17057,6 +20160,147 @@
       "contentHash": "sha256:913d6336620afa259cc8014550833bd4a9f915f2b6282fdecfdf230caa676577"
     },
     {
+      "id": "software-engineering.dependency-upgrades-patching",
+      "name": "Dependency Upgrades & Patching",
+      "description": "A dependency inventory, an upgrade policy, an update bot that does not drown you and the weekly, monthly and quarterly routines that keep libraries, frameworks and runtimes current and patched fast.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "dependency-upgrades-patching",
+        "engineer",
+        "team",
+        "dependencies",
+        "patching",
+        "vulnerabilities",
+        "upgrades"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/dependency-upgrades-patching.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ebad50dc73a9548c209bd0d2fab57400eb6f967535c1233a8ca620154e3213c7"
+    },
+    {
+      "id": "software-engineering.desktop-app-engineering",
+      "name": "Desktop App Engineering",
+      "description": "A framework decision, signing identities you control, notarised installers, auto-updates that roll out in stages, crash dumps you can read, and offline data that survives every upgrade on Windows, macOS and Linux.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "desktop-app-engineering",
+        "engineer",
+        "electron",
+        "tauri",
+        "code-signing",
+        "auto-update",
+        "installers",
+        "offline-first"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/desktop-app-engineering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ee8d4d2f63d4afe36eb772afe15affdca740a285795dc949003e3a384b637c78"
+    },
+    {
+      "id": "software-engineering.developer-experience-tooling",
+      "name": "Developer Experience Tooling",
+      "description": "A one-command local setup, pinned toolchains, a doctor script, fast feedback loops and the routines that keep engineers solving problems instead of fighting their machines.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "developer-experience-tooling",
+        "engineer",
+        "team",
+        "local-setup",
+        "dev-environment",
+        "scripts",
+        "feedback-loop"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/developer-experience-tooling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:cb4f1ab7c82b1159c1cf9c9535a898d3998ffd0b7e306b33e1d3256308501401"
+    },
+    {
+      "id": "software-engineering.distributed-systems-scaling",
+      "name": "Distributed Systems Scaling",
+      "description": "Known bottlenecks and ceilings, a growth forecast, caches, queues, replicas and shards that hold up under load, and consistency and failure handled on purpose as users and data multiply.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "distributed-systems-scaling",
+        "engineer",
+        "enterprise",
+        "caching",
+        "sharding",
+        "replication",
+        "consistency"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/distributed-systems-scaling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:8e3e19c8945ff283bad11dc3781be06db79d44fc879382da4f7a5545d91a2d69"
+    },
+    {
+      "id": "software-engineering.embedded-firmware-engineering",
+      "name": "Embedded & Firmware Engineering",
+      "description": "A chosen microcontroller and pinned toolchain, a bench you can debug on, bring-up and release checklists, field failure triage, power and memory budgets, and over-the-air updates with secure boot and rollback.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "embedded-firmware-engineering",
+        "engineer",
+        "microcontrollers",
+        "rtos",
+        "firmware-updates",
+        "low-power",
+        "hardware-bring-up"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/embedded-firmware-engineering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:363eb6ed13733000f3277a8749bbb6e8f1a3d0a3f99dbdaaa5a2f66c91664470"
+    },
+    {
       "id": "software-engineering.end-to-end-test-suites",
       "name": "End-to-End Test Suites",
       "description": "A browser and API test suite built around your real user flows, with stable selectors and seeded data, a weekly flake triage, quarantine rules and run-time budgets that keep the team trusting a red build.",
@@ -17083,6 +20327,174 @@
         "totalTasks": 197
       },
       "contentHash": "sha256:116b733f02f42119bd1711cbf8ff66c315937e5b661cd2e916ccfcb59596596a"
+    },
+    {
+      "id": "software-engineering.engineer-onboarding",
+      "name": "Engineer Onboarding",
+      "description": "A tested setup guide, an architecture tour, starter tasks, trained buddies and a first-month plan that get new engineers shipping real changes in days, with metrics and reviews that keep the programme improving.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "engineer-onboarding",
+        "engineer",
+        "manager",
+        "team",
+        "onboarding",
+        "buddy",
+        "setup-guide"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/engineer-onboarding.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3427cc5a15b6f64bcf8f5cbccce51f425d5aff11895a3da27b5bb4c1d405c426"
+    },
+    {
+      "id": "software-engineering.engineering-career-ladder",
+      "name": "Engineering Career Ladder",
+      "description": "A working engineering career ladder: clear levels and competencies, a technical track as strong as management, promotion cycles that are fair and calibrated, and engineers who know what the level above looks like.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "engineering-career-ladder",
+        "manager",
+        "enterprise",
+        "engineer",
+        "levelling",
+        "promotions",
+        "staff-engineer"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/engineering-career-ladder.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:726597af5c91bad6dec2f377476ff7bf77350465d18ee079ee3106d57f7ec255"
+    },
+    {
+      "id": "software-engineering.engineering-delivery-metrics-dora",
+      "name": "Engineering Delivery Metrics (DORA)",
+      "description": "Agreed definitions, traceable deploy and incident data, a trustworthy baseline for the four DORA metrics, review rhythms and the experiments that improve delivery without anyone gaming the numbers.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "engineering-delivery-metrics-dora",
+        "manager",
+        "engineer",
+        "enterprise",
+        "dora",
+        "lead-time",
+        "deployment-frequency"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/engineering-delivery-metrics-dora.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:47c60e82d222b125ad0025b7ac20adfeb1983a4356f47731aa8d63e28b133a01"
+    },
+    {
+      "id": "software-engineering.engineering-documentation-adrs",
+      "name": "Engineering Documentation & ADRs",
+      "description": "An ADR habit, design document and README standards, runbooks people can follow, and the review rhythms that keep engineering knowledge current after people move on or forget.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "engineering-documentation-adrs",
+        "engineer",
+        "team",
+        "architecture-decision-records",
+        "design-docs",
+        "runbooks",
+        "docs-as-code"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/engineering-documentation-adrs.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ac3324e15c2a8ea7a2cf4b7aca8ccf14a75aba4e2754a47ee4432de491c87a0d"
+    },
+    {
+      "id": "software-engineering.engineering-interview-loops",
+      "name": "Engineering Interview Loops",
+      "description": "Role scorecards, structured questions, anchored rubrics, fair take-homes and evidence-based debriefs, plus the routines that keep an engineering interview loop fast, consistent and kind to candidates.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "engineering-interview-loops",
+        "manager",
+        "engineer",
+        "team",
+        "hiring",
+        "interviewing",
+        "scoring-rubrics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/engineering-interview-loops.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:846b87bdb0949df4592cce3fd98ba0cac69552c32f4ba9a1352906242b28d362"
+    },
+    {
+      "id": "software-engineering.engineering-mentorship-pairing",
+      "name": "Engineering Mentorship & Pairing",
+      "description": "Mentoring that has goals and a rhythm, pairing and mob sessions that actually spread knowledge, and the habits that let senior and junior engineers learn from each other on purpose.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "engineering-mentorship-pairing",
+        "engineer",
+        "manager",
+        "mentoring",
+        "pair-programming",
+        "mob-programming",
+        "knowledge-sharing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/engineering-mentorship-pairing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:9fc478b6b4889a9384c8bd84148c292ed1c3083ae6b0e307b6154900d094b86a"
     },
     {
       "id": "software-engineering.engineering-on-call-rotation",
@@ -17113,6 +20525,90 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:00ce83091b94e0ec71f78687a2ec46c9dbae215213aae57ec9033d85046268ed"
+    },
+    {
+      "id": "software-engineering.engineering-team-management",
+      "name": "Engineering Team Management",
+      "description": "A working system for leading engineers: one-to-ones that matter, feedback given early, clear delegation, protected focus time, honest planning and delivery that stays on track.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "engineering-team-management",
+        "manager",
+        "engineer",
+        "one-to-ones",
+        "feedback",
+        "delegation",
+        "focus-time"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/engineering-team-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:e49925c06eafc45a478dd89c3bda84f9f3cc173e70fdc9349042ff6352a395fa"
+    },
+    {
+      "id": "software-engineering.frontend-web-engineering",
+      "name": "Frontend Web Engineering",
+      "description": "A frontend you can keep changing: a browser matrix and rendering choice, Core Web Vitals and accessibility baselines, error triage, bundle budgets, component upkeep and the skills behind fast, accessible interfaces.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "frontend-web-engineering",
+        "engineer",
+        "javascript",
+        "css",
+        "accessibility",
+        "web-performance",
+        "components"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/frontend-web-engineering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:96d2ce1802efb746da5776ce9fb44cb04d2d0435af09fcfcd7611d0ac54c68ad"
+    },
+    {
+      "id": "software-engineering.game-development-engineering",
+      "name": "Game Development Engineering",
+      "description": "An engine chosen on purpose, builds anyone can make, frame and memory budgets you check every week, playtests that change the game, and a launch and patch plan that survives first contact with players.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "game-development-engineering",
+        "engineer",
+        "creative",
+        "gameplay-programming",
+        "game-engines",
+        "indie-games",
+        "performance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/game-development-engineering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:7d02d65221a2167e5d0d4efdfffb57b3bc496e898627058b2edcb53ff5f5df88"
     },
     {
       "id": "software-engineering.incident-postmortems",
@@ -17171,6 +20667,90 @@
       "contentHash": "sha256:bb7c094fc6b9c72d53195b57e51d64fa880a406cc270f701a6556c18aeda8376"
     },
     {
+      "id": "software-engineering.internal-developer-platform",
+      "name": "Internal Developer Platform",
+      "description": "A platform run as a product: a service catalogue with owners, golden paths for new services, self-service environments and guardrails, and the adoption routines that let product teams ship without filing tickets.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "internal-developer-platform",
+        "engineer",
+        "enterprise",
+        "platform-engineering",
+        "golden-paths",
+        "developer-portal",
+        "self-service"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/internal-developer-platform.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:6729ae8ba479149468578a1cbd1367bb28c7b4fb14331527bf0c0c1efa1a11af"
+    },
+    {
+      "id": "software-engineering.internal-hackathons",
+      "name": "Internal Hackathons",
+      "description": "Agreed goals, rules, sandboxes and a judging rubric, plus the idea backlog, run sheets, demo days and graduation path that turn internal hackathon prototypes into shipped work.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "internal-hackathons",
+        "team",
+        "manager",
+        "engineer",
+        "hackathon",
+        "prototyping",
+        "demo-day"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/internal-hackathons.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:ca482a6d46af2f139bc0fb4aad493baccdde32a8a46fb7caf9f58acd395a0f02"
+    },
+    {
+      "id": "software-engineering.large-scale-refactoring",
+      "name": "Large-Scale Refactoring",
+      "description": "A one-page target design, a safety net of tests, thin shippable slices behind flags, and the weekly routines that move a big restructuring forward without freezing feature delivery.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "large-scale-refactoring",
+        "engineer",
+        "team",
+        "refactoring",
+        "codemods",
+        "feature-flags",
+        "incremental-change"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/large-scale-refactoring.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 186
+      },
+      "contentHash": "sha256:40c852f753d12a6a94d65eedc4158794edc3354eedbf9ff6defaf8dd41b55a6e"
+    },
+    {
       "id": "software-engineering.legacy-system-migration",
       "name": "Legacy System Migration",
       "description": "An honest inventory of what the old system really does, a chosen migration strategy, reconciled data, rehearsed cutovers, a safe parallel run and a switch-off date that actually arrives.",
@@ -17197,6 +20777,62 @@
         "totalTasks": 190
       },
       "contentHash": "sha256:8718db8f818fb08ed41a6414aa2d595429064585b942441198c84179602fe830"
+    },
+    {
+      "id": "software-engineering.llm-application-engineering",
+      "name": "LLM Application Engineering",
+      "description": "LLM features that hold up in production: a chosen model and spend caps, versioned prompts and schemas, a golden eval set, retrieval and tool calling done carefully, and the reviews that catch drift, cost creep and bad outputs.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "llm-application-engineering",
+        "engineer",
+        "founder",
+        "llm",
+        "prompt-engineering",
+        "evals",
+        "retrieval"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/llm-application-engineering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:5ad78cf9b5be9be8f1af9fb09169921d3e6c05acc61a1922875d1bbc702cbbc4"
+    },
+    {
+      "id": "software-engineering.load-capacity-testing",
+      "name": "Load & Capacity Testing",
+      "description": "Realistic workload models, a test environment you can trust, stress, soak and spike tests, capacity forecasts with headroom, and the rehearsals that get a system through launches and peaks.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "load-capacity-testing",
+        "engineer",
+        "team",
+        "load-testing",
+        "capacity-planning",
+        "stress-testing",
+        "autoscaling"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/load-capacity-testing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:1657a48ffaef86df739b1d65f892bcabad3f04e3c7e1d3b625832973cd7572ec"
     },
     {
       "id": "software-engineering.microservices-decomposition",
@@ -17227,6 +20863,35 @@
       "contentHash": "sha256:4a25b32a0e3f313bfac1ecb4b078cb5d1c4d2a5f4a4dd1f301765f14a8fab623"
     },
     {
+      "id": "software-engineering.mobile-app-engineering",
+      "name": "Mobile App Engineering",
+      "description": "A framework decision, signing keys and store accounts you actually own, crash triage and staged rollouts on a rhythm, offline data that syncs, and the yearly OS cycle handled before users notice.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "mobile-app-engineering",
+        "engineer",
+        "team",
+        "ios",
+        "android",
+        "app-store",
+        "crash-reporting",
+        "offline-first"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/mobile-app-engineering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9a253346d0e5d4ce8dc078712a7352074662c8e84fc761d4e8475dfebf74f03f"
+    },
+    {
       "id": "software-engineering.observability-monitoring",
       "name": "Observability & Monitoring",
       "description": "Logs, metrics and traces you can trust, alerts that page on real user pain, dashboards people actually open, and the routines that keep telemetry useful and affordable.",
@@ -17253,6 +20918,62 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:7dd1b7da8dac980d18382bf53656f501198725d0f877827cc994ad2f91683d94"
+    },
+    {
+      "id": "software-engineering.open-source-maintenance",
+      "name": "Open Source Maintenance",
+      "description": "A healthy repository with clear licence, docs and policies, weekly triage and review rhythms, predictable releases, safer supply chains and the boundaries that keep a maintainer going for years.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "open-source-maintenance",
+        "engineer",
+        "researcher",
+        "open-source",
+        "triage",
+        "releases",
+        "maintainer-burnout"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/open-source-maintenance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c396e8baa002087f1dca3e45803aa3f0e9f872e7d471696385363d68c4437969"
+    },
+    {
+      "id": "software-engineering.secure-coding-practices",
+      "name": "Secure Coding Practices",
+      "description": "Code that holds up against injection, broken access control and stolen sessions: a team standard, safe defaults for queries, output and secrets, and review habits that make security part of every change.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "secure-coding-practices",
+        "engineer",
+        "team",
+        "owasp",
+        "injection",
+        "access-control",
+        "threat-modelling"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/secure-coding-practices.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0e0c9cdae8be3f1bac4fc1d0b145d44994c61c9e1bd4a206d3ed5cde2fcafe1e"
     },
     {
       "id": "software-engineering.service-level-objectives",
@@ -17309,6 +21030,62 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:ce25c51d15457b5fea44e9fa4fc7a178f1f3e1bfb77869e57d587dd7c72bfb0a"
+    },
+    {
+      "id": "software-engineering.solo-developer-side-projects",
+      "name": "Solo Developer Side Projects",
+      "description": "A protected weekly build slot, ideas cut to a two-weekend scope, a deploy from day one, cheap hosting with a cost ceiling, and the routines that get personal software shipped, launched and either kept alive or retired well.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "solo-developer-side-projects",
+        "engineer",
+        "creative",
+        "side-projects",
+        "indie-hacking",
+        "shipping",
+        "mvp"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/solo-developer-side-projects.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:1007f57a163c2e930a69616c2f290e48dbe606186afdc7b7cf5c394b8bd9cbf5"
+    },
+    {
+      "id": "software-engineering.sprint-planning-estimation",
+      "name": "Sprint Planning & Estimation",
+      "description": "Tickets that are ready before planning, an estimation method the team trusts, sprint commitments sized to real capacity and forecasts given as ranges rather than promises.",
+      "category": "business",
+      "tags": [
+        "software-engineering",
+        "sprint-planning-estimation",
+        "engineer",
+        "team",
+        "agile",
+        "estimation",
+        "backlog-refinement",
+        "forecasting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/software-engineering/sprint-planning-estimation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Software Engineering"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5f1b04b2f7c2a2539226b36af773344fba598bde51f053f5355d1cb7b7f57285"
     },
     {
       "id": "software-engineering.system-architecture-design",
