@@ -440,6 +440,34 @@
       "contentHash": "sha256:0ae120e63d7665c2630653fd4cbbd3695a739facbcbb531f2e966a3acca21c92"
     },
     {
+      "id": "agriculture.drought-and-dry-season-planning",
+      "name": "Drought and Dry Season Planning",
+      "description": "A farm that gets through the dry months on purpose: a water budget, storage counted in days, trigger stages, irrigation priorities, drought-tolerant crops, fire breaks, feed reserves and a planting calendar for the long dry spell.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "drought-and-dry-season-planning",
+        "small-business",
+        "drought",
+        "dry-season",
+        "water-storage",
+        "fire-breaks",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/drought-and-dry-season-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:19cd75a913d04687cdc647ef59ba46e984b917895f113404a8489bbfa5707e21"
+    },
+    {
       "id": "agriculture.farm-budgets-and-enterprise-costing",
       "name": "Farm Budgets and Enterprise Costing",
       "description": "Know which crops and animals pay: costs coded by enterprise, your own labour valued, gross margins and break-even prices worked out, price floors set and a yearly farm budget checked against actuals every month.",
@@ -468,6 +496,34 @@
       "contentHash": "sha256:c8b5a9158376d65451d40b60604802d81e1ae6577120e501948cdba56b02db16"
     },
     {
+      "id": "agriculture.farm-drainage-and-flood-control",
+      "name": "Farm Drainage and Flood Control",
+      "description": "Fields that shed heavy rain instead of drowning: flood lines mapped, drains, culverts and raised beds that work, contour planting on slopes, routines after every storm, and animals and stored crops kept above the water.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "farm-drainage-and-flood-control",
+        "small-business",
+        "drainage",
+        "flooding",
+        "raised-beds",
+        "culverts",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/farm-drainage-and-flood-control.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:473cc3f4b1422ccaca4eb09a82c61b168cf30f79f0f9a0b894ffeb94d8b1a1e9"
+    },
+    {
       "id": "agriculture.farm-finance-and-loans",
       "name": "Farm Finance and Loans",
       "description": "Farm borrowing set up on purpose: debts mapped, a cash flow that follows the seasons, a lender-ready plan, loan and equipment finance offers compared properly, and repayments timed to harvest money.",
@@ -494,6 +550,34 @@
         "totalTasks": 201
       },
       "contentHash": "sha256:c38dbe5cc87eda4b01e0e284c52d52eb7add7dc65783c51162c8ecb220cc3a8c"
+    },
+    {
+      "id": "agriculture.farm-incentives-and-grants",
+      "name": "Farm Incentives and Grants",
+      "description": "Government farm incentives claimed in full and on time: registration kept current, eligible items checked before you buy, clean receipts and photos, inspections passed and rebates followed until the money lands.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "farm-incentives-and-grants",
+        "small-business",
+        "farm-incentives",
+        "agricultural-grants",
+        "rebates",
+        "farmer-registration",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/farm-incentives-and-grants.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4b7785e9f09fa3492b6c0a8c2b6a31747e2b1bc07cf9d455c34d9170889dba91"
     },
     {
       "id": "agriculture.farm-irrigation-systems",
@@ -606,6 +690,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:9e9b7b850215cf63012395f0e0f955c8cc6ce78a81eb4356aa9866245a8f29ab"
+    },
+    {
+      "id": "agriculture.farm-records-and-traceability",
+      "name": "Farm Records and Traceability",
+      "description": "A numbered farm map, planting, harvest, input, animal and sales logs, lot codes on every crate, and the weekly and monthly habits that let you trace any sale back to its field in minutes.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "farm-records-and-traceability",
+        "small-business",
+        "farm-records",
+        "traceability",
+        "lot-codes",
+        "harvest-logs",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/farm-records-and-traceability.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4ca1d720efc69e9c76ac6a44566a765d6bb4e63dd5469cf9ca6417ac5b8f8bc7"
     },
     {
       "id": "agriculture.farmers-markets-and-direct-sales",
@@ -773,6 +885,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:4980ea073d4c51701b9992fdb3200f867078c3e757d1fa5bb503f485ff591d0d"
+    },
+    {
+      "id": "agriculture.hurricane-resilience-on-the-farm",
+      "name": "Hurricane Resilience on the Farm",
+      "description": "A farm ready for June to November: a written storm plan, crops timed around the peak months, windbreaks and strapped roofs, animals sheltered or moved, seed, feed and fuel stored dry, and a recovery plan for the morning after.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "hurricane-resilience-on-the-farm",
+        "small-business",
+        "hurricane-season",
+        "windbreaks",
+        "storm-recovery",
+        "caribbean",
+        "disaster-preparedness"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/hurricane-resilience-on-the-farm.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:81c33bbdcc1d59432a4794c4de0c63e6ab697ffb42f9bf4e5c856e8b352422d9"
     },
     {
       "id": "agriculture.hydroponic-greens-production",
@@ -1055,6 +1195,34 @@
       "contentHash": "sha256:63c7695054aafc8337a373bd1bd9cbdfaab2133126568b026db55a96f87609c2"
     },
     {
+      "id": "agriculture.praedial-larceny-prevention",
+      "name": "Praedial Larceny Prevention",
+      "description": "A farm that is harder to rob: a loss log and risk register, fences, lights and cameras that work, animals and tools marked, receipts for every sale, a watch group with neighbours and police reports that lead somewhere.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "praedial-larceny-prevention",
+        "small-business",
+        "farm-security",
+        "crop-theft",
+        "livestock-theft",
+        "farm-watch",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/praedial-larceny-prevention.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:130301a96d8ffc1ef87fb8fb077bc7a38e5afc7cd1ef5774bbd4b2b362a4486e"
+    },
+    {
       "id": "agriculture.rice-farming-in-guyana-and-suriname",
       "name": "Rice Farming in Guyana and Suriname",
       "description": "Map your rice fields, plan the two crops a year around water and the combine, keep blast, paddy bug and red rice in check, and deliver dry, clean paddy to a miller on terms you understand.",
@@ -1251,6 +1419,34 @@
       "contentHash": "sha256:ce026ff325d04bfa3a1066574eab67e53b63343c0580d1b0fa3ca0b9fe02d497"
     },
     {
+      "id": "agriculture.using-government-extension-services",
+      "name": "Using Government Extension Services",
+      "description": "Getting real help from extension officers and agencies: the right office and officer, well prepared farm visits, advice followed through to results, training, plant clinics, planting material and research partnerships.",
+      "category": "business",
+      "tags": [
+        "agriculture",
+        "using-government-extension-services",
+        "small-business",
+        "extension-services",
+        "ministry-of-agriculture",
+        "cardi",
+        "iica",
+        "caribbean"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/agriculture/using-government-extension-services.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Agriculture & Agribusiness"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:cf64f7204a40f48af8ec6924aece690eafe21ead2146214b58fd0b0ac5c2cc5e"
+    },
+    {
       "id": "agriculture.wholesale-market-selling",
       "name": "Wholesale Market Selling",
       "description": "Selling through wholesale markets and middlemen with fewer surprises: the right market and crops, a priced market day, honest weights, buyers you can trust and money that actually comes home.",
@@ -1277,6 +1473,1405 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:1d728ba503d0aaf41f335aef861ac66ca7b332f1ec346e782cc48736f518e2d5"
+    },
+    {
+      "id": "career-growth.annual-career-direction-review",
+      "name": "Annual Career Direction Review",
+      "description": "A protected yearly review of how work is really going, scored against last year's intentions, ending in a written stay, grow, shift or leave decision and three changes checked every quarter.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "annual-career-direction-review",
+        "everyone",
+        "annual-review",
+        "reflection",
+        "career-direction",
+        "planning",
+        "decision-making"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/annual-career-direction-review.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9cc4315d76385796d6fbc7c01b83e6b3ea9aaa26c56e56201e9499ba0a82122e"
+    },
+    {
+      "id": "career-growth.becoming-first-time-manager",
+      "name": "Becoming a First-Time Manager",
+      "description": "The shift from doing the work to running a team: a new definition of success, one-to-ones and feedback that work, delegation, your first reviews and hire, and the support a new manager needs.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "becoming-first-time-manager",
+        "manager",
+        "knowledge-worker",
+        "people-management",
+        "one-to-ones",
+        "delegation",
+        "feedback"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/becoming-first-time-manager.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:537dc01dd1cb343ac346d44f032628b2d0addabdc0eabecf9afeba846f18b72b"
+    },
+    {
+      "id": "career-growth.brag-document-wins-log",
+      "name": "Brag Document & Wins Log",
+      "description": "A running record of your wins, feedback and impact, captured in minutes a week and kept safe, so self-reviews, promotion cases, CVs and interviews start from evidence instead of memory.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "brag-document-wins-log",
+        "knowledge-worker",
+        "engineer",
+        "brag-document",
+        "wins-log",
+        "evidence",
+        "feedback"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/brag-document-wins-log.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:b82402f30898296494ef491ae349f984655961daf891e540f163a638a0762681"
+    },
+    {
+      "id": "career-growth.breaking-into-tech",
+      "name": "Breaking Into Tech",
+      "description": "A tech track picked from real job ads, a study plan that fits your hours and money, a portfolio of deployed projects, and a disciplined route into a first junior role in software, data, cloud or support.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "breaking-into-tech",
+        "everyone",
+        "student",
+        "career-changer",
+        "self-taught",
+        "bootcamp",
+        "portfolio",
+        "junior-developer"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/breaking-into-tech.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:ad68aed5f88e77564e955fe102c5a01d8215da10b2fc1fe823347c02e3b2743b"
+    },
+    {
+      "id": "career-growth.career-change-transition",
+      "name": "Career Change Transition",
+      "description": "A field-switch plan you can actually live on: honest reasons, a funded runway, informational interviews, tested options, the right retraining route and a dated move into the new work.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "career-change-transition",
+        "everyone",
+        "knowledge-worker",
+        "career-change",
+        "retraining",
+        "informational-interviews",
+        "transferable-skills"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/career-change-transition.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:3708d68601acb645f39dc7feb213322b8c25e8c30bb72074673901f67759a7b2"
+    },
+    {
+      "id": "career-growth.career-sabbatical-planning",
+      "name": "Career Sabbatical Planning",
+      "description": "A sabbatical with a clear purpose, a signed agreement and a funded budget, a clean handover, rhythms that hold while you are away, and a return story that makes the break count.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "career-sabbatical-planning",
+        "knowledge-worker",
+        "everyone",
+        "sabbatical",
+        "unpaid-leave",
+        "career-break",
+        "return-to-work"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/career-sabbatical-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c08a79ff312a195ac19df755e203a55a4c8d51ffb83638a8b4140d72d503c475"
+    },
+    {
+      "id": "career-growth.career-skills-gap-plan",
+      "name": "Career Skills Gap Plan",
+      "description": "A named target role, an honest map of what it demands against what you can show today, the three gaps worth closing first and a weekly practice system that proves they are closed.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "career-skills-gap-plan",
+        "everyone",
+        "skills-gap",
+        "skills-matrix",
+        "learning-plan",
+        "deliberate-practice",
+        "upskilling"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/career-skills-gap-plan.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c88e7316482d35eee584d07e65d5b127085c5484b1cdeee77c5f98f55da70518"
+    },
+    {
+      "id": "career-growth.career-sponsors-advocates",
+      "name": "Career Sponsors & Advocates",
+      "description": "Senior sponsors who put your name forward when you are not in the room: a map of where careers are decided, a shortlist, clear asks, a steady update rhythm and the habit of sponsoring others.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "career-sponsors-advocates",
+        "knowledge-worker",
+        "manager",
+        "sponsorship",
+        "talent-review",
+        "stretch-roles",
+        "advocacy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/career-sponsors-advocates.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:11b2c49018c40a991b427bd86773b1e700edcca97db437c417b228dd58decd59"
+    },
+    {
+      "id": "career-growth.career-values-purpose-clarity",
+      "name": "Career Values & Purpose Clarity",
+      "description": "A ranked set of work values in your own words, a purpose statement you keep revising, a filter for every opportunity, and the routines that keep your choices about roles and employers true to what matters.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "career-values-purpose-clarity",
+        "everyone",
+        "student",
+        "values",
+        "purpose",
+        "motivation",
+        "career-decisions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/career-values-purpose-clarity.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:4e2b5bb59a4ce977214fc40c957c1e87f5a8cda85b64159ba6b93b98361b2def"
+    },
+    {
+      "id": "career-growth.conference-speaking-for-career",
+      "name": "Conference Speaking for Career",
+      "description": "From a first lightning talk to a signature conference session: topics drawn from your own work, a CFP calendar, abstracts that get accepted, rehearsed delivery and talks that turn into career evidence.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "conference-speaking-for-career",
+        "knowledge-worker",
+        "engineer",
+        "public-speaking",
+        "cfp",
+        "conference-talks",
+        "meetups"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/conference-speaking-for-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:0f636f1e91f9c514102b5e11dbd6984dc4f7db9067b4cfe871a47215bfa3c21f"
+    },
+    {
+      "id": "career-growth.cv-resume-rewrite",
+      "name": "CV & Resume Rewrite",
+      "description": "A CV rebuilt around measurable achievements and a clear target role, with a master inventory, tailored versions, parse-tested files and a routine that keeps it current.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "cv-resume-rewrite",
+        "everyone",
+        "student",
+        "cv",
+        "resume",
+        "ats",
+        "job-search"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/cv-resume-rewrite.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:986b4410afb62c90d9815360bec479658bc8b291f109525d56d104e64569285a"
+    },
+    {
+      "id": "career-growth.early-career-foundations",
+      "name": "Early-Career Foundations",
+      "description": "The habits, relationships and reputation that make the first five years of work count: a working system, clear communication, feedback that lands, and the early decisions that shape what comes next.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "early-career-foundations",
+        "student",
+        "everyone",
+        "first-job",
+        "work-habits",
+        "graduates",
+        "apprentices"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/early-career-foundations.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:8e9014251848ba56d2c08d9b67a46fd97704ecdbbd05c56e1769ea1006cbda29"
+    },
+    {
+      "id": "career-growth.executive-job-hunt-headhunters",
+      "name": "Executive Job Hunt & Headhunters",
+      "description": "A confidential, well-run search for a senior or executive role: retained search partners, board and investor networks, direct approaches, and the long rounds of interviews, assessments, referencing and contract terms that follow.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "executive-job-hunt-headhunters",
+        "manager",
+        "enterprise",
+        "executive-search",
+        "retained-search",
+        "c-suite",
+        "board-network"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/executive-job-hunt-headhunters.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 209
+      },
+      "contentHash": "sha256:9c178fa18df9498092b308329eb920b8796e01a8e48c9039c45f66b65c19a3af"
+    },
+    {
+      "id": "career-growth.finding-a-career-mentor",
+      "name": "Finding a Career Mentor",
+      "description": "Clear goals for what you want from a mentor, a shortlist and a first approach that gets a yes, well-run sessions, advice turned into action, and relationships that last beyond the first few meetings.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "finding-a-career-mentor",
+        "everyone",
+        "student",
+        "mentoring",
+        "mentee",
+        "career-advice",
+        "personal-board"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/finding-a-career-mentor.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:7bb827ffc980e1a3bdedc71197c494b01c6e7801c3e09d5059eae439bfeec817"
+    },
+    {
+      "id": "career-growth.first-90-days-new-role",
+      "name": "First 90 Days in New Role",
+      "description": "A written 30-60-90 day plan, expectations agreed with your new manager, a stakeholder map, an early win chosen with care and checkpoint reviews that carry you through probation into a confident second quarter.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "first-90-days-new-role",
+        "everyone",
+        "manager",
+        "onboarding",
+        "new-job",
+        "30-60-90-plan",
+        "early-wins"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/first-90-days-new-role.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:825caf62e16dd7dd688fa3c71658832c26c6b17162a4d3c7244e2299a8688c5c"
+    },
+    {
+      "id": "career-growth.flexible-working-requests",
+      "name": "Flexible Working Requests",
+      "description": "A flexible working request that gets a yes: your rights and policy checked, the pattern costed, a written case and trial proposal, then the routines that make part-time, compressed or school-hours work last.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "flexible-working-requests",
+        "parent",
+        "carer",
+        "knowledge-worker",
+        "part-time",
+        "compressed-hours",
+        "job-share"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/flexible-working-requests.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:7ad35c8c955773fa64abd840a0b3c46cad4a279325a0f7e0e3aa0aa66f3953fa"
+    },
+    {
+      "id": "career-growth.graduate-job-hunt",
+      "name": "Graduate Job Hunt",
+      "description": "A final-year plan for landing a first graduate role: target sectors, scheme opening dates, online tests, video interviews, assessment centres, early-career networking and a conditional offer turned into a start date.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "graduate-job-hunt",
+        "student",
+        "graduate-schemes",
+        "assessment-centres",
+        "online-tests",
+        "early-careers",
+        "final-year"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/graduate-job-hunt.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:77c4eaa7582b03332fd761c879ea63af1c6825037d596b7b308dab93f55adad2"
+    },
+    {
+      "id": "career-growth.individual-contributor-career-path",
+      "name": "Individual Contributor Career Path",
+      "description": "A deliberate route from senior to staff and principal without managing people: the right archetype, scope that matters, technical strategy and writing, influence across teams and a plan you review.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "individual-contributor-career-path",
+        "engineer",
+        "knowledge-worker",
+        "staff-engineer",
+        "principal",
+        "technical-leadership",
+        "ic-track"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/individual-contributor-career-path.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7cfb17c802d7fe9cfb80cd5829407fc01997f495df083f705e604fc7d70c032c"
+    },
+    {
+      "id": "career-growth.industry-networking-events",
+      "name": "Industry Networking Events",
+      "description": "A shortlist of events worth the ticket, a sharp introduction, conversation skills that work with strangers, and a follow-up routine that turns badges and business cards into lasting professional relationships.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "industry-networking-events",
+        "knowledge-worker",
+        "everyone",
+        "conferences",
+        "meetups",
+        "follow-up",
+        "trade-shows"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/industry-networking-events.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:1de16bff28d81f187bf7f043faa5be085cf20a9a5e856b73c6e14810a70ea0a3"
+    },
+    {
+      "id": "career-growth.internal-transfer-role-change",
+      "name": "Internal Transfer & Role Change",
+      "description": "A clear reason to move, the mobility policy understood, a shortlist of target teams, internal conversations and interviews handled well, a release date both managers accept and a handover that leaves your reputation intact.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "internal-transfer-role-change",
+        "knowledge-worker",
+        "engineer",
+        "internal-mobility",
+        "lateral-move",
+        "team-change",
+        "handover"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/internal-transfer-role-change.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:e02edc841892d0fed0a137263fd0fbd2abb58d3e71adf9f4470c5918ccd2739d"
+    },
+    {
+      "id": "career-growth.international-job-relocation",
+      "name": "International Job Relocation",
+      "description": "A reasoned choice of country, a visa route mapped and evidenced, a relocation package worth signing, a move planned week by week and a first year abroad that builds a career rather than just a new address.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "international-job-relocation",
+        "knowledge-worker",
+        "everyone",
+        "relocation",
+        "visas",
+        "expat",
+        "working-abroad"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/international-job-relocation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:c13260c813b07b4c232f0e09ea06b2ff49531e48d655bb5f481bbe00e1d3461c"
+    },
+    {
+      "id": "career-growth.internship-applications",
+      "name": "Internship Applications",
+      "description": "A target list, an application calendar and a weekly routine for finding internships and placements, with the tests, interviews and on-the-job habits that turn a summer role into a graduate offer.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "internship-applications",
+        "student",
+        "internships",
+        "placements",
+        "work-experience",
+        "return-offers",
+        "applications"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/internship-applications.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:2d07cbdb4b881f147343ab9a3129db5be64db37ec2fb506a66c33946cc1dc083"
+    },
+    {
+      "id": "career-growth.job-application-tracker",
+      "name": "Job Application Tracker",
+      "description": "One tracker for every application, contact, interview stage and follow-up, with weekly reviews, funnel numbers and a clean close, so an active job search stays organised and nothing slips.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "job-application-tracker",
+        "everyone",
+        "student",
+        "job-search",
+        "application-pipeline",
+        "follow-ups",
+        "job-search-metrics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/job-application-tracker.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:e34b66f66280c9c551a347277c64cac3e50ea4843233216f2d812c6b2b404533"
+    },
+    {
+      "id": "career-growth.job-crafting-current-role",
+      "name": "Job Crafting Your Current Role",
+      "description": "A job reshaped from the inside: an honest audit of where your time and energy go, small experiments that shift tasks, relationships and meaning toward your strengths, and the conversations that make the changes stick.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "job-crafting-current-role",
+        "knowledge-worker",
+        "everyone",
+        "job-crafting",
+        "strengths",
+        "energy-audit",
+        "role-design"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/job-crafting-current-role.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4175a990a4b26debe06ac8b810240127dff187b43f81ae2131ddfd9e264f8d91"
+    },
+    {
+      "id": "career-growth.job-interview-preparation",
+      "name": "Job Interview Preparation",
+      "description": "Company research, a bank of tested stories, mock interviews and debriefs, technical and case practice, and a plan for every round from the recruiter screen to the final on-site.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "job-interview-preparation",
+        "everyone",
+        "student",
+        "engineer",
+        "behavioural-interviews",
+        "coding-interviews",
+        "mock-interviews"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/job-interview-preparation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:8b184bbb915c93a91d79e0ead24d2ad06ba21748a9480e52e71c457da8a17d02"
+    },
+    {
+      "id": "career-growth.job-offer-comparison",
+      "name": "Job Offer Comparison",
+      "description": "Weighted criteria, one comparison sheet and real evidence on pay, equity, growth, culture, commute and stability, so you choose between job offers, or staying put, on purpose.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "job-offer-comparison",
+        "everyone",
+        "job-offers",
+        "decision-making",
+        "total-compensation",
+        "employer-research",
+        "equity"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/job-offer-comparison.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:ec16fb6683bd34b97f9518868337ef7250bb5e971bd0a79afeec4830d1aaed87"
+    },
+    {
+      "id": "career-growth.late-career-pivot-50-plus",
+      "name": "Late-Career Pivot (50+)",
+      "description": "A late-career pivot planned with the numbers in view: pension and income position, a route chosen between employed, part-time, consulting and encore work, an age-aware search and a deliberate handover of what you know.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "late-career-pivot-50-plus",
+        "everyone",
+        "retiree",
+        "encore-career",
+        "phased-retirement",
+        "consulting",
+        "age-bias"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/late-career-pivot-50-plus.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:c929d0ac8cd43e1c17b70646264dab12be7180ad6247cdfa8e9b38b8378cff00"
+    },
+    {
+      "id": "career-growth.linkedin-profile-presence",
+      "name": "LinkedIn Profile & Presence",
+      "description": "A LinkedIn profile rewritten for the people you want to reach, a posting and commenting habit you can keep, and the settings, analytics and announcements that bring recruiters and opportunities to you.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "linkedin-profile-presence",
+        "knowledge-worker",
+        "everyone",
+        "linkedin",
+        "personal-brand",
+        "social-media",
+        "content-writing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/linkedin-profile-presence.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:650554a0105ba1abcd51fae164c14b95a5937a5c6d7b9d3833801ef931f53096"
+    },
+    {
+      "id": "career-growth.managing-up-difficult-bosses",
+      "name": "Managing Up & Difficult Bosses",
+      "description": "A working relationship with your manager that you steer: their goals and style understood, priorities agreed in writing, a weekly rhythm, tactics for each kind of difficult boss, and a clear stay or leave call.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "managing-up-difficult-bosses",
+        "knowledge-worker",
+        "everyone",
+        "managing-up",
+        "difficult-boss",
+        "one-to-ones",
+        "workplace-relationships"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/managing-up-difficult-bosses.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:a8d4ebdaff3d02bee2c17c734ab2ffc69b1d9ba8b1b2da50e5efeda9d1d700dd"
+    },
+    {
+      "id": "career-growth.military-to-civilian-career",
+      "name": "Military to Civilian Career",
+      "description": "A planned exit from service: records, money, housing and healthcare secured, military experience translated into civilian language, target roles chosen and a steady search into a new workplace culture.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "military-to-civilian-career",
+        "everyone",
+        "veterans",
+        "service-leavers",
+        "resettlement",
+        "military-spouse",
+        "skills-translation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/military-to-civilian-career.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:6ef1d75a3b9d0e7340b31b6fd6f414ab622619ec7dd20402d779e47e5afd4434"
+    },
+    {
+      "id": "career-growth.navigating-office-politics",
+      "name": "Navigating Office Politics",
+      "description": "A clear read of where power and decisions really sit at work, the relationships and habits that let you influence outcomes, and written lines you will not cross while doing it.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "navigating-office-politics",
+        "knowledge-worker",
+        "manager",
+        "influence",
+        "stakeholders",
+        "power-mapping",
+        "integrity"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/navigating-office-politics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1e268b0511544bf698b41801547794f72420f324af9d7fa7f8da81251da8c353"
+    },
+    {
+      "id": "career-growth.navigating-redundancy-layoffs",
+      "name": "Navigating Redundancy & Layoffs",
+      "description": "A calm first week after the notice, a paper trail and cash runway, informed consultation and severance talks, and a planned route from your last day to the next role.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "navigating-redundancy-layoffs",
+        "knowledge-worker",
+        "everyone",
+        "severance",
+        "consultation",
+        "job-loss",
+        "unemployment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/navigating-redundancy-layoffs.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:85a5d314ef12b3abe766ee6169e3fb34a54d638ba57b6afbe44ea25a17e0b689"
+    },
+    {
+      "id": "career-growth.non-executive-board-roles",
+      "name": "Non-Executive Board Roles",
+      "description": "A clear reason for wanting a board seat, a board CV and pipeline that land a first trustee or non-executive role, and the routines, duties and committee skills that make you a director worth reappointing.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "non-executive-board-roles",
+        "manager",
+        "retiree",
+        "trustee",
+        "non-executive-director",
+        "governance",
+        "boardroom"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/non-executive-board-roles.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:4fe9905c3b3700ec65cbd17389a19fc810288419ecd18d78a0c1c71902365fef"
+    },
+    {
+      "id": "career-growth.performance-review-preparation",
+      "name": "Performance Review Preparation",
+      "description": "A review cycle you walk into prepared: the process mapped, evidence gathered, a self-assessment that leads with results, no surprises on rating, and goals for next year you actually agreed.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "performance-review-preparation",
+        "knowledge-worker",
+        "engineer",
+        "self-assessment",
+        "performance-review",
+        "goals",
+        "feedback"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/performance-review-preparation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:3f0b32b09cce9ee5a863fd25339b9e0caf71b86437bbc6a71ad960f3f095727b"
+    },
+    {
+      "id": "career-growth.portfolio-career-design",
+      "name": "Portfolio Career Design",
+      "description": "A deliberate mix of part-time roles, clients and projects: an income floor, a weekly shape, invoicing and tax routines, pricing, and regular rebalancing so no strand quietly swallows the rest.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "portfolio-career-design",
+        "freelancer",
+        "creative",
+        "knowledge-worker",
+        "portfolio-career",
+        "fractional-work",
+        "self-employment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/portfolio-career-design.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:ba574786d2b93720adb470cbcc7299d3d0f0c7feff705766d09aae47e55937b9"
+    },
+    {
+      "id": "career-growth.professional-case-study-collection",
+      "name": "Professional Case Study Collection",
+      "description": "A shelf of finished case studies about your best work, each with a clear problem, your approach, verified results and permission to share, ready for interviews, promotion panels and client pitches.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "professional-case-study-collection",
+        "knowledge-worker",
+        "creative",
+        "engineer",
+        "case-studies",
+        "portfolio",
+        "evidence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/professional-case-study-collection.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:7937eae1ae662af783e2aa6528d97fac819e3a2914ccf6fb54a425e64c674b93"
+    },
+    {
+      "id": "career-growth.professional-references-management",
+      "name": "Professional References Management",
+      "description": "A bench of willing, well-briefed referees: who to ask and how, contact details that still work, a briefing before every check, and relationships kept warm between job moves.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "professional-references-management",
+        "everyone",
+        "references",
+        "referees",
+        "reference-checks",
+        "background-screening"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/professional-references-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:19bec67766f385116b3138d3cb6a04d619b3335df2879e37966206686163d804"
+    },
+    {
+      "id": "career-growth.professional-reputation-building",
+      "name": "Professional Reputation Building",
+      "description": "A clear specialism, an honest baseline of how you are seen, and the writing, visible work and reliable delivery that make the right people in your industry know your name for one specific thing.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "professional-reputation-building",
+        "knowledge-worker",
+        "creative",
+        "personal-brand",
+        "thought-leadership",
+        "writing",
+        "visibility"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/professional-reputation-building.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:478fdbd6d1b0cbe5d14cbe2b41b2236532a8342b98145f3315040ab62dbc825a"
+    },
+    {
+      "id": "career-growth.promotion-case-building",
+      "name": "Promotion Case Building",
+      "description": "A promotion case built on the written next-level criteria, evidence mapped to each one, a manager and sponsors ready to argue it, and a plan for the cycle, the panel and the answer.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "promotion-case-building",
+        "knowledge-worker",
+        "engineer",
+        "manager",
+        "career-ladder",
+        "calibration",
+        "impact-evidence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/promotion-case-building.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:aaa68ada3686609e95665c9bfb9ecdf3adbe581677474b092bc96f11fd1e021e"
+    },
+    {
+      "id": "career-growth.recruiter-relationships",
+      "name": "Recruiter Relationships",
+      "description": "A short list of specialist recruiters who know your brief, a register of every submission, a steady check-in rhythm and honest market feedback, so relevant roles find you before they are advertised.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "recruiter-relationships",
+        "knowledge-worker",
+        "engineer",
+        "recruiters",
+        "recruitment-agencies",
+        "talent-acquisition",
+        "market-feedback"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/recruiter-relationships.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:b42317bb018fb344933eeb09e623e5c3fcee04273b7d866b8e96f4d3567330f4"
+    },
+    {
+      "id": "career-growth.remote-work-career-strategy",
+      "name": "Remote Work Career Strategy",
+      "description": "A remote career run on purpose: the right remote roles found and vetted, a home set-up that holds up, written visibility your manager can see, relationships kept warm across time zones and a plan for staying promotable.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "remote-work-career-strategy",
+        "knowledge-worker",
+        "engineer",
+        "distributed-teams",
+        "async-communication",
+        "remote-jobs",
+        "time-zones"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/remote-work-career-strategy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:bf40efd894a7e9964adb6041d2c7ff6c251ed21b4d7e8b5e6acbaad608583af7"
+    },
+    {
+      "id": "career-growth.resignation-counteroffers",
+      "name": "Resignation & Counteroffers",
+      "description": "Leaving a job well: contract terms and money checked before you resign, a calm resignation, a counteroffer decided on your own terms, a handover people thank you for and a clean exit.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "resignation-counteroffers",
+        "everyone",
+        "resignation",
+        "counteroffer",
+        "notice-period",
+        "handover",
+        "exit-interview"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/resignation-counteroffers.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:1cca8e9a8b13ad2c2756bf2b6a6296db7494aab4f6a81ff120039cfe88856d86"
+    },
+    {
+      "id": "career-growth.returning-after-career-break",
+      "name": "Returning After a Career Break",
+      "description": "A realistic plan for going back to work after caring, illness or travel: money and care cover sorted, skills refreshed, the gap explained with confidence and the first months back supported.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "returning-after-career-break",
+        "parent",
+        "carer",
+        "everyone",
+        "career-break",
+        "returnship",
+        "return-to-work"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/returning-after-career-break.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 209
+      },
+      "contentHash": "sha256:097edb1237b7fd11cb86a1dc545789e76ab65910d8e3cf28cec55a8a51646369"
+    },
+    {
+      "id": "career-growth.salary-negotiation",
+      "name": "Salary Negotiation",
+      "description": "Market pay research, a clear target and walk-away figure, and practised scripts for negotiating salary, bonus, equity and benefits on new offers and at annual pay reviews.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "salary-negotiation",
+        "knowledge-worker",
+        "everyone",
+        "pay-review",
+        "job-offers",
+        "compensation",
+        "benefits"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/salary-negotiation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:83f1750a29891fbe82ac7c2e8989762d1a1e466ac7a70660516a5b3e9accee69"
+    },
+    {
+      "id": "career-growth.side-projects-career-leverage",
+      "name": "Side Projects for Career Leverage",
+      "description": "Side projects chosen for the door they should open, cleared with your contract, scoped to the hours you really have, shipped in public and turned into evidence that changes interviews and promotions.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "side-projects-career-leverage",
+        "engineer",
+        "creative",
+        "knowledge-worker",
+        "side-projects",
+        "open-source",
+        "shipping"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/side-projects-career-leverage.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:90ea2b13398ef2baaccd621f953489005ab02ad2419125996923527608c298d0"
+    },
+    {
+      "id": "career-growth.toxic-workplace-exit-plan",
+      "name": "Toxic Workplace Exit Plan",
+      "description": "A clear-eyed decision to leave, a private record and cash runway, health protected while you search, references secured around a hostile manager and a planned last day.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "toxic-workplace-exit-plan",
+        "everyone",
+        "burnout",
+        "job-search",
+        "resignation",
+        "wellbeing",
+        "references"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/toxic-workplace-exit-plan.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:2765c55f0db5e2cd7f456c041252d68a029445d4af6781f76d9cd55d65db417a"
+    },
+    {
+      "id": "career-growth.underrepresented-career-growth",
+      "name": "Career Growth for Underrepresented Groups",
+      "description": "A clear-eyed plan for progressing when you are one of few: your position against peers, a private record, credit and feedback habits, chosen networks, disclosure decisions and the work of pulling others up.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "underrepresented-career-growth",
+        "knowledge-worker",
+        "everyone",
+        "diversity",
+        "bias",
+        "first-generation",
+        "affinity-networks"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/underrepresented-career-growth.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5b0385cb5bbe4e01f5420199fdf3b7cbd1d3cce4639b07cb4fd0c1cc3e065b3d"
+    },
+    {
+      "id": "career-growth.womens-career-advancement",
+      "name": "Women's Career Advancement",
+      "description": "A practical plan for advancing as a woman at work: pay and promotion checked, office housework cut, sponsors earned, bias handled with evidence and parental leave or menopause managed without losing momentum.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "womens-career-advancement",
+        "knowledge-worker",
+        "manager",
+        "women-in-leadership",
+        "gender-pay-gap",
+        "sponsorship",
+        "parental-leave"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/womens-career-advancement.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:90f6971fa0f0291bf7283247a5206ac4e51f8c6fcb085dc55633489c5de13096"
+    },
+    {
+      "id": "career-growth.working-with-career-coach",
+      "name": "Working With a Career Coach",
+      "description": "A clear brief for what coaching should change, a well-checked coach and contract, sessions prepared and followed through, and an honest view of whether the time and money paid off.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "working-with-career-coach",
+        "everyone",
+        "knowledge-worker",
+        "coaching",
+        "executive-coaching",
+        "accountability"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/working-with-career-coach.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:0be7473ea839d5c9fc3eb765e23ff16056f337c866919b21a8a87047a6a5c873"
+    },
+    {
+      "id": "career-growth.workplace-rights-grievances",
+      "name": "Workplace Rights & Grievances",
+      "description": "Know what your contract and the law give you, keep a dated record, get independent advice early, and raise pay, discrimination or treatment grievances through the proper channels.",
+      "category": "personal",
+      "tags": [
+        "career-growth",
+        "workplace-rights-grievances",
+        "everyone",
+        "employment-rights",
+        "grievance",
+        "discrimination",
+        "equal-pay",
+        "trade-union"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/career-growth/workplace-rights-grievances.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Career Growth"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:a591ceb4e3e403a6cda37bb81415657514adf4bfb18a0f71906be9644a24130d"
     },
     {
       "id": "caribbean-diaspora.buying-property-back-home",
@@ -32000,6 +33595,398 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:37f19ed486b8b7271d287c2cf75883f1b6dc9da34dcfdad945ec8264102d78f0"
+    },
+    {
+      "id": "strategy-leadership.acquisition-strategy",
+      "name": "Acquisition Strategy",
+      "description": "A reasoned case for buying, clear screening criteria, a ranked and maintained target list, fit assessed before any approach, and a board mandate that keeps every deal tied to strategy.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "acquisition-strategy",
+        "manager",
+        "enterprise",
+        "m-and-a",
+        "corporate-development",
+        "target-screening",
+        "strategic-fit"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/acquisition-strategy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:120074f0af9cfe04939ddf2235ef164080ad8a130d81978eb75374a3acedfe91"
+    },
+    {
+      "id": "strategy-leadership.annual-strategic-planning-cycle",
+      "name": "Annual Strategic Planning Cycle",
+      "description": "A yearly strategy process that runs on time: a back-scheduled calendar, an honest diagnosis, real options, a few clear priorities, targets and budgets that agree, and a plan every team can follow.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "annual-strategic-planning-cycle",
+        "manager",
+        "enterprise",
+        "team",
+        "strategic-planning",
+        "budgeting",
+        "planning-calendar"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/annual-strategic-planning-cycle.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:aaea9d3ef1039b08e77e8b430a6dd9dcbd561dd5dea6e081112ef4af223d5e4a"
+    },
+    {
+      "id": "strategy-leadership.company-values-and-culture-definition",
+      "name": "Company Values and Culture Definition",
+      "description": "Values drawn from evidence, written as observable behaviours, tested with staff, signed off by leaders and built into hiring, induction, reviews, recognition and hard decisions.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "company-values-and-culture-definition",
+        "manager",
+        "founder",
+        "enterprise",
+        "values",
+        "culture",
+        "behaviours"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/company-values-and-culture-definition.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d75d9fbf9848448c01a9cb6e87efb8e005a94df4a5f2ec8f20ffce3b364c8e11"
+    },
+    {
+      "id": "strategy-leadership.company-vision-and-mission",
+      "name": "Company Vision and Mission",
+      "description": "A vision and mission tested against real decisions, owned by the leadership team, approved by the board and built into hiring, investment gates and yearly reviews.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "company-vision-and-mission",
+        "manager",
+        "founder",
+        "enterprise",
+        "purpose",
+        "mission-statement",
+        "vision"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/company-vision-and-mission.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:f86daa89995f3456d6e76f040f7a47638883469c303382fbb0cebb2e4f86b9a6"
+    },
+    {
+      "id": "strategy-leadership.competitive-landscape-strategy-review",
+      "name": "Competitive Landscape Strategy Review",
+      "description": "A clear map of who you really compete with, an evidence routine that keeps it current, and written choices about where to compete, how to differentiate and which fights to stay out of.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "competitive-landscape-strategy-review",
+        "manager",
+        "founder",
+        "enterprise",
+        "competitive-intelligence",
+        "positioning",
+        "win-loss"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/competitive-landscape-strategy-review.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5d07d00e97dc3d1f005101412105316b63d54418920a764905b99b32939704e8"
+    },
+    {
+      "id": "strategy-leadership.executive-team-formation",
+      "name": "Executive Team Formation",
+      "description": "A clear purpose and membership for the top team, written role charters, shared goals, the right executives in the right seats, and the habits that turn functional heads into a team that leads together.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "executive-team-formation",
+        "manager",
+        "enterprise",
+        "founder",
+        "executive-team",
+        "team-effectiveness",
+        "leadership-team"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/executive-team-formation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:56f38032260db3dbf929bc7e0759cd8f660b23a715976812df5debad9f57be62"
+    },
+    {
+      "id": "strategy-leadership.executive-team-meeting-rhythm",
+      "name": "Executive Team Meeting Rhythm",
+      "description": "A leadership meeting calendar where the weekly, monthly and quarterly forums each have one job, with pre-reads, a decision log, an action register and a yearly reset that keeps updates out of the room.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "executive-team-meeting-rhythm",
+        "manager",
+        "enterprise",
+        "leadership-meetings",
+        "decision-log",
+        "agenda-design",
+        "operating-rhythm"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/executive-team-meeting-rhythm.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:37c5572a9f794d94eef2de6ca98f4940d8cffa01e032e3fc7c714a8386fa7036"
+    },
+    {
+      "id": "strategy-leadership.leadership-offsite-planning",
+      "name": "Leadership Offsite Planning",
+      "description": "Offsites with a written purpose and decision list, a run of show built around real choices, skilled facilitation, sound logistics and a follow-through routine that turns the room's agreements into delivered work.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "leadership-offsite-planning",
+        "manager",
+        "team",
+        "offsites",
+        "facilitation",
+        "retreats",
+        "decision-making"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/leadership-offsite-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:7870d4672a8a4f010ab3a5a4494a5d9cab8ebc40a83f6585e3888ede5a6b19be"
+    },
+    {
+      "id": "strategy-leadership.leading-a-post-merger-integration",
+      "name": "Leading a Post-Merger Integration",
+      "description": "Lead two organisations into one after a deal: a clear value case and integration office, Day 1 and the first 100 days, key people and customers kept, structure and systems chosen, and savings tracked to the end.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "leading-a-post-merger-integration",
+        "manager",
+        "enterprise",
+        "post-merger-integration",
+        "mergers-and-acquisitions",
+        "synergies",
+        "day-one"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/leading-a-post-merger-integration.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:26a9d6de5331a0861715949f7de61401b51813ace2cfd20b8a347706c491ea46"
+    },
+    {
+      "id": "strategy-leadership.long-range-strategic-plan",
+      "name": "Long-Range Strategic Plan",
+      "description": "A three to five year plan you can steer by: a clear baseline and ambition, a few big bets, the capabilities and money behind them, dated milestones, and the rhythm that keeps the plan alive.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "long-range-strategic-plan",
+        "manager",
+        "enterprise",
+        "founder",
+        "five-year-plan",
+        "big-bets",
+        "capabilities"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/long-range-strategic-plan.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:8f6b5b74a79d9c12bb82f025340d3cc1d466019994a764e7f21500aef8c241fe"
+    },
+    {
+      "id": "strategy-leadership.new-market-entry-strategy",
+      "name": "New Market Entry Strategy",
+      "description": "A disciplined route into a new country or customer segment: screened options, real customer evidence, a chosen entry model, a funded pilot with kill criteria and the reviews that decide whether to scale.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "new-market-entry-strategy",
+        "manager",
+        "enterprise",
+        "founder",
+        "expansion",
+        "international",
+        "go-to-market"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/new-market-entry-strategy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:cd480da5ecd60f2a9ef7530e29f4751939666862a5dac1d705cd7fa31899ee68"
+    },
+    {
+      "id": "strategy-leadership.okr-setting-and-tracking",
+      "name": "OKR Setting and Tracking",
+      "description": "Objectives and key results that trace back to strategy, a weekly and quarterly tracking rhythm teams actually keep, honest scoring, and the lessons that make each cycle better than the last.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "okr-setting-and-tracking",
+        "manager",
+        "team",
+        "enterprise",
+        "okrs",
+        "goal-setting",
+        "execution"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/okr-setting-and-tracking.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:8664961fc288c74835afb27e944872fb6847565e17e3bf0eccac4ce43192f340"
+    },
+    {
+      "id": "strategy-leadership.organisational-decision-rights",
+      "name": "Organisational Decision Rights",
+      "description": "A clear map of who decides what, a delegation of authority people can find, escalation paths with time limits, a decision log and the review rhythm that keeps all of it true as the organisation changes.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "organisational-decision-rights",
+        "manager",
+        "enterprise",
+        "team",
+        "decision-making",
+        "delegation",
+        "governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/organisational-decision-rights.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4782c60d28612d5953928939478f503fc17b3939469a3332ace37a1dcf898139"
+    },
+    {
+      "id": "strategy-leadership.strategic-bets-prioritisation",
+      "name": "Strategic Bets Prioritisation",
+      "description": "A full list of what you are funding, criteria the leadership team agrees on, staged funding and kill criteria for every bet, and a habit of stopping work as deliberately as you start it.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "strategic-bets-prioritisation",
+        "manager",
+        "enterprise",
+        "prioritisation",
+        "trade-offs",
+        "resource-allocation",
+        "stop-decisions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/strategic-bets-prioritisation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:a2fd16c392ee4847d77e435273f1709a404ffe3d738e7a162f086c3318da40a6"
     },
     {
       "id": "tech-certifications.aws-cloud-practitioner",
