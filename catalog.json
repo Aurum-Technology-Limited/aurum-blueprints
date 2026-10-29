@@ -9883,6 +9883,34 @@
       "contentHash": "sha256:71ae1450a76434af6685d96596ebb0e9b7273313903cc7f3b1a9fd6718cc4269"
     },
     {
+      "id": "finance-accounting.bookkeeping-transaction-coding",
+      "name": "Bookkeeping & Transaction Coding",
+      "description": "A coding guide, a document behind every entry, a weekly coding habit and monthly checks that keep the ledger accurate, from agreed opening balances to a clean year-end pack.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "bookkeeping-transaction-coding",
+        "small-business",
+        "freelancer",
+        "founder",
+        "transaction-coding",
+        "receipts",
+        "bank-rules"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/bookkeeping-transaction-coding.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:1470e5159a04fcb694aeeb71ff407fe71784dc5d6e4dd8c0beb7e9d8e5387bf0"
+    },
+    {
       "id": "finance-certifications.acca-applied-knowledge-exams",
       "name": "ACCA Applied Knowledge Exams",
       "description": "A route through ACCA's BT, MA and FA exams: exemptions and the current syllabus first, a dated study calendar, each topic with question practice, timed mocks, booking and exam day, then the step to Applied Skills.",
@@ -33653,6 +33681,175 @@
       "contentHash": "sha256:aaea9d3ef1039b08e77e8b430a6dd9dcbd561dd5dea6e081112ef4af223d5e4a"
     },
     {
+      "id": "strategy-leadership.board-composition-and-effectiveness",
+      "name": "Board Composition and Effectiveness",
+      "description": "A board with the right mix of skills and independence, clear reserved matters, board packs that support decisions, meetings that use directors well and an honest yearly evaluation of how the board performs.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "board-composition-and-effectiveness",
+        "founder",
+        "enterprise",
+        "nonprofit",
+        "governance",
+        "board-evaluation",
+        "trustees"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/board-composition-and-effectiveness.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3a1aeeca3176b0f19254023c09181d2d6a16d9fe5d18e0a5908548f8582ff8da"
+    },
+    {
+      "id": "strategy-leadership.board-strategy-sessions",
+      "name": "Board Strategy Sessions",
+      "description": "Board strategy sessions that frame real choices, draw on what each director knows, and end in recorded decisions: purpose, calendar, papers, facilitation, the annual strategy day and the follow-through between meetings.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "board-strategy-sessions",
+        "manager",
+        "founder",
+        "enterprise",
+        "board-of-directors",
+        "strategy-day",
+        "board-papers",
+        "governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/board-strategy-sessions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:e79198c6b918796ade984c3614c44201b74e71e93ee97a4f92fa500432bb0765"
+    },
+    {
+      "id": "strategy-leadership.building-psychological-safety",
+      "name": "Building Psychological Safety",
+      "description": "A measured baseline, leader habits that invite candour, meeting and decision routines that surface dissent, and team norms that let people admit mistakes and challenge ideas without fear.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "building-psychological-safety",
+        "manager",
+        "team",
+        "psychological-safety",
+        "speaking-up",
+        "candour",
+        "team-norms"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/building-psychological-safety.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:c0d8ae59d3d2ee02e6e3b233afcd17795ccbf452090e2f02ac046441f0955e7e"
+    },
+    {
+      "id": "strategy-leadership.business-turnaround-leadership",
+      "name": "Business Turnaround Leadership",
+      "description": "A thirteen-week cash forecast you can defend, an honest diagnosis of the decline, the hard cost and portfolio choices, lenders and staff kept on side, and a recovery plan credible enough to fund.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "business-turnaround-leadership",
+        "manager",
+        "enterprise",
+        "small-business",
+        "turnaround",
+        "restructuring",
+        "cash-management"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/business-turnaround-leadership.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:3e385f4f3a4ff4dd20abae162df7ca5af8d85d7318d56ffd4ce4e309a8c5615f"
+    },
+    {
+      "id": "strategy-leadership.business-unit-portfolio-review",
+      "name": "Business Unit Portfolio Review",
+      "description": "Comparable numbers for every unit, agreed criteria, a clear invest, harvest, fix or exit role for each business, and the review rhythm, board papers and exit work that follow from it.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "business-unit-portfolio-review",
+        "enterprise",
+        "manager",
+        "portfolio-strategy",
+        "capital-allocation",
+        "divestment",
+        "corporate-strategy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/business-unit-portfolio-review.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:eb0d992f0eaa8dbbd1d55dadcb28120223e4e9f1f11d23e81e53e6a9261d259a"
+    },
+    {
+      "id": "strategy-leadership.ceo-and-executive-succession",
+      "name": "CEO and Executive Succession",
+      "description": "Succession you can act on for the chief executive and senior team: critical roles, emergency cover, successor slates and development, board reviews, searches, announcements and handovers that keep the organisation steady.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "ceo-and-executive-succession",
+        "enterprise",
+        "manager",
+        "nonprofit",
+        "succession-planning",
+        "ceo-search",
+        "talent-review"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/ceo-and-executive-succession.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 208
+      },
+      "contentHash": "sha256:d50a108285b1a1894f1b18d362637d73b960e3ef7c39e6f67360a1fbf7e4d2b5"
+    },
+    {
       "id": "strategy-leadership.company-values-and-culture-definition",
       "name": "Company Values and Culture Definition",
       "description": "Values drawn from evidence, written as observable behaviours, tested with staff, signed off by leaders and built into hiring, induction, reviews, recognition and hard decisions.",
@@ -33737,6 +33934,174 @@
       "contentHash": "sha256:5d07d00e97dc3d1f005101412105316b63d54418920a764905b99b32939704e8"
     },
     {
+      "id": "strategy-leadership.corporate-sustainability-strategy",
+      "name": "Corporate Sustainability Strategy",
+      "description": "Double materiality, an agreed ambition and target set, board oversight and claims control, then the transition plan, capital tests and pay links that put sustainability into the core business.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "corporate-sustainability-strategy",
+        "enterprise",
+        "manager",
+        "esg",
+        "materiality",
+        "climate-targets",
+        "sustainability-governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/corporate-sustainability-strategy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:34b660fd33a62c8b527c1754a8196bcbd34ad75cb57c0df41a2055e2331042c9"
+    },
+    {
+      "id": "strategy-leadership.cross-functional-strategic-alignment",
+      "name": "Cross-Functional Strategic Alignment",
+      "description": "Get departments pulling the same way: one shared priority list, mapped dependencies, a fair escalation path for conflicts, a planning interlock and the habits that keep teams aligned between plans.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "cross-functional-strategic-alignment",
+        "manager",
+        "enterprise",
+        "team",
+        "dependencies",
+        "interlock",
+        "matrix-working"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/cross-functional-strategic-alignment.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:19e1a7ab873b80951be8293eee145377aba64885efbc196423ebdd2c51fe4ac3"
+    },
+    {
+      "id": "strategy-leadership.culture-change-initiative",
+      "name": "Culture Change Initiative",
+      "description": "A business case for changing how people behave, a diagnosis built on evidence, a few named from-to shifts, leaders who model them visibly and measures that show whether the culture is really moving.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "culture-change-initiative",
+        "manager",
+        "enterprise",
+        "culture-change",
+        "role-modelling",
+        "behaviour-change",
+        "culture-measures"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/culture-change-initiative.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:c480c623aea1971300ed199cca089c5aef99e7bee2141015192a8aacdcca37a7"
+    },
+    {
+      "id": "strategy-leadership.digital-transformation-leadership",
+      "name": "Digital Transformation Leadership",
+      "description": "A maturity baseline, a funded roadmap, a steering and benefits rhythm, the build, buy and cloud decisions, and the leadership work of bringing people, process and technology along together.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "digital-transformation-leadership",
+        "manager",
+        "enterprise",
+        "digital-transformation",
+        "operating-model",
+        "legacy-modernisation",
+        "change-leadership"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/digital-transformation-leadership.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 208
+      },
+      "contentHash": "sha256:7873c25a52abd84c010fc970ec217e21e6dfbd601e2f102fb4dded2b8f51d38b"
+    },
+    {
+      "id": "strategy-leadership.executive-coaching-engagement",
+      "name": "Executive Coaching Engagement",
+      "description": "A coaching engagement run on purpose: the right coach chosen, goals and confidentiality contracted with your sponsor, stakeholder feedback at the start and end, and practice between sessions that turns insight into changed behaviour.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "executive-coaching-engagement",
+        "manager",
+        "founder",
+        "executive-coaching",
+        "behaviour-change",
+        "stakeholder-feedback",
+        "leadership-development"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/executive-coaching-engagement.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:022fae596d48efde6b0486f8be49df111b7ab31bcfc4a75f80be20927acea37c"
+    },
+    {
+      "id": "strategy-leadership.executive-kpi-scorecard",
+      "name": "Executive KPI Scorecard",
+      "description": "A short list of executive indicators tied to strategy, each with one owner, a written definition, a target and thresholds, issued on time and reviewed by exception every month.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "executive-kpi-scorecard",
+        "manager",
+        "enterprise",
+        "kpis",
+        "scorecard",
+        "performance-measurement",
+        "metrics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/executive-kpi-scorecard.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:6559a0d384e21b2bab7a9ab92d8aa4a9e9716de3423654815905a13196dbdc55"
+    },
+    {
       "id": "strategy-leadership.executive-team-formation",
       "name": "Executive Team Formation",
       "description": "A clear purpose and membership for the top team, written role charters, shared goals, the right executives in the right seats, and the habits that turn functional heads into a team that leads together.",
@@ -33793,6 +34158,145 @@
       "contentHash": "sha256:37c5572a9f794d94eef2de6ca98f4940d8cffa01e032e3fc7c714a8386fa7036"
     },
     {
+      "id": "strategy-leadership.family-business-leadership",
+      "name": "Family Business Leadership",
+      "description": "Running a family-owned company without losing the family: clear roles and pay, a family council and constitution, owners' decisions kept apart from management, next-generation preparation and a planned handover.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "family-business-leadership",
+        "small-business",
+        "manager",
+        "family-business",
+        "family-governance",
+        "next-generation",
+        "ownership-succession"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/family-business-leadership.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:60587b9249abc147be9a05527041eb5de6bce7e6de753f36b9788270c75144ad"
+    },
+    {
+      "id": "strategy-leadership.first-ninety-days-as-an-executive",
+      "name": "First Ninety Days as an Executive",
+      "description": "A plan for a new senior role from before day one to the ninety-day review: diagnosis, a listening tour, priorities agreed with your boss, an assessed team, early wins and the habits that keep the transition on track.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "first-ninety-days-as-an-executive",
+        "manager",
+        "enterprise",
+        "executive-transition",
+        "onboarding",
+        "new-role",
+        "early-wins"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/first-ninety-days-as-an-executive.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:151bef3a31f1557ff7149dac5a40cf4272171f73c72f06d191001946e4918aa2"
+    },
+    {
+      "id": "strategy-leadership.first-time-manager-leadership",
+      "name": "First-Time Manager Leadership",
+      "description": "A route from first promotion to confident team lead: expectations agreed, one-to-ones and delegation running every week, feedback and reviews done fairly, and the hard situations prepared for before they arrive.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "first-time-manager-leadership",
+        "manager",
+        "knowledge-worker",
+        "new-manager",
+        "one-to-ones",
+        "delegation",
+        "feedback"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/first-time-manager-leadership.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c4c587200002ed34fe4d4c91ca68762c70f7d39f29816d4f2bf9973c34ace987"
+    },
+    {
+      "id": "strategy-leadership.growth-strategy-options",
+      "name": "Growth Strategy Options",
+      "description": "A clear growth ambition, an honest read of where growth comes from today, a long list of routes scored against agreed criteria, cheap tests and one coherent growth path the team can fund and follow.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "growth-strategy-options",
+        "manager",
+        "founder",
+        "small-business",
+        "growth",
+        "ansoff",
+        "adjacency"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/growth-strategy-options.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:72e6c2a8fd6f2587515b9d2d3423a38fdcfa52258018842886cc9373a19cea9d"
+    },
+    {
+      "id": "strategy-leadership.leadership-360-feedback",
+      "name": "Leadership 360 Feedback",
+      "description": "A 360 you can trust and act on: a clear purpose, the right raters and anonymity rules, a fair reading of the report, two or three themes, a behaviour plan and follow-up pulses that show change.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "leadership-360-feedback",
+        "manager",
+        "360-feedback",
+        "multi-rater-feedback",
+        "leadership-development",
+        "self-awareness"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/leadership-360-feedback.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:a832704fe6f555e5fb1bd146e45cd78fa1d0d2c7149cc26390b6281a5a83a3aa"
+    },
+    {
       "id": "strategy-leadership.leadership-offsite-planning",
       "name": "Leadership Offsite Planning",
       "description": "Offsites with a written purpose and decision list, a run of show built around real choices, skilled facilitation, sound logistics and a follow-through routine that turns the room's agreements into delivered work.",
@@ -33821,6 +34325,34 @@
       "contentHash": "sha256:7870d4672a8a4f010ab3a5a4494a5d9cab8ebc40a83f6585e3888ede5a6b19be"
     },
     {
+      "id": "strategy-leadership.leadership-pipeline-development",
+      "name": "Leadership Pipeline Development",
+      "description": "A leadership bench you can see and grow: critical roles, a capability framework, talent reviews and calibration, stretch roles, mentoring and cohort programmes that turn promising people into ready leaders.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "leadership-pipeline-development",
+        "manager",
+        "enterprise",
+        "talent-review",
+        "high-potential",
+        "mentoring",
+        "stretch-assignments"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/leadership-pipeline-development.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3fb4d329d489b3ddbe52b6e488017bb22272d46b4599a64037bbc5dd39f2b20a"
+    },
+    {
       "id": "strategy-leadership.leading-a-post-merger-integration",
       "name": "Leading a Post-Merger Integration",
       "description": "Lead two organisations into one after a deal: a clear value case and integration office, Day 1 and the first 100 days, key people and customers kept, structure and systems chosen, and savings tracked to the end.",
@@ -33847,6 +34379,118 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:26a9d6de5331a0861715949f7de61401b51813ace2cfd20b8a347706c491ea46"
+    },
+    {
+      "id": "strategy-leadership.leading-all-hands-and-town-halls",
+      "name": "Leading All-Hands and Town Halls",
+      "description": "All-hands and town halls people attend and trust: a clear purpose and format, honest question handling, a production rhythm, hard announcements done well and proof that people leave more aligned.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "leading-all-hands-and-town-halls",
+        "manager",
+        "founder",
+        "team",
+        "town-hall",
+        "internal-communications",
+        "q-and-a"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/leading-all-hands-and-town-halls.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c83545c50a29a6336c2fbe4685ea07ab4ee7b42603fe2a377af5bcc3fc08c7a4"
+    },
+    {
+      "id": "strategy-leadership.leading-distributed-teams",
+      "name": "Leading Distributed Teams",
+      "description": "A map of where and when your team works, a shared overlap window and working agreement, written rhythms that replace hallway talk, and the habits that build trust across locations and time zones.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "leading-distributed-teams",
+        "manager",
+        "team",
+        "remote-work",
+        "hybrid",
+        "time-zones",
+        "async"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/leading-distributed-teams.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f9b799ef4f7371fa1e595de8fb43a6576173158ae2e03c99bc40f8a9b83f17f2"
+    },
+    {
+      "id": "strategy-leadership.leading-through-a-crisis",
+      "name": "Leading Through a Crisis",
+      "description": "Severity levels, a named crisis team and decision authority set before anything breaks, a working battle rhythm and communication habits for the live response, and the reviews that turn each crisis into lasting judgement.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "leading-through-a-crisis",
+        "manager",
+        "enterprise",
+        "founder",
+        "crisis-management",
+        "incident-command",
+        "crisis-communication"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/leading-through-a-crisis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:f8772859c467b2cc3f5058b26bdc428c850b5fb52dd367fe404bb7174b3bc345"
+    },
+    {
+      "id": "strategy-leadership.leading-through-managers",
+      "name": "Leading Through Managers",
+      "description": "A clear map of your management layers, written intent your managers can act on, coaching for the leaders who report to you, and the skip-level and front-line habits that keep a large organisation honest with you.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "leading-through-managers",
+        "manager",
+        "enterprise",
+        "manager-of-managers",
+        "skip-level",
+        "coaching",
+        "span-of-control"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/leading-through-managers.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:096da62d014eaab611eeaf4a79d0798a2e6d382392465e4dc96ee74fad1fc1bc"
     },
     {
       "id": "strategy-leadership.long-range-strategic-plan",
@@ -33905,6 +34549,34 @@
       "contentHash": "sha256:cd480da5ecd60f2a9ef7530e29f4751939666862a5dac1d705cd7fa31899ee68"
     },
     {
+      "id": "strategy-leadership.nonprofit-strategic-planning",
+      "name": "Nonprofit Strategic Planning",
+      "description": "A charity strategy trustees, staff and the people you serve can stand behind: evidence of need, a theory of change, priorities that fit the money and capacity, and a reporting rhythm that keeps the plan alive.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "nonprofit-strategic-planning",
+        "nonprofit",
+        "manager",
+        "charity",
+        "trustees",
+        "theory-of-change",
+        "funding-strategy"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/nonprofit-strategic-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:62f4e918ab9f6789f3694b28929c707f0bd22a4bd05d7898ef62358202b3e326"
+    },
+    {
       "id": "strategy-leadership.okr-setting-and-tracking",
       "name": "OKR Setting and Tracking",
       "description": "Objectives and key results that trace back to strategy, a weekly and quarterly tracking rhythm teams actually keep, honest scoring, and the lessons that make each cycle better than the last.",
@@ -33931,6 +34603,62 @@
         "totalTasks": 201
       },
       "contentHash": "sha256:8664961fc288c74835afb27e944872fb6847565e17e3bf0eccac4ce43192f340"
+    },
+    {
+      "id": "strategy-leadership.organisation-redesign",
+      "name": "Organisation Redesign",
+      "description": "A clear case and design criteria, an honest map of today's structure, scored options, detailed reporting lines and role profiles, fair selection, and an announcement and transition handled with care.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "organisation-redesign",
+        "manager",
+        "enterprise",
+        "org-design",
+        "restructuring",
+        "spans-and-layers",
+        "reporting-lines"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/organisation-redesign.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:cc0eb9230af8097fb7ba31fae3a738681d15381d111f7cca4ba8d87220f6736e"
+    },
+    {
+      "id": "strategy-leadership.organisational-change-management",
+      "name": "Organisational Change Management",
+      "description": "Lead people through a major change: a clear change definition and sponsor, impact and readiness assessed, a change network and steady communication, resistance handled, training delivered and new ways of working that stick.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "organisational-change-management",
+        "manager",
+        "enterprise",
+        "team",
+        "change-management",
+        "adoption",
+        "change-communications"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/organisational-change-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:80d74f28f62eff38ad8b121017b95cabb2bf2325852c6a7f0438200945795b57"
     },
     {
       "id": "strategy-leadership.organisational-decision-rights",
@@ -33961,6 +34689,89 @@
       "contentHash": "sha256:4782c60d28612d5953928939478f503fc17b3939469a3332ace37a1dcf898139"
     },
     {
+      "id": "strategy-leadership.public-sector-leadership",
+      "name": "Public Sector Leadership",
+      "description": "Leading in government and public services: clear accountability lines, a working rhythm with ministers or elected members, budgets kept within the rules, scrutiny prepared for and services improved on constrained money.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "public-sector-leadership",
+        "manager",
+        "enterprise",
+        "government",
+        "public-services",
+        "accountability",
+        "public-finance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/public-sector-leadership.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 208
+      },
+      "contentHash": "sha256:fb16d14fc400ad8f44088cb89109f5c98615f491b6a1515ddeab454d9a8238c8"
+    },
+    {
+      "id": "strategy-leadership.serving-as-a-non-executive-director",
+      "name": "Serving as a Non-Executive Director",
+      "description": "A board seat taken on with your eyes open: due diligence before you say yes, your duties and records in order, a steady preparation routine, committee skills and a clear plan for conflicts, dissent and stepping down.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "serving-as-a-non-executive-director",
+        "manager",
+        "enterprise",
+        "nonprofit",
+        "non-executive-director",
+        "trustee",
+        "governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/serving-as-a-non-executive-director.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:5c2ef3267f756932236b4463ba4177279d966a5fc83044e9de11fdce5cc49c22"
+    },
+    {
+      "id": "strategy-leadership.small-business-owner-strategy-day",
+      "name": "Small Business Owner Strategy Day",
+      "description": "A protected day away from the business, the year in numbers, an honest review and a one-page plan, with the weekly, monthly and quarterly routines that keep it alive.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "small-business-owner-strategy-day",
+        "small-business",
+        "founder",
+        "annual-review",
+        "one-page-plan",
+        "business-owner"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/small-business-owner-strategy-day.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:93fab8662e11004d867c217f52f1f19392eef3674f68711bbc44dccc7dbe9192"
+    },
+    {
       "id": "strategy-leadership.strategic-bets-prioritisation",
       "name": "Strategic Bets Prioritisation",
       "description": "A full list of what you are funding, criteria the leadership team agrees on, staged funding and kill criteria for every bet, and a habit of stopping work as deliberately as you start it.",
@@ -33987,6 +34798,91 @@
         "totalTasks": 201
       },
       "contentHash": "sha256:a2fd16c392ee4847d77e435273f1709a404ffe3d738e7a162f086c3318da40a6"
+    },
+    {
+      "id": "strategy-leadership.strategic-scenario-planning",
+      "name": "Strategic Scenario Planning",
+      "description": "Scenario work that changes decisions: a sharp focal question, driving forces and critical uncertainties, four plausible futures, a strategy stress test, signposts to watch and options ready if the world turns.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "strategic-scenario-planning",
+        "manager",
+        "enterprise",
+        "scenarios",
+        "foresight",
+        "uncertainty",
+        "contingency-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/strategic-scenario-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c1879b1d6aeb5a9b7d00380c9ec5d661c5253d048a92aeb4d40d5e5b9f208ad4"
+    },
+    {
+      "id": "strategy-leadership.strategic-stakeholder-management",
+      "name": "Strategic Stakeholder Management",
+      "description": "Know whose support your strategy depends on: a living stakeholder map, named relationship owners, engagement plans and commitments kept, and the skills to bring sceptics, regulators, funders and partners along.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "strategic-stakeholder-management",
+        "manager",
+        "enterprise",
+        "nonprofit",
+        "stakeholder-mapping",
+        "stakeholder-engagement",
+        "government-relations"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/strategic-stakeholder-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:efb5f8b5e89059e706d4f07286ee7eef805e4990f711ef0d2902e9043acb8f6d"
+    },
+    {
+      "id": "strategy-leadership.strategy-narrative-and-memo-writing",
+      "name": "Strategy Narrative and Memo Writing",
+      "description": "Strategy memos and narratives people can act on: a clear reader and decision for every document, answer-first structure, honest trade-offs, a review routine, and a memo culture that replaces slides with reasoning.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "strategy-narrative-and-memo-writing",
+        "manager",
+        "founder",
+        "enterprise",
+        "strategy-memo",
+        "narrative-writing",
+        "decision-documents",
+        "business-writing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/strategy-narrative-and-memo-writing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3dc9bc28d9395c2b7ca4012245d8e0b62aef53c4116f9987bb185cc3f7cee7aa"
     },
     {
       "id": "tech-certifications.aws-cloud-practitioner",
