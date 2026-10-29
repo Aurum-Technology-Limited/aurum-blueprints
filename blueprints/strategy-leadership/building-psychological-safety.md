@@ -495,10 +495,11 @@ starter_structure:
                 Research behind the idea is stronger and more surprising than most summaries suggest. Edmondson's hospital study found that better teams reported more errors, not because they made more but because they talked about them, and Google's Project Aristotle later ranked psychological safety first among the dynamics of effective teams. Knowing the evidence lets you answer sceptics with facts and avoid the common misreadings.
 
                 ## Milestones
-                1. Edmondson's book on the fearless organisation, or her original team learning paper, read with notes.
+                1. Edmondson's book The Fearless Organization, or her 1999 paper on psychological safety and learning behaviour in work teams, read with notes.
                 2. Project Aristotle's published findings on team effectiveness read.
-                3. One critique or limitation of the research noted, such as how culture or task type affects it.
-                4. A one-page summary written in your own words for the team.
+                3. One alternative model compared, such as Timothy Clark's four stages from inclusion to challenger safety.
+                4. One critique or limitation of the research noted, such as how culture or task type affects it.
+                5. A one-page summary written in your own words for the team.
               priority: medium
               deadlineOffsetDays: 60
               frontmatter:
@@ -1072,7 +1073,7 @@ starter_structure:
             - name: Speak-up habits in safety-critical operational teams
               description: |-
                 ## Purpose
-                Where a missed concern can injure someone, as in healthcare, aviation, construction or plant operations, speaking up has to work under time pressure and steep hierarchy. Graded assertiveness scripts used in aviation and healthcare give people a set escalation, from stating a concern to declaring a safety issue, that a senior person is trained to stop for. Adopting one and practising it turns courage into procedure.
+                Where a missed concern can injure someone, as in healthcare, aviation, construction or plant operations, speaking up has to work under time pressure and steep hierarchy. Graded assertiveness scripts used in aviation and healthcare, such as the CUS words (I am concerned, I am uncomfortable, this is a safety issue) and the two-challenge rule, give people a set escalation that a senior person is trained to stop for. Adopting one and practising it turns courage into procedure.
 
                 ## Milestones
                 1. One graded assertiveness script chosen and adapted to the team's language.

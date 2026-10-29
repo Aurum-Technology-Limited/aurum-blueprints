@@ -353,7 +353,7 @@ starter_structure:
             - name: Stakeholder risk register
               description: |-
                 ## Purpose
-                Losing a key partner, a hostile select committee or a coordinated community campaign can sink a strategy faster than any market move. Recording these as risks with likelihood, impact, early warning signs and a prepared response puts stakeholder threats in front of the leadership team alongside financial and operational ones.
+                Losing a key partner, a hostile parliamentary committee or a coordinated community campaign can sink a strategy faster than any market move. Recording these as risks with likelihood, impact, early warning signs and a prepared response puts stakeholder threats in front of the leadership team alongside financial and operational ones.
 
                 ## Milestones
                 1. Ten to fifteen stakeholder risks written as cause, event and consequence.
@@ -386,7 +386,7 @@ starter_structure:
                 4. Leaders confirm the briefings are useful after the first month.
 
                 ## Notes
-                Start from the **Meeting notes** template for the debrief, so actions and commitments flow straight into the tracker.
+                Start from the **Meeting notes** template. Use it for the debrief, so actions and commitments flow straight into the tracker.
               priority: medium
               frontmatter:
                 mode: service

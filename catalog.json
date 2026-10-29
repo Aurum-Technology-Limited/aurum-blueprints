@@ -33763,7 +33763,7 @@
         "totalProjects": 50,
         "totalTasks": 205
       },
-      "contentHash": "sha256:c0d8ae59d3d2ee02e6e3b233afcd17795ccbf452090e2f02ac046441f0955e7e"
+      "contentHash": "sha256:590a2f51589b7d08bd10ec8a1e46cf0832498df731cec6d175f6de016c3cb92b"
     },
     {
       "id": "strategy-leadership.business-turnaround-leadership",
@@ -34046,6 +34046,62 @@
       "contentHash": "sha256:7873c25a52abd84c010fc970ec217e21e6dfbd601e2f102fb4dded2b8f51d38b"
     },
     {
+      "id": "strategy-leadership.enterprise-ai-strategy",
+      "name": "Enterprise AI Strategy",
+      "description": "An AI ambition the executive team agrees, a scored use-case portfolio, guardrails the board approves, steering, value and risk rhythms, and the capability work that turns AI pilots into results.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "enterprise-ai-strategy",
+        "enterprise",
+        "manager",
+        "artificial-intelligence",
+        "generative-ai",
+        "ai-governance",
+        "ai-adoption"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/enterprise-ai-strategy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:68613060290285f31b1ccc204f9beee3d9d4217ea8681f6ec4287a297dcfa3c7"
+    },
+    {
+      "id": "strategy-leadership.ethical-leadership-dilemmas",
+      "name": "Ethical Leadership Dilemmas",
+      "description": "Personal red lines, a decision test and people to call, routines for concerns, conflicts and gifts, and the skills to refuse, hear dissent and act with integrity when targets or bosses push the other way.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "ethical-leadership-dilemmas",
+        "manager",
+        "founder",
+        "enterprise",
+        "integrity",
+        "whistleblowing",
+        "conflicts-of-interest"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/ethical-leadership-dilemmas.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:bef4d6b5b720c83e29d52ad80c89d837247c332547407ad6b908451b4964ded5"
+    },
+    {
       "id": "strategy-leadership.executive-coaching-engagement",
       "name": "Executive Coaching Engagement",
       "description": "A coaching engagement run on purpose: the right coach chosen, goals and confidentiality contracted with your sponsor, stakeholder feedback at the start and end, and practice between sessions that turns insight into changed behaviour.",
@@ -34100,6 +34156,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:6559a0d384e21b2bab7a9ab92d8aa4a9e9716de3423654815905a13196dbdc55"
+    },
+    {
+      "id": "strategy-leadership.executive-presence-development",
+      "name": "Executive Presence Development",
+      "description": "A practical route to the presence senior roles ask for: an honest baseline, composure under pressure, answer-first speaking, a steady voice on video and in the boardroom, and the rooms where senior people form their view of you.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "executive-presence-development",
+        "manager",
+        "knowledge-worker",
+        "public-speaking",
+        "composure",
+        "communication",
+        "gravitas"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/executive-presence-development.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:6d6d28c4f28c4ce1216384244ce2cea85e899d3b8a1fa10ea37e9f1a59d84316"
     },
     {
       "id": "strategy-leadership.executive-team-formation",
@@ -34268,6 +34352,34 @@
         "totalTasks": 199
       },
       "contentHash": "sha256:72e6c2a8fd6f2587515b9d2d3423a38fdcfa52258018842886cc9373a19cea9d"
+    },
+    {
+      "id": "strategy-leadership.innovation-portfolio-leadership",
+      "name": "Innovation Portfolio Leadership",
+      "description": "A clear mandate, a ring-fenced pool, staged funding gates and a venture board, plus the review rhythm, evidence skills and protections that let new bets grow beside the core business.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "innovation-portfolio-leadership",
+        "manager",
+        "enterprise",
+        "innovation",
+        "venture-building",
+        "experimentation",
+        "stage-gate"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/innovation-portfolio-leadership.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:adb1c9b4300f89a85840aa5ddb0f3db4e96b11b22b6351d54f8e0d874fcd44e1"
     },
     {
       "id": "strategy-leadership.leadership-360-feedback",
@@ -34853,7 +34965,35 @@
         "totalProjects": 50,
         "totalTasks": 196
       },
-      "contentHash": "sha256:efb5f8b5e89059e706d4f07286ee7eef805e4990f711ef0d2902e9043acb8f6d"
+      "contentHash": "sha256:84035ade1cd842308749c60ced4ec5dd4131ff65115dc4e610a6a60b7c40d79a"
+    },
+    {
+      "id": "strategy-leadership.strategy-execution-reviews",
+      "name": "Strategy Execution Reviews",
+      "description": "A register of every strategic initiative, status definitions people trust, a monthly review run by exception, quarterly reallocation of money and people, and the habits that catch stalled work early.",
+      "category": "business",
+      "tags": [
+        "strategy-leadership",
+        "strategy-execution-reviews",
+        "manager",
+        "enterprise",
+        "execution",
+        "initiative-portfolio",
+        "resource-reallocation",
+        "delivery-governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/strategy-leadership/strategy-execution-reviews.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Strategy & Leadership"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:4638d5eb54763f2108ac399f9bbf11435c1711e5a4c496ffcd394696a30c3796"
     },
     {
       "id": "strategy-leadership.strategy-narrative-and-memo-writing",
