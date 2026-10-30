@@ -1,16 +1,16 @@
 ---
 id: finance-accounting.bookkeeping-transaction-coding
 name: Bookkeeping & Transaction Coding
-description: "A coding guide, a document behind every entry, a weekly coding habit and monthly checks that keep the ledger accurate, from agreed opening balances to a clean year-end pack."
+description: "Every business transaction recorded, evidenced and coded to the right account and tax code each week, with rules, checks and a clean handover to your accountant."
 category: business
 version: 1.0.0
-tags: [finance-accounting, bookkeeping-transaction-coding, small-business, freelancer, founder, transaction-coding, receipts, bank-rules]
+tags: [finance-accounting, bookkeeping-transaction-coding, small-business, freelancer, founder, bank-feeds, receipts, double-entry]
 author: Aurum Technology
 starter_structure:
   templates:
     - operational-checklist
     - metrics-log
-    - course
+    - onboarding-plan
   pillars:
     - name: Finance & Accounting
       emoji: "🧾"
@@ -21,1171 +21,1184 @@ starter_structure:
         - name: Bookkeeping & Transaction Coding
           description: "Recording and coding every business transaction against the chart of accounts so the ledger stays accurate week to week, for owners and bookkeepers."
           projects:
+            - name: Business and personal money separated
+              description: |-
+                ## Purpose
+                Mixing personal shopping and business spending on one account is the single biggest cause of slow, wrong bookkeeping, because every line needs a judgement and a question. Running all business money through accounts and cards used only for the business means the bank feed is already ninety per cent business, and the rest is easy to spot and code to the owner.
+
+                ## Milestones
+                1. One bank account and one card used only for business transactions.
+                2. Every regular business payment, subscription and customer payment moved to the business account.
+                3. Regular personal payments removed from the business account.
+                4. A written rule for what to do when the wrong card is used by mistake.
+
+                ## Notes
+                If the business account is new, keep the old account open until the last customer and supplier have switched over, then code the overlap month with extra care.
+              priority: high
+              frontmatter:
+                mode: building
+                output_kind: habit
+                success_criteria: "A full month passes in which the business account and card carry no personal transactions other than recorded owner transfers."
+                cadence: one-shot
+                effort_hours_estimate: "4"
+              tasks:
+                - "List every payment that leaves or arrives in the current account in a typical month"
+                - "Mark each one as business, personal or mixed"
+                - "Move business subscriptions and direct debits to the business card"
+                - "Give customers the business account details on the next invoice"
+                - "Write down the wrong-card rule and keep it with your coding guide"
             - name: Cash or accrual recording basis decision
               description: |-
                 ## Purpose
-                Whether you record income when the customer pays or when you invoice changes every figure in the ledger, and some tax authorities let small businesses choose while others require one basis above a turnover limit. Settling the basis with your accountant before coding another month means the books, the income tax return and any sales tax return all count money the same way.
+                Cash basis records income and costs when money moves, while accrual basis records them when the invoice or bill is raised, and the choice changes how every sale and purchase is entered. Some tax authorities let small businesses choose and others require accruals above a turnover limit, so agreeing the basis with your accountant before coding another month avoids rework at year end.
 
                 ## Milestones
-                1. The recording bases your tax authority allows for a business of your size and type confirmed with your accountant.
-                2. A basis chosen and the date it applies from written down.
-                3. Report and tax settings in the software matching the chosen basis.
-                4. The decision and its reason saved in the bookkeeping notes.
+                1. The bases your tax authority allows for your business size and structure confirmed with your accountant.
+                2. A basis chosen, with the date it applies from written down.
+                3. Accounting software settings checked so reports and tax returns use the same basis.
+                4. The basis recorded on the first page of your coding guide.
 
                 ## Notes
-                Cash basis is simpler but can hide unpaid bills and invoices. Ask your accountant before switching part way through a year, as moving between bases often needs adjustments.
-              priority: high
-              deadlineOffsetDays: 14
-              frontmatter:
-                mode: research
-                output_kind: decision
-                success_criteria: "A written note records the chosen recording basis, the date it applies from and the accountant's confirmation, and the software settings match it."
-                cadence: one-shot
-                effort_hours_estimate: "2"
-              tasks:
-                - "Ask your accountant which recording bases your business is allowed to use"
-                - "Check which basis the software's reports are currently set to"
-                - "Write the chosen basis and its start date in the bookkeeping notes"
-                - "Change report and tax settings to match the agreed basis"
-            - name: Source document map for every money stream
-              description: |-
-                ## Purpose
-                Bills arrive by email, card receipts sit in a wallet, sales come from an invoicing tool and a card reader, and each of them needs a document behind the ledger entry. Listing every stream of money in and out, where its paperwork lands and who collects it, shows exactly which records go missing and why.
-
-                ## Milestones
-                1. A list of every way money comes into and leaves the business.
-                2. For each stream, the document that proves it and where that document arrives.
-                3. Gaps marked where no document is kept today.
-                4. A named person responsible for collecting each type of document.
-              priority: high
-              frontmatter:
-                mode: building
-                output_kind: artifact
-                success_criteria: "A one-page map lists every income and spending stream with its source document, arrival point and owner, and no stream is left without a document."
-                cadence: one-shot
-                effort_hours_estimate: "3"
-              tasks:
-                - "List every way customers pay you and every way you pay for things"
-                - "Note where the receipt, bill or statement for each one arrives"
-                - "Mark each stream that has no document today"
-                - "Name who collects the documents for each stream"
-            - name: Opening balances agreed with last year's accounts
-              description: |-
-                ## Purpose
-                If the ledger's starting balances for bank, loans, debtors, creditors and owner capital do not match the last signed accounts, every report afterwards is out by the same unexplained amount. Entering them from the accountant's final balance sheet, and agreeing each figure, gives the books a starting point that can be defended.
-
-                ## Milestones
-                1. The last approved year-end balance sheet and trial balance obtained from the accountant.
-                2. Opening balances entered for every balance sheet account at the period start date.
-                3. The ledger's opening trial balance agreed line by line to the accountant's figures.
-                4. Any difference explained and corrected, with nothing left in an opening balance adjustment account.
-
-                ## Notes
-                For a brand new business the opening position is usually just the first money paid in and any costs the founder covered personally, which the founder's first-year project handles.
+                Changing basis part way through a year creates timing differences your accountant has to adjust for. Change at a year end if you can.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
+                mode: research
+                output_kind: decision
+                success_criteria: "The recording basis, agreed with the accountant and dated, is written in the coding guide and matches the software settings."
+                cadence: one-shot
+                effort_hours_estimate: "2"
+              tasks:
+                - "Check whether your software is set to cash or accrual reporting today"
+                - "Ask your accountant which recording bases your business is allowed to use"
+                - "Note how your sales tax scheme interacts with the basis you prefer"
+                - "Record the chosen basis and its start date in the coding guide"
+            - name: Source document filing system
+              description: |-
+                ## Purpose
+                Every coded line in the ledger should point to a receipt, bill, invoice, statement or contract that proves it, and without one the entry is a guess the tax authority can reject. Deciding once where each type of document lives, how it is named and how it reaches the ledger turns the year-end hunt into a search box.
+
+                ## Milestones
+                1. A list of every document type the business produces or receives, with where each one arrives.
+                2. One digital home for source documents, with a folder or tag per year and type.
+                3. A naming pattern of date, supplier and amount used for every new file.
+                4. Paper documents scanned within a week and the originals stored by month.
+
+                ## Notes
+                Check your tax authority's rules on keeping digital copies before throwing away paper originals. Some still require originals for certain documents.
+              priority: high
+              deadlineOffsetDays: 21
+              frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "The ledger's opening trial balance matches the last signed year-end figures account by account, with any difference explained in writing."
+                success_criteria: "Any transaction from the last three months can be matched to its source document in under two minutes."
                 cadence: one-shot
-                effort_hours_estimate: "4"
+                effort_hours_estimate: "5"
               tasks:
-                - "Ask the accountant for the final trial balance from the last year-end"
-                - "Enter each balance sheet figure at the period start date"
-                - "Compare the opening trial balance with the accountant's line by line"
-                - "Clear anything sitting in the opening balance adjustment account"
+                - "List where bills, receipts and statements arrive today: email, post, apps, portals"
+                - "Create one folder per year with subfolders for sales, purchases, bank and payroll"
+                - "Agree a file naming pattern and rename the last month of documents to it"
+                - "Set up an email forwarding address or folder for supplier bills"
+                - "Box this year's paper receipts by month"
             - name: One-page transaction coding guide
               description: |-
                 ## Purpose
-                Most coding errors come from the same twenty decisions made differently on different days: is software rent or subscriptions, is a train ticket travel or cost of sales. A one-page guide listing your common payees and transaction types against the account and tax code to use makes the answer the same whoever does the coding.
+                Most small businesses spend the bulk of their money with fewer than thirty suppliers, yet the same supplier gets coded three different ways because nobody wrote the answer down. A one-page guide listing each regular supplier and type of spend with its account, tax code and any tag makes coding consistent whoever does it.
 
                 ## Milestones
-                1. The thirty most frequent payees and transaction types from the last six months listed.
-                2. Each one assigned an account and tax code, checked with the accountant where unsure.
-                3. Five awkward cases written up with the rule to follow.
-                4. The guide saved where everyone who codes transactions can open it.
-
-                ## Notes
-                Keep the guide to the accounts you already have. If it keeps exposing accounts that overlap or are missing, that is a chart of accounts problem to fix separately.
-              priority: high
+                1. The top thirty payees by number of transactions pulled from the last twelve months.
+                2. Each payee given one account, one tax code and any tracking tag.
+                3. A short section for awkward spend: meals, travel, gifts, equipment and owner costs.
+                4. The guide checked by your accountant and stored next to the ledger.
+              priority: medium
+              deadlineOffsetDays: 30
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A coding guide covering at least thirty payees or transaction types, each with an account and tax code, is saved and shared with everyone who codes."
+                success_criteria: "A one-page coding guide covering at least thirty payees, reviewed by the accountant, is saved where every person who codes can open it."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Export six months of transactions sorted by payee"
-                - "List the thirty most common payees with the account each should use"
-                - "Add the tax code beside each account in the guide"
-                - "Ask the agent to draft rules for five awkward cases from your notes"
-                - "Check the guide against new payees and add them @recurring(quarterly)"
-            - name: Personal transactions cleared from the business ledger
+                - "Export the last twelve months of payments grouped by payee"
+                - "Pick the thirty payees that appear most often"
+                - "Write the account, tax code and tag beside each payee"
+                - "Send the draft guide to your accountant for corrections"
+                - "Update the guide when a new regular supplier appears @recurring(quarterly)"
+            - name: Uncategorised and suspense account cleared
               description: |-
                 ## Purpose
-                Personal spending, such as a supermarket shop or a streaming subscription, paid from the business account and coded as an expense overstates costs and can create a tax problem if it is claimed. Finding each one and recording it as drawings, or against the director's loan account for a company, makes the profit figure honest.
+                Uncategorised expense, suspense and ask-my-accountant accounts are where hard transactions go to hide, and a balance of a few thousand there makes the profit figure meaningless. Clearing them to zero, and keeping them there, is the fastest way to make the ledger trustworthy again.
 
                 ## Milestones
-                1. Every transaction in the current year reviewed for personal spending.
-                2. Personal items recoded to drawings or the director's loan account, as the accountant advises for your business type.
-                3. A year-to-date total of personal spending through the business known.
-                4. Personal subscriptions and cards moved off the business account where possible.
+                1. The current balance and number of lines in each holding account written down.
+                2. Every line traced to a source document or a bank statement narrative.
+                3. Lines recoded to their proper accounts, with unresolved items listed for the accountant.
+                4. Each holding account at zero at the end of the month.
 
                 ## Notes
-                For a limited company, an overdrawn director's loan account can have tax consequences. Show the total to your accountant rather than deciding the treatment yourself.
+                A holding account is fine for a week. If an item has been there for more than a month, it needs a question, not more waiting.
+              priority: high
+              deadlineOffsetDays: 14
+              frontmatter:
+                mode: operating
+                output_kind: deliverable
+                success_criteria: "Every uncategorised, suspense and query account shows a zero balance on the last day of the month, with any open questions logged."
+                cadence: one-shot
+                effort_hours_estimate: "6"
+              tasks:
+                - "Run a report of every line sitting in uncategorised or suspense accounts"
+                - "Sort the lines by amount and work the ten largest first"
+                - "Recode each line once its document or purpose is found"
+                - "Clear the holding accounts back to zero @recurring(monthly:5)"
+            - name: Sales tax codes on every transaction
+              description: |-
+                ## Purpose
+                Tax codes on purchases and sales drive the sales tax or VAT return, so a wrong code on a single large bill can overstate or understate what is owed for the whole period. Setting the right default code on each account and supplier, and knowing when to override it, means the return builds itself from the coding.
+
+                ## Milestones
+                1. The tax codes your software offers listed with what each one is for.
+                2. A default tax code set on each income and expense account.
+                3. Exceptions noted for exempt, zero-rated, out-of-scope and partly claimable items.
+                4. Last quarter's transactions checked against the defaults and wrong codes corrected.
+
+                ## Notes
+                Which rate applies, and what is claimable, is a question for your accountant or the tax authority's guidance. This project is about applying the answer consistently. Filing the return lives in its own area.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
                 mode: building
-                output_kind: deliverable
-                success_criteria: "Every personal transaction in the current year is recoded to drawings or the director's loan account, with a year-to-date total noted for the accountant."
-                cadence: one-shot
-                effort_hours_estimate: "4"
-              tasks:
-                - "Filter the year's spending for supermarkets, entertainment and subscriptions"
-                - "Ask the accountant which account personal spending should go to"
-                - "Recode each personal item and add a short note"
-                - "Move personal subscriptions over to a personal card"
-            - name: Uncategorised transactions backlog cleared
-              description: |-
-                ## Purpose
-                Bank feeds keep importing whether or not anyone codes them, and a backlog of a few hundred unexplained lines makes every report meaningless. Working through it oldest first, in fixed sittings and largest amounts first, gets the ledger back to a state the weekly routine can keep.
-
-                ## Milestones
-                1. The number and value of uncoded transactions counted by month.
-                2. Every item over a chosen value coded or set aside with a question.
-                3. All remaining items coded, matched or moved to the queries list.
-                4. No uncoded transaction older than one week left in the feed.
-              priority: high
-              deadlineOffsetDays: 21
-              frontmatter:
-                mode: building
-                output_kind: deliverable
-                success_criteria: "The bank feed shows no uncoded transactions older than one week, and every unresolved item sits on a dated queries list."
-                cadence: one-shot
-                effort_hours_estimate: "8"
-              tasks:
-                - "Count uncoded transactions and their total value for each month"
-                - "Block two ninety-minute sittings this week for the oldest month"
-                - "Code everything over your threshold value first"
-                - "Move anything you cannot explain to the queries list with a date"
-            - name: Supplier default accounts and tax codes
-              description: |-
-                ## Purpose
-                Accounting software can remember a default account and tax code for each supplier contact, so bills and bank lines from that supplier arrive half coded. Setting defaults for the regular suppliers removes a decision from hundreds of transactions a year and stops a fuel bill landing in office costs.
-
-                ## Milestones
-                1. Duplicate supplier contacts merged so each supplier exists once.
-                2. A default account and tax code set for every supplier used more than twice a year.
-                3. Suppliers whose bills need splitting across accounts flagged rather than given a default.
-                4. New supplier contacts created with defaults from now on.
-              priority: medium
-              frontmatter:
-                mode: building
                 output_kind: artifact
-                success_criteria: "Every supplier used more than twice in the past year has one contact record with a default account and tax code set."
+                success_criteria: "Every income and expense account has a default tax code, and a check of last quarter finds no line with a missing or contradictory code."
                 cadence: one-shot
-                effort_hours_estimate: "3"
+                effort_hours_estimate: "5"
               tasks:
-                - "Run a supplier list sorted by number of transactions"
-                - "Merge duplicate contacts for the same supplier"
-                - "Set a default account and tax code on each regular supplier"
-                - "Flag suppliers whose bills need splitting across accounts"
-            - name: Catch-up plan for unrecorded months
+                - "Print the list of tax codes set up in your accounting software"
+                - "Ask your accountant which code applies to each of your main costs"
+                - "Set default tax codes on accounts and regular suppliers"
+                - "Run last quarter's transactions by tax code and fix the outliers"
+            - name: Bookkeeping backlog catch-up plan
               description: |-
                 ## Purpose
-                Owners who fall six or twelve months behind often stall because the task looks endless and the tax deadline keeps getting closer. A catch-up plan that gathers statements first, then codes month by month in order, turns the backlog into a dated sequence with a finish line before the accountant needs the books.
+                Months of uncoded bank lines feel impossible to start, so they keep growing until a tax deadline forces a rushed and expensive fix. Breaking the backlog into one month at a time, oldest first, with the documents gathered before coding begins, turns it into a few focused weekends rather than one panic.
 
                 ## Milestones
-                1. Statements for every bank, card and loan account obtained for the missing months.
-                2. A month-by-month plan with a target date for each block of three months.
-                3. Each month coded and its closing balance agreed to the statement.
-                4. The books current to last month, with the accountant told they are ready.
+                1. The number of uncoded months and lines counted for every bank account and card.
+                2. Statements and documents for each backlog month gathered in one place.
+                3. Months coded oldest first, each one ticked off when its holding accounts are clear.
+                4. The ledger current to last week and the weekly session taking over from there.
 
                 ## Notes
-                Ask the accountant whether they would rather receive the statements and receipts and catch up for a fee. For a very long gap that can cost less than your hours.
+                Code the easy, repetitive lines with bank rules first. They are often seventy per cent of the backlog and they shrink the problem fast.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
                 mode: building
                 output_kind: deliverable
-                success_criteria: "Every month up to the last complete one is coded and its closing balance agrees to the bank statement, finished by the planned date."
+                success_criteria: "All bank and card accounts are coded up to the last seven days, with a dated note of which months the catch-up covered."
                 cadence: phased
                 effort_hours_estimate: "20"
               tasks:
-                - "List the months with no coding and the accounts involved"
-                - "Download statements for every missing month"
-                - "Set a target date for each block of three months"
-                - "Agree each finished month's closing balance to its statement"
-            - name: Receipt capture inbox and folder setup
+                - "Count the uncoded lines on every bank and card feed"
+                - "Download any missing statements for the backlog months"
+                - "Ask the agent to group the backlog by payee so bank rules can clear the repeats"
+                - "Block two half days a week in the calendar until the backlog is clear"
+                - "Tick off each month on a list as it reaches zero uncoded lines"
+            - name: Owner's drawings and loan account set up
               description: |-
                 ## Purpose
-                Receipts that live in jacket pockets, three email accounts and a car door are the main reason costs go unrecorded or cannot be proved. One forwarding address for emailed bills, one capture method for paper receipts and a naming rule for files gives every document a single place to land.
+                Owners pay business costs from personal cards, take money out and put money in, and coding those as expenses or income distorts both profit and the owner's tax position. A clear owner account, drawings for a sole trader or a director's loan account for a company, gives every one of those movements a correct home.
 
                 ## Milestones
-                1. One email address or software inbox chosen for all supplier bills and receipts.
-                2. Regular suppliers sending their bills to that address.
-                3. A phone capture method set up for paper receipts.
-                4. A file naming rule written down, such as date, supplier and amount.
+                1. The right owner account type for your business structure confirmed with your accountant.
+                2. The account set up in the chart with a clear name and description.
+                3. Last year's owner transfers and owner-paid expenses moved to it.
+                4. The running balance known, with your accountant's view on any limits or tax effects.
 
                 ## Notes
-                Check what your tax authority accepts as a valid digital copy before throwing paper receipts away.
-              priority: medium
-              frontmatter:
-                mode: building
-                output_kind: artifact
-                success_criteria: "All supplier bills arrive at one inbox, paper receipts are photographed into one place, and a naming rule is written down."
-                cadence: one-shot
-                effort_hours_estimate: "2"
-              tasks:
-                - "Set up one forwarding address for bills and receipts"
-                - "Change the billing email on your ten most regular supplier accounts"
-                - "Install a receipt capture method on your phone"
-                - "Write the file naming rule at the top of the receipts folder"
-            - name: Every business account represented in the ledger
-              description: |-
-                ## Purpose
-                Forgotten savings accounts, payment app wallets and cards used once for an online order leave money moving that the books never see. Listing every account that holds or spends business money, and making sure each has a matching account in the ledger, closes the gap where transactions go missing entirely.
-
-                ## Milestones
-                1. A list of every bank, card, loan, payment app and cash float used by the business.
-                2. Each one matched to an account in the ledger, with missing ones added.
-                3. Start dates and opening balances recorded for newly added accounts.
-                4. Closed or unused accounts marked inactive in the ledger.
-              priority: medium
-              frontmatter:
-                mode: building
-                output_kind: artifact
-                success_criteria: "Every account that holds or spends business money appears in the ledger with a balance that matches its latest statement."
-                cadence: one-shot
-                effort_hours_estimate: "2"
-              tasks:
-                - "List every account, card, wallet and cash float the business uses"
-                - "Tick off each one that already exists in the ledger"
-                - "Add missing accounts with their start date and opening balance"
-                - "Mark closed accounts inactive so nobody codes to them"
-            - name: Weekly bookkeeping session
-              description: |-
-                ## Purpose
-                Coding a week of transactions takes twenty minutes while the details are fresh; coding three months takes a weekend of guessing. A fixed slot each week to code the bank feed, check attachments and note questions is the single habit that keeps the ledger accurate week to week.
-
-                ## Milestones
-                1. A fixed weekly slot of thirty to sixty minutes in the calendar.
-                2. A five-step checklist for the session written and followed.
-                3. Eight consecutive weekly sessions completed.
-                4. The bank feed never more than seven days behind.
-
-                ## Notes
-                Start from the **Operational checklist** template. Friday suits many owners because the week's receipts are still at hand.
+                In a company, an overdrawn director's loan can have tax consequences in many countries. Ask your accountant before the year end, not after.
               priority: high
               frontmatter:
-                mode: operating
-                output_kind: habit
-                success_criteria: "Eight consecutive weekly sessions are logged and the bank feed has no uncoded line older than seven days."
-                cadence: rolling
-              tasks:
-                - "Book a recurring weekly bookkeeping slot in your calendar"
-                - "Write a five-step checklist for the session"
-                - "Code the week's bank and card transactions against the coding guide @recurring(weekly:fri)"
-                - "Note any transaction you could not code on the queries list"
-            - name: Receipt upload and matching routine
-              description: |-
-                ## Purpose
-                Receipts captured but never attached leave the ledger with entries nobody can prove, which matters when the accountant or the tax authority asks. Uploading the week's paper and email receipts and matching each to its bank line, the day before the coding session, means every expense carries its evidence.
-
-                ## Milestones
-                1. Paper receipts photographed and emailed bills forwarded within a week of the spend.
-                2. Each receipt matched to its bank or card transaction.
-                3. Unmatched receipts checked for spending on a card missing from the ledger.
-                4. At least nine in ten expense transactions carrying an attachment.
-              priority: medium
-              frontmatter:
-                mode: operating
-                output_kind: habit
-                success_criteria: "For three consecutive months, at least 90 percent of expense transactions have a receipt or bill attached."
-                cadence: rolling
-              tasks:
-                - "Photograph the paper receipts in your wallet and bag today"
-                - "Upload and match the week's receipts to their bank lines @recurring(weekly:thu)"
-                - "Investigate any receipt that has no matching transaction"
-                - "Check the attachment rate for last month's expenses @recurring(monthly:3)"
-            - name: Monthly bank rule review
-              description: |-
-                ## Purpose
-                Bank rules that code transactions automatically save time until a supplier changes what it sells or a rule catches more than it should, and then they mis-code silently for months. A short monthly check of what each rule coded keeps the automation honest.
-
-                ## Milestones
-                1. A list of every active bank rule with what it matches and where it codes.
-                2. Last month's rule-coded transactions checked for wrong matches.
-                3. Rules that caught the wrong items narrowed or deleted.
-                4. A dated note of each rule change and why it was made.
-              priority: medium
-              frontmatter:
-                mode: operating
-                output_kind: habit
-                success_criteria: "Each month's rule-coded transactions are checked and every rule change is noted with a date and reason for six months running."
-                cadence: rolling
-              tasks:
-                - "Export the list of active bank rules"
-                - "Review last month's rule-coded transactions for wrong matches @recurring(monthly:9)"
-                - "Tighten or delete any rule that coded something wrongly"
-                - "Record each rule change in the bookkeeping notes"
-            - name: Suspense and clearing account sweep
-              description: |-
-                ## Purpose
-                Suspense, clearing and 'ask my accountant' accounts are useful parking places that turn into hiding places when nobody empties them. Clearing them every month, and treating any item older than thirty days as a problem, stops unexplained money building up until year-end.
-
-                ## Milestones
-                1. Every suspense or clearing account in the ledger identified.
-                2. Each item in them listed with date, amount and what is known.
-                3. Items moved to the right account once explained.
-                4. No item older than thirty days left in suspense at month-end.
-              priority: medium
-              frontmatter:
-                mode: operating
-                output_kind: habit
-                success_criteria: "At each month-end for six months, the suspense and clearing accounts hold no item older than thirty days."
-                cadence: rolling
-              tasks:
-                - "Run a report of every item in suspense and clearing accounts"
-                - "Clear explained items to their correct accounts @recurring(monthly:14)"
-                - "Add unexplained items older than thirty days to the queries list"
-                - "Ask the supplier or bank for documents on the oldest unknown item"
-            - name: Monthly coding spot check of twenty transactions
-              description: |-
-                ## Purpose
-                Coding mistakes rarely show in totals, so they survive until a margin looks odd or the accountant asks. Picking twenty random transactions each month and checking the account, tax code, date and attachment gives an error rate you can track and shows which kind of transaction keeps going wrong.
-
-                ## Milestones
-                1. A method for picking twenty transactions at random each month.
-                2. Each sample checked for account, tax code, date and attachment.
-                3. Errors fixed and the month's error rate logged.
-                4. The two most common error types turned into rules in the coding guide.
-
-                ## Notes
-                Start from the **Metrics log** template to keep the monthly error rate in one place.
-              priority: medium
-              frontmatter:
-                mode: operating
-                output_kind: habit
-                success_criteria: "Six monthly samples of twenty transactions are checked, with the error rate logged each month and held below 5 percent or falling."
-                cadence: rolling
-              tasks:
-                - "Create a metrics log for the monthly coding error rate"
-                - "Check twenty random transactions for account, tax code and attachment @recurring(monthly:22)"
-                - "Fix each error found and record its type"
-                - "Add a rule to the coding guide for any error seen twice"
-            - name: Cash takings and petty cash record
-              description: |-
-                ## Purpose
-                Cash is the hardest money to prove: takings that are never banked and petty cash spent without a slip vanish from the books. A weekly cash sheet, counted and signed, and a float topped up only against receipts, keeps cash in the ledger like any other account.
-
-                ## Milestones
-                1. A cash sheet with date, sales, cash banked and cash kept.
-                2. A fixed petty cash float with a slip or receipt for every payment from it.
-                3. The cash count recorded and entered in the ledger each week.
-                4. Any difference between counted and recorded cash investigated within the week.
-              priority: medium
-              frontmatter:
-                mode: operating
-                output_kind: habit
-                success_criteria: "For eight consecutive weeks the cash count is recorded, entered in the ledger and any difference explained in writing."
-                cadence: rolling
-              tasks:
-                - "Set a fixed petty cash float amount and write it on the tin"
-                - "Start a cash sheet with columns for sales, banked and kept"
-                - "Count the cash, record the total and post it to the ledger @recurring(weekly:sat)"
-                - "Top up the float only against receipts for what was spent"
-            - name: Loan repayments split into interest and capital
-              description: |-
-                ## Purpose
-                Coding a whole loan or hire purchase repayment as an expense overstates costs and leaves the loan balance in the books higher than the lender's. Splitting each payment into interest, fees and capital from the lender's statement keeps both the profit figure and the liability correct.
-
-                ## Milestones
-                1. Every loan, hire purchase and finance agreement listed with its latest lender statement.
-                2. Each repayment split between interest, fees and capital.
-                3. The ledger balance for each loan agreed to the lender statement.
-                4. A repayment schedule saved for each agreement where the lender provides one.
-
-                ## Notes
-                Leases can have their own accounting rules. Ask your accountant how to record them rather than treating every lease as a loan.
-              priority: medium
-              frontmatter:
-                mode: operating
-                output_kind: habit
-                success_criteria: "Each month's loan repayments are split into interest and capital, and every ledger loan balance matches the lender's latest statement."
-                cadence: rolling
-              tasks:
-                - "Gather the latest statement for every loan and finance agreement"
-                - "Ask each lender for a repayment schedule if you do not have one"
-                - "Split the month's repayments into interest and capital @recurring(monthly:5)"
-                - "Compare each loan balance in the ledger with the lender's statement @recurring(quarterly)"
-            - name: Owner money in and out log
-              description: |-
-                ## Purpose
-                When an owner tops up the account from savings or takes money out between salary runs, the ledger must record it as capital, drawings or a director's loan, never as income or an expense. A running log, coded the same day the money moves, keeps what the business owes you, or you owe it, clear for year-end.
-
-                ## Milestones
-                1. Accounts for owner contributions and for drawings or the director's loan in use.
-                2. Every owner transfer for the current year coded to them.
-                3. A running balance of what the business owes the owner, or the reverse.
-                4. The balance shared with the accountant each quarter.
-              priority: medium
-              frontmatter:
-                mode: operating
-                output_kind: habit
-                success_criteria: "Every owner transfer this year is coded to capital, drawings or the director's loan, with a running balance the accountant has seen."
-                cadence: rolling
-              tasks:
-                - "Find every transfer between your personal and business accounts this year"
-                - "Code each one to capital, drawings or the director's loan account"
-                - "Update the running owner balance @recurring(monthly:26)"
-                - "Send the owner balance to your accountant at each quarter end"
-            - name: Quarterly duplicate and stale entry sweep
-              description: |-
-                ## Purpose
-                Bills entered by hand and then imported again, payments matched to the wrong invoice and bills showing as unpaid long after they were settled all distort the books. A quarterly sweep for duplicates, old open items and odd balances catches them while the documents can still be found.
-
-                ## Milestones
-                1. A duplicate check run on bills, receipts and bank entries by amount and date.
-                2. Bills and invoices open for more than ninety days checked against payments.
-                3. Accounts showing a balance on the unexpected side, such as a debit on a supplier, explained.
-                4. All findings fixed or put on the queries list.
-              priority: low
-              frontmatter:
-                mode: operating
-                output_kind: habit
-                success_criteria: "Each quarter a duplicate and stale item check is completed and every finding is fixed or listed, for four quarters running."
-                cadence: cyclic
-              tasks:
-                - "Run a report of transactions sharing the same amount and date"
-                - "List open bills and invoices older than ninety days"
-                - "Explain any account showing a balance on the unexpected side"
-                - "Repeat the sweep in the first week of each quarter @recurring(quarterly)"
-            - name: Records retention and filing routine
-              description: |-
-                ## Purpose
-                Tax authorities in many countries can ask for business records going back five, six or more years, and a folder of unnamed photos is little help when they do. A filing structure by year and month, with a retention period confirmed by your accountant, means any record can be found in minutes and old ones are only deleted when it is safe.
-
-                ## Milestones
-                1. The retention period that applies to your business confirmed with your accountant.
-                2. A folder structure by financial year and month for documents kept outside the software.
-                3. Last year's records checked as complete and backed up.
-                4. Each closed year archived and backed up in two places.
-              priority: low
-              frontmatter:
-                mode: operating
-                output_kind: habit
-                success_criteria: "Records for each financial year are filed by month, backed up in two places, and kept for the retention period the accountant confirmed."
-                cadence: cyclic
-              tasks:
-                - "Ask your accountant how long your business records must be kept"
-                - "Create a folder for each financial year with monthly subfolders"
-                - "Back up the documents folder to a second location"
-                - "Archive and back up the closed financial year @recurring(yearly)"
-            - name: Double-entry basics for owners
-              description: |-
-                ## Purpose
-                Software hides the debits and credits, but when something goes wrong, such as a loan showing as income or a bank balance turning negative, the fix only makes sense once you know every entry has two sides. An afternoon on double entry, using your own transactions as examples, makes the reports readable and the accountant's adjustments understandable.
-
-                ## Milestones
-                1. The rule that every transaction changes at least two accounts explained in your own words.
-                2. Ten of your own transactions written out as debits and credits.
-                3. Your accounts sorted into profit and loss accounts and balance sheet accounts.
-                4. One journal from the accountant read and explained without help.
-
-                ## Notes
-                Start from the **Course** template if you follow a structured beginner course.
-              priority: medium
-              frontmatter:
-                mode: learning
-                output_kind: knowledge
-                success_criteria: "Ten real transactions from your own books are written out correctly as debits and credits and checked by your accountant or a course answer sheet."
-                cadence: one-shot
-                effort_hours_estimate: "4"
-              tasks:
-                - "Choose a short beginner bookkeeping course or guide"
-                - "Write ten of last month's transactions as debits and credits"
-                - "Sort your accounts into profit and loss and balance sheet lists"
-                - "Ask your accountant to check your ten examples"
-            - name: Reading an account transactions report
-              description: |-
-                ## Purpose
-                When a number on the profit and loss looks wrong, the account transactions report shows every line behind it, and reading it well is how you find a mis-coded bill in two minutes. Learning to filter it by account, date and contact turns 'that looks high' into a specific correction.
-
-                ## Milestones
-                1. The general ledger or account transactions report found in your software.
-                2. The report filtered by account, date range and contact.
-                3. One unexpected profit and loss figure traced to the lines behind it.
-                4. A saved version of the report ready for monthly use.
-              priority: low
-              frontmatter:
-                mode: learning
-                output_kind: knowledge
-                success_criteria: "One unusual profit and loss figure has been traced through the account transactions report to its source lines, and the report layout is saved."
-                cadence: one-shot
-                effort_hours_estimate: "2"
-              tasks:
-                - "Open the general ledger or account transactions report"
-                - "Filter it for one expense account over the last quarter"
-                - "Trace the largest line back to its source document"
-                - "Save the report layout for monthly checks"
-            - name: Capital or expense coding test
-              description: |-
-                ## Purpose
-                A laptop, a van or a shop fit-out is usually recorded as an asset and written off over time, while a printer cartridge goes straight to expenses, and the line between them changes both profit and tax. Agreeing a value threshold and a few test questions with your accountant gives you a rule to apply whenever a large purchase lands in the feed.
-
-                ## Milestones
-                1. A capitalisation threshold agreed with your accountant.
-                2. Three or four test questions written, such as whether the item lasts more than a year.
-                3. This year's purchases above the threshold reviewed and recoded where needed.
-                4. The rule added to the coding guide.
-
-                ## Notes
-                Capital allowances and depreciation rules vary by country. Record the purchase correctly and leave the tax treatment to your accountant.
-              priority: medium
-              frontmatter:
-                mode: learning
-                output_kind: decision
-                success_criteria: "A capitalisation threshold and test questions are written in the coding guide, and every purchase above the threshold this year is coded by them."
-                cadence: one-shot
-                effort_hours_estimate: "2"
-              tasks:
-                - "Ask your accountant what value threshold to use for capital items"
-                - "Write three test questions for deciding asset or expense"
-                - "Review this year's purchases above the threshold"
-                - "Recode any asset that went to expenses, with a note"
-            - name: Mixed-use and partly private costs
-              description: |-
-                ## Purpose
-                A phone used for work and family, a car that does school runs and client visits, a home office taking a share of the electricity: these are the costs freelancers and small owners code wrongly most often. Agreeing a method and a business percentage with your accountant, and keeping the evidence for it, makes each claim consistent and defensible.
-
-                ## Milestones
-                1. Every mixed-use cost listed with how it is paid.
-                2. A business-use method and percentage agreed with the accountant for each.
-                3. Evidence such as a mileage log or a usage estimate kept on file.
-                4. Mixed-use bills coded the same way every month.
-
-                ## Notes
-                Rules on home office, vehicle and phone costs differ by country and business type. The percentage is your accountant's call; the record is yours.
-              priority: medium
-              frontmatter:
-                mode: research
-                output_kind: decision
-                success_criteria: "Each mixed-use cost has an agreed business percentage and evidence on file, and the last three months of those bills are coded to it."
-                cadence: one-shot
-                effort_hours_estimate: "3"
-              tasks:
-                - "List every cost you use for both business and private life"
-                - "Ask your accountant how each one should be split"
-                - "Start a mileage log if a vehicle is used for both"
-                - "Code the last three months of mixed-use bills using the agreed split"
-            - name: Tax codes on purchases and sales
-              description: |-
-                ## Purpose
-                Standard rated, reduced, zero rated, exempt, outside the scope and reverse charge can look alike on a bill but land in different boxes of a sales tax return. Knowing what each code in your software means and when it applies stops the return being wrong before the filing work even starts.
-
-                ## Milestones
-                1. A list of the tax codes in your software with a plain description of each.
-                2. The codes that apply to your usual sales and purchases identified.
-                3. Three tricky cases, such as overseas software or a supplier who is not registered, worked through.
-                4. Any uncertain case confirmed with the accountant.
-
-                ## Notes
-                Registering for, calculating and filing the return is separate work. The aim here is the right code on every line.
-              priority: medium
-              frontmatter:
-                mode: learning
-                output_kind: knowledge
-                success_criteria: "A written list explains every tax code your business uses, with three worked examples confirmed by your accountant."
-                cadence: one-shot
-                effort_hours_estimate: "3"
-              tasks:
-                - "Export the list of tax codes from your software"
-                - "Write a one-line explanation beside each code you use"
-                - "Work through three tricky cases from recent bills"
-                - "Confirm the uncertain cases with your accountant"
-            - name: Writing a manual journal correctly
-              description: |-
-                ## Purpose
-                Manual journals fix what the bank feed cannot, such as moving a cost to the right account or recording a non-cash adjustment, and they are also where most bookkeeping damage is done. Learning to write one with a clear narration, a supporting document and a reversing date when needed means corrections leave a trail the accountant can follow.
-
-                ## Milestones
-                1. The parts of a journal understood: date, accounts, debits, credits, narration and attachment.
-                2. Two practice journals posted in a demo company.
-                3. A rule that every journal carries a narration and a document.
-                4. Your first live correcting journal reviewed by your accountant.
-              priority: medium
-              frontmatter:
-                mode: learning
-                output_kind: knowledge
-                success_criteria: "A live correcting journal with narration and attached evidence has been posted and reviewed by your accountant without changes."
-                cadence: one-shot
-                effort_hours_estimate: "3"
-              tasks:
-                - "Open the demo company in your software, or ask whether one exists"
-                - "Post two practice journals that move a cost between accounts"
-                - "Write a one-line narration rule for every journal"
-                - "Ask the accountant to review your first live journal"
-            - name: Refunds, credit notes and chargebacks
-              description: |-
-                ## Purpose
-                Refunds coded as new income, or supplier credit notes entered as fresh bills, double up figures that should cancel out. Learning how your software expects refunds, credit notes and card chargebacks to be recorded, and against which original transaction, keeps sales and costs at their true net figures.
-
-                ## Milestones
-                1. The steps for recording a customer refund in your software written down.
-                2. The steps for a supplier credit note and a refund from a supplier written down.
-                3. Card chargebacks and their fees recorded against the original sale.
-                4. Last quarter's refunds checked and recoded where they were entered as new income or new bills.
-              priority: medium
-              frontmatter:
-                mode: learning
-                output_kind: knowledge
-                success_criteria: "Written steps for refunds, credit notes and chargebacks exist, and last quarter's refunds are recorded against their original transactions."
-                cadence: one-shot
-                effort_hours_estimate: "3"
-              tasks:
-                - "Find last quarter's refunds and credit notes in the bank feed"
-                - "Write the steps your software uses for each type"
-                - "Recode any refund entered as new income or a new bill"
-                - "Link each refund to its original invoice or bill"
-            - name: Foreign currency transactions at the right rate
-              description: |-
-                ## Purpose
-                Any bill in dollars paid from a euro account, or a sale received in another currency, needs recording at a rate your software and accountant agree on, and the small difference when it is paid is a gain or loss rather than a mystery. Understanding how your software handles currency stops overseas transactions becoming permanent unexplained differences.
-
-                ## Milestones
-                1. The software's multi-currency setting and exchange rate source understood.
-                2. Foreign currency bills and invoices recorded in their own currency, not converted by hand.
-                3. Bank conversion fees and exchange differences coded to their own accounts.
-                4. The approach checked with your accountant.
-              priority: low
-              frontmatter:
-                mode: learning
-                output_kind: knowledge
-                success_criteria: "Every foreign currency transaction last quarter is recorded in its original currency, with fees and exchange differences on their own accounts."
-                cadence: one-shot
-                effort_hours_estimate: "3"
-              tasks:
-                - "Check whether multi-currency is switched on in your software"
-                - "List last quarter's transactions in other currencies"
-                - "Re-enter any bill converted by hand in its original currency"
-                - "Code bank conversion fees to bank charges, not cost of sales"
-            - name: Money in that is not income
-              description: |-
-                ## Purpose
-                Loans, owner top-ups, customer deposits, refunds from suppliers, insurance pay-outs and grants all arrive in the bank and look like sales to a hurried coder. Learning to spot each type and code it correctly stops profit, and any tax worked out from it, being overstated.
-
-                ## Milestones
-                1. A list of the non-sales receipts your business gets.
-                2. The account for each type agreed with the accountant.
-                3. This year's receipts checked and any wrongly coded as sales corrected.
-                4. The rules added to the coding guide.
-
-                ## Notes
-                Grants and insurance pay-outs can have their own accounting and tax treatment. Ask before coding a large one.
-              priority: high
-              frontmatter:
-                mode: learning
-                output_kind: knowledge
-                success_criteria: "Every non-sales receipt this year is coded away from sales, and the coding guide lists the account for each type."
-                cadence: one-shot
-                effort_hours_estimate: "2"
-              tasks:
-                - "Filter this year's money in for anything that was not a customer payment"
-                - "Ask your accountant which account each type belongs to"
-                - "Recode loans, deposits and owner money sitting in sales"
-                - "Add the non-income rules to the coding guide"
-            - name: Bank rules for the twenty most frequent payees
-              description: |-
-                ## Purpose
-                Twenty payees often make up most of the lines in a bank feed: the phone company, software subscriptions, the fuel card, the card reader. Writing a rule for each, narrow enough to avoid catching anything else, can halve weekly coding time without giving up control.
-
-                ## Milestones
-                1. The twenty payees with the most transactions in the last six months listed.
-                2. A rule written for each, matching on payee and, where useful, an amount range.
-                3. Each rule tested against last month's transactions before it goes live.
-                4. Weekly coding time measured before and after.
-              priority: medium
-              frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "At least twenty bank rules are live, each tested against a month of transactions, and weekly coding time has been measured before and after."
+                success_criteria: "All owner transfers and owner-paid business costs for the past year sit in one owner account whose balance has been shown to the accountant."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "List the twenty payees with the most transactions"
-                - "Write a rule for each one matching on payee name"
-                - "Test every rule against last month's transactions"
-                - "Time one weekly session before and after the rules go live"
-            - name: Missing receipts recovery drive
+                - "Ask your accountant whether you need a drawings or a director's loan account"
+                - "Create the owner account with a description of what belongs in it"
+                - "Find every owner transfer in the last year and recode it"
+                - "List business costs you paid personally, with receipts, and post them to the owner account"
+            - name: Grey-area coding questions agreed with the accountant
               description: |-
                 ## Purpose
-                Losing a third of a year's receipts is common, and most can still be recovered from supplier portals, email searches and card statements. Chasing them in one organised push, largest first, closes the gap before the year-end pack goes to the accountant.
+                Grey-area spend such as a phone used partly for personal calls, a team lunch, training or a gift to a client gets coded differently every time until someone decides. One meeting with your accountant to settle your ten most common grey areas, with the answers written into the coding guide, removes most of the hesitation from weekly coding.
 
                 ## Milestones
-                1. A list of expense transactions over a chosen value with no attachment.
-                2. Supplier portals and email searched for copies of the missing documents.
-                3. Suppliers asked for copies of anything still missing.
-                4. A short written explanation attached to each item that cannot be recovered.
-
-                ## Notes
-                Some tax authorities accept other evidence when a receipt is lost. Ask your accountant what will do before writing explanations.
+                1. A list of ten recurring transactions you were unsure how to code.
+                2. Each one discussed with your accountant and an answer recorded.
+                3. The answers added to the coding guide with the date they were agreed.
+                4. Past transactions of those types checked and recoded where needed.
               priority: medium
               deadlineOffsetDays: 45
               frontmatter:
-                mode: building
-                output_kind: deliverable
-                success_criteria: "Every expense over your chosen value this year has a document or a written explanation attached."
-                cadence: one-shot
-                effort_hours_estimate: "6"
-              tasks:
-                - "Run a list of expenses with no attachment, largest first"
-                - "Download copies from supplier account portals"
-                - "Email suppliers for copies of anything still missing"
-                - "Ask the agent to draft a short explanation for each unrecoverable item"
-            - name: Error correction method agreed with the accountant
-              description: |-
-                ## Purpose
-                Deleting and re-entering a transaction in a period the accountant has already used changes figures they have filed, and the difference reappears next year as an unexplained adjustment. Agreeing how corrections are made, in which period and with what narration, protects filed figures and saves hours of rework.
-
-                ## Milestones
-                1. The accountant's preference for correcting errors in open and closed periods written down.
-                2. A rule for when to edit a transaction and when to post a correcting journal.
-                3. A short narration format for every correction.
-                4. The method saved in the bookkeeping notes.
-              priority: medium
-              frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A written correction method, agreed by email with the accountant, sets out when to edit and when to journal in open and closed periods."
+                success_criteria: "Ten grey-area spending types each have a written, dated coding answer from the accountant in the coding guide."
                 cadence: one-shot
-                effort_hours_estimate: "1"
+                effort_hours_estimate: "3"
               tasks:
-                - "Ask the accountant how they want errors in closed periods corrected"
-                - "Write a rule for editing versus posting a correcting journal"
-                - "Set a narration format for every correction"
-                - "Save the agreed method in the bookkeeping notes"
-            - name: Lock date and edit permissions
+                - "Note every transaction that made you hesitate during the next two coding sessions"
+                - "Narrow the list to the ten that come up most often"
+                - "Book a short call with your accountant to go through the list"
+                - "Write each answer into the coding guide with the date"
+            - name: Weekly bank feed coding session
               description: |-
                 ## Purpose
-                Without a lock date, anyone with access can change last year's figures by accident, for example by matching an old payment to a new invoice. Setting a lock date after each period the accountant has used, and limiting who can post journals, keeps filed figures fixed while everyday coding carries on.
+                Twenty minutes a week keeps the ledger current and memories fresh, while a month left uncoded takes three hours and a lot of guessing. A fixed weekly slot to code every bank and card line, attach documents and park questions is the habit everything else in bookkeeping depends on.
 
                 ## Milestones
-                1. Everyone with access to the books listed with their permission level.
-                2. Journal and lock date permissions limited to one or two people.
-                3. A lock date set at the last period the accountant signed off.
-                4. A rule for moving the lock date forward after each filing.
+                1. A fixed weekly slot in the calendar that survives busy weeks.
+                2. A written checklist of the accounts to work through and the order.
+                3. Every feed showing zero uncoded lines at the end of each session.
+                4. Questions parked in one list rather than left as uncoded lines.
+
+                ## Notes
+                Start from the **Operational checklist** template. Coding is not reconciling: matching balances to statements is its own routine.
+              priority: high
+              frontmatter:
+                mode: operating
+                output_kind: habit
+                success_criteria: "For eight weeks in a row every bank and card feed is at zero uncoded lines after the weekly session."
+                cadence: rolling
+              tasks:
+                - "Choose a weekly slot and add it to the calendar as a repeating block"
+                - "Write the session checklist from the operational checklist template"
+                - "Code every bank and card feed line to zero @recurring(weekly:fri)"
+                - "Move anything you cannot code into the queries list with a one-line note"
+            - name: Bank rules for repeat transactions
+              description: |-
+                ## Purpose
+                Bank rules turn the same rent, software subscription and card fee lines into one-click coding, but a rule written too broadly quietly miscodes everything that matches it. Building rules only for truly repeat payees, and reviewing them each quarter, gives the speed without the silent errors.
+
+                ## Milestones
+                1. Rules set up for every payee that appears at least monthly with the same coding.
+                2. Each rule matched on a specific payee text rather than a broad word.
+                3. Rules that need a human check set to suggest rather than auto-post.
+                4. A quarterly review that removes or narrows any rule that miscoded.
               priority: medium
               frontmatter:
-                mode: building
-                output_kind: decision
-                success_criteria: "A lock date is set at the last signed-off period, and only named people can post journals or move it."
-                cadence: one-shot
-                effort_hours_estimate: "1"
+                mode: operating
+                output_kind: habit
+                success_criteria: "Bank rules cover the monthly repeat payees, and the latest quarterly review found no rule that posted to the wrong account."
+                cadence: rolling
               tasks:
-                - "List everyone with access to the books and their permissions"
-                - "Remove journal permissions from anyone who does not need them"
-                - "Set the lock date to the last period the accountant signed off"
-                - "Move the lock date forward once each period is filed @recurring(quarterly)"
-            - name: Tracking tags applied at the point of coding
+                - "List payees that appear every month with the same account and tax code"
+                - "Create a rule for each one using the exact payee text"
+                - "Switch rules for variable payees to suggest-only"
+                - "Review what each bank rule posted last quarter and fix any that misfired @recurring(quarterly)"
+            - name: Receipt matching and missing receipt chase
               description: |-
                 ## Purpose
-                Classes, projects, locations or tracking categories only answer questions like 'which shop made money' if every transaction carries the tag, and tagging a year later is guesswork. Making the tag part of coding, with defaults on suppliers and a monthly check for untagged lines, keeps the split reports usable.
+                Receipts go missing in coat pockets, staff phones and supplier portals, and a line with no receipt is a cost you may not be able to claim. A weekly sweep that matches receipts to card lines and chases the gaps while the purchase is still remembered keeps the evidence complete.
 
                 ## Milestones
-                1. The tracking categories already set up in the software listed with what each answers.
-                2. Default tags set on suppliers and bank rules where one always applies.
-                3. The coding guide showing the tag for each common transaction.
-                4. Fewer than one in twenty transactions untagged each month.
+                1. Every card holder knows where to send receipts and by when.
+                2. Each week's card and bank lines matched to a receipt or invoice.
+                3. A short list of missing receipts chased within seven days.
+                4. Lines that cannot be evidenced marked and raised with the accountant.
+
+                ## Notes
+                Many suppliers will resend a receipt from their portal or by email if asked quickly. After three months, most will not.
+              priority: medium
+              frontmatter:
+                mode: operating
+                output_kind: habit
+                success_criteria: "At the end of each month, at least ninety-five per cent of card and bank lines over a small set amount have a document attached."
+                cadence: rolling
+              tasks:
+                - "Tell every card holder where receipts go and the weekly cut-off"
+                - "Chase receipts missing from last week's card spend @recurring(weekly:mon)"
+                - "Download invoices from supplier portals and attach them to their lines"
+                - "Mark lines with no evidence and add them to the queries list"
+            - name: Monthly miscoding scan of account totals
+              description: |-
+                ## Purpose
+                Miscodings rarely show up line by line but stand out at once when account totals are compared month to month: a sudden jump in repairs, a zero in rent, insurance in office supplies. A short monthly scan of the profit and loss by account against the prior month catches most coding errors before they reach a report.
+
+                ## Milestones
+                1. A saved report showing each account for this month beside the last three.
+                2. Every movement above a set amount or percentage explained or investigated.
+                3. Errors found and recoded in the same sitting.
+                4. A one-line note of what was found, kept with the month's records.
+              priority: high
+              frontmatter:
+                mode: operating
+                output_kind: habit
+                success_criteria: "Each month has a dated scan note, and every account movement above the agreed threshold has an explanation."
+                cadence: rolling
+              tasks:
+                - "Save a profit and loss report with this month beside the previous three"
+                - "Set a threshold for movements worth checking"
+                - "Compare this month's account totals with the last three months @recurring(monthly:8)"
+                - "Recode any line found in the wrong account and note the fix"
+            - name: Transfers between your own accounts
+              description: |-
+                ## Purpose
+                Moving money from the current account to savings, a card or a payment app shows up twice in the feeds, and coding either side as income or expense double counts it. Recording every internal move as a transfer, through a clearing account if the two sides land on different days, keeps profit untouched by money that never left the business.
+
+                ## Milestones
+                1. All business accounts, cards, savings pots and payment apps present in the ledger.
+                2. Internal moves recorded as transfers, not as income or expense.
+                3. A transfer clearing account used where the two sides land on different dates.
+                4. The clearing account checked each month and back to zero.
+              priority: medium
+              frontmatter:
+                mode: operating
+                output_kind: habit
+                success_criteria: "The transfer clearing account nets to zero at every month end, and no internal transfer appears in the profit and loss."
+                cadence: rolling
+              tasks:
+                - "List every account and pot money moves between"
+                - "Add any missing account to the ledger so both sides can be matched"
+                - "Recode past internal moves that were booked as income or expense"
+                - "Check the transfer clearing account nets to zero @recurring(monthly:12)"
+            - name: Petty cash book
+              description: |-
+                ## Purpose
+                Notes and coins spent on parking, postage and milk vanish from the records unless someone writes them down, and a tin that never matches its book invites suspicion. A simple petty cash book with a fixed float, a slip for every payment and a weekly count keeps cash spending coded and provable.
+
+                ## Milestones
+                1. A fixed float amount agreed and one person responsible for the tin.
+                2. Every payment recorded with date, purpose, amount and a receipt or slip.
+                3. Weekly counts that match the book, or a note of the difference.
+                4. Top-ups recorded as transfers from the bank, with spending coded to its accounts.
               priority: low
               frontmatter:
                 mode: operating
                 output_kind: habit
-                success_criteria: "For three consecutive months, fewer than 5 percent of income and expense transactions are missing a tracking tag."
+                success_criteria: "The petty cash count matches the book at each weekly check for a full month, with all spending coded."
                 cadence: rolling
               tasks:
-                - "List the tracking categories in use and what each answers"
-                - "Add default tags to suppliers and bank rules that always need one"
-                - "Add a tag column to the coding guide"
-                - "Run an untagged transactions report and fix the gaps @recurring(monthly:16)"
-            - name: Bookkeeping time audit and shortcuts
+                - "Agree the float amount and who holds the tin"
+                - "Set up a petty cash account in the ledger"
+                - "Count the tin and match it to the petty cash book @recurring(weekly:thu)"
+                - "Code the petty cash slips to their expense accounts at each top-up"
+            - name: Daily takings record for cash and card sales
               description: |-
                 ## Purpose
-                Owners who spend four hours a week on the books usually lose most of it in a few places: hunting for receipts, retyping bills, fixing broken feeds. Timing each step for two weeks shows where the hours go, so the slowest part can be automated, batched or handed off first.
+                Shops, stalls, salons and cafes that take cash and card at the counter need each day's takings recorded by payment type, or the bank deposits never line up with the sales. A daily takings sheet completed at closing, showing cash, card and any refunds, is the source document for every sales entry.
 
                 ## Milestones
-                1. Two weeks of bookkeeping time logged by task.
-                2. The three slowest steps named with their weekly time.
-                3. One change made to each, such as bill capture by email, a bank rule or a batch day.
-                4. Weekly time measured again a month later and compared.
-              priority: low
+                1. A takings sheet with columns for cash, card, other payment types, refunds and float.
+                2. The sheet completed and signed at every closing.
+                3. Cash banked with the deposit matched to the sheets it covers.
+                4. Daily totals posted to sales with the right tax code.
+
+                ## Notes
+                Record the full takings before paying any cash expenses out of the till. Netting them off hides both the sale and the cost.
+              priority: medium
               frontmatter:
-                mode: research
-                output_kind: decision
-                success_criteria: "Bookkeeping time is logged for two weeks before and two weeks after three changes, and the weekly totals are compared in writing."
-                cadence: one-shot
-                effort_hours_estimate: "3"
+                mode: operating
+                output_kind: habit
+                success_criteria: "A completed takings sheet exists for every trading day of the month, and banked cash agrees to the sheets."
+                cadence: rolling
               tasks:
-                - "Log the minutes spent on each bookkeeping task for two weeks"
-                - "Rank the steps by weekly time spent"
-                - "Make one change to each of the three slowest steps"
-                - "Log two more weeks and compare the totals"
+                - "Design a one-page takings sheet with a column for each payment type"
+                - "Show whoever closes up how to fill it in"
+                - "Complete the takings sheet at closing @recurring(daily)"
+                - "Post the week's takings to sales by payment type and tax code"
+            - name: Loan and finance repayment splits
+              description: |-
+                ## Purpose
+                Loan repayments and hire purchase instalments mix capital, interest and sometimes fees in one bank line, and coding the whole payment as an expense overstates costs and leaves the loan balance wrong. Splitting each payment using the lender's statement keeps the interest in the profit and loss and the balance owed matching the lender.
+
+                ## Milestones
+                1. Every loan, finance agreement and overdraft listed with its lender statement.
+                2. A liability account in the ledger for each one, with the opening balance agreed.
+                3. Each repayment split into capital, interest and fees.
+                4. The ledger balance matching the lender's statement at least once a quarter.
+              priority: medium
+              frontmatter:
+                mode: operating
+                output_kind: habit
+                success_criteria: "Each loan account balance in the ledger agrees to the lender's latest statement within the quarter."
+                cadence: rolling
+              tasks:
+                - "Download the latest statement for every loan and finance agreement"
+                - "Check each loan has its own liability account with the right balance"
+                - "Split this month's repayments into capital, interest and fees @recurring(monthly:20)"
+                - "Compare each loan balance with the lender statement and correct differences"
+            - name: Payroll journal posting after each pay run
+              description: |-
+                ## Purpose
+                Payroll software calculates pay, but the ledger usually sees only the net wages leaving the bank, which hides employer taxes, pension contributions and the amounts owed to the tax authority. Posting a payroll journal from the payroll summary each period puts gross pay, deductions and liabilities in the right accounts.
+
+                ## Milestones
+                1. A standard payroll journal with lines for gross pay, employer costs, deductions and liabilities.
+                2. The journal posted from the payroll summary within two days of each pay run.
+                3. Net pay, tax and pension payments from the bank cleared against the liability accounts.
+                4. Payroll liability accounts back to zero after each payment is made.
+
+                ## Notes
+                Running payroll itself belongs to its own area. This project is only about getting payroll into the ledger correctly.
+              priority: medium
+              frontmatter:
+                mode: operating
+                output_kind: habit
+                success_criteria: "Every pay run in the quarter has a posted journal, and wages and payroll tax liability accounts clear to zero once paid."
+                cadence: rolling
+              tasks:
+                - "Ask the payroll provider for the summary report that supports a journal"
+                - "Build a payroll journal layout with one line per cost and liability"
+                - "Post the payroll journal from the pay run summary @recurring(monthly:28)"
+                - "Match bank payments for wages and payroll taxes to the liability accounts"
             - name: Coding queries list for the accountant
               description: |-
                 ## Purpose
-                Questions sent to the accountant one email at a time cost more, get answered slowly and are forgotten by the time the answer arrives. A single running list of transactions you could not code, each with date, amount and what you know, sent once a month, gets answers in a batch and turns each answer into a coding rule.
+                Questions about odd transactions pile up in heads and email threads, then get forgotten until the year-end bill shows the accountant spent hours on them. A single running list with date, amount, payee and the question, sent monthly, gets answers while the detail is fresh and keeps the accountant's time focused.
 
                 ## Milestones
-                1. One shared list with columns for date, amount, payee, question and answer.
-                2. Every uncodable item added on the day it is found.
-                3. The list sent to the accountant once a month.
-                4. Each answer applied in the ledger and copied into the coding guide.
+                1. One shared list with columns for date, payee, amount, question and answer.
+                2. Every parked transaction from coding sessions added to it.
+                3. The list sent to the accountant each month.
+                4. Answers posted to the ledger and copied into the coding guide where they repeat.
               priority: medium
               frontmatter:
                 mode: operating
                 output_kind: habit
-                success_criteria: "A queries list has been sent each month for three months and every answered item is coded and reflected in the coding guide."
+                success_criteria: "No item on the queries list is older than sixty days without an answer, and repeat answers appear in the coding guide."
                 cadence: rolling
               tasks:
-                - "Create the queries list with date, amount, payee, question and answer columns"
-                - "Send the open queries to the accountant in one email @recurring(monthly:18)"
-                - "Apply each answer in the ledger the day it arrives"
-                - "Copy any answer that will come up again into the coding guide"
-            - name: Year-end bookkeeping pack for the accountant
+                - "Create the queries list with columns for date, payee, amount, question and answer"
+                - "Add every parked item from this month's sessions"
+                - "Send the open queries to your accountant @recurring(monthly:15)"
+                - "Post the answers and add repeat ones to the coding guide"
+            - name: Lock dates on coded months
               description: |-
                 ## Purpose
-                Accountants charge more and take longer when the year-end books arrive with uncoded lines, missing statements and unexplained balances. A pack holding the closing statements, open bills and invoices, loan statements, the owner balance and a note of unusual items, delivered by an agreed date, keeps the accounts on time and the fee predictable.
+                Once a month has been coded and checked, a stray edit or a back-dated bill can change figures that have already been reported or filed. Setting a lock date after each month's checks are done protects the history while still letting the current month move.
 
                 ## Milestones
-                1. A delivery date agreed with the accountant for the year-end pack.
-                2. Every transaction for the year coded, with the queries list cleared.
-                3. Year-end statements collected for every bank, card and loan account.
-                4. A covering note listing unusual items, new assets and owner transactions.
-                5. The pack delivered by the agreed date.
-              priority: high
-              deadlineOffsetDays: 90
+                1. The lock date feature in your software found and understood.
+                2. Who can override a lock decided and limited.
+                3. A lock date moved forward each month once the scan and holding account checks are done.
+                4. Any later change to a locked month agreed in writing first.
+              priority: low
               frontmatter:
-                mode: event
-                output_kind: deliverable
-                success_criteria: "The year-end pack, with every statement and a covering note, reaches the accountant on or before the agreed date."
-                cadence: one-shot
-                effort_hours_estimate: "8"
+                mode: operating
+                output_kind: habit
+                success_criteria: "The lock date is never more than one month behind the last checked month, and only named people can override it."
+                cadence: rolling
               tasks:
-                - "Ask your accountant what the year-end pack must contain and by when"
-                - "Download year-end statements for every account"
-                - "Write a covering note on unusual items and new assets"
-                - "Ask the agent to check the pack against the accountant's list"
-                - "Send the finished pack by the agreed date"
-            - name: Books ready for a lender or investor review
+                - "Find the lock date setting and read how overrides work"
+                - "Decide who is allowed to edit a locked period"
+                - "Move the lock date to the end of the last checked month @recurring(monthly:10)"
+            - name: Debits and credits for business owners
               description: |-
                 ## Purpose
-                Lenders, investors and buyers looking at your numbers will ask how sales are recorded, what sits in suspense and why a cost jumped in March. Getting the ledger clean, consistent and explainable a few weeks before the review shows the business is run carefully and avoids a credibility gap in the first meeting.
+                Debits and credits sound like jargon, but knowing that every transaction touches two accounts explains why a miscoded payment breaks the balance sheet as well as the profit figure. A few hours of practice with your own transactions makes reports, journals and your accountant's questions far easier to follow.
 
                 ## Milestones
-                1. The review date and the reports the lender or investor wants confirmed.
-                2. Suspense cleared and coding consistent across the last two years.
-                3. Large or unusual transactions explained in a short schedule.
-                4. Reports checked by the accountant before they are sent.
-
-                ## Notes
-                Never change past figures to improve how they look. Corrections follow the agreed method, with the accountant's knowledge.
+                1. The five account types and which side increases each one understood.
+                2. Ten of your own transactions written out as debit and credit pairs.
+                3. A sale, a bill, a payment and a refund traced through a trial balance.
+                4. A one-page cheat sheet kept next to the coding guide.
               priority: medium
-              deadlineOffsetDays: 45
               frontmatter:
-                mode: event
-                output_kind: deliverable
-                success_criteria: "Before the review date, suspense is empty, a schedule explains every unusual item and the accountant has checked the reports sent."
-                cadence: one-shot
-                effort_hours_estimate: "10"
+                mode: learning
+                output_kind: knowledge
+                success_criteria: "Ten real transactions are written out correctly as debit and credit pairs, checked by the accountant or a course answer key."
+                cadence: phased
+                effort_hours_estimate: "6"
               tasks:
-                - "Ask the lender or investor which reports and periods they want"
-                - "Empty the suspense and clearing accounts before the review"
-                - "List and explain transactions above a chosen value"
-                - "Have your accountant check the reports before sending"
-            - name: First month after registering for sales tax
+                - "Choose a short free bookkeeping course or guide on double entry"
+                - "Write out ten of last month's transactions as debit and credit pairs"
+                - "Open a trial balance and find where each of the ten landed"
+                - "Make a one-page cheat sheet of the account types"
+            - name: Capital or expense coding test
               description: |-
                 ## Purpose
-                Once a business registers for VAT, GST or sales tax, every sale and purchase from the registration date needs the right tax code, and transactions either side of that date are coded differently. Planning the first month avoids a first return built on lines coded the old way.
+                Buying a laptop, a van or a shop fit-out is not a normal expense, and coding it straight to the profit and loss can overstate costs one year and understate them the next. A simple written test, agreed with your accountant, for when a purchase is an asset tells you at the coding stage which account it belongs in.
 
                 ## Milestones
-                1. The effective registration date recorded in the software's tax settings.
-                2. Tax codes on supplier defaults and bank rules updated from that date.
-                3. Transactions dated before and after registration checked for the right codes.
-                4. The first month's coding reviewed by the accountant before the first return.
+                1. A capitalisation threshold agreed with your accountant.
+                2. A short test for useful life and purpose written into the coding guide.
+                3. Last year's large purchases checked against the test.
+                4. Purchases that qualify passed to whoever keeps the asset register.
 
                 ## Notes
-                Some countries allow tax on certain pre-registration purchases to be reclaimed under set conditions. List them and ask your accountant.
-              priority: high
-              deadlineOffsetDays: 45
+                Repairs that restore something are usually expenses, while improvements that extend its life or value are often assets. Your accountant has the final word for your jurisdiction.
+              priority: medium
               frontmatter:
-                mode: event
-                output_kind: event-completion
-                success_criteria: "Every transaction in the first month after registration carries a correct tax code, checked by the accountant before the first return."
+                mode: learning
+                output_kind: knowledge
+                success_criteria: "The coding guide holds a written capital or expense test with the agreed threshold, and last year's large purchases have been checked against it."
+                cadence: one-shot
+                effort_hours_estimate: "3"
+              tasks:
+                - "Ask your accountant what threshold the business uses for capital items"
+                - "Write the capital or expense test into the coding guide"
+                - "Pull last year's purchases above the threshold and check how each was coded"
+                - "Send any qualifying purchases to the asset register owner"
+            - name: Split transactions and mixed-use costs
+              description: |-
+                ## Purpose
+                One supermarket receipt can hold office supplies, client refreshments and personal shopping, and one phone bill can be part business and part private. Learning to split a single bank line across several accounts, with the private share sent to the owner, keeps each cost in the right place without rewriting the bank feed.
+
+                ## Milestones
+                1. The split feature in your software practised on three real transactions.
+                2. A written business-use percentage for the phone, car and home costs, agreed with your accountant.
+                3. Mixed receipts split at coding with the private share to the owner account.
+                4. The percentages reviewed when circumstances change.
+              priority: medium
+              frontmatter:
+                mode: learning
+                output_kind: knowledge
+                success_criteria: "Business-use percentages are written in the coding guide and three months of mixed receipts are split to match them."
+                cadence: one-shot
+                effort_hours_estimate: "3"
+              tasks:
+                - "Find three mixed receipts from last month"
+                - "Split each one across the right accounts in the software"
+                - "Agree business-use percentages for phone, vehicle and home costs with your accountant"
+                - "Write the percentages into the coding guide"
+            - name: Refunds, credit notes and chargebacks
+              description: |-
+                ## Purpose
+                Refunds are often coded as new income or a fresh expense, which inflates both sales and costs and leaves the original transaction looking unpaid. Knowing how to record a supplier refund, a customer credit note and a card chargeback against the original entry keeps sales and costs at their true net figures.
+
+                ## Milestones
+                1. The software's method for customer credit notes and supplier refunds practised once each.
+                2. Refunds coded to the same account and tax code as the original transaction.
+                3. Card chargebacks recorded with the fee kept separate.
+                4. Last quarter's refunds checked and any coded as income or new costs corrected.
+              priority: medium
+              frontmatter:
+                mode: learning
+                output_kind: knowledge
+                success_criteria: "Every refund and credit note in the last quarter sits against the same account and tax code as its original sale or purchase."
+                cadence: one-shot
+                effort_hours_estimate: "3"
+              tasks:
+                - "Pull every incoming refund and outgoing customer refund from last quarter"
+                - "Check which account and tax code each one was given"
+                - "Recode refunds to match their original transactions"
+                - "Record the chargeback method and fee account in the coding guide"
+            - name: Annual subscriptions and prepaid costs
+              description: |-
+                ## Purpose
+                Paying a year of insurance or software in one go lands the whole cost in a single month on accrual books, making that month look poor and the next eleven look better than they are. Recording large prepaid costs to a prepayments account and releasing a twelfth each month gives a truer monthly picture.
+
+                ## Milestones
+                1. A threshold agreed for which annual payments are spread.
+                2. Current prepaid insurance, software, rent and memberships listed with start and end dates.
+                3. A prepayments schedule showing the monthly release for each one.
+                4. The monthly release posted on the same day each month.
+
+                ## Notes
+                On cash basis books this is usually unnecessary. Check with your accountant before adding the work.
+              priority: low
+              frontmatter:
+                mode: learning
+                output_kind: artifact
+                success_criteria: "A prepayments schedule lists every annual cost over the threshold, and its balance agrees to the ledger at month end."
+                cadence: phased
+                effort_hours_estimate: "4"
+              tasks:
+                - "List annual payments made in the last twelve months over the agreed threshold"
+                - "Build a schedule with cost, start date, end date and monthly amount"
+                - "Post the opening prepayment balance as a journal"
+                - "Release the monthly prepayment amounts to their expense accounts @recurring(monthly:25)"
+            - name: Foreign currency transactions at the right rate
+              description: |-
+                ## Purpose
+                Foreign currency bills, sales and card payments rarely clear at the rate on the invoice, and the difference ends up dumped in whatever account is nearest. Recording each transaction in its own currency, letting the bank payment set the actual amount and coding the gap to an exchange difference account keeps costs and sales honest.
+
+                ## Milestones
+                1. Multi-currency settings in your software checked or switched on if needed.
+                2. Foreign currency suppliers and customers set up in their own currency.
+                3. Exchange gains and losses coded to one dedicated account.
+                4. Card payments in other currencies coded with the fee shown separately where the statement gives it.
+              priority: low
+              frontmatter:
+                mode: learning
+                output_kind: knowledge
+                success_criteria: "All foreign currency transactions last quarter are recorded in their own currency with differences in one exchange account."
+                cadence: one-shot
+                effort_hours_estimate: "3"
+              tasks:
+                - "Find every transaction in another currency from last quarter"
+                - "Check whether your plan supports multi-currency and turn it on if needed"
+                - "Create an exchange gains and losses account if one is missing"
+                - "Recode last quarter's currency differences to that account"
+            - name: Reading the general ledger for errors
+              description: |-
+                ## Purpose
+                The general ledger report lists every line in every account, and it is where an experienced eye finds duplicates, negative expenses, wrong dates and lines with no description. Learning to scan it account by account turns a report most owners never open into the best error check you have.
+
+                ## Milestones
+                1. The general ledger and trial balance reports found and saved in the software.
+                2. Five common error patterns known: duplicates, negatives, round sums, blank narrations and wrong-year dates.
+                3. One full month scanned and every error found corrected.
+                4. A list of accounts most prone to errors kept for future checks.
+              priority: medium
+              frontmatter:
+                mode: learning
+                output_kind: knowledge
+                success_criteria: "One full month of the general ledger has been scanned, with each correction listed and the error-prone accounts noted."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Enter the registration date and number in the software's tax settings"
-                - "Update supplier defaults and bank rules to the new tax codes"
-                - "Check transactions either side of the registration date"
-                - "Send the first month's coding to the accountant for review"
-            - name: Posting the accountant's year-end adjustments
+                - "Run the general ledger report for last month"
+                - "Filter for negative balances in expense accounts"
+                - "Look for duplicate amounts on the same date with the same payee"
+                - "Correct each error and write down which accounts it came from"
+            - name: Manual journals with narration and evidence
               description: |-
                 ## Purpose
-                Accountants usually adjust the books when they prepare the annual accounts, for depreciation, accruals or corrections, and if those journals never reach your ledger the new year starts from the wrong balances. Getting the final journals, posting them and agreeing the trial balance closes the loop every year.
+                Journals change the ledger with no bank line behind them, so a journal without a narration or a supporting document is the first thing an accountant or auditor questions. A standard of what every manual journal must carry, from reason to evidence to who posted it, makes corrections safe and explainable years later.
 
                 ## Milestones
-                1. The list of year-end adjusting journals received from the accountant.
-                2. Each journal posted in the ledger, or confirmed as posted by the accountant.
-                3. The ledger's year-end trial balance agreed to the signed accounts.
-                4. The lock date moved to the year-end.
+                1. A written standard: date, reason, source, preparer and attachment for every journal.
+                2. Journal numbering or references that run in order.
+                3. Last year's manual journals checked against the standard.
+                4. Unsupported journals explained or reversed with the accountant's agreement.
+              priority: low
+              frontmatter:
+                mode: learning
+                output_kind: artifact
+                success_criteria: "Every manual journal posted in the last quarter has a narration, a reference and an attached supporting document."
+                cadence: one-shot
+                effort_hours_estimate: "3"
+              tasks:
+                - "Write the journal standard as five required fields"
+                - "Run a report of every manual journal from the last year"
+                - "Ask the agent to flag journals with blank or vague narrations"
+                - "Add the missing reasons and attachments, or raise them with your accountant"
+            - name: Recoding last year's miscoded history
+              description: |-
+                ## Purpose
+                Last year's books may hold months of costs in the wrong accounts, which makes trend reports misleading and next year's comparisons wrong. Correcting the history in one controlled pass, before the accountant finalises the year, is cheaper than living with it or paying for it to be fixed during the year-end work.
+
+                ## Milestones
+                1. The size of the problem known: which accounts and roughly how many lines.
+                2. The accountant's agreement on whether to recode lines or post correcting journals.
+                3. Corrections made account by account, with a log of what moved.
+                4. Account totals for the year reviewed and signed off as sensible.
+
+                ## Notes
+                If the year has already been filed, do not recode it. Ask your accountant how corrections to a filed period should be made.
+              priority: medium
+              deadlineOffsetDays: 120
+              frontmatter:
+                mode: building
+                output_kind: deliverable
+                success_criteria: "A correction log lists every recoded account for the year, and the accountant confirms the corrected totals."
+                cadence: phased
+                effort_hours_estimate: "12"
+              tasks:
+                - "Run last year's profit and loss by month and mark accounts that look wrong"
+                - "Ask your accountant whether the year is still open for corrections"
+                - "Ask the agent to summarise which payees landed in more than one account"
+                - "Recode one account at a time and log each move"
+                - "Send the corrected totals to your accountant"
+            - name: Auto-categorisation accuracy check
+              description: |-
+                ## Purpose
+                Auto-categorisation and AI coding suggestions in accounting software are fast and often right, but they learn from past coding, so one early mistake can be repeated hundreds of times. Measuring how often suggestions are accepted unchanged, and where they go wrong, tells you which to trust and which to switch off.
+
+                ## Milestones
+                1. A sample of one hundred auto-coded lines checked against the coding guide.
+                2. An accuracy rate worked out and the most common wrong suggestions listed.
+                3. Settings changed or rules added to stop the repeat errors.
+                4. A quarterly recheck of a fresh sample.
+              priority: low
+              frontmatter:
+                mode: research
+                output_kind: decision
+                success_criteria: "An accuracy rate for auto-coded lines is recorded each quarter, with a decision on which suggestion types stay switched on."
+                cadence: cyclic
+                effort_hours_estimate: "3"
+              tasks:
+                - "Export one hundred lines that were coded by suggestion last quarter"
+                - "Check each against the coding guide and mark the wrong ones"
+                - "Turn off or override the suggestion types that fail most often"
+                - "Recheck a fresh sample of auto-coded lines @recurring(quarterly)"
+            - name: Coding decision tree for awkward spend
+              description: |-
+                ## Purpose
+                Client lunches, staff treats, conference tickets, gifts and travel all look alike on a card statement but often need different accounts and tax treatment. A short decision tree that asks who benefited, what it was for and whether it was personal sends each one to the right place without a call to the accountant.
+
+                ## Milestones
+                1. The five types of awkward spend that come up most often in your business named.
+                2. Two or three questions written for each that lead to an account.
+                3. The tree checked by your accountant.
+                4. The tree printed or pinned beside the coding guide and used in sessions.
+              priority: low
+              frontmatter:
+                mode: building
+                output_kind: artifact
+                success_criteria: "A one-page decision tree covering at least five awkward spending types has been checked by the accountant and is in use."
+                cadence: one-shot
+                effort_hours_estimate: "2"
+              tasks:
+                - "List the awkward spend types that appeared in the last three months"
+                - "Write the questions that separate each into the right account"
+                - "Send the draft tree to your accountant to check"
+                - "Pin the agreed tree next to the coding guide"
+            - name: Location and department tags applied at coding
+              description: |-
+                ## Purpose
+                Location, department or job tags only work if they are applied to every line at the moment of coding; tags added later are patchy and the reports built on them mislead. Making the tag a required step in the weekly session, with defaults on bank rules, gives reliable splits by site or team.
+
+                ## Milestones
+                1. The tags the business already uses listed with what each one means.
+                2. Default tags added to bank rules and supplier records where the answer never changes.
+                3. Tagging included in the weekly coding checklist.
+                4. A monthly report showing no untagged lines in the accounts that need tags.
+
+                ## Notes
+                Designing which tags exist belongs with the chart of accounts. This project is about applying them consistently.
+              priority: low
+              frontmatter:
+                mode: operating
+                output_kind: habit
+                success_criteria: "For three months running, every line in the tagged accounts carries a location or department tag."
+                cadence: one-shot
+                effort_hours_estimate: "3"
+              tasks:
+                - "Run last month's report filtered to untagged lines"
+                - "Add default tags to bank rules and suppliers that always belong to one site"
+                - "Add a tagging step to the weekly coding checklist"
+                - "Tag the untagged lines from last month"
+            - name: Coding accuracy sample each month
+              description: |-
+                ## Purpose
+                Without a measure, nobody knows whether coding is getting better or slowly drifting, and errors only surface when a report looks wrong. Checking twenty random lines a month against the coding guide gives a simple accuracy score and shows exactly which accounts or people need help.
+
+                ## Milestones
+                1. A sampling method chosen that picks twenty lines at random across accounts.
+                2. Each month's sample scored against the coding guide.
+                3. The score and error types recorded in a running log.
+                4. Repeat error types fed back into the guide, bank rules or training.
+
+                ## Notes
+                Start from the **Metrics log** template. A steady score above ninety-five per cent is a good sign the guide and rules are doing their job.
               priority: medium
               frontmatter:
-                mode: event
-                output_kind: event-completion
-                success_criteria: "After each year-end, the ledger's closing trial balance matches the signed accounts and the period is locked."
-                cadence: cyclic
+                mode: operating
+                output_kind: habit
+                success_criteria: "Six consecutive months of twenty-line samples are scored in the metrics log, with each error type traced to a fix."
+                cadence: rolling
               tasks:
-                - "Ask the accountant for the final adjusting journals once the accounts are signed @recurring(yearly)"
-                - "Post each journal with the accountant's reference in the narration"
-                - "Agree the trial balance to the signed accounts"
-                - "Lock the books at the year-end date"
-            - name: Peak season bookkeeping plan
+                - "Set up a coding accuracy log from the metrics log template"
+                - "Pick twenty random lines and check each against the coding guide @recurring(monthly:18)"
+                - "Record the score and the type of each error"
+                - "Update the guide or bank rules for any error seen twice"
+            - name: Bookkeeping records retention schedule
               description: |-
                 ## Purpose
-                Retailers before the holidays, tour operators in high season and caterers in wedding season all see transaction volumes double just when there is least time to code them. Planning the peak, with rules set in advance, two short sessions a week and a catch-up date booked afterwards, stops a busy quarter turning into a backlog.
+                Tax authorities in most countries expect business records to be kept for several years after the period they cover, and the required time differs by country and record type. A written retention schedule, checked against your tax authority's guidance, says what to keep, for how long and when it can be destroyed.
 
                 ## Milestones
-                1. Last year's busiest months and their transaction volumes identified.
-                2. Extra bank rules and supplier defaults set before the peak begins.
-                3. Two short coding sessions a week scheduled through the peak.
-                4. A catch-up session booked for the week after the peak ends.
+                1. Your tax authority's record-keeping period for your business type found and noted.
+                2. A schedule listing each record type, where it lives and its keep-until date.
+                3. Old records past their date identified for secure disposal.
+                4. A yearly review of the schedule after each year end.
               priority: low
+              frontmatter:
+                mode: research
+                output_kind: artifact
+                success_criteria: "A retention schedule naming each record type, its location and its keep-until date matches the tax authority's published rules."
+                cadence: cyclic
+                effort_hours_estimate: "2"
+              tasks:
+                - "Look up how long your tax authority says business records must be kept"
+                - "List each record type and where it is stored"
+                - "Write the keep-until date next to each record type"
+                - "Securely dispose of records past their keep-until date @recurring(yearly)"
+            - name: Customer deposits and advance payments
+              description: |-
+                ## Purpose
+                Customer deposits for future work, gift vouchers and payments in advance are money held, not yet earned, and coding them straight to sales makes revenue arrive too early. Recording them to a deposits or deferred income account until the work is delivered keeps sales in the month they were really made.
+
+                ## Milestones
+                1. Every type of advance payment the business takes listed.
+                2. A liability account set up for deposits and another for unredeemed vouchers if needed.
+                3. Deposits released to sales when the job is delivered or the voucher used.
+                4. The deposits balance agreed to a list of open customer jobs each month.
+              priority: low
+              frontmatter:
+                mode: building
+                output_kind: artifact
+                success_criteria: "The deposits account balance agrees to a dated list of open customer jobs and unredeemed vouchers at month end."
+                cadence: one-shot
+                effort_hours_estimate: "3"
+              tasks:
+                - "List the advance payments the business takes today"
+                - "Ask your accountant how deposits should be recorded for your basis"
+                - "Create a deposits account and recode open deposits to it"
+                - "Release completed jobs from the deposits account to sales"
+            - name: Year-end bookkeeping handover to the accountant
+              description: |-
+                ## Purpose
+                Year end is where every shortcut in the year shows up as accountant hours on the invoice. Handing over a ledger with every feed coded, holding accounts at zero, queries answered and a short covering note means the accountant prepares the accounts rather than finishing the bookkeeping.
+
+                ## Milestones
+                1. All transactions to the last day of the year coded with documents attached.
+                2. Holding and clearing accounts at zero, or each balance explained.
+                3. A list of closing balances for loans, owner accounts and deposits, with supporting statements.
+                4. A covering note of unusual items sent with the handover, before the accountant's deadline.
+
+                ## Notes
+                Ask your accountant for their own year-end checklist first. Matching it saves a round of questions.
+              priority: high
               deadlineOffsetDays: 60
               frontmatter:
                 mode: event
                 output_kind: event-completion
-                success_criteria: "Through the peak months the bank feed stays no more than seven days behind, and a catch-up session is completed afterwards."
+                success_criteria: "The accountant confirms receipt of a complete handover, coded to the year end, before the date they asked for."
+                cadence: one-shot
+                effort_hours_estimate: "8"
+              tasks:
+                - "Ask your accountant for their year-end checklist and handover date"
+                - "Code all feeds to the year-end date and clear the holding accounts"
+                - "Gather loan, owner account and deposit statements at the year-end date"
+                - "Ask the agent to draft a covering note of unusual items from the queries list"
+                - "Book next year's handover date with your accountant @recurring(yearly)"
+            - name: New financial year bookkeeping set-up
+              description: |-
+                ## Purpose
+                The first week of a new financial year is the cheapest time to fix coding habits, because nothing has been booked yet. Archiving last year's documents, starting fresh folders, reviewing bank rules and the coding guide and setting new lock dates means the year starts clean rather than inheriting last year's mess.
+
+                ## Milestones
+                1. Last year's documents archived into a closed folder.
+                2. New folders for the year created with the same structure.
+                3. The coding guide and bank rules reviewed for any changes in suppliers or tax rates.
+                4. Opening balances checked against the accountant's final figures once available.
+              priority: medium
+              deadlineOffsetDays: 30
+              frontmatter:
+                mode: event
+                output_kind: event-completion
+                success_criteria: "New year folders exist, last year is archived, and opening balances agree to the accountant's final figures."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Find last year's three busiest months by number of transactions"
-                - "Add rules for suppliers you only use in the busy season"
-                - "Book two short coding sessions a week through the peak"
-                - "Book a catch-up session for the week after the peak"
-            - name: Sole trader books on a simple setup
+                - "Create the new year's document folders"
+                - "Move last year's documents into a closed archive folder @recurring(yearly)"
+                - "Check tax rate changes for the new year against your default tax codes"
+                - "Compare opening balances with the accountant's final figures when they arrive"
+            - name: Ledger detail ready for a lender or investor
               description: |-
                 ## Purpose
-                Freelancers with a handful of clients and a few dozen costs a month do not need a complicated system, but do need one account, a short list of categories and a weekly slot. Setting up the minimum the tax return asks for, and nothing more, keeps bookkeeping to under half an hour a week.
+                Banks and investors increasingly ask for direct access to the ledger or a detailed transaction export, not just summary accounts, and a messy ledger can stall a loan or a raise. Preparing the ledger before the request, so every line has a clear description and nothing sits uncategorised, turns their review into a formality.
 
                 ## Milestones
-                1. One account used only for the freelance work.
-                2. A short category list matched to the expense headings on your tax return.
-                3. Income recorded per client with the invoice or payment reference.
-                4. A weekly half-hour coding slot kept for a month.
-
-                ## Notes
-                Ask your accountant what share of each payment to set aside for tax, and note it against each month's income.
+                1. The likely request scope known: which periods, reports and access.
+                2. Every line in the period coded, described and evidenced.
+                3. Unusual or one-off items explained in a short note.
+                4. Read-only access or an export prepared and shared only with the agreed party.
               priority: medium
               deadlineOffsetDays: 21
               frontmatter:
-                mode: building
-                output_kind: artifact
-                success_criteria: "Freelance income and costs run through one account, coded to categories that match the tax return headings, with a month of weekly sessions kept."
+                mode: event
+                output_kind: deliverable
+                success_criteria: "The requested period is fully coded with no uncategorised lines, and an explanation note is ready before access is granted."
+                cadence: one-shot
+                effort_hours_estimate: "6"
+              tasks:
+                - "Ask the lender or investor which periods and reports they want"
+                - "Clear any uncategorised or suspense lines in that period"
+                - "Write a short note explaining one-off and unusual items"
+                - "Set up read-only access or an export for the agreed party only"
+            - name: Coding through a business bank account switch
+              description: |-
+                ## Purpose
+                Switching banks means weeks of payments arriving in two accounts, direct debits moving at different times and a new feed that starts on a different day from the old one closing. Planning the coding for the overlap, with both feeds in the ledger until the old one is empty, stops duplicated and missing lines.
+
+                ## Milestones
+                1. The new account added to the ledger with its feed connected and start date noted.
+                2. Bank rules copied or rebuilt for the new feed.
+                3. Every payment moved, with a tick list showing which side it now arrives on.
+                4. The old account emptied, its final statement coded and the account archived in the ledger.
+              priority: low
+              deadlineOffsetDays: 45
+              frontmatter:
+                mode: event
+                output_kind: event-completion
+                success_criteria: "The old account shows a zero balance in the ledger with its final statement coded, and no payment is duplicated across the two feeds."
+                cadence: one-shot
+                effort_hours_estimate: "5"
+              tasks:
+                - "Add the new account to the ledger and connect its feed"
+                - "Copy the old account's bank rules to the new feed"
+                - "Keep a tick list of payments as each moves to the new account"
+                - "Code the old account's final statement and archive it in the ledger"
+            - name: Coding grants, insurance payouts and one-off receipts
+              description: |-
+                ## Purpose
+                Grants, insurance claim payouts, government support, asset sale proceeds and loan drawdowns all arrive as money in, but very few of them are ordinary sales. Coding each to the right account, with the award letter or claim settlement attached, keeps sales figures clean and gives your accountant what they need for the tax treatment.
+
+                ## Milestones
+                1. Every non-sales receipt in the last year listed with its source document.
+                2. Each one coded to a suitable account agreed with the accountant.
+                3. Conditions attached to grants noted, with any repayment risk flagged.
+                4. A rule added to the coding guide for each type of one-off receipt.
+              priority: medium
+              deadlineOffsetDays: 30
+              frontmatter:
+                mode: event
+                output_kind: deliverable
+                success_criteria: "All non-sales receipts from the last year are coded outside the sales accounts, each with its award or settlement document attached."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Open or name one account used only for freelance money"
-                - "Match your categories to the expense headings on your tax return"
-                - "Record each client payment with its invoice reference"
-                - "Set a weekly half-hour slot for coding the freelance account"
-            - name: Founder's first-year books, share capital and pre-trading costs
+                - "Filter last year's money in for anything that is not a customer payment"
+                - "Find the award letter, claim settlement or agreement for each one"
+                - "Ask your accountant which account each type should use"
+                - "Recode the receipts and add the rules to the coding guide"
+            - name: Freelancer books in thirty minutes a week
               description: |-
                 ## Purpose
-                Founders often pay for the domain, the laptop and the company registration personally before the business has a bank account, and the share capital may never have been paid in. Recording these correctly in the first year, as money the company owes the founder and capital subscribed, avoids a messy first set of accounts.
+                Freelancers rarely have the time or the transaction volume for a full bookkeeping routine, but they still need clean income, expense and mileage records at tax time. A stripped-down weekly half hour on a Sunday evening, covering invoices paid, expenses coded and travel logged, keeps a one-person business ready for its tax return.
 
                 ## Milestones
-                1. Every cost the founder paid personally before and after incorporation listed with receipts.
-                2. Those costs recorded as owed to the founder, as the accountant advises.
-                3. Share capital recorded and the payment for it traced to the bank, or noted as unpaid.
-                4. Any investment received recorded against the equity or loan account the accountant specifies.
+                1. A short list of the only accounts you need, agreed with your accountant.
+                2. Business mileage and travel logged weekly with dates and purpose.
+                3. Every client payment matched to its invoice.
+                4. Home working costs recorded using the method your accountant recommends.
 
                 ## Notes
-                Convertible notes, SAFEs and similar instruments need your accountant's input on how they are recorded.
-              priority: high
+                Keep it small. Fifteen well-used accounts beat sixty half-used ones for a freelancer.
+              priority: medium
+              frontmatter:
+                mode: operating
+                output_kind: habit
+                success_criteria: "Every week of the quarter has coded expenses, matched client payments and a mileage entry or a note saying none."
+                cadence: rolling
+              tasks:
+                - "Agree a short list of accounts with your accountant"
+                - "Log business trips with date, purpose and distance @recurring(weekly:sun)"
+                - "Match each client payment to its invoice"
+                - "Ask your accountant how home working costs should be recorded"
+            - name: Side business kept apart from household money
+              description: |-
+                ## Purpose
+                A side business started from a spare bedroom often runs through the family account for its first year, which makes it hard to tell whether it makes money and painful at tax time. Pulling out the business transactions, starting simple books and agreeing with your household how money moves between the two makes the side business visible.
+
+                ## Milestones
+                1. Every side business transaction since starting pulled out of the household account.
+                2. A simple ledger or spreadsheet with income and a handful of cost categories.
+                3. A separate account or card used for the side business from now on.
+                4. A household agreement on how and when money moves between the two.
+              priority: medium
+              frontmatter:
+                mode: building
+                output_kind: artifact
+                success_criteria: "A side business ledger shows every transaction since the first sale, and new transactions run through a separate account."
+                cadence: phased
+                effort_hours_estimate: "6"
+              tasks:
+                - "Highlight side business lines on the last six household statements"
+                - "Copy them into a simple ledger with a handful of cost categories"
+                - "Open or assign a separate account or card for the side business"
+                - "Agree with your household how profit is moved out and recorded"
+            - name: Founder-paid costs and pre-trading expenses
+              description: |-
+                ## Purpose
+                Founders typically pay for the domain, the first laptop, legal fees and travel personally before the company has a bank account, and those costs are easily lost. Gathering them, with receipts, and recording them as money the company owes the founder makes sure they reach the books and the founder can be repaid properly.
+
+                ## Milestones
+                1. A list of every cost paid personally before and since the company was formed.
+                2. A receipt or statement line for each one.
+                3. The costs recorded against the founder's loan account with the right expense or asset accounts.
+                4. Any repayment to the founder coded against the same account.
+
+                ## Notes
+                Whether pre-trading costs can be claimed, and from what date, depends on the country. Ask your accountant before you record them.
+              priority: medium
               deadlineOffsetDays: 45
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "Every founder-paid cost and the share capital are recorded in the ledger with documents, and the accountant has confirmed the treatment."
+                success_criteria: "Every founder-paid cost has a receipt and sits in the founder loan account, with the balance owed agreed by the founder and accountant."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "List every business cost you paid personally, with receipts"
-                - "Ask your accountant how pre-incorporation costs should be recorded"
-                - "Record the share capital and trace whether it was paid in"
-                - "Code investment received to the account the accountant specifies"
-            - name: Taking back the books after a bookkeeper leaves
+                - "Search personal cards and email for every cost paid for the company"
+                - "Collect a receipt or statement line for each cost"
+                - "Ask your accountant from what date pre-trading costs can be included"
+                - "Post the costs to the founder loan account with their expense accounts"
+            - name: Partner or family member helping with the books
               description: |-
                 ## Purpose
-                When a bookkeeper leaves suddenly, owners often find logins they do not hold, rules they do not understand and a month half coded. Securing access, finding where the work stopped and reading the previous conventions before coding anything new avoids two people's methods colliding in the ledger.
+                When a partner, parent or grown-up child helps code transactions in the evenings, the risks are inconsistent coding and nobody knowing who changed what. Giving them their own login, a short walk-through of the coding guide and a clear split of what they code and what they leave for you makes the help safe and quick.
 
                 ## Milestones
-                1. Admin access to the software, bank feeds and receipt tools held in the owner's name.
-                2. The last fully coded date identified for each account.
-                3. The previous bookkeeper's rules, notes and open queries collected.
-                4. A decision recorded on who codes from here and from which date.
-              priority: medium
-              deadlineOffsetDays: 14
-              frontmatter:
-                mode: building
-                output_kind: decision
-                success_criteria: "The owner holds admin access to every tool, the last coded date per account is known, and a named person codes from a set date."
-                cadence: one-shot
-                effort_hours_estimate: "4"
-              tasks:
-                - "Check you hold admin access to the software and every connected tool"
-                - "Remove the departing bookkeeper's logins once the handover is done"
-                - "Find the last fully coded date for each account"
-                - "Collect their notes, rules and open queries in one folder"
-            - name: Family member helping with the books
-              description: |-
-                ## Purpose
-                A spouse, parent or grown-up child coding transactions can save a small business real money, as long as they have the right access and a clear guide. Giving them a limited role, the coding guide and a short weekly review keeps family help useful and the books consistent.
-
-                ## Milestones
-                1. The tasks the helper will do, such as receipt upload or bank coding, agreed.
-                2. A user login with only the permissions those tasks need.
-                3. Two practice sessions done together using the coding guide.
-                4. A weekly ten-minute review of what they coded.
+                1. A separate user login with only the permissions the helper needs.
+                2. A one-hour walk-through of the coding guide and decision tree.
+                3. A written split of what they code and what they leave for you.
+                4. A check of their first month's coding with feedback.
               priority: low
-              frontmatter:
-                mode: operating
-                output_kind: habit
-                success_criteria: "The family helper has their own limited login and has coded four weeks of transactions, each week reviewed by the owner."
-                cadence: rolling
-              tasks:
-                - "Agree which bookkeeping tasks the helper will take on"
-                - "Create a login with only the permissions those tasks need"
-                - "Sit together for two coding sessions using the guide"
-                - "Review what the helper coded that week @recurring(weekly:mon)"
-            - name: First employee payroll journals in the ledger
-              description: |-
-                ## Purpose
-                Once a business runs payroll, a single bank payment for wages hides gross pay, employer taxes, deductions and pension contributions that each belong in their own account. Posting a journal from each payroll summary keeps staff costs and the amounts owed to the tax authority correct, even when payroll itself is run elsewhere.
-
-                ## Milestones
-                1. The payroll summary report identified as the source for each journal.
-                2. Accounts for wages, employer taxes, pension and payroll liabilities in use.
-                3. A journal posted for each pay run and net pay matched to the bank.
-                4. Payroll liability accounts clearing to zero when the tax authority and pension provider are paid.
-
-                ## Notes
-                If your payroll software posts the journal automatically, check one run against the summary instead of posting it a second time.
-              priority: medium
-              frontmatter:
-                mode: operating
-                output_kind: habit
-                success_criteria: "Each pay run for three months has a journal from the payroll summary, and the liability accounts clear to zero when paid."
-                cadence: rolling
-              tasks:
-                - "Ask your payroll provider for the summary report each run produces"
-                - "Check the ledger has accounts for wages, employer taxes, pension and liabilities"
-                - "Post the payroll journal from the summary after each pay run @recurring(monthly:28)"
-                - "Match the tax and pension payments to the liability accounts"
-            - name: Standard coding playbook across client files
-              description: |-
-                ## Purpose
-                Bookkeepers looking after fifteen small businesses make the same coding decision fifteen ways unless there is a house standard. A playbook of default accounts, tax code rules, narration formats and query handling, varied per client only where needed, makes files faster to review and easier to hand between staff.
-
-                ## Milestones
-                1. The coding decisions that vary most across current clients listed.
-                2. A house standard written for each, with room for client exceptions.
-                3. A one-page exceptions sheet for every client file.
-                4. New team members trained on the playbook using two real files.
-              priority: medium
               frontmatter:
                 mode: service
-                output_kind: artifact
-                success_criteria: "A written coding playbook is in use across all client files, each with a one-page exceptions sheet."
+                output_kind: habit
+                success_criteria: "The helper codes with their own login, and a review of their first month finds fewer than one error in twenty lines."
                 cadence: phased
-                effort_hours_estimate: "12"
+                effort_hours_estimate: "4"
               tasks:
-                - "List the ten coding decisions that vary most between client files"
-                - "Write the house standard for each decision"
-                - "Create a one-page exceptions sheet for each client"
-                - "Revise the playbook against new client situations @recurring(yearly)"
-            - name: New client file review for bookkeepers
+                - "Create a separate login for the helper with limited permissions"
+                - "Walk them through the coding guide using last week's transactions"
+                - "Write down which accounts and payees they code and which they leave"
+                - "Review their first month of coding together"
+            - name: Seasonal business coding through peaks and quiet months
               description: |-
                 ## Purpose
-                Taking on a client whose books were kept by someone else means inheriting their errors, and the first month is when you can still say so. A structured review of opening balances, suspense, owner accounts, tax codes and rules, written up for the client, sets a clean baseline and the fee for any clean-up.
+                Seasonal businesses such as holiday lets, tour operators, garden services and event caterers get most of their transactions in a few busy months, when nobody has time to code. A plan that keeps coding light during the peak and does the catch-up and clean-up in the quiet season stops the busy months turning into a year-end backlog.
 
                 ## Milestones
-                1. Access to the client's software, statements and last accounts obtained.
-                2. A review checklist run across balances, suspense, tax codes and rules.
-                3. Findings written up with the work needed and its cost.
-                4. The client's agreement to the clean-up scope recorded.
+                1. Busy and quiet months marked on the calendar.
+                2. A minimum peak-season routine of bank rules and receipt capture only.
+                3. A quiet-season session booked to finish coding and clear queries.
+                4. Deposits taken for next season coded as held money, not sales.
               priority: low
-              deadlineOffsetDays: 30
+              frontmatter:
+                mode: operating
+                output_kind: habit
+                success_criteria: "The ledger is fully coded within four weeks of each peak season ending, with deposits for the next season held separately."
+                cadence: cyclic
+              tasks:
+                - "Mark the busy and quiet months on the calendar"
+                - "Write the minimum coding routine for the peak weeks"
+                - "Book a catch-up session at the start of the quiet season @recurring(quarterly)"
+                - "Check next season's deposits are sitting in the deposits account"
+            - name: Bookkeeper onboarding a new client ledger
+              description: |-
+                ## Purpose
+                Taking on a new client's books means inheriting someone else's coding choices, missing documents and odd balances. A structured first month, with a ledger health check, a coding guide agreed with the client and a clear list of what you need from them each week, sets the relationship up on facts rather than assumptions.
+
+                ## Milestones
+                1. An engagement scope agreed: which accounts, how often and what the client sends.
+                2. A ledger health check completed on holding accounts, duplicates and opening balances.
+                3. A client-specific coding guide drafted and signed off.
+                4. The first month coded to the agreed standard with queries sent in one batch.
+
+                ## Notes
+                Start from the **Onboarding plan** template. Agree in writing who answers coding questions on the client side.
+              priority: medium
               frontmatter:
                 mode: service
                 output_kind: deliverable
-                success_criteria: "A written review of the client's books, with findings and a priced clean-up scope, has been accepted by the client."
-                cadence: one-shot
-                effort_hours_estimate: "6"
+                success_criteria: "The client has signed off a coding guide and received a ledger health check report within the first month."
+                cadence: phased
+                effort_hours_estimate: "10"
               tasks:
-                - "Request software access, statements and last year's accounts"
-                - "Run the review checklist across balances, suspense and tax codes"
-                - "Write up the findings and the clean-up work needed"
-                - "Agree the clean-up scope and fee with the client"
-            - name: Audit trail and change history review
+                - "Set up the client onboarding plan from the onboarding plan template"
+                - "Request read access, statements and last year's accounts"
+                - "Run a health check of holding accounts, duplicates and opening balances"
+                - "Draft the client coding guide and send it for sign-off"
+            - name: Final bookkeeping when winding down a business
               description: |-
                 ## Purpose
-                Every accounting system keeps a history of who changed what and when, and reading it is how an experienced bookkeeper spots deleted transactions, backdated entries and edits to locked periods. A quarterly look at the change history catches honest mistakes and unauthorised changes before they become hard to unwind.
+                Closing a business still needs a complete set of books to the final day, covering the last sales, asset sales, the final payroll, closing bank accounts and what is owed to or by the owners. Planning the last bookkeeping steps with your accountant means final returns can be filed and the records kept for the required years.
 
                 ## Milestones
-                1. The audit trail or history report found and its filters understood.
-                2. Deletions, backdated entries and changes before the lock date filtered out.
-                3. Each unexpected change explained by the person who made it.
-                4. Findings and any permission changes recorded.
-              priority: low
+                1. A closing date agreed with your accountant and any adviser.
+                2. Final sales, costs and asset disposals coded with documents.
+                3. Every bank account and card emptied, coded and closed.
+                4. A final ledger export and the full document archive stored for the retention period.
+
+                ## Notes
+                Closing a company has legal and tax steps beyond the books. Take advice from your accountant or a solicitor on the order to do them in.
+              priority: medium
+              deadlineOffsetDays: 180
               frontmatter:
-                mode: operating
-                output_kind: habit
-                success_criteria: "Four quarterly reviews of the change history are recorded, with every deletion and backdated entry explained."
-                cadence: cyclic
+                mode: event
+                output_kind: event-completion
+                success_criteria: "Every business account shows zero in the ledger, and a final export with the document archive is stored where it can be found for the retention period."
+                cadence: phased
+                effort_hours_estimate: "12"
               tasks:
-                - "Open the audit trail or history report in your software"
-                - "Filter for deletions and entries dated in earlier periods"
-                - "Review the change history for unexpected edits @recurring(quarterly)"
-                - "Ask the person behind each unexpected change for the reason"
-            - name: Testing automated coding suggestions
+                - "Agree the closing date and sequence of steps with your accountant"
+                - "List every account, card, loan and subscription still open"
+                - "Code the final transactions on each account as it closes"
+                - "Export the full ledger and archive it with the documents"
+            - name: Multi-client coding workflow for bookkeepers
               description: |-
                 ## Purpose
-                Many systems now suggest an account for every bank line, and accepting suggestions in bulk is fast until the software learns a mistake and repeats it hundreds of times. Measuring how often the suggestions are right, by transaction type, shows where to accept them freely and where a person must still decide.
+                Bookkeepers with fifteen or more client files lose hours switching between ledgers, and a client with a backlog quietly falls behind until a deadline exposes it. A weekly cross-client exceptions list showing uncoded lines, holding account balances and open queries for every client lets you work by exception and spot trouble early.
 
                 ## Milestones
-                1. A month of suggested codes compared with the codes a person would choose.
-                2. Accuracy measured separately for regular suppliers, one-off purchases and money in.
-                3. A written rule for which suggestions can be accepted in bulk.
-                4. The test repeated after six months or a major software update.
+                1. Every client file listed with its coding frequency and next deadline.
+                2. A weekly exceptions view of uncoded lines and holding account balances per client.
+                3. A standard coding guide layout used across all client files.
+                4. Clients more than two weeks behind contacted the same week.
+              priority: medium
+              frontmatter:
+                mode: service
+                output_kind: habit
+                success_criteria: "For eight weeks running, no client file has uncoded lines older than its agreed coding frequency."
+                cadence: rolling
+              tasks:
+                - "List every client file with its coding frequency and next filing deadline"
+                - "Build an exceptions sheet with uncoded lines and holding balances per client"
+                - "Update the cross-client exceptions sheet @recurring(weekly:tue)"
+                - "Contact any client more than two weeks behind on documents"
+            - name: Reverse charge and imported services coding
+              description: |-
+                ## Purpose
+                Services bought from abroad, such as software, advertising and freelance work from overseas, often carry special sales tax treatment like the reverse charge in VAT systems, and the code chosen at the transaction drives the return. Setting up the right tax codes and supplier defaults, confirmed by your accountant, stops these lines from being silently miscoded every month.
+
+                ## Milestones
+                1. Every overseas supplier identified from the last twelve months.
+                2. The tax treatment for each type of import confirmed with your accountant.
+                3. Tax codes and supplier defaults set to match.
+                4. Last quarter's overseas purchases checked and corrected.
+
+                ## Notes
+                The rules differ by country and change often. Treat this as applying your accountant's answer, never as working it out alone.
               priority: low
               frontmatter:
                 mode: research
-                output_kind: decision
-                success_criteria: "A written rule, based on a month of measured accuracy by transaction type, says which automated suggestions can be accepted without review."
+                output_kind: artifact
+                success_criteria: "All overseas suppliers carry a default tax code confirmed by the accountant, and last quarter's imports are coded to match."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Export a month of suggested codes alongside the codes actually used"
-                - "Mark each suggestion as right or wrong"
-                - "Work out the accuracy for each transaction type"
-                - "Write the rule for which suggestions to accept in bulk"
+                - "Filter last year's payments for suppliers based outside your country"
+                - "Group them by type: software, advertising, contractors, goods"
+                - "Ask your accountant which tax treatment applies to each group"
+                - "Set supplier default tax codes and recode last quarter"
+            - name: Coding handover manual for cover and new hires
+              description: |-
+                ## Purpose
+                Holidays, illness or a bookkeeper leaving can stop coding for weeks if the method lives in one person's head. A short handover manual with logins held safely, the weekly checklist, the coding guide, the decision tree and where every document arrives means someone else can pick up the ledger within a day.
+
+                ## Milestones
+                1. A manual that links the checklist, coding guide, decision tree and queries list.
+                2. A list of every feed, portal and inbox involved, with who holds access.
+                3. A colleague or stand-in who has run one coding session from the manual alone.
+                4. A review date set after each change of person or software.
+
+                ## Notes
+                Never write passwords into the manual. Record who holds each login and use a password manager to share access.
+              priority: low
+              frontmatter:
+                mode: building
+                output_kind: artifact
+                success_criteria: "A stand-in has completed one full weekly coding session using only the manual, with no more than two questions."
+                cadence: one-shot
+                effort_hours_estimate: "5"
+              tasks:
+                - "List every feed, portal and inbox you use for coding"
+                - "Record who holds access to each without writing down passwords"
+                - "Collect the checklist, coding guide and decision tree into one manual"
+                - "Ask a stand-in to run one coding session from the manual"
 ---
 
 # Bookkeeping & Transaction Coding
 
-This area is for owners, freelancers and founders who record their own transactions, and for the bookkeepers who do it for them. It starts with the foundations (a recording basis, a map of source documents, agreed opening balances and a one-page coding guide), then the weekly and monthly routines that keep the ledger current, the coding skills that trip most people up, the improvements and decisions that make coding faster and safer, dated moments such as the year-end pack, situations like a first employee or a bookkeeper leaving, and finally the work of an experienced bookkeeper running several client files.
+This area is for owners, freelancers and founders who code their own transactions, and for the bookkeepers who code them on their behalf. It starts with the foundations (separating personal money, choosing a recording basis, a home for every document, a coding guide and a cleared backlog), moves through the weekly and monthly routines that keep the ledger current, the coding skills that catch most people out and the improvements that make coding faster, then dated moments such as the year-end handover, situations from a first side business to a wind-down, and the specialist work of a bookkeeper running several client files.
 
-What repeats is a weekly coding session and receipt upload, a monthly pass over bank rules, suspense and a twenty-transaction spot check, a monthly queries list to the accountant, quarterly duplicate and audit trail reviews, and the yearly archive and year-end adjustments. The Operational checklist, Metrics log and Course templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a weekly coding session with a receipt chase, daily takings for anyone handling cash, monthly checks on uncategorised items, transfers, loans, payroll journals and a twenty-line accuracy sample, a monthly query list for the accountant, quarterly bank rule and auto-coding reviews, and a yearly handover and archive. The Operational checklist, Metrics log and Onboarding plan templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

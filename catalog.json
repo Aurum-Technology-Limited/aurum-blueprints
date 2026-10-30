@@ -9883,9 +9883,121 @@
       "contentHash": "sha256:71ae1450a76434af6685d96596ebb0e9b7273313903cc7f3b1a9fd6718cc4269"
     },
     {
+      "id": "finance-accounting.accounting-software-implementation",
+      "name": "Accounting Software Implementation",
+      "description": "Requirements and a scored shortlist, clean migration of balances and contacts, bank feeds and app connections, a planned go-live, and the routines and training that keep finance software working.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "accounting-software-implementation",
+        "small-business",
+        "founder",
+        "team",
+        "cloud-accounting",
+        "data-migration",
+        "bank-feeds"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/accounting-software-implementation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 215
+      },
+      "contentHash": "sha256:7a15298f419944edb2b1c196629a23a68dfef922240950e14a25468ebeb7009a"
+    },
+    {
+      "id": "finance-accounting.accounts-payable-operations",
+      "name": "Accounts Payable Operations",
+      "description": "One inbox for bills, a clean supplier file, approvals that move, a steady payment run and monthly statement checks, so suppliers are paid correctly and on the terms agreed.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "accounts-payable-operations",
+        "small-business",
+        "team",
+        "enterprise",
+        "supplier-invoices",
+        "payment-runs",
+        "three-way-match"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/accounts-payable-operations.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:fccf1f8e75acf8a4127ca837091147781b7ca158dc18cbcb6852e08f4b3d34f1"
+    },
+    {
+      "id": "finance-accounting.annual-operating-budget-build",
+      "name": "Annual Operating Budget Build",
+      "description": "A budget calendar worked back from board approval, an owner for every line, driver-based revenue and cost builds phased by month, gap-closing and contingency decisions, and a budget the board approves on time.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "annual-operating-budget-build",
+        "manager",
+        "founder",
+        "enterprise",
+        "budgeting",
+        "phasing",
+        "board-approval"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/annual-operating-budget-build.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:ebd18c3fa8a31a43b07022e699fb2f6d4a28d58291b7f024c3087685414af419"
+    },
+    {
+      "id": "finance-accounting.bank-card-reconciliation",
+      "name": "Bank & Card Reconciliation",
+      "description": "Every bank, card and loan account agreed to its statement on a fixed rhythm, with a standard working paper, a chase list for unexplained items, second-person review and a clean year-end pack.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "bank-card-reconciliation",
+        "small-business",
+        "freelancer",
+        "team",
+        "credit-cards",
+        "bank-statements",
+        "outstanding-items"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/bank-card-reconciliation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:5a8a94af931cc24d9ef2ad241e4c8094039d8d116e048de6e32be6b928583434"
+    },
+    {
       "id": "finance-accounting.bookkeeping-transaction-coding",
       "name": "Bookkeeping & Transaction Coding",
-      "description": "A coding guide, a document behind every entry, a weekly coding habit and monthly checks that keep the ledger accurate, from agreed opening balances to a clean year-end pack.",
+      "description": "Every business transaction recorded, evidenced and coded to the right account and tax code each week, with rules, checks and a clean handover to your accountant.",
       "category": "business",
       "tags": [
         "finance-accounting",
@@ -9893,9 +10005,9 @@
         "small-business",
         "freelancer",
         "founder",
-        "transaction-coding",
+        "bank-feeds",
         "receipts",
-        "bank-rules"
+        "double-entry"
       ],
       "version": "1.0.0",
       "path": "blueprints/finance-accounting/bookkeeping-transaction-coding.md",
@@ -9906,9 +10018,1271 @@
         ],
         "totalAreas": 1,
         "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:07ca2dbe0648fe340e384cddfe38de413e4e9d3851027137f4d36e4631bac625"
+    },
+    {
+      "id": "finance-accounting.budget-versus-actual-variance",
+      "name": "Budget Versus Actual Variance Analysis",
+      "description": "A monthly budget versus actual cycle that budget holders trust and act on: clean mapping and thresholds, named owners, explanations with causes, review meetings, action logs and the analysis skills behind them.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "budget-versus-actual-variance",
+        "manager",
+        "team",
+        "enterprise",
+        "variance-analysis",
+        "fpa",
+        "budget-holders"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/budget-versus-actual-variance.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3d615bcbda69c0b8fc6f8feb91eabd3120a045a8303ddfed4be0a9b81506db91"
+    },
+    {
+      "id": "finance-accounting.business-banking-relationships",
+      "name": "Business Banking Relationships",
+      "description": "The right business accounts and payment providers, a clean mandate and online banking roles, fees kept in check, and a relationship manager who knows the business before you need credit.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "business-banking-relationships",
+        "small-business",
+        "founder",
+        "manager",
+        "bank-accounts",
+        "payment-providers",
+        "relationship-manager"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/business-banking-relationships.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 214
+      },
+      "contentHash": "sha256:3b01d747a43a5d65a0dd5a8fd5d0e025b8635eb0f78f90bb7ff9d7fc41dec83a"
+    },
+    {
+      "id": "finance-accounting.business-cash-flow-forecasting",
+      "name": "Business Cash Flow Forecasting",
+      "description": "A 13-week cash forecast built from real receipts and payments, a minimum buffer, scenarios and a weekly rhythm that shows shortfalls early enough to act on them.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "business-cash-flow-forecasting",
+        "small-business",
+        "founder",
+        "manager",
+        "cash-flow",
+        "13-week-forecast",
+        "runway"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/business-cash-flow-forecasting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:c1b744a297c0e8f1e0e86a5a847ba7ded9c1070b004820cff72ff6535b1a7133"
+    },
+    {
+      "id": "finance-accounting.business-cost-reduction-programme",
+      "name": "Business Cost Reduction Programme",
+      "description": "A charter and spend baseline, savings that show up in the accounts, renewal gates and structured reviews of software, suppliers, property, fees and headcount, so costs fall without harming the business.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "business-cost-reduction-programme",
+        "small-business",
+        "manager",
+        "enterprise",
+        "cost-reduction",
+        "supplier-negotiation",
+        "spend-analysis"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/business-cost-reduction-programme.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:2924abbdeb7ba9f87cf676a80ad19568672e8bbeb0d3eba441bdcc2e2bdcae8e"
+    },
+    {
+      "id": "finance-accounting.business-debt-loan-servicing",
+      "name": "Business Debt & Loan Servicing",
+      "description": "A register of every loan, overdraft and lease, repayments funded on time, covenants tested before the lender tests them, lender reports sent on schedule and refinancing started while there is still a choice.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "business-debt-loan-servicing",
+        "small-business",
+        "founder",
+        "manager",
+        "loans",
+        "covenants",
+        "refinancing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/business-debt-loan-servicing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:551d221097ff85e814c8b0f431d75f4bd35cec97d7ef2c94af0d28b8d24e0e6b"
+    },
+    {
+      "id": "finance-accounting.capital-expenditure-planning",
+      "name": "Capital Expenditure Planning",
+      "description": "A capital policy, house appraisal assumptions, business cases a panel can decide on, monthly spend against approval and post-investment reviews, from a first van to a group capital programme.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "capital-expenditure-planning",
+        "manager",
+        "enterprise",
+        "small-business",
+        "business-case",
+        "payback",
+        "capital-budgeting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/capital-expenditure-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:bd260e79f58bfc8f78205ceacd4f48043437bb2af311c669bc8376b06a32b269"
+    },
+    {
+      "id": "finance-accounting.chart-of-accounts-design",
+      "name": "Chart of Accounts Design",
+      "description": "A numbering scheme, clear rules for accounts versus tracking categories, clean-ups, monthly and yearly checks, so the chart of accounts gives owners and managers reports they can actually use.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "chart-of-accounts-design",
+        "small-business",
+        "founder",
+        "manager",
+        "tracking-categories",
+        "account-mapping",
+        "general-ledger"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/chart-of-accounts-design.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0fbe9683e3ebf9e6fdf40d52d18e14a52e4d30883009501f3f9a79c7c0ad01a8"
+    },
+    {
+      "id": "finance-accounting.contractor-payment-reporting",
+      "name": "Contractor Payment Reporting",
+      "description": "A register of everyone you pay outside payroll, tax forms on file before the first payment, status checks, and year-end contractor payment reports filed on time and correct.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "contractor-payment-reporting",
+        "small-business",
+        "manager",
+        "agency",
+        "tax-forms",
+        "information-returns",
+        "worker-status"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/contractor-payment-reporting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0a92655401da5bef59903f5e0b021ced1a351b1c922c052df874ccaaf9f74a51"
+    },
+    {
+      "id": "finance-accounting.corporate-income-tax-returns",
+      "name": "Corporate Income Tax Returns",
+      "description": "A corporate tax calendar and computation file, quarterly liability estimates and instalments, allowances, losses and elections tracked, and a calm yearly filing week with director approval and payment on time.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "corporate-income-tax-returns",
+        "small-business",
+        "founder",
+        "enterprise",
+        "corporate-tax",
+        "tax-computation",
+        "instalments"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/corporate-income-tax-returns.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:6471d53b7fc6efd4701f0a944ebe6a951eaf8666dab8532f65c339476a1fa086"
+    },
+    {
+      "id": "finance-accounting.cost-centre-overhead-allocation",
+      "name": "Cost Centre & Overhead Allocation",
+      "description": "Cost centres with named owners, overhead pools and drivers people accept, a monthly allocation run that nets to zero, and unit results managers trust enough to act on.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "cost-centre-overhead-allocation",
+        "manager",
+        "enterprise",
+        "team",
+        "overheads",
+        "cost-allocation",
+        "shared-services"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/cost-centre-overhead-allocation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
         "totalTasks": 202
       },
-      "contentHash": "sha256:1470e5159a04fcb694aeeb71ff407fe71784dc5d6e4dd8c0beb7e9d8e5387bf0"
+      "contentHash": "sha256:9b29533c61ca030945dcc38b8cbf75119553912b9ed640b6910a3fa6dd3392a0"
+    },
+    {
+      "id": "finance-accounting.customer-credit-risk-assessment",
+      "name": "Customer Credit Risk Assessment",
+      "description": "Every credit customer vetted before the first order, with a written policy and appetite, limits set by method, holds and alerts that catch trouble early, and reviews that keep exposure inside what the business can absorb.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "customer-credit-risk-assessment",
+        "small-business",
+        "manager",
+        "team",
+        "credit-limits",
+        "trade-credit",
+        "credit-checks"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/customer-credit-risk-assessment.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:91401d8cd7f52dd966a92766e55d9de0478bcb79946b988d69c701467deb8cbd"
+    },
+    {
+      "id": "finance-accounting.customer-invoicing-billing",
+      "name": "Customer Invoicing & Billing",
+      "description": "Invoices that carry the right details, terms and tax, go out the day the work is done, and are backed by clean credit notes, statements and recurring billing runs.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "customer-invoicing-billing",
+        "small-business",
+        "freelancer",
+        "agency",
+        "invoicing",
+        "credit-notes",
+        "recurring-billing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/customer-invoicing-billing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:41093f0bf0acc485197a3d68f4010ffbaedb772de7dfacbe2036439483986c0f"
+    },
+    {
+      "id": "finance-accounting.delegation-of-financial-authority",
+      "name": "Delegation of Financial Authority",
+      "description": "An authority matrix that says who can approve spend, sign contracts and commit the business at each level, kept current through board re-approval, people changes and regular compliance checks.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "delegation-of-financial-authority",
+        "manager",
+        "enterprise",
+        "founder",
+        "approval-limits",
+        "signing-authority",
+        "governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/delegation-of-financial-authority.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:178835006216fe468332f6ab1d25bf135da50c42101456e76e3629cb4667555f"
+    },
+    {
+      "id": "finance-accounting.employee-expense-management",
+      "name": "Employee Expense Management",
+      "description": "A written expense policy, company cards with clear rules, receipts captured weekly, approvals that move and reimbursements paid on a fixed day, so staff spending is controlled and claims are paid fast.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "employee-expense-management",
+        "small-business",
+        "team",
+        "enterprise",
+        "company-cards",
+        "receipts",
+        "reimbursements"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/employee-expense-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 210
+      },
+      "contentHash": "sha256:2e499339449496b1cc161c6681d340a9d26e5fe2ff47ca3cab04631e77038fb9"
+    },
+    {
+      "id": "finance-accounting.external-audit-preparation",
+      "name": "External Audit Preparation",
+      "description": "An agreed audit timetable, an owned PBC list, lead schedules and evidence kept ready all year, auditor requests handled fast, and adjustments, representations and findings closed out on time.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "external-audit-preparation",
+        "enterprise",
+        "manager",
+        "nonprofit",
+        "pbc-list",
+        "audit-committee",
+        "audit-evidence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/external-audit-preparation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:3dec211871e2ef26675ccd60e96f16070ab26dd5a2ba85addb96c31951dda177"
+    },
+    {
+      "id": "finance-accounting.finance-business-partnering",
+      "name": "Finance Business Partnering",
+      "description": "A charter with each department head, a fact base and driver tree for their area, a steady partnering rhythm, spend and deal challenge that helps rather than blocks, and the skills to shape commercial decisions.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "finance-business-partnering",
+        "manager",
+        "enterprise",
+        "team",
+        "business-partnering",
+        "decision-support",
+        "stakeholders"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/finance-business-partnering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:16ad7ee177ba2b86f4394419a9c13f1a5bebd8a3e6a0e0d61ca76d02ece27b70"
+    },
+    {
+      "id": "finance-accounting.fixed-asset-register-depreciation",
+      "name": "Fixed Asset Register & Depreciation",
+      "description": "A fixed asset register that agrees to the ledger, a written capitalisation policy, monthly depreciation, yearly counts and disposals handled properly, from one van to a multi-site estate.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "fixed-asset-register-depreciation",
+        "small-business",
+        "manager",
+        "enterprise",
+        "depreciation",
+        "capitalisation",
+        "asset-register"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/fixed-asset-register-depreciation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:eacd9e90f6f850770f6318cc64cb28bfd47e40045b23d1debb14a7ccb0d0e423"
+    },
+    {
+      "id": "finance-accounting.foreign-exchange-treasury",
+      "name": "Foreign Exchange & Treasury Management",
+      "description": "A currency exposure map, a treasury policy the board has signed, hedging and payment routines, and the pooling and surplus cash decisions for businesses that trade or hold money across borders.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "foreign-exchange-treasury",
+        "enterprise",
+        "manager",
+        "small-business",
+        "currency-risk",
+        "hedging",
+        "international-payments"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/foreign-exchange-treasury.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:71828dca025de1978ff2d27c7811e7468406c9d97db1160a2418559b92e0becd"
+    },
+    {
+      "id": "finance-accounting.headcount-cost-planning",
+      "name": "Headcount Cost Planning",
+      "description": "A position-level model of what your people really cost, with employer taxes, benefits and per-head costs, a hiring plan tied to budget and runway, and the monthly checks that keep it matched to payroll.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "headcount-cost-planning",
+        "manager",
+        "founder",
+        "enterprise",
+        "workforce-planning",
+        "hiring-plan",
+        "people-costs"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/headcount-cost-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:76c3326e237f8bba86dfd2b66039635697ae939186fa953b57465af8fb253749"
+    },
+    {
+      "id": "finance-accounting.internal-financial-controls",
+      "name": "Internal Financial Controls",
+      "description": "A risk and control matrix with named owners, segregation of duties and access reviews, walkthroughs and sample testing, deficiency tracking and remediation, and reporting that lets leadership rely on the numbers.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "internal-financial-controls",
+        "enterprise",
+        "manager",
+        "team",
+        "segregation-of-duties",
+        "control-testing",
+        "risk-control-matrix"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/internal-financial-controls.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:2aa34cd050172af979274a70dae4f08d16d02b336b6c0dfe2916b45a6987b14d"
+    },
+    {
+      "id": "finance-accounting.inventory-costing-valuation",
+      "name": "Inventory Costing & Valuation",
+      "description": "A written stock valuation policy and cost formula, ledgers that reconcile, cycle and year-end counts, obsolescence and net realisable value reviews, and costing rules that keep cost of goods sold right.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "inventory-costing-valuation",
+        "small-business",
+        "manager",
+        "enterprise",
+        "stock-count",
+        "cost-of-goods-sold",
+        "stock-provisions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/inventory-costing-valuation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:31178ff6fe4db4d664c5e415db8dcb042096555acb4d14f660e179b164caa3ff"
+    },
+    {
+      "id": "finance-accounting.lease-accounting-ifrs-16",
+      "name": "Lease Accounting Under IFRS 16",
+      "description": "A complete lease inventory, defensible judgements on term, discount rate and exemptions, schedules that post every month, controls the auditor can test and a disclosure note that reconciles first time.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "lease-accounting-ifrs-16",
+        "enterprise",
+        "manager",
+        "ifrs",
+        "leases",
+        "right-of-use-assets",
+        "lease-liabilities"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/lease-accounting-ifrs-16.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 185
+      },
+      "contentHash": "sha256:d11956992a6d968fad6e899658763f87bf15803e4ca8932259db14d687a3290e"
+    },
+    {
+      "id": "finance-accounting.management-accounts-reporting",
+      "name": "Management Accounts Reporting",
+      "description": "A monthly management accounts pack people read and act on: a decision-led layout and timetable, tied-out numbers, KPI, balance sheet and cash pages, sharp commentary, review meetings and board-ready reporting.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "management-accounts-reporting",
+        "small-business",
+        "manager",
+        "founder",
+        "management-accounts",
+        "commentary",
+        "board-reporting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/management-accounts-reporting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4790457760180a5af0d2ffe98f235deeab8749fb9055a3a393db289039e83f81"
+    },
+    {
+      "id": "finance-accounting.month-end-close-process",
+      "name": "Month-End Close Process",
+      "description": "A working-day close calendar and checklist with named owners, monthly accruals, prepayments and reconciliations, journal review and sign-off, and the changes that bring reliable numbers in five days.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "month-end-close-process",
+        "small-business",
+        "manager",
+        "team",
+        "accruals",
+        "cut-off",
+        "close-checklist"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/month-end-close-process.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:21ecc782ad83d40c4600cc8aec459464eb00ead7698d1a43259a1a489e63aa57"
+    },
+    {
+      "id": "finance-accounting.multi-entity-consolidation",
+      "name": "Multi-Entity Consolidation",
+      "description": "An entity register and scope memo, group policies, mapping and reporting packs, monthly intercompany matching, eliminations and currency translation, and the acquisitions, disposals and specialist cases that test a group close.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "multi-entity-consolidation",
+        "enterprise",
+        "manager",
+        "team",
+        "intercompany",
+        "eliminations",
+        "group-reporting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/multi-entity-consolidation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:d635a450f851029be4bed2bd479deeba9636aa97388bf824fa885986bf663733"
+    },
+    {
+      "id": "finance-accounting.nonprofit-fund-accounting",
+      "name": "Nonprofit Fund Accounting",
+      "description": "A fund register, restriction terms on file, fund-coded books, monthly roll-forwards, grant budget tracking, funder and trustee reporting, a reserves policy and the annual filings that keep a charity accountable.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "nonprofit-fund-accounting",
+        "nonprofit",
+        "manager",
+        "team",
+        "restricted-funds",
+        "grant-reporting",
+        "charity"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/nonprofit-fund-accounting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:262ef5969c1445e758f244236ade5fcd74e307cfd653661c83b5b9d21f628834"
+    },
+    {
+      "id": "finance-accounting.outsourced-accountant-management",
+      "name": "Outsourced Accountant Management",
+      "description": "Choose the right external accountant or bookkeeping firm, agree scope and fees in writing, brief them well every month and get real value from the relationship year after year.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "outsourced-accountant-management",
+        "small-business",
+        "founder",
+        "freelancer",
+        "accountant",
+        "engagement-letter",
+        "accountancy-fees"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/outsourced-accountant-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 173
+      },
+      "contentHash": "sha256:fbeaed0a13debb5d99bb70d12ae4d9725fdebafb528b7f64c608464c8501fbc1"
+    },
+    {
+      "id": "finance-accounting.owner-pay-dividend-planning",
+      "name": "Owner Pay & Dividend Planning",
+      "description": "Decide how much to take, in what form and when: a personal budget, salary and dividend plans agreed with your accountant, dividend paperwork, director's loan control and a tax pot for owner income.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "owner-pay-dividend-planning",
+        "small-business",
+        "founder",
+        "freelancer",
+        "dividends",
+        "drawings",
+        "directors-loan"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/owner-pay-dividend-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:0136433c35fa56c6f6a9499919e9333a2132c3f1b6715b69b39ce1462a2816f0"
+    },
+    {
+      "id": "finance-accounting.payment-fraud-prevention",
+      "name": "Payment Fraud Prevention",
+      "description": "Callback checks for changed bank details, locked-down banking access, staff who recognise invoice and impersonation scams, routines that catch bad payees before release, and a plan for the first hour after money goes.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "payment-fraud-prevention",
+        "small-business",
+        "manager",
+        "enterprise",
+        "invoice-fraud",
+        "business-email-compromise",
+        "payment-verification"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/payment-fraud-prevention.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:0d1de6cca6a7d308cbc0c596ceadd3430537ac2785bbe63ba3d1fd539b06e800"
+    },
+    {
+      "id": "finance-accounting.payment-processor-payout-reconciliation",
+      "name": "Payment Processor Payout Reconciliation",
+      "description": "Every processor, marketplace and card reader payout traced back to its orders, fees, refunds and disputes through its own clearing account, so online sales in the books agree with the shop and the bank.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "payment-processor-payout-reconciliation",
+        "small-business",
+        "founder",
+        "team",
+        "payouts",
+        "merchant-fees",
+        "chargebacks"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/payment-processor-payout-reconciliation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:6751438ce406d6e65601fb6e971badf5f976f9ebf4b3a5452c966ddb6845ea42"
+    },
+    {
+      "id": "finance-accounting.payroll-run-processing",
+      "name": "Payroll Run Processing",
+      "description": "A pay calendar and clean employee records, a checked run each period with starters, leavers, variance review and approval, employer filings and remittances, and a calm year-end for small and growing businesses.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "payroll-run-processing",
+        "small-business",
+        "manager",
+        "team",
+        "payslips",
+        "employer-filings",
+        "starters-leavers"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/payroll-run-processing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:eb683fb2a6570c2b127bc291751131e14b9f31300506b024f930932da3cbbb16"
+    },
+    {
+      "id": "finance-accounting.product-margin-analysis",
+      "name": "Product Margin Analysis",
+      "description": "Clean revenue and unit costs, gross margin by product, service line and customer, monthly refreshes and reviews, and the repricing and discontinue decisions that follow from them.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "product-margin-analysis",
+        "small-business",
+        "manager",
+        "founder",
+        "gross-margin",
+        "pricing",
+        "customer-profitability"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/product-margin-analysis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:a2a5109515569cca534dd94a98505e41cfb046839e1a6ff5d2599befb7f34232"
+    },
+    {
+      "id": "finance-accounting.project-job-costing",
+      "name": "Project & Job Costing",
+      "description": "Job numbers and cost codes, burdened labour rates, timesheets and bills coded to jobs, a weekly cost report, a monthly WIP schedule and the close-out reviews that show which work really pays.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "project-job-costing",
+        "small-business",
+        "agency",
+        "manager",
+        "job-costing",
+        "contractors",
+        "work-in-progress"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/project-job-costing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:2b17cdad45aaa58d688139feaeaa8b974e596f88659101bcaacd24c726f2f8d5"
+    },
+    {
+      "id": "finance-accounting.rd-tax-credit-claims",
+      "name": "R&D Tax Credit Claims",
+      "description": "Eligibility confirmed, evidence and staff time captured as the work happens, cost schedules mapped from the ledger, clear technical narratives, and a calm yearly claim cycle from interviews to submission and any enquiry.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "rd-tax-credit-claims",
+        "founder",
+        "small-business",
+        "engineer",
+        "rd-tax-credit",
+        "technical-evidence",
+        "innovation-relief"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/rd-tax-credit-claims.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:88837f467bf15c3f681e931f9ebb50ef1b4eb39cb40b0c69354588a22f4ddaca"
+    },
+    {
+      "id": "finance-accounting.receivables-collections-management",
+      "name": "Receivables & Collections Management",
+      "description": "A clean aged debtor list, a written chasing timetable, weekly collection sessions, payment plans that hold and a clear route to escalation, so customers pay closer to terms and debtor days come down.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "receivables-collections-management",
+        "small-business",
+        "freelancer",
+        "team",
+        "credit-control",
+        "dunning",
+        "debtor-days",
+        "late-payment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/receivables-collections-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:1430e7f4f647e8540a2f1394610155a0e4849ad1f22e65e35d763d237142f527"
+    },
+    {
+      "id": "finance-accounting.revenue-recognition-policy",
+      "name": "Revenue Recognition Policy",
+      "description": "A written revenue recognition policy built on the five-step model, with mapped performance obligations, selling price evidence, deal review before signature and the judgements auditors and investors will test.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "revenue-recognition-policy",
+        "founder",
+        "manager",
+        "enterprise",
+        "ifrs-15",
+        "asc-606",
+        "performance-obligations"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/revenue-recognition-policy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:9eed8a46124e16ab18eafc34c6dfff1848180ed6536c2bcce42ec8cf86b82099"
+    },
+    {
+      "id": "finance-accounting.rolling-financial-forecasts",
+      "name": "Rolling Financial Forecasts",
+      "description": "A twelve to eighteen month rolling forecast built on drivers and named owners, refreshed every month or quarter, with accuracy tracked, scenarios ready and a pack the board and investors can trust.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "rolling-financial-forecasts",
+        "manager",
+        "founder",
+        "team",
+        "reforecasting",
+        "driver-based-planning",
+        "scenario-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/rolling-financial-forecasts.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:96b87bffd6edc0bfef9f0258cfc8e05bb723cc70e2b9013776fab3e1db166d65"
+    },
+    {
+      "id": "finance-accounting.sales-tax-vat-filing",
+      "name": "Sales Tax & VAT Filing",
+      "description": "Registration when you cross the threshold, tax treatment mapped for everything you sell, reconciled returns filed and paid on time, and the cross-border, scheme and correction work trading businesses run into.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "sales-tax-vat-filing",
+        "small-business",
+        "freelancer",
+        "founder",
+        "vat",
+        "gst",
+        "sales-tax"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/sales-tax-vat-filing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:0d9e435fe5ea110f2e99ce1c81c89ec12c679c393248ac855beee9a33c93c3f0"
+    },
+    {
+      "id": "finance-accounting.subscription-revenue-accounting",
+      "name": "Subscription Revenue Accounting",
+      "description": "A deferred revenue ledger you can prove, written MRR, ARR and churn definitions, a monthly waterfall and MRR bridge, contract change rules and the audit and investor work that recurring revenue attracts.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "subscription-revenue-accounting",
+        "founder",
+        "manager",
+        "team",
+        "saas",
+        "deferred-revenue",
+        "mrr",
+        "churn"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/subscription-revenue-accounting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:5a0e1f0e60273a09efa66749453630b3b78678b00389313c40c7c7f4566e2ea4"
+    },
+    {
+      "id": "finance-accounting.tax-investigation-response",
+      "name": "Tax Investigation Response",
+      "description": "A calm first response to a tax authority letter, the right adviser and a case file, deadline and request logs, penalty know-how, and the routes from inspection visit to settlement, appeal or closure.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "tax-investigation-response",
+        "small-business",
+        "founder",
+        "enterprise",
+        "tax-enquiry",
+        "tax-dispute",
+        "penalties"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/tax-investigation-response.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:9b38f716fd431768677bdde418f30236e56e135d1d5ccddcbd953064b4fa4926"
+    },
+    {
+      "id": "finance-accounting.three-statement-financial-modelling",
+      "name": "Three-Statement Financial Modelling",
+      "description": "A linked profit and loss, balance sheet and cash flow model built from history and drivers, kept current with monthly actuals and checks, and used for funding, valuation and board decisions.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "three-statement-financial-modelling",
+        "founder",
+        "manager",
+        "knowledge-worker",
+        "financial-model",
+        "valuation",
+        "scenario-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/three-statement-financial-modelling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:337ead28aa3641656ec2b74a18f4ff5f557ea912922795cda8b8db0aa762a3f4"
+    },
+    {
+      "id": "finance-accounting.transfer-pricing-documentation",
+      "name": "Transfer Pricing Documentation",
+      "description": "A mapped set of intercompany flows, a group pricing policy, local and master files on an annual cycle, benchmarks, true-ups and filings, ready for any tax authority request.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "transfer-pricing-documentation",
+        "enterprise",
+        "manager",
+        "transfer-pricing",
+        "intercompany",
+        "oecd-guidelines",
+        "international-tax"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/transfer-pricing-documentation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:bf4d9cfca2ef8fa518a2788af570ceeb113341b5da09c181ab2d32847647886b"
+    },
+    {
+      "id": "finance-accounting.unit-economics-modelling",
+      "name": "Unit Economics Modelling",
+      "description": "Contribution per unit, fully loaded acquisition cost, cohort-based lifetime value and payback, with monthly reviews, channel tracking and the price and channel decisions that decide whether growth makes money.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "unit-economics-modelling",
+        "founder",
+        "manager",
+        "small-business",
+        "customer-acquisition-cost",
+        "lifetime-value",
+        "contribution-margin"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/unit-economics-modelling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:121364c42003fdc2a90b6325b572288f40a4bc801d27a853a352c27c13e24f8e"
+    },
+    {
+      "id": "finance-accounting.working-capital-optimisation",
+      "name": "Working Capital Optimisation",
+      "description": "A measured cash conversion cycle, registers of real customer and supplier terms, stock cover by product, and the monthly routines and term, stock and finance decisions that free cash from the balance sheet.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "working-capital-optimisation",
+        "small-business",
+        "manager",
+        "enterprise",
+        "cash-conversion-cycle",
+        "payment-terms",
+        "stock-cover"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/working-capital-optimisation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:661e51b3e62d7d3e495753d7c9aded3362adc9b41af1b5627af7aa7eb2ec3ce5"
+    },
+    {
+      "id": "finance-accounting.year-end-statutory-accounts",
+      "name": "Year-End Statutory Accounts",
+      "description": "A filing deadline map, a timetable agreed with your accountant, a complete records pack, the notes and disclosures explained, and the approval and filing steps that get annual accounts in on time.",
+      "category": "business",
+      "tags": [
+        "finance-accounting",
+        "year-end-statutory-accounts",
+        "small-business",
+        "founder",
+        "manager",
+        "annual-accounts",
+        "filing-deadlines",
+        "disclosures"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/finance-accounting/year-end-statutory-accounts.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Finance & Accounting"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:02e51f6ae74822fbd40c6e043f7b61b10a799466a2b007bc8140ed062cde8d34"
     },
     {
       "id": "finance-certifications.acca-applied-knowledge-exams",
@@ -15481,6 +16855,811 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:82483d090cea3450ee2d2ebb5d442adca11d08e5a47b7e763f2fbb162ad5f9a5"
+    },
+    {
+      "id": "fundraising-investors.accelerator-incubator-applications",
+      "name": "Accelerator & Incubator Applications",
+      "description": "Choosing the right accelerator or incubator, writing applications and interview answers that land, weighing offers and terms, and getting full value from the programme once you are in.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "accelerator-incubator-applications",
+        "founder",
+        "student",
+        "accelerators",
+        "incubators",
+        "startup-programmes",
+        "demo-day"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/accelerator-incubator-applications.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:fe44b9505a67cc40be7364d7e69b59e472b6337f209f4c0c635164e98d81a28f"
+    },
+    {
+      "id": "fundraising-investors.angel-syndicate-raises",
+      "name": "Angel Syndicate Raises",
+      "description": "Choosing between syndicates and angel networks, preparing lead memos and network applications, pitching to a room of angels and closing SPV and direct cheques on one set of terms.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "angel-syndicate-raises",
+        "founder",
+        "syndicates",
+        "angel-networks",
+        "spv",
+        "pitch-events",
+        "lead-investor"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/angel-syndicate-raises.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 209
+      },
+      "contentHash": "sha256:21ed0f27e9b5feb630197985043d79e52e854a621649e152fa3566f26018f406"
+    },
+    {
+      "id": "fundraising-investors.cap-table-management",
+      "name": "Cap Table Management",
+      "description": "An accurate cap table rebuilt from signed documents, routines for grants, vesting, transfers and filings, and pro forma models that show what each new deal does to ownership.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "cap-table-management",
+        "founder",
+        "manager",
+        "equity",
+        "share-register",
+        "option-grants",
+        "ownership-modelling"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/cap-table-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:312f95753767482b132471e0912aed6869a0d46b342debd5d4e16341210d70f2"
+    },
+    {
+      "id": "fundraising-investors.company-sale-exit-process",
+      "name": "Company Sale & Exit Process",
+      "description": "A sale run on purpose: clear exit goals, the right advisers, buyer-grade numbers, a controlled process from teaser to letter of intent, diligence that keeps moving and a completion you understand line by line.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "company-sale-exit-process",
+        "founder",
+        "small-business",
+        "mergers-acquisitions",
+        "business-sale",
+        "due-diligence",
+        "earn-out"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/company-sale-exit-process.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:71c16819b4da94c7686610efbe40226915c5bb77b510ac052162160e15ce1240"
+    },
+    {
+      "id": "fundraising-investors.equity-crowdfunding-campaign",
+      "name": "Equity Crowdfunding Campaign",
+      "description": "A founder's route through an equity crowdfunding raise: the rules and platform, terms the crowd can buy, the pitch page and video, a private round, launch, the daily campaign rhythm, the close and life with many shareholders.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "equity-crowdfunding-campaign",
+        "founder",
+        "small-business",
+        "crowdfunding",
+        "retail-investors",
+        "community-investment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/equity-crowdfunding-campaign.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:24e9c412652211472f7c0f971078d3ace7f76d009b02b6a8168a59e24fe2d5d8"
+    },
+    {
+      "id": "fundraising-investors.fundraising-financial-model",
+      "name": "Fundraising Financial Model",
+      "description": "An investor-grade model built from clean actuals: driver-based revenue, a hire-by-hire cost plan, runway and use of funds, scenarios, and the checks and monthly refresh that keep it credible in diligence.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "fundraising-financial-model",
+        "founder",
+        "manager",
+        "financial-model",
+        "projections",
+        "use-of-funds",
+        "runway"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/fundraising-financial-model.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:c453b464fe6ede58df40b616578cfadcc69caec8bde5c98fbd911d8d170167ec"
+    },
+    {
+      "id": "fundraising-investors.growth-equity-rounds",
+      "name": "Growth Equity Rounds",
+      "description": "Run a Series B or later growth round with confidence: investor-grade metrics, a planned process, deeper diligence handled calmly and complex terms understood before anyone signs.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "growth-equity-rounds",
+        "founder",
+        "enterprise",
+        "manager",
+        "series-b",
+        "growth-equity",
+        "due-diligence"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/growth-equity-rounds.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 210
+      },
+      "contentHash": "sha256:8d88d1b3b9b801425ea7e7c81c664ebfbf36e89849ad414251426b2b97ba0e33"
+    },
+    {
+      "id": "fundraising-investors.innovation-grant-applications",
+      "name": "Innovation Grant Applications",
+      "description": "Eligibility checks, a pipeline of funding calls, applications written to the scoring criteria, collaborative bids, and the claims, records and reports that keep an innovation grant paid in full.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "innovation-grant-applications",
+        "founder",
+        "small-business",
+        "researcher",
+        "r-and-d",
+        "non-dilutive-funding",
+        "public-funding"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/innovation-grant-applications.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:86cf4fd76f8f4b7bb5cba12d99333bb174ebc982c34f6960b99af5236f08cfb2"
+    },
+    {
+      "id": "fundraising-investors.investor-board-reporting",
+      "name": "Investor Board Reporting",
+      "description": "A board pack that arrives on time and reads in an hour, KPIs with written definitions, minutes and approvals on record, and the investor reports your agreements require.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "investor-board-reporting",
+        "founder",
+        "manager",
+        "board-pack",
+        "kpis",
+        "governance",
+        "management-accounts"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/investor-board-reporting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:99d64a591bc08cebfff51c7e2beaa3676ab6e10fd4dfb439b4bc50443e0b968c"
+    },
+    {
+      "id": "fundraising-investors.investor-data-room",
+      "name": "Investor Data Room",
+      "description": "A diligence-ready data room: a clear numbered index, the right documents in every section, tiered access, a Q&A routine that keeps a live process moving and monthly upkeep between rounds.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "investor-data-room",
+        "founder",
+        "manager",
+        "due-diligence",
+        "virtual-data-room",
+        "document-management",
+        "disclosure"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/investor-data-room.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:390aaf5f027520685bccaa4c583166b7e04427ad71bb0752a0d9cfbb3fdeac0b"
+    },
+    {
+      "id": "fundraising-investors.investor-pitch-deck",
+      "name": "Investor Pitch Deck",
+      "description": "A pitch deck built from a clear story and sourced numbers, kept current between raises, with versions for sending, presenting and demo day, for founders and the designers who help them.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "investor-pitch-deck",
+        "founder",
+        "creative",
+        "pitch-deck",
+        "storytelling",
+        "slide-design",
+        "startup-fundraising"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/investor-pitch-deck.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:fe209fe14b1ba30f6b783a95deaa55cb6f50c755639e0c54c635d49c333fa139"
+    },
+    {
+      "id": "fundraising-investors.investor-pitch-rehearsal-meetings",
+      "name": "Investor Pitch Rehearsal & Meetings",
+      "description": "Practise the pitch until it holds up under questions, run each investor meeting with a brief and a clear close, and turn every conversation into a prompt follow-up and a dated next step.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "investor-pitch-rehearsal-meetings",
+        "founder",
+        "pitch-practice",
+        "investor-meetings",
+        "objection-handling",
+        "follow-up"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/investor-pitch-rehearsal-meetings.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 208
+      },
+      "contentHash": "sha256:39f7f7be7cb5614514d4efe49af19f4463d293c1cd6555cf51ce366c5d22163e"
+    },
+    {
+      "id": "fundraising-investors.investor-target-list-building",
+      "name": "Investor Target List Building",
+      "description": "A researched, scored and tiered investor list matched to your round by stage, sector, cheque size and fit, with the routines that keep it current through the raise and beyond.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "investor-target-list-building",
+        "founder",
+        "venture-capital",
+        "investor-research",
+        "fundraising-crm",
+        "prospecting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/investor-target-list-building.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:cc0ba4e64702c18a79386242eeec25d0ab6900cfa568f4102b6fd9ba6fda55ec"
+    },
+    {
+      "id": "fundraising-investors.ipo-readiness-programme",
+      "name": "IPO Readiness Programme",
+      "description": "A structured route to a stock market listing: an honest gap assessment, the venue and timeline, board and controls built to listed standards, the right advisers and a calm path from drafting to first trading day.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "ipo-readiness-programme",
+        "enterprise",
+        "founder",
+        "manager",
+        "ipo",
+        "listing",
+        "corporate-governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/ipo-readiness-programme.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:82ce3a1ed3c6c4d889c6443f5701d38cd7813a8d2b0e5a35daf89fb11a38c56c"
+    },
+    {
+      "id": "fundraising-investors.major-donor-fundraising",
+      "name": "Major Donor Fundraising",
+      "description": "A planned major gifts programme for a nonprofit: a gift threshold and goal model, ethical prospect research, moves management, discovery and solicitation skills, and prompt personal thanks.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "major-donor-fundraising",
+        "nonprofit",
+        "manager",
+        "major-gifts",
+        "prospect-research",
+        "moves-management",
+        "solicitation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/major-donor-fundraising.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:28bf72aeeb734f365d02147bd64e73e196150ad7e6e9984dfa5d5e64f45327c7"
+    },
+    {
+      "id": "fundraising-investors.monthly-investor-updates",
+      "name": "Monthly Investor Updates",
+      "description": "A monthly investor update that goes out on time: the right recipients, a fixed outline, defined metrics, honest lowlights, specific asks and the follow-up that turns replies into real help.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "monthly-investor-updates",
+        "founder",
+        "investor-updates",
+        "startup-metrics",
+        "investor-communication",
+        "shareholder-updates"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/monthly-investor-updates.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 189
+      },
+      "contentHash": "sha256:895f64d84cb0f3381d1740566ae67b01091bc8bd774f3f552a61bab8644e2aec"
+    },
+    {
+      "id": "fundraising-investors.pre-seed-angel-round",
+      "name": "Pre-Seed & Angel Round",
+      "description": "A first-time founder's route to a pre-seed round: whether and how much to raise, the legal basics, a weekly raise rhythm, friends and family, angels and pre-seed funds, and closing commitments.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "pre-seed-angel-round",
+        "founder",
+        "first-time-founder",
+        "angel-investors",
+        "friends-and-family",
+        "startup-funding"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/pre-seed-angel-round.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 193
+      },
+      "contentHash": "sha256:445af52f28b118ac6edaa1a9cb0cb4b95a69349a1101919e60a9f38b43f5baf1"
+    },
+    {
+      "id": "fundraising-investors.public-company-investor-relations",
+      "name": "Public Company Investor Relations",
+      "description": "A charter, ownership baseline and disclosure policy for a listed company, the routines and calendar that keep shareholders informed, and plans for guidance, capital markets days, activism and bids.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "public-company-investor-relations",
+        "enterprise",
+        "manager",
+        "listed-company",
+        "disclosure",
+        "shareholder-engagement",
+        "investor-calendar"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/public-company-investor-relations.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:f826c908d6f5ecf901bde5804c3a90f685871daefc088eb68642600c6a06f746"
+    },
+    {
+      "id": "fundraising-investors.quarterly-earnings-communications",
+      "name": "Quarterly Earnings Communications",
+      "description": "Results releases, earnings call scripts, Q&A banks and a quarterly timeline that keeps finance, legal and investor relations agreed on every number before it goes public.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "quarterly-earnings-communications",
+        "enterprise",
+        "manager",
+        "earnings-call",
+        "results-release",
+        "disclosure",
+        "listed-company"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/quarterly-earnings-communications.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:7f8458fd5ff1ca42d7e4e2e39cc70c16e52ecd7451a4e92a68abfafe19334392"
+    },
+    {
+      "id": "fundraising-investors.revenue-based-financing",
+      "name": "Revenue-Based Financing",
+      "description": "Revenue financing judged on its real cost: a fit and affordability check, clean data for providers, offers compared and negotiated, remittances tracked and reconciled, and a planned exit from every facility.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "revenue-based-financing",
+        "founder",
+        "small-business",
+        "non-dilutive-funding",
+        "merchant-cash-advance",
+        "growth-capital",
+        "cost-of-capital"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/revenue-based-financing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:161e5dcb4cabf3a7173064c7fa945096c34e2500de304a2f705c089903ead308"
+    },
+    {
+      "id": "fundraising-investors.reward-crowdfunding-launch",
+      "name": "Reward Crowdfunding Launch",
+      "description": "Pre-sell a product on a reward crowdfunding platform: a goal built from real costs, tiers that keep their margin, a launch that funds early and fulfilment backers can trust.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "reward-crowdfunding-launch",
+        "founder",
+        "creative",
+        "small-business",
+        "pre-sales",
+        "fulfilment",
+        "backers"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/reward-crowdfunding-launch.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:517ac91f02434892443e9f678068d683d09c49031fee29f85c5f6711ded3724f"
+    },
+    {
+      "id": "fundraising-investors.safes-convertible-notes",
+      "name": "SAFEs & Convertible Notes",
+      "description": "SAFEs and convertible notes handled with care: choosing the instrument, cap and discount, keeping a register and side letter tracker, modelling conversion and taking every holder through the priced round.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "safes-convertible-notes",
+        "founder",
+        "safe",
+        "convertible-notes",
+        "valuation-cap",
+        "early-stage-funding"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/safes-convertible-notes.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:88c9c3466122f1f6b9ccd95f1292242695f2f7c4a7cbc466c60c7bd48b65685c"
+    },
+    {
+      "id": "fundraising-investors.secondary-share-sales-liquidity",
+      "name": "Secondary Share Sales & Liquidity",
+      "description": "Liquidity goals, transfer rules and approvals in place, then the routines and decisions to run tender offers and direct secondary sales cleanly for founders, staff and early backers.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "secondary-share-sales-liquidity",
+        "founder",
+        "manager",
+        "tender-offer",
+        "secondary-sales",
+        "employee-liquidity",
+        "transfer-restrictions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/secondary-share-sales-liquidity.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:0cea8d75299898d5746c2c626e0c2eb827de644e00df54b2aada9e3e4ed4fb08"
+    },
+    {
+      "id": "fundraising-investors.seed-round-fundraise",
+      "name": "Seed Round Fundraise",
+      "description": "A seed round run as a process: readiness and amount, a one-page story, a live investor pipeline with follow-ups, lead and allocation decisions, and the steps from first meetings to close.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "seed-round-fundraise",
+        "founder",
+        "seed-round",
+        "startup-fundraising",
+        "venture-capital",
+        "investor-pipeline"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/seed-round-fundraise.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 192
+      },
+      "contentHash": "sha256:dc4bad66d9c617a00bf9a5d16a148ffa2fcdaeac0d480dd99b0c4cc133ce3fe3"
+    },
+    {
+      "id": "fundraising-investors.series-a-fundraise",
+      "name": "Series A Fundraise",
+      "description": "A Series A run on purpose: readiness metrics, a raise sized to milestones, a tiered investor pipeline, diligence that moves quickly and a lead partner chosen with the board.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "series-a-fundraise",
+        "founder",
+        "manager",
+        "venture-capital",
+        "metrics",
+        "diligence",
+        "lead-investor"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/series-a-fundraise.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:66890fec24713170d3f3be2152df10fdc7ee1e0b0d0f57fcd823640cc7ad2209"
+    },
+    {
+      "id": "fundraising-investors.share-valuations-409a",
+      "name": "Share Valuations & 409A",
+      "description": "Independent share valuations commissioned on time, adopted by the board and kept current, so every option exercise price holds up with the tax authority, the auditor and a future buyer.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "share-valuations-409a",
+        "founder",
+        "manager",
+        "409a",
+        "option-pricing",
+        "fair-market-value",
+        "emi-valuation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/share-valuations-409a.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ad5820f3c871a986afc068d048e5503c7d96e184e78ec7c10f4377d12a7c06f1"
+    },
+    {
+      "id": "fundraising-investors.small-business-loan-applications",
+      "name": "Small Business Loan Applications",
+      "description": "Loan applications a lender can say yes to: purpose and affordability, clean credit files, a lender-ready plan and forecast, the document pack, offers compared, drawdown and the covenants that follow.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "small-business-loan-applications",
+        "small-business",
+        "founder",
+        "bank-loans",
+        "government-backed-lending",
+        "asset-finance",
+        "business-plan"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/small-business-loan-applications.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:9b8051c12ada42709b7c5250a2aef126dadddd8b8c49a7eb4c51a48021624f4a"
+    },
+    {
+      "id": "fundraising-investors.term-sheet-negotiation",
+      "name": "Term Sheet Negotiation",
+      "description": "Term sheets negotiated with your eyes open: the vocabulary and ownership maths, a lawyer and benchmark in place early, a live issues list and concession ledger, the clauses worth pushing on, and a clean signature.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "term-sheet-negotiation",
+        "founder",
+        "venture-capital",
+        "valuation",
+        "liquidation-preference",
+        "negotiation",
+        "startup-law"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/term-sheet-negotiation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:2e775a998f7447e547786e2d1c41f96ffdeeb68af4aeee825bf754e0aa959823"
+    },
+    {
+      "id": "fundraising-investors.venture-debt-facilities",
+      "name": "Venture Debt Facilities",
+      "description": "Decide whether venture debt fits, size and compare facilities, negotiate covenants and warrants, then run the monthly reporting, covenant tests and lender relationship that keep the loan safe.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "venture-debt-facilities",
+        "founder",
+        "manager",
+        "venture-debt",
+        "covenants",
+        "warrants",
+        "runway"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/venture-debt-facilities.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:f19912903473743f35f50765736e93481d7ac78e131df56a1d179de3826fc449"
     },
     {
       "id": "investment-banking.activism-and-takeover-defence",
