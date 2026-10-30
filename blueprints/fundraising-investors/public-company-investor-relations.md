@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Keep the measures about access, understanding and shareholder mix, not the share price. IR cannot control the price, and a target built on it invites the wrong behaviour.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

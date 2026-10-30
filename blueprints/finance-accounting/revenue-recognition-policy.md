@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Work from the general ledger revenue accounts and the contract folder together. A stream that exists in contracts but has no ledger account is usually the one hiding a problem.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

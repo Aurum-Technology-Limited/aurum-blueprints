@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Ask what readers actually did with last month's numbers, not what they would like to see. Wish lists grow without limit; real use is the better guide.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

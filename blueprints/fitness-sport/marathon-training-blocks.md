@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 If the race is a ballot entry, pick a backup marathon three to six weeks later so a rejection does not waste a season of base building.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Start from the **Purchase decision** template. Prefer a tool that exports to plain text or Markdown: a log you cannot get out of a product will eventually be lost with it.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

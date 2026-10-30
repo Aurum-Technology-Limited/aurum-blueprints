@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 The pause covers commitments, not safety steps. Moving the money to a protected account and securing your bank logins should still happen in the first week.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:

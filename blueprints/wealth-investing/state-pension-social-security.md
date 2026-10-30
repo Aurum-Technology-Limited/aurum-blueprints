@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Use the agency's official site only. In the US this is the my Social Security account; in the UK the State Pension and National Insurance services sit behind the government sign-in. Never pay a third party to set this up.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

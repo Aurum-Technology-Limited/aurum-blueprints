@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Keep the plan to one page. If a question cannot be answered with the data you can actually get, rewrite the question rather than buying more data.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

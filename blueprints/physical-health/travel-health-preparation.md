@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Late bookings still matter: some protection is better than none, so book even if you leave in a fortnight. Some travel vaccines are free through your doctor and others are charged, so ask which before the appointment.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

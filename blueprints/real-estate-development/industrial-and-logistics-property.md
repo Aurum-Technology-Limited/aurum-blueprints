@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 A thesis that says no to most deals is doing its job. Small multi-let estates and single-let units under 5,000 square metres behave very differently, so pick one to start.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

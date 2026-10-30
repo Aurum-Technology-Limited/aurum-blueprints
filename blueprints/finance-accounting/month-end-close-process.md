@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Start from the **Month-end close** template. Capture what you really do, not what a textbook says; the gaps become obvious once it is written down.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Group small items into sensible components, such as all corridor lighting on one floor, rather than listing every fitting. A register with 60 to 150 lines per building is usual.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

@@ -34,6 +34,9 @@ starter_structure:
                 2. The business shown as a separate line, valued only as a range until there is an offer.
                 3. The share of total wealth tied to the business worked out as a percentage.
                 4. The balance sheet saved where your accountant and partner can both see it.
+
+                ## Notes
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Count only money that will definitely arrive. A hoped-for refund or late invoice belongs in a separate maybe column.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:

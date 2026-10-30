@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Be honest about alcohol and activity. Clinicians see rounded-down numbers every day, and the plan is only as good as the starting point.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 A spreadsheet or notes table works better than a map app alone, because map lists rarely hold why you saved a place. Keep the map pins if you like, but treat the list as the master.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

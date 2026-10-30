@@ -38,6 +38,8 @@ starter_structure:
 
                 ## Notes
                 Keep publishing rights to a short list of trained people. A wide pool of editors is the usual cause of an unapproved draft going live.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

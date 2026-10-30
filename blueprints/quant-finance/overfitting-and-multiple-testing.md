@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Estimate generously. If you cannot remember how many variants you ran, assume it was more than you think; that instinct is usually right.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Err towards including borderline tools in the inventory with a low tier. A tool left out never gets looked at, while a low-tier entry costs little.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

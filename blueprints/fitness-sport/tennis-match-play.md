@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Self-ratings are usually half a step too generous. If your own view and the coach's differ, enter events at the lower of the two for the first season.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Include cash wrappers as well as invested ones. Workplace pensions belong on the list for completeness, even though getting the most from them is covered in its own area.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

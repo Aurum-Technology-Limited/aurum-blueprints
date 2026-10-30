@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Keep the brief short enough to reread before every weekly review. If it runs past a page, the trial is trying to answer too much at once.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:

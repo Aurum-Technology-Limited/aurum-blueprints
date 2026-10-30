@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Ask early, even if you feel fine. Advice can change after the mid-pregnancy scan, so treat the answers as current rather than permanent.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

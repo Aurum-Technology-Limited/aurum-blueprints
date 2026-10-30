@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Use your own team's and health service's wording. The card organises their advice; it does not replace it.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

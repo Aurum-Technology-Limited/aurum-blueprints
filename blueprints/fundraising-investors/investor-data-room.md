@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 A founder can own the room, but the day-to-day upload work usually sits better with an operations or finance lead. The owner runs it; the founders approve what goes in.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:

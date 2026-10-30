@@ -15,6 +15,7 @@ import {
   REPO_ROOT,
   CATALOG_PATH,
   contentHash,
+  launchIds,
   libraryPathParts,
   listBlueprintFiles,
   loadBlueprint,
@@ -503,7 +504,14 @@ if (!ONLY.size) {
         if (JSON.stringify(have[k]) !== JSON.stringify(want[k])) err(w, `starterSummary.${k} is ${JSON.stringify(have[k])}, the file says ${JSON.stringify(want[k])}`);
       if (lib && have.totalTasks !== want.totalTasks) err(w, `starterSummary.totalTasks is ${have.totalTasks}, the file says ${want.totalTasks}`);
     }
-    for (const rel of fileInfo.keys()) if (!paths.has(rel)) err(where, `blueprint ${rel} is not in the catalog (run npm run build:catalog)`);
+    // Only launched library blueprints belong in the catalog (launch.json);
+    // the rest are validated above and wait, ready to publish.
+    const live = launchIds();
+    for (const [rel, info] of fileInfo) {
+      const listed = !libraryPathParts(rel) || live.has(info.fm.id);
+      if (listed && !paths.has(rel)) err(where, `blueprint ${rel} is not in the catalog (run npm run build:catalog)`);
+      if (!listed && paths.has(rel)) err(where, `blueprint ${rel} is in the catalog but not in launch.json`);
+    }
   }
 }
 

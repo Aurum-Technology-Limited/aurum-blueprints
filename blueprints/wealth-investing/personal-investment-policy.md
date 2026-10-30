@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Keep the first version short. A two-page policy you actually read beats a twelve-page one filed and forgotten, and later projects in this area add clauses one at a time.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

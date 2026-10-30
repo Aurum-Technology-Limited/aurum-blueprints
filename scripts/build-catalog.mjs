@@ -10,11 +10,16 @@
 // today. Library entries (blueprints/<pillar-id>/<area-id>.md) are generated
 // from each file's own frontmatter, sorted by id, so the catalog is a pure
 // function of the files and two runs produce identical bytes.
+//
+// Only library blueprints listed in launch.json are written: catalog.json is
+// what the app browses (directly, and through the registry seed), so it holds
+// the launch catalog, not every file in the repo.
 
 import { readFileSync, writeFileSync } from "node:fs";
 import {
   CATALOG_PATH,
   contentHash,
+  launchIds,
   libraryPathParts,
   listBlueprintFiles,
   loadBlueprint,
@@ -30,12 +35,14 @@ const existingList = Array.isArray(existing) ? existing : existing.blueprints ??
 // Keep every entry that is not a library file.
 const legacy = existingList.filter((m) => !libraryPathParts(m.path ?? ""));
 
+const live = launchIds();
 const library = [];
 const failures = [];
 for (const rel of listBlueprintFiles()) {
   if (!libraryPathParts(rel)) continue;
   try {
     const { fm } = loadBlueprint(rel);
+    if (!live.has(fm.id)) continue;
     // Field order follows types.rs::BlueprintManifest so diffs read naturally.
     library.push({
       id: fm.id,
@@ -59,6 +66,12 @@ if (failures.length) {
   process.exit(1);
 }
 library.sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0));
+
+const unknown = [...live].filter((id) => !library.some((m) => m.id === id));
+if (unknown.length) {
+  console.error(`launch.json lists ${unknown.length} id(s) with no blueprint file, e.g. ${unknown[0]}`);
+  process.exit(1);
+}
 
 const out = JSON.stringify({ blueprints: [...legacy, ...library] }, null, 2) + "\n";
 

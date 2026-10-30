@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Ask for copies of every clinic letter. Most teams will send them to you as well as to your doctor, and the letters are where the exact wording lives.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Check the list against both your market data terminal and your consensus provider. Each lags reality by weeks, and they rarely lag in the same places.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

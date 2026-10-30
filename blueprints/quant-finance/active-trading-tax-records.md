@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Store only the last four digits of account numbers in the inventory. Keep full credentials in a password manager, never in the tax file.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

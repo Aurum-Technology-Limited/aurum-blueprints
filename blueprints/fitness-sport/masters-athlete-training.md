@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 This project is about preparing the questions and recording the answers. Whether you need a heart tracing or an exercise test is your doctor's call, not a training plan's.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

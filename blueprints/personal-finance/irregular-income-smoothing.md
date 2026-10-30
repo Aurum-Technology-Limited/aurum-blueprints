@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Use money received, not money invoiced. A large invoice paid ninety days late belongs to the month it arrived, because that is the month your rent depended on it.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

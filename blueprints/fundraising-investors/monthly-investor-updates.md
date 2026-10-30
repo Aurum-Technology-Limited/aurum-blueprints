@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Funds often ask for a second address for their portfolio or platform team, who load your numbers into their own tracking. Ask once and add it.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 10
               frontmatter:

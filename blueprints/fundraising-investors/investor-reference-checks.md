@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Good examples describe something a founder could have watched happen, such as backing a bridge after a missed plan. Weak ones are adjectives like founder friendly, which every reference will happily confirm.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

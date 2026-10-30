@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Start from the **Metrics log** template. Write entries once you have cooled down, not in the heat of the moment, and log near misses as well as outbursts.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

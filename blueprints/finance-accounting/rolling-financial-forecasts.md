@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 A common default is eighteen months refreshed monthly for fast-changing companies and twelve months refreshed quarterly for steadier ones. Whatever you choose, the window should always reach past the next financial year end by the time the annual target is set.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

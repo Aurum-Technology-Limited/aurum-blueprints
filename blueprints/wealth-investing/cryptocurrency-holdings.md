@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 There is no correct number. What matters is that it is written before the next big price move, not during it. If you work with a financial adviser, share the cap so it sits inside your wider plan.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

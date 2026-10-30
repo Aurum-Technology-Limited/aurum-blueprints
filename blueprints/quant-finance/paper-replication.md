@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Classic single-sort anomaly papers from well-known journals make good first targets because later papers report the same numbers, giving you several reference points.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

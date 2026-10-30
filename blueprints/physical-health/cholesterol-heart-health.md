@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Check whether results are in mmol/L or mg/dL before comparing them, as labs in different countries use different units.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Use exact figures from documents. Calculators and claim forms are only as accurate as the numbers you give them, and a figure you guessed is a figure you may later have to explain.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

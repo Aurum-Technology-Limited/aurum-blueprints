@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Many good businesses are a poor fit for angel money because they will grow steadily rather than very fast. That is a reason to fund them differently, not a judgement on the idea.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

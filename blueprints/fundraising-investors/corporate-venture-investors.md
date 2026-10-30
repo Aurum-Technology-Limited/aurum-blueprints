@@ -32,6 +32,9 @@ starter_structure:
                 2. A ceiling set on the share of the round any single corporate may take.
                 3. Customers, partners and possible acquirers who could react badly to a corporate shareholder listed.
                 4. A go, wait or no decision recorded and agreed by the founders and any lead investor.
+
+                ## Notes
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

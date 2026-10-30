@@ -32,6 +32,9 @@ starter_structure:
                 2. Each role marked as needed for planning, for technical design or only for construction.
                 3. Roles that one firm could combine identified, such as civil and structural engineering.
                 4. The map checked against one completed scheme of a similar type and size.
+
+                ## Notes
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: medium
               frontmatter:
                 mode: research

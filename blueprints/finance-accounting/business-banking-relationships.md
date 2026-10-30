@@ -35,6 +35,9 @@ starter_structure:
                 3. Currencies paid and received listed with rough annual values.
                 4. Borrowing, guarantees or merchant services likely in the next two years noted.
                 5. A dated one-page needs map saved with the finance records.
+
+                ## Notes
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

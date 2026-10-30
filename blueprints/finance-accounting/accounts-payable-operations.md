@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Ask the five suppliers you pay most often how they send bills today. Their answers usually reveal a route nobody on the finance side knew about.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

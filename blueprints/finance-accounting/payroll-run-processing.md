@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Requirements differ by country and sometimes by state or province. Check the tax authority's guidance for new employers or ask your accountant which registrations apply; a workplace pension or accident insurance scheme may also need registering.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

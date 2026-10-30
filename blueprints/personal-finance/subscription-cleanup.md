@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Merchant names on statements are often cryptic. Search the exact descriptor online before deciding a charge is fraud or a mystery; it is usually a parent company or payment processor.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

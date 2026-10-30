@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 If a pot cannot be found from your own papers, park it and come back once it has been traced. Consolidation works only on pensions you can actually reach.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

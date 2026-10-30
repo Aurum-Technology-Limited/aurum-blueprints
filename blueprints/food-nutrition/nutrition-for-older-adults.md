@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Write it down as you go, not from memory at bedtime; recall misses most snacks and drinks. A carer can keep the diary on someone's behalf if they agree.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

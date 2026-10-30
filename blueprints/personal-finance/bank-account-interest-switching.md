@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Record the rate the provider shows today, not the rate you opened at. Old accounts are often moved to a lower rate with only a short notice.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

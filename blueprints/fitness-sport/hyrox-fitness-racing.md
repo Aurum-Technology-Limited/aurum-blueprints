@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Popular city races sell out weeks ahead and individual waves fill first, so note when tickets open as well as the race date. If you are unsure about the weights, Open or Doubles is the safer first choice.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

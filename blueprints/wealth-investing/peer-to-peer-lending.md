@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Many regulators require platforms to ask new lenders to confirm they will put no more than a set share of their investable assets into this kind of lending. Treat that limit as a ceiling, not a target.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

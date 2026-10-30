@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Keep the rules to one page. A long rulebook is a sign the challenge is trying to fix everything at once.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:

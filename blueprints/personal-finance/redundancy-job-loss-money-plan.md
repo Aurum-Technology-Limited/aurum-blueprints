@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Do not cancel insurance, pensions or savings plans in the first week. Some carry rights that are hard to get back, and the full picture takes about a fortnight to see.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:

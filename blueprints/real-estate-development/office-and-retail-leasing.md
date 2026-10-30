@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Read the break clause itself for each lease. Conditions such as vacant possession or rent paid up to date change how likely a break is to be valid, and your solicitor should confirm the dates.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

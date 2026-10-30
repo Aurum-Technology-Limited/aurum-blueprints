@@ -8,6 +8,9 @@ seed their Life OS (PAPT: Pillars, Areas, Projects, Tasks) from one of these blu
 
 - **`catalog.json`**: the catalog the app fetches. Wrapped form:
   `{ "blueprints": [ ...manifests ] }`. Generated, see below.
+- **`launch.json`**: the ids of the library blueprints that are live. Only these go
+  into `catalog.json` (and from there into the Marketplace registry); every other
+  file is still validated and waits, ready to publish by adding its id.
 - **`blueprints/*.md`**: the three original starters (balanced-life, founder, student).
 - **`blueprints/<pillar-id>/<area-id>.md`**: the blueprint library (see below).
 - **`taxonomy/`**: the library's master lists of pillars and areas.
@@ -57,7 +60,7 @@ with the commit it was copied from; refresh it when the app adds a template, tri
 kind or recurrence form.
 
 `build-catalog` keeps the three original entries as they are and generates one entry
-per library file, with a `starterSummary` (pillar names, area, project and task
+per library file listed in `launch.json`, with a `starterSummary` (pillar names, area, project and task
 counts) and a `contentHash` (`sha256:<hex>` of the file bytes, the form the app's
 integrity check accepts). Line endings are pinned to LF so the hash is stable.
 
@@ -69,3 +72,13 @@ integrity check accepts). Line endings are pinned to LF so the hash is stable.
    `version`, `path`, and a `starterSummary` whose `totalAreas` / `totalProjects`
    match the file), then run `npm run validate`.
 3. Commit to `main`. The app picks it up on the next catalog refresh.
+
+## Professional-advice notices
+
+Blueprints about health, wellbeing, money or law carry a notice that they are
+general information, not medical, psychological, financial or legal advice. It is
+added to the end of the first project's description (so it is installed into the
+user's files beside the plan) by `node scripts/add-notices.mjs`, which decides the
+notice from the pillar or, for single areas in other pillars, from a short list in
+the script. `node scripts/add-notices.mjs --check` fails if any of them is missing;
+run it after adding or regenerating a blueprint in those subjects.

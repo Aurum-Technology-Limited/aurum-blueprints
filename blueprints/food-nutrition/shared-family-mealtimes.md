@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Count a meal as shared only when people sit down together without screens for at least ten minutes. Breakfasts and weekend lunches count just as much as dinner.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 The usual instruction is to tense to about half your maximum effort, not as hard as you can. If a group cramps, let it go at once and use relaxation by recall for that group instead.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Mat work is often harder for beginners than it looks, because nothing supports you, and the reformer's springs can make some movements more accessible. Neither is the 'real' Pilates, and many people end up doing both.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Count staff time as a cost. A gala that hits its net target but swallows three months of the fundraising team may still lose money overall.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

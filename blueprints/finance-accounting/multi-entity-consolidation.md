@@ -38,6 +38,8 @@ starter_structure:
 
                 ## Notes
                 Effective ownership through chains of holdings is where errors creep in: 80 percent of a company that owns 60 percent of another gives the group 48 percent of the second company, not 60.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

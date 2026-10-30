@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Ask at the front desk who organises the run and whether there is a group chat. Many good runs live in invite-only chats that never appear online, so turning up and asking is often the only way in.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

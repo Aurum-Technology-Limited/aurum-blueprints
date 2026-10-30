@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Ask the landlord or letting agent which bills, if any, are already included in the rent before you list them. Paying separately for water or local property tax that the rent already covers is a common first-year mistake.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

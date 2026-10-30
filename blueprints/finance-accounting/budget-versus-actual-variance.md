@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Start narrow. A scope that covers revenue, gross margin, the five largest cost lines and headcount at each level is enough for the first three months.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: medium
               deadlineOffsetDays: 14
               frontmatter:

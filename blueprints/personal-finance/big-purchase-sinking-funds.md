@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Walk round the house, the car and the calendar rather than relying on memory. Costs that come round every year belong here as well as one-off replacements.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

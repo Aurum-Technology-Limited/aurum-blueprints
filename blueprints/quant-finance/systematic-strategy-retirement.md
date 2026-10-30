@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Write the thesis as it was believed at launch, not as you would describe it today. Rewriting history to fit recent results is the first step towards keeping a dead strategy alive.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

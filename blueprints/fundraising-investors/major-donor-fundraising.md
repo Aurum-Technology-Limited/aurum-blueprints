@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Use cumulative giving over 12 or 24 months, not single gifts, or loyal donors who give in instalments are missed.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

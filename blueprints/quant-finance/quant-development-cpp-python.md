@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Pin the Python minor version too. A jump from one minor version to the next can change hash ordering, pickling and the wheels available for compiled packages.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

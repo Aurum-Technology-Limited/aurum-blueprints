@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 People with type 1 diabetes, or anyone taking an SGLT2 inhibitor tablet, can develop ketoacidosis with near-normal glucose readings. Do not start without your diabetes team agreeing the plan.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

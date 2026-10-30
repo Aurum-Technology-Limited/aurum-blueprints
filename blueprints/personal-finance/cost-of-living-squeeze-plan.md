@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Use net pay after tax, pension and any deductions. Gross figures make the gap look smaller than it is.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

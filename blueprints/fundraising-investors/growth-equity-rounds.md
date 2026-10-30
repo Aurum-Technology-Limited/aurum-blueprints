@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Benchmark ranges move with the market. Ask two growth investors you already know, or your existing board members, what they expect to see this year rather than relying on an old report.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

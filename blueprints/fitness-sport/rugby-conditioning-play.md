@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Ask which team a new player usually starts in. Most clubs put newcomers in a lower side for a few weeks to check contact skills, which is a safety step, not a judgement.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

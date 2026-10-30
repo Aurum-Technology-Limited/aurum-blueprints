@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Debt has to be repaid whether or not the plan works. If the honest answer to how the company would repay without new equity is that it could not, treat the facility as a risk to manage rather than free runway.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

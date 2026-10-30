@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 The amount and instrument are decided in the round's own planning; this project only records them so the list can be filtered. If they change mid-raise, re-filter the list the same day.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

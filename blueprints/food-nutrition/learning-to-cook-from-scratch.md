@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Do not try to change anything during the fortnight. The audit is only useful if it shows your normal weeks, not your best behaviour.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

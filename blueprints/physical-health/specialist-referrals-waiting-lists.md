@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Ask whether the referral went through an electronic booking system. If it did, you may have been given a reference and password to book or track it yourself, which is often faster than waiting for a letter.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Read the definitions section of each agreement, not just the clause headings. Information rights often fall away below a holding threshold, and some apply only to a named major investor.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

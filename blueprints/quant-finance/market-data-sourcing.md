@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Search the code for vendor client libraries, file paths and API hosts as well as asking people. Code finds the sources nobody remembers signing up for.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

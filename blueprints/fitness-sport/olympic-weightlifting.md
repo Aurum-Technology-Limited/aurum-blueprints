@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 A gym with bumper plates is not the same as a club with a coach. Ask how many lifters one coach watches at a time; more than eight on the platform usually means little feedback for a beginner.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

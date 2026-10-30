@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Keep the capital assumption deliberately small at first. Capacity is studied later in this area, and a big assumed book hides the cost problem until too late.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

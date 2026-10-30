@@ -32,6 +32,9 @@ starter_structure:
                 2. Every blistering or peeling sunburn you can remember listed with your rough age and where it happened.
                 3. Any past sunbed use noted with an estimate of how many sessions.
                 4. The profile saved as the first page of your skin record.
+
+                ## Notes
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: medium
               deadlineOffsetDays: 14
               frontmatter:

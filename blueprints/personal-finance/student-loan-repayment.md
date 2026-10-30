@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Include loans you think are paid off or forgotten. Old private loans and short-term university hardship loans are the ones that turn up later with a collections letter.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

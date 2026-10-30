@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Keep it to one page. A buy box that tries to cover every sector tells brokers you have not decided yet.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

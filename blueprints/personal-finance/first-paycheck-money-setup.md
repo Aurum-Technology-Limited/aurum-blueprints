@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Ask whether the employer offers a travel season ticket loan or an advance on the first salary before borrowing elsewhere. High-cost short-term credit is the most expensive way to cover a few weeks.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 10
               frontmatter:

@@ -32,6 +32,9 @@ starter_structure:
                 2. Days spent in each country over the last two tax years estimated from passports and travel records.
                 3. Ties likely to change in the next two years, such as selling a house or a spouse moving, marked.
                 4. The inventory dated and saved where your adviser can see it.
+
+                ## Notes
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

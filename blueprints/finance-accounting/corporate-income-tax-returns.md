@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 The return goes by different names, for example a CT600 in the UK, Form 1120 in the US or a T2 in Canada. Use your own tax authority's guidance as the source, not a forum post or last year's habit.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

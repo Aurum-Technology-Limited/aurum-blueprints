@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Use the tax authority's own pages and your adviser for the conditions. Blog summaries go out of date quickly, and limits change in budgets.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

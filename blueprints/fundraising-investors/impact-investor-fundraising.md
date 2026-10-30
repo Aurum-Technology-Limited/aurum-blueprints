@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Impact money is not cheaper by default. Many impact funds price equity exactly like any other venture fund and add reporting on top.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

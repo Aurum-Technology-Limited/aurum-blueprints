@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Use the end-of-day balance column, not the transaction amounts. If your bank only shows running balances per transaction, take the last one on each date.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

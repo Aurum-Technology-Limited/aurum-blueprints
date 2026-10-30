@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Check the filing deadline for your interim and annual reports with legal before choosing dates, and leave a few working days between the auditors' review and the release.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Write for the ear, not the page: short sentences, one number per sentence, and the company name said early. The slides belong in their own project; this is what you say.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 10
               frontmatter:

@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Mild tingling or light-headedness usually means you are breathing more than you need: slow down and let the breath return to normal. Anything stronger is a reason to stop and seek advice, not to push on.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

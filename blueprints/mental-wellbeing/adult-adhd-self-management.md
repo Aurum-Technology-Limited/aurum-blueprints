@@ -39,6 +39,8 @@ starter_structure:
 
                 ## Notes
                 Include the cost of coping, not just the failures. Many adults mask well, and only the hours spent compensating show how hard things really are.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

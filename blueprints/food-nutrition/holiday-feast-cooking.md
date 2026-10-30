@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 For Eid and other moon-sighting dates, follow the announcement your community or mosque uses, and plan food that can wait a day.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

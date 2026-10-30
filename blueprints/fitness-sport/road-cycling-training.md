@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Change position in small steps. Moving the saddle more than a few millimetres at once can trade one ache for another, so most fitters book a short follow-up.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

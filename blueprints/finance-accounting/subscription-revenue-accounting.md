@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Include customers on free trials and paused accounts in a separate tab. They are not revenue, but they are the most common source of miscounted MRR.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Show finance costs inside total cost. A stack that leaves out rolled interest and fees looks fully funded and is not.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

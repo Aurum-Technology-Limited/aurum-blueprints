@@ -38,6 +38,8 @@ starter_structure:
 
                 ## Notes
                 Include strategies still in research. The cheapest time to find a fatal stress result is before any code reaches production.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

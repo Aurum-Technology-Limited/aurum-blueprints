@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Start from the **Monthly budget and bills** template. List what you actually pay, not what you think you should pay; cancelling things belongs in a separate tidy-up.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

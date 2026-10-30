@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Use the minimum contractual payments, not what you have been managing to pay. Passing or failing this test is not a legal conclusion; it is the evidence you take to a qualified adviser.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 In the UK, for example, a private company need not hold an AGM unless its articles require one, but a public company must. Treat that as an illustration and confirm your own position with counsel.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

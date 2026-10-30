@@ -38,6 +38,8 @@ starter_structure:
 
                 ## Notes
                 The goal can change. The point is to choose deliberately, so that a change later is a decision rather than drift.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:

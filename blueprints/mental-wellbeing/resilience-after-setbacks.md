@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Angry emails, resignation letters and social media posts written on the first night are the classic regret. Draft them if it helps, but keep them unsent until day four.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
