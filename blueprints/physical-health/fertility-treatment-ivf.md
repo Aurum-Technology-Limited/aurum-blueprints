@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Many health services expect around a year of trying before referral, and sooner if you are over 35 or have a known condition. Ask your own doctor what applies to you.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

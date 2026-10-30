@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Search the payables ledger by supplier as well as by account code. Equipment hire and vehicle rentals are often coded to repairs, travel or cost of sales.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:

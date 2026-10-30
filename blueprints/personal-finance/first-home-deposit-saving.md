@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Use the public sold-price records your country publishes, or a portal that shows them. Stick to sales from the last twelve months: older figures mislead in a moving market.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: medium
               deadlineOffsetDays: 14
               frontmatter:

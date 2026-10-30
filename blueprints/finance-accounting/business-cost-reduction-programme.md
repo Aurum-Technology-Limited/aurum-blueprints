@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Set the target from the gap you need to close (a margin goal, a funding runway, a price you must hit), not from a round number. A target nobody can trace to a reason gets negotiated down in the first month.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

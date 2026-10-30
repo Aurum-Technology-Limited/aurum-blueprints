@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Keep it short enough to read on a phone. Agents file long briefs and forget them.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

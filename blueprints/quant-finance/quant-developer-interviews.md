@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Choosing between firm types on pay and culture belongs to a separate project; this one is about what the interviews will ask of you.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

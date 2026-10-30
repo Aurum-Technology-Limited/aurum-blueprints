@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 This is a screen, not a diagnosis. Teachers ask about injuries before class for a reason: tell them, every time, even if it feels minor.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Extra purchase taxes on additional homes catch many first-time landlords out. Ask a conveyancer, or read your tax authority's guidance, to see what applies to you.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

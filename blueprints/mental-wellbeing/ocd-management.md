@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Clinicians hear intrusive thoughts about harm, sex, religion and contamination every week and know them as features of OCD, not wishes. You can hand over the written page if saying the thoughts aloud feels impossible.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:

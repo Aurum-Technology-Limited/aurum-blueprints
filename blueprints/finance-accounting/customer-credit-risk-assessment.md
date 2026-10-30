@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Pull every figure from the aged debtors report on one date and do not mix dates. A baseline is only useful if it is a true snapshot.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

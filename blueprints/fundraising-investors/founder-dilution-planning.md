@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Use the legal share register as the source, not memory or an old pitch deck. Unconverted SAFEs have no share count yet, so list them separately with their cap until you have learned the conversion maths.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

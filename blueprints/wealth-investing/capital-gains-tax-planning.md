@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Include paper share certificates and old employee share plan accounts. They are the holdings most often forgotten until the day they are sold.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

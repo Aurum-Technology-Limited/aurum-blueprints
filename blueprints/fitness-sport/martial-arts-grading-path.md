@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Watch a senior class as well as a beginners one, because it shows where the path actually leads. A club that pressures you to sign a long contract on the first visit is worth walking away from.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

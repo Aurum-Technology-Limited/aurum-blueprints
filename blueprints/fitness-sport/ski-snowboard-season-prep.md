@@ -38,6 +38,8 @@ starter_structure:
 
                 ## Notes
                 High-altitude resorts and glacier areas are the safer bet for snow early and late in the season; lower villages are often cheaper and prettier but more of a gamble.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

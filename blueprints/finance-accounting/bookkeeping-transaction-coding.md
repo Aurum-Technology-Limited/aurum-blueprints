@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 If the business account is new, keep the old account open until the last customer and supplier have switched over, then code the overlap month with extra care.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               frontmatter:
                 mode: building

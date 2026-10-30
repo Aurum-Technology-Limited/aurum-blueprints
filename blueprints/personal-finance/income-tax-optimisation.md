@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Take dates only from the tax authority's website, not from a blog or last year's memory; they shift when rules change or deadlines fall on public holidays.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Keep the thesis short enough to read before every purchase decision. If a parcel cannot be explained by it, that is a reason to pause, not to rewrite the thesis around the parcel.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

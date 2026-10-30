@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Keep the statement short enough to bring to every adviser meeting. A goal of reducing tax and a goal of keeping control of the money often conflict, so say which wins.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Two or three friends sharing the cost and the bottles makes this cheaper and gives you other opinions. Small pours of each, rather than a full glass, keep the evening clear-headed.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

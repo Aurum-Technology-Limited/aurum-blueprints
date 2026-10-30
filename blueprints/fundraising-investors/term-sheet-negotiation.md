@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Use a model term sheet published by a venture capital association in your country as the source list, so the glossary matches the documents investors will actually send.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: medium
               deadlineOffsetDays: 14
               frontmatter:

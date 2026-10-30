@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 A narrow buy box is easier to explain to brokers, lenders and partners. Widen it only after a first close.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

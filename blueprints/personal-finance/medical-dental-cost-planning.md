@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Include costs later refunded by a cash plan or insurer, and note the refund beside them, so you see the gross cost as well as what you finally paid.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

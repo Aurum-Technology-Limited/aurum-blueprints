@@ -35,6 +35,9 @@ starter_structure:
                 3. Each mortgage's lender, balance, rate, product end date and early repayment charge noted.
                 4. Current rent and an estimated market value set against every property.
                 5. The inventory saved somewhere your accountant can read it.
+
+                ## Notes
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

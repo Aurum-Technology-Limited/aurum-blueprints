@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Ownership by a larger company or a venture fund can change your size category. Check the agency's own definition rather than assuming you are small because the team is.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Most sites should die at the desktop stage. If more than a third reach design-led feasibility, the first gate is too loose.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

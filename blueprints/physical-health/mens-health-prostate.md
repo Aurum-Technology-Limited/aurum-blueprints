@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Ask your practice for a copy of your recent results through the patient portal rather than relying on memory. Keep the page somewhere a partner could find it.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

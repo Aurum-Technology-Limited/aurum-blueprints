@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Keep the scope on one page. If the question needs a co-located feed you cannot buy, change the question rather than hoping the cheap data is close enough.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

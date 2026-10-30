@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Keep the approval of payments and the signing of returns with the owner even when everything else goes out. Those are the two jobs an outside firm should never hold alone.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

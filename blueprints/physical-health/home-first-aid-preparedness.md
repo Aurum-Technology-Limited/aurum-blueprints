@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Start from the **Risk register** template. Include regular visitors such as grandparents or a child you mind, not only the people who sleep at home.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

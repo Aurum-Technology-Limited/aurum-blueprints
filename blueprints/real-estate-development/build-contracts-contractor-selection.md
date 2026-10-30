@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 A firm price at signing is only as firm as the design behind it. Design and build on a thin brief often moves the risk into claims rather than removing it.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 If worry ever comes with thoughts of harming yourself, say so at this appointment, or contact urgent services sooner rather than waiting for it. Asking for a longer appointment is reasonable when you have a lot to cover.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

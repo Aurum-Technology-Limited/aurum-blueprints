@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 This is planning, not advice. If you are unsure whether investing suits your situation, a licensed financial adviser can look at the whole picture.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

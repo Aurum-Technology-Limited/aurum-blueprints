@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Start with a cautious conversion assumption and replace it with your own rate after the first ten asks. Intros are one channel among several, so keep the plan honest about what it can deliver.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

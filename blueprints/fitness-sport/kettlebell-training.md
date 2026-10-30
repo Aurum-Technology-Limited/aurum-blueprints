@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 This is a check, not a diagnosis. If a professional gives you limits, such as no overhead work for six weeks, build them into the first programme rather than training around them quietly.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

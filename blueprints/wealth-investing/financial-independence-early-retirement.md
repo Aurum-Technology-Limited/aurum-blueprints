@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Keep the note short enough to reread in two minutes. You will come back to it at every yearly recalculation and every time you are tempted to drop the plan.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

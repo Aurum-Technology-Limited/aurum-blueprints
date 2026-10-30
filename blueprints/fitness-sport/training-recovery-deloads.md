@@ -38,6 +38,8 @@ starter_structure:
 
                 ## Notes
                 Label effort by how the session felt at the time, not by what the plan said it should be. Easy runs that drifted into tempo pace count as moderate.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

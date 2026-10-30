@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Private and public companies usually have different filing periods, and a first set of accounts often runs on a different clock. Read the date from the registry rather than calculating it yourself.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

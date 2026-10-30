@@ -31,6 +31,9 @@ starter_structure:
                 2. Three reasons family capital suits this company and two reasons it might not listed.
                 3. Non-negotiables named, such as no veto over hiring or no board seat at this stage.
                 4. The decision shared with co-founders and with the lead investor, if there is one.
+
+                ## Notes
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

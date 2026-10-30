@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Ages and intervals differ between countries and change over time, so copy them from your own health service rather than from a general article.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

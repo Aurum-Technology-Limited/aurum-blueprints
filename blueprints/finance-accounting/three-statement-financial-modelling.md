@@ -38,6 +38,8 @@ starter_structure:
 
                 ## Notes
                 A monthly model for five years has 60 columns on every line and rarely earns them. Monthly for the cash-critical period and annual after it is a sensible default.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

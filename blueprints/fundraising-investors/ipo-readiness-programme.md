@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Many audit and advisory firms offer a readiness diagnostic. If you use one, keep ownership of the scoring so the result does not become a sales document for their follow-on work.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:

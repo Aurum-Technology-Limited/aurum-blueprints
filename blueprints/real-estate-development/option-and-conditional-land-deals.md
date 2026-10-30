@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 A conditional contract usually fixes the price now and the landowner is bound once conditions are met. An option leaves you free to walk away. A promotion agreement shares the sale proceeds. The detail varies by jurisdiction, so treat the comparison as a working map and confirm it with your solicitor.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

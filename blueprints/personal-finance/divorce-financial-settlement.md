@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Do not empty a joint account, even if you fear the other person will. A sudden withdrawal can sour negotiations and may have to be accounted for later. Speak to a solicitor first if you are worried about money disappearing.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

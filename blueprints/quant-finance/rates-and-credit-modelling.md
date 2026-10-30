@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 If the honest answer is every use, design for the strictest one first, which is usually valuation, and treat the rest as views on the same curves.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

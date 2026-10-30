@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Watch a full class video, not a highlight reel, before deciding. The first ten minutes of a real class show the pace far better than a polished promo clip.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

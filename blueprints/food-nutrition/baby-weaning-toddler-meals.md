@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Very early starts are not advised anywhere. If your baby was born early, ask the neonatal team or health visitor which age to count from.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

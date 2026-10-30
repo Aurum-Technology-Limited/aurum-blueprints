@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Examples help: area median income bands under a housing tax credit system, discounted market sale under a planning obligation, or a national housing corporation's income bands. Use the definition in the policy, not the one an agent remembers.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: medium
               frontmatter:
                 mode: learning

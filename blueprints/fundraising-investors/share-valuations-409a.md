@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Treat the map as the question list for your tax adviser, not the answer. Rules change, and the adviser confirms which apply to you.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

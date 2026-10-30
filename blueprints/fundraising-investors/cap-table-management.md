@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 The legal position is set by the statutory register and the signed documents, not by a spreadsheet. The master working record should mirror them, never the other way round.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

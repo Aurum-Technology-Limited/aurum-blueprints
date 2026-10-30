@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 The banker in a sou-sou is a trusted member who collects and pays out, not a bank. In most groups the banker earns little or nothing and carries the most risk.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               frontmatter:
                 mode: learning

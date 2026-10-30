@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Nothing here is a recommendation to buy or avoid any share. If you are unsure whether investing fits your situation at all, a regulated adviser can review it with you.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

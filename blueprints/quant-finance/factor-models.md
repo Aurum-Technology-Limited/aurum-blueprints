@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 If the honest answer is all four uses, pick one to design for first and treat the others as later extensions.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

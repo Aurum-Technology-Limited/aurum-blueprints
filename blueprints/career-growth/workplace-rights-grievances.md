@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Ask HR for the handbook version that was in force when the problem started. Policies change, and the older wording may be the one that applies.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

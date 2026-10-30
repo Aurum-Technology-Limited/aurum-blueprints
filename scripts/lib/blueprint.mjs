@@ -16,6 +16,19 @@ export function readJson(rel) {
   return JSON.parse(readFileSync(join(REPO_ROOT, rel), "utf8"));
 }
 
+/**
+ * The ids in launch.json: the library blueprints users can browse. The
+ * legacy starters are always live and are not listed. Every file is still
+ * validated, so an unlisted blueprint stays ready to publish.
+ */
+export function launchIds() {
+  const list = readJson("launch.json").ids;
+  if (!Array.isArray(list) || list.some((id) => typeof id !== "string")) {
+    throw new Error("launch.json: ids must be a list of blueprint ids");
+  }
+  return new Set(list);
+}
+
 /** Every `.md` under blueprints/, as forward-slashed repo-relative paths, sorted. */
 export function listBlueprintFiles() {
   const out = [];

@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Leave at least two weeks between the consolidated draft and the board pack deadline. That gap is where the gap-closing conversation happens, and it always takes longer than planned.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

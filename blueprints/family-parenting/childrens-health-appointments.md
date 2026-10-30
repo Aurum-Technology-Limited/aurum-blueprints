@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 The paper child health book your health service gives at birth (the red book in the UK, for example) belongs in this folder. Bring it to every appointment until school age; clinicians still write in it.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

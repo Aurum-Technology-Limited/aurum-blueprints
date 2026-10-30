@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Include debts you are not paying at the moment and debts to friends or family. Advisers need the full picture, and a forgotten creditor can derail a plan months later.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

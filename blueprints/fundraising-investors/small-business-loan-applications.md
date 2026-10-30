@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 If you cannot say in one sentence how the loan is repaid, the business may need a different kind of money, such as equity or a grant, rather than a loan.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

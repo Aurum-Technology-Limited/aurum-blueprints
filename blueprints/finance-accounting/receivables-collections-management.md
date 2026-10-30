@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Do not write anything off during the clean-up. Mark doubtful items and deal with them through the write-off rules project, so the baseline stays honest.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

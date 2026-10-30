@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Write the procedure exactly as it appears on the hospital letter, not your own shorthand. If the side or site ever differs between documents, raise it with the surgical team straight away.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:

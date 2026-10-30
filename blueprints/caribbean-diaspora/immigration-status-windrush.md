@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Include adults who have lived abroad for decades and never applied for anything. Long residence is not the same as documented status, and they are the people the Windrush scandal hit hardest.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

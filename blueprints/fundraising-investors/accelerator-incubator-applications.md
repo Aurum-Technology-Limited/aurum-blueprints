@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 The strongest reason to join is a specific gap the programme fills, such as investor access or a first customer network. 'Everyone else is doing one' is not a reason.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

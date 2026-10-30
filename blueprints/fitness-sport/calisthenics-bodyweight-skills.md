@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 This is a screen, not a diagnosis. Sharp pain, joint locking or pins and needles during training means stop and get it assessed rather than pushing on to the next rep.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

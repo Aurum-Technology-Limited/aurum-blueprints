@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Whatever you choose, check before committing that it exports your full history to a CSV or similar file. A tool with no export is a tool you can never leave.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

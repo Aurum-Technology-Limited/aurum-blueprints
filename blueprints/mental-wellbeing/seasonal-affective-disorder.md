@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 A questionnaire such as the Seasonal Pattern Assessment Questionnaire can help you describe the pattern, but it is a prompt for a conversation, not a diagnosis.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Ask other parents at the taster, not only the coach. They will tell you how the club behaves when a team is losing, which matters more than the trophy cabinet.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

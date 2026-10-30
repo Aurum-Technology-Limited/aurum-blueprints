@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Choosing the tax year as your review year makes the income figures match what the tax authority sees, which saves time if you file a return.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -34,6 +34,9 @@ starter_structure:
                 2. Comments from two people you live or work with written down in their words.
                 3. The ear that seems worse, when changes started and any ringing, dizziness, pain or discharge noted.
                 4. A one-page summary saved and ready to take to a hearing test.
+
+                ## Notes
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

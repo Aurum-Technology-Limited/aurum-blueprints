@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Keep it to one page. A policy you cannot read in two minutes before the open will not be read at all.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

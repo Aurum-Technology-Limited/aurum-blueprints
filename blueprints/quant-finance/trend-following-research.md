@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Say plainly in the charter that most trend variants that look better in-sample do not hold up out of sample. Writing it down makes the stop rule easier to honour.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

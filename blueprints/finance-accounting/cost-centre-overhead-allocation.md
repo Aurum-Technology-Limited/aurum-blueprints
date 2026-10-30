@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 If nobody can name a decision, a clean direct-cost view may be all the business needs. Let the decisions set the allocation effort, not the length of the chart of accounts.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

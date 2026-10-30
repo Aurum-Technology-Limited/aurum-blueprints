@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Recovery from an episode often takes longer than the diagnosis conversation suggests. Pace this area to your energy, not to the length of the list.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 90
               frontmatter:

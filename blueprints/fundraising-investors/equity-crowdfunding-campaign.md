@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Most of the money in a successful campaign usually comes from people who already know the company. If your list is small, the first job is building it, not launching.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Feeling more at first is normal, because sensations tuned out for years can seem loud when you start listening. Getting louder and then settling is expected; getting louder and staying there is a reason to slow down and ask for help.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

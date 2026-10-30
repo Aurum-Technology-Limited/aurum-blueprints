@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Stop a session and seek medical help for chest pain, fainting or an irregular heartbeat during or after effort. This project organises the check; the clinician makes the call.
+
+                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

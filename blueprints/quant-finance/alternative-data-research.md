@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Keep the out of scope list explicit. Precise geolocation of individuals, personal email receipts and anything scraped behind a login are common categories firms rule out entirely.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Fermenting and canning carry different risks. Fermented vegetables rely on salt and the acidity bacteria build; canned food relies on acid plus heat. A recipe that is safe for one method is not automatically safe for the other.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

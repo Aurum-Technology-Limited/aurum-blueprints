@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Urgent usually means safety, money for the next few weeks and where the children sleep. Almost everything else, including who keeps the house, can wait for advice.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:

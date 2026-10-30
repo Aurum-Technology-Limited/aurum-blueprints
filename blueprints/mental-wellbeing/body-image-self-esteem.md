@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Start from the **Metrics log** template. These scales describe how you feel; they do not diagnose anything, so treat a very low score as a reason to talk to your doctor, not as a verdict.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

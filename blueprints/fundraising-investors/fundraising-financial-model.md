@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Most early-stage investors discount years four and five heavily. Put the effort into the next 24 months.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

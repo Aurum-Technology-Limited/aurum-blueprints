@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 A business that needs money to cover losses rather than fund growth is usually a poor fit, because repayments start with the first sales and leave less cash for the problem the money was meant to fix.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Use the agencies' free statutory route rather than a paid subscription you may forget to cancel. A free score service is not the same as a full report.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

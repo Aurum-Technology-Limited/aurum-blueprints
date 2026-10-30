@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Include the irregular ones: the cousin who asks at Christmas and the godchild's exam fees. They add up faster than the monthly ones.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Agents, lenders and valuers rarely say which yield they mean. Ask every time, and write the answer beside the number.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

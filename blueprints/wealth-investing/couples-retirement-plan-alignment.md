@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Agree the questions together but answer them apart. Useful prompts: when do you want to stop paid work, would you work part-time first, where do you want to live, what worries you most about money later.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: medium
               deadlineOffsetDays: 14
               frontmatter:

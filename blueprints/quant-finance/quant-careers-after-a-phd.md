@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Titles differ between banks, hedge funds and trading firms: a strat at one bank does what a quant developer does elsewhere. Judge by the duties listed, not the title.
+
+                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

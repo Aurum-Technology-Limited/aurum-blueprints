@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 A JV is often chosen because it feels easier than raising money. Run the numbers on giving away half the profit before deciding it is cheaper than mezzanine or a smaller scheme.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Include the coffee and the vending machine. Those small purchases are usually where the gap between what people guess and what they spend comes from.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
