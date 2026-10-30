@@ -5705,6 +5705,1403 @@
       "contentHash": "sha256:30c2060bf25bc6be72a732460f9ce3d28d7df89f5c78e8f742b5b45a322079c7"
     },
     {
+      "id": "data-analytics.algorithmic-bias-review",
+      "name": "Algorithmic Bias Review",
+      "description": "An inventory of your models and automated decisions, agreed fairness metrics, disparity testing, documented limitations, release gates and the mitigations and audits that fix unfair outcomes.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "algorithmic-bias-review",
+        "researcher",
+        "enterprise",
+        "fairness",
+        "responsible-ai",
+        "model-audit",
+        "disparate-impact"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/algorithmic-bias-review.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:fae5af4e2c8923d52ba04fddbb08fb28973997e6a68b80167bbc3fad50b1d271"
+    },
+    {
+      "id": "data-analytics.analytics-data-modelling-dbt",
+      "name": "Analytics Data Modelling (dbt)",
+      "description": "A version-controlled dbt project with sources, layered models, tests, docs and pull request review, the routines that keep it healthy, and the skills from incremental models to unit tests and multi-project setups.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "analytics-data-modelling-dbt",
+        "engineer",
+        "knowledge-worker",
+        "dbt",
+        "analytics-engineering",
+        "dimensional-modelling",
+        "sql"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/analytics-data-modelling-dbt.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:d9eaed24edcb6db76acf7ed9347e130cd9175ce2e6fd8d8b6a90f3dc00506c63"
+    },
+    {
+      "id": "data-analytics.analytics-request-intake",
+      "name": "Analytics Request Intake",
+      "description": "A single front door for data questions, a decision-first form, prioritisation and turnaround targets, a request desk rota and a searchable library of past answers, so asks stop getting lost or answered twice.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "analytics-request-intake",
+        "team",
+        "manager",
+        "request-queue",
+        "prioritisation",
+        "service-levels",
+        "answer-library"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/analytics-request-intake.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:4c416bf1f5b4cf3b14fbf2a8575b70a5fe0e926c3ad1f29fe6f7f36a5196fb2e"
+    },
+    {
+      "id": "data-analytics.anomaly-detection-alerts",
+      "name": "Anomaly Detection Alerts",
+      "description": "A short watchlist of metrics worth interrupting people for, alerts that arrive with context and an owner, seasonal baselines that cut false alarms, and a labelling and tuning rhythm that keeps alerts trusted.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "anomaly-detection-alerts",
+        "engineer",
+        "team",
+        "metric-alerting",
+        "alert-fatigue",
+        "seasonality",
+        "on-call"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/anomaly-detection-alerts.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:ceccff670825a2c81b7ef96668857e204824f7102ed1bad2261a59205d03a985"
+    },
+    {
+      "id": "data-analytics.business-intelligence-dashboards",
+      "name": "Business Intelligence Dashboards",
+      "description": "Dashboards built from each team's real questions, with named owners, reconciled numbers, fast load times and a monthly prune of the charts nobody opens.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "business-intelligence-dashboards",
+        "knowledge-worker",
+        "team",
+        "manager",
+        "bi-tools",
+        "dashboard-design",
+        "reporting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/business-intelligence-dashboards.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:4995190b2e8e07fcd1a6ae5639929db81af71d1a342ab85f2f4f189756c8aca7"
+    },
+    {
+      "id": "data-analytics.causal-inference-studies",
+      "name": "Causal Inference Studies",
+      "description": "Causal questions turned into estimands, diagrams and written plans, then answered with difference in differences, matching, synthetic control and other quasi-experimental designs, with assumptions checked and stated.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "causal-inference-studies",
+        "researcher",
+        "knowledge-worker",
+        "observational-studies",
+        "difference-in-differences",
+        "matching",
+        "quasi-experiments"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/causal-inference-studies.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:dc4fc3ed092c2486826d62e2ac268786be65717470d5ab107dc0cc9540e55bd8"
+    },
+    {
+      "id": "data-analytics.churn-prediction-models",
+      "name": "Churn Prediction Models",
+      "description": "A churn definition the business agrees on, leak-free customer snapshots, scores sized to what the retention team can handle, holdout groups that prove which saves were real, and the monthly routines that keep the model honest.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "churn-prediction-models",
+        "researcher",
+        "engineer",
+        "team",
+        "customer-retention",
+        "survival-analysis",
+        "uplift-modelling"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/churn-prediction-models.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:dc25c68a349ffac2a2fd076b07a0d18a80130492405a7a8bd05f149dad3b9cd1"
+    },
+    {
+      "id": "data-analytics.cloud-data-platform-selection",
+      "name": "Cloud Data Platform Selection",
+      "description": "A charter and frozen scorecard, real workload evidence, a three-year cost model, a proof of concept on your own data and a tested exit plan, so the platform you sign for still fits in year three.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "cloud-data-platform-selection",
+        "engineer",
+        "manager",
+        "enterprise",
+        "vendor-selection",
+        "lakehouse",
+        "total-cost-of-ownership"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/cloud-data-platform-selection.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:855f32f0e38ed19a55edbeddc93c364f4a5d5e94090af36c8aa7ed215593f24f"
+    },
+    {
+      "id": "data-analytics.cohort-retention-analysis",
+      "name": "Cohort Retention Analysis",
+      "description": "A clear retention question, an activity rule and cohort anchor, a first triangle and baseline, monthly refresh and review routines, segment and revenue cuts, and specialist methods from survival curves to layer cake forecasts.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "cohort-retention-analysis",
+        "knowledge-worker",
+        "founder",
+        "team",
+        "retention",
+        "cohorts",
+        "product-analytics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/cohort-retention-analysis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:ad4b7104469797299dad09d27e5806902e978540f95700f5c35037585da91452"
+    },
+    {
+      "id": "data-analytics.computer-vision-projects",
+      "name": "Computer Vision Projects",
+      "description": "A vision task tied to a real decision, cameras and lighting surveyed on site, labelling rules and audits, leak-proof splits, honest field testing, and the routines that keep an image or video model working where it is installed.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "computer-vision-projects",
+        "engineer",
+        "researcher",
+        "object-detection",
+        "image-labelling",
+        "visual-inspection",
+        "edge-inference"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/computer-vision-projects.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 213
+      },
+      "contentHash": "sha256:8f592ca5918fca391bc6af20a860a01ef4cc8db69a4445188fac9bf82eed1974"
+    },
+    {
+      "id": "data-analytics.customer-data-platform",
+      "name": "Customer Data Platform",
+      "description": "A customer data platform that earns its licence: use cases first, a tracking plan and identity rules, consent that follows the profile, governed audiences and destinations, and measured personalisation.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "customer-data-platform",
+        "team",
+        "enterprise",
+        "identity-resolution",
+        "segmentation",
+        "personalisation",
+        "consent"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/customer-data-platform.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:af32126ccd57375e27fd90018cec3fd14427fec321fb779aa89c2cd86fba646f"
+    },
+    {
+      "id": "data-analytics.customer-lifetime-value-analysis",
+      "name": "Customer Lifetime Value Analysis",
+      "description": "Clean order and margin data, historic and model-based customer value, acquisition cost and payback by channel, and the rules that turn CLV into spending caps, retention limits and budgets.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "customer-lifetime-value-analysis",
+        "knowledge-worker",
+        "founder",
+        "small-business",
+        "unit-economics",
+        "customer-acquisition-cost",
+        "payback"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/customer-lifetime-value-analysis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:c8a482da1491759a289b6c1bfa368f9cde134962e45b6a270c6c005f51029e7a"
+    },
+    {
+      "id": "data-analytics.data-anonymisation-privacy",
+      "name": "Data Anonymisation & Privacy",
+      "description": "A personal data inventory, pseudonymisation and masking that hold up, minimised pipelines, erasure that reaches the warehouse, small-number suppression and tested anonymisation, so analytics stays useful without exposing people.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "data-anonymisation-privacy",
+        "engineer",
+        "enterprise",
+        "researcher",
+        "pseudonymisation",
+        "data-masking",
+        "re-identification"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/data-anonymisation-privacy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:ffa85259381c5843b73d8db4d9bb4e0e83b392a6cd2a2d2898a5171dc7d50753"
+    },
+    {
+      "id": "data-analytics.data-catalogue-lineage",
+      "name": "Data Catalogue & Lineage",
+      "description": "A searchable catalogue of datasets and columns, lineage from source system to dashboard, a documentation standard with coverage routines, and certified data people can find and trust.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "data-catalogue-lineage",
+        "enterprise",
+        "engineer",
+        "team",
+        "metadata",
+        "data-lineage",
+        "business-glossary"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/data-catalogue-lineage.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:ae2b9f9dd669f8a78d61bbfaefcd58c1b483f59605627d2e2482319139e40bba"
+    },
+    {
+      "id": "data-analytics.data-contracts-schemas",
+      "name": "Data Contracts & Schemas",
+      "description": "Written contracts between the teams that produce data and the teams that use it, with compatibility rules, CI checks, versioning and deprecation, so upstream schema changes stop breaking reports.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "data-contracts-schemas",
+        "engineer",
+        "enterprise",
+        "schema-evolution",
+        "schema-registry",
+        "breaking-changes",
+        "producer-consumer"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/data-contracts-schemas.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:5b9bbf523d704ec90b97cff33424f0ad50f8b9a33b8092208cecfa163cc6d3b3"
+    },
+    {
+      "id": "data-analytics.data-governance-ownership",
+      "name": "Data Governance & Ownership",
+      "description": "A governance charter, named owners and stewards for every data domain, a classification scheme, access approval and recertification, retention schedules and a clear route for deciding what a dataset means.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "data-governance-ownership",
+        "enterprise",
+        "manager",
+        "team",
+        "data-stewardship",
+        "access-control",
+        "data-retention"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/data-governance-ownership.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 194
+      },
+      "contentHash": "sha256:2d4fc0b6967af6a0ce246208c2b0b87286c5fc925852bf2ca63788d9ce141a16"
+    },
+    {
+      "id": "data-analytics.data-quality-monitoring",
+      "name": "Data Quality Monitoring",
+      "description": "Critical tables tiered and owned, tests for freshness, volume, duplicates and validity, alerts that reach the right owner, and a data incident process that ends in a fixed root cause.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "data-quality-monitoring",
+        "engineer",
+        "team",
+        "data-observability",
+        "data-testing",
+        "data-incidents",
+        "freshness"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/data-quality-monitoring.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:ebe7c8f4e9a0a3823a6b01e04cd49d5a6e3e63c961c3eb6ace7f2dd304a6be39"
+    },
+    {
+      "id": "data-analytics.data-storytelling-visualisation",
+      "name": "Data Storytelling & Visualisation",
+      "description": "Charts people grasp in five seconds and narratives that lead to a decision: audience briefs, a style guide and accessible palette, action titles, honest axes and rehearsed readouts.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "data-storytelling-visualisation",
+        "knowledge-worker",
+        "researcher",
+        "charts",
+        "presentations",
+        "narrative",
+        "accessibility"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/data-storytelling-visualisation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:ba0fe5b27fb67f60d2e4f6ef20b558ee32e37f58c6ad266aac368f2d8acfcffb"
+    },
+    {
+      "id": "data-analytics.data-team-management",
+      "name": "Data Team Management",
+      "description": "A written remit and team structure, clear roles and a career ladder, the one-to-ones, roadmaps and impact reports that keep a data team effective, and the hiring, growth and change work of leading one.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "data-team-management",
+        "manager",
+        "enterprise",
+        "team-leadership",
+        "hiring",
+        "career-ladder",
+        "operating-model"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/data-team-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:989b282dae109af732ec2ce1be109a81360af19ec4d9c6d71b64b280e9bc30ce"
+    },
+    {
+      "id": "data-analytics.data-warehouse-build",
+      "name": "Data Warehouse Build",
+      "description": "A charter, source inventory and bus matrix, a layered architecture with standards and environments, star schemas with honest grain and history, and the reviews, migration and cutover work that make a warehouse trusted.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "data-warehouse-build",
+        "engineer",
+        "team",
+        "enterprise",
+        "dimensional-modelling",
+        "star-schema",
+        "warehouse-migration"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/data-warehouse-build.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:fb4eb37fb472cfee639b31eed683a03aee9eb1c7d712da9570276f8084a0fc34"
+    },
+    {
+      "id": "data-analytics.data-warehouse-cost-control",
+      "name": "Data Warehouse Cost Control",
+      "description": "A queryable spend baseline, owners and tags on every workload, weekly anomaly checks and monthly showback, and the query, storage and compute fixes that cut the bill without slowing anyone down.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "data-warehouse-cost-control",
+        "engineer",
+        "manager",
+        "finops",
+        "query-performance",
+        "cloud-costs"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/data-warehouse-cost-control.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:ea689fac6331ff9a437dff313700a956cf621ed6bf9f367fb027009ab3347896"
+    },
+    {
+      "id": "data-analytics.elt-data-pipelines",
+      "name": "ELT Data Pipelines",
+      "description": "Every source inventoried and owned, loads that survive reruns and backfills, schedules with real dependencies, and failure and freshness alerts that reach an owner before stakeholders notice.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "elt-data-pipelines",
+        "engineer",
+        "team",
+        "orchestration",
+        "change-data-capture",
+        "incremental-loading",
+        "pipeline-monitoring"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/elt-data-pipelines.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:96f7223134ed3199d58fc2a0899d08df277a103072592a57e59e341af4bb916e"
+    },
+    {
+      "id": "data-analytics.geospatial-analysis",
+      "name": "Geospatial Analysis",
+      "description": "A clear location question, a sound toolkit and coordinate rules, geocoded and joined data, routines that keep layers clean and current, spatial skills, catchment and site decisions, and specialist models from Huff to routing.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "geospatial-analysis",
+        "researcher",
+        "knowledge-worker",
+        "gis",
+        "maps",
+        "catchments",
+        "site-selection"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/geospatial-analysis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 205
+      },
+      "contentHash": "sha256:867894850d7473d41c0151ee17c070edc3092eeef1e2674149e8662a10a6d45f"
+    },
+    {
+      "id": "data-analytics.kpi-metric-definitions",
+      "name": "KPI Metric Definitions",
+      "description": "An inventory of the metrics in circulation, one definition standard and dictionary, named owners and sources, change control, reconciliation and the hard cases of customers, revenue, churn and active users.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "kpi-metric-definitions",
+        "knowledge-worker",
+        "manager",
+        "team",
+        "metric-dictionary",
+        "semantic-layer",
+        "reporting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/kpi-metric-definitions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:c7f717b7f87ad2f2fa54b85512d1acfaf07afb2bc1427a6c4365f920425fb227"
+    },
+    {
+      "id": "data-analytics.llm-evaluation-rag-data",
+      "name": "LLM Evaluation & RAG Data",
+      "description": "A corpus you are allowed to index, real evaluation questions with reference answers, a harness and regression gate on every change, and a weekly habit of reading what the assistant actually says.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "llm-evaluation-rag-data",
+        "engineer",
+        "researcher",
+        "rag",
+        "llm-evaluation",
+        "retrieval",
+        "evaluation-sets"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/llm-evaluation-rag-data.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:f5880401195e26b89ff2e44cd54ad893569aef3c199661efa25d998c2e3fe0c8"
+    },
+    {
+      "id": "data-analytics.marketing-mix-modelling",
+      "name": "Marketing Mix Modelling",
+      "description": "A marketing mix model you can defend: reconciled spend and controls, a validated and calibrated Bayesian model, budget scenarios from response curves, and the refresh rhythm that keeps it trusted.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "marketing-mix-modelling",
+        "researcher",
+        "enterprise",
+        "mmm",
+        "media-effectiveness",
+        "budget-allocation",
+        "bayesian-modelling"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/marketing-mix-modelling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:28ad3866fde42fde86161890637467d4816b6530e4c4f7ed52aefe4af3ac1d57"
+    },
+    {
+      "id": "data-analytics.master-data-management",
+      "name": "Master Data Management",
+      "description": "One trusted version of customer, product and supplier records: a domain inventory and baseline, match, merge and survivorship rules, stewardship routines, a hub go-live and the controls that stop duplicates coming back.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "master-data-management",
+        "enterprise",
+        "team",
+        "golden-record",
+        "record-matching",
+        "data-stewardship",
+        "reference-data"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/master-data-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 212
+      },
+      "contentHash": "sha256:cc65920fcd441fe90809915283404ec67ecabdff06c4c0ad874c60abd6966d69"
+    },
+    {
+      "id": "data-analytics.ml-feature-engineering",
+      "name": "ML Feature Engineering",
+      "description": "A feature inventory and naming standard, point-in-time correct training joins, skew and parity checks between training and serving, shared transformation code, and the routines that keep a feature store lean and trusted.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "ml-feature-engineering",
+        "engineer",
+        "researcher",
+        "feature-store",
+        "training-serving-skew",
+        "point-in-time",
+        "feature-selection"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/ml-feature-engineering.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:2a21ce4a44597a75f9686a6e4bec1a707fdcd34aa725a9c3321999b6c8d6b364"
+    },
+    {
+      "id": "data-analytics.ml-model-deployment-mlops",
+      "name": "ML Model Deployment (MLOps)",
+      "description": "Every production model registered, packaged and owned, a tested path from notebook to endpoint, serving that is watched and costed, and a rollback that works on the first try.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "ml-model-deployment-mlops",
+        "engineer",
+        "team",
+        "model-registry",
+        "model-serving",
+        "ci-cd",
+        "rollback"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/ml-model-deployment-mlops.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:9f4233da4b931d02c2c7f6ab879384715cd115922d9637e144f0cdb4ab7236f4"
+    },
+    {
+      "id": "data-analytics.model-drift-monitoring",
+      "name": "Model Drift Monitoring",
+      "description": "A register of every live model, baselines and prediction logs, drift and performance checks that reach the right person, a response runbook and the evidence to retrain, recalibrate or retire a model on time.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "model-drift-monitoring",
+        "engineer",
+        "researcher",
+        "data-drift",
+        "concept-drift",
+        "model-monitoring",
+        "retraining"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/model-drift-monitoring.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:825b1077ca6437b0d97af32e449e0fc3be8e8e168b6fb8e47db6190ed9c4afb2"
+    },
+    {
+      "id": "data-analytics.online-experimentation-ab-tests",
+      "name": "Online Experimentation (A-B Tests)",
+      "description": "Experiment briefs, an evaluation criterion and guardrails, sound randomisation and sample sizes, launch and readout routines, the statistics behind honest results, and advanced designs such as holdouts and switchbacks.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "online-experimentation-ab-tests",
+        "team",
+        "knowledge-worker",
+        "researcher",
+        "ab-testing",
+        "experiment-design",
+        "product-analytics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/online-experimentation-ab-tests.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:ff025e33f58c0cf375d414049105f04651b3ce100e4cb35a47c465ce65138587"
+    },
+    {
+      "id": "data-analytics.open-public-datasets",
+      "name": "Open & Public Datasets",
+      "description": "Public and open datasets found, licensed, archived and cleaned for your own analysis and joined safely to internal data, plus your own data published openly with documentation, a licence and a persistent identifier.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "open-public-datasets",
+        "researcher",
+        "nonprofit",
+        "knowledge-worker",
+        "open-data",
+        "official-statistics",
+        "data-licensing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/open-public-datasets.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:7856b79eb73fbec76881ff56accc6160c472403627198967ae1b482c983024c9"
+    },
+    {
+      "id": "data-analytics.operations-analytics",
+      "name": "Operations Analytics",
+      "description": "Process maps, event logs and baselines for arrivals, handling time, flow and service levels, then a staffing and backlog rhythm, queueing skills, capacity decisions, peaks and analysis for contact centres, warehouses and clinics.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "operations-analytics",
+        "knowledge-worker",
+        "manager",
+        "capacity-planning",
+        "queueing",
+        "service-levels",
+        "workforce-management"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/operations-analytics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:f5638e1e5f52f1269061d25639abb567fc19c43281bf7631c946341b400c115f"
+    },
+    {
+      "id": "data-analytics.organisation-data-literacy",
+      "name": "Organisation Data Literacy",
+      "description": "A baseline of how well people read and question data, a competency framework by role, champions and clinics, short lessons on charts, averages and causation, and an honest measure of whether decisions actually changed.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "organisation-data-literacy",
+        "enterprise",
+        "manager",
+        "educator",
+        "data-literacy",
+        "data-culture",
+        "training-programme"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/organisation-data-literacy.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:262bd6c284791e8382b0c413f3473498dfc0178c247a297bac09ea44798929d5"
+    },
+    {
+      "id": "data-analytics.predictive-modelling",
+      "name": "Predictive Modelling",
+      "description": "Framing the decision, leak-free training data, honest splits and baselines, calibrated and explained models, validation reports and sign-off, and the routines that keep predictions trustworthy once people rely on them.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "predictive-modelling",
+        "researcher",
+        "engineer",
+        "knowledge-worker",
+        "machine-learning",
+        "model-validation",
+        "classification"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/predictive-modelling.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:83c1f668744f70ddbeadf151a12b74580b2979ab6bed07ccd64938f659ac15e9"
+    },
+    {
+      "id": "data-analytics.pricing-analytics",
+      "name": "Pricing Analytics",
+      "description": "Clean price and discount data, a price waterfall and realisation report, elasticity and willingness to pay methods, discount guardrails, and evidence behind tier, increase and launch price decisions.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "pricing-analytics",
+        "knowledge-worker",
+        "founder",
+        "price-elasticity",
+        "discounting",
+        "willingness-to-pay",
+        "plan-mix"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/pricing-analytics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 208
+      },
+      "contentHash": "sha256:fd8d77b19d06b458faa521f74943525006f0cf9da38bf884063f4418a3fe805e"
+    },
+    {
+      "id": "data-analytics.real-time-streaming-data",
+      "name": "Real-Time Streaming Data",
+      "description": "Topics and events designed and owned, delivery guarantees you can state, lag and latency watched, and replay, late data and failover rehearsed before production depends on them.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "real-time-streaming-data",
+        "engineer",
+        "event-streaming",
+        "stream-processing",
+        "kafka",
+        "event-driven"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/real-time-streaming-data.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:85e2a4aa837ab8c6d5c99c1ac6db95bd8cad8999c324243c214f138e6fd975be"
+    },
+    {
+      "id": "data-analytics.recommendation-systems",
+      "name": "Recommendation Systems",
+      "description": "Impression logs and time-based splits you can trust, baselines worth beating, retrieval and ranking models, diversity and business rules, and online tests that prove a recommender helps users and the business.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "recommendation-systems",
+        "engineer",
+        "researcher",
+        "collaborative-filtering",
+        "learning-to-rank",
+        "personalisation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/recommendation-systems.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:ae9ad398b82667b99ee1888c43dc15d085e3a23050ff6b6eae7481eab9343842"
+    },
+    {
+      "id": "data-analytics.reproducible-analysis-workflows",
+      "name": "Reproducible Analysis Workflows",
+      "description": "Analysis projects anyone can rerun: a standard layout, git, pinned environments, read-only raw data and one-command rebuilds, the routines that keep them honest, and replication packages for papers and audits.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "reproducible-analysis-workflows",
+        "researcher",
+        "engineer",
+        "version-control",
+        "notebooks",
+        "software-environments",
+        "open-science"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/reproducible-analysis-workflows.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:7a69363654efcb20d994fd91ed6e55e6043d96e33753ea7bdaa5e55518fec082"
+    },
+    {
+      "id": "data-analytics.reverse-etl-data-activation",
+      "name": "Reverse ETL & Data Activation",
+      "description": "Activation-ready warehouse models, stable matching keys and clear field ownership, synced into CRM, marketing, ad and support tools with alerts, audits, consent rules and routines that keep teams trusting the data.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "reverse-etl-data-activation",
+        "engineer",
+        "team",
+        "crm-sync",
+        "audience-sync",
+        "data-activation",
+        "revenue-operations"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/reverse-etl-data-activation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5914f2d25277ebbde65130cd637905767fdca093f7582b83f75c716d1c05b391"
+    },
+    {
+      "id": "data-analytics.self-serve-analytics-enablement",
+      "name": "Self-Serve Analytics Enablement",
+      "description": "Governed datasets, user tiers and access rules, certified content, training, office hours and champions, and the adoption reviews that let non-analysts answer their own questions without queueing for the data team.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "self-serve-analytics-enablement",
+        "team",
+        "enterprise",
+        "manager",
+        "governed-datasets",
+        "bi-adoption",
+        "analytics-training"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/self-serve-analytics-enablement.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:cacb351050d5bfd80280c7cd721f2ea4f2287d7f6fc9f52b7b99b0358fc5c8cb"
+    },
+    {
+      "id": "data-analytics.small-business-reporting-setup",
+      "name": "Small Business Reporting Setup",
+      "description": "Five questions, eight headline numbers and connected bank, payment and sales feeds, then owner routines, statement reading skills, accountant and lender packs, and set-ups for shops, services, cafés and founders.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "small-business-reporting-setup",
+        "small-business",
+        "founder",
+        "management-reports",
+        "bookkeeping",
+        "cash-flow",
+        "integrations"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/small-business-reporting-setup.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 190
+      },
+      "contentHash": "sha256:85e4ffbbe307fd136cae4908a1f8e685f024be67d5096b9fbc5db855996fe78a"
+    },
+    {
+      "id": "data-analytics.spreadsheet-analysis-models",
+      "name": "Spreadsheet Analysis & Models",
+      "description": "Spreadsheet models people can audit: inputs kept apart from formulas, checks that catch errors, refresh and version routines, scenario and sensitivity skills, and small business sheets for cash, quotes and stock.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "spreadsheet-analysis-models",
+        "knowledge-worker",
+        "small-business",
+        "excel",
+        "google-sheets",
+        "model-review",
+        "scenario-analysis"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/spreadsheet-analysis-models.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:0a3ce88e26e41a6971b8e3a2dd0899552c8cbea6d922333bd1d2c655b3cb3649"
+    },
+    {
+      "id": "data-analytics.sql-training-for-teams",
+      "name": "SQL Training for Teams",
+      "description": "A needs survey, safe read-only access and a masked sandbox, a course built on your own warehouse tables, office hours and a shared query library, peer review, assessments and the advanced patterns your best learners will want next.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "sql-training-for-teams",
+        "knowledge-worker",
+        "educator",
+        "team",
+        "sql",
+        "training-programme",
+        "query-patterns"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/sql-training-for-teams.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:1b4f16dcdcb1ef3ef5fcf3f755c113b63cfc11e709ff71ad0be3e564cb34e27d"
+    },
+    {
+      "id": "data-analytics.statistical-analysis-methods",
+      "name": "Statistical Analysis Methods",
+      "description": "Plans written before the data, sound methods from intervals and regression to multilevel and survival models, peer review, honest reporting standards and the habits that stop business findings being overclaimed.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "statistical-analysis-methods",
+        "researcher",
+        "knowledge-worker",
+        "regression",
+        "hypothesis-testing",
+        "confidence-intervals",
+        "statistics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/statistical-analysis-methods.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:8fed781742e081c603d2c7626ab5decc3bbefb9e181da9beb426a41790e24672"
+    },
+    {
+      "id": "data-analytics.survey-data-analysis",
+      "name": "Survey Data Analysis",
+      "description": "Clean, documented survey data, weights you can defend, honest margins of error, coded open text and the routines that turn each wave into findings people act on.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "survey-data-analysis",
+        "researcher",
+        "knowledge-worker",
+        "nonprofit",
+        "weighting",
+        "questionnaires",
+        "open-ended-coding"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/survey-data-analysis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:360fbf3f9f275c164347ea2676a46772388da22bf21bd8bf2abce1f3b4a2e123"
+    },
+    {
+      "id": "data-analytics.text-sentiment-analytics",
+      "name": "Text & Sentiment Analytics",
+      "description": "Text sources gathered and cleaned, a theme codebook and sentiment labels you can defend, checked models, weekly readouts and the routines that turn reviews, tickets and comments into issues someone fixes.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "text-sentiment-analytics",
+        "researcher",
+        "knowledge-worker",
+        "sentiment-analysis",
+        "topic-modelling",
+        "customer-feedback",
+        "nlp"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/text-sentiment-analytics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 190
+      },
+      "contentHash": "sha256:b5d5542dfea62c04f9b81b179a384cc3284725d74b1d4d63a162b44e21cb9a45"
+    },
+    {
+      "id": "data-analytics.time-series-forecasting",
+      "name": "Time Series Forecasting",
+      "description": "Benchmarks, backtests and honest error tracking first, then a monthly forecasting rhythm, core models, ranges, reconciliation and specialist methods for demand, revenue and traffic forecasts.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "time-series-forecasting",
+        "knowledge-worker",
+        "researcher",
+        "team",
+        "demand-forecasting",
+        "forecast-accuracy",
+        "seasonality"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/time-series-forecasting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:03d5c1d3e7d3f1dc21c351dcf6d847d220676a20f5c8667eababaad5c2aeb176"
+    },
+    {
+      "id": "data-analytics.web-app-traffic-analytics",
+      "name": "Web & App Traffic Analytics",
+      "description": "A measurement plan, a clean tag manager install and consent set-up, weekly and monthly traffic routines, channel and funnel skills, ecommerce and lead tracking, launch readiness and advanced app and export set-ups.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "web-app-traffic-analytics",
+        "small-business",
+        "knowledge-worker",
+        "team",
+        "web-analytics",
+        "tag-management",
+        "consent"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/web-app-traffic-analytics.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:02c4d4c48217bf7e782dba2532d075e1944fd1826e10357deb7524a62dfa30c5"
+    },
+    {
+      "id": "data-analytics.weekly-metrics-review-meeting",
+      "name": "Weekly Metrics Review Meeting",
+      "description": "A weekly metrics review leaders actually use: a written purpose, a fixed deck and agenda, owner commentary before the meeting, an action log that closes, and formats for small businesses, frontline teams and growing companies.",
+      "category": "business",
+      "tags": [
+        "data-analytics",
+        "weekly-metrics-review-meeting",
+        "manager",
+        "team",
+        "small-business",
+        "weekly-business-review",
+        "meeting-cadence",
+        "action-log"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/data-analytics/weekly-metrics-review-meeting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Data & Analytics"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 190
+      },
+      "contentHash": "sha256:8f828cd4c8729592df7f2768166eca2f8df240c5ef24eb7e279a652ff06acdc2"
+    },
+    {
       "id": "engineering-practice.aerospace-engineering-practice",
       "name": "Aerospace Engineering Practice",
       "description": "Your approvals and certification basis mapped, a controlled configuration baseline, and the directive, reliability, change board and compliance routines that keep aerospace design and maintenance evidence approvable.",
@@ -16885,6 +18282,34 @@
       "contentHash": "sha256:fe44b9505a67cc40be7364d7e69b59e472b6337f209f4c0c635164e98d81a28f"
     },
     {
+      "id": "fundraising-investors.acquisition-financing",
+      "name": "Acquisition Financing",
+      "description": "Money to buy a business, raised in order: sources and uses, debt sized on cash flow you can defend, equity and seller financing, competing lender terms, a clean completion day and covenants kept afterwards.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "acquisition-financing",
+        "founder",
+        "small-business",
+        "enterprise",
+        "acquisition-debt",
+        "seller-financing",
+        "buyout"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/acquisition-financing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:a251eda66b656426e9ff86cbefa8ca1d2f3bac35395dd8a98fd00ce4e69f25d0"
+    },
+    {
       "id": "fundraising-investors.angel-syndicate-raises",
       "name": "Angel Syndicate Raises",
       "description": "Choosing between syndicates and angel networks, preparing lead memos and network applications, pitching to a room of angels and closing SPV and direct cheques on one set of terms.",
@@ -16911,6 +18336,33 @@
         "totalTasks": 209
       },
       "contentHash": "sha256:21ed0f27e9b5feb630197985043d79e52e854a621649e152fa3566f26018f406"
+    },
+    {
+      "id": "fundraising-investors.bridge-round-extension",
+      "name": "Bridge Round & Extension",
+      "description": "A real cash-out date, a milestone the money must buy, insider asks run in the right order, clean bridge terms and a closing that leaves the next round's lead nothing to worry about.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "bridge-round-extension",
+        "founder",
+        "bridge-financing",
+        "round-extension",
+        "insider-round",
+        "runway"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/bridge-round-extension.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:4db58eb68cac385607d5afb293b1893ca1963c8b2c9f80a6098f3fdbbd3c190e"
     },
     {
       "id": "fundraising-investors.cap-table-management",
@@ -16941,6 +18393,34 @@
       "contentHash": "sha256:312f95753767482b132471e0912aed6869a0d46b342debd5d4e16341210d70f2"
     },
     {
+      "id": "fundraising-investors.charitable-foundation-grants",
+      "name": "Charitable Foundation Grants",
+      "description": "Trust prospects that fit, applications written to each funder's guidelines with full-cost budgets, and the monitoring, reporting and funder contact that turn first grants into renewals.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "charitable-foundation-grants",
+        "nonprofit",
+        "manager",
+        "trusts",
+        "foundations",
+        "grant-writing",
+        "grant-reporting"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/charitable-foundation-grants.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d9449dd4d3fb8b9d17923dd8637a614100fcd24b762b0024ebb03218e137ad87"
+    },
+    {
       "id": "fundraising-investors.company-sale-exit-process",
       "name": "Company Sale & Exit Process",
       "description": "A sale run on purpose: clear exit goals, the right advisers, buyer-grade numbers, a controlled process from teaser to letter of intent, diligence that keeps moving and a completion you understand line by line.",
@@ -16969,6 +18449,90 @@
       "contentHash": "sha256:71c16819b4da94c7686610efbe40226915c5bb77b510ac052162160e15ce1240"
     },
     {
+      "id": "fundraising-investors.corporate-venture-investors",
+      "name": "Corporate Venture Investors",
+      "description": "Raising from corporate venture arms and strategic investors: conflict maps, information red lines, business unit sponsors, sale rights, fair commercial terms and the routines that keep a strategic shareholder useful.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "corporate-venture-investors",
+        "founder",
+        "manager",
+        "corporate-venture-capital",
+        "strategic-investors",
+        "information-rights",
+        "commercial-partnerships"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/corporate-venture-investors.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:f346dd6ac3f1d41fa8d1e07d3e0a47e5b8238af429c81823aba331b2b36f5b30"
+    },
+    {
+      "id": "fundraising-investors.donor-stewardship-reporting",
+      "name": "Donor Stewardship & Reporting",
+      "description": "A stewardship system for nonprofits: prompt thanks, tiered touches through the year, honest impact reports and the retention numbers that show whether donors give again.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "donor-stewardship-reporting",
+        "nonprofit",
+        "team",
+        "donor-retention",
+        "impact-reporting",
+        "gift-acknowledgement"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/donor-stewardship-reporting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:91a7216cdfbd9b2026567941ec2fea7cedb9a8b2a402baf9145695e9c646ef5f"
+    },
+    {
+      "id": "fundraising-investors.down-round-recapitalisation",
+      "name": "Down Round & Recapitalisation",
+      "description": "A clear cash-out date, the preference stack and anti-dilution exposure mapped, a fair process with counsel, and plans that keep the team, the investors and the company together through a down round or recap.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "down-round-recapitalisation",
+        "founder",
+        "manager",
+        "down-round",
+        "recapitalisation",
+        "anti-dilution",
+        "pay-to-play",
+        "option-repricing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/down-round-recapitalisation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4be5122252aedf0fb6dd27831911637e4eb9d06b4cb8d702efb1d4939d3ee7c5"
+    },
+    {
       "id": "fundraising-investors.equity-crowdfunding-campaign",
       "name": "Equity Crowdfunding Campaign",
       "description": "A founder's route through an equity crowdfunding raise: the rules and platform, terms the crowd can buy, the pitch page and video, a private round, launch, the daily campaign rhythm, the close and life with many shareholders.",
@@ -16994,6 +18558,61 @@
         "totalTasks": 201
       },
       "contentHash": "sha256:24e9c412652211472f7c0f971078d3ace7f76d009b02b6a8168a59e24fe2d5d8"
+    },
+    {
+      "id": "fundraising-investors.family-office-relationships",
+      "name": "Family Office Relationships",
+      "description": "Mapping, approaching and keeping the family offices and private investors who back companies directly: mandates, decision chains, discreet routes in, investor checks, visits and long-hold relationships.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "family-office-relationships",
+        "founder",
+        "manager",
+        "family-offices",
+        "high-net-worth",
+        "direct-investment",
+        "patient-capital"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/family-office-relationships.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:8015821db5607d5ffbfcba50fdd204669c374a93519df09dde2404e0944c6bdb"
+    },
+    {
+      "id": "fundraising-investors.founder-dilution-planning",
+      "name": "Founder Dilution Planning",
+      "description": "Founder ownership modelled across every future round, grant and conversion, with written goals, checks before signing and scenarios that show the long-term cost of each deal.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "founder-dilution-planning",
+        "founder",
+        "ownership",
+        "dilution",
+        "equity-modelling",
+        "scenario-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/founder-dilution-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:208204c6d7780228efd64ed6d16d270d5841694dc39b00a0f20e60de8eb8ffbc"
     },
     {
       "id": "fundraising-investors.fundraising-financial-model",
@@ -17024,6 +18643,34 @@
       "contentHash": "sha256:c453b464fe6ede58df40b616578cfadcc69caec8bde5c98fbd911d8d170167ec"
     },
     {
+      "id": "fundraising-investors.fundraising-gala-events",
+      "name": "Fundraising Gala Events",
+      "description": "Charity galas, auctions and fundraising dinners that clear a real net target: a costed plan, sponsors and table captains, an auction and paddle raise that work, a calm night and guests who give again.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "fundraising-gala-events",
+        "nonprofit",
+        "team",
+        "charity-gala",
+        "charity-auction",
+        "sponsorship",
+        "paddle-raise"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/fundraising-gala-events.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:1ccdd0fd090f62897d2ec64350f08189746e7dc9c6768a9b70f465a1f54db918"
+    },
+    {
       "id": "fundraising-investors.growth-equity-rounds",
       "name": "Growth Equity Rounds",
       "description": "Run a Series B or later growth round with confidence: investor-grade metrics, a planned process, deeper diligence handled calmly and complex terms understood before anyone signs.",
@@ -17050,6 +18697,34 @@
         "totalTasks": 210
       },
       "contentHash": "sha256:8d88d1b3b9b801425ea7e7c81c664ebfbf36e89849ad414251426b2b97ba0e33"
+    },
+    {
+      "id": "fundraising-investors.impact-investor-fundraising",
+      "name": "Impact Investor Fundraising",
+      "description": "Raising from impact investors and mission-driven funds: a theory of change, chosen metrics and a baseline, the right capital mix, impact reporting routines, impact diligence and mission protection through to exit.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "impact-investor-fundraising",
+        "founder",
+        "nonprofit",
+        "impact-investing",
+        "social-enterprise",
+        "impact-measurement",
+        "blended-finance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/impact-investor-fundraising.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:98759d05836d0a48d1130a8dcfe2e298eaa18ce6fd9b9c6c2a39d469e659455b"
     },
     {
       "id": "fundraising-investors.innovation-grant-applications",
@@ -17191,6 +18866,61 @@
       "contentHash": "sha256:39f7f7be7cb5614514d4efe49af19f4463d293c1cd6555cf51ce366c5d22163e"
     },
     {
+      "id": "fundraising-investors.investor-reference-checks",
+      "name": "Investor Reference Checks",
+      "description": "Investors checked before you take their money: a question bank, off-list calls with founders they backed through hard times, a red flag register, a scored decision and a reference network that stays honest.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "investor-reference-checks",
+        "founder",
+        "due-diligence",
+        "backchannel-references",
+        "venture-capital",
+        "board-investors"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/investor-reference-checks.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:0d63a759a23b18c5d5f7ca203425d146b2ed89d3f8b69d50205b06d95e2b925d"
+    },
+    {
+      "id": "fundraising-investors.investor-relations-website",
+      "name": "Investor Relations Website",
+      "description": "A clear, compliant investor section: publishing rules and a release-day workflow, archives and share data kept current, accessible reports, results and AGM pages, and plans for listings, mergers and takeovers.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "investor-relations-website",
+        "enterprise",
+        "manager",
+        "listed-company",
+        "ir-website",
+        "disclosure",
+        "accessibility"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/investor-relations-website.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:3857ae8fa2889e1be9383b5f9ff1155787daf263f8cb1bf769676eb4e46027c4"
+    },
+    {
       "id": "fundraising-investors.investor-target-list-building",
       "name": "Investor Target List Building",
       "description": "A researched, scored and tiered investor list matched to your round by stage, sector, cheque size and fit, with the routines that keep it current through the raise and beyond.",
@@ -17216,6 +18946,61 @@
         "totalTasks": 203
       },
       "contentHash": "sha256:cc0ba4e64702c18a79386242eeec25d0ab6900cfa568f4102b6fd9ba6fda55ec"
+    },
+    {
+      "id": "fundraising-investors.investor-tax-relief-schemes",
+      "name": "Investor Tax Relief Schemes",
+      "description": "Investor tax relief handled properly: eligibility checks, advance opinions, qualifying shares, compliance statements and certificates, and the monitoring that keeps angels' relief safe for years.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "investor-tax-relief-schemes",
+        "founder",
+        "small-business",
+        "tax-relief",
+        "advance-assurance",
+        "seis-eis",
+        "qsbs"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/investor-tax-relief-schemes.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:70ff9662df2839d04e590765b2318e8c593b48e7d8ac971abd666f19c164f88f"
+    },
+    {
+      "id": "fundraising-investors.investor-warm-introductions",
+      "name": "Investor Warm Introductions",
+      "description": "Warm investor introductions planned and tracked: a map of who can introduce you, a forwardable email, double opt-in asks, thank-you loops and the routines that keep connectors glad to help.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "investor-warm-introductions",
+        "founder",
+        "connectors",
+        "double-opt-in",
+        "forwardable-email",
+        "networking"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/investor-warm-introductions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 190
+      },
+      "contentHash": "sha256:22ecf046420b991e1602afec122ac8fa0c6758bdf1fa805d7368c8a4c4ff58b0"
     },
     {
       "id": "fundraising-investors.ipo-readiness-programme",
@@ -17301,6 +19086,89 @@
       "contentHash": "sha256:895f64d84cb0f3381d1740566ae67b01091bc8bd774f3f552a61bab8644e2aec"
     },
     {
+      "id": "fundraising-investors.nonprofit-capital-campaign",
+      "name": "Nonprofit Capital Campaign",
+      "description": "A multi-year capital campaign run with discipline: readiness and a planning study, a gift range chart and case for support, a quiet phase led by lead gifts, pledge and recognition records, then launch, close and dedication.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "nonprofit-capital-campaign",
+        "nonprofit",
+        "manager",
+        "capital-campaign",
+        "case-for-support",
+        "gift-range-chart",
+        "endowment"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/nonprofit-capital-campaign.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:4726875cf2123eed9296d4a7814b449f150bdad6b116547e9655c5c6a7551aa8"
+    },
+    {
+      "id": "fundraising-investors.option-pool-sizing",
+      "name": "Option Pool Sizing",
+      "description": "A pool sized from your real hiring plan and grant bands, a reasoned answer when the lead investor names a percentage, and routines that warn you months before the reserve runs out.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "option-pool-sizing",
+        "founder",
+        "employee-options",
+        "equity-compensation",
+        "hiring-plan",
+        "dilution"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/option-pool-sizing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:cab599676ad99a1aa994d775b0474dc15c89136d5df74c98091612d8eafc0a25"
+    },
+    {
+      "id": "fundraising-investors.post-round-board-setup",
+      "name": "Post-Round Board Setup",
+      "description": "A board built properly after a round: seats mapped and filed, D&O cover, observer letters, a working agreement and delegation table, new directors onboarded, and routines that keep the relationship working.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "post-round-board-setup",
+        "founder",
+        "manager",
+        "board-of-directors",
+        "governance",
+        "board-observers",
+        "director-onboarding"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/post-round-board-setup.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:b8d8da279213857c3489945f6f466dc451a606596681e265b648ba302d0626b7"
+    },
+    {
       "id": "fundraising-investors.pre-seed-angel-round",
       "name": "Pre-Seed & Angel Round",
       "description": "A first-time founder's route to a pre-seed round: whether and how much to raise, the legal basics, a weekly raise rhythm, friends and family, angels and pre-seed funds, and closing commitments.",
@@ -17384,6 +19252,34 @@
       "contentHash": "sha256:7f8458fd5ff1ca42d7e4e2e39cc70c16e52ecd7451a4e92a68abfafe19334392"
     },
     {
+      "id": "fundraising-investors.raising-a-venture-fund",
+      "name": "Raising a Venture Fund",
+      "description": "A thesis and attributable track record, the right vehicle and fund size, LP materials and a tracked pipeline, through first close and the first capital call to the reporting that sets up Fund II.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "raising-a-venture-fund",
+        "founder",
+        "knowledge-worker",
+        "emerging-manager",
+        "limited-partners",
+        "first-close",
+        "fund-formation"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/raising-a-venture-fund.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:bba61e2c8cb540156ba5d73adef32fbcb1926a85534d5972ad360ad90dffb649"
+    },
+    {
       "id": "fundraising-investors.revenue-based-financing",
       "name": "Revenue-Based Financing",
       "description": "Revenue financing judged on its real cost: a fit and affordability check, clean data for providers, offers compared and negotiated, remittances tracked and reconciled, and a planned exit from every facility.",
@@ -17438,6 +19334,34 @@
         "totalTasks": 203
       },
       "contentHash": "sha256:517ac91f02434892443e9f678068d683d09c49031fee29f85c5f6711ded3724f"
+    },
+    {
+      "id": "fundraising-investors.round-closing-completion",
+      "name": "Round Closing & Completion",
+      "description": "A closing run like a project: timeline, checklist and counsel in place, conditions and signatures tracked, approvals and funds flow handled, shares issued and every filing and post-completion promise kept.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "round-closing-completion",
+        "founder",
+        "manager",
+        "closing",
+        "completion",
+        "legal-documents",
+        "share-issue"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/round-closing-completion.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:f0588bf4e28792981e0a10c0628acb09701bc7bb8db09e1fd2e8f9299f81f140"
     },
     {
       "id": "fundraising-investors.safes-convertible-notes",
@@ -17522,6 +19446,34 @@
       "contentHash": "sha256:dc4bad66d9c617a00bf9a5d16a148ffa2fcdaeac0d480dd99b0c4cc133ce3fe3"
     },
     {
+      "id": "fundraising-investors.sell-side-analyst-relations",
+      "name": "Sell-Side Analyst Relations",
+      "description": "A correct coverage register, clear rules for draft notes and model questions, a company-run consensus, callbacks after every results release and a working relationship with each analyst who covers the stock.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "sell-side-analyst-relations",
+        "enterprise",
+        "manager",
+        "equity-research",
+        "consensus",
+        "analyst-coverage",
+        "disclosure"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/sell-side-analyst-relations.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:8f5553d966d46bb2b6b6c41348a71f9c9b81c66757b7300faca22e1199d424cb"
+    },
+    {
       "id": "fundraising-investors.series-a-fundraise",
       "name": "Series A Fundraise",
       "description": "A Series A run on purpose: readiness metrics, a raise sized to milestones, a tiered investor pipeline, diligence that moves quickly and a lead partner chosen with the board.",
@@ -17576,6 +19528,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:ad5820f3c871a986afc068d048e5503c7d96e184e78ec7c10f4377d12a7c06f1"
+    },
+    {
+      "id": "fundraising-investors.shareholder-agm-preparation",
+      "name": "Shareholder AGM Preparation",
+      "description": "Shareholder meetings run to the rules: AGM obligations, notices, proxies and resolutions, routines for filings and registers, and plans for votes on deals, pay and new articles.",
+      "category": "business",
+      "tags": [
+        "fundraising-investors",
+        "shareholder-agm-preparation",
+        "founder",
+        "manager",
+        "enterprise",
+        "company-secretarial",
+        "proxy-voting",
+        "resolutions"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/fundraising-investors/shareholder-agm-preparation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Fundraising & Investor Relations"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:4f674b6cbc95a9a48670d1848923c0a8551ed8c0339e3c9868e90ed646ce0a11"
     },
     {
       "id": "fundraising-investors.small-business-loan-applications",
@@ -27412,6 +29392,707 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:d2932cc3c68db57e1151893aeaa99aabcdfff7d26aa7031ad6c5b1fa9bb00b5f"
+    },
+    {
+      "id": "product-management.api-platform-products",
+      "name": "API & Platform Products",
+      "description": "APIs run as products: an inventory and design rules, versioning and auth decisions, a developer portal people succeed with, routines that keep the platform healthy, and the partners and enterprises building on it.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "api-platform-products",
+        "team",
+        "engineer",
+        "enterprise",
+        "developer-experience",
+        "api-versioning",
+        "developer-portal"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/api-platform-products.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:2704ea0cb7529f62a02c22500b850c8b4b0fbee3deaca39c4cef5c873480f800"
+    },
+    {
+      "id": "product-management.beta-early-access-programmes",
+      "name": "Beta & Early Access Programmes",
+      "description": "Running betas that answer real questions: goals and exit criteria, recruiting and agreements, feedback and bug channels, weekly review rhythms, and a clear evidence-based call on when a feature is ready for general release.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "beta-early-access-programmes",
+        "team",
+        "founder",
+        "beta-testing",
+        "early-access",
+        "waitlist",
+        "release-readiness"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/beta-early-access-programmes.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:8e7dd8b587ca943461325f4aedd712314fca5a2c3f936e4c599b373ed1fcc306"
+    },
+    {
+      "id": "product-management.competitor-feature-analysis",
+      "name": "Competitor Feature Analysis",
+      "description": "Pick the rivals worth comparing, build an evidence-backed feature and experience matrix, keep it current with light routines, and turn the gaps into clear match, differentiate or ignore decisions.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "competitor-feature-analysis",
+        "team",
+        "founder",
+        "competitive-analysis",
+        "feature-matrix",
+        "differentiation",
+        "product-teardown"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/competitor-feature-analysis.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0cd0504c1728aab809c457469d60f3705783cb6c501e042d6b862539315b3dd4"
+    },
+    {
+      "id": "product-management.customer-feedback-triage",
+      "name": "Customer Feedback Triage",
+      "description": "One inbox for feedback from support, sales, reviews, surveys and interviews, a tagging taxonomy people apply the same way, a weekly triage habit and monthly themes that reach the roadmap, for product teams and small businesses.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "customer-feedback-triage",
+        "team",
+        "small-business",
+        "voice-of-customer",
+        "feedback-tagging",
+        "support-insights",
+        "customer-insights"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/customer-feedback-triage.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0ccecdce287da87bdac533bcadef64fa8678198d849e873d6e1b7e0a5a77bd83"
+    },
+    {
+      "id": "product-management.feature-adoption-tracking",
+      "name": "Feature Adoption Tracking",
+      "description": "Clear adoption definitions, a dashboard per feature, regular post-launch checkpoints and the fix, promote or retire calls that follow when nobody is using what shipped.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "feature-adoption-tracking",
+        "team",
+        "manager",
+        "adoption",
+        "product-analytics",
+        "dashboards",
+        "post-launch"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/feature-adoption-tracking.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:434bcbfdb805bf8469cf0a1210b3b31e7d3a8675f67ce028c398020ecf520bb1"
+    },
+    {
+      "id": "product-management.feature-prioritisation-frameworks",
+      "name": "Feature Prioritisation Frameworks",
+      "description": "A defensible ranking of competing ideas: agreed criteria and decision rights, honest reach, impact, confidence and effort scores, a monthly re-score and trade-offs explained openly.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "feature-prioritisation-frameworks",
+        "team",
+        "manager",
+        "founder",
+        "rice",
+        "scoring",
+        "trade-offs"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/feature-prioritisation-frameworks.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:efe290646248d8f5e6525c16052bd446b7fe3a12a185348a23a51e5ab65594ea"
+    },
+    {
+      "id": "product-management.feature-request-voting-board",
+      "name": "Feature Request Voting Board",
+      "description": "A voting board customers trust: the right tool and visibility, honest status labels, weekly moderation and merging, closing the loop with voters, saying no well and reading votes without being fooled by them.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "feature-request-voting-board",
+        "team",
+        "founder",
+        "small-business",
+        "feature-requests",
+        "idea-voting",
+        "closing-the-loop"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/feature-request-voting-board.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:49cec5057e537495e88fbe3cc2e814dca9dbf1e21536d3cfbe11fa49d1f325b0"
+    },
+    {
+      "id": "product-management.freemium-trial-design",
+      "name": "Freemium & Trial Design",
+      "description": "A measured free-to-paid funnel, a deliberate choice between freemium, free trial and reverse trial, free limits and upgrade prompts that convert without annoying people, and the reviews that keep the free offer paying for itself.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "freemium-trial-design",
+        "founder",
+        "team",
+        "freemium",
+        "free-trial",
+        "reverse-trial",
+        "product-led-growth",
+        "conversion"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/freemium-trial-design.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:b8ca2c8325f8420e39d02899cd4b3cbaff2b825b6bc017b892113c90e64b5a51"
+    },
+    {
+      "id": "product-management.jobs-to-be-done-research",
+      "name": "Jobs-to-Be-Done Research",
+      "description": "Switch interviews, job statements, job maps and outcome surveys that show what progress customers are trying to make, what they hire instead of you and what makes them switch.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "jobs-to-be-done-research",
+        "team",
+        "founder",
+        "researcher",
+        "switch-interviews",
+        "outcome-driven-innovation",
+        "four-forces"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/jobs-to-be-done-research.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:9326fa418d08a4640212972a0693e8307965b86a3c57d2c109313cfac56662dd"
+    },
+    {
+      "id": "product-management.mvp-scoping",
+      "name": "MVP Scoping",
+      "description": "Cutting an idea to the smallest version that tests its riskiest assumption: hypotheses and kill criteria, time boxes and scope lists, weekly guards against scope creep, and an honest pivot or persevere call.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "mvp-scoping",
+        "founder",
+        "team",
+        "minimum-viable-product",
+        "riskiest-assumption",
+        "scope-creep",
+        "lean-startup"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/mvp-scoping.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 206
+      },
+      "contentHash": "sha256:c60f0108db425ee2f93dbe0b74104e6eec5838ccf7baf965c6cc865999916d76"
+    },
+    {
+      "id": "product-management.new-user-activation-flows",
+      "name": "New User Activation Flows",
+      "description": "An activation definition that predicts retention, a measured path from sign-up to first value, weekly funnel reviews and the onboarding fixes that get more new users to the moment the product clicks.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "new-user-activation-flows",
+        "team",
+        "founder",
+        "activation",
+        "onboarding",
+        "time-to-value",
+        "funnel-analysis"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/new-user-activation-flows.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:98a8d4137ee8d8efbe22e1ccc58b56f64e44dd5d50b58ab8fda7691e1890b7a9"
+    },
+    {
+      "id": "product-management.north-star-metric-inputs",
+      "name": "North Star Metric & Inputs",
+      "description": "A North Star that reflects real customer value, a tree of owned input metrics with guards, and the weekly reviews, quarterly targets and checks that keep the number honest.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "north-star-metric-inputs",
+        "team",
+        "manager",
+        "founder",
+        "metrics",
+        "input-metrics",
+        "counter-metrics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/north-star-metric-inputs.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:5eeb189f2ea0a86390413429164b285a36caabfa6d7765d9c2123e4c2b4fcf97"
+    },
+    {
+      "id": "product-management.pricing-packaging-design",
+      "name": "Pricing & Packaging Design",
+      "description": "A full map of what you charge today, packaging principles and tiers built on value, disciplined discounting, and price changes for existing customers planned with enough notice and care to keep their trust.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "pricing-packaging-design",
+        "founder",
+        "team",
+        "manager",
+        "pricing-strategy",
+        "packaging",
+        "price-increase"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/pricing-packaging-design.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:453f5052453d0406fe33df278467d239f1933010b0f47f45697b6e262a0c29ce"
+    },
+    {
+      "id": "product-management.problem-framing-opportunity-mapping",
+      "name": "Problem Framing & Opportunity Mapping",
+      "description": "An outcome at the root, an opportunity solution tree built from real evidence, sharp problem statements and a live assumption log, so the team picks the customer problems worth solving on purpose.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "problem-framing-opportunity-mapping",
+        "team",
+        "founder",
+        "opportunity-solution-tree",
+        "problem-statements",
+        "assumption-mapping",
+        "continuous-discovery"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/problem-framing-opportunity-mapping.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:3479cfb1ab21ca16f045c4cf073bf777aa5f032cbd534b19ddc4bb38dfa114aa"
+    },
+    {
+      "id": "product-management.product-analytics-instrumentation",
+      "name": "Product Analytics Instrumentation",
+      "description": "A tracking plan the whole team trusts: questions first, one naming convention, clear identity and consent rules, verified events on every platform and weekly checks that catch broken tracking early.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-analytics-instrumentation",
+        "team",
+        "engineer",
+        "event-tracking",
+        "tracking-plan",
+        "data-quality",
+        "analytics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-analytics-instrumentation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 207
+      },
+      "contentHash": "sha256:bb98b72ba801376d07f51b79d6cedac54f6dd0a806af905c04b6a2cbb8aa0877"
+    },
+    {
+      "id": "product-management.product-backlog-grooming",
+      "name": "Product Backlog Grooming",
+      "description": "A backlog that stays ordered, sized and current: one owner and ticket standards, weekly refinement and triage, splitting and estimation skills, clean-up decisions and situations from solo developers to platform teams.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-backlog-grooming",
+        "team",
+        "engineer",
+        "backlog-refinement",
+        "agile",
+        "issue-tracking",
+        "definition-of-ready"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-backlog-grooming.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:374b4d55f1f98549891458f55b9f01b8afc9a0f88fc742e2779c62c71ba02f8f"
+    },
+    {
+      "id": "product-management.product-discovery-interviews",
+      "name": "Product Discovery Interviews",
+      "description": "Recruiting, running and writing up customer conversations every week, from screeners, consent and a shared notes space to readouts, interviewing skills and specialist rounds with churned, enterprise and overseas users.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-discovery-interviews",
+        "team",
+        "founder",
+        "knowledge-worker",
+        "customer-interviews",
+        "continuous-discovery",
+        "user-research"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-discovery-interviews.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 198
+      },
+      "contentHash": "sha256:d2ca511e3d9bbeb0088f131fe78a9a63729d35d3c2a519fd7d6e0baa5eb33d08"
+    },
+    {
+      "id": "product-management.product-growth-experiments",
+      "name": "Product Growth Experiments",
+      "description": "A disciplined experiment programme for sign-up, onboarding, sharing and upgrade flows: trustworthy assignment and metrics, a scored backlog, sound statistics and a decision log the team learns from.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-growth-experiments",
+        "team",
+        "engineer",
+        "ab-testing",
+        "experimentation",
+        "growth",
+        "conversion"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-growth-experiments.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:1ceb84ac8714ef17a0d420aa4a0ae4ce2c44e6ba363969230834247932d4f5ea"
+    },
+    {
+      "id": "product-management.product-launch-management",
+      "name": "Product Launch Management",
+      "description": "Launch tiers, a checklist and a single owner, sales and support made ready, a go or no-go call with written criteria, a planned launch day and an honest review afterwards, for product teams, managers and enterprise launches.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-launch-management",
+        "team",
+        "manager",
+        "enterprise",
+        "go-to-market",
+        "launch-readiness",
+        "go-no-go"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-launch-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 196
+      },
+      "contentHash": "sha256:cebc54f606279346aac84079048008f6beca9bf1236df4da10cff4a39a8a1bea"
+    },
+    {
+      "id": "product-management.product-led-retention",
+      "name": "Product-Led Retention",
+      "description": "A written retention definition, honest cohort curves, the behaviours that predict who stays, review rhythms for churn and dormancy, and fixes for the moments users quietly leave.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-led-retention",
+        "team",
+        "founder",
+        "retention",
+        "churn",
+        "cohort-analysis",
+        "habit-loops"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-led-retention.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:cd0815c897b0aad6c96fdf88fc8956860b27f3afdae56b5b1e2247f9268add80"
+    },
+    {
+      "id": "product-management.product-requirements-documents",
+      "name": "Product Requirements Documents",
+      "description": "A spec practice your engineers trust: one PRD template, problems and success measures written first, testable stories and edge cases, and the review habits that keep specs current.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-requirements-documents",
+        "team",
+        "knowledge-worker",
+        "prd",
+        "specs",
+        "user-stories",
+        "acceptance-criteria"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-requirements-documents.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:13af6cf2ffba75918b618a3e613457a0c6674783c6bd6d8d69ef6336992331e1"
+    },
+    {
+      "id": "product-management.product-roadmap-planning",
+      "name": "Product Roadmap Planning",
+      "description": "An outcome-based roadmap built from strategy, real capacity and existing commitments, refreshed monthly as learning arrives, with honest versions for the team, leadership and customers.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-roadmap-planning",
+        "team",
+        "manager",
+        "founder",
+        "outcome-roadmap",
+        "now-next-later",
+        "quarterly-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-roadmap-planning.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:af851e17eb29b4c00a20fb18c8af604a69014c5af7166264a74dba059854df27"
+    },
+    {
+      "id": "product-management.product-team-okrs",
+      "name": "Product Team OKRs",
+      "description": "Quarterly product objectives and key results that measure customer and business outcomes, with baselines, weekly confidence check-ins, honest grading and the habits that keep targets credible.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-team-okrs",
+        "team",
+        "manager",
+        "okrs",
+        "key-results",
+        "outcomes",
+        "quarterly-planning"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-team-okrs.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:11773552c7c7b37b3ffb917e3b8bcb46bd0f3f79037eb4e84db23376c9a33095"
+    },
+    {
+      "id": "product-management.product-vision-writing",
+      "name": "Product Vision Writing",
+      "description": "A product vision people can repeat and use: built from evidence and leadership interviews, written as a vivid one-page narrative with principles and non-goals, launched to the team and refreshed each year.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-vision-writing",
+        "manager",
+        "founder",
+        "vision-statement",
+        "product-strategy",
+        "narrative-writing",
+        "product-principles"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-vision-writing.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:3c75bae6b069fa709b4df885c766489f6a00ed858c5a9a387a5b1686a9fa16a8"
+    },
+    {
+      "id": "product-management.prototype-validation-tests",
+      "name": "Prototype Validation Tests",
+      "description": "Testing ideas before anyone writes production code: assumption maps and pass thresholds, clickable prototypes, fake doors, concierge and Wizard of Oz tests, a weekly session rhythm, and evidence strong enough to justify a build.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "prototype-validation-tests",
+        "team",
+        "founder",
+        "creative",
+        "usability-testing",
+        "fake-door",
+        "prototyping"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/prototype-validation-tests.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:ba003ea577463a3416806d0c0874024099e0fb7f6d16a4e9f4d8bc1909ae8c4e"
     },
     {
       "id": "professions-trades.accountancy-qualification-path",
