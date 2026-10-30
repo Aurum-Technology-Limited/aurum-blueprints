@@ -21041,6 +21041,34 @@
       "contentHash": "sha256:d4df279a778d7e6d7abd207ba498ab0b366e7659c671a807e98f928b4019d1e5"
     },
     {
+      "id": "it-security.single-sign-on-identity",
+      "name": "Single Sign-On & Identity",
+      "description": "One identity provider for every staff login: a clean directory, apps connected through SAML or OIDC, automated provisioning, and the routines that keep accounts consistent and sign-in working.",
+      "category": "business",
+      "tags": [
+        "it-security",
+        "single-sign-on-identity",
+        "enterprise",
+        "small-business",
+        "engineer",
+        "sso",
+        "saml",
+        "scim"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/it-security/single-sign-on-identity.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "IT & Security"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:c7ab572e568ba4841574db1363b6f67291ffdfa62bec01b97b925905d8ee7bc4"
+    },
+    {
       "id": "management-consulting.benchmarking-studies",
       "name": "Benchmarking Studies",
       "description": "A working method for client benchmarks: the decision it serves, a defensible peer set, defined metrics, clean collection and normalisation, gaps shown honestly and false comparisons caught before the readout.",
@@ -29394,6 +29422,34 @@
       "contentHash": "sha256:d2932cc3c68db57e1151893aeaa99aabcdfff7d26aa7031ad6c5b1fa9bb00b5f"
     },
     {
+      "id": "product-management.ai-feature-product-management",
+      "name": "AI Feature Product Management",
+      "description": "Shaping AI features from use case to trusted release: quality bars and golden evaluation sets, failure catalogues, cost and latency budgets, weekly output reviews, model changes, guardrails and the launch gate.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "ai-feature-product-management",
+        "team",
+        "engineer",
+        "founder",
+        "llm",
+        "evaluation",
+        "ai-quality"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/ai-feature-product-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0c019624e0f59cc00664c0bef7dee08ec4d64d544a874f384e314cce023ef9c5"
+    },
+    {
       "id": "product-management.api-platform-products",
       "name": "API & Platform Products",
       "description": "APIs run as products: an inventory and design rules, versioning and auth decisions, a developer portal people succeed with, routines that keep the platform healthy, and the partners and enterprises building on it.",
@@ -29450,6 +29506,34 @@
       "contentHash": "sha256:8e7dd8b587ca943461325f4aedd712314fca5a2c3f936e4c599b373ed1fcc306"
     },
     {
+      "id": "product-management.build-vs-buy-decisions",
+      "name": "Build vs Buy Decisions",
+      "description": "Build, buy or partner calls made on evidence: a decision register, total cost of ownership models, vendor shortlists and proofs of concept, renewal and exit plans, and reviews that check whether past choices still hold.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "build-vs-buy-decisions",
+        "manager",
+        "founder",
+        "team",
+        "sourcing",
+        "vendor-selection",
+        "total-cost-of-ownership"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/build-vs-buy-decisions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 201
+      },
+      "contentHash": "sha256:ca63144fc6b4bf8acee8a115236f6c76ed6b64e1c4ced454236ceb2babffdc67"
+    },
+    {
       "id": "product-management.competitor-feature-analysis",
       "name": "Competitor Feature Analysis",
       "description": "Pick the rivals worth comparing, build an evidence-backed feature and experience matrix, keep it current with light routines, and turn the gaps into clear match, differentiate or ignore decisions.",
@@ -29476,6 +29560,62 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:0cd0504c1728aab809c457469d60f3705783cb6c501e042d6b862539315b3dd4"
+    },
+    {
+      "id": "product-management.consumer-app-engagement-loops",
+      "name": "Consumer App Engagement Loops",
+      "description": "A one-page map of your core loops, metrics that tell healthy use from compulsive use, an ethics charter, and the triggers, rewards and social mechanics that bring people back for good reasons.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "consumer-app-engagement-loops",
+        "team",
+        "founder",
+        "creative",
+        "gamification",
+        "social-features",
+        "digital-wellbeing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/consumer-app-engagement-loops.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:72b91a0d6dc3dc78704bfdb0455b3179cb50733561bbe999b9d77416a3aaa67f"
+    },
+    {
+      "id": "product-management.customer-advisory-board",
+      "name": "Customer Advisory Board",
+      "description": "A customer advisory board that earns its keep: charter, sponsor and member selection, agreements, quarterly sessions with pre-reads, closing the loop with members, and measuring what the board actually changed.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "customer-advisory-board",
+        "manager",
+        "founder",
+        "enterprise",
+        "advisory-board",
+        "strategic-customers",
+        "executive-relationships"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/customer-advisory-board.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:cfb3c4ebd093a862f9a618e26ad46756f2a2890f3ec0b0808450ac472858d140"
     },
     {
       "id": "product-management.customer-feedback-triage",
@@ -29506,6 +29646,34 @@
       "contentHash": "sha256:0ccecdce287da87bdac533bcadef64fa8678198d849e873d6e1b7e0a5a77bd83"
     },
     {
+      "id": "product-management.enterprise-feature-readiness",
+      "name": "Enterprise Feature Readiness",
+      "description": "Enterprise readiness for product teams and founders: gap evidence from lost deals, single sign-on, SCIM, roles, audit logs and admin controls, plus questionnaire answers, contract commitments and renewal checks.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "enterprise-feature-readiness",
+        "team",
+        "enterprise",
+        "founder",
+        "single-sign-on",
+        "audit-logs",
+        "admin-controls"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/enterprise-feature-readiness.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:0830604a523009183e1ceaf83bf5682440deb172a67e6fa88bc6b1a327f0f7c9"
+    },
+    {
       "id": "product-management.feature-adoption-tracking",
       "name": "Feature Adoption Tracking",
       "description": "Clear adoption definitions, a dashboard per feature, regular post-launch checkpoints and the fix, promote or retire calls that follow when nobody is using what shipped.",
@@ -29532,6 +29700,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:434bcbfdb805bf8469cf0a1210b3b31e7d3a8675f67ce028c398020ecf520bb1"
+    },
+    {
+      "id": "product-management.feature-deprecation-sunsetting",
+      "name": "Feature Deprecation & Sunsetting",
+      "description": "Usage evidence, a written deprecation policy, customer notice schedules, migration paths and exports, a calm removal day and an honest review afterwards, for product teams and managers retiring features or whole products.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "feature-deprecation-sunsetting",
+        "team",
+        "manager",
+        "deprecation",
+        "end-of-life",
+        "migration",
+        "customer-notice"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/feature-deprecation-sunsetting.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:b305640bb53890aea9f14efc3b0b4fa1146aeb4fcf6a4d023536e05d36ec75fe"
     },
     {
       "id": "product-management.feature-prioritisation-frameworks",
@@ -29619,6 +29815,90 @@
       "contentHash": "sha256:b8ca2c8325f8420e39d02899cd4b3cbaff2b825b6bc017b892113c90e64b5a51"
     },
     {
+      "id": "product-management.hardware-product-development",
+      "name": "Hardware Product Development",
+      "description": "A device taken from one-page brief to shipped units: a target cost stack, stage gates from EVT to PVT, a chosen factory, certification by market, and the routines that keep BOM cost, parts and changes under control.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "hardware-product-development",
+        "founder",
+        "team",
+        "engineer",
+        "manufacturing",
+        "certification",
+        "prototyping"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/hardware-product-development.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:2d9cf627c3adc18dc7550b53ab354044fe8ee4504841da6ab67fa1b6fab82c90"
+    },
+    {
+      "id": "product-management.in-app-monetisation",
+      "name": "In-App Monetisation",
+      "description": "A trusted revenue baseline, a clean product catalogue, fair paywalls and upgrade moments, store rules and refunds handled, and the offers, experiments and audits that grow revenue per user.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "in-app-monetisation",
+        "team",
+        "founder",
+        "in-app-purchases",
+        "paywalls",
+        "virtual-currency",
+        "app-store"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/in-app-monetisation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 199
+      },
+      "contentHash": "sha256:4082d80fc3eb5374d8b319045625edf37f0ff903c7c16ecd8b02f3d21cfb6931"
+    },
+    {
+      "id": "product-management.internal-tools-product-ownership",
+      "name": "Internal Tools Product Ownership",
+      "description": "Internal tools run like products: an owner and charter for each, a request and release rhythm staff can trust, access reviews, adoption measures, and the cutovers that retire spreadsheets and legacy systems.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "internal-tools-product-ownership",
+        "team",
+        "enterprise",
+        "engineer",
+        "internal-tools",
+        "back-office",
+        "admin-console"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/internal-tools-product-ownership.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 197
+      },
+      "contentHash": "sha256:662391ce9f377c0896a4b13ae60e31ce63082f08823d1cede944f883fea96761"
+    },
+    {
       "id": "product-management.jobs-to-be-done-research",
       "name": "Jobs-to-Be-Done Research",
       "description": "Switch interviews, job statements, job maps and outcome surveys that show what progress customers are trying to make, what they hire instead of you and what makes them switch.",
@@ -29645,6 +29925,34 @@
         "totalTasks": 201
       },
       "contentHash": "sha256:9326fa418d08a4640212972a0693e8307965b86a3c57d2c109313cfac56662dd"
+    },
+    {
+      "id": "product-management.mobile-app-product-management",
+      "name": "Mobile App Product Management",
+      "description": "A clear view of your app's health, release trains through both stores, OS support decisions, push permission, ratings and offline behaviour, and the routines that keep a mobile product shipping safely.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "mobile-app-product-management",
+        "team",
+        "engineer",
+        "app-store",
+        "ios",
+        "android",
+        "mobile-releases"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/mobile-app-product-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:9d5ac5dc5f149999385397e1c0f9730fce2c7515310a48976f5d9e1aea9c17f8"
     },
     {
       "id": "product-management.mvp-scoping",
@@ -29729,6 +30037,34 @@
         "totalTasks": 200
       },
       "contentHash": "sha256:5eeb189f2ea0a86390413429164b285a36caabfa6d7765d9c2123e4c2b4fcf97"
+    },
+    {
+      "id": "product-management.notifications-messaging-features",
+      "name": "Notifications & Messaging Features",
+      "description": "An inventory of every message, channel rules, sensible defaults and a preference centre, then the routines and builds that keep in-app, email and push notifications useful rather than noisy.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "notifications-messaging-features",
+        "team",
+        "engineer",
+        "push-notifications",
+        "email-deliverability",
+        "in-app-messaging",
+        "preference-centre"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/notifications-messaging-features.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:42076880429a9ffeebd8ad745b95ed9de6cf385517c7624545b75659f3f6d860"
     },
     {
       "id": "product-management.pricing-packaging-design",
@@ -29955,6 +30291,118 @@
       "contentHash": "sha256:cd0815c897b0aad6c96fdf88fc8956860b27f3afdae56b5b1e2247f9268add80"
     },
     {
+      "id": "product-management.product-line-extensions",
+      "name": "Product Line Extensions",
+      "description": "Deciding when and how to extend a product line: the line map and extension thesis, cannibalisation and fence checks, new editions, tiers and add-ons, pilots and launch readiness, and the reviews that scale or stop them.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-line-extensions",
+        "manager",
+        "founder",
+        "team",
+        "editions",
+        "add-ons",
+        "product-line"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-line-extensions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:afb905886ba65081480fd6a8cb2c5fde0a1a83ca0378724b63038c2cde43c470"
+    },
+    {
+      "id": "product-management.product-localisation",
+      "name": "Product Localisation",
+      "description": "A product ready for other languages, a translation pipeline with glossary, style guides and quality reviews, and the formats, payment methods and launch plans that make each new market feel local.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-localisation",
+        "team",
+        "enterprise",
+        "localisation",
+        "internationalisation",
+        "translation",
+        "new-markets"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-localisation.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:8e708b9fb7c6c59a6eddaf99f21116928f2c8eac1fea7450d0fcaae721f76496"
+    },
+    {
+      "id": "product-management.product-operations",
+      "name": "Product Operations",
+      "description": "The machinery behind a growing product org: a charter and operating model, tool stack and templates, intake, review and planning rhythms, trustworthy product data and the specialist work of scaling product ops.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-operations",
+        "enterprise",
+        "manager",
+        "team",
+        "product-ops",
+        "tooling",
+        "operating-model"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-operations.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:30676c31cf403fd84884cb02a5964e9d452914123d9aeef6f709cbdd20e6f9e9"
+    },
+    {
+      "id": "product-management.product-portfolio-management",
+      "name": "Product Portfolio Management",
+      "description": "Run several products as one portfolio: an inventory with real costs and revenue, lifecycle stages, investment guardrails, quarterly reviews and rebalancing, and clear calls on which products to grow, sustain or retire.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-portfolio-management",
+        "manager",
+        "enterprise",
+        "portfolio-strategy",
+        "investment-allocation",
+        "product-lifecycle",
+        "governance"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-portfolio-management.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 195
+      },
+      "contentHash": "sha256:fe962ee6e320fe1a845e60ec31445e24f088fb5dd526586a66ed2f405ff8e21f"
+    },
+    {
       "id": "product-management.product-requirements-documents",
       "name": "Product Requirements Documents",
       "description": "A spec practice your engineers trust: one PRD template, problems and success measures written first, testable stories and edge cases, and the review habits that keep specs current.",
@@ -30011,6 +30459,34 @@
       "contentHash": "sha256:af851e17eb29b4c00a20fb18c8af604a69014c5af7166264a74dba059854df27"
     },
     {
+      "id": "product-management.product-stakeholder-alignment",
+      "name": "Product Stakeholder Alignment",
+      "description": "A stakeholder map, clear decision rights, a decision log and a steady rhythm of updates, syncs and reviews that keep sales, support and leadership aligned on product trade-offs.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-stakeholder-alignment",
+        "manager",
+        "team",
+        "enterprise",
+        "stakeholder-updates",
+        "decision-log",
+        "trade-offs"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-stakeholder-alignment.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 202
+      },
+      "contentHash": "sha256:ab7f32b759c97c4ce37f055c1c606a8df444961ed0a3438d452fb89d95346ee2"
+    },
+    {
       "id": "product-management.product-team-okrs",
       "name": "Product Team OKRs",
       "description": "Quarterly product objectives and key results that measure customer and business outcomes, with baselines, weekly confidence check-ins, honest grading and the habits that keep targets credible.",
@@ -30037,6 +30513,62 @@
         "totalTasks": 201
       },
       "contentHash": "sha256:11773552c7c7b37b3ffb917e3b8bcb46bd0f3f79037eb4e84db23376c9a33095"
+    },
+    {
+      "id": "product-management.product-trio-collaboration",
+      "name": "Product Trio Collaboration",
+      "description": "A product, design and engineering trio that decides together: decision rights, a working agreement, shared customer contact, weekly risk reviews, honest retrospectives and the manager habits that keep trios healthy.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-trio-collaboration",
+        "team",
+        "manager",
+        "product-trio",
+        "cross-functional",
+        "decision-making",
+        "design-engineering"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-trio-collaboration.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9205a88be09b502cb9fe18def58970bcde64ac97a08abc490224b11ad89894d2"
+    },
+    {
+      "id": "product-management.product-user-segment-definitions",
+      "name": "Product User Segment Definitions",
+      "description": "Segment definitions the whole product team trusts: clear assignment rules, sized and profiled groups, scheduled refreshes, segment-level metrics and the calls on which users to build for first.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "product-user-segment-definitions",
+        "team",
+        "manager",
+        "segmentation",
+        "behavioural-segments",
+        "personas",
+        "product-analytics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/product-user-segment-definitions.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:9778edde5eb84f44d9604e49d9dadf4f50e684012fb1303d3a8f347a07c028d6"
     },
     {
       "id": "product-management.product-vision-writing",
@@ -30093,6 +30625,202 @@
         "totalTasks": 197
       },
       "contentHash": "sha256:ba003ea577463a3416806d0c0874024099e0fb7f6d16a4e9f4d8bc1909ae8c4e"
+    },
+    {
+      "id": "product-management.regulated-product-requirements",
+      "name": "Regulated Product Requirements",
+      "description": "Regulated product work for teams and founders in finance, health and education: classification, obligations turned into testable requirements, release sign-off, audits, submissions and partner reviews.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "regulated-product-requirements",
+        "team",
+        "enterprise",
+        "founder",
+        "compliance",
+        "fintech",
+        "healthtech"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/regulated-product-requirements.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:4f34f5a78556f6b3392221ff29966268b8c241e3a1c837349ca301c83105e894"
+    },
+    {
+      "id": "product-management.release-notes-changelog",
+      "name": "Release Notes & Changelog",
+      "description": "A public changelog people actually read, a style guide and entry template, a weekly publishing routine with accuracy checks, and the notices, digests and developer feeds that tell customers what changed and what to do.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "release-notes-changelog",
+        "team",
+        "founder",
+        "small-business",
+        "changelog",
+        "release-notes",
+        "product-communication"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/release-notes-changelog.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:99d2bb084b7ed8ce7f1b4e07fd617c61861c3bf2a5b83cde7303ee5aa454397f"
+    },
+    {
+      "id": "product-management.search-discovery-features",
+      "name": "Search & Discovery Features",
+      "description": "Search people can trust and browsing that makes sense: query log baselines, quality metrics and judgement lists, weekly zero-result reviews, relevance tuning, facets, autocomplete and the engine decisions behind them.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "search-discovery-features",
+        "team",
+        "engineer",
+        "search",
+        "relevance",
+        "information-architecture",
+        "search-analytics"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/search-discovery-features.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:d7f4f48c18e480f4e1f1f147d884a0153437579d0e24d3b9019608bd8adfae82"
+    },
+    {
+      "id": "product-management.staged-feature-rollouts",
+      "name": "Staged Feature Rollouts",
+      "description": "A flag inventory you can trust, a stage ladder with guardrail metrics and tested kill switches, weekly rollout reviews, drills and flag clean-up, for product teams and engineers releasing features gradually.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "staged-feature-rollouts",
+        "team",
+        "engineer",
+        "feature-flags",
+        "progressive-delivery",
+        "kill-switch",
+        "canary"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/staged-feature-rollouts.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 204
+      },
+      "contentHash": "sha256:30db665db7929581e755244df6a5618854372acaa3ac88d1140fc8026700e51e"
+    },
+    {
+      "id": "product-management.third-party-integration-priorities",
+      "name": "Third-Party Integration Priorities",
+      "description": "Which integrations to build next and why: an inventory and demand evidence, a scoring model, routines that keep the portfolio and partners healthy, and the founder, enterprise and platform calls behind them.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "third-party-integration-priorities",
+        "team",
+        "founder",
+        "enterprise",
+        "integrations",
+        "partnerships",
+        "app-marketplace"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/third-party-integration-priorities.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 203
+      },
+      "contentHash": "sha256:863b41ab7d594df18e91269d90a34d644744510b16ed5c04b4c4e72939774a8a"
+    },
+    {
+      "id": "product-management.two-sided-marketplace-products",
+      "name": "Two-Sided Marketplace Products",
+      "description": "Marketplaces that work for both sides: the constrained side and first market, liquidity and unit economics, trust and payments, routines that keep supply healthy, and specialist work on experiments and network effects.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "two-sided-marketplace-products",
+        "founder",
+        "team",
+        "network-effects",
+        "liquidity",
+        "trust-and-safety",
+        "take-rate"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/two-sided-marketplace-products.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:bbd188ac5183b1832fb8a958a3af8ad133f4afd7a2ae610de6a46f3a3d349c6f"
+    },
+    {
+      "id": "product-management.usage-based-billing-design",
+      "name": "Usage-Based Billing Design",
+      "description": "A value metric chosen on evidence, meters everyone trusts, allowances, caps and overages that feel fair, and the bill runs, disputes and forecasts that keep usage bills predictable.",
+      "category": "business",
+      "tags": [
+        "product-management",
+        "usage-based-billing-design",
+        "founder",
+        "team",
+        "usage-based-pricing",
+        "metering",
+        "overages",
+        "billing"
+      ],
+      "version": "1.0.0",
+      "path": "blueprints/product-management/usage-based-billing-design.md",
+      "author": "Aurum Technology",
+      "starterSummary": {
+        "pillars": [
+          "Product Management"
+        ],
+        "totalAreas": 1,
+        "totalProjects": 50,
+        "totalTasks": 200
+      },
+      "contentHash": "sha256:cd4dacf4e09dd6594973c78a990dc791a21b5694e78ab2ff98b0fae771380f2f"
     },
     {
       "id": "professions-trades.accountancy-qualification-path",
