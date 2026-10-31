@@ -1,3 +1,13 @@
 node_modules/
 .DS_Store
 drafts/
+
+# Secrets and signing material. This repository is public: an env file or a
+# key committed here is published. Only the example env file may be tracked.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p8
+*.p12
