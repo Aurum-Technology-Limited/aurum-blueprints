@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.cape-law
 name: CAPE Law
-description: "A full CAPE Law plan for Units 1 and 2: the current syllabus and papers, IRAC answers, every module from legal systems to property, a case bank, the internal assessment, timed past papers and exam day."
+description: "A full CAPE Law plan for parents supporting a sixth former through Units 1 and 2: the syllabus and papers, IRAC answers, every module from legal systems to property, the internal assessment, past papers and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, cape-law, student, parent, educator, cxc, cape, law, internal-assessment]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,38 +25,40 @@ starter_structure:
             - name: Current CAPE Law syllabus and paper format check
               description: |-
                 ## Purpose
-                CAPE Law is taken as two units, each examined on its own, and in recent editions Unit 1 covers the Caribbean legal system, public law and criminal law while Unit 2 covers tort, contract and real property, three modules in each. Both units are examined through a multiple-choice Paper 01, a written Paper 02, and either the internal assessment as Paper 031 or the alternative Paper 032 for private candidates. One evening with the current syllabus and the CXC timetable means every project here is aimed at the exam you will actually sit.
+                CAPE Law is taken as two units, each examined on its own, and in recent editions Unit 1 covers the Caribbean legal system, public law and criminal law while Unit 2 covers tort, contract and real property, three modules in each. Both units are examined through a multiple-choice Paper 01, a written Paper 02, and either the internal assessment as Paper 031 or the alternative Paper 032 for private candidates. One evening with your teen, the current syllabus and the CXC timetable means every project here is aimed at the exam they will actually sit.
 
                 ## Milestones
                 1. The current CAPE Law syllabus downloaded from the CXC website and its edition year noted.
                 2. The format of Paper 01, Paper 02 and Paper 031 or 032 written on one page in the syllabus's own words.
-                3. The module titles and specific objectives of your unit listed in syllabus order, so each topic project here can be matched to one.
-                4. The May to June sitting confirmed with your school and its internal assessment deadlines noted.
+                3. The module titles and specific objectives of your teen's unit listed in syllabus order, so each topic project here can be matched to one.
+                4. The May to June sitting confirmed with the school and its internal assessment deadlines noted.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CAPE Law, and an older student can follow it with a parent's support.
+
                 Handed-down notes and older revision guides can trail a syllabus revision by years. Where they disagree with the CXC document, the CXC document wins.
               priority: high
               deadlineOffsetDays: 10
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A one-page summary taken from the current CXC syllabus lists the papers, the modules of your unit with their objectives, and the sitting."
+                success_criteria: "A one-page summary taken from the current CXC syllabus lists the papers, the modules of your teen's unit with their objectives, and the sitting."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Check the current syllabus and timetable on the CXC website and note the paper format"
-                - "Note which unit you are sitting this year and its three module titles"
-                - "Ask your teacher for the school's internal assessment deadlines"
+                - "Together, check the current syllabus and timetable on the CXC website and note the paper format"
+                - "Note which unit your teen is sitting this year and its three module titles"
+                - "Ask the teacher for the school's internal assessment deadlines"
                 - "Recheck the syllabus edition at the start of each school year @recurring(yearly)"
             - name: Diagnostic CAPE Law paper and first problem answer
               description: |-
                 ## Purpose
-                Students who did well in CSEC essay subjects often expect Law to be about memorising rules, then lose marks on problem questions that ask them to apply a rule to invented facts and reach a conclusion. Sitting one past Paper 01 and one Paper 02 problem question early, without notes, shows which areas you already hold and how far your answers are from the structured reasoning examiners reward.
+                Students who did well in CSEC essay subjects often expect Law to be about memorising rules, then lose marks on problem questions that ask them to apply a rule to invented facts and reach a conclusion. Sitting one past Paper 01 and one Paper 02 problem question early, without notes, shows which areas your teen already holds and how far their answers are from the structured reasoning examiners reward.
 
                 ## Milestones
                 1. One past or specimen Paper 01 completed in a single timed sitting without notes.
                 2. Every answer marked against the key and wrong answers tallied by module.
-                3. One Paper 02 problem question answered against the clock and marked by your teacher or against the mark scheme.
+                3. One Paper 02 problem question answered against the clock and marked by the teacher or against the mark scheme.
                 4. The three weakest objectives and one technique weakness written at the top of the study plan.
               priority: high
               deadlineOffsetDays: 21
@@ -67,7 +69,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Get a past or specimen Paper 01 and Paper 02 for your unit from your teacher"
+                - "Get a past or specimen Paper 01 and Paper 02 for the unit from the teacher"
                 - "Sit Paper 01 in one go with no notes and mark it against the key"
                 - "Answer one Paper 02 problem question against the clock"
                 - "Tally wrong answers by module and circle the three weakest objectives"
@@ -81,7 +83,7 @@ starter_structure:
                 2. Two fixed weekly study evenings written into the plan.
                 3. The internal assessment stages placed on the plan against the school's deadlines.
                 4. The mock and the final eight weeks reserved for revision.
-                5. The plan pinned where you and your family can see it.
+                5. The plan pinned where the whole household can see it.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -94,20 +96,20 @@ starter_structure:
                 - "Count the weeks from today to the unit's exam sitting"
                 - "Give each of the three modules a block of weeks in syllabus order"
                 - "Mark the school's internal assessment deadlines on the same plan"
-                - "Pin the plan on the wall above your desk"
+                - "Pin the plan on the wall above their desk"
             - name: IRAC method for problem and essay questions
               description: |-
                 ## Purpose
-                Paper 02 in CAPE Law asks two kinds of question: essays that ask you to discuss or evaluate an area of law, and problems that give you facts about invented parties and ask what the law says. Problem answers that identify each issue, state the rule with an authority, apply it to the facts and reach a conclusion (the IRAC pattern) score far better than answers that retell the law in general. Practising both shapes now pays off in every module that follows.
+                Paper 02 in CAPE Law asks two kinds of question: essays that ask candidates to discuss or evaluate an area of law, and problems that give facts about invented parties and ask what the law says. Problem answers that identify each issue, state the rule with an authority, apply it to the facts and reach a conclusion (the IRAC pattern) score far better than answers that retell the law in general. Practising both shapes now pays off in every module that follows.
 
                 ## Milestones
                 1. The IRAC structure written as a one-page checklist with an example paragraph.
                 2. Three past problem questions answered in IRAC and marked.
                 3. Two essay questions answered with a clear line of argument, an authority in every paragraph and a conclusion.
-                4. A teacher's comment on one problem answer recorded, with the fix you will make next time.
+                4. A teacher's comment on one problem answer recorded, with the fix to make next time.
 
                 ## Notes
-                Always say what a court would most likely decide and why. A problem answer with no conclusion leaves marks behind, and every rule you state should carry a case or a section.
+                A problem answer should always say what a court would most likely decide and why. One with no conclusion leaves marks behind, and every rule stated should carry a case or a section.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
@@ -120,16 +122,16 @@ starter_structure:
                 - "Write the IRAC checklist on one index card"
                 - "Answer three past problem questions using IRAC"
                 - "Answer two essay questions with an authority in every paragraph"
-                - "Ask your teacher to mark one problem answer for structure"
+                - "Your teen asks the teacher to mark one problem answer for structure"
             - name: Case notes and legal citation basics
               description: |-
                 ## Purpose
-                Every Law answer leans on cases, and examiners give credit for naming the right authority and stating what it decided, not for retelling its full story. Learning to read a citation, pick out the material facts, the ratio decidendi and any obiter remarks, and fit it all on one card turns hours of textbook reading into notes you can revise from.
+                Every Law answer leans on cases, and examiners give credit for naming the right authority and stating what it decided, not for retelling its full story. Learning to read a citation, pick out the material facts, the ratio decidendi and any obiter remarks, and fit it all on one card turns hours of textbook reading into notes your teen can revise from.
 
                 ## Milestones
                 1. A standard case note layout agreed: name, court, year, facts, issue, decision, ratio and significance.
-                2. The parts of a law report citation explained in your own words.
-                3. Ten cases from your current module written up in that layout.
+                2. The parts of a law report citation explained in your teen's own words.
+                3. Ten cases from the current module written up in that layout.
                 4. Each note marked with the court that decided it and whether it binds in your country.
               priority: medium
               frontmatter:
@@ -139,17 +141,17 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Copy a standard case note layout onto the first page of your notes"
-                - "Ask your teacher to explain one full law report citation"
-                - "Write case notes for ten cases from your current module"
+                - "Copy a standard case note layout onto the first page of the notes"
+                - "Your teen asks the teacher to explain one full law report citation"
+                - "Write case notes for ten cases from the current module"
                 - "Mark each note with the court that decided it"
             - name: Legal terms and Latin maxims glossary
               description: |-
                 ## Purpose
-                Law has its own vocabulary, and terms like ratio decidendi, mens rea, novus actus interveniens, volenti non fit injuria and consensus ad idem appear in questions and mark schemes without explanation. Building a glossary as you go, with a plain definition and one case or example for each term, means a phrase in the question never stops you mid-paper.
+                Law has its own vocabulary, and terms like ratio decidendi, mens rea, novus actus interveniens, volenti non fit injuria and consensus ad idem appear in questions and mark schemes without explanation. Building a glossary along the way, with a plain definition and one case or example for each term, means a phrase in the question never stops your teen mid-paper. Offering to test them on it now and then is an easy way to help.
 
                 ## Milestones
-                1. A glossary set up with a section for each module of your unit.
+                1. A glossary set up with a section for each module of the unit.
                 2. At least sixty terms recorded, each with a plain definition and a case or example.
                 3. Every Latin term given its English meaning and a note on how to say it.
                 4. The glossary self-tested before the mock, with misses marked for review.
@@ -163,17 +165,17 @@ starter_structure:
               tasks:
                 - "Start a glossary with a section for each of the three modules"
                 - "Add five legal terms with a definition and a case each @recurring(weekly:thu)"
-                - "Test yourself on twenty random terms before each mock"
+                - "Self-test on twenty random terms before each mock, or offer to quiz them"
             - name: Law library, statutes and judgment sources
               description: |-
                 ## Purpose
-                Textbooks summarise, but the strongest answers quote the actual words of a section or a judge, and Caribbean courts publish many of their judgments online. Knowing where to find your country's laws, CCJ judgments, Privy Council decisions on Caribbean appeals and any case law database a school or university library can open for you saves hours when the internal assessment and revision begin.
+                Textbooks summarise, but the strongest answers quote the actual words of a section or a judge, and Caribbean courts publish many of their judgments online. Knowing where to find your country's laws, CCJ judgments, Privy Council decisions on Caribbean appeals and any case law database a school or university library can open saves hours when the internal assessment and revision begin.
 
                 ## Milestones
                 1. The official online source for your country's laws found and bookmarked.
                 2. The CCJ and Privy Council judgment pages bookmarked.
-                3. Access to a law library or case law database arranged through your school, a public library or a university.
-                4. A reading queue of five judgments started, one per topic you find hardest.
+                3. Access to a law library or case law database arranged through the school, a public library or a university.
+                4. A reading queue of five judgments started, one per topic your teen finds hardest.
 
                 ## Notes
                 Start from the **Reading queue** template. Prefer official sources over blogs and study sites, which often get the ratio of a case wrong.
@@ -187,18 +189,18 @@ starter_structure:
               tasks:
                 - "Find the official website that publishes your country's laws"
                 - "Bookmark the CCJ and Privy Council judgment pages"
-                - "Ask your school librarian about access to a case law database"
+                - "Ask the school librarian about access to a case law database"
                 - "Read one full judgment and write a case note @recurring(monthly:21)"
             - name: Case bank of leading authorities by module
               description: |-
                 ## Purpose
-                Each module rests on a few dozen cases that turn up again and again in mark schemes, and a student who can name and apply them quickly has an advantage in every question. Keeping one case bank, sorted by module and topic, with the principle each case stands for in a single line, gives you a revision tool that grows as the course does.
+                Each module rests on a few dozen cases that turn up again and again in mark schemes, and a student who can name and apply them quickly has an advantage in every question. Keeping one case bank, sorted by module and topic, with the principle each case stands for in a single line, gives your teen a revision tool that grows as the course does.
 
                 ## Milestones
                 1. A case bank set up with sections by module and topic.
                 2. Every case recorded with a one-line principle and whether it binds or only persuades in your country.
                 3. At least twenty-five cases entered for each module by the mock.
-                4. The twenty cases you forget most flagged for the daily recall cards.
+                4. The twenty cases most often forgotten flagged for the daily recall cards.
               priority: medium
               frontmatter:
                 mode: building
@@ -209,14 +211,14 @@ starter_structure:
                 - "Set up a case bank with a section for each module and topic"
                 - "Add the week's new cases with a one-line principle @recurring(weekly:tue)"
                 - "Flag whether each case binds or only persuades in your country"
-                - "Pick the twenty cases you forget most for the recall cards"
+                - "Pick the twenty cases they forget most for the recall cards"
             - name: Weekly CAPE Law study sessions
               description: |-
                 ## Purpose
-                Class time covers the rules, but the work that lifts a grade happens at home: turning notes into case cards, reading set cases and answering a question with the textbook closed. Two fixed sessions a week, about ninety minutes each, keep the modules moving between lessons so nothing piles up before the mock.
+                Class time covers the rules, but the work that lifts a grade happens at home: turning notes into case cards, reading set cases and answering a question with the textbook closed. Two fixed sessions a week, about ninety minutes each and agreed with the household, keep the modules moving between lessons so nothing piles up before the mock.
 
                 ## Milestones
-                1. Two weekly session slots agreed with your household.
+                1. Two weekly session slots agreed with the household.
                 2. Each session following the same pattern: review class notes, write case cards, answer one short question.
                 3. A record kept for a full term showing at least four sessions in five held.
                 4. The sessions folded into the final revision timetable for the last eight weeks.
@@ -230,10 +232,10 @@ starter_structure:
                 success_criteria: "A term's record shows at least four in five scheduled Law study sessions held."
                 cadence: rolling
               tasks:
-                - "Choose two fixed weekly evenings and tell your household"
+                - "Agree two fixed weekly evenings for Law and let the household know"
                 - "Hold a CAPE Law study session @recurring(weekly:mon,wed)"
-                - "End each session by writing one question for your teacher"
-                - "Count how many sessions you held at the end of each month"
+                - "End each session by writing one question for the teacher"
+                - "Ask your teen how many sessions they held at the end of each month"
             - name: Daily ten-minute case recall
               description: |-
                 ## Purpose
@@ -258,7 +260,7 @@ starter_structure:
             - name: Monthly timed Paper 01 practice
               description: |-
                 ## Purpose
-                Multiple-choice questions in Law test fine distinctions, such as a ratio against an obiter remark or an offer against an invitation to treat, and the only way to get quick at them is regular timed practice. One timed paper or question set a month, scored and logged, shows whether your accuracy is climbing and which module keeps dragging it down.
+                Multiple-choice questions in Law test fine distinctions, such as a ratio against an obiter remark or an offer against an invitation to treat, and the only way to get quick at them is regular timed practice. One timed paper or question set a month, scored and logged, shows whether accuracy is climbing and which module keeps dragging it down.
 
                 ## Milestones
                 1. A score log with a column for each module set up.
@@ -282,7 +284,7 @@ starter_structure:
             - name: Monthly timed Paper 02 problem question
               description: |-
                 ## Purpose
-                Writing a full problem answer under exam conditions is a different skill from knowing the law, and the gap usually shows as time running out before the last issue is reached. Answering one past Paper 02 question a month against the clock, then marking it against the mark scheme or handing it to your teacher, builds the pace and structure the paper demands.
+                Writing a full problem answer under exam conditions is a different skill from knowing the law, and the gap usually shows as time running out before the last issue is reached. Answering one past Paper 02 question a month against the clock, then marking it against the mark scheme or handing it to the teacher, builds the pace and structure the paper demands.
 
                 ## Milestones
                 1. One timed Paper 02 answer written each month, alternating modules.
@@ -298,12 +300,12 @@ starter_structure:
               tasks:
                 - "Answer one past Paper 02 question against the clock @recurring(monthly:19)"
                 - "Alternate the module each month so all three get practice"
-                - "Mark the answer against the mark scheme or hand it to your teacher"
-                - "Note how many minutes you spent on each issue"
+                - "Mark the answer against the mark scheme or hand it to the teacher"
+                - "Note how many minutes went on each issue"
             - name: Law answer mistakes and feedback log
               description: |-
                 ## Purpose
-                Teachers' comments in the margin are the most useful feedback you get, and most of them are never read twice. A single log of every mistake, from a misnamed case to a missed issue or a conclusion left out, shows the patterns that repeat and gives you one fix to work on each week.
+                Teachers' comments in the margin are the most useful feedback a student gets, and most of them are never read twice. A single log of every mistake, from a misnamed case to a missed issue or a conclusion left out, shows the patterns that repeat and gives your teen one fix to work on each week.
 
                 ## Milestones
                 1. A log set up with columns for date, question, mistake, type and fix.
@@ -324,7 +326,7 @@ starter_structure:
             - name: Caribbean legal news and judgment watch
               description: |-
                 ## Purpose
-                Examiners reward answers that show the law is alive, and the region produces fresh material every month: CCJ rulings, Privy Council appeals, constitutional challenges and new Acts passed by Caribbean parliaments. Logging two items a week against a syllabus objective gives you current examples for essay questions and ideas for the internal assessment.
+                Examiners reward answers that show the law is alive, and the region produces fresh material every month: CCJ rulings, Privy Council appeals, constitutional challenges and new Acts passed by Caribbean parliaments. Logging two items a week against a syllabus objective gives your teen current examples for essay questions and ideas for the internal assessment, and the stories are worth talking about at home.
 
                 ## Milestones
                 1. Two news sources and one court website chosen to follow.
@@ -340,14 +342,14 @@ starter_structure:
               tasks:
                 - "Choose two news sources and one court website to follow"
                 - "Log two legal news items and tag each to an objective @recurring(weekly:sun)"
-                - "Use one logged item in your next essay answer"
-            - name: Termly progress talk with your Law teacher
+                - "Use one logged item in the next essay answer"
+            - name: Termly progress talk with the Law teacher
               description: |-
                 ## Purpose
-                Ten minutes with your teacher each term catches problems that marks alone hide: an internal assessment stalling, a module you think you know but answer badly, or a predicted grade lower than you assumed. Bringing your logs to the meeting and leaving with two agreed actions makes the conversation count.
+                Ten minutes with the teacher each term catches problems that marks alone hide: an internal assessment stalling, a module your teen thinks they know but answers badly, or a predicted grade lower than assumed. Bringing the logs to the meeting and leaving with two agreed actions makes the conversation count. Let your teen lead it, and ask afterwards what was agreed.
 
                 ## Milestones
-                1. A short meeting held with your teacher each term.
+                1. A short meeting held with the teacher each term.
                 2. Notes kept from each meeting, including the teacher's grade estimate.
                 3. Internal assessment progress confirmed at every meeting.
                 4. Two actions agreed each time and checked at the next meeting.
@@ -361,14 +363,14 @@ starter_structure:
                 success_criteria: "Notes from a meeting each term record a grade estimate, internal assessment progress and two agreed actions."
                 cadence: cyclic
               tasks:
-                - "Ask your teacher for a short progress meeting this term @recurring(quarterly)"
-                - "Bring your score log and mistakes log to the meeting"
-                - "Write down the two actions you agree"
+                - "Your teen asks the teacher for a short progress meeting this term @recurring(quarterly)"
+                - "Bring the score log and mistakes log to the meeting"
+                - "Write down the two actions agreed"
                 - "Check those actions at the start of the next meeting"
             - name: Nature, functions and classifications of law
               description: |-
                 ## Purpose
-                Unit 1 opens with what law is and what it is for, and essay questions here ask you to discuss the relationship between law and morality, or how public and private law differ, with theory to back you up. Getting the classic debates clear early, from natural law and positivism to the Hart and Devlin exchange on enforcing morals, gives you a frame you will reuse across the rest of the unit.
+                Unit 1 opens with what law is and what it is for, and essay questions here ask candidates to discuss the relationship between law and morality, or how public and private law differ, with theory to back them up. Getting the classic debates clear early, from natural law and positivism to the Hart and Devlin exchange on enforcing morals, gives your teen a frame they will reuse across the rest of the unit.
 
                 ## Milestones
                 1. Notes covering definitions, functions and classifications of law: public and private, civil and criminal, substantive and procedural.
@@ -391,10 +393,10 @@ starter_structure:
             - name: Legislation and statutory interpretation
               description: |-
                 ## Purpose
-                Parliament makes most new law, and the courts decide what its words mean when a case turns on them. You need to explain how a bill becomes law in a Caribbean parliament, the role and control of delegated legislation, and the literal, golden and mischief rules alongside the purposive approach, each with a case.
+                Parliament makes most new law, and the courts decide what its words mean when a case turns on them. Candidates need to explain how a bill becomes law in a Caribbean parliament, the role and control of delegated legislation, and the literal, golden and mischief rules alongside the purposive approach, each with a case.
 
                 ## Milestones
-                1. The legislative process in your own country drawn as a flow chart.
+                1. The legislative process in your country drawn as a flow chart.
                 2. Delegated legislation and the ways it is controlled noted with an example from your country.
                 3. Each approach to interpretation recorded with a case and a short example.
                 4. Intrinsic and extrinsic aids to interpretation listed.
@@ -414,7 +416,7 @@ starter_structure:
             - name: Judicial precedent and the Caribbean court hierarchy
               description: |-
                 ## Purpose
-                Stare decisis decides which earlier decisions bind a court, and in the Caribbean that depends on where your final appeal lies and whether English decisions bind or only persuade. Mapping your country's courts from the magistrates' court upward, and learning the tools judges use to avoid a precedent, prepares you for one of the module's most familiar question types.
+                Stare decisis decides which earlier decisions bind a court, and in the Caribbean that depends on where your country's final appeal lies and whether English decisions bind or only persuade. Mapping the courts from the magistrates' court upward, and learning the tools judges use to avoid a precedent, prepares your teen for one of the module's most familiar question types.
 
                 ## Milestones
                 1. Your country's court hierarchy drawn, ending with its final appellate court.
@@ -460,7 +462,7 @@ starter_structure:
             - name: The Caribbean Court of Justice and the Privy Council
               description: |-
                 ## Purpose
-                Whether your country's final court is the CCJ or the Judicial Committee of the Privy Council in London is one of the most debated questions in Caribbean law, and essays often ask you to weigh the arguments. Knowing the CCJ's original and appellate jurisdictions, which countries have moved their final appeals to it, and the points on each side of the debate lets you argue it with evidence rather than opinion.
+                Whether your country's final court is the CCJ or the Judicial Committee of the Privy Council in London is one of the most debated questions in Caribbean law, and essays often ask candidates to weigh the arguments. Knowing the CCJ's original and appellate jurisdictions, which countries have moved their final appeals to it, and the points on each side of the debate lets your teen argue it with evidence rather than opinion.
 
                 ## Milestones
                 1. The CCJ's original and appellate jurisdictions explained in a paragraph each.
@@ -505,10 +507,10 @@ starter_structure:
             - name: Constitutions, separation of powers and the rule of law
               description: |-
                 ## Purpose
-                Caribbean independence constitutions are written and supreme, which makes public law here different from the unwritten constitution most English textbooks describe. Learning the features of your own constitution, Dicey's idea of the rule of law and the separation of powers through cases such as Hinds v The Queen gives you the base for every public law question.
+                Caribbean independence constitutions are written and supreme, which makes public law here different from the unwritten constitution most English textbooks describe. Learning the features of your country's constitution, Dicey's idea of the rule of law and the separation of powers through cases such as Hinds v The Queen gives a firm base for every public law question.
 
                 ## Milestones
-                1. The supremacy clause and entrenched provisions of your constitution found and noted.
+                1. The supremacy clause and entrenched provisions of your country's constitution found and noted.
                 2. The three branches of government in your country described with how each checks the others.
                 3. Case notes written on Hinds v The Queen and one rule of law case.
                 4. The Westminster model's features and its main criticisms summarised.
@@ -517,7 +519,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Notes on your constitution, the separation of powers and the rule of law, plus one marked past answer, are complete."
+                success_criteria: "Notes on your country's constitution, the separation of powers and the rule of law, plus one marked past answer, are complete."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
@@ -532,7 +534,7 @@ starter_structure:
 
                 ## Milestones
                 1. The rights protected in your country's constitution listed with their section numbers.
-                2. A savings law clause explained in your own words with one case.
+                2. A savings law clause explained in your teen's own words with one case.
                 3. Case notes written on Pratt and Morgan and on Joseph and Boyce.
                 4. The procedure for bringing a constitutional claim in your country noted.
                 5. One past fundamental rights question answered and marked.
@@ -540,12 +542,12 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Notes on your bill of rights, savings law clauses and two leading cases, plus one marked past answer, are complete."
+                success_criteria: "Notes on your country's bill of rights, savings law clauses and two leading cases, plus one marked past answer, are complete."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
                 - "List the rights protected in your country's constitution"
-                - "Explain a savings law clause in your own words with one case"
+                - "Explain a savings law clause in their own words with one case"
                 - "Write case notes on Pratt and Morgan and on Joseph and Boyce"
                 - "Answer a past fundamental rights question and mark it"
             - name: Judicial review of government decisions
@@ -596,7 +598,7 @@ starter_structure:
             - name: Murder, manslaughter and partial defences
               description: |-
                 ## Purpose
-                Homicide questions combine everything from the first criminal law topic with the rules that separate murder from manslaughter. You need the elements of murder, the partial defences your country recognises, such as provocation or diminished responsibility, and involuntary manslaughter by an unlawful act or gross negligence, with your own country's statute checked against the English cases in your textbook.
+                Homicide questions combine everything from the first criminal law topic with the rules that separate murder from manslaughter. Candidates need the elements of murder, the partial defences your country recognises, such as provocation or diminished responsibility, and involuntary manslaughter by an unlawful act or gross negligence, with the local statute checked against the English cases in the textbook.
 
                 ## Milestones
                 1. The elements of murder written out with a leading case.
@@ -618,7 +620,7 @@ starter_structure:
             - name: Assault, battery and wounding offences
               description: |-
                 ## Purpose
-                Non-fatal offences form a ladder from common assault and battery to assault occasioning actual bodily harm and on to wounding or causing grievous bodily harm with intent. Many Caribbean countries keep these in an Offences Against the Person Act modelled on the old English statute, so the section numbers in your notes should be your own country's, not England's.
+                Non-fatal offences form a ladder from common assault and battery to assault occasioning actual bodily harm and on to wounding or causing grievous bodily harm with intent. Many Caribbean countries keep these in an Offences Against the Person Act modelled on the old English statute, so the section numbers in your teen's notes should be your country's, not England's.
 
                 ## Milestones
                 1. Your country's offences against the person statute found and its key sections noted.
@@ -640,7 +642,7 @@ starter_structure:
             - name: Theft, robbery, burglary and other property offences
               description: |-
                 ## Purpose
-                Property offences test precise definitions: appropriation, property belonging to another, dishonesty and the intention to permanently deprive. Some Caribbean countries have modern theft statutes while others still use older larceny laws, so finding which applies in yours is the first step before learning the cases on dishonesty and appropriation.
+                Property offences test precise definitions: appropriation, property belonging to another, dishonesty and the intention to permanently deprive. Some Caribbean countries have modern theft statutes while others still use older larceny laws, so finding which applies in your country is the first step before learning the cases on dishonesty and appropriation.
 
                 ## Milestones
                 1. Whether your country uses a theft statute or older larceny law confirmed.
@@ -752,7 +754,7 @@ starter_structure:
             - name: Offer, acceptance, consideration and intention
               description: |-
                 ## Purpose
-                Contract problems start with one question: was there a contract at all? The formation rules on offer and invitation to treat, acceptance and the postal rule, consideration, intention to create legal relations and capacity come with a set of well-known cases, from Carlill v Carbolic Smoke Ball Co to Balfour v Balfour, that you will cite again and again.
+                Contract problems start with one question: was there a contract at all? The formation rules on offer and invitation to treat, acceptance and the postal rule, consideration, intention to create legal relations and capacity come with a set of well-known cases, from Carlill v Carbolic Smoke Ball Co to Balfour v Balfour, that your teen will cite again and again.
 
                 ## Milestones
                 1. Offer, invitation to treat and acceptance noted with a case for each rule.
@@ -824,7 +826,7 @@ starter_structure:
                 Real property law explains who owns land and on what terms: freehold and leasehold estates, legal and equitable interests, and joint tenancy against tenancy in common when more than one person owns it. In the Caribbean these rules meet family land, held by generations of heirs without a will or clear title, which gives strong material for essays and the internal assessment.
 
                 ## Milestones
-                1. Freehold, leasehold, legal and equitable interests defined in your notes.
+                1. Freehold, leasehold, legal and equitable interests defined in the notes.
                 2. Joint tenancy and tenancy in common compared, with the rules on severance.
                 3. Family land in your country described with one real or reported example.
                 4. One past co-ownership question answered and marked.
@@ -836,7 +838,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "7"
               tasks:
-                - "Define freehold, leasehold, legal and equitable interests in your notes"
+                - "Define freehold, leasehold, legal and equitable interests in the notes"
                 - "Compare joint tenancy and tenancy in common with the severance rules"
                 - "Read about family land in your country and note one example"
                 - "Answer a past co-ownership question and mark it"
@@ -867,55 +869,55 @@ starter_structure:
             - name: Examiner reports and mark schemes for CAPE Law
               description: |-
                 ## Purpose
-                CXC publishes subject reports after each sitting that say where candidates lost marks, and in Law the comments tend to repeat: rules stated without authority, problems answered without a conclusion, and essays that describe instead of evaluating. Reading three recent reports alongside the mark schemes shows you what earns credit before you sit the mock.
+                CXC publishes subject reports after each sitting that say where candidates lost marks, and in Law the comments tend to repeat: rules stated without authority, problems answered without a conclusion, and essays that describe instead of evaluating. Reading three recent reports alongside the mark schemes shows your teen what earns credit before the mock.
 
                 ## Milestones
                 1. The three most recent CAPE Law subject reports downloaded and read.
                 2. The five weaknesses examiners mention most often listed.
-                3. One mark scheme compared line by line with your own answer to the same question.
-                4. Each weakness added to your mistakes log as something to watch.
+                3. One mark scheme compared line by line with your teen's own answer to the same question.
+                4. Each weakness added to the mistakes log as something to watch.
               priority: medium
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A list of the five most common examiner criticisms from three recent reports is in your mistakes log."
+                success_criteria: "A list of the five most common examiner criticisms from three recent reports is in the mistakes log."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
                 - "Download the three most recent CAPE Law subject reports"
                 - "List the five weaknesses examiners mention most often"
-                - "Compare one mark scheme with your own answer to that question"
-                - "Add each weakness to your mistakes log as something to watch"
+                - "Compare one mark scheme with their own answer to that question"
+                - "Add each weakness to the mistakes log as something to watch"
             - name: Choosing the CAPE Law internal assessment topic
               description: |-
                 ## Purpose
-                Your internal assessment is a piece of independent legal research, and its quality depends heavily on choosing a topic that is narrow, current and has Caribbean sources you can actually reach. A question such as whether a recent CCJ ruling changed the law in your country is far easier to research and argue well than a broad subject like crime or human rights.
+                The internal assessment is a piece of independent legal research, and its quality depends heavily on choosing a topic that is narrow, current and has Caribbean sources your teen can actually reach. A question such as whether a recent CCJ ruling changed the law in your country is far easier to research and argue well than a broad subject like crime or human rights. Offer to talk ideas through, and let them choose.
 
                 ## Milestones
                 1. The internal assessment section of the current syllabus read, with its format and length requirements noted.
-                2. Three possible research questions written, each linked to a module of your unit.
-                3. Each topic checked for at least one statute and two cases you can reach.
-                4. The final topic and question approved by your teacher in writing.
+                2. Three possible research questions written, each linked to a module of the unit.
+                3. Each topic checked for at least one statute and two cases that can be reached.
+                4. The final topic and question approved by the teacher in writing.
 
                 ## Notes
-                Choose something you can argue both ways. A topic where the answer is obvious gives you nothing to evaluate.
+                The best topics can be argued both ways. A topic where the answer is obvious leaves nothing to evaluate.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
                 mode: building
                 output_kind: decision
-                success_criteria: "A research question linked to a syllabus module, with sources confirmed, is approved by your teacher in writing."
+                success_criteria: "A research question linked to a syllabus module, with sources confirmed, is approved by the teacher in writing."
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
                 - "Read the internal assessment section of the current syllabus"
                 - "Write three possible research questions linked to a module"
-                - "Check each topic for at least one statute and two cases you can reach"
-                - "Get your teacher's approval of the final topic and question"
+                - "Check each topic for at least one statute and two cases that can be reached"
+                - "Your teen gets the teacher's approval of the final topic and question"
             - name: Researching and drafting the Law internal assessment
               description: |-
                 ## Purpose
-                Between topic approval and submission sit weeks of reading, note taking and drafting that slip quietly unless they are broken into stages. Gathering primary sources first, the statutes and judgments, then secondary commentary, and drafting the analysis before the introduction keeps the project on course for your school's draft deadline.
+                Between topic approval and submission sit weeks of reading, note taking and drafting that slip quietly unless they are broken into stages. Gathering primary sources first, the statutes and judgments, then secondary commentary, and drafting the analysis before the introduction keeps the project on course for the school's draft deadline.
 
                 ## Milestones
                 1. Every statute and judgment the question depends on collected.
@@ -927,14 +929,14 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: deliverable
-                success_criteria: "A complete first draft with a full source list is handed to your teacher by the school's draft deadline."
+                success_criteria: "A complete first draft with a full source list is handed to the teacher by the school's draft deadline."
                 cadence: phased
                 effort_hours_estimate: "25"
               tasks:
-                - "Collect the statutes and judgments your question depends on"
+                - "Collect the statutes and judgments the question depends on"
                 - "Keep a source list with full citations from the first day"
                 - "Write the analysis section before the introduction"
-                - "Update the IA progress note and tell your teacher of any delay @recurring(monthly:12)"
+                - "Ask for an IA progress update and check any delay has gone to the teacher @recurring(monthly:12)"
             - name: Final edit, referencing and submission of the Law IA
               description: |-
                 ## Purpose
@@ -954,23 +956,23 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Hand your full first draft to your teacher by the school's draft date"
+                - "Your teen hands the full first draft to the teacher by the school's draft date"
                 - "Check every case and statute is cited in the same format"
                 - "Read the final version aloud to catch gaps in the argument"
-                - "Submit the IA and keep a dated copy for yourself"
+                - "Submit the IA and keep a dated copy at home"
             - name: Court visit and trial observation
               description: |-
                 ## Purpose
-                Watching a real case in a magistrates' court or the High Court makes the procedure in the legal systems module concrete: who sits where, how a witness is examined, and what a judge says when ruling on an objection. Most courts are open to the public for many hearings, though family and juvenile matters are usually closed, and a teacher or parent can arrange a visit with a little notice.
+                Watching a real case in a magistrates' court or the High Court makes the procedure in the legal systems module concrete: who sits where, how a witness is examined, and what a judge says when ruling on an objection. Most courts are open to the public for many hearings, though family and juvenile matters are usually closed, and you or a teacher can arrange a visit with a little notice. Going along together is often the simplest way.
 
                 ## Milestones
                 1. A date chosen with the court office for a public hearing worth watching.
                 2. The visit arranged with a teacher or parent.
                 3. The roles of everyone in the courtroom noted during the hearing.
-                4. A one-page reflection written linking what you saw to the syllabus.
+                4. A one-page reflection written linking what was seen to the syllabus.
 
                 ## Notes
-                Dress as you would for a formal school event, switch your phone off, and stand when the judge or magistrate enters and leaves.
+                Dress as for a formal school event, switch phones off, and stand when the judge or magistrate enters and leaves.
               priority: low
               deadlineOffsetDays: 90
               frontmatter:
@@ -981,13 +983,13 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "Ask the court office which days have public hearings worth watching"
-                - "Arrange the visit with your teacher or a parent"
+                - "Arrange the visit with the teacher or go along with your teen"
                 - "Note the roles of everyone in the courtroom during the hearing"
-                - "Write a one-page reflection linking what you saw to the syllabus"
+                - "Your teen writes a one-page reflection linking what they saw to the syllabus"
             - name: Class moot on a CAPE Law problem
               description: |-
                 ## Purpose
-                Arguing a problem question aloud, as counsel for one side before a teacher acting as judge, forces you to find the strongest authority for your client and answer the other side's best point. A teacher can run a moot in two lessons using a past Paper 02 problem, and the written skeleton arguments double as revision notes.
+                Arguing a problem question aloud, as counsel for one side before a teacher acting as judge, forces a student to find the strongest authority for the client and answer the other side's best point. A teacher can run a moot in two lessons using a past Paper 02 problem, and the written skeleton arguments double as revision notes, so it is worth asking whether your teen's class could hold one.
 
                 ## Milestones
                 1. A past Paper 02 problem with two arguable sides chosen.
@@ -1009,12 +1011,12 @@ starter_structure:
             - name: Full CAPE Law mock exam
               description: |-
                 ## Purpose
-                A full mock under exam conditions tests stamina and timing across every module in a way monthly practice cannot. Sitting all the written papers for your unit on the school's mock dates or at home, and marking them against the mark scheme, gives the last honest picture of where to spend the final weeks.
+                A full mock under exam conditions tests stamina and timing across every module in a way monthly practice cannot. Sitting all the written papers for the unit on the school's mock dates or at home, and marking them against the mark scheme, gives the last honest picture of where to spend the final weeks. If it is sat at home, a quiet morning with no interruptions is the best help you can give.
 
                 ## Milestones
                 1. The mock dates confirmed with the school, or a weekend set aside to sit it at home.
                 2. Paper 01 and Paper 02 sat under timed conditions.
-                3. Both papers marked by your teacher or against the mark scheme.
+                3. Both papers marked by the teacher or against the mark scheme.
                 4. The three modules ranked from weakest to strongest for the final weeks.
               priority: high
               deadlineOffsetDays: 240
@@ -1027,12 +1029,12 @@ starter_structure:
               tasks:
                 - "Confirm the school's mock dates or set a weekend to sit it at home"
                 - "Sit Paper 01 and Paper 02 under timed conditions"
-                - "Mark both papers or collect your teacher's marks"
+                - "Mark both papers or collect the teacher's marks"
                 - "Rank the modules from weakest to strongest for the final weeks"
             - name: Final eight weeks CAPE Law revision timetable
               description: |-
                 ## Purpose
-                Eight weeks before the sitting, the job changes from learning new law to fixing weak modules and practising under time. A day-by-day timetable that gives the weakest module from the mock the most slots, keeps case recall going, and places the last full past paper about ten days out, stops revision drifting toward the topics you already like.
+                Eight weeks before the sitting, the job changes from learning new law to fixing weak modules and practising under time. A day-by-day timetable that gives the weakest module from the mock the most slots, keeps case recall going, and places the last full past paper about ten days out, stops revision drifting toward the topics your teen already likes.
 
                 ## Milestones
                 1. A day-by-day timetable covering the eight weeks before the first paper.
@@ -1071,9 +1073,9 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Write your candidate number and exam centre on a card in your pencil case"
+                - "Write the candidate number and exam centre on a card in the pencil case"
                 - "Plan the route to the centre and leave time for traffic"
-                - "Decide the order you will attempt the Paper 02 questions"
+                - "Decide the order to attempt the Paper 02 questions"
                 - "Pack pens, identification and water the night before"
             - name: Parent support for a CAPE Law student
               description: |-
@@ -1095,14 +1097,14 @@ starter_structure:
                 success_criteria: "A parent holds a weekly check-in through the course and has the internal assessment, mock and exam dates on the family calendar."
                 cadence: rolling
               tasks:
-                - "Ask your child to show you the study plan and IA deadlines"
+                - "Ask your teen to show you the study plan and IA deadlines"
                 - "Ask about this week's Law progress, not marks @recurring(weekly:mon)"
                 - "Offer transport for a court visit or a library trip"
                 - "Put the mock and exam dates on the family calendar"
             - name: Teacher or tutor tracker for a CAPE Law class
               description: |-
                 ## Purpose
-                Teaching CAPE Law means managing three modules, a class of internal assessment topics at different stages, and a mix of students who write well and students who reason well. A simple tracker of each student's internal assessment stage and weakest module, updated monthly, shows where to aim revision lessons before the problems surface in the mock.
+                Teaching CAPE Law means managing three modules, a class of internal assessment topics at different stages, and a mix of students who write well and students who reason well. If your teen has a tutor, or a teacher who would welcome it, this project is one to share. A simple tracker of each student's internal assessment stage and weakest module, updated monthly, shows where to aim revision lessons before the problems surface in the mock.
 
                 ## Milestones
                 1. A tracker set up with each student's research topic, stage and weakest module.
@@ -1123,7 +1125,7 @@ starter_structure:
             - name: Paper 032 route for private CAPE Law candidates
               description: |-
                 ## Purpose
-                Private candidates who are not attached to a school usually sit Paper 032 instead of submitting the internal assessment, and they must arrange registration, study and practice on their own. Registering early through the local CXC registrar, confirming the alternative paper's format in the syllabus and fitting a study plan around work or family makes the route workable for adults and repeat candidates.
+                Private candidates who are not attached to a school usually sit Paper 032 instead of submitting the internal assessment, and they must arrange registration, study and practice on their own. Registering early through the local CXC registrar, confirming the alternative paper's format in the syllabus and fitting a study plan around work or family makes the route workable for adults, repeat candidates and teens studying outside a school.
 
                 ## Milestones
                 1. Private registration confirmed with your country's local CXC registrar before the deadline.
@@ -1138,14 +1140,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Contact your country's local CXC registrar about private registration"
+                - "Contact the local CXC registrar about private registration"
                 - "Read the Paper 032 description in the current syllabus"
                 - "Find a study group, tutor or online class for CAPE Law"
                 - "Sit one past Paper 032 under timed conditions"
             - name: Grade I Law answers with evaluation and law reform
               description: |-
                 ## Purpose
-                Top grades go to answers that do more than apply the law: they evaluate whether it works, compare Caribbean and English approaches, and point to reform proposals or dissenting judgments. Building a small bank of evaluative points for each module, such as the debate over the mandatory death penalty or whether the Caparo test suits small island economies, lets you add that layer under time pressure.
+                Top grades go to answers that do more than apply the law: they evaluate whether it works, compare Caribbean and English approaches, and point to reform proposals or dissenting judgments. Building a small bank of evaluative points for each module, such as the debate over the mandatory death penalty or whether the Caparo test suits small island economies, lets your teen add that layer under time pressure.
 
                 ## Milestones
                 1. Two model top-grade answers read and their evaluative moves marked.
@@ -1163,11 +1165,11 @@ starter_structure:
                 - "Read two model top-grade answers and mark where they evaluate"
                 - "Write three evaluative points for each module with a source"
                 - "Write one evaluative paragraph on a law reform debate @recurring(monthly:15)"
-                - "Add one dissenting judgment or law reform report to your notes"
+                - "Add one dissenting judgment or law reform report to the notes"
 ---
 
 # CAPE Law
 
-This area takes a CAPE Law student through both units, from the Caribbean legal system, public law and criminal law in Unit 1 to tort, contract and real property in Unit 2, in the order the CXC syllabus sets them out. It opens with the foundations (the syllabus check, a diagnostic paper, a study plan, IRAC technique, case notes, a glossary and a case bank), sets up the study, case recall and timed practice routines, then works module by module before the internal assessment, a court visit, a class moot, the mock and exam day, with projects for parents, teachers, private candidates and students chasing a Grade I at the end.
+This area helps a parent or guardian back a CAPE Law student through both units, from the Caribbean legal system, public law and criminal law in Unit 1 to tort, contract and real property in Unit 2, in the order the CXC syllabus sets them out. It opens with the foundations (the syllabus check, a diagnostic paper, a study plan, IRAC technique, case notes, a glossary and a case bank), sets up the study, case recall and timed practice routines, then works module by module before the internal assessment, a court visit, a class moot, the mock and exam day, with projects for parents, teachers, private candidates and teens chasing a Grade I at the end.
 
-The rhythm is two study sessions a week, ten minutes of case recall each morning, weekly glossary, case bank, mistakes and legal news entries, a monthly timed Paper 01 set and Paper 02 question, a monthly internal assessment check and a termly talk with your teacher. The Reading queue, Habit tracker, Metrics log and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is two study sessions a week, ten minutes of case recall each morning, weekly glossary, case bank, mistakes and legal news entries, a monthly timed Paper 01 set and Paper 02 question, a monthly internal assessment check and a termly talk with the teacher, with your teen leading and you checking in. The Reading queue, Habit tracker, Metrics log and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.cape-literatures-in-english
 name: CAPE Literatures in English
-description: "A route through CAPE Literatures in English Units 1 and 2: set texts by genre, unseen extracts, timed essays, the internal assessment, mocks and exam day, for students, parents and teachers."
+description: "A route through CAPE Literatures in English Units 1 and 2 for parents supporting a sixth former: set texts by genre, unseen extracts, timed essays, the internal assessment, mocks and exam day, with projects for teachers too."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, cape-literatures-in-english, student, parent, educator, cxc, cape, literature]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,33 +25,35 @@ starter_structure:
             - name: Syllabus, set texts and paper format check
               description: |-
                 ## Purpose
-                Set texts for CAPE Literatures in English change on a cycle, so a list inherited from an older cousin can leave you annotating the wrong novel for weeks. Checking the current syllabus and set-text list on the CXC website before you read a page means every hour after this goes on the right books, and you know how each paper and the internal assessment are set for your sitting.
+                Set texts for CAPE Literatures in English change on a cycle, so a list inherited from an older cousin can leave your teen annotating the wrong novel for weeks, and you buying the wrong books. Checking the current syllabus and set-text list on the CXC website together, before a page is read, means every hour after this goes on the right books and you both know how each paper and the internal assessment are set for the sitting.
 
                 ## Milestones
                 1. The current CAPE Literatures in English syllabus saved, with the year it takes effect noted.
-                2. The set drama, poetry and prose texts for your unit and sitting year listed with authors and any required editions.
-                3. Paper 01, Paper 02, Paper 031 (the internal assessment) and Paper 032 (the alternative for private candidates) each described in your own words.
-                4. The May to June exam window and your school's internal deadlines noted on one page.
+                2. The set drama, poetry and prose texts for your teen's unit and sitting year listed with authors and any required editions.
+                3. Paper 01, Paper 02, Paper 031 (the internal assessment) and Paper 032 (the alternative for private candidates) each described in plain words.
+                4. The May to June exam window and the school's internal deadlines noted on one page.
 
                 ## Notes
-                Ask your teacher which texts the school has chosen wherever the syllabus offers a choice. Take mark weightings and timings from the current syllabus, never from an old revision guide.
+                This plan is for a parent or guardian supporting a teenager through CAPE Literatures in English, and an older student can follow it with a parent's support.
+
+                Ask the teacher which texts the school has chosen wherever the syllabus offers a choice. Take mark weightings and timings from the current syllabus, never from an old revision guide.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A one-page summary of the current syllabus, your set texts and the paper format for your sitting, checked against the CXC website and confirmed by your teacher."
+                success_criteria: "A one-page summary of the current syllabus, the set texts and the paper format for the sitting, checked against the CXC website and confirmed by the teacher."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
                 - "Download the current CAPE Literatures in English syllabus from the CXC website"
-                - "Copy the set texts for your unit and sitting year into your notebook"
+                - "Copy the set texts for the unit and sitting year into the literature notebook"
                 - "Write how Paper 01, Paper 02 and the internal assessment are set"
-                - "Confirm the text choices with your teacher in the next lesson"
+                - "Your teen confirms the text choices with the teacher in the next lesson"
             - name: Annotated personal copies of every set text
               description: |-
                 ## Purpose
-                Annotation is how literature students think on paper, and you cannot underline a library copy or a book you have to hand back to a sibling. Owning every set text in the edition the class uses means page references match in lessons and your margins quietly become your revision notes.
+                Annotation is how literature students think on paper, and nobody can underline a library copy or a book that has to go back to a sibling. Owning every set text in the edition the class uses means page references match in lessons and your teen's margins quietly become their revision notes, which makes these books worth buying early.
 
                 ## Milestones
                 1. A copy of each set play, poetry selection and prose text in hand, in the class edition where one is named.
@@ -66,38 +68,38 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "Every set text for your unit is owned in the class edition, with the first section of each annotated using a written annotation key."
+                success_criteria: "Every set text for the unit is owned in the class edition, with the first section of each annotated using a written annotation key."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask last year's Upper Six students for second-hand set texts"
+                - "Ask last year's Upper Six students or their parents for second-hand set texts"
                 - "Check each copy's edition against the class list"
                 - "Choose a three-colour annotation key and write it inside each cover"
                 - "Annotate the first act or chapter of each text"
             - name: Two-year reading plan for Units 1 and 2
               description: |-
                 ## Purpose
-                Most schools teach Unit 1 in Lower Six and Unit 2 in Upper Six, and each unit carries its own drama, poetry and prose, which is a heavy reading load next to two or three other CAPE subjects. Laying both years out on one plan, with the internal assessment and mocks marked, shows you where the crowded terms are before they arrive.
+                Most schools teach Unit 1 in Lower Six and Unit 2 in Upper Six, and each unit carries its own drama, poetry and prose, which is a heavy reading load next to two or three other CAPE subjects. Laying both years out on one plan, with the internal assessment and mocks marked, shows you and your teen where the crowded terms are before they arrive.
 
                 ## Milestones
-                1. Each set text placed in the term your teacher will teach it.
+                1. Each set text placed in the term the teacher will teach it.
                 2. A first read of every text scheduled at least a few weeks ahead of class teaching.
                 3. Internal assessment stages and mock exam dates marked on the plan.
-                4. The plan pinned up where you study and shared with a parent or guardian.
+                4. The plan pinned up where your teen studies and shared with you.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A two-year plan showing every set text by term, first reads scheduled ahead of teaching, and the IA and mock dates, shared with a parent."
+                success_criteria: "A two-year plan showing every set text by term, first reads scheduled ahead of teaching, and the IA and mock dates, shared with you."
                 cadence: phased
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher for the order the set texts will be taught"
+                - "Your teen asks the teacher for the order the set texts will be taught"
                 - "Draw a two-year grid with one column per term"
                 - "Schedule each first read a few weeks ahead of class teaching"
                 - "Add the internal assessment stages and mock exam dates"
-                - "Pin the plan where you study and send a photo home"
+                - "Pin the plan where your teen studies and keep a copy or photo yourself"
             - name: Literature notebook and quotation bank set-up
               description: |-
                 ## Purpose
@@ -106,11 +108,11 @@ starter_structure:
                 ## Milestones
                 1. One notebook or digital file with a section for each set text.
                 2. Each section divided into themes, characters or speakers, and techniques.
-                3. At least ten short quotations entered for the text you are studying now, each with act, scene, page or line.
+                3. At least ten short quotations entered for the text being studied now, each with act, scene, page or line.
                 4. An index on the first page listing every section.
 
                 ## Notes
-                Keep quotations short: four to eight words you can analyse are worth more than a long passage you can only copy out.
+                Keep quotations short: four to eight words that can be analysed are worth more than a long passage that can only be copied out.
               priority: medium
               frontmatter:
                 mode: building
@@ -121,39 +123,39 @@ starter_structure:
               tasks:
                 - "Choose one notebook or digital file for all set texts"
                 - "Divide each text's section into themes, characters and techniques"
-                - "Enter ten short referenced quotations from the text you are studying now"
+                - "Enter ten short referenced quotations from the text being studied now"
                 - "Write an index on the first page"
             - name: Literary terms glossary for drama, poetry and prose
               description: |-
                 ## Purpose
-                Examiners reward students who name a technique precisely and then say what it does, so a vague mention of imagery earns less than naming the dramatic irony or the enjambment that creates the effect. A personal glossary of around fifty terms, each with an example from your own set texts, makes that vocabulary usable under time.
+                Examiners reward students who name a technique precisely and then say what it does, so a vague mention of imagery earns less than naming the dramatic irony or the enjambment that creates the effect. A personal glossary of around fifty terms, each with an example from the set texts, makes that vocabulary usable under time.
 
                 ## Milestones
                 1. Terms grouped under drama, poetry and prose, with shared terms listed once.
-                2. Each term defined in your own words in one sentence.
-                3. Each term paired with an example from one of your set texts.
-                4. Twenty of the terms tested from memory with a classmate.
+                2. Each term defined in your teen's own words in one sentence.
+                3. Each term paired with an example from one of the set texts.
+                4. Twenty of the terms tested from memory with a classmate or with you.
               priority: medium
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A glossary of at least forty terms, each with your own definition and a set-text example, with twenty recalled correctly in a test."
+                success_criteria: "A glossary of at least forty terms, each with a definition in your teen's words and a set-text example, with twenty recalled correctly in a test."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "List the literary terms your teacher has used in the last month"
+                - "List the literary terms the teacher has used in the last month"
                 - "Group the terms under drama, poetry and prose"
                 - "Write a one-line definition and a set-text example for each term"
-                - "Test a classmate on twenty terms, then swap"
+                - "Test a classmate on twenty terms, then swap, or offer to quiz them yourself"
             - name: Diagnostic timed essay and marked baseline
               description: |-
                 ## Purpose
-                Many students arrive from CSEC English B writing plot summary with quotations attached, and nobody notices until the first mock. Writing one timed essay early and having it marked against the CAPE criteria shows exactly which skill to work on first, while there is still most of a year to fix it.
+                Many students arrive from CSEC English B writing plot summary with quotations attached, and nobody notices until the first mock. Writing one timed essay early and having it marked against the CAPE criteria shows exactly which skill your teen should work on first, while there is still most of a year to fix it.
 
                 ## Milestones
-                1. One past Paper 02 question answered under timed conditions on a text you have read.
-                2. The essay marked by your teacher against the current CAPE criteria.
-                3. Two strengths and two targets written at the top of your feedback log.
+                1. One past Paper 02 question answered under timed conditions on a text already read.
+                2. The essay marked by the teacher against the current CAPE criteria.
+                3. Two strengths and two targets written at the top of the feedback log.
                 4. A second essay planned that tackles the first target directly.
               priority: high
               deadlineOffsetDays: 30
@@ -164,39 +166,39 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Choose a past Paper 02 question on the text you know best"
+                - "Choose a past Paper 02 question on the text they know best"
                 - "Write the answer in one sitting with a timer running"
                 - "Hand it in and ask for marking against the CAPE criteria"
                 - "Write two strengths and two targets from the feedback"
             - name: Mark schemes and examiner reports for Literatures
               description: |-
                 ## Purpose
-                CXC publishes subject reports after each sitting that say, in plain terms, what weaker scripts did and what stronger ones did differently. Reading the last three reports for Literatures in English with a mark scheme beside them turns vague advice like be more analytical into a list of specific habits you can practise.
+                CXC publishes subject reports after each sitting that say, in plain terms, what weaker scripts did and what stronger ones did differently. Reading the last three reports for Literatures in English with a mark scheme beside them turns vague advice like be more analytical into a list of specific habits your teen can practise.
 
                 ## Milestones
                 1. The last three available subject reports for CAPE Literatures in English read.
                 2. Recurring examiner comments listed under drama, poetry, prose and the unseen extracts.
                 3. The assessment criteria for Paper 02 rewritten as a short checklist.
-                4. The checklist stuck inside the cover of your literature notebook.
+                4. The checklist stuck inside the cover of the literature notebook.
 
                 ## Notes
-                Past papers and subject reports are available through CXC and many school libraries; ask your teacher before buying anything.
+                Past papers and subject reports are available through CXC and many school libraries; ask the teacher before buying anything.
               priority: high
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "Three subject reports read and summarised by genre, with the Paper 02 criteria turned into a written checklist kept in your notebook."
+                success_criteria: "Three subject reports read and summarised by genre, with the Paper 02 criteria turned into a written checklist kept in the literature notebook."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for the last three subject reports"
+                - "Your teen asks the teacher for the last three subject reports"
                 - "Highlight every comment about what weaker answers did"
                 - "List the recurring comments under each genre"
                 - "Turn the Paper 02 criteria into a five-line checklist"
             - name: First complete read of the Unit 1 set texts
               description: |-
                 ## Purpose
-                A first read for story, without stopping to annotate every page, is what lets you follow class discussion instead of hearing the ending from someone else. Getting through all the Unit 1 texts before or in step with teaching means the second, slower read is where the real study happens.
+                A first read for story, without stopping to annotate every page, is what lets a student follow class discussion instead of hearing the ending from someone else. Getting through all the Unit 1 texts before or in step with teaching means the second, slower read is where the real study happens.
 
                 ## Milestones
                 1. Each Unit 1 play read through once, with at least one act read aloud with others.
@@ -205,24 +207,24 @@ starter_structure:
                 4. A half-page plot or argument summary written for every text.
 
                 ## Notes
-                Summaries are for your own reference. An essay that retells the plot scores poorly, however accurate it is.
+                Summaries are for reference only. An essay that retells the plot scores poorly, however accurate it is.
               priority: high
               deadlineOffsetDays: 75
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Every Unit 1 set text read in full, with a half-page summary of each written in your notebook."
+                success_criteria: "Every Unit 1 set text read in full, with a half-page summary of each written in the literature notebook."
                 cadence: phased
                 effort_hours_estimate: "30"
               tasks:
                 - "Set a daily page target for the first prose text"
-                - "Read the first act of the set play aloud with a friend"
+                - "Read the first act of the set play aloud with a friend, or with you"
                 - "Read each set poem aloud once"
                 - "Write a half-page summary after finishing each text"
             - name: Reading circle with two or three classmates
               description: |-
                 ## Purpose
-                Literature is argued into understanding: hearing a classmate read a scene differently is often what makes a theme click. A small reading circle that meets once a week for an hour, with one person bringing a question each time, keeps everyone reading on schedule and gives you points no study guide has.
+                Literature is argued into understanding: hearing a classmate read a scene differently is often what makes a theme click. A small reading circle that meets once a week for an hour, with one person bringing a question each time, keeps everyone reading on schedule and gives your teen points no study guide has. Offering your home as a meeting place is an easy way to help.
 
                 ## Milestones
                 1. Two or three classmates agreed to meet weekly at a fixed time.
@@ -257,14 +259,14 @@ starter_structure:
                 success_criteria: "Eight consecutive weekly rereading sessions logged, with every set text reread at least once in that time."
                 cadence: rolling
               tasks:
-                - "Choose the weekly hour and tell your household"
-                - "Write the rotation of texts inside your notebook cover"
+                - "Agree the weekly hour and let the household know"
+                - "Write the rotation of texts inside the notebook cover"
                 - "Reread one section of a set text for an hour @recurring(weekly:sat)"
                 - "Add one new observation to the quotation bank after each hour"
             - name: Spaced quotation learning routine
               description: |-
                 ## Purpose
-                Set texts are normally not taken into the exam room, so check the current rules and plan on carrying your quotations in memory. Ten-minute sessions twice a week beat a weekend of cramming, and a monthly self-test shows which quotations have actually stuck.
+                Set texts are normally not taken into the exam room, so check the current rules and plan on your teen carrying their quotations in memory. Ten-minute sessions twice a week beat a weekend of cramming, and a monthly self-test shows which quotations have actually stuck.
 
                 ## Milestones
                 1. Quotations copied onto cards or into a flashcard app, grouped by text.
@@ -278,19 +280,19 @@ starter_structure:
                 success_criteria: "Three monthly self-tests recorded, each on twenty quotations, with the score rising or holding above fifteen."
                 cadence: rolling
               tasks:
-                - "Copy your quotation bank onto cards or a flashcard app"
+                - "Copy the quotation bank onto cards or a flashcard app"
                 - "Review quotation cards for ten minutes @recurring(weekly:tue,fri)"
-                - "Test yourself on twenty quotations and record the score @recurring(monthly:28)"
+                - "Self-test on twenty quotations and record the score @recurring(monthly:28)"
                 - "Move any quotation missed twice into the hard pile"
             - name: Two timed essays a month under exam conditions
               description: |-
                 ## Purpose
-                Writing a full literature essay in the time allowed is a separate skill from understanding the text, and it only improves with repetition. Two timed essays a month, alternating genres and handed in for marking, give you around twenty marked essays by the exam instead of the three most students manage.
+                Writing a full literature essay in the time allowed is a separate skill from understanding the text, and it only improves with repetition. Two timed essays a month, alternating genres and handed in for marking, give your teen around twenty marked essays by the exam instead of the three most students manage.
 
                 ## Milestones
                 1. A bank of past and practice Paper 02 questions sorted by text.
                 2. Two essays written each month, alternating drama, poetry and prose.
-                3. Each essay marked by your teacher or checked against your criteria checklist.
+                3. Each essay marked by the teacher or checked against the criteria checklist.
                 4. A running list of marks showing the trend across the year.
               priority: high
               frontmatter:
@@ -302,31 +304,31 @@ starter_structure:
                 - "Sort past Paper 02 questions by set text"
                 - "Write a timed essay on a drama or poetry question @recurring(monthly:5)"
                 - "Write a timed essay on a prose question @recurring(monthly:19)"
-                - "Record each mark and the main comment in your feedback log"
+                - "Record each mark and the main comment in the feedback log"
             - name: Monthly unseen extract drill
               description: |-
                 ## Purpose
-                Unseen extracts reward a method more than knowledge: read twice, mark the shifts, name the techniques, say what they do. A monthly drill on a poem, a scene or a prose passage you have never seen keeps that method sharp so it runs automatically in the exam.
+                Unseen extracts reward a method more than knowledge: read twice, mark the shifts, name the techniques, say what they do. A monthly drill on a poem, a scene or a prose passage never seen before keeps that method sharp so it runs automatically in the exam.
 
                 ## Milestones
                 1. A collection of short unseen poems, scenes and prose passages from anthologies and past papers.
                 2. One extract answered each month under time, rotating genres.
-                3. Each answer checked against your extract method card or teacher comments.
-                4. The genre of extract that costs you most marks identified.
+                3. Each answer checked against the extract method card or teacher comments.
+                4. The genre of extract that costs the most marks identified.
 
                 ## Notes
-                Confirm in the current syllabus how Paper 01 uses unseen extracts for your sitting.
+                Confirm in the current syllabus how Paper 01 uses unseen extracts for the sitting.
               priority: medium
               frontmatter:
                 mode: operating
                 output_kind: habit
-                success_criteria: "Six unseen extracts answered under time across all three genres, each checked, with your weakest extract genre named."
+                success_criteria: "Six unseen extracts answered under time across all three genres, each checked, with the weakest extract genre named."
                 cadence: rolling
               tasks:
                 - "Collect ten short unseen extracts across the three genres"
                 - "Answer one unseen extract under time @recurring(monthly:12)"
-                - "Check each answer against your extract method card"
-                - "Note which genre of extract gives you most trouble"
+                - "Check each answer against the extract method card"
+                - "Note which genre of extract gives the most trouble"
             - name: Essay feedback log and target list
               description: |-
                 ## Purpose
@@ -335,7 +337,7 @@ starter_structure:
                 ## Milestones
                 1. A log with columns for date, text, question, mark and main comment.
                 2. Every marked essay from this term entered.
-                3. A monthly review that names your top two targets.
+                3. A monthly review that names the top two targets.
                 4. Each target retired once three essays in a row avoid it.
 
                 ## Notes
@@ -349,21 +351,21 @@ starter_structure:
               tasks:
                 - "Set up the log with date, text, question, mark and comment columns"
                 - "Enter every marked essay from this term"
-                - "Review the log and name your top two targets @recurring(monthly:26)"
-                - "Write the current targets at the top of your next essay plan"
+                - "Review the log and name the top two targets @recurring(monthly:26)"
+                - "Write the current targets at the top of the next essay plan"
             - name: Criticism and context reading log
               description: |-
                 ## Purpose
-                Higher-band essays often show awareness of how a text has been read by others, or of the history it came from, without letting critics do the arguing. Reading one short critical essay or context piece a month, and logging a point you could use, builds that awareness steadily.
+                Higher-band essays often show awareness of how a text has been read by others, or of the history it came from, without letting critics do the arguing. Reading one short critical essay or context piece a month, and logging a point worth using, builds that awareness steadily.
 
                 ## Milestones
-                1. A list of reliable sources from your teacher, the school library and established study guide publishers.
+                1. A list of reliable sources from the teacher, the school library and established study guide publishers.
                 2. One critical or contextual piece read each month.
                 3. A one-paragraph summary and one usable point logged for each piece.
                 4. Every point tagged to the set text it serves.
 
                 ## Notes
-                Critics support your argument; they never replace it. Name a critic only if you can say what they argued.
+                Critics support the argument; they never replace it. A critic should be named only when the essay can say what they argued.
               priority: low
               frontmatter:
                 mode: research
@@ -371,17 +373,17 @@ starter_structure:
                 success_criteria: "At least six critical or context pieces logged with a summary and a usable point, each linked to a set text."
                 cadence: rolling
               tasks:
-                - "Ask your teacher for three recommended critical readings"
+                - "Your teen asks the teacher for three recommended critical readings"
                 - "Read one critical or context piece and summarise it @recurring(monthly:8)"
                 - "Tag each logged point to the set text it supports"
-            - name: Termly progress conference with your literature teacher
+            - name: Termly progress conference with the literature teacher
               description: |-
                 ## Purpose
-                Teachers of sixth form classes rarely have time to chase each student, so the ones who ask get the most specific help. A short planned conversation once a term, bringing your feedback log and one question, keeps your plan matched to what your teacher actually sees in your scripts.
+                Teachers of sixth form classes rarely have time to chase each student, so the ones who ask get the most specific help. A short planned conversation once a term, with the feedback log and one question in hand, keeps your teen's plan matched to what the teacher actually sees in their scripts. Let them lead it, and ask afterwards what was agreed.
 
                 ## Milestones
                 1. A meeting requested once a term.
-                2. Your feedback log and a written question brought each time.
+                2. The feedback log and a written question brought each time.
                 3. Two agreed actions recorded after each meeting.
                 4. Last term's actions checked at the start of the next conference.
 
@@ -394,36 +396,36 @@ starter_structure:
                 success_criteria: "One progress conference held each term, each with two written actions that are checked at the next meeting."
                 cadence: rolling
               tasks:
-                - "Write one question you want answered about your essays"
-                - "Request a short progress meeting with your teacher @recurring(quarterly)"
+                - "Write one question to ask about the essays"
+                - "Your teen requests a short progress meeting with the teacher @recurring(quarterly)"
                 - "Record the two actions agreed at the meeting"
                 - "Check last term's actions before the next meeting"
             - name: Phrase bank for analytical literature writing
               description: |-
                 ## Purpose
-                Students who understand a text often stall at the sentence level, repeating this shows twenty times an essay. A phrase bank of ways to introduce a quotation, analyse an effect, compare and conclude gives your analysis variety and precision without sounding memorised.
+                Students who understand a text often stall at the sentence level, repeating this shows twenty times an essay. A phrase bank of ways to introduce a quotation, analyse an effect, compare and conclude gives your teen's analysis variety and precision without sounding memorised.
 
                 ## Milestones
                 1. Phrases grouped under introducing, analysing, linking, contrasting and concluding.
-                2. At least eight phrases in each group, written in your own style.
+                2. At least eight phrases in each group, written in your teen's own style.
                 3. Three new phrases tried in each essay and ticked off.
                 4. Phrases that sounded forced in marked essays removed.
               priority: low
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A phrase bank of at least forty phrases in five groups, with three used in each of your next four essays."
+                success_criteria: "A phrase bank of at least forty phrases in five groups, with three used in each of the next four essays."
                 cadence: phased
                 effort_hours_estimate: "3"
               tasks:
                 - "Underline the linking phrases in two model essays"
-                - "Group the phrases under five headings in your notebook"
-                - "Use three new phrases in your next timed essay"
+                - "Group the phrases under five headings in the notebook"
+                - "Use three new phrases in the next timed essay"
                 - "Prune phrases that read as forced in marked work @recurring(monthly:17)"
             - name: Unit 1 drama, first set play scene by scene
               description: |-
                 ## Purpose
-                The Unit 1 drama module asks you to write about plays as plays, so plot knowledge is not enough: you need to know how a scene is built and what an audience sees and hears. Working through the first set play scene by scene, with a page of notes per act, gives you material for any question on character, theme or dramatic technique.
+                The Unit 1 drama module asks candidates to write about plays as plays, so plot knowledge is not enough: they need to know how a scene is built and what an audience sees and hears. Working through the first set play scene by scene, with a page of notes per act, gives your teen material for any question on character, theme or dramatic technique.
 
                 ## Milestones
                 1. A one-line summary of every scene.
@@ -448,7 +450,7 @@ starter_structure:
             - name: Unit 1 drama, second set play and staging choices
               description: |-
                 ## Purpose
-                Comparing your two plays is the quickest way to see what each playwright does differently with time, setting and dialogue. Studying the second play with staging in mind, sketching how key scenes might be lit, blocked or costumed, gives you the performance vocabulary drama questions reward.
+                Comparing the two set plays is the quickest way to see what each playwright does differently with time, setting and dialogue. Studying the second play with staging in mind, sketching how key scenes might be lit, blocked or costumed, gives your teen the performance vocabulary drama questions reward.
 
                 ## Milestones
                 1. Scene summaries and act notes completed for the second play.
@@ -470,7 +472,7 @@ starter_structure:
             - name: Unit 1 poetry, close reading the set poems
               description: |-
                 ## Purpose
-                Poetry essays fail most often on vagueness: a theme is named but the words that create it are not. Close reading every set poem line by line for speaker, situation, imagery, sound and form gives you a page per poem you can revise from in minutes.
+                Poetry essays fail most often on vagueness: a theme is named but the words that create it are not. Close reading every set poem line by line for speaker, situation, imagery, sound and form produces a page per poem that can be revised from in minutes.
 
                 ## Milestones
                 1. A one-page close reading of each set poem covering speaker, situation, imagery, sound and form.
@@ -488,11 +490,11 @@ starter_structure:
                 - "Read the first set poem aloud twice"
                 - "Annotate each poem for speaker, situation, imagery, sound and form"
                 - "Learn three quotable lines from every poem"
-                - "Answer a past poetry question and give it to your teacher"
+                - "Answer a past poetry question and give it to the teacher"
             - name: Unit 1 poetry, linking poems by theme and technique
               description: |-
                 ## Purpose
-                Poetry questions often ask you to discuss more than one poem, so knowing each poem alone is not enough. Grouping the set poems by shared concerns, such as place, identity, loss or power, and by technique lets you pick a strong pair for whatever question appears.
+                Poetry questions often ask candidates to discuss more than one poem, so knowing each poem alone is not enough. Grouping the set poems by shared concerns, such as place, identity, loss or power, and by technique lets your teen pick a strong pair for whatever question appears.
 
                 ## Milestones
                 1. A grid placing every set poem under three to five themes.
@@ -514,7 +516,7 @@ starter_structure:
             - name: Unit 1 prose, first set novel
               description: |-
                 ## Purpose
-                Novels are long, and prose essays reward students who can move confidently from a whole-book argument to a single sentence. A chapter map, character notes and a short list of key passages for the first set novel make the book searchable in your head.
+                Novels are long, and prose essays reward students who can move confidently from a whole-book argument to a single sentence. A chapter map, character notes and a short list of key passages for the first set novel make the book searchable in your teen's head.
 
                 ## Milestones
                 1. A chapter map with one line per chapter.
@@ -536,7 +538,7 @@ starter_structure:
             - name: Unit 1 prose, narrative voice in the second text
               description: |-
                 ## Purpose
-                Who tells the story, and how far we can trust them, shapes everything in a prose text, and examiners regularly note that candidates ignore it. Studying the second prose text through narrative voice, structure and the handling of time gives you a sharper angle than theme alone.
+                Who tells the story, and how far we can trust them, shapes everything in a prose text, and examiners regularly note that candidates ignore it. Studying the second prose text through narrative voice, structure and the handling of time gives a sharper angle than theme alone.
 
                 ## Milestones
                 1. The narrator, point of view and reliability described in a paragraph.
@@ -558,7 +560,7 @@ starter_structure:
             - name: Unit 2 drama, plays in performance and context
               description: |-
                 ## Purpose
-                Unit 2 drama returns to plays with a year more practice behind you, and the strongest answers weigh context and audience as well as character. Check the module's stated focus in the current syllabus, then study the Unit 2 plays with their period, place and performance history in view.
+                Unit 2 drama returns to plays with a year more practice behind your teen, and the strongest answers weigh context and audience as well as character. Check the module's stated focus in the current syllabus, then study the Unit 2 plays with their period, place and performance history in view.
 
                 ## Milestones
                 1. The Unit 2 drama module's stated focus copied from the current syllabus.
@@ -580,7 +582,7 @@ starter_structure:
             - name: Unit 2 poetry, the set poets and their forms
               description: |-
                 ## Purpose
-                Whatever shape the Unit 2 poetry takes on your list, a single collection or a group of poets, it rewards knowing how forms and concerns develop across poems. Studying the selection as a body of work rather than a list of separate poems lets you write confidently about patterns and changes.
+                Whatever shape the Unit 2 poetry takes on the list, a single collection or a group of poets, it rewards knowing how forms and concerns develop across poems. Studying the selection as a body of work rather than a list of separate poems lets your teen write confidently about patterns and changes.
 
                 ## Milestones
                 1. A close-reading page for each Unit 2 set poem.
@@ -602,12 +604,12 @@ starter_structure:
             - name: Unit 2 prose, set texts and critical readings
               description: |-
                 ## Purpose
-                By Unit 2 your prose essays should test an interpretation rather than describe a book. Studying the Unit 2 prose texts beside one or two published readings of each lets you agree, push back and build an argument that is recognisably your own.
+                By Unit 2, prose essays should test an interpretation rather than describe a book. Studying the Unit 2 prose texts beside one or two published readings of each lets your teen agree, push back and build an argument that is recognisably their own.
 
                 ## Milestones
                 1. Chapter maps and character notes for each Unit 2 prose text.
                 2. One published critical reading of each text summarised in a paragraph.
-                3. Your own interpretation of each text written as a two-sentence thesis.
+                3. Your teen's own interpretation of each text written as a two-sentence thesis.
                 4. Two past Unit 2 prose essays written and marked.
               priority: medium
               frontmatter:
@@ -619,12 +621,12 @@ starter_structure:
               tasks:
                 - "Make chapter maps for each Unit 2 prose text"
                 - "Summarise one critical reading of each text in a paragraph"
-                - "Write a two-sentence thesis of your own for each text"
+                - "Write a two-sentence thesis of their own for each text"
                 - "Sit two past Unit 2 prose questions and hand them in"
             - name: Paper 01 unseen extract technique
               description: |-
                 ## Purpose
-                Unseen extract questions test whether you can read closely without notes, and they reward a calm, repeatable approach more than flair. Practising one method across drama, poetry and prose extracts, then timing it, turns the most nerve-racking part of the exam into the most predictable.
+                Unseen extract questions test whether a candidate can read closely without notes, and they reward a calm, repeatable approach more than flair. Practising one method across drama, poetry and prose extracts, then timing it, turns the most nerve-racking part of the exam into the most predictable.
 
                 ## Milestones
                 1. The current Paper 01 format confirmed from the syllabus and written down.
@@ -640,7 +642,7 @@ starter_structure:
                 effort_hours_estimate: "10"
               tasks:
                 - "Confirm the current Paper 01 format in the syllabus"
-                - "Write your extract method as five steps on a card"
+                - "Write the extract method as five steps on a card"
                 - "Answer two drama, two poetry and two prose extracts untimed"
                 - "Repeat with six new extracts under time and hand them in"
             - name: Ten-minute essay plans for Paper 02
@@ -651,46 +653,46 @@ starter_structure:
                 ## Milestones
                 1. A planning template written: key words, thesis, four points, quotations, conclusion.
                 2. Twenty past questions planned in ten minutes each.
-                3. Five plans checked by your teacher for whether the thesis answers the question.
+                3. Five plans checked by the teacher for whether the thesis answers the question.
                 4. Planning kept under ten minutes in three timed essays in a row.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Twenty ten-minute plans written across all set texts, five checked by your teacher, and three timed essays planned within ten minutes."
+                success_criteria: "Twenty ten-minute plans written across all set texts, five checked by the teacher, and three timed essays planned within ten minutes."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
                 - "Write a one-page essay planning template"
                 - "Plan five past Paper 02 questions in ten minutes each"
-                - "Ask your teacher whether each thesis answers its question"
+                - "Your teen asks the teacher whether each thesis answers its question"
                 - "Plan fifteen more questions spread across all set texts"
             - name: Analysing language, form and structure in quotations
               description: |-
                 ## Purpose
-                Quoting is not analysing: the marks come from what you say about the words you quote. A drill in which every quotation is followed by the technique, its effect and its link to the question makes each paragraph do more work in the same time.
+                Quoting is not analysing: the marks come from what a candidate says about the words they quote. A drill in which every quotation is followed by the technique, its effect and its link to the question makes each paragraph do more work in the same time.
 
                 ## Milestones
                 1. A model paragraph annotated to show quotation, technique, effect and link.
-                2. Ten of your own old paragraphs rewritten using that pattern.
+                2. Ten of your teen's old paragraphs rewritten using that pattern.
                 3. At least one single-word quotation analysed in each essay.
                 4. Teacher feedback noting stronger analysis in two marked essays.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Ten paragraphs rewritten in the quote, technique, effect and link pattern, with improved analysis noted by your teacher on two essays."
+                success_criteria: "Ten paragraphs rewritten in the quote, technique, effect and link pattern, with improved analysis noted by the teacher on two essays."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
                 - "Annotate one model paragraph for quotation, technique, effect and link"
                 - "Rewrite ten old paragraphs using the pattern"
                 - "Practise analysing a single word from each set text"
-                - "Ask your teacher to comment on analysis in your next essay"
+                - "Your teen asks the teacher to comment on analysis in the next essay"
             - name: Critical approaches for Unit 2 essays
               description: |-
                 ## Purpose
-                Postcolonial, feminist, Marxist and historicist readings each ask a different question of the same novel or play, and Caribbean texts in particular invite readings about empire, language and belonging. Learning four or five approaches well enough to apply them to your own set texts adds independent thinking without turning essays into theory.
+                Postcolonial, feminist, Marxist and historicist readings each ask a different question of the same novel or play, and Caribbean texts in particular invite readings about empire, language and belonging. Learning four or five approaches well enough to apply them to the set texts adds independent thinking without turning essays into theory.
 
                 ## Milestones
                 1. Four or five critical approaches summarised in plain language with their key questions.
@@ -699,7 +701,7 @@ starter_structure:
                 4. Teacher feedback on whether the approach served the argument.
 
                 ## Notes
-                Check with your teacher how far your unit's questions expect critical approaches. A clear argument about the text always comes first.
+                Check with the teacher how far the unit's questions expect critical approaches. A clear argument about the text always comes first.
               priority: low
               frontmatter:
                 mode: learning
@@ -711,11 +713,11 @@ starter_structure:
                 - "Summarise four critical approaches and their key questions"
                 - "Apply each approach to one set text in a paragraph"
                 - "Write a timed essay weighing two readings of one text"
-                - "Ask your teacher whether the approach helped the argument"
-            - name: Caribbean literary and historical context for your texts
+                - "Ask the teacher whether the approach helped the argument"
+            - name: Caribbean literary and historical context for the set texts
               description: |-
                 ## Purpose
-                Several set texts on CAPE lists come from the Caribbean, and their concerns with colonialism, migration, creole languages and independence make more sense with the history in view. A short context sheet per text, tied to quotations, lets you use context to sharpen analysis instead of replacing it.
+                Several set texts on CAPE lists come from the Caribbean, and their concerns with colonialism, migration, creole languages and independence make more sense with the history in view. A short context sheet per text, tied to quotations, lets your teen use context to sharpen analysis instead of replacing it. Family memories of migration or independence can be a welcome way in.
 
                 ## Milestones
                 1. A one-page context sheet for each set text, Caribbean or not.
@@ -734,13 +736,13 @@ starter_structure:
                 - "Write a one-page context sheet for each text"
                 - "Link three historical points to specific passages"
                 - "Write one paragraph per text using context to support analysis"
-            - name: Fixing your weakest genre
+            - name: Fixing the weakest genre
               description: |-
                 ## Purpose
-                Most students have one genre that drags their marks down, often poetry or the unseen extracts, and spreading effort evenly leaves it weak. Six weeks of focused work on that genre, with a mark at the start and end, is usually worth more than another reread of a text you already know well.
+                Most students have one genre that drags their marks down, often poetry or the unseen extracts, and spreading effort evenly leaves it weak. Six weeks of focused work on that genre, with a mark at the start and end, is usually worth more than another reread of a text your teen already knows well.
 
                 ## Milestones
-                1. Your weakest genre identified from the feedback log.
+                1. The weakest genre identified from the feedback log.
                 2. A starting mark recorded on a timed question in that genre.
                 3. Six weeks of extra practice completed, at least one session a week.
                 4. An end mark recorded and compared with the start.
@@ -748,49 +750,49 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Start and end marks recorded six weeks apart on timed questions in your weakest genre, with the difference written in the feedback log."
+                success_criteria: "Start and end marks recorded six weeks apart on timed questions in the weakest genre, with the difference written in the feedback log."
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
-                - "Pick your weakest genre from the feedback log"
+                - "Pick the weakest genre from the feedback log"
                 - "Write a timed question in that genre and record the mark"
                 - "Do a forty-minute practice session in the weak genre @recurring(weekly:thu)"
                 - "Write a second timed question after six weeks and compare marks"
-            - name: Rebalancing study time across your CAPE subjects
+            - name: Rebalancing study time across CAPE subjects
               description: |-
                 ## Purpose
-                Literatures is often the heaviest reading load among a student's CAPE subjects, and it can quietly eat the hours Pure Mathematics or Biology needed, or be squeezed out by them. Recording a fortnight of study time and deciding a fair split stops one subject winning by default.
+                Literatures is often the heaviest reading load among a student's CAPE subjects, and it can quietly eat the hours Pure Mathematics or Biology needed, or be squeezed out by them. Recording a fortnight of study time and agreeing a fair split together stops one subject winning by default.
 
                 ## Milestones
                 1. Two weeks of study hours recorded by subject.
                 2. Each subject's latest mark and next deadline listed side by side.
-                3. A weekly split of hours decided and written into your timetable.
+                3. A weekly split of hours agreed and written into the study timetable.
                 4. The split checked after a month and adjusted.
               priority: low
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A written weekly split of study hours across all your CAPE subjects, based on two weeks of recorded time and reviewed after a month."
+                success_criteria: "A written weekly split of study hours across all your teen's CAPE subjects, based on two weeks of recorded time and reviewed after a month."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Record your study hours by subject for two weeks"
+                - "Your teen records study hours by subject for two weeks"
                 - "List each subject's latest mark and next deadline"
-                - "Decide a weekly split of hours across subjects"
+                - "Agree a weekly split of hours across subjects"
                 - "Check the split after a month and adjust it"
-            - name: Seeing your set play performed
+            - name: Seeing the set play performed
               description: |-
                 ## Purpose
-                Plays are written to be seen, and a single performance can show how a scene's tension or comedy works far better than notes. Watching a live or filmed production of each set play, and noting the director's choices, gives you staging evidence for drama answers.
+                Plays are written to be seen, and a single performance can show how a scene's tension or comedy works far better than notes. Watching a live or filmed production of each set play, and noting the director's choices, gives your teen staging evidence for drama answers, and a live show is a good outing to share.
 
                 ## Milestones
                 1. A live, school or filmed production of each set play found.
-                2. Each production watched with your notes to hand.
-                3. Three staging choices noted per production and compared with your own reading.
-                4. One drama paragraph rewritten using what you saw.
+                2. Each production watched with the play notes to hand.
+                3. Three staging choices noted per production and compared with your teen's own reading.
+                4. One drama paragraph rewritten using what was seen.
 
                 ## Notes
-                Local theatre companies and school drama clubs sometimes stage set plays in exam years, so ask your teacher. Films often cut or change lines, so quote the text, not the film.
+                Local theatre companies and school drama clubs sometimes stage set plays in exam years, so ask the teacher. Films often cut or change lines, so quote the text, not the film.
               priority: low
               deadlineOffsetDays: 90
               frontmatter:
@@ -801,35 +803,35 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Search for a live or filmed production of each set play"
-                - "Watch one production with your notes to hand"
+                - "Watch one production with the play notes to hand"
                 - "Note three staging choices and how each changes a scene"
-                - "Rewrite one drama paragraph using what you saw"
-            - name: Internal assessment, choosing your text and focus
+                - "Rewrite one drama paragraph using what they saw"
+            - name: Internal assessment, choosing the text and focus
               description: |-
                 ## Purpose
-                The internal assessment is the one part of the subject you shape yourself, and a narrow, arguable focus makes the writing far easier. Reading the current IA requirements carefully, then testing two or three possible focuses with your teacher, avoids starting on a topic that is too broad or not permitted.
+                The internal assessment is the one part of the subject your teen shapes themselves, and a narrow, arguable focus makes the writing far easier. Reading the current IA requirements carefully, then testing two or three possible focuses with the teacher, avoids starting on a topic that is too broad or not permitted.
 
                 ## Milestones
                 1. The current IA requirements summarised on one page, including length and which texts are permitted.
                 2. Three possible focuses drafted as questions.
-                3. One focus approved by your teacher.
-                4. A working title and a list of the passages you will use.
+                3. One focus approved by the teacher.
+                4. A working title and a list of the passages to be used.
 
                 ## Notes
-                IA formats change between syllabuses, so take the requirements from the current syllabus and your teacher, not from an older student's work.
+                IA formats change between syllabuses, so take the requirements from the current syllabus and the teacher, not from an older student's work.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
                 mode: building
                 output_kind: decision
-                success_criteria: "An IA focus approved by your teacher, with a working title, a passage list and a one-page summary of the current requirements."
+                success_criteria: "An IA focus approved by the teacher, with a working title, a passage list and a one-page summary of the current requirements."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
                 - "Summarise the current IA requirements from the syllabus on one page"
                 - "Draft three possible focuses as questions"
-                - "Discuss the three focuses with your teacher and choose one"
-                - "Write a working title and list the passages you will use"
+                - "Your teen discusses the three focuses with the teacher and chooses one"
+                - "Write a working title and list the passages to be used"
             - name: Internal assessment, research, drafting and feedback
               description: |-
                 ## Purpose
@@ -837,12 +839,12 @@ starter_structure:
 
                 ## Milestones
                 1. Notes and quotations gathered for the approved focus.
-                2. An outline with a thesis and paragraph plan approved by your teacher.
+                2. An outline with a thesis and paragraph plan approved by the teacher.
                 3. A full draft submitted for feedback by the school's draft date.
                 4. A revised draft that answers every feedback point.
 
                 ## Notes
-                Your teacher can comment on drafts, but the IA must be your own work; keep dated drafts as a record.
+                The teacher can comment on drafts, but the IA must be your teen's own work, so offer encouragement rather than edits; keep dated drafts as a record.
               priority: high
               deadlineOffsetDays: 120
               frontmatter:
@@ -852,19 +854,19 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "20"
               tasks:
-                - "Gather notes and quotations for your approved focus"
+                - "Gather notes and quotations for the approved focus"
                 - "Write an outline with a thesis and paragraph plan"
                 - "Submit a full draft by the school's draft date"
-                - "Ask the agent to list where the draft drifts from your approved focus"
+                - "Ask the agent to list where the draft drifts from the approved focus"
                 - "Revise the draft against every feedback point"
             - name: Internal assessment, final copy and submission
               description: |-
                 ## Purpose
-                Marks are lost at the end of an IA to missing references, a word count over the limit or a cover sheet left unsigned. A careful final check against the requirements, and submission before the school's internal deadline, protects the work you have already done.
+                Marks are lost at the end of an IA to missing references, a word count over the limit or a cover sheet left unsigned. A careful final check against the requirements, and submission before the school's internal deadline, protects the work your teen has already done.
 
                 ## Milestones
                 1. The word count checked against the current limit.
-                2. Every quotation and source referenced in the format your teacher asks for.
+                2. Every quotation and source referenced in the format the teacher asks for.
                 3. Any declaration or cover sheet completed and signed.
                 4. The final copy submitted before the school deadline, with a dated copy kept.
               priority: high
@@ -880,39 +882,39 @@ starter_structure:
                 - "Check every quotation and source is referenced"
                 - "Complete and sign any declaration or cover sheet"
                 - "Submit the final copy and keep a dated copy"
-            - name: Registration and timetable check for your sitting
+            - name: Registration and timetable check for the sitting
               description: |-
                 ## Purpose
-                Registration for CAPE goes through your school or, for private candidates, the local registrar's office, and a missed deadline or the wrong unit entered can cost a year. Checking your registration and the published timetable early leaves time to fix errors calmly.
+                Registration for CAPE goes through the school or, for private candidates, the local registrar's office, and a missed deadline or the wrong unit entered can cost a year. Checking your teen's registration and the published timetable early leaves time to fix errors calmly.
 
                 ## Milestones
-                1. Your registration confirmed for the right unit of Literatures in English.
-                2. The published CXC timetable checked for your Literatures papers.
+                1. Your teen's registration confirmed for the right unit of Literatures in English.
+                2. The published CXC timetable checked for the Literatures papers.
                 3. Any clash with another subject reported to the school.
-                4. Exam dates copied onto your revision plan.
+                4. Exam dates copied onto the revision plan.
               priority: medium
               deadlineOffsetDays: 45
               frontmatter:
                 mode: event
                 output_kind: event-completion
-                success_criteria: "Registration for the correct Literatures unit confirmed in writing, with exam dates from the published timetable on your plan."
+                success_criteria: "Registration for the correct Literatures unit confirmed in writing, with exam dates from the published timetable on the revision plan."
                 cadence: one-shot
                 effort_hours_estimate: "1"
               tasks:
-                - "Ask the school office to confirm your Literatures registration @priority(high)"
-                - "Check the CXC timetable for your Literatures papers"
+                - "Ask the school office to confirm your teen's Literatures registration @priority(high)"
+                - "Check the CXC timetable for the Literatures papers"
                 - "Report any clash with another subject to the school"
-                - "Copy your exam dates onto the revision plan"
+                - "Copy the exam dates onto the revision plan and the family calendar"
             - name: School mock exam in Literatures
               description: |-
                 ## Purpose
-                A mock under real conditions shows how your knowledge holds up across a whole paper, not one essay. Preparing for it as if it counted, then reviewing every answer, gives you an honest map of what to fix in the months left.
+                A mock under real conditions shows how knowledge holds up across a whole paper, not one essay. Preparing for it as if it counted, then reviewing every answer, gives your teen an honest map of what to fix in the months left.
 
                 ## Milestones
-                1. Mock dates and papers confirmed with your teacher.
+                1. Mock dates and papers confirmed with the teacher.
                 2. Quotations for every set text tested beforehand.
                 3. The mock sat under full timed conditions.
-                4. A review page listing the three changes you will make before the exam.
+                4. A review page listing the three changes to make before the exam.
               priority: high
               deadlineOffsetDays: 180
               frontmatter:
@@ -923,7 +925,7 @@ starter_structure:
                 effort_hours_estimate: "15"
               tasks:
                 - "Confirm the mock dates and which papers are set"
-                - "Test yourself on quotations for every set text"
+                - "Self-test on quotations for every set text, or offer to quiz them"
                 - "Sit the mock under full timed conditions"
                 - "Write a review page with three changes to make"
             - name: Final six-week revision timetable
@@ -945,7 +947,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "List every set text with your confidence in each"
+                - "List every set text with a confidence rating for each"
                 - "Lay out six weeks so each text appears three times"
                 - "Schedule two timed essays a week"
                 - "Review and adjust the revision timetable @recurring(weekly:mon)"
@@ -957,7 +959,7 @@ starter_structure:
                 ## Milestones
                 1. The most recent available past paper set aside unseen.
                 2. The full paper sat in one session using the timings in the current syllabus.
-                3. The paper marked by your teacher or against the mark scheme.
+                3. The paper marked by the teacher or against the mark scheme.
                 4. One final adjustment chosen, such as question order or planning time.
               priority: high
               deadlineOffsetDays: 210
@@ -970,12 +972,12 @@ starter_structure:
               tasks:
                 - "Set aside the most recent past paper without looking at it"
                 - "Sit the full paper in one session with exam timings"
-                - "Get the paper marked by your teacher"
-                - "Choose one final adjustment and write it on your exam-day card"
+                - "Get the paper marked by the teacher"
+                - "Choose one final adjustment and write it on the exam-day card"
             - name: Exam day plan for Literatures papers
               description: |-
                 ## Purpose
-                Exam mornings go wrong over small things: a missing candidate number, a dry pen, a maxi taxi that never comes. A written plan for each Literatures paper, from the night before to the first ten minutes in the room, keeps your attention on the questions.
+                Exam mornings go wrong over small things: a missing candidate number, a dry pen, a maxi taxi that never comes. A written plan for each Literatures paper, from the night before to the first ten minutes in the room, keeps your teen's attention on the questions.
 
                 ## Milestones
                 1. Candidate number, centre and paper times written on one card.
@@ -991,32 +993,32 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Write your candidate number, centre and paper times on a card"
+                - "Write the candidate number, centre and paper times on a card"
                 - "Pack pens, identification and water the night before"
-                - "Arrange transport and a back-up option with a parent"
-                - "Write your first-ten-minutes routine on the card"
+                - "Arrange transport and a back-up option together"
+                - "Your teen writes their first-ten-minutes routine on the card"
             - name: Unit 1 results review and Unit 2 plan
               description: |-
                 ## Purpose
-                Unit 1 results arrive over the summer, and any module or profile grades they show are a free diagnosis for Unit 2. Reading your results with your teacher and adjusting the Unit 2 plan means you start Upper Six already working on the right weakness.
+                Unit 1 results arrive over the summer, and any module or profile grades they show are a free diagnosis for Unit 2. Reading the results with your teen, then with the teacher, and adjusting the Unit 2 plan means they start Upper Six already working on the right weakness.
 
                 ## Milestones
-                1. Your Unit 1 grade and any module or profile grades recorded.
-                2. The weakest module discussed with your teacher.
+                1. Your teen's Unit 1 grade and any module or profile grades recorded.
+                2. The weakest module discussed with the teacher.
                 3. The Unit 2 plan adjusted to give that skill more time.
-                4. A decision made with your teacher on whether a review of the grade is worth requesting.
+                4. A decision made with the teacher on whether a review of the grade is worth requesting.
               priority: low
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "Unit 1 results recorded, the weakest module named with your teacher, and the Unit 2 plan changed to address it."
+                success_criteria: "Unit 1 results recorded, the weakest module named with the teacher, and the Unit 2 plan changed to address it."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Record your Unit 1 grade and any module grades"
-                - "Discuss the weakest module with your teacher"
+                - "Record the Unit 1 grade and any module grades"
+                - "Your teen discusses the weakest module with the teacher"
                 - "Move extra time in the Unit 2 plan to that skill"
-                - "Decide with your teacher whether to request a review of the grade"
+                - "Decide with the teacher whether to request a review of the grade"
             - name: Parent support for a literature student at home
               description: |-
                 ## Purpose
@@ -1037,14 +1039,14 @@ starter_structure:
                 success_criteria: "All set texts in the house, a weekly quiet reading hour kept, and monthly check-ins held for at least three months."
                 cadence: rolling
               tasks:
-                - "Ask your child for the set text list and buy any missing books"
+                - "Ask your teen for the set text list and buy any missing books"
                 - "Keep a quiet reading hour for the household @recurring(weekly:sun)"
                 - "Hold a ten-minute check-in on marks and deadlines @recurring(monthly:3)"
                 - "Add the IA and mock dates to the family calendar"
             - name: Studying Literatures as a private candidate
               description: |-
                 ## Purpose
-                Private candidates sit the alternative Paper 032 instead of the internal assessment, and without a class they have to supply their own structure and marking. A plan built around the set texts, a tutor or study partner for feedback and practice in the Paper 032 format replaces what a school would give.
+                Private candidates sit the alternative Paper 032 instead of the internal assessment, and without a class they have to supply their own structure and marking. If your teen is studying this way, a plan built around the set texts, a tutor or study partner for feedback and practice in the Paper 032 format replaces what a school would give.
 
                 ## Milestones
                 1. Registration completed through the local registrar's office.
@@ -1066,7 +1068,7 @@ starter_structure:
             - name: Unit 1 scheme of work for a Literatures class
               description: |-
                 ## Purpose
-                For a teacher or lessons tutor, a scheme of work that sequences the set texts, the extract skills and the IA across the school year prevents the familiar crush of a novel taught in March. Writing it once, with assessments built in, also makes cover lessons and new colleagues easier.
+                For a teacher or tutor, a scheme of work that sequences the set texts, the extract skills and the IA across the school year prevents the familiar crush of a novel taught in March. If your teen has a tutor, this is a project to share with them. Writing it once, with assessments built in, also makes cover lessons and new colleagues easier.
 
                 ## Milestones
                 1. Set texts sequenced across three terms with a lesson count for each.
@@ -1091,7 +1093,7 @@ starter_structure:
             - name: Marking and moderating essays with the CXC criteria
               description: |-
                 ## Purpose
-                Teachers and tutors who mark to the published criteria, and agree standards with a colleague, give students marks they can trust and IA samples that hold up at moderation. A short moderation session each term keeps marking consistent across classes.
+                Teachers and tutors who mark to the published criteria, and agree standards with a colleague, give students marks they can trust and IA samples that hold up at moderation. A short moderation session each term keeps marking consistent across classes, so this project is one to pass on to a tutor or teacher who would value it.
 
                 ## Milestones
                 1. The current criteria for Paper 02 and the IA printed and annotated.
@@ -1115,7 +1117,7 @@ starter_structure:
                 Strong literature students can move between a play, a poem and a novel and say how each form handles the same concern. Writing three comparative essays across genres, even where the exam does not ask for it, trains the flexible thinking that lifts every answer.
 
                 ## Milestones
-                1. Three shared concerns identified across your set texts.
+                1. Three shared concerns identified across the set texts.
                 2. A comparative thesis written for each concern.
                 3. Three essays of exam length written and marked.
                 4. One idea from each essay added to the relevant text's notes.
@@ -1134,10 +1136,10 @@ starter_structure:
             - name: Wider Caribbean reading beyond the set list
               description: |-
                 ## Purpose
-                Reading around the set texts, especially other Caribbean writers such as Derek Walcott, Jean Rhys, Sam Selvon, Erna Brodber, Earl Lovelace or Olive Senior, gives you comparisons and context no study guide supplies. A steady queue of one book a month keeps reading a pleasure as well as a subject.
+                Reading around the set texts, especially other Caribbean writers such as Derek Walcott, Jean Rhys, Sam Selvon, Erna Brodber, Earl Lovelace or Olive Senior, gives your teen comparisons and context no study guide supplies. A steady queue of one book a month keeps reading a pleasure as well as a subject, and a book you read too makes for good conversation.
 
                 ## Milestones
-                1. A queue of six books linked to your set texts by theme, period or author.
+                1. A queue of six books linked to the set texts by theme, period or author.
                 2. One book read each month with a paragraph of notes.
                 3. At least one link from wider reading used in a timed essay.
                 4. The queue refreshed each term.
@@ -1151,18 +1153,18 @@ starter_structure:
                 success_criteria: "Six wider reading books logged with notes over six months, with at least one link used in a marked essay."
                 cadence: rolling
               tasks:
-                - "List six books linked to your set texts with your teacher's help"
+                - "List six books linked to the set texts with the teacher's help"
                 - "Read one wider reading book and note a paragraph @recurring(monthly:15)"
                 - "Use one wider reading link in a timed essay"
             - name: Reading towards literature at university
               description: |-
                 ## Purpose
-                Students thinking of English, literature or education degrees benefit from showing they read and write beyond the syllabus. A short portfolio of your two best essays, a reading record and a paragraph on why literature matters to you prepares you for applications and interviews whenever they come.
+                Students thinking of English, literature or education degrees benefit from showing they read and write beyond the syllabus. A short portfolio of their two best essays, a reading record and a paragraph on why literature matters to them prepares your teen for applications and interviews whenever they come. Let them lead, and offer to read the paragraph if they want a second opinion.
 
                 ## Milestones
-                1. Your two strongest essays revised into a clean portfolio copy.
+                1. Your teen's two strongest essays revised into a clean portfolio copy.
                 2. A reading record of books read beyond the set list.
-                3. A paragraph on what you want to study and why, reviewed by your teacher.
+                3. A paragraph on what they want to study and why, reviewed by the teacher.
                 4. Entry expectations listed for literature courses at two or three universities.
               priority: low
               frontmatter:
@@ -1172,14 +1174,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "Choose your two strongest marked essays"
+                - "Choose the two strongest marked essays"
                 - "Revise both essays into a clean portfolio copy"
-                - "Draft a paragraph on why you want to study literature"
+                - "Draft a paragraph on why they want to study literature"
                 - "List entry expectations for three literature degree courses"
 ---
 
 # CAPE Literatures in English
 
-CAPE Literatures in English rewards students who know their set plays, poems and novels closely and can argue about them under time, and this area is written for the sixth former first, then the parent and the teacher. It starts with the syllabus, your own copies of the texts and a two-year reading plan, sets up the weekly and monthly routines, works through the Unit 1 and Unit 2 drama, poetry and prose modules in syllabus order, builds exam technique and the internal assessment, and ends with mocks, exam day, and projects for parents, teachers, private candidates and keen readers.
+CAPE Literatures in English rewards students who know their set plays, poems and novels closely and can argue about them under time, and this area helps a parent or guardian back a sixth former who leads much of that work themselves, with projects for teachers and tutors too. It starts with the syllabus, your teen's own copies of the texts and a two-year reading plan, sets up the weekly and monthly routines, works through the Unit 1 and Unit 2 drama, poetry and prose modules in syllabus order, builds exam technique and the internal assessment, and ends with mocks, exam day, and projects for parents, teachers, private candidates and keen readers.
 
-The rhythms are a weekly rereading hour and reading circle, quotation cards twice a week, two timed essays a month, a monthly unseen extract, feedback review and wider reading book, and a termly talk with your teacher. The Metrics log, 1:1, Course and Reading queue templates pair with the feedback log, the teacher conference, the scheme of work and the wider reading queue. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythms are a weekly rereading hour and reading circle, quotation cards twice a week, two timed essays a month, a monthly unseen extract, feedback review and wider reading book, and a termly talk with the teacher, with your teen leading and you checking in. The Metrics log, 1:1, Course and Reading queue templates pair with the feedback log, the teacher conference, the scheme of work and the wider reading queue. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

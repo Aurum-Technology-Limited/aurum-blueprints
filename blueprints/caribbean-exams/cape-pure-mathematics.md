@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.cape-pure-mathematics
 name: CAPE Pure Mathematics
-description: "CAPE Pure Mathematics Units 1 and 2 module by module: logic, algebra, trigonometry, vectors, calculus, complex numbers, series, matrices and differential equations, plus the internal assessment, past papers and exam days."
+description: "CAPE Pure Mathematics Units 1 and 2 for parents and guardians of a sixth former: logic, algebra, trigonometry, vectors, calculus, complex numbers, series, matrices, differential equations, the IA and exam days."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, cape-pure-mathematics, cxc, cape, pure-mathematics, student, parent, educator, calculus, past-papers]
@@ -14,7 +14,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -24,16 +24,18 @@ starter_structure:
             - name: CAPE Pure Maths syllabus and paper format check
               description: |-
                 ## Purpose
-                Before any notes are written, the current CAPE Pure Mathematics syllabus from the CXC website should be on your desk, because it is the only document that says what each module covers, how Paper 01, Paper 02 and the internal assessment fit together, and what private candidates sit instead. Unit 1 and Unit 2 are separate examinations, so note the format for each and the date of every paper on the current timetable.
+                Before any notes are written, the current CAPE Pure Mathematics syllabus from the CXC website should be on your teen's desk, because it is the only document that says what each module covers, how Paper 01, Paper 02 and the internal assessment fit together, and what private candidates sit instead. Unit 1 and Unit 2 are separate examinations, so note the format for each and the date of every paper on the current timetable, ideally sitting down together to do it.
 
                 ## Milestones
-                1. The current CAPE Pure Mathematics syllabus downloaded from the CXC website and saved where you study.
+                1. The current CAPE Pure Mathematics syllabus downloaded from the CXC website and saved where your teen studies.
                 2. The three modules of Unit 1 and the three modules of Unit 2 listed on one page, with their sections in syllabus order.
                 3. The format of Paper 01, Paper 02, the internal assessment (Paper 031) and Paper 032 noted for each unit, copied only from the official document.
                 4. The calculator rules and any formula booklet supplied in the exam noted.
-                5. The paper dates for the unit you are sitting this year taken from the current CXC timetable and written on the family calendar.
+                5. The paper dates for the unit being sat this year taken from the current CXC timetable and written on the family calendar.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CAPE Pure Mathematics, and an older student can follow it with a parent's support.
+
                 Textbooks and notes passed down from older students are often written for an earlier syllabus. Tick each textbook chapter against the current syllabus and mark anything that has been added or dropped.
               priority: high
               deadlineOffsetDays: 7
@@ -46,18 +48,18 @@ starter_structure:
               tasks:
                 - "Download the current CAPE Pure Mathematics syllabus from the CXC website"
                 - "List the sections of all six modules on one page in syllabus order"
-                - "Note the format of Paper 01, Paper 02, Paper 031 and Paper 032 for your unit"
-                - "Check the current CXC timetable and note your Pure Maths paper dates"
+                - "Note the format of Paper 01, Paper 02, Paper 031 and Paper 032 for the unit being sat"
+                - "Check the current CXC timetable and note this year's Pure Maths paper dates"
             - name: Taking Unit 1, Unit 2 or both in one year
               description: |-
                 ## Purpose
-                Most schools teach Unit 1 in Lower Six and Unit 2 in Upper Six, but some students sit both units in one year, and some only ever need Unit 1. The right choice depends on what the degree you are aiming at asks for, how many other units you carry and how secure your Add Maths left you, so it is worth deciding on purpose rather than by default.
+                Most schools teach Unit 1 in Lower Six and Unit 2 in Upper Six, but some students sit both units in one year, and some only ever need Unit 1. The right choice depends on what the degree your teen is aiming at asks for, how many other units they carry and how secure their Add Maths left them, so it is worth deciding together and on purpose rather than by default.
 
                 ## Milestones
                 1. The entry requirements of two or three target programmes checked for whether they ask for one Pure Maths unit or both.
-                2. Your full CAPE unit load for each year written out, with Pure Maths in it.
-                3. A conversation held with the maths teacher about your CSEC Add Maths grade and readiness.
-                4. A decision recorded on which units to sit and in which year, agreed with a parent.
+                2. The full CAPE unit load for each year written out, with Pure Maths in it.
+                3. A conversation held with the maths teacher about the CSEC Add Maths grade and readiness.
+                4. A decision recorded on which units to sit and in which year, agreed between your teen and you.
 
                 ## Notes
                 Scholarship and university application rules have their own area. Here the question is only the order and number of Pure Maths units.
@@ -71,9 +73,9 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "Look up whether two target degree programmes ask for Unit 1 only or both units"
-                - "Write out your full CAPE unit load for Lower Six and Upper Six"
-                - "Ask your maths teacher whether your Add Maths grade suggests extra preparation"
-                - "Record the unit plan and its reasons, and share it with a parent"
+                - "Write out the full CAPE unit load for Lower Six and Upper Six"
+                - "Ask the maths teacher whether their Add Maths grade suggests extra preparation"
+                - "Record the unit plan and its reasons, and agree it together"
             - name: Bridging diagnostic from CSEC Add Maths to CAPE
               description: |-
                 ## Purpose
@@ -99,16 +101,16 @@ starter_structure:
                 - "Choose twenty-five CSEC Add Maths past-paper questions across all sections"
                 - "Sit the diagnostic in two hours with no notes"
                 - "Mark it and total the score for each skill group"
-                - "Agree a three-week bridging plan for the weakest skills with your teacher"
+                - "Agree a three-week bridging plan for the weakest skills with the teacher"
             - name: Choosing an approved calculator for CAPE Pure Maths
               description: |-
                 ## Purpose
-                Exam rules restrict which calculators are allowed, and a student who practises for two years on one model and is then told it is not permitted loses time on a borrowed one. Settle on a model the rules allow, learn its menus for logarithms, trigonometry in radians and numerical checks, and use it for every timed paper.
+                Exam rules restrict which calculators are allowed, and a student who practises for two years on one model and is then told it is not permitted loses time on a borrowed one. Make sure the calculator they practise with is a model the rules allow and the one going into the exam, and that they learn its menus for logarithms, trigonometry in radians and numerical checks.
 
                 ## Milestones
                 1. The calculator rules in the syllabus and the current CXC regulations read and noted.
-                2. Two or three permitted models compared on price, battery and the functions you use.
-                3. One calculator bought or borrowed and labelled with your name.
+                2. Two or three permitted models compared on price, battery and the functions your teen uses.
+                3. One calculator bought or borrowed and labelled with your teen's name.
                 4. Switching between degrees and radians practised until it takes seconds.
 
                 ## Notes
@@ -118,13 +120,13 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A permitted calculator is in your bag, labelled, and you can switch angle modes and evaluate logarithms and trigonometric values on it without looking anything up."
+                success_criteria: "A permitted calculator is in your teen's bag, labelled, and they can switch angle modes and evaluate logarithms and trigonometric values on it without looking anything up."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
                 - "Read the calculator rules in the syllabus and current CXC regulations"
-                - "Compare two or three permitted models in your price range"
-                - "Buy or borrow the calculator you chose and label it"
+                - "Compare two or three permitted models in the family's price range"
+                - "Buy or borrow the chosen calculator and label it"
                 - "Practise switching between degree and radian mode until it is automatic"
             - name: Two-year Pure Maths study timetable counted back from the sittings
               description: |-
@@ -136,7 +138,7 @@ starter_structure:
                 2. Each module given its teaching weeks, matching the school's scheme of work.
                 3. Four to six fixed Pure Maths study slots a week written into the household timetable.
                 4. The final eight weeks before each sitting kept clear for past papers and repair.
-                5. The timetable reviewed with a parent or teacher and pinned where you study.
+                5. The timetable reviewed together or with the teacher and pinned where your teen studies.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -146,14 +148,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for the scheme of work and internal assessment dates"
+                - "Ask the teacher for the scheme of work and internal assessment dates"
                 - "Mark each sitting date and work back eight weeks for revision"
                 - "Assign teaching and practice weeks to each module in order"
-                - "Fix four to six weekly study slots around your other CAPE units"
+                - "Fix four to six weekly study slots around their other CAPE units"
             - name: Past paper bank sorted by unit and module
               description: |-
                 ## Purpose
-                Past papers are the best practice material for Pure Maths, but a folder of loose files is hard to use by topic. Sorting every Paper 02 question you can get by module and section means each topic project can end on real exam questions, while a few whole papers stay untouched for timed practice later.
+                Past papers are the best practice material for Pure Maths, but a folder of loose files is hard to use by topic. Sorting every available Paper 02 question by module and section means each topic project can end on real exam questions, while a few whole papers stay untouched for timed practice later.
 
                 ## Milestones
                 1. Past Paper 01 and Paper 02 papers for both units gathered from the school, the teacher and the official CXC store.
@@ -175,7 +177,7 @@ starter_structure:
             - name: Handwritten results and formula sheets for each module
               description: |-
                 ## Purpose
-                Pure Maths papers expect you to know identities, standard derivatives and integrals, series expansions and results such as De Moivre's theorem, and not all of them are printed in any formula booklet. Writing one sheet per module in your own hand, and checking which items the booklet supplies, shows exactly what must be memorised.
+                Pure Maths papers expect candidates to know identities, standard derivatives and integrals, series expansions and results such as De Moivre's theorem, and not all of them are printed in any formula booklet. Writing one sheet per module by hand, and checking which items the booklet supplies, shows exactly what must be memorised.
 
                 ## Milestones
                 1. The contents of the exam formula booklet, if one is supplied, checked against the syllabus.
@@ -186,18 +188,18 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "Six module sheets exist in your handwriting and each has been rewritten from memory with no more than two errors."
+                success_criteria: "Six module sheets exist in your teen's handwriting and each has been rewritten from memory with no more than two errors."
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
                 - "Check which formulae the exam booklet supplies for Pure Maths"
                 - "Write the first module's sheet of results the booklet leaves out"
                 - "Rewrite one module sheet from memory and correct it @recurring(weekly:mon)"
-                - "File the finished sheets at the front of your study folder"
+                - "File the finished sheets at the front of the study folder"
             - name: Error log and proof notebook
               description: |-
                 ## Purpose
-                Pure Maths marks are lost in the same few ways: a sign dropped in an integral, an identity misremembered, a proof that assumes what it set out to show. A notebook that records each mistake with the corrected line, beside a section of proofs written out properly, turns every marked exercise into something you will not repeat.
+                Pure Maths marks are lost in the same few ways: a sign dropped in an integral, an identity misremembered, a proof that assumes what it set out to show. A notebook that records each mistake with the corrected line, beside a section of proofs written out properly, turns every marked exercise into something your teen will not repeat.
 
                 ## Milestones
                 1. A notebook with an error section and a proof section set up.
@@ -216,8 +218,8 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Set up a notebook with separate error and proof sections"
-                - "Log every mistake from your last marked exercise with its cause"
-                - "Write out your first proof in full, one justified line at a time"
+                - "Log every mistake from the last marked exercise with its cause"
+                - "Write out a first proof in full, one justified line at a time"
                 - "Pick five short labels to use for error causes"
             - name: Daily twenty-five-minute technique drill
               description: |-
@@ -252,7 +254,7 @@ starter_structure:
                 1. A source of graded exercises chosen for each module, such as the textbook and the past paper index.
                 2. Eight to ten questions on that week's section attempted each week.
                 3. Every set marked against worked solutions, with errors logged.
-                4. Questions you cannot finish taken to the teacher or tutor within the week.
+                4. Questions that cannot be finished taken to the teacher or tutor within the week.
               priority: medium
               frontmatter:
                 mode: operating
@@ -263,7 +265,7 @@ starter_structure:
                 - "Pick the textbook exercise and past questions for this week's section"
                 - "Attempt eight to ten questions on the current section @recurring(weekly:tue)"
                 - "Mark the set against worked solutions and log the errors"
-                - "Take the questions you could not finish to your teacher that week"
+                - "Take any unfinished questions to the teacher that week"
             - name: Saturday timed Paper 02 question
               description: |-
                 ## Purpose
@@ -305,11 +307,11 @@ starter_structure:
                 - "Reread this week's error entries @recurring(weekly:sun)"
                 - "Solve one similar question correctly for each logged error"
                 - "Move any cause that appears three times onto a warning list"
-                - "Read the warning list before your next timed question"
+                - "Read the warning list before the next timed question"
             - name: Monthly timed multiple choice set
               description: |-
                 ## Purpose
-                Paper 01 rewards quick recognition and checking across the whole unit, a different skill from the long working of Paper 02. A timed multiple choice set each month, drawn from every section taught so far, keeps early modules alive and shows which ones you are guessing on.
+                Paper 01 rewards quick recognition and checking across the whole unit, a different skill from the long working of Paper 02. A timed multiple choice set each month, drawn from every section taught so far, keeps early modules alive and shows which ones your teen is guessing on.
 
                 ## Milestones
                 1. A bank of past Paper 01 questions sorted by module.
@@ -323,7 +325,7 @@ starter_structure:
                 success_criteria: "A multiple choice score is recorded for each month of the course, with every wrong answer traced to its section."
                 cadence: rolling
               tasks:
-                - "Sort the past Paper 01 questions you have by module"
+                - "Sort the available past Paper 01 questions by module"
                 - "Sit a timed mixed multiple choice set @recurring(monthly:9)"
                 - "Record the score and the section behind each wrong answer"
                 - "Add the weakest section to next week's exercise set"
@@ -351,7 +353,7 @@ starter_structure:
             - name: Pure Maths score log by module and paper
               description: |-
                 ## Purpose
-                Without numbers, it is easy to feel ready in a module that keeps losing marks. A simple log of every timed question, set and paper, grouped by module, shows where the marks are going and gives the teacher and parent the same picture you have.
+                Without numbers, it is easy to feel ready in a module that keeps losing marks. A simple log of every timed question, set and paper, grouped by module, shows where the marks are going and gives the teacher and you the same picture your teen has.
 
                 ## Milestones
                 1. A log with columns for date, paper type, module, score and time.
@@ -378,7 +380,7 @@ starter_structure:
                 Parents rarely know the content of CAPE Pure Maths, and do not need to in order to help. A short monthly conversation built around the score log, the timetable and the next internal assessment date lets a parent notice slipping study time, missing materials or a need for lessons, without reteaching any mathematics.
 
                 ## Milestones
-                1. A fixed monthly time agreed between parent and student.
+                1. A fixed monthly time agreed with your teen.
                 2. The score log, timetable and internal assessment dates looked at together each month.
                 3. One practical help agreed each time, such as quiet hours, transport or a past paper purchase.
                 4. Concerns raised with the teacher within two weeks if scores slip two months in a row.
@@ -417,11 +419,11 @@ starter_structure:
                 - "Build the five basic truth tables from memory and check them"
                 - "Write the converse, inverse and contrapositive of five statements"
                 - "Prove one equivalence by truth table and again by algebra of propositions"
-                - "Complete eight past-paper logic questions from your index"
+                - "Complete eight past-paper logic questions from the index"
             - name: Real number system and methods of proof
               description: |-
                 ## Purpose
-                The real number system section asks you to work with number sets and binary operations and their properties, and to prove simple results directly, by contradiction or by counter-example. Writing short proofs with every step justified is a new demand after CSEC, and it is far easier to learn on simple number results than on calculus later.
+                The real number system section asks students to work with number sets and binary operations and their properties, and to prove simple results directly, by contradiction or by counter-example. Writing short proofs with every step justified is a new demand after CSEC, and it is far easier to learn on simple number results than on calculus later.
 
                 ## Milestones
                 1. The number sets and the properties of binary operations stated with an example of each.
@@ -466,7 +468,7 @@ starter_structure:
             - name: Functions, inverses, exponentials and logarithms
               description: |-
                 ## Purpose
-                The functions section asks you to decide whether a function is one-to-one or onto, find composites and inverses with their domains, sketch exponential and logarithmic graphs and solve equations that mix them. Domain and range are where marks quietly disappear, so every answer here should state them.
+                The functions section asks students to decide whether a function is one-to-one or onto, find composites and inverses with their domains, sketch exponential and logarithmic graphs and solve equations that mix them. Domain and range are where marks quietly disappear, so every answer here should state them.
 
                 ## Milestones
                 1. One-to-one, onto and bijective functions identified with a reason each.
@@ -578,7 +580,7 @@ starter_structure:
             - name: Vectors in three dimensions, lines and planes
               description: |-
                 ## Purpose
-                Three-dimensional vectors bring the scalar product, the angle between vectors, and the vector and Cartesian equations of lines and planes. Most errors come from mixing up direction and position vectors, so draw a rough sketch even when the question does not ask for one.
+                Three-dimensional vectors bring the scalar product, the angle between vectors, and the vector and Cartesian equations of lines and planes. Most errors come from mixing up direction and position vectors, so a rough sketch is worth drawing even when the question does not ask for one.
 
                 ## Milestones
                 1. Magnitude, unit vectors and the scalar product used to find angles.
@@ -624,7 +626,7 @@ starter_structure:
             - name: Differentiation techniques and their applications
               description: |-
                 ## Purpose
-                Product, quotient and chain rules and the derivatives of trigonometric functions feed straight into tangents and normals, stationary points, curve sketching and rates of change. Applications questions are long, so set out each step the same way: derivative, set to zero, solve, classify, interpret.
+                Product, quotient and chain rules and the derivatives of trigonometric functions feed straight into tangents and normals, stationary points, curve sketching and rates of change. Applications questions are long, so it pays to set out each step the same way: derivative, set to zero, solve, classify, interpret.
 
                 ## Milestones
                 1. Twenty functions differentiated using the product, quotient and chain rules.
@@ -663,14 +665,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "Write the standard integrals your syllabus lists and test yourself"
+                - "Write the standard integrals the syllabus lists and self-test on them"
                 - "Find three areas between curves, sketching each region first"
                 - "Calculate three volumes of revolution about the named axis"
                 - "Complete eight past-paper Unit 1 integration questions"
             - name: Complex numbers, Argand diagrams and De Moivre's theorem
               description: |-
                 ## Purpose
-                Unit 2 opens with complex numbers: arithmetic, the Argand diagram, modulus and argument, De Moivre's theorem, the exponential form and loci in the complex plane. The argument is the most common source of lost marks, so mark the quadrant on a sketch before reaching for the calculator.
+                Unit 2 opens with complex numbers: arithmetic, the Argand diagram, modulus and argument, De Moivre's theorem, the exponential form and loci in the complex plane. The argument is the most common source of lost marks, so the quadrant should be marked on a sketch before reaching for the calculator.
 
                 ## Milestones
                 1. Complex arithmetic, conjugates and square roots of complex numbers done by hand.
@@ -761,17 +763,17 @@ starter_structure:
             - name: Proof by mathematical induction
               description: |-
                 ## Purpose
-                Induction questions follow a fixed shape: base case, assumption, the step from k to k plus 1, and a conclusion, and examiners give marks for each part. Students who know the shape still lose marks in the algebra of the inductive step, so practise on sums and divisibility until that step is routine.
+                Induction questions follow a fixed shape: base case, assumption, the step from k to k plus 1, and a conclusion, and examiners give marks for each part. Students who know the shape still lose marks in the algebra of the inductive step, so practice on sums and divisibility should continue until that step is routine.
 
                 ## Milestones
-                1. The four-part structure of an induction proof written in your own words.
+                1. The four-part structure of an induction proof written out in plain words.
                 2. Five summation results proved by induction.
                 3. Three divisibility results proved by induction.
                 4. A full concluding sentence written on every proof.
                 5. Six past-paper induction questions completed and marked.
 
                 ## Notes
-                Check where your syllabus first introduces induction. If it appears earlier in your course, do this project then and come back to it before the Unit 2 exam.
+                Check where the current syllabus first introduces induction. If it appears earlier in the course, do this project then and come back to it before the Unit 2 exam.
               priority: medium
               frontmatter:
                 mode: learning
@@ -780,14 +782,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Write the four-part structure of an induction proof in your notebook"
+                - "Write the four-part structure of an induction proof in the proof notebook"
                 - "Prove five summation results by induction"
                 - "Prove three divisibility results by induction"
                 - "Complete six past-paper induction questions"
             - name: Binomial expansions and Maclaurin and Taylor series
               description: |-
                 ## Purpose
-                The binomial theorem leads into Maclaurin and Taylor series for standard functions and their use in approximation. Validity conditions are the detail most often missed, so state the range of x for which each expansion holds every time one applies.
+                The binomial theorem leads into Maclaurin and Taylor series for standard functions and their use in approximation. Validity conditions are the detail most often missed, so the range of x for which each expansion holds should be stated every time one applies.
 
                 ## Milestones
                 1. Binomial coefficients and the general term used to find specific terms.
@@ -810,7 +812,7 @@ starter_structure:
             - name: Numerical methods for roots of equations
               description: |-
                 ## Purpose
-                Not every equation can be solved exactly, and this section asks you to locate a root with the intermediate value theorem, then refine it by interval bisection, linear interpolation and the Newton-Raphson method. A neat table of iterations is the clearest way to earn method marks and to spot an iteration that is drifting.
+                Not every equation can be solved exactly, and this section asks candidates to locate a root with the intermediate value theorem, then refine it by interval bisection, linear interpolation and the Newton-Raphson method. A neat table of iterations is the clearest way to earn method marks and to spot an iteration that is drifting.
 
                 ## Milestones
                 1. A root located between two values by a sign change, with the reason stated.
@@ -902,11 +904,11 @@ starter_structure:
             - name: Internal assessment requirements and dates
               description: |-
                 ## Purpose
-                Paper 031, the internal assessment, is set and marked in school and moderated by CXC, and its form has changed between syllabus versions. Reading the internal assessment section of the current syllabus and getting your school's dates in writing in the first month means no component arrives as a surprise.
+                Paper 031, the internal assessment, is set and marked in school and moderated by CXC, and its form has changed between syllabus versions. Reading the internal assessment section of the current syllabus and getting the school's dates in writing in the first month means no component arrives as a surprise, for your teen or for you.
 
                 ## Milestones
                 1. The internal assessment section of the current syllabus read and its requirements summarised in a few lines.
-                2. Your school's dates for each internal assessment component of this unit obtained from the teacher.
+                2. The school's dates for each internal assessment component of this unit obtained from the teacher.
                 3. The dates added to the study timetable with a revision week before each.
                 4. The school's rules for a missed component, for example through illness, understood and noted.
               priority: high
@@ -919,13 +921,13 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Read the internal assessment section of the current syllabus"
-                - "Summarise what the internal assessment asks of you in five lines"
-                - "Ask your teacher for the dates of each internal assessment component"
-                - "Add each date to your timetable with a revision week before it"
+                - "Summarise what the internal assessment asks of your teen in five lines"
+                - "Ask the teacher for the dates of each internal assessment component"
+                - "Add each date to the timetable with a revision week before it"
             - name: Preparing for and completing each internal assessment component
               description: |-
                 ## Purpose
-                Internal assessment marks are banked before the written papers, so each component done well takes pressure off the exam. Treat every component like a small exam: revise the module it covers, practise under the same conditions, and keep the marked work and feedback.
+                Internal assessment marks are banked before the written papers, so each component done well takes pressure off the exam. Treating every component like a small exam, by revising the module it covers, practising under the same conditions and keeping the marked work and feedback, is the habit worth encouraging.
 
                 ## Milestones
                 1. A revision plan for the module each component covers, finished a week before it.
@@ -949,32 +951,32 @@ starter_structure:
             - name: Mark schemes and examiner reports for Pure Maths
               description: |-
                 ## Purpose
-                CXC subject reports describe, paper by paper, where candidates lost marks and what good answers did, and mark schemes show exactly which lines earn method and accuracy marks. Reading one report a month changes how you set out working more than another exercise would.
+                CXC subject reports describe, paper by paper, where candidates lost marks and what good answers did, and mark schemes show exactly which lines earn method and accuracy marks. Reading one report a month changes how a student sets out working more than another exercise would.
 
                 ## Milestones
-                1. Subject reports for the last few years gathered for your unit.
+                1. Subject reports for the last few years gathered for the unit being sat.
                 2. Common weaknesses from each report copied onto one page by module.
-                3. Two of your own past-paper answers remarked strictly against the official scheme.
-                4. Three presentation rules for your own working written from what the reports praise.
+                3. Two past-paper answers of their own remarked strictly against the official scheme.
+                4. Three presentation rules for setting out working written from what the reports praise.
               priority: medium
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A one-page list of examiner-reported weaknesses by module exists, with three presentation rules you now follow in timed work."
+                success_criteria: "A one-page list of examiner-reported weaknesses by module exists, with three presentation rules now followed in timed work."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
                 - "Download recent CAPE Pure Mathematics subject reports from the CXC website"
                 - "Read one subject report and note the weaknesses by module @recurring(monthly:19)"
-                - "Remark two of your own answers strictly with the official scheme"
-                - "Write three presentation rules for your working from the reports"
+                - "Remark two earlier answers strictly with the official scheme"
+                - "Write three presentation rules for setting out working from the reports"
             - name: Paper 02 timing, question order and presentation plan
               description: |-
                 ## Purpose
-                Strong students lose Paper 02 marks by spending too long on a question they half know, or by writing a correct answer with no visible method. A planned order of attack, a time cut-off per question and a habit of giving the reason for each step protect the marks you already have the mathematics for.
+                Strong students lose Paper 02 marks by spending too long on a question they half know, or by writing a correct answer with no visible method. A planned order of attack, a time cut-off per question and a habit of giving the reason for each step protect the marks your teen already has the mathematics for.
 
                 ## Milestones
-                1. A preferred order of attack chosen, starting with your strongest module.
+                1. A preferred order of attack chosen, starting with the strongest module.
                 2. A time cut-off fixed for each question, with a rule for moving on from a stuck part.
                 3. Two timed Paper 02 sections sat using the plan.
                 4. The plan adjusted after marking and written on one card.
@@ -988,9 +990,9 @@ starter_structure:
               tasks:
                 - "Rank the Paper 02 modules from strongest to weakest"
                 - "Decide when to leave a stuck part and come back to it"
-                - "Sit one timed Paper 02 section using your planned order"
+                - "Sit one timed Paper 02 section using the planned order"
                 - "Adjust the plan after marking and write the final version on a card"
-            - name: School mock exam for your Pure Maths unit
+            - name: School mock exam for the Pure Maths unit
               description: |-
                 ## Purpose
                 A mock is the only full rehearsal under exam conditions before the real sitting, and its result decides where the last two months go. Preparing for it like the real thing, then analysing the marked script module by module, is worth more than the grade itself.
@@ -998,7 +1000,7 @@ starter_structure:
                 ## Milestones
                 1. The mock date and papers confirmed with the school.
                 2. Two weeks of revision across all three modules of the unit completed.
-                3. The mock sat with the calculator, equipment and timing you will use in the real exam.
+                3. The mock sat with the calculator, equipment and timing that will be used in the real exam.
                 4. The marked script analysed by module, and the three weakest sections chosen for the final weeks.
               priority: high
               deadlineOffsetDays: 165
@@ -1011,7 +1013,7 @@ starter_structure:
               tasks:
                 - "Confirm the mock dates and which papers will be set"
                 - "Plan two weeks of revision covering all three modules"
-                - "Sit the mock with your exam calculator and equipment"
+                - "Sit the mock with the exam calculator and equipment"
                 - "Analyse the marked script by module and name three weak sections"
             - name: Final eight weeks Pure Maths revision plan
               description: |-
@@ -1039,7 +1041,7 @@ starter_structure:
             - name: Last full past paper under exam conditions
               description: |-
                 ## Purpose
-                About a week before the sitting, one complete unseen Paper 01 and Paper 02 sat at the real start time with the real equipment confirms your timing and settles nerves. Hold back your most recent paper for this so the questions are fresh.
+                About a week before the sitting, one complete unseen Paper 01 and Paper 02 sat at the real start time with the real equipment confirms your teen's timing and settles nerves. Holding back the most recent paper for this keeps the questions fresh, and you can offer to hand it over and keep time as an invigilator would.
 
                 ## Milestones
                 1. The most recent unseen paper kept unopened for this session.
@@ -1062,7 +1064,7 @@ starter_structure:
             - name: Pure Maths exam days and the night before
               description: |-
                 ## Purpose
-                Small things decide exam mornings: a flat calculator battery, a forgotten candidate number, a late ride. A checked list the night before and a calm routine for the morning leave all your attention for the mathematics.
+                Small things decide exam mornings: a flat calculator battery, a forgotten candidate number, a late ride. A checked list the night before and a calm routine for the morning leave all their attention for the mathematics.
 
                 ## Milestones
                 1. Candidate number, paper times and exam room confirmed.
@@ -1079,10 +1081,10 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Confirm your candidate number and each paper's time and room"
+                - "Confirm the candidate number and each paper's time and room"
                 - "Pack the calculator, spare battery, pens, ruler and compasses the night before"
                 - "Arrange transport to arrive early with a backup ride"
-                - "Read your warning list and formula sheets, then stop and sleep"
+                - "Read the warning list and formula sheets, then stop and sleep"
             - name: Choosing a Pure Maths lessons class or tutor
               description: |-
                 ## Purpose
@@ -1135,7 +1137,7 @@ starter_structure:
             - name: Teacher module test bank and marking calendar
               description: |-
                 ## Purpose
-                For teachers and lessons tutors, a bank of short tests per module, mapped to syllabus objectives and set under internal assessment conditions, makes setting, marking and moderation predictable. A shared calendar of setting, marking and feedback dates keeps a Lower Six and an Upper Six class on schedule at the same time.
+                For teachers and lessons tutors, a bank of short tests per module, mapped to syllabus objectives and set under internal assessment conditions, makes setting, marking and moderation predictable. A shared calendar of setting, marking and feedback dates keeps a Lower Six and an Upper Six class on schedule at the same time. If your teen has a lessons tutor, this is a project to share with them.
 
                 ## Milestones
                 1. A test bank with at least two tests per module, each mapped to syllabus objectives.
@@ -1173,11 +1175,11 @@ starter_structure:
                 - "Ask the teacher to suggest a collection of harder problems"
                 - "Attempt one stretch problem for an hour @recurring(weekly:thu)"
                 - "Write up each solved problem in full in the proof notebook"
-                - "Explain one solution to your teacher or the class"
+                - "Explain one solution to the teacher or the class"
 ---
 
 # CAPE Pure Mathematics
 
-This area is for a Lower Six or Upper Six student taking CAPE Pure Mathematics, and for the parents, teachers and lessons tutors behind them. It starts with the foundations (the current syllabus, a choice of units, a bridging diagnostic from CSEC Add Maths, a calculator, a two-year timetable and a sorted past paper bank), then the weekly practice machinery, then one project per section in syllabus order through the three modules of Unit 1 and the three of Unit 2, each ending on past-paper questions. After those come the internal assessment, mark schemes and paper strategy, the mock, the final weeks and exam days, and projects for parents choosing lessons, private candidates, teachers and students reaching beyond the syllabus.
+This area is for the parent or guardian of a Lower Six or Upper Six student taking CAPE Pure Mathematics, with projects that also suit their teachers and lessons tutors. It starts with the foundations (the current syllabus, a choice of units, a bridging diagnostic from CSEC Add Maths, a calculator, a two-year timetable and a sorted past paper bank), then the weekly practice machinery, then one project per section in syllabus order through the three modules of Unit 1 and the three of Unit 2, each ending on past-paper questions. After those come the internal assessment, mark schemes and paper strategy, the mock, the final weeks and exam days, and projects on choosing lessons, the private candidate route, teachers and students reaching beyond the syllabus.
 
-What repeats is a daily technique drill, midweek exercise sets and spaced review, a Saturday timed Paper 02 question, a Sunday error log review, monthly multiple choice sets, score summaries and examiner report reading, and a monthly parent check-in. The Habit tracker, Metrics log and Purchase decision templates pair with the projects that name them. Deadlines assume roughly eight months to the May to June sitting, so shift them once CXC publishes the timetable and your school sets its internal assessment dates. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a daily technique drill, midweek exercise sets and spaced review, a Saturday timed Paper 02 question, a Sunday error log review, monthly multiple choice sets, score summaries and examiner report reading, and a monthly check-in with you. The Habit tracker, Metrics log and Purchase decision templates pair with the projects that name them. Deadlines assume roughly eight months to the May to June sitting, so shift them once CXC publishes the timetable and the school sets its internal assessment dates. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

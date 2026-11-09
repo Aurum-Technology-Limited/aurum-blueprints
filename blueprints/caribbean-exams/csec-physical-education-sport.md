@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-physical-education-sport
 name: CSEC Physical Education and Sport
-description: "A complete CSEC Physical Education and Sport plan: the current syllabus and papers, anatomy, fitness and training, sport in Caribbean society, practical activities, the SBA, timed past papers, the mock and exam day."
+description: "The current CSEC Physical Education and Sport syllabus and papers, anatomy, fitness and training, sport in Caribbean society, practical activities, the SBA, past papers, the mock and exam day, for parents supporting a student."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-physical-education-sport, student, athlete, educator, cxc, csec, physical-education]
@@ -17,7 +17,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -27,15 +27,17 @@ starter_structure:
             - name: Current CSEC PE and Sport syllabus and assessment format check
               description: |-
                 ## Purpose
-                CSEC Physical Education and Sport is examined through written papers (a multiple-choice Paper 01 and a written Paper 02) and a school-based assessment, Paper 031, that carries your practical performance, but the activity lists, the written SBA requirements and the paper details change between syllabus editions. Reading the current syllabus from the CXC website before anything else means your theory notes and your practical choices aim at the exam you will actually sit.
+                CSEC Physical Education and Sport is examined through written papers (a multiple-choice Paper 01 and a written Paper 02) and a school-based assessment, Paper 031, that carries your teen's practical performance, but the activity lists, the written SBA requirements and the paper details change between syllabus editions. Reading the current syllabus from the CXC website before anything else means their theory notes and practical choices aim at the exam they will actually sit.
 
                 ## Milestones
                 1. The current CSEC Physical Education and Sport syllabus downloaded from the CXC website and its edition year noted.
                 2. The format of each paper and of the SBA written on one page in the syllabus's own words.
-                3. The syllabus sections, specific objectives and practical activity categories copied into your notes.
-                4. The May to June sitting confirmed with your school and the PE dates noted once the timetable is published.
+                3. The syllabus sections, specific objectives and practical activity categories copied into the notes.
+                4. The May to June sitting your teen is entered for confirmed with the school and the PE dates noted once the timetable is published.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CSEC Physical Education and Sport, and an older student can follow it with a parent's support.
+
                 Coaching manuals and older revision guides may use different terms from the syllabus, for example for fitness components or training principles. When they disagree, use the wording in the CXC document, because the mark scheme does.
               priority: high
               deadlineOffsetDays: 10
@@ -72,44 +74,44 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher for one past Paper 01 and three Paper 02 questions"
+                - "Ask the teacher for one past Paper 01 and three Paper 02 questions"
                 - "Attempt them without notes in a quiet room"
                 - "Mark the answers and tag each lost mark with its syllabus topic"
                 - "Rate every topic from one to five in a skills matrix"
-            - name: Choosing your practical activities for assessment
+            - name: Choosing the practical activities for assessment
               description: |-
                 ## Purpose
-                The practical part of the SBA is assessed in activities chosen from the categories the syllabus lists, and the choice shapes two years of training. A footballer who picks only invasion games may struggle if the syllabus asks for activities from more than one category, so weigh your strengths, your school's facilities and coaching, and when each activity's season falls before your teacher fixes the list.
+                The practical part of the SBA is assessed in activities chosen from the categories the syllabus lists, and the choice shapes two years of training. A footballer who picks only invasion games may struggle if the syllabus asks for activities from more than one category, so help your teen weigh their strengths, the school's facilities and coaching, and when each activity's season falls before the PE teacher fixes the list.
 
                 ## Milestones
-                1. The syllabus activity categories and your school's offered activities listed side by side.
+                1. The syllabus activity categories and the school's offered activities listed side by side.
                 2. Each candidate activity scored for current skill level, access to facilities and coaching, and season timing.
-                3. A final set of activities agreed with your PE teacher that meets the syllabus rules on categories.
-                4. The assessment window for each chosen activity noted in your plan.
+                3. A final set of activities agreed with the PE teacher that meets the syllabus rules on categories.
+                4. The assessment window for each chosen activity noted in the plan.
 
                 ## Notes
-                Choose at least one activity you can practise all year. Swimming without regular pool access, or a sport whose season ends before the assessment window, is a common regret.
+                Encourage at least one activity they can practise all year. Swimming without regular pool access, or a sport whose season ends before the assessment window, is a common regret.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A list of practical activities that satisfies the current syllabus category rules is agreed with your PE teacher and written in your plan."
+                success_criteria: "A list of practical activities that satisfies the current syllabus category rules is agreed with the PE teacher and written in the plan."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "List the activities your school can assess against the syllabus categories"
+                - "List the activities the school can assess against the syllabus categories"
                 - "Score each option for skill, facilities, coaching and season timing"
-                - "Discuss the shortlist with your PE teacher"
-                - "Write the agreed activities and their assessment windows in your plan"
+                - "Your teen discusses the shortlist with their PE teacher"
+                - "Write the agreed activities and their assessment windows in the plan"
             - name: Two-year CSEC PE and Sport study and training plan
               description: |-
                 ## Purpose
                 PE and Sport is usually spread over fourth and fifth form, and the theory topics, practical assessments, written SBA work, the mock and revision all compete for the same months, often alongside a sports season. Placing every syllabus topic and every assessment window on one page shows early whether the pace works or needs extra hours.
 
                 ## Milestones
-                1. Each syllabus topic placed in a term, following your school's scheme of work.
-                2. Practical assessment windows, SBA deadlines and your main competition dates marked.
+                1. Each syllabus topic placed in a term, following the school's scheme of work.
+                2. Practical assessment windows, SBA deadlines and main competition dates marked.
                 3. The mock exam and the final eight weeks of revision blocked out.
                 4. The plan checked each month and any slipped topic moved to a new slot.
               priority: high
@@ -121,9 +123,9 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for the scheme of work showing the topics for each term"
+                - "Ask the teacher for the scheme of work showing the topics for each term"
                 - "Place every syllabus topic in a term on a one-page plan"
-                - "Mark practical windows, SBA deadlines and your competition calendar"
+                - "Mark practical windows, SBA deadlines and the competition calendar"
                 - "Compare progress with the plan and move any slipped topic @recurring(monthly:4)"
             - name: Command words and how PE theory answers earn marks
               description: |-
@@ -134,7 +136,7 @@ starter_structure:
                 1. A one-page list of the command words used in recent PE papers, each with what it demands.
                 2. Five past Paper 02 answers rewritten to match their command word exactly.
                 3. A named sport, position or event included in every 'apply' answer.
-                4. One set of rewritten answers checked against the mark scheme by your teacher.
+                4. One set of rewritten answers checked against the mark scheme by the teacher.
               priority: medium
               frontmatter:
                 mode: learning
@@ -146,11 +148,11 @@ starter_structure:
                 - "Collect the command words from two recent Paper 02 questions"
                 - "Write what each command word asks for in one line"
                 - "Rewrite five old answers to fit their command word"
-                - "Ask your teacher to check one rewritten set against the mark scheme"
+                - "Ask the teacher to check one rewritten set against the mark scheme"
             - name: Graphs, heart rate data and fitness test tables
               description: |-
                 ## Purpose
-                Data questions hand you a heart rate graph from a race, a table of fitness test results or a chart of participation figures and ask what it shows. Reading the axes, quoting numbers with units and linking a trend to a cause, such as the anticipatory rise, steady state or recovery, is a separate skill from knowing the theory, and it is quick to practise.
+                Data questions hand candidates a heart rate graph from a race, a table of fitness test results or a chart of participation figures and ask what it shows. Reading the axes, quoting numbers with units and linking a trend to a cause, such as the anticipatory rise, steady state or recovery, is a separate skill from knowing the theory, and it is quick to practise.
 
                 ## Milestones
                 1. The anticipatory rise, steady state and recovery phases identified on three heart rate graphs.
@@ -165,18 +167,18 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "3"
               tasks:
-                - "Find three heart rate graphs in past papers or your textbook"
+                - "Find three heart rate graphs in past papers or the textbook"
                 - "Label the anticipatory rise, steady state and recovery on each"
                 - "Write a three-step method for describing any trend"
                 - "Answer six past data questions and mark them"
             - name: Caribbean sport examples bank for theory answers
               description: |-
                 ## Purpose
-                Answers that name a real Caribbean athlete, team or event read as stronger than generic ones, whether the question is about training methods, commercialisation or the role of regional bodies. A bank of checked examples, such as a sprinter's interval sessions, the CARIFTA Games as a pathway for juniors, or West Indies cricket and franchise leagues, gives you something specific to write under time pressure.
+                Answers that name a real Caribbean athlete, team or event read as stronger than generic ones, whether the question is about training methods, commercialisation or the role of regional bodies. A bank of checked examples, such as a sprinter's interval sessions, the CARIFTA Games as a pathway for juniors, or West Indies cricket and franchise leagues, gives your teen something specific to write under time pressure.
 
                 ## Milestones
                 1. A bank of at least 20 examples, each tagged with the syllabus topics it supports.
-                2. Examples covering athletics, cricket, football, netball and at least one sport you play.
+                2. Examples covering athletics, cricket, football, netball and at least one sport your teen plays.
                 3. Each example checked against a reliable source with a year noted.
                 4. One new example added each week from current sports news.
               priority: medium
@@ -193,26 +195,26 @@ starter_structure:
             - name: PE kit, medical information and practical safety
               description: |-
                 ## Purpose
-                Practical lessons and assessments in Caribbean heat put real demands on the body, and teachers need to know about asthma, sickle cell trait, heart conditions, recent injuries or medication before you run a fitness test. Sorting the medical form, inhaler, water bottle, correct footwear and sun protection at the start of the year prevents a missed assessment or a preventable incident.
+                Practical lessons and assessments in Caribbean heat put real demands on the body, and teachers need to know about asthma, sickle cell trait, heart conditions, recent injuries or medication before your teen runs a fitness test. Sorting the medical form, inhaler, water bottle, correct footwear and sun protection at the start of the year is largely your job, and it prevents a missed assessment or a preventable incident.
 
                 ## Milestones
-                1. The school medical form completed by a parent or guardian and returned.
-                2. Any condition that affects exercise discussed with your doctor, and the PE teacher told what they advised.
+                1. The school medical form completed by you and returned.
+                2. Any condition that affects exercise discussed with a doctor, and the PE teacher told what they advised.
                 3. Kit for each practical activity checked: footwear, protective gear, swimwear.
                 4. A named water bottle and any prescribed inhaler or medicine packed for every practical session.
 
                 ## Notes
-                This is organisational, not medical advice. If you have a known condition, ask your doctor what exercise is suitable and share their guidance with your PE teacher in writing.
+                This is organisational, not medical advice. If your teen has a known condition, ask their doctor what exercise is suitable and share that guidance with the PE teacher in writing.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "The school holds an up-to-date medical form, your PE teacher has any doctor's guidance in writing, and your kit list is complete for every chosen activity."
+                success_criteria: "The school holds an up-to-date medical form, the PE teacher has any doctor's guidance in writing, and the kit list is complete for every chosen activity."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Ask a parent or guardian to complete and return the school medical form"
-                - "Tell your PE teacher in writing about any condition that affects exercise"
+                - "Complete and return the school medical form"
+                - "Tell the PE teacher in writing about any condition that affects exercise"
                 - "Check footwear and protective gear for each chosen activity"
                 - "Update the medical form at the start of each school year @recurring(yearly)"
             - name: Weekly CSEC PE theory study sessions
@@ -221,7 +223,7 @@ starter_structure:
                 Theory is where many strong performers drop a grade, because training takes the hours that study needs. Two fixed sessions a week of about 45 minutes, each on one syllabus objective with a recall test at the end, cover the theory steadily even in a busy competition season.
 
                 ## Milestones
-                1. Two weekly study slots fixed around training and written on your timetable.
+                1. Two weekly study slots fixed around training and written on the timetable.
                 2. Each session ending with a short self-test on that objective.
                 3. Topics studied ticked off against the syllabus list.
                 4. Eight weeks of sessions completed with no more than two missed.
@@ -239,7 +241,7 @@ starter_structure:
             - name: Daily PE key terms recall cards
               description: |-
                 ## Purpose
-                PE theory leans on precise vocabulary: tidal volume, stroke volume, agonist, reversibility, fartlek, intrinsic motivation. Ten minutes a day with cards you made yourself, sorted into known and not yet known piles, fixes the terms long before the exam and costs less time than relearning a topic in May.
+                PE theory leans on precise vocabulary: tidal volume, stroke volume, agonist, reversibility, fartlek, intrinsic motivation. Ten minutes a day with cards your teen made themselves, sorted into known and not yet known piles, fixes the terms long before the exam and costs less time than relearning a topic in May.
 
                 ## Milestones
                 1. A deck with one term and its definition per card for every section studied so far.
@@ -256,19 +258,19 @@ starter_structure:
                 success_criteria: "A habit tracker shows at least five recall sessions a week for four weeks, with the not yet known pile shrinking."
                 cadence: rolling
               tasks:
-                - "Make ten cards for the terms from your most recent lesson"
+                - "Make ten cards for the terms from the most recent lesson"
                 - "Spend ten minutes sorting the cards into known and not yet known @recurring(daily)"
                 - "Add new cards after each theory lesson"
-                - "Count the not yet known pile each Sunday and note the number"
+                - "Ask how big the not yet known pile is each Sunday and note the number"
             - name: Weekly practical skills practice log
               description: |-
                 ## Purpose
-                Practical marks reward consistent technique, good decisions in game situations and knowledge of rules, and these improve with deliberate practice, not just playing. A weekly log of what you practised, for how long and what still breaks down under pressure gives you and your teacher evidence of progress and a clear focus for the next session.
+                Practical marks reward consistent technique, good decisions in game situations and knowledge of rules, and these improve with deliberate practice, not just playing. A weekly log of what was practised, for how long and what still breaks down under pressure gives your teen and their teacher evidence of progress and a clear focus for the next session.
 
                 ## Milestones
                 1. A practice log started for each chosen practical activity.
                 2. Each entry recording the skill, the drill, the time spent and one thing that went wrong.
-                3. One coaching point per activity agreed with your teacher or coach each month.
+                3. One coaching point per activity agreed with the teacher or coach each month.
                 4. Twelve weeks of entries showing at least two practice sessions per activity.
               priority: high
               frontmatter:
@@ -279,7 +281,7 @@ starter_structure:
               tasks:
                 - "Set up one log page per practical activity"
                 - "Record this week's practice for each activity with drills and time @recurring(weekly:wed)"
-                - "Ask your teacher or coach for one coaching point per activity"
+                - "Ask the teacher or coach for one coaching point per activity"
                 - "Pick one weakness from the log as next week's focus"
             - name: Monthly timed Paper 01 practice for PE and Sport
               description: |-
@@ -308,7 +310,7 @@ starter_structure:
             - name: Monthly Paper 02 structured question practice
               description: |-
                 ## Purpose
-                Paper 02 asks you to write: describe the long-term effects of training, design a circuit for a netball player, explain how sponsorship affects a sport. Writing one full question a month under time and comparing it with the mark scheme builds the habit of planning points, using examples and matching the marks available.
+                Paper 02 asks candidates to write: describe the long-term effects of training, design a circuit for a netball player, explain how sponsorship affects a sport. Writing one full question a month under time and comparing it with the mark scheme builds the habit of planning points, using examples and matching the marks available.
 
                 ## Milestones
                 1. One full Paper 02 question answered under time each month.
@@ -322,18 +324,18 @@ starter_structure:
                 success_criteria: "At least four timed Paper 02 answers from three syllabus sections are marked against the mark scheme, with a list of recurring mistakes kept."
                 cadence: rolling
               tasks:
-                - "Choose a Paper 02 question from a section you finished recently"
+                - "Choose a Paper 02 question from a recently finished section"
                 - "Answer one full Paper 02 question under time @recurring(monthly:22)"
                 - "Mark it with the mark scheme and note the marks lost"
-                - "Add each repeated mistake to your mistakes list"
-            - name: Termly progress review with your PE teacher
+                - "Add each repeated mistake to the mistakes list"
+            - name: Termly progress review with the PE teacher
               description: |-
                 ## Purpose
-                Your teacher sees your practical work and your SBA drafts, and their judgement of your practical level is what counts in the SBA. A short meeting each term, with your log, test scores and SBA progress in hand, turns their view into a clear focus for the next term instead of a surprise at the end.
+                The PE teacher sees your teen's practical work and SBA drafts, and their judgement of the practical level is what counts in the SBA. A short meeting each term, led by your teen with their log, test scores and SBA progress in hand, and joined by you if the school allows, turns that view into a clear focus for the next term instead of a surprise at the end.
 
                 ## Milestones
-                1. A meeting booked with your PE teacher each term.
-                2. Your practice log, recent test scores and SBA progress brought to each meeting.
+                1. A meeting booked with the PE teacher each term.
+                2. The practice log, recent test scores and SBA progress brought to each meeting.
                 3. Two agreed targets, one theory and one practical, written down after each meeting.
                 4. Targets checked at the start of the next meeting.
 
@@ -346,14 +348,14 @@ starter_structure:
                 success_criteria: "Notes from at least three termly meetings exist, each with one theory and one practical target and a check on the previous targets."
                 cadence: cyclic
               tasks:
-                - "Ask your PE teacher for fifteen minutes this term"
-                - "Bring your practice log, scores and SBA progress to the meeting"
-                - "Write down the one theory and one practical target you agree"
-                - "Book the next termly review with your teacher @recurring(quarterly)"
+                - "Ask the PE teacher for fifteen minutes this term"
+                - "Bring the practice log, scores and SBA progress to the meeting"
+                - "Write down the one theory and one practical target agreed"
+                - "Book the next termly review with the teacher @recurring(quarterly)"
             - name: The skeleton, bone types and their functions in sport
               description: |-
                 ## Purpose
-                Questions on the skeleton ask you to name bones used in a sporting action, give the functions of the skeleton such as protection, support, movement, blood cell production and mineral storage, and classify bones as long, short, flat or irregular. Learning them through your own sport's movements, like the femur and tibia in a sprint start, makes them stick.
+                Questions on the skeleton ask candidates to name bones used in a sporting action, give the functions of the skeleton such as protection, support, movement, blood cell production and mineral storage, and classify bones as long, short, flat or irregular. Learning them through the movements of your teen's own sport, like the femur and tibia in a sprint start, makes them stick.
 
                 ## Milestones
                 1. A labelled skeleton with the major bones named from memory.
@@ -368,20 +370,20 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Draw and label the major bones from your textbook diagram"
+                - "Draw and label the major bones from the textbook diagram"
                 - "Write each function of the skeleton with a sporting example"
                 - "Sort twenty bones into long, short, flat and irregular"
                 - "Answer ten past-paper skeleton questions and mark them"
             - name: Joints, ligaments and movement terms
               description: |-
                 ## Purpose
-                Explaining a movement for the examiner means naming the joint type (ball and socket, hinge, pivot, gliding and others), the bones that meet there and the movement: flexion, extension, abduction, adduction, rotation or circumduction. Analysing your own sport, such as the knee at take-off in a high jump, turns a list of words into answers that score.
+                Explaining a movement for the examiner means naming the joint type (ball and socket, hinge, pivot, gliding and others), the bones that meet there and the movement: flexion, extension, abduction, adduction, rotation or circumduction. Analysing their own sport, such as the knee at take-off in a high jump, turns a list of words into answers that score for your teen.
 
                 ## Milestones
                 1. The main synovial joint types listed with one body example each.
                 2. The structure of a synovial joint labelled, including cartilage, ligaments and synovial fluid.
                 3. Each movement term demonstrated and written with a sporting example.
-                4. Three actions from your chosen activities analysed joint by joint, followed by marked past-paper questions.
+                4. Three actions from the chosen activities analysed joint by joint, followed by marked past-paper questions.
               priority: medium
               frontmatter:
                 mode: learning
@@ -392,12 +394,12 @@ starter_structure:
               tasks:
                 - "List the joint types with one example each in the body"
                 - "Label a diagram of a synovial joint"
-                - "Analyse three actions from your activities joint by joint"
+                - "Analyse three actions from the chosen activities joint by joint"
                 - "Work through the past-paper joints and movement questions with the mark scheme"
             - name: Major muscles and antagonistic pairs
               description: |-
                 ## Purpose
-                Muscle questions expect you to name and locate the major muscles, such as biceps, triceps, deltoids, pectorals, abdominals, quadriceps, hamstrings, gastrocnemius and gluteals, and explain how agonist and antagonist work together. A muscle that cannot be linked to a movement in sport rarely earns the mark.
+                Muscle questions expect candidates to name and locate the major muscles, such as biceps, triceps, deltoids, pectorals, abdominals, quadriceps, hamstrings, gastrocnemius and gluteals, and explain how agonist and antagonist work together. A muscle that cannot be linked to a movement in sport rarely earns the mark.
 
                 ## Milestones
                 1. The major muscles labelled on front and back body diagrams from memory.
@@ -412,19 +414,19 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Label front and back muscle diagrams using your textbook"
+                - "Label front and back muscle diagrams using the textbook"
                 - "Write the antagonistic pair for elbow, knee and hip actions"
                 - "Name the muscles working in one skill from each practical activity"
                 - "Attempt the past-paper muscle questions and mark them"
             - name: Muscle fibre types and kinds of contraction
               description: |-
                 ## Purpose
-                Why a marathon runner and a shot putter suit different events comes down partly to slow twitch and fast twitch fibres, and questions often ask you to match fibre type to activity. The same section usually covers isotonic (concentric and eccentric) and isometric contractions, which are easiest to learn by feeling them in a press-up, a squat descent and a plank.
+                Why a marathon runner and a shot putter suit different events comes down partly to slow twitch and fast twitch fibres, and questions often ask candidates to match fibre type to activity. The same section usually covers isotonic (concentric and eccentric) and isometric contractions, which are easiest to learn by feeling them in a press-up, a squat descent and a plank.
 
                 ## Milestones
                 1. Slow twitch and fast twitch fibres compared in a table: speed, fatigue, energy source, sports.
                 2. Concentric, eccentric and isometric contractions defined and each matched to a movement.
-                3. Five athletes or events from your examples bank matched to their main fibre type.
+                3. Five athletes or events from the examples bank matched to their main fibre type.
                 4. Past-paper questions on fibre types and contraction answered and marked.
               priority: low
               frontmatter:
@@ -436,12 +438,12 @@ starter_structure:
               tasks:
                 - "Draw a table comparing slow twitch and fast twitch fibres"
                 - "Do a press-up, squat and plank and name each contraction type"
-                - "Match five events from your examples bank to a fibre type"
-                - "Mark your answers to the past-paper fibre and contraction questions"
+                - "Match five events from the examples bank to a fibre type"
+                - "Mark the answers to the past-paper fibre and contraction questions"
             - name: Heart, blood vessels and circulation during exercise
               description: |-
                 ## Purpose
-                Circulatory questions ask about the structure of the heart, double circulation, arteries, veins and capillaries, and terms such as heart rate, stroke volume and cardiac output. Recording your own resting heart rate each week gives you real data to write about and shows the long-term effect of training on your own body.
+                Circulatory questions ask about the structure of the heart, double circulation, arteries, veins and capillaries, and terms such as heart rate, stroke volume and cardiac output. A weekly resting heart rate reading gives your teen real data to write about and shows the long-term effect of training on their own body.
 
                 ## Milestones
                 1. The heart labelled with chambers, valves and main vessels, and the path of blood traced.
@@ -459,7 +461,7 @@ starter_structure:
               tasks:
                 - "Label the heart and trace the path of blood through it"
                 - "Compare arteries, veins and capillaries in a table"
-                - "Take your resting heart rate on waking and record it @recurring(weekly:mon)"
+                - "Take a resting heart rate on waking and record it @recurring(weekly:mon)"
                 - "Answer the past-paper circulatory questions against the mark scheme"
             - name: Breathing, gaseous exchange and lung volumes
               description: |-
@@ -486,12 +488,12 @@ starter_structure:
             - name: Aerobic and anaerobic energy systems
               description: |-
                 ## Purpose
-                Why a 100 metre sprinter is breathless after ten seconds while a distance runner keeps going for an hour is the core of the energy systems section: aerobic and anaerobic respiration, lactic acid, oxygen debt and recovery. Matching events from your own sport to the dominant system is exactly the kind of applied answer the paper rewards.
+                Why a 100 metre sprinter is breathless after ten seconds while a distance runner keeps going for an hour is the core of the energy systems section: aerobic and anaerobic respiration, lactic acid, oxygen debt and recovery. Matching events from their own sport to the dominant system is exactly the kind of applied answer the paper rewards.
 
                 ## Milestones
                 1. Aerobic and anaerobic respiration written as word equations, at the level the syllabus asks.
                 2. Lactic acid build-up, fatigue and oxygen debt explained in a short paragraph.
-                3. Events and positions from your activities placed on an aerobic to anaerobic continuum.
+                3. Events and positions from the chosen activities placed on an aerobic to anaerobic continuum.
                 4. Past-paper energy system questions answered and marked.
               priority: medium
               frontmatter:
@@ -508,12 +510,12 @@ starter_structure:
             - name: Short-term and long-term effects of exercise
               description: |-
                 ## Purpose
-                A favourite question type asks for the immediate effects of exercise (rising heart rate, faster breathing, sweating, flushed skin) and the long-term adaptations from months of training (lower resting heart rate, larger stroke volume, stronger bones, muscle hypertrophy). Sorting effects by body system and by time scale stops you mixing them up under pressure.
+                A favourite question type asks for the immediate effects of exercise (rising heart rate, faster breathing, sweating, flushed skin) and the long-term adaptations from months of training (lower resting heart rate, larger stroke volume, stronger bones, muscle hypertrophy). Sorting effects by body system and by time scale stops your teen mixing them up under pressure.
 
                 ## Milestones
                 1. A two-column table of short-term and long-term effects, split by body system.
                 2. Each long-term effect linked to how it helps performance in a named sport.
-                3. Your own resting heart rate trend used as evidence of a long-term effect, if it shows one.
+                3. Your teen's own resting heart rate trend used as evidence of a long-term effect, if it shows one.
                 4. Past-paper effects of exercise questions answered and marked.
               priority: low
               frontmatter:
@@ -525,17 +527,17 @@ starter_structure:
               tasks:
                 - "Draw a table of short-term and long-term effects by body system"
                 - "Link each long-term effect to a performance benefit in a named sport"
-                - "Check your resting heart rate record for a training effect"
+                - "Check the resting heart rate record for a training effect"
                 - "Try the past-paper effects of exercise questions and mark them"
             - name: Health, wellness and the components of fitness
               description: |-
                 ## Purpose
-                The syllabus separates health, wellness and fitness, and splits fitness into health-related components (cardiovascular endurance, muscular strength, muscular endurance, flexibility, body composition) and skill-related ones (agility, balance, coordination, power, reaction time, speed). Questions ask you to define each and say which matters most for a given player, so a goalkeeper and a midfielder are worth comparing.
+                The syllabus separates health, wellness and fitness, and splits fitness into health-related components (cardiovascular endurance, muscular strength, muscular endurance, flexibility, body composition) and skill-related ones (agility, balance, coordination, power, reaction time, speed). Questions ask candidates to define each and say which matters most for a given player, so a goalkeeper and a midfielder are worth comparing.
 
                 ## Milestones
                 1. Health, wellness and fitness defined in the syllabus's words.
                 2. Each health-related and skill-related component defined with a sporting example.
-                3. The key components ranked for three positions or events from your activities.
+                3. The key components ranked for three positions or events from the chosen activities.
                 4. Past-paper fitness component questions answered and marked.
               priority: medium
               frontmatter:
@@ -547,12 +549,12 @@ starter_structure:
               tasks:
                 - "Copy the syllabus definitions of health, wellness and fitness"
                 - "Define each fitness component with one sporting example"
-                - "Rank the components for three positions or events you know"
+                - "Rank the components for three familiar positions or events"
                 - "Answer the past-paper fitness component questions in timed conditions"
-            - name: Fitness testing protocols and your own baseline
+            - name: Fitness testing protocols and a personal baseline
               description: |-
                 ## Purpose
-                Each fitness component has standard tests, such as the multistage fitness test, the 12-minute run, sit and reach, the vertical jump, the Illinois agility run and the hand grip test, and you may be asked to describe one or interpret results. Running the tests on yourself, recording results against normative tables and retesting each term gives you real data and a clear picture of your fitness.
+                Each fitness component has standard tests, such as the multistage fitness test, the 12-minute run, sit and reach, the vertical jump, the Illinois agility run and the hand grip test, and candidates may be asked to describe one or interpret results. Running the tests on themselves, recording results against normative tables and retesting each term gives your teen real data and a clear picture of their fitness.
 
                 ## Milestones
                 1. One standard test chosen for each fitness component, with its protocol written step by step.
@@ -561,7 +563,7 @@ starter_structure:
                 4. A retest completed and compared with the baseline.
 
                 ## Notes
-                Start from the **Metrics log** template. Test in the cooler part of the day, warm up properly and stop if you feel unwell. If you have a medical condition, check with your doctor before any maximal test.
+                Start from the **Metrics log** template. Testing in the cooler part of the day after a proper warm-up is safer, and your teen should stop if they feel unwell. If they have a medical condition, check with their doctor before any maximal test.
               priority: medium
               deadlineOffsetDays: 45
               frontmatter:
@@ -573,7 +575,7 @@ starter_structure:
               tasks:
                 - "Pick one standard test for each fitness component and write its protocol"
                 - "Run the baseline tests with a partner and record the results"
-                - "Rate each result against a normative table for your age and sex"
+                - "Rate each result against a normative table for their age and sex"
                 - "Repeat the test battery and compare with the baseline @recurring(quarterly)"
             - name: Principles of training and the FITT model
               description: |-
@@ -583,7 +585,7 @@ starter_structure:
                 ## Milestones
                 1. Each principle defined in syllabus wording with a sporting example.
                 2. FITT explained and applied to one athlete's weekly plan.
-                3. Training heart rate zones worked out using the method your textbook gives.
+                3. Training heart rate zones worked out using the method the textbook gives.
                 4. Past-paper principles of training questions answered and marked.
               priority: medium
               frontmatter:
@@ -595,12 +597,12 @@ starter_structure:
               tasks:
                 - "Write each training principle with a sporting example"
                 - "Apply FITT to one athlete's training week"
-                - "Work out your training heart rate zone using your textbook's method"
+                - "Work out a training heart rate zone using the textbook's method"
                 - "Answer the past-paper training principles questions and check the mark scheme"
             - name: Training methods from interval work to plyometrics
               description: |-
                 ## Purpose
-                Continuous, interval, fartlek, circuit, weight, plyometric and flexibility training each suit different components and sports, and questions ask you to choose and justify one. Trying each method once in a safe, supervised session and writing its advantages and disadvantages gives you the detail examiners want.
+                Continuous, interval, fartlek, circuit, weight, plyometric and flexibility training each suit different components and sports, and questions ask candidates to choose and justify one. Trying each method once in a safe, supervised session and writing its advantages and disadvantages gives your teen the detail examiners want.
 
                 ## Milestones
                 1. Each training method described with the components it develops.
@@ -616,22 +618,22 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "Make a table of training methods and the components each develops"
-                - "Try four methods in sessions supervised by your teacher or coach"
+                - "Try four methods in sessions supervised by the teacher or coach"
                 - "Choose and justify a method for three different athletes"
                 - "Write timed answers to two past-paper training method questions"
             - name: Six-week personal training programme
               description: |-
                 ## Purpose
-                Designing, running and evaluating your own programme ties anatomy, fitness testing and training principles together, and your teacher may use something like it in the SBA. Six weeks is long enough to see a change in a fitness test and short enough to finish within a term.
+                Designing, running and evaluating their own programme ties anatomy, fitness testing and training principles together, and the teacher may use something like it in the SBA. Six weeks is long enough for your teen to see a change in a fitness test and short enough to finish within a term.
 
                 ## Milestones
-                1. A goal set from your weakest fitness component in the baseline tests.
+                1. A goal set from the weakest fitness component in the baseline tests.
                 2. A six-week plan written with FITT, progression and rest days shown.
                 3. Every session logged with heart rate or perceived effort.
                 4. A retest completed and the programme evaluated on one page.
 
                 ## Notes
-                Start from the **Training program** template. Check with your teacher whether the SBA has its own required format before you start.
+                Start from the **Training program** template. Check with the teacher whether the SBA has its own required format before starting.
               priority: medium
               deadlineOffsetDays: 90
               frontmatter:
@@ -641,19 +643,19 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "12"
               tasks:
-                - "Pick your weakest fitness component from the baseline tests"
+                - "Pick the weakest fitness component from the baseline tests"
                 - "Write a six-week plan showing FITT, progression and rest days"
                 - "Log every session with heart rate or an effort rating"
                 - "Retest and write a one-page evaluation of the programme"
             - name: Warm-up, cool-down and flexibility routines
               description: |-
                 ## Purpose
-                Questions ask for the phases of a warm-up (pulse raiser, stretching, skill-related practice) and the reasons for a cool-down, and practical assessors notice whether you prepare properly. Writing and leading a warm-up specific to one of your activities is good revision and useful practice in leading a group.
+                Warm-up questions ask for the phases of a warm-up (pulse raiser, stretching, skill-related practice) and the reasons for a cool-down, and practical assessors notice whether a student prepares properly. Writing and leading a warm-up specific to one of their activities is good revision for your teen and useful practice in leading a group.
 
                 ## Milestones
                 1. The phases of a warm-up and the purposes of a cool-down written with physiological reasons.
-                2. Static, dynamic and other stretching types compared, using the categories your textbook gives.
-                3. A sport-specific warm-up written for one of your practical activities.
+                2. Static, dynamic and other stretching types compared, using the categories the textbook gives.
+                3. A sport-specific warm-up written for one of the practical activities.
                 4. The warm-up led for a group once and past-paper questions marked.
               priority: low
               frontmatter:
@@ -664,13 +666,13 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "Write the warm-up phases and cool-down reasons with physiology"
-                - "Compare stretching types using your textbook"
-                - "Plan a warm-up for one of your practical activities"
+                - "Compare stretching types using the textbook"
+                - "Plan a warm-up for one of the practical activities"
                 - "Lead the warm-up for a group and note what to change"
             - name: Nutrition, hydration and body composition for sport
               description: |-
                 ## Purpose
-                Diet questions cover the nutrients, a balanced diet, energy balance, carbohydrate before endurance events and hydration, which matters more when you train in 30 degree heat and high humidity. Keeping a three-day food and fluid record and comparing it with your textbook's guidance makes the topic concrete without turning it into a diet.
+                Diet questions cover the nutrients, a balanced diet, energy balance, carbohydrate before endurance events and hydration, which matters more when training in 30 degree heat and high humidity. Keeping a three-day food and fluid record and comparing it with the textbook's guidance makes the topic concrete without turning it into a diet.
 
                 ## Milestones
                 1. The nutrients and their role in sport listed with Caribbean food examples.
@@ -679,7 +681,7 @@ starter_structure:
                 4. A three-day food and fluid record compared with textbook guidance, and past-paper questions marked.
 
                 ## Notes
-                This is study, not a diet plan. Talk to a doctor or registered dietitian before changing what you eat for sport, especially while you are still growing.
+                This is study, not a diet plan. Talk to a doctor or registered dietitian before your teen changes what they eat for sport, especially while they are still growing.
               priority: medium
               frontmatter:
                 mode: building
@@ -699,7 +701,7 @@ starter_structure:
 
                 ## Milestones
                 1. Classes of performance-enhancing drugs listed with their intended effect and risks.
-                2. The roles of the World Anti-Doping Agency and your country's anti-doping body described.
+                2. The roles of the World Anti-Doping Agency and the national anti-doping body described.
                 3. Sportsmanship, gamesmanship and fair play defined with examples.
                 4. Past-paper drugs and ethics questions answered and marked.
               priority: low
@@ -711,13 +713,13 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "List the classes of banned substances with their effects and risks"
-                - "Look up your country's national anti-doping organisation and its role"
+                - "Look up the national anti-doping organisation and its role"
                 - "Write one example each of sportsmanship and gamesmanship"
                 - "Answer two past-paper drugs and ethics questions and mark them"
             - name: Sports injuries, prevention and first aid
               description: |-
                 ## Purpose
-                Injury questions ask you to classify injuries (soft tissue and hard tissue, acute and chronic), give causes and prevention, and describe first aid such as RICE for a sprain. A first aid course, or at least a session with your PE teacher on the steps, makes the theory practical and useful on the field.
+                Injury questions ask candidates to classify injuries (soft tissue and hard tissue, acute and chronic), give causes and prevention, and describe first aid such as RICE for a sprain. A first aid course, or at least a session with the PE teacher on the steps, makes the theory practical and useful on the field.
 
                 ## Milestones
                 1. Common sports injuries classified with causes and signs.
@@ -726,7 +728,7 @@ starter_structure:
                 4. Heat exhaustion and heat stroke signs noted, and past-paper questions marked.
 
                 ## Notes
-                Knowing the theory is not a qualification. If you want to give first aid at school games, take a recognised course through an organisation such as the Red Cross or St John Ambulance in your country.
+                Knowing the theory is not a qualification. If your teen wants to give first aid at school games, a recognised course through an organisation such as the Red Cross or St John Ambulance in your country is the route.
               priority: medium
               frontmatter:
                 mode: building
@@ -738,14 +740,14 @@ starter_structure:
                 - "Classify ten sports injuries as soft or hard tissue and acute or chronic"
                 - "Write RICE and the steps of basic first aid in order"
                 - "List the signs of heat exhaustion and heat stroke"
-                - "Mark your answers to the past-paper injury and first aid questions"
+                - "Mark the answers to the past-paper injury and first aid questions"
             - name: Skill acquisition, feedback and stages of learning
               description: |-
                 ## Purpose
-                Motor learning questions ask you to classify skills on continua (open and closed, gross and fine, discrete, serial and continuous), describe the stages of learning (cognitive, associative, autonomous) and explain types of feedback and guidance. Placing skills from your own activities on each continuum is the fastest route to marks; check the current syllabus for the exact list it uses.
+                Motor learning questions ask candidates to classify skills on continua (open and closed, gross and fine, discrete, serial and continuous), describe the stages of learning (cognitive, associative, autonomous) and explain types of feedback and guidance. Placing skills from their own activities on each continuum is the fastest route to marks; check the current syllabus for the exact list it uses.
 
                 ## Milestones
-                1. Skill classification continua drawn with three skills from your activities placed on each.
+                1. Skill classification continua drawn with three skills from the chosen activities placed on each.
                 2. The stages of learning described with what a coach does at each.
                 3. Types of feedback and guidance listed with examples.
                 4. Past-paper skill acquisition questions answered and marked.
@@ -753,24 +755,24 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Classification continua with your own skills placed, notes on stages of learning and feedback, and marked past-paper questions exist."
+                success_criteria: "Classification continua with your teen's own skills placed, notes on stages of learning and feedback, and marked past-paper questions exist."
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Draw the skill continua and place three of your skills on each"
+                - "Draw the skill continua and place three of their skills on each"
                 - "Describe the three stages of learning with a coaching action each"
                 - "List types of feedback and guidance with an example each"
                 - "Attempt the past-paper skill acquisition questions and self-mark them"
             - name: Motivation, arousal, anxiety and goal setting in sport
               description: |-
                 ## Purpose
-                Why players freeze in a final, why some train alone at six in the morning while others need a coach shouting, and how to set goals that work all sit in the psychology section. Intrinsic and extrinsic motivation, the inverted U of arousal, anxiety control techniques and SMART goals are easiest to learn by applying them to your own competitions.
+                Why players freeze in a final, why some train alone at six in the morning while others need a coach shouting, and how to set goals that work all sit in the psychology section. Intrinsic and extrinsic motivation, the inverted U of arousal, anxiety control techniques and SMART goals are easiest to learn by applying them to your teen's own competitions.
 
                 ## Milestones
                 1. Intrinsic and extrinsic motivation defined with sporting examples.
                 2. The relationship between arousal and performance sketched and explained.
                 3. Two anxiety control techniques described and tried before a competition or assessment.
-                4. Three SMART goals written for your practical activities, and past-paper questions marked.
+                4. Three SMART goals written for the practical activities, and past-paper questions marked.
               priority: medium
               frontmatter:
                 mode: learning
@@ -780,19 +782,19 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Write two examples each of intrinsic and extrinsic motivation"
-                - "Sketch the arousal and performance graph from your textbook and explain it"
-                - "Try a breathing or imagery technique before your next competition"
-                - "Write three SMART goals for your practical activities"
+                - "Sketch the arousal and performance graph from the textbook and explain it"
+                - "Try a breathing or imagery technique before the next competition"
+                - "Write three SMART goals for the practical activities"
                 - "Answer the past-paper sport psychology questions and mark them"
             - name: History and development of sport in the Caribbean
               description: |-
                 ## Purpose
-                Sport in society questions often begin with history: how cricket arrived under colonial rule and became a symbol of West Indian identity, how athletics produced Olympic champions from small islands, and how school competitions such as Jamaica's Boys and Girls Champs grew. A short timeline with dates you have checked gives you facts to use in essays on identity, national pride and development.
+                Sport in society questions often begin with history: how cricket arrived under colonial rule and became a symbol of West Indian identity, how athletics produced Olympic champions from small islands, and how school competitions such as Jamaica's Boys and Girls Champs grew. A short timeline with checked dates gives your teen facts to use in essays on identity, national pride and development.
 
                 ## Milestones
                 1. A timeline of at least ten checked events in Caribbean sport history.
                 2. The role of sport in national identity and regional unity explained with examples.
-                3. The development of two sports in your own country summarised in a paragraph each.
+                3. The development of two sports in the home country summarised in a paragraph each.
                 4. Past-paper history of sport questions answered and marked.
               priority: low
               frontmatter:
@@ -809,10 +811,10 @@ starter_structure:
             - name: Organisation of sport from school team to the Olympic movement
               description: |-
                 ## Purpose
-                Questions ask who runs sport: schools, clubs, national associations, the national Olympic committee, the ministry responsible for sport, regional bodies such as Cricket West Indies or CONCACAF, and international federations such as FIFA and World Athletics, with the IOC leading the Olympic movement. A diagram of how your own sport is organised, from your school team to the world body, is the clearest way to learn it.
+                Questions ask who runs sport: schools, clubs, national associations, the national Olympic committee, the ministry responsible for sport, regional bodies such as Cricket West Indies or CONCACAF, and international federations such as FIFA and World Athletics, with the IOC leading the Olympic movement. A diagram of how one of your teen's sports is organised, from the school team to the world body, is the clearest way to learn it.
 
                 ## Milestones
-                1. A diagram of how one of your sports is organised from school to world level.
+                1. A diagram of how one of the chosen sports is organised from school to world level.
                 2. The roles of a national association, a national Olympic committee and an international federation compared.
                 3. The regional and international competitions Caribbean athletes enter listed, such as CARIFTA, the Central American and Caribbean Games, the Commonwealth Games and the Olympics.
                 4. Past-paper sport organisation questions answered and marked.
@@ -824,14 +826,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "3"
               tasks:
-                - "Draw how one of your sports is organised from school to world level"
-                - "Look up your national Olympic committee and what it does"
+                - "Draw how one of their sports is organised from school to world level"
+                - "Look up the national Olympic committee and what it does"
                 - "List the regional and international competitions Caribbean athletes enter"
                 - "Write timed answers to past-paper sport organisation questions"
             - name: Media, sponsorship and the business of sport
               description: |-
                 ## Purpose
-                Modern sport runs on television rights, sponsorship and franchise leagues, and the paper asks for the benefits and drawbacks for athletes, sports and spectators. The Caribbean Premier League, kit deals for sprinters and top cricketers choosing franchise tournaments over international duty give you local examples on both sides of the argument.
+                Modern sport runs on television rights, sponsorship and franchise leagues, and the paper asks for the benefits and drawbacks for athletes, sports and spectators. The Caribbean Premier League, kit deals for sprinters and top cricketers choosing franchise tournaments over international duty give your teen local examples on both sides of the argument.
 
                 ## Milestones
                 1. The links between sport, media and sponsorship drawn as a simple triangle with examples.
@@ -875,7 +877,7 @@ starter_structure:
             - name: Leisure, recreation and careers in sport
               description: |-
                 ## Purpose
-                Leisure, recreation and sport are distinguished in the syllabus, which also expects you to know the benefits of physical activity for people and communities and the careers sport creates, from coaching and physiotherapy to sports management and sport tourism. Mapping the facilities near you and talking to one person who works in sport gives you examples and a sense of where PE could lead.
+                Leisure, recreation and sport are distinguished in the syllabus, which also expects candidates to know the benefits of physical activity for people and communities and the careers sport creates, from coaching and physiotherapy to sports management and sport tourism. Mapping the facilities near home and talking to one person who works in sport gives your teen examples and a sense of where PE could lead.
 
                 ## Milestones
                 1. Leisure, recreation and sport defined and compared.
@@ -891,13 +893,13 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "Write definitions of leisure, recreation and sport side by side"
-                - "Map the sport and recreation facilities within reach of your home"
-                - "Ask a coach, physiotherapist or sports officer about their route into the job"
+                - "Map the sport and recreation facilities within reach of home"
+                - "Help your teen ask a coach, physiotherapist or sports officer about their route into the job"
                 - "Answer the past-paper recreation and careers questions and check them"
-            - name: Rules, scoring and officiating in your chosen activities
+            - name: Rules, scoring and officiating in the chosen activities
               description: |-
                 ## Purpose
-                Practical assessment usually looks at more than skill: knowing the rules, scoring and signals, and sometimes officiating or leading, can be part of what your teacher assesses. Learning the current rulebook for each activity and officiating at least one school game shows that knowledge, and makes you a smarter player.
+                Assessment of practical work usually looks at more than skill: knowing the rules, scoring and signals, and sometimes officiating or leading, can be part of what the teacher assesses. Learning the current rulebook for each activity and officiating at least one school game shows that knowledge, and makes your teen a smarter player.
 
                 ## Milestones
                 1. The current rulebook for each chosen activity obtained from its governing body.
@@ -908,18 +910,18 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Each chosen activity has a one-page rules and scoring summary, and you have officiated or scored at least one supervised game."
+                success_criteria: "Each chosen activity has a one-page rules and scoring summary, and your teen has officiated or scored at least one supervised game."
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
                 - "Download the current rules for each activity from its governing body"
                 - "Write a one-page rules and signals summary for each"
-                - "Ask your teacher to let you officiate or score one school game"
+                - "Your teen asks the teacher to let them officiate or score one school game"
                 - "Note any recent rule changes for each activity"
-            - name: Video analysis of your practical performance
+            - name: Video analysis of practical performance
               description: |-
                 ## Purpose
-                Most players have never watched themselves perform a skill, and a phone video shows faults a coach has been describing for months. Filming each activity once a month, comparing it with a model performance and picking one fault to fix gives your practice log a sharper focus before the assessment.
+                Most players have never watched themselves perform a skill, and a phone video shows faults a coach has been describing for months. Filming each activity once a month, comparing it with a model performance and picking one fault to fix gives the practice log a sharper focus before the assessment.
 
                 ## Milestones
                 1. A short clip of each core skill in each activity recorded with permission.
@@ -930,46 +932,46 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "Monthly clips exist for each activity, each compared with a model performance and linked to one focus fault in your practice log."
+                success_criteria: "Monthly clips exist for each activity, each compared with a model performance and linked to one focus fault in the practice log."
                 cadence: rolling
               tasks:
-                - "Ask a friend to film one core skill from each activity"
-                - "Compare your clip with a model performance and note two faults"
+                - "Offer to film one core skill from each activity, or ask a friend to"
+                - "Compare the clip with a model performance and note two faults"
                 - "Film each activity again and compare with last month @recurring(monthly:8)"
-                - "Add the chosen focus fault to your practice log"
+                - "Add the chosen focus fault to the practice log"
             - name: PE SBA written component and evidence file
               description: |-
                 ## Purpose
-                Alongside the practical marks, the SBA may include written work such as a training log, a programme, a research piece or an analysis, depending on the syllabus edition. Confirming exactly what is required, setting draft dates with your teacher and keeping every piece of evidence in one file avoids the last-month rush that sinks many PE SBAs.
+                Alongside the practical marks, the SBA may include written work such as a training log, a programme, a research piece or an analysis, depending on the syllabus edition. Confirming exactly what is required, setting draft dates with the teacher and keeping every piece of evidence in one file avoids the last-month rush that sinks many PE SBAs.
 
                 ## Milestones
-                1. The written SBA requirements and marking criteria for the current syllabus confirmed with your teacher.
-                2. Draft and final deadlines agreed and entered in your plan.
+                1. The written SBA requirements and marking criteria for the current syllabus confirmed with the teacher.
+                2. Draft and final deadlines agreed and entered in the plan.
                 3. A first draft handed in for feedback by the agreed date.
                 4. The final written component and supporting evidence handed in and signed off.
 
                 ## Notes
-                Keep a copy of everything you submit. If the work uses data about other students, such as fitness results, ask their permission and leave out their names.
+                Keep a copy of everything submitted. If the work uses data about other students, such as fitness results, your teen needs their permission and should leave out their names.
               priority: high
               deadlineOffsetDays: 120
               frontmatter:
                 mode: building
                 output_kind: deliverable
-                success_criteria: "The written SBA component the current syllabus requires is submitted and signed off by your teacher by the school deadline, with a copy kept."
+                success_criteria: "The written SBA component the current syllabus requires is submitted and signed off by the teacher by the school deadline, with a copy kept."
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
-                - "Ask your teacher what the written SBA requires and get the marking criteria"
-                - "Agree draft and final deadlines and add them to your plan"
+                - "Ask the teacher what the written SBA requires and get the marking criteria"
+                - "Agree draft and final deadlines and add them to the plan"
                 - "Hand in a first draft for feedback by the agreed date"
                 - "Add new evidence to the SBA file and check deadlines @recurring(monthly:26)"
             - name: Practical assessment day preparation
               description: |-
                 ## Purpose
-                Assessments of practical work often happen in a short window, sometimes with a moderator watching or video being recorded, and nerves, weather or a missing piece of kit can undo two years of practice. Preparing as you would for a competition, with the assessed skills rehearsed, kit packed and a warm-up planned, puts your best work in front of the assessor.
+                Assessments of practical work often happen in a short window, sometimes with a moderator watching or video being recorded, and nerves, weather or a missing piece of kit can undo two years of practice. Preparing as for a competition, with the assessed skills rehearsed, kit packed and a warm-up planned, puts your teen's best work in front of the assessor.
 
                 ## Milestones
-                1. The assessed skills and conditions for each activity confirmed with your teacher.
+                1. The assessed skills and conditions for each activity confirmed with the teacher.
                 2. Two rehearsals completed under assessment-like conditions.
                 3. Kit, water and any medication packed the night before each assessment.
                 4. A personal warm-up and calming routine used on the day.
@@ -978,36 +980,36 @@ starter_structure:
               frontmatter:
                 mode: event
                 output_kind: event-completion
-                success_criteria: "Every practical assessment is attended with the required kit after two rehearsals, and your teacher confirms the marks are recorded."
+                success_criteria: "Every practical assessment is attended with the required kit after two rehearsals, and the teacher confirms the marks are recorded."
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Ask your teacher which skills and conditions each assessment uses"
+                - "Ask the teacher which skills and conditions each assessment uses"
                 - "Run two rehearsals under assessment-like conditions"
                 - "Pack kit, water and medication the night before each assessment"
-                - "Use your warm-up and calming routine before you perform"
+                - "Your teen uses their warm-up and calming routine before performing"
             - name: Mark schemes and examiner reports for PE and Sport
               description: |-
                 ## Purpose
-                CXC subject reports describe where candidates across the region lost marks, such as vague definitions, missing sporting examples and confusing short-term with long-term effects. Reading the last few reports and comparing your own answers with the mark schemes shows what examiners actually credit.
+                CXC subject reports describe where candidates across the region lost marks, such as vague definitions, missing sporting examples and confusing short-term with long-term effects. Reading the last few reports and comparing your teen's own answers with the mark schemes shows what examiners actually credit.
 
                 ## Milestones
-                1. The last three available subject reports obtained from your teacher or the CXC website.
+                1. The last three available subject reports obtained from the teacher or the CXC website.
                 2. A list of the weaknesses examiners mention most, with the topics they affect.
-                3. Your own past answers checked against that list.
+                3. Your teen's own past answers checked against that list.
                 4. Three answers rewritten to avoid the named weaknesses.
               priority: medium
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A list of common examiner-reported weaknesses exists, and three of your answers are rewritten to avoid them."
+                success_criteria: "A list of common examiner-reported weaknesses exists, and three of your teen's answers are rewritten to avoid them."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Get the last three available subject reports from your teacher or the CXC website"
+                - "Get the last three available subject reports from the teacher or the CXC website"
                 - "List the weaknesses examiners mention most often"
-                - "Check your past answers against the list"
-                - "Rewrite three answers to fix the weaknesses you found"
+                - "Check past answers against the list"
+                - "Rewrite three answers to fix the weaknesses found"
             - name: Full PE and Sport mock exam under exam conditions
               description: |-
                 ## Purpose
@@ -1027,14 +1029,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Confirm the mock date with your school or set your own"
+                - "Confirm the mock date with the school or set a home one"
                 - "Sit both written papers in full under timed conditions"
                 - "Tag every lost mark with its topic and reason"
                 - "Write a revision priority list from the results"
             - name: Final eight weeks CSEC PE and Sport revision timetable
               description: |-
                 ## Purpose
-                Eight weeks before the written papers, the SBA is usually finished but every other subject is competing for the same evenings. A timetable built from your mock results and skills matrix, mixing topic revision with timed questions, keeps the weakest topics in front of you until exam day.
+                Eight weeks before the written papers, the SBA is usually finished but every other subject is competing for the same evenings. A timetable built from the mock results and skills matrix, mixing topic revision with timed questions, keeps the weakest topics in front of your teen until exam day.
 
                 ## Milestones
                 1. An eight-week timetable written with the weakest topics first.
@@ -1050,7 +1052,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "20"
               tasks:
-                - "List your weakest topics from the mock and skills matrix"
+                - "List the weakest topics from the mock and skills matrix"
                 - "Build an eight-week timetable with the weakest topics first"
                 - "Plan one full timed paper in the last three weeks"
                 - "Review the week's revision against the timetable @recurring(weekly:fri)"
@@ -1066,29 +1068,29 @@ starter_structure:
                 4. Arrival time planned with transport and a backup.
 
                 ## Notes
-                Start from the **Operational checklist** template. Ease off hard training in the last few days so you arrive rested.
+                Start from the **Operational checklist** template. Encourage your teen to ease off hard training in the last few days so they arrive rested.
               priority: high
               deadlineOffsetDays: 265
               frontmatter:
                 mode: event
                 output_kind: event-completion
-                success_criteria: "You arrive on time for every written paper with all permitted items, having followed a written last-week plan."
+                success_criteria: "Your teen arrives on time for every written paper with all permitted items, having followed a written last-week plan."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
                 - "Confirm the exam date, time and room from the timetable"
-                - "Write and pack your exam day checklist"
+                - "Write and pack the exam day checklist"
                 - "Limit the final two days to definitions and key diagrams"
                 - "Plan transport with a backup and set an alarm"
             - name: Balancing competition season and CSEC as a student athlete
               description: |-
                 ## Purpose
-                Athletes in school track, football, netball or cricket teams often hit their biggest meets, such as national trials or CARIFTA qualifiers, in the same term as SBA deadlines and mocks. A weekly plan that fits study around training and travel, agreed with your coach, teacher and parents, protects both your season and your grade.
+                Athletes in school track, football, netball or cricket teams often hit their biggest meets, such as national trials or CARIFTA qualifiers, in the same term as SBA deadlines and mocks. A weekly plan that fits study around training and travel, agreed with the coach, the teacher and you, protects both their season and their grade.
 
                 ## Milestones
-                1. Your competition calendar laid next to SBA deadlines and exam dates.
+                1. The competition calendar laid next to SBA deadlines and exam dates.
                 2. Study blocks fixed around training, with travel days planned for light review.
-                3. Your coach and PE teacher told about clashes in advance.
+                3. The coach and PE teacher told about clashes in advance.
                 4. Sleep and recovery protected with at least one rest day a week.
               priority: medium
               frontmatter:
@@ -1097,39 +1099,39 @@ starter_structure:
                 success_criteria: "A weekly plan shows study, training, travel and rest for each week of the season, and clashes are agreed in advance with coach and teacher."
                 cadence: rolling
               tasks:
-                - "Put your competition calendar next to SBA and exam dates"
+                - "Put the competition calendar next to SBA and exam dates"
                 - "Plan next week's study blocks around training and travel @recurring(weekly:sun)"
-                - "Tell your coach and teacher about clashes at least two weeks ahead"
+                - "Your teen tells the coach and teacher about clashes at least two weeks ahead"
                 - "Pack revision cards for travel days"
             - name: Injury or illness during the practical assessment window
               description: |-
                 ## Purpose
-                An ankle sprain or illness in the weeks before practical assessment is common for active students, and the worst move is to keep quiet and perform badly. Knowing your school's process for deferred assessment or special consideration, and getting medical documentation early, keeps your options open.
+                An ankle sprain or illness in the weeks before practical assessment is common for active students, and the worst move is to keep quiet and perform badly. Knowing the school's process for deferred assessment or special consideration, and getting medical documentation early, keeps your teen's options open.
 
                 ## Milestones
-                1. Your school's process for a missed or deferred practical assessment found out in advance.
+                1. The school's process for a missed or deferred practical assessment found out in advance.
                 2. Any injury assessed by a doctor or physiotherapist, with written guidance.
-                3. Your PE teacher told in writing, with the medical note, as soon as possible.
-                4. A recovery or alternative plan agreed, including theory work while you recover.
+                3. The PE teacher told in writing, with the medical note, as soon as possible.
+                4. A recovery or alternative plan agreed, including theory work during recovery.
 
                 ## Notes
-                Do not train or perform through an injury against medical advice to protect a mark. Your teacher and the school can only help with what they know about.
+                Your teen should not train or perform through an injury against medical advice to protect a mark. The teacher and the school can only help with what they know about.
               priority: low
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "If injured, your teacher holds a written medical note and an agreed plan for deferred or alternative assessment within one week of the injury."
+                success_criteria: "If your teen is injured, the teacher holds a written medical note and an agreed plan for deferred or alternative assessment within one week of the injury."
                 cadence: phased
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your PE teacher what happens if illness stops a practical assessment"
-                - "Keep a copy of any medical note in your SBA file"
-                - "Agree a recovery plan with your doctor or physiotherapist"
-                - "Shift study time to theory topics while you recover"
+                - "Ask the PE teacher what happens if illness stops a practical assessment"
+                - "Keep a copy of any medical note in the SBA file"
+                - "Agree a recovery plan with the doctor or physiotherapist"
+                - "Shift study time to theory topics during recovery"
             - name: Teacher or coach tracker for a CSEC PE and Sport class
               description: |-
                 ## Purpose
-                PE teachers juggle practical assessments across several activities, written SBA drafts, moderation samples and the theory course for a whole class. One tracker holding each student's activities, assessment dates, marks, video evidence and SBA progress makes moderation requests and parents' questions quick to answer.
+                PE teachers juggle practical assessments across several activities, written SBA drafts, moderation samples and the theory course for a whole class. One tracker holding each student's activities, assessment dates, marks, video evidence and SBA progress makes moderation requests and parents' questions quick to answer. If you are a parent, this is the teacher's tool; ask what it shows about your teen at the termly review.
 
                 ## Milestones
                 1. A class tracker listing each student's activities, assessment dates and SBA draft status.
@@ -1150,11 +1152,11 @@ starter_structure:
             - name: Results, reviews and next steps after CSEC PE and Sport
               description: |-
                 ## Purpose
-                Results arrive in the summer, and a pass in PE and Sport can lead to CAPE Physical Education and Sport where it is offered, coaching or officiating courses, or careers in fitness, physiotherapy and sport management. Knowing in advance how to read the result slip, how to request a review and which sixth form or college options use the grade avoids a rushed decision.
+                Results arrive in the summer, and a pass in PE and Sport can lead to CAPE Physical Education and Sport where it is offered, coaching or officiating courses, or careers in fitness, physiotherapy and sport management. Knowing in advance how to read the result slip, how to request a review and which sixth form or college options use the grade avoids a rushed family decision.
 
                 ## Milestones
-                1. The review process and its deadline checked with your school or local registrar.
-                2. Your grade and profile grades read and recorded.
+                1. The review process and its deadline checked with the school or local registrar.
+                2. Your teen's grade and profile grades read and recorded.
                 3. A decision made on whether to request a review, if a grade is unexpected.
                 4. A next step chosen: CAPE subjects, a coaching or officiating course, or another route.
               priority: medium
@@ -1162,18 +1164,18 @@ starter_structure:
               frontmatter:
                 mode: event
                 output_kind: decision
-                success_criteria: "Your result is recorded, any review decision is made before the deadline, and your next step after CSEC is written down."
+                success_criteria: "The result is recorded, any review decision is made before the deadline, and the next step after CSEC is written down."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Check the CXC review process and deadline with your school"
-                - "Record your grade and profile grades when results arrive"
-                - "Decide with your teacher whether a review makes sense"
-                - "Choose your next step, such as CAPE, a coaching course or another route"
+                - "Check the CXC review process and deadline with the school"
+                - "Record the grade and profile grades when results arrive"
+                - "Decide together, with the teacher's view, whether a review makes sense"
+                - "Let your teen choose their next step, such as CAPE, a coaching course or another route"
 ---
 
 # CSEC Physical Education and Sport
 
-This area takes a CSEC Physical Education and Sport student from the first syllabus check to results day, in roughly the order the subject is taught and assessed. It opens with the foundations (the current syllabus, a diagnostic paper, choosing practical activities, a two-year plan, command words, data questions, a Caribbean sport examples bank and kit and medical safety), sets up the weekly routines, then works through the body systems and energy, fitness, testing and training, nutrition, drugs and injuries, skill acquisition and psychology, and sport in Caribbean society. After that come rules and officiating, video analysis, the SBA and practical assessment, examiner reports, the mock, the final weeks and exam day, with projects for student athletes, injured students, teachers and results at the end.
+This area helps a parent or guardian support a teenager through CSEC Physical Education and Sport, from the first syllabus check to results day, in roughly the order the subject is taught and assessed. It opens with the foundations (the current syllabus, a diagnostic paper, choosing practical activities, a two-year plan, command words, data questions, a Caribbean sport examples bank and kit and medical safety), sets up the weekly routines, then works through the body systems and energy, fitness, testing and training, nutrition, drugs and injuries, skill acquisition and psychology, and sport in Caribbean society. After that come rules and officiating, video analysis, the SBA and practical assessment, examiner reports, the mock, the final weeks and exam day, with projects for student athletes, injured students, teachers and results at the end.
 
-The rhythm is two weekly theory sessions, daily key term recall, a weekly practical practice log, a weekly resting heart rate reading, a monthly timed Paper 01 set and Paper 02 question, monthly video analysis, a termly fitness retest and a termly talk with your PE teacher. The Skills matrix, Habit tracker, Metrics log, Meeting notes, Training program and Operational checklist templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is two weekly theory sessions, daily key term recall, a weekly practical practice log, a weekly resting heart rate reading, a monthly timed Paper 01 set and Paper 02 question, monthly video analysis, a termly fitness retest and a termly talk with the PE teacher. The Skills matrix, Habit tracker, Metrics log, Meeting notes, Training program and Operational checklist templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

@@ -4301,12 +4301,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:ce91b82fa3d2a24cf2f2f512dd82f0db10a0f1ed41ce028af1e35cc082d20b33"
+      "contentHash": "sha256:4f61d959edc3ee1ae317a3094d42a7a0506ae5b0076d3da4856a590b398b5f22"
     },
     {
       "id": "caribbean-exams.cape-accounting",
       "name": "CAPE Accounting",
-      "description": "CAPE Accounting Units 1 and 2 in syllabus order: control systems, partnership and company statements, cash flows and ratios, costing, budgets, variances and investment appraisal, plus the internal assessment and past papers.",
+      "description": "CAPE Accounting Units 1 and 2 for parents and guardians backing a sixth former: control systems, company statements, cash flows and ratios, costing, budgets, variances, investment appraisal, the IA and past papers.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4331,12 +4331,12 @@
         "totalProjects": 50,
         "totalTasks": 204
       },
-      "contentHash": "sha256:215e69ad3a06fe41ac13d78deee47f334565ed7edb99757a8f63ebec557e8d95"
+      "contentHash": "sha256:47d0635cb06ddbe7165720d2e690f882ab9e1b8a893289b37b13a3c24cdad1cc"
     },
     {
       "id": "caribbean-exams.cape-applied-mathematics",
       "name": "CAPE Applied Mathematics",
-      "description": "CAPE Applied Mathematics from syllabus check to exam day: data, probability and inference in Unit 1, discrete methods and mechanics in Unit 2, both internal assessments, timed past papers and a revision plan.",
+      "description": "CAPE Applied Mathematics for parents and guardians of a sixth former: data, probability and inference in Unit 1, discrete methods and mechanics in Unit 2, both internal assessments, timed past papers and revision.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4359,12 +4359,12 @@
         "totalProjects": 50,
         "totalTasks": 202
       },
-      "contentHash": "sha256:4f7ddd267eb638c4c17c330159c540f337bb601d8b38e0b4ffab80830c7a4f3d"
+      "contentHash": "sha256:4a60e5f89b4719a1329c32a9bb5018608fb523f691f28679d7a7611be8742e6e"
     },
     {
       "id": "caribbean-exams.cape-biology",
       "name": "CAPE Biology",
-      "description": "A full CAPE Biology plan for Units 1 and 2: the current syllabus and papers, weekly routines, every module from biomolecules to immunology, the internal assessment labs, essay practice, mocks and exam day.",
+      "description": "A CAPE Biology plan for parents and guardians backing a sixth former through Units 1 and 2: the syllabus and papers, weekly routines, every module, the internal assessment labs, essay practice, mocks and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4388,12 +4388,12 @@
         "totalProjects": 50,
         "totalTasks": 201
       },
-      "contentHash": "sha256:e4cc1a5db70c1e7d871261914f5e6bc96ca2373c3d2e585159ddb7d97429d94f"
+      "contentHash": "sha256:1fadff04209d5387d7645dd99ab937576d2b983099523b00f84dea0b9f4b5d76"
     },
     {
       "id": "caribbean-exams.cape-caribbean-studies",
       "name": "CAPE Caribbean Studies",
-      "description": "A complete CAPE Caribbean Studies plan: the current syllabus and papers, Caribbean society and culture, issues in development, the research project from topic to submission, timed past papers, the mock and exam day.",
+      "description": "A CAPE Caribbean Studies plan for parents and guardians supporting a sixth former: the syllabus and papers, society and culture, issues in development, the research project, timed past papers, the mock and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4417,12 +4417,12 @@
         "totalProjects": 50,
         "totalTasks": 201
       },
-      "contentHash": "sha256:509e8d56389ba8216f76479ff30717f26d7a854314d6d43cfac434406260e91e"
+      "contentHash": "sha256:3add18b77cedb76b3e9e64465dc25376b1d5b1553e702297e0e0238db85d23b4"
     },
     {
       "id": "caribbean-exams.cape-chemistry",
       "name": "CAPE Chemistry",
-      "description": "CAPE Chemistry Units 1 and 2 module by module, from atomic structure and equilibria to organic synthesis, spectroscopy and industry, with the internal assessment, timed past papers and an exam-day plan.",
+      "description": "A CAPE Chemistry plan for parents and guardians backing a sixth former through Units 1 and 2: every module, the internal assessment, timed past papers and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4445,12 +4445,12 @@
         "totalProjects": 50,
         "totalTasks": 194
       },
-      "contentHash": "sha256:2e3d90fca94213370b8974dd0cf633c076168c444f8c229c279a791102594256"
+      "contentHash": "sha256:ed6ed3faeb0ba6bd11ca40a25bfd83be2c31bfe9b2e4e25db662a890bfdca67b"
     },
     {
       "id": "caribbean-exams.cape-communication-studies",
       "name": "CAPE Communication Studies",
-      "description": "A full CAPE Communication Studies plan: the current paper format, a diagnostic, weekly essay and reading routines, all three modules in syllabus order, the internal assessment portfolio and oral, past papers, the mock and exam day.",
+      "description": "A full CAPE Communication Studies plan for parents backing a sixth former: the paper format, a diagnostic, weekly essay and reading routines, all three modules, the portfolio and oral, past papers, the mock and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4473,12 +4473,12 @@
         "totalProjects": 50,
         "totalTasks": 202
       },
-      "contentHash": "sha256:a360e9f6f845329210c7eb478ae565bb7ad7ff40339bbf055397354edd1f624e"
+      "contentHash": "sha256:30e4ed6e30572c71f3f99e6ecfcfab2b54f0337562fb11330ebb9bc439353505"
     },
     {
       "id": "caribbean-exams.cape-computer-science",
       "name": "CAPE Computer Science",
-      "description": "A full CAPE Computer Science plan: the paper format check, a C compiler at home, weekly coding and trace drills, every module of Units 1 and 2 in syllabus order, both internal assessment projects, past papers, the mock and exam day.",
+      "description": "A CAPE Computer Science plan for parents and guardians backing a sixth former: the format check, a C compiler at home, weekly coding and trace drills, every module of Units 1 and 2, both IA projects, past papers, the mock and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4501,12 +4501,12 @@
         "totalProjects": 50,
         "totalTasks": 210
       },
-      "contentHash": "sha256:02a1e26d91fa178fc2e82598b56f96890b0c87860e66abcd36a6ad35e582e7d5"
+      "contentHash": "sha256:ebb005c7084e4538bb0de7b7a9a5758935549c21382c8441b626823e169e9bea"
     },
     {
       "id": "caribbean-exams.cape-economics",
       "name": "CAPE Economics",
-      "description": "CAPE Economics Units 1 and 2 topic by topic: consumer theory, market structures, market failure, distribution, national income, money, policy, trade and development, plus the IA, past papers and exam days.",
+      "description": "CAPE Economics Units 1 and 2 for parents and guardians backing a sixth former: consumer theory, markets, market failure, national income, money, policy, trade and development, plus the IA, past papers and exam days.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4531,12 +4531,12 @@
         "totalProjects": 50,
         "totalTasks": 225
       },
-      "contentHash": "sha256:c92cd482adeba3327bcfe506b3b306c83fb73f35f8e883a8272ccaff6f12caf6"
+      "contentHash": "sha256:d6a6b1d5b63c96ac012283267454fe5a2ec78a9c26d2932afb02d15fb527e588"
     },
     {
       "id": "caribbean-exams.cape-law",
       "name": "CAPE Law",
-      "description": "A full CAPE Law plan for Units 1 and 2: the current syllabus and papers, IRAC answers, every module from legal systems to property, a case bank, the internal assessment, timed past papers and exam day.",
+      "description": "A full CAPE Law plan for parents supporting a sixth former through Units 1 and 2: the syllabus and papers, IRAC answers, every module from legal systems to property, the internal assessment, past papers and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4560,12 +4560,12 @@
         "totalProjects": 50,
         "totalTasks": 199
       },
-      "contentHash": "sha256:f54e3195fe4ddff309951a36dbfca23259a95818691261c778905a411ea89c2e"
+      "contentHash": "sha256:b98a07e4262c9d0bb7061659a184cc5a1a5d73ce6b2569e78df24f51ba537e85"
     },
     {
       "id": "caribbean-exams.cape-literatures-in-english",
       "name": "CAPE Literatures in English",
-      "description": "A route through CAPE Literatures in English Units 1 and 2: set texts by genre, unseen extracts, timed essays, the internal assessment, mocks and exam day, for students, parents and teachers.",
+      "description": "A route through CAPE Literatures in English Units 1 and 2 for parents supporting a sixth former: set texts by genre, unseen extracts, timed essays, the internal assessment, mocks and exam day, with projects for teachers too.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4588,12 +4588,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:483321e10254ff546862698c569739321f5fd9607858dc90aed57ac51e3f6a71"
+      "contentHash": "sha256:0f0b851357ebcec4492a45654736b0635f491e4eb5b02696eacb508ae10fc3e8"
     },
     {
       "id": "caribbean-exams.cape-management-of-business",
       "name": "CAPE Management of Business",
-      "description": "A complete CAPE Management of Business plan for Units 1 and 2: the syllabus and papers, all six modules, case answers, finance and operations calculations, the internal assessment, timed past papers, the mock and exam day.",
+      "description": "A CAPE Management of Business plan for parents supporting a sixth former through Units 1 and 2: the syllabus, all six modules, finance calculations, the internal assessment, timed past papers, the mock and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4616,12 +4616,12 @@
         "totalProjects": 50,
         "totalTasks": 203
       },
-      "contentHash": "sha256:ecd715ffdb9fe1340e650530f246fe1cb27f24ff004e7fd1517843a99ea873bd"
+      "contentHash": "sha256:3486780ed89a8e364f8275734666bec2573a657ae0a67a6a43903a4170a24a92"
     },
     {
       "id": "caribbean-exams.cape-physics",
       "name": "CAPE Physics",
-      "description": "A full CAPE Physics plan for Units 1 and 2: the current paper format, a diagnostic, weekly question routines, every module in syllabus order, the lab book and internal assessment, past papers, the mock and exam day.",
+      "description": "A CAPE Physics plan for parents backing a sixth former through Units 1 and 2: paper format, a diagnostic, weekly routines, every module, the lab book and internal assessment, past papers, the mock and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4644,12 +4644,12 @@
         "totalProjects": 50,
         "totalTasks": 193
       },
-      "contentHash": "sha256:d6c96648662ac66e281ea31a2e0a284de6556f8be41535cd146f64abf9da945a"
+      "contentHash": "sha256:9d82c47a086b2e6ae9846bb5dd5adfbcd9555e8c7456cf11adecc4058a140ea6"
     },
     {
       "id": "caribbean-exams.cape-pure-mathematics",
       "name": "CAPE Pure Mathematics",
-      "description": "CAPE Pure Mathematics Units 1 and 2 module by module: logic, algebra, trigonometry, vectors, calculus, complex numbers, series, matrices and differential equations, plus the internal assessment, past papers and exam days.",
+      "description": "CAPE Pure Mathematics Units 1 and 2 for parents and guardians of a sixth former: logic, algebra, trigonometry, vectors, calculus, complex numbers, series, matrices, differential equations, the IA and exam days.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4674,12 +4674,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:a661d0467dc685af2dfa539a6ffd7c4cb2a205b49d572e4766da10cf8fe45d1f"
+      "contentHash": "sha256:c4717a8d606a44233098ea5a1d3a0fce0dcc1221454ea5b9a2d5c55a20b3013a"
     },
     {
       "id": "caribbean-exams.cape-scholarships-university-entry",
       "name": "CAPE Results, Scholarships and University",
-      "description": "From CAPE results to a university seat: official dates, national scholarship rules, UWI and overseas applications, offers, reviews, loans, visas and the first semester, for students and parents.",
+      "description": "From CAPE results to a university seat: official dates, national scholarship rules, UWI and overseas applications, offers, reviews, loans, visas and the first semester, for parents backing a sixth former.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4702,12 +4702,12 @@
         "totalProjects": 50,
         "totalTasks": 204
       },
-      "contentHash": "sha256:d4f022ad03d78cb066109ce3d5a4faf2ca0db73711fe7f8e93f51091d23c26fd"
+      "contentHash": "sha256:1db236d04f0806398bd01f4157869dc8e73de2d12ffc191035462e7e572847b5"
     },
     {
       "id": "caribbean-exams.cape-sociology",
       "name": "CAPE Sociology",
-      "description": "A full CAPE Sociology plan for Units 1 and 2: theory and methods, family, religion, stratification, education and development, the research project from question to submission, timed past papers, the mock and exam day.",
+      "description": "A full CAPE Sociology plan for parents supporting a sixth former through Units 1 and 2: theory and methods, family, religion, stratification, education, development, the research project, past papers and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4730,12 +4730,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:3897270ad5874b74415ad9a70dd60a8d43eb9b96b63f531a0917b2ec76705f5d"
+      "contentHash": "sha256:be62256e28d619f1cb409fb869243f2870ef8f3186e409f0adfb1464a87d867d"
     },
     {
       "id": "caribbean-exams.csec-additional-mathematics",
       "name": "CSEC Additional Mathematics",
-      "description": "CSEC Additional Mathematics from the first syllabus check to exam day: algebra, functions, coordinate geometry, vectors, trigonometry, calculus, statistics and probability, the SBA project, timed past papers and a revision plan.",
+      "description": "CSEC Additional Mathematics for parents and guardians supporting a teen: algebra, functions, vectors, trigonometry, calculus, statistics, the SBA, timed past papers and revision.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4760,12 +4760,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:52d2ff7c2ef24960384b0e74d038e4aff7ac3eabd736b5075b6e93ead49179cf"
+      "contentHash": "sha256:cb6851fae8af04906a294dc9c3d86c81c6ce92a61575aca8b4a9df335f19e952"
     },
     {
       "id": "caribbean-exams.csec-agricultural-science",
       "name": "CSEC Agricultural Science",
-      "description": "A complete CSEC Agricultural Science plan: the current syllabus and award choice, weekly routines, every topic from soil to crops, livestock and agribusiness, the practical SBA, timed past papers, the mock, exam day and results.",
+      "description": "A CSEC Agricultural Science plan for parents and guardians of a teen: the syllabus and award choice, weekly routines, every topic from soil to livestock and agribusiness, the practical SBA, past papers, the mock, exam day and results.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4789,12 +4789,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:4cdbc4da57c5cad94279f9d2d3b6b1a1d12ac71de75efb88834285a410253ba9"
+      "contentHash": "sha256:6c3fe5f97aebc5d93dd39b37473dfd8db516d79610e742a8349ffdb65e54af21"
     },
     {
       "id": "caribbean-exams.csec-biology",
       "name": "CSEC Biology",
-      "description": "A complete CSEC Biology plan: the current syllabus and papers, weekly routines, every topic from ecology and cells to genetics, SBA labs and write-ups, timed past papers, the mock, exam day and results.",
+      "description": "A CSEC Biology plan for parents supporting a student: the current syllabus and papers, weekly routines, every topic from ecology and cells to genetics, SBA labs, timed past papers, the mock, exam day and results.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4818,12 +4818,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:51c1a6f06fb356f4a9c0264fcf55e114c12f30196881fb53ea1aeb48ea926fba"
+      "contentHash": "sha256:685d43c416bbbf13494232a11d1a73ff201301ed0eafb00c57700ffe9bde8a99"
     },
     {
       "id": "caribbean-exams.csec-caribbean-history",
       "name": "CSEC Caribbean History",
-      "description": "A complete CSEC Caribbean History plan: the current syllabus and papers, weekly routines, every theme from the first peoples to independence and society, source skills, the SBA research, timed past papers, the mock and exam day.",
+      "description": "A CSEC Caribbean History plan for a parent supporting a teen: the syllabus and papers, weekly routines, every theme from the first peoples to independence, source skills, the SBA, past papers, the mock and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4846,12 +4846,12 @@
         "totalProjects": 50,
         "totalTasks": 204
       },
-      "contentHash": "sha256:66f8db05ae3df17ab9d40aa8b150fee692c5ca4a03a746da285096552f7ba0cc"
+      "contentHash": "sha256:62779a26067413b4ec5e40a51228ac9d19e7c59d27b44d74ba78d30ff243e6f0"
     },
     {
       "id": "caribbean-exams.csec-chemistry",
       "name": "CSEC Chemistry",
-      "description": "CSEC Chemistry studied section by section, from atomic structure and the mole to organic and qualitative analysis, with lab skills, the SBA, timed past papers and an exam-day plan for students, parents and teachers.",
+      "description": "CSEC Chemistry section by section, from atomic structure and the mole to organic and qualitative analysis, with lab skills, the SBA, timed past papers and an exam-day plan for parents supporting a student, plus teacher projects.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4874,12 +4874,12 @@
         "totalProjects": 50,
         "totalTasks": 199
       },
-      "contentHash": "sha256:6541d1e24565e03b1337603f6b3b5ae019527c63b9c24ff0c947b11395622dcf"
+      "contentHash": "sha256:4cfdcb99be6db75f88bbfc9a6198ead87f33e105283f69772c43ad80adf3f15a"
     },
     {
       "id": "caribbean-exams.csec-economics",
       "name": "CSEC Economics",
-      "description": "A complete CSEC Economics plan: the current syllabus and papers, weekly routines, every topic from scarcity and markets to money, government and Caribbean trade, the SBA, data questions, the mock, exam day and results.",
+      "description": "A CSEC Economics plan for parents and guardians supporting a teenager: the current syllabus and papers, weekly routines, every topic from scarcity to Caribbean trade, the SBA, data questions, the mock, exam day and results.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4902,12 +4902,12 @@
         "totalProjects": 50,
         "totalTasks": 201
       },
-      "contentHash": "sha256:92d9ebda0adba27e76e4deb6c539681163ab907a5f1360847de544e7b2f0fa42"
+      "contentHash": "sha256:5a150b1b050af03b2c1040b60121543784156d64739f39cd9c8269616fe6f8b0"
     },
     {
       "id": "caribbean-exams.csec-edpm",
       "name": "CSEC Electronic Document Preparation (EDPM)",
-      "description": "A full CSEC EDPM plan: the current syllabus and papers, daily touch typing and timed speed tests, every document type from letters to mail merge and newsletters, the SBA portfolio, the practical mock and exam day.",
+      "description": "A CSEC EDPM plan for parents and guardians supporting a teenager: the syllabus and papers, daily touch typing and speed tests, every document type from letters to mail merge, the SBA portfolio, the practical mock and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4932,12 +4932,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:d492207ca1d5d1ece81139e77a6a11d4f971ea6488a4594c02b98a8e80c41388"
+      "contentHash": "sha256:58b5f23aca5796602cdfed122893052b8600a41e44b7c445cf23713f2b87b878"
     },
     {
       "id": "caribbean-exams.csec-english-a",
       "name": "CSEC English A",
-      "description": "A full CSEC English A plan: the current paper format, a diagnostic, weekly summary, comprehension and timed writing routines, each syllabus skill in turn, the SBA from theme to submission, past papers, the mock and exam day.",
+      "description": "A CSEC English A plan for parents and guardians supporting a teen: the paper format, a diagnostic, weekly summary, comprehension and writing routines, the SBA, past papers and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4960,12 +4960,12 @@
         "totalProjects": 50,
         "totalTasks": 201
       },
-      "contentHash": "sha256:33cbfe40d00292ec4142cfad839bfd1622a3a00292e2ed94e2a5de932034ec39"
+      "contentHash": "sha256:31faa966216cbbedf5ddb5a6d2319f78f6aee74b40ea1a6435769f0ecac70f10"
     },
     {
       "id": "caribbean-exams.csec-english-b",
       "name": "CSEC English B (Literature)",
-      "description": "Set drama, poetry and prose texts studied genre by genre, quote banks, a weekly timed essay habit, the SBA, past papers and an exam-day plan for students, parents and teachers preparing for CSEC English B.",
+      "description": "Set drama, poetry and prose texts studied genre by genre, quote banks, a weekly timed essay habit, the SBA, past papers and an exam-day plan for parents supporting a CSEC English B student, with projects for teachers too.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -4989,12 +4989,12 @@
         "totalProjects": 50,
         "totalTasks": 198
       },
-      "contentHash": "sha256:b5abc9144716becbd69be7b63244a18ab8c64798821e2b4f9c394aa8c019588e"
+      "contentHash": "sha256:c68c8970d6b6b101f47dcfb380a19f2bac33bcca6760a84e4fc31f1613e07255"
     },
     {
       "id": "caribbean-exams.csec-food-nutrition-health",
       "name": "CSEC Food, Nutrition and Health",
-      "description": "A complete CSEC Food, Nutrition and Health plan: the current syllabus, weekly study and home cooking, every topic from nutrients to food science and preservation, the practical SBA, timed past papers, the mock and exam day.",
+      "description": "A CSEC Food, Nutrition and Health plan for parents supporting a teen: the current syllabus, weekly study and home cooking, every topic from nutrients to preservation, the practical SBA, past papers and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5017,12 +5017,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:a95007867577fbf401ecd06f45acd8c6187f80456015ede6926472deb3d15382"
+      "contentHash": "sha256:7f6597a1651f1f5b2ab6ca5d741ec267e90e9e8138a073175093ffed5d2a54f2"
     },
     {
       "id": "caribbean-exams.csec-french",
       "name": "CSEC French",
-      "description": "A full CSEC French plan: the current paper format, daily vocabulary and weekly listening and speaking routines, grammar and syllabus themes, the oral, any SBA, past papers, the mock and exam days.",
+      "description": "A CSEC French plan for parents and guardians: the paper format, daily vocabulary and weekly listening and speaking routines, grammar and syllabus themes, the oral, any SBA, past papers, the mock and exam days.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5045,12 +5045,12 @@
         "totalProjects": 50,
         "totalTasks": 202
       },
-      "contentHash": "sha256:ca9e0dcd43c061aefb2fb27f8a75ea23ad96e80a35a3ecdadf424f68a4f40479"
+      "contentHash": "sha256:77d863f8a36f6861f30162fa109efcac9e41b16c721201b38ce7212f7ec4fce9"
     },
     {
       "id": "caribbean-exams.csec-geography",
       "name": "CSEC Geography",
-      "description": "A complete CSEC Geography plan: the current syllabus and papers, weekly mapwork and study routines, every topic from contours and plate tectonics to hurricanes, migration and tourism, the field study SBA, the mock, exam day and results.",
+      "description": "A CSEC Geography plan for parents and guardians: the syllabus and papers, weekly mapwork and study routines, topics from contours to hurricanes, migration and tourism, the field study SBA, the mock, exam day and results.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5073,12 +5073,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:a1f028392bd6e45d470761d612b263b564b8a11013c341aee69274dc070a8c25"
+      "contentHash": "sha256:32a9022ba91cf8b94ca5461e5de2904027d86b04219a4866e660943a36298d8b"
     },
     {
       "id": "caribbean-exams.csec-human-social-biology",
       "name": "CSEC Human and Social Biology",
-      "description": "A full CSEC Human and Social Biology plan: the paper format check, every syllabus section from cells to disease and the environment, the SBA lab book, timed past papers and exam day.",
+      "description": "A CSEC Human and Social Biology plan for parents and guardians: the paper format check, every section from cells to disease and the environment, the SBA lab book, timed past papers and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5101,12 +5101,12 @@
         "totalProjects": 50,
         "totalTasks": 212
       },
-      "contentHash": "sha256:e9425d1744c08f4985383fbd78328249b7d7232e6851f2fe77d53611b49c4a82"
+      "contentHash": "sha256:9b8e7a735de913aae40ac39c22339ae4df3f5760c505e3a6eab0eda22f9680b2"
     },
     {
       "id": "caribbean-exams.csec-information-technology",
       "name": "CSEC Information Technology",
-      "description": "A complete CSEC Information Technology plan: the current syllabus and papers, daily coding drills, every section from computer fundamentals to program implementation, the SBA, timed past papers, the mock, exam day and results.",
+      "description": "A CSEC Information Technology plan for a parent supporting a teen: the syllabus and papers, daily coding drills, every section from fundamentals to programming, the SBA, past papers, the mock, exam day and results.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5130,12 +5130,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:4e46f3d21ba50034616f1313099812420cbcc449e61a5aa28e04e1e73b1ab735"
+      "contentHash": "sha256:fba6d507ff14f81014a06ca22c813d595cd43c8664e061acab0db287b6c731ca"
     },
     {
       "id": "caribbean-exams.csec-integrated-science",
       "name": "CSEC Integrated Science",
-      "description": "A full CSEC Integrated Science plan: the current paper format, every syllabus topic from cells to circuits to hurricanes, the SBA lab book, Paper 032 for private candidates, timed past papers and exam day.",
+      "description": "A CSEC Integrated Science plan for parents and guardians: the current paper format, every topic from cells to circuits to hurricanes, the SBA lab book, Paper 032, timed past papers and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5158,12 +5158,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:942240d0c3a4a08d705d6836c2d0fe95c3df45ae904012221457d1f54cb8f00c"
+      "contentHash": "sha256:5972ce2bad84bd93147187f7d89444aa30d9f3efdcfeec0f0b7fe5f1462ce739"
     },
     {
       "id": "caribbean-exams.csec-mathematics",
       "name": "CSEC Mathematics",
-      "description": "A full CSEC Mathematics plan: the current paper format, every syllabus section from number to vectors and matrices, the SBA project, timed past papers, mark schemes and the final weeks to exam day.",
+      "description": "A CSEC Mathematics plan for parents and guardians supporting a teen: the paper format, every syllabus section, the SBA project, timed past papers and the final weeks to exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5186,12 +5186,12 @@
         "totalProjects": 50,
         "totalTasks": 206
       },
-      "contentHash": "sha256:b62844aa56c16d9106978187a40b77c52ff0d1cb83aafb8d58dab09bc60f7db6"
+      "contentHash": "sha256:4f60582b96dd48d332ede030f3d4f5398d921ea8eacea19170bcb5ee04d44cb8"
     },
     {
       "id": "caribbean-exams.csec-music",
       "name": "CSEC Music",
-      "description": "A daily practice routine, ear training, notation and theory, Caribbean and world styles studied for the listening paper, composing and performing for the SBA, and a timed plan to the CSEC Music exam.",
+      "description": "A daily practice routine, ear training, notation and theory, Caribbean and world styles for the listening paper, and composing and performing for the SBA, as a plan for parents supporting a CSEC Music student.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5214,12 +5214,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:49f9a6ae4a071b277426ef0f63e8f1fbf24fbfd62c091a968dcd5d60374a3818"
+      "contentHash": "sha256:d8d264c214cce91c141bbb9257bbef4378fb7d04ed8917e2afb1839cd7683281"
     },
     {
       "id": "caribbean-exams.csec-office-administration",
       "name": "CSEC Office Administration",
-      "description": "A full CSEC Office Administration plan: the current syllabus and papers, weekly routines, every topic from reception and mail to records, meetings and purchasing, the SBA, timed past papers, the mock and exam day.",
+      "description": "A CSEC Office Administration plan for parents and guardians supporting a teenager: the syllabus and papers, weekly routines, every topic from reception and mail to records, meetings and purchasing, the SBA, the mock and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5243,12 +5243,12 @@
         "totalProjects": 50,
         "totalTasks": 201
       },
-      "contentHash": "sha256:3d3c6e8f602d55e8a36a5fff412fc29f3478ba453b9c894155893a1b991c7be8"
+      "contentHash": "sha256:0dd91cf5129d9431d0084212e7a1da8ed03c2913c5a3a5255664f7a025de451c"
     },
     {
       "id": "caribbean-exams.csec-physical-education-sport",
       "name": "CSEC Physical Education and Sport",
-      "description": "A complete CSEC Physical Education and Sport plan: the current syllabus and papers, anatomy, fitness and training, sport in Caribbean society, practical activities, the SBA, timed past papers, the mock and exam day.",
+      "description": "The current CSEC Physical Education and Sport syllabus and papers, anatomy, fitness and training, sport in Caribbean society, practical activities, the SBA, past papers, the mock and exam day, for parents supporting a student.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5271,12 +5271,12 @@
         "totalProjects": 50,
         "totalTasks": 201
       },
-      "contentHash": "sha256:6fbb9593a087ae40eb898aad86c447fd2f71165812071bebc266954d087f421a"
+      "contentHash": "sha256:67209ac488c510fd5fbb45080a0c419d86c5e2611dbe662fc907f9b6934a435e"
     },
     {
       "id": "caribbean-exams.csec-physics",
       "name": "CSEC Physics",
-      "description": "A full CSEC Physics plan: the current paper format, all five syllabus sections from mechanics to the atom, the SBA lab book, timed past papers, mark schemes and the final weeks to exam day.",
+      "description": "A CSEC Physics plan for parents and guardians: the current paper format, all five syllabus sections from mechanics to the atom, the SBA lab book, timed past papers and the final weeks to exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5299,12 +5299,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:7f7372f4f8ae0bedaa0f6d43e2ee86b004be38910f9a1366bf6f9ba090c84966"
+      "contentHash": "sha256:1787dc1068b2f8ace46ebb8d66479ccfd59d0e20a657ce862630a094e828f095"
     },
     {
       "id": "caribbean-exams.csec-principles-of-accounts",
       "name": "CSEC Principles of Accounts",
-      "description": "A complete CSEC Principles of Accounts plan: the current syllabus and papers, daily double-entry drills, every section from the cash book to payroll, the SBA, timed past papers, the mock, exam day and results.",
+      "description": "A CSEC Principles of Accounts plan for parents and guardians of a teen: the syllabus and papers, daily double-entry drills, every section from the cash book to payroll, the SBA, past papers, the mock, exam day and results.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5328,12 +5328,12 @@
         "totalProjects": 50,
         "totalTasks": 202
       },
-      "contentHash": "sha256:2aa6f32ff57bd0da4e65d257815bbfa833b2700643cf7f997ba5d52bb9719297"
+      "contentHash": "sha256:2fd8ce003dc742ee363701c18fae5d40e48faeea37447eddf38125a03eab96e1"
     },
     {
       "id": "caribbean-exams.csec-principles-of-business",
       "name": "CSEC Principles of Business",
-      "description": "A complete CSEC Principles of Business plan: the current syllabus and papers, weekly routines, every section from business organisation to the Caribbean economy, the SBA research project, timed past papers, the mock and exam day.",
+      "description": "A CSEC Principles of Business plan for parents and guardians of a teen: the syllabus and papers, weekly routines, every section from business organisation to the Caribbean economy, the SBA research, past papers, the mock and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5357,12 +5357,12 @@
         "totalProjects": 50,
         "totalTasks": 194
       },
-      "contentHash": "sha256:9993af79cc98445ce1b7efbd2712ff6a986bc37068e4c1628c40fc6f222dddb4"
+      "contentHash": "sha256:46542753bcf611188ad81329cb20fc0a5caa2ab6268aa07ac79323d178573011"
     },
     {
       "id": "caribbean-exams.csec-private-candidate",
       "name": "CSEC as a Private or Adult Candidate",
-      "description": "A complete plan for sitting CSEC without a school: the Local Registrar and entry, Paper 032 in place of the SBA, self-study around work and family, mock week, exam day, results and using them abroad.",
+      "description": "A complete plan for sitting CSEC without a school, for adult candidates and parents supporting a teen sitting privately: the Local Registrar, Paper 032 in place of the SBA, self-study, mock week, exam day and results.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5385,12 +5385,12 @@
         "totalProjects": 50,
         "totalTasks": 204
       },
-      "contentHash": "sha256:b2f3eca2907e233deffc2c0a45338fcfdff2fced520d17909197b9ef74f353f8"
+      "contentHash": "sha256:da0ee5568605d4da8e2da13dfbd1ebc0510cf48d4e0061c9ca362074e03cbc98"
     },
     {
       "id": "caribbean-exams.csec-sba-planning",
       "name": "CSEC SBA Planning Across Subjects",
-      "description": "Every CSEC School-Based Assessment planned as one system: an SBA inventory and master calendar, shared research and writing skills, drafts and feedback, sign-off and submission, plus projects for parents and SBA teachers.",
+      "description": "Every CSEC School-Based Assessment planned as one system, for parents supporting a teen: an SBA inventory and master calendar, shared research and writing skills, drafts, sign-off and submission, plus teacher projects.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5413,12 +5413,12 @@
         "totalProjects": 50,
         "totalTasks": 202
       },
-      "contentHash": "sha256:5c7ad70a550bdc4976b0a40092646a803a3541ece3830053e139c46279f58c8d"
+      "contentHash": "sha256:3a7bd1045d5fbeb18a8c7976e41697b1e7b18fa7da5e31f65ede4c5a93da08d5"
     },
     {
       "id": "caribbean-exams.csec-social-studies",
       "name": "CSEC Social Studies",
-      "description": "A complete CSEC Social Studies plan: the current syllabus and papers, family, society, development and regional integration section by section, your option, the SBA research project, timed past papers, the mock and exam day.",
+      "description": "A CSEC Social Studies plan for a parent supporting a teen: the syllabus and papers, family, society, development and regional integration, the option, the SBA research project, past papers, the mock and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5442,12 +5442,12 @@
         "totalProjects": 50,
         "totalTasks": 201
       },
-      "contentHash": "sha256:e8ce40103a852c2dafa2242f36841bfc13384778f6ab1e585ab7ab5186d29de7"
+      "contentHash": "sha256:d745c750f4418adf1e461544707be5bd7beb69c9e7fbd4432ad22e71b1a0e5e6"
     },
     {
       "id": "caribbean-exams.csec-spanish",
       "name": "CSEC Spanish",
-      "description": "A full CSEC Spanish plan: the current paper and oral format, a diagnostic, daily vocabulary and weekly listening and speaking routines, the grammar and topic areas in turn, every exam section, mocks, the oral and exam day.",
+      "description": "A CSEC Spanish plan for parents and guardians: the paper and oral format, a diagnostic, daily vocabulary and weekly listening and speaking routines, grammar and topics, every exam section, mocks, the oral and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5472,12 +5472,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:89947f5390321c586eec1424c3d1041134bf66e9fd496726fd767664f3019b40"
+      "contentHash": "sha256:7c73f605d9d15e7bb7e0a79ea7936e91e40f3249f9ec8c03c700d6b3bffa7978"
     },
     {
       "id": "caribbean-exams.csec-technical-drawing",
       "name": "CSEC Technical Drawing",
-      "description": "A full CSEC Technical Drawing plan: the syllabus and papers, plane and solid geometry topic by topic, the building or mechanical option, timed past papers, the SBA drawings, the mock and exam day.",
+      "description": "A CSEC Technical Drawing plan for parents supporting a teen: the syllabus and papers, plane and solid geometry, the building or mechanical option, timed papers, the SBA drawings, the mock and exam day.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5500,12 +5500,12 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:face3ba45d6da2a37e569146c6986b47551c960cda9325b75b4c344181256130"
+      "contentHash": "sha256:df2a56bed6776e28d0a7a9e8b4541827bee10237ef11390dc8b294ea0d5a0ad6"
     },
     {
       "id": "caribbean-exams.csec-visual-arts",
       "name": "CSEC Visual Arts",
-      "description": "Expressive form pieces, a reflective journal that tells the story of your work, art history, studio routines and a schedule to the submission date for students, parents and teachers preparing for CSEC Visual Arts.",
+      "description": "Expressive form pieces, a reflective journal, art history, studio routines and a schedule to the submission date, for parents and guardians supporting a CSEC Visual Arts student, with projects for teachers too.",
       "category": "personal",
       "tags": [
         "caribbean-exams",
@@ -5529,7 +5529,7 @@
         "totalProjects": 50,
         "totalTasks": 200
       },
-      "contentHash": "sha256:300fb0236cd1ef4bac8ca7b08049a252602074e35f1e75d49e5c140150e59b1b"
+      "contentHash": "sha256:ada6018bb2b90cca5116b16bbcd56ec3a6b17203258d98fe7bc9c85dccc8a42c"
     },
     {
       "id": "caribbean-exams.cxc-cpea-primary-exit",
@@ -5558,7 +5558,7 @@
         "totalProjects": 50,
         "totalTasks": 202
       },
-      "contentHash": "sha256:6489c1ef45719d1fc0ba021af3aa010099dc2d4daee2c38a36c9b05c05570f85"
+      "contentHash": "sha256:f74d537dda042b0dab4b056f863d259b25251b5544e90c8c7fdd46233f07088f"
     },
     {
       "id": "caribbean-exams.jamaica-pep-grade-six",
@@ -5588,7 +5588,7 @@
         "totalProjects": 50,
         "totalTasks": 201
       },
-      "contentHash": "sha256:41b0e9daf6d39addfd2ddee070dcb6ac18b4057182eb1d82bc75a6b40d8bc8a1"
+      "contentHash": "sha256:8ea40d7634bc63277113b2cedb0f82fba58e6cdb95e9af4deba70e75548f8471"
     },
     {
       "id": "caribbean-exams.sea-creative-writing",
@@ -5617,7 +5617,7 @@
         "totalProjects": 50,
         "totalTasks": 201
       },
-      "contentHash": "sha256:693fee34b69aa0cd6a896cad0cc719b3d6cb18f1771d8f543e9a0dcea7b794f9"
+      "contentHash": "sha256:493c8f1f6ee9a839f404c5a8e4c05588230221907c19a43da013140a964bad05"
     },
     {
       "id": "caribbean-exams.sea-english-language-arts",
@@ -5645,7 +5645,7 @@
         "totalProjects": 50,
         "totalTasks": 203
       },
-      "contentHash": "sha256:54ed9aa92aa6f457ee8f29ce79026377c17397114db3d13687f1e568159d9471"
+      "contentHash": "sha256:f017b2ae8b8d7c4838e134b33c7f92ee90232e282f0b1b33cec03ce24f6147c0"
     },
     {
       "id": "caribbean-exams.sea-mathematics",
@@ -5674,7 +5674,7 @@
         "totalProjects": 50,
         "totalTasks": 198
       },
-      "contentHash": "sha256:ce4a58d840b564b78d835699674161995ac710134ec17a46651cb92201eb9330"
+      "contentHash": "sha256:1b847c7deb3d8d8e2c4b8c125620d8fd44f8d2f2a3dcca78aaec4b8d64539af2"
     },
     {
       "id": "caribbean-exams.sea-school-choices-results",
@@ -5702,7 +5702,7 @@
         "totalProjects": 50,
         "totalTasks": 197
       },
-      "contentHash": "sha256:30c2060bf25bc6be72a732460f9ce3d28d7df89f5c78e8f742b5b45a322079c7"
+      "contentHash": "sha256:680e15a25f7e92e1c196968947fe1d29871d38a14240022cc919f4ed63991252"
     },
     {
       "id": "data-analytics.algorithmic-bias-review",

@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-food-nutrition-health
 name: CSEC Food, Nutrition and Health
-description: "A complete CSEC Food, Nutrition and Health plan: the current syllabus, weekly study and home cooking, every topic from nutrients to food science and preservation, the practical SBA, timed past papers, the mock and exam day."
+description: "A CSEC Food, Nutrition and Health plan for parents supporting a teen: the current syllabus, weekly study and home cooking, every topic from nutrients to preservation, the practical SBA, past papers and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-food-nutrition-health, student, parent, cxc, csec, nutrition, sba]
@@ -16,7 +16,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -26,15 +26,17 @@ starter_structure:
             - name: Current CSEC Food, Nutrition and Health syllabus and paper format check
               description: |-
                 ## Purpose
-                Food, Nutrition and Health is examined through a multiple-choice Paper 01, a written Paper 02 and a school-based assessment built around practical cookery, and the course replaced the older CSEC Food and Nutrition syllabus. An hour with the current CXC syllabus and timetable means everything you study, cook and write in this area is aimed at the exam you will actually sit.
+                Food, Nutrition and Health is examined through a multiple-choice Paper 01, a written Paper 02 and a school-based assessment built around practical cookery, and the course replaced the older CSEC Food and Nutrition syllabus. An hour with the current CXC syllabus and timetable, ideally alongside your teen, means everything they study, cook and write in this area is aimed at the exam they will actually sit.
 
                 ## Milestones
                 1. The current CSEC Food, Nutrition and Health syllabus downloaded from the CXC website and its edition year noted.
                 2. The format of each paper, including the SBA, written on one page in the syllabus's own words.
                 3. The syllabus sections and their topics listed in the order the syllabus gives them.
-                4. The May to June sitting confirmed with your school and the subject's date noted once the timetable is published.
+                4. The May to June sitting confirmed with the school and the subject's date noted once the timetable is published.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CSEC Food, Nutrition and Health, and an older student can follow it with a parent's support.
+
                 Revision books written for the older Food and Nutrition syllabus still circulate. Where they disagree with the current CXC document, the CXC document wins.
               priority: high
               deadlineOffsetDays: 10
@@ -47,16 +49,16 @@ starter_structure:
               tasks:
                 - "Check the current syllabus and timetable on the CXC website and note the paper format"
                 - "List the syllabus sections and their topics on one page in order"
-                - "Write the syllabus edition year on the front of your FNH folder"
+                - "Write the syllabus edition year on the front of the FNH folder"
                 - "Re-check the CXC website for syllabus amendments at the start of the school year @recurring(yearly)"
-            - name: Diagnostic FNH paper to find your starting point
+            - name: Diagnostic FNH paper to find the starting point
               description: |-
                 ## Purpose
-                Most students arrive in Form Four having cooked at home but never been asked why a custard curdles or which nutrient prevents anaemia. A short diagnostic, half from a past Paper 01 and half from past Paper 02 questions, shows which sections are already solid and which need the most weeks in your plan.
+                Most students arrive in Form Four having cooked at home but never been asked why a custard curdles or which nutrient prevents anaemia. A short diagnostic, half from a past Paper 01 and half from past Paper 02 questions, shows you and your teen which sections are already solid and which need the most weeks in the plan.
 
                 ## Milestones
                 1. One past Paper 01 and two Paper 02 questions attempted in one sitting without notes.
-                2. The diagnostic marked against the mark scheme or by your teacher.
+                2. The diagnostic marked against the mark scheme or by the teacher.
                 3. A score for each syllabus section written in a small table.
                 4. The three weakest sections named and carried into the two-year study plan.
               priority: high
@@ -68,20 +70,20 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher for a past Paper 01 and two Paper 02 questions to use as a diagnostic"
+                - "Ask the teacher for a past Paper 01 and two Paper 02 questions to use as a diagnostic"
                 - "Sit the diagnostic in one quiet sitting without notes"
                 - "Mark it and total the score for each syllabus section"
-                - "Circle the three weakest sections and add them to your study plan"
+                - "Circle the three weakest sections and add them to the study plan"
             - name: Two-year Food, Nutrition and Health study plan
               description: |-
                 ## Purpose
-                Two years sounds long, but between term practicals, the SBA and other subjects' deadlines, theory revision gets squeezed into the final term unless it is planned. Mapping the syllabus sections across Form Four and Form Five, with the SBA practicals and the mock marked on it, turns the course into a sequence of weeks you can actually follow.
+                Two years sounds long, but between term practicals, the SBA and other subjects' deadlines, theory revision gets squeezed into the final term unless it is planned. Mapping the syllabus sections across Form Four and Form Five with your teen, with the SBA practicals and the mock marked on it, turns the course into a sequence of weeks they can actually follow.
 
                 ## Milestones
                 1. Every syllabus topic placed in a term of Form Four or Form Five.
-                2. SBA practical dates and the submission date from your teacher marked on the plan.
+                2. SBA practical dates and the submission date from the teacher marked on the plan.
                 3. The mock exam and the final eight weeks of revision blocked out.
-                4. The plan pinned where you study and reviewed at least once a month.
+                4. The plan pinned where your teen studies and reviewed together at least once a month.
 
                 ## Notes
                 Leave a spare week at the end of each term. Practical classes get cancelled for gas, water or ingredient problems and the plan should absorb that without collapsing.
@@ -95,16 +97,16 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Copy the syllabus topics into a term-by-term grid for Form Four and Form Five"
-                - "Mark the SBA practical and submission dates your teacher gives you"
+                - "Mark the SBA practical and submission dates the teacher gives"
                 - "Block the mock exam and the final eight weeks of revision"
-                - "Review the plan and move any slipped topics forward @recurring(monthly:3)"
+                - "Together, review the plan and move any slipped topics forward @recurring(monthly:3)"
             - name: Practical kit, kitchen safety and burns first aid
               description: |-
                 ## Purpose
-                Practical classes expect a clean apron, hair covered, short clean nails, no jewellery and closed shoes, and knife cuts, scalds and slips on wet floors are the usual food room accidents. Putting together a labelled kit and learning safe knife and hot pan handling before your first assessed practical protects you and shows the teacher you can be trusted with the equipment.
+                Practical classes expect a clean apron, hair covered, short clean nails, no jewellery and closed shoes, and knife cuts, scalds and slips on wet floors are the usual food room accidents. Putting together a labelled kit and practising safe knife and hot pan handling at home before the first assessed practical protects your teen and shows the teacher they can be trusted with the equipment.
 
                 ## Milestones
-                1. The school's dress and safety rules for practicals written in your notes.
+                1. The school's dress and safety rules for practicals written in the notes.
                 2. An apron, hair covering, tea towels and oven cloth gathered, labelled and packed in one bag.
                 3. The bridge and claw knife holds practised until steady.
                 4. The fire blanket, extinguisher and first aid box located in the food room, and the steps for a minor cut or burn noted.
@@ -115,11 +117,11 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A labelled practical kit is packed and the food room safety rules and minor first aid steps are written in your notes."
+                success_criteria: "A labelled practical kit is packed and the food room safety rules and minor first aid steps are written in the notes."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher for the dress, hygiene and safety rules for practicals"
+                - "Ask the teacher for the dress, hygiene and safety rules for practicals"
                 - "Pack and label an apron, hair covering, two tea towels and an oven cloth"
                 - "Practise the bridge and claw holds slicing an onion and a christophene"
                 - "Note the first aid steps for a minor cut and a minor burn"
@@ -129,9 +131,9 @@ starter_structure:
                 Paper 02 questions use words such as state, explain, discuss, plan and evaluate, and each asks for a different depth of answer. Students who explain when asked to state waste time, and those who list when asked to discuss lose most of the marks. Learning the command words against real mark schemes early saves marks on every paper after.
 
                 ## Milestones
-                1. The command words from the syllabus glossary listed with their meaning in your own words.
+                1. The command words from the syllabus glossary listed with their meaning in plain words.
                 2. Three past Paper 02 answers compared with their mark schemes to see where marks were given.
-                3. A one-line rule for answering each command word written in your notes.
+                3. A one-line rule for answering each command word written in the notes.
                 4. One self-marked practice answer completed for each of five command words.
               priority: medium
               deadlineOffsetDays: 45
@@ -143,7 +145,7 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "Copy the command words and their meanings from the syllabus glossary"
-                - "Compare three of your old answers with the mark scheme for each"
+                - "Compare three old answers with the mark scheme for each"
                 - "Write a one-line rule for how to answer each command word"
                 - "Answer one practice question for each of five command words"
             - name: SBA brief, practical schedule and portfolio set-up
@@ -155,7 +157,7 @@ starter_structure:
                 1. The SBA requirements in the current syllabus read and summarised on one page.
                 2. The teacher's schedule of assessed practicals and deadlines inside the portfolio cover.
                 3. A folder set up with a divider for each assignment, its time plan, evaluation and photos.
-                4. The SBA schedule checked against your planner every month.
+                4. The SBA schedule checked against the family calendar every month.
               priority: high
               deadlineOffsetDays: 35
               frontmatter:
@@ -166,38 +168,38 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "Read the SBA section of the current syllabus and summarise it on one page"
-                - "Ask your teacher for the dates of every assessed practical and written piece"
+                - "Ask the teacher for the dates of every assessed practical and written piece"
                 - "Set up a portfolio folder with a divider for each SBA assignment"
-                - "Check the SBA schedule against your planner @recurring(monthly:5)"
+                - "Check the SBA schedule against the family calendar @recurring(monthly:5)"
             - name: Ingredient costing and shopping plan for practicals
               description: |-
                 ## Purpose
-                In many schools students bring their own ingredients for practicals, and over a term that adds up in a household budget. Costing each practical's ingredients in advance and agreeing the total with a parent avoids the morning-of dash to the shop and the practical cooked with whatever substitutes were in the cupboard.
+                In many schools students bring their own ingredients for practicals, and over a term that adds up in a household budget. Costing each practical's ingredients in advance with your teen and agreeing the total together avoids the morning-of dash to the shop and the practical cooked with whatever substitutes were in the cupboard.
 
                 ## Milestones
                 1. The practicals for the term listed with their ingredient lists.
                 2. Each list priced at a local supermarket or market.
-                3. The term's ingredient total agreed with a parent.
+                3. The term's ingredient total agreed between you and your teen.
                 4. Shopping done at least two days before each practical.
 
                 ## Notes
-                Ask whether the school supplies staples such as flour, sugar or oil before buying them yourself.
+                Ask whether the school supplies staples such as flour, sugar or oil before buying them.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A costed ingredient list for every practical this term, with the total agreed with a parent."
+                success_criteria: "A costed ingredient list for every practical this term, with the total agreed between you and your teen."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
                 - "List the ingredients for every practical scheduled this term"
                 - "Price the list at the nearest supermarket or market"
-                - "Agree the term's ingredient budget with a parent"
+                - "Agree the term's ingredient budget with your teen"
                 - "Buy ingredients at least two days before each practical"
             - name: Weekly Food, Nutrition and Health study sessions
               description: |-
                 ## Purpose
-                Theory is where FNH grades are often won or lost, because the practicals are spread out and the written papers cover the whole syllabus. Two fixed sessions a week, one for new notes and one for questions, keep the theory moving between practicals instead of leaving it all to the final term.
+                Theory is where FNH grades are often won or lost, because the practicals are spread out and the written papers cover the whole syllabus. Two fixed sessions a week, one for new notes and one for questions, keep the theory moving between practicals instead of leaving it all to the final term. Agree the slots with your teen and protect them from chores and errands.
 
                 ## Milestones
                 1. Two weekly slots chosen and written in the family calendar.
@@ -208,20 +210,20 @@ starter_structure:
               frontmatter:
                 mode: operating
                 output_kind: habit
-                success_criteria: "Eight consecutive weeks of two study sessions each, with no more than one missed, recorded in your planner."
+                success_criteria: "Eight consecutive weeks of two study sessions each, with no more than one missed, recorded in the planner."
                 cadence: rolling
               tasks:
-                - "Choose two fixed 45-minute slots a week and tell your family"
-                - "Work through the next topic in your plan @recurring(weekly:tue,sat)"
-                - "End each session with a five-line summary in your notes"
-                - "Tick finished topics off your two-year plan"
+                - "Agree two fixed 45-minute slots a week and tell the family"
+                - "Work through the next topic in the plan @recurring(weekly:tue,sat)"
+                - "End each session with a five-line summary in the notes"
+                - "Tick finished topics off the two-year plan"
             - name: Nutrition terms and spaced recall cards
               description: |-
                 ## Purpose
-                Exact recall wins easy marks on Paper 01: which vitamins are fat-soluble, what a lack of iodine causes, the difference between gelatinisation and coagulation. Ten minutes a day with cards that come back more often when you get them wrong builds that recall far faster than rereading notes.
+                Exact recall wins easy marks on Paper 01: which vitamins are fat-soluble, what a lack of iodine causes, the difference between gelatinisation and coagulation. Ten minutes a day with cards that come back more often when they are missed builds that recall far faster than rereading notes, and quizzing your teen from the cards is an easy way to help.
 
                 ## Milestones
-                1. A deck of cards started with the terms from your first topic.
+                1. A deck of cards started with the terms from the first topic.
                 2. New cards added after every lesson.
                 3. The daily review kept for four weeks in a row.
                 4. A deck covering every syllabus section by the time of the mock.
@@ -235,20 +237,20 @@ starter_structure:
                 success_criteria: "A recall deck covering every syllabus section, reviewed on at least 25 days in each of the last two months."
                 cadence: rolling
               tasks:
-                - "Make ten cards from the terms in your most recent lesson"
+                - "Make ten cards from the terms in the most recent lesson"
                 - "Review the cards that are due for ten minutes @recurring(daily)"
                 - "Add new cards after each FNH lesson"
-                - "Rewrite any card you miss twice in simpler words"
+                - "Rewrite any card missed twice in simpler words"
             - name: Weekly home cooking practice
               description: |-
                 ## Purpose
-                Confidence in an assessed practical comes from having made the dish, or one like it, at home first. Cooking one family meal or bake a week, chosen from the skills on the syllabus, turns a timed school practical into a repeat rather than a first attempt, and the household eats the results.
+                Confidence in an assessed practical comes from having made the dish, or one like it, at home first. Making space for your teen to cook one family meal or bake a week, chosen from the skills on the syllabus, turns a timed school practical into a repeat rather than a first attempt, and the household eats the results.
 
                 ## Milestones
                 1. A list of twelve home dishes matched to syllabus skills such as creaming, pastry and sauce making.
                 2. One dish cooked each week with a note on timing and texture.
-                3. At least four of the dishes close to ones your upcoming practicals will test.
-                4. Photos kept so you can compare early and later attempts.
+                3. At least four of the dishes close to ones the upcoming practicals will test.
+                4. Photos kept so early and later attempts can be compared.
               priority: medium
               frontmatter:
                 mode: operating
@@ -259,17 +261,17 @@ starter_structure:
                 - "Choose twelve home dishes that practise skills on the syllabus"
                 - "Cook one of them for the household @recurring(weekly:sun)"
                 - "Write two lines on timing, texture and what to change next time"
-                - "Photograph the finished dish for your practice log"
+                - "Photograph the finished dish for the practice log"
             - name: Monthly timed Paper 01 practice
               description: |-
                 ## Purpose
-                Multiple-choice papers reward speed as much as knowledge, and students who only answer questions untimed often run short on the day. A timed Paper 01 every month, marked the same evening, shows which sections keep costing marks and builds the pace you need.
+                Multiple-choice papers reward speed as much as knowledge, and students who only answer questions untimed often run short on the day. A timed Paper 01 every month, marked the same evening, shows which sections keep costing marks and builds the pace your teen needs.
 
                 ## Milestones
-                1. A set of past Paper 01s collected from your teacher or the CXC online store.
+                1. A set of past Paper 01s collected from the teacher or the CXC online store.
                 2. One sat each month under the timing the current paper format states.
                 3. The score for each syllabus section logged after every paper.
-                4. The topic behind every wrong answer added to your recall deck.
+                4. The topic behind every wrong answer added to the recall deck.
 
                 ## Notes
                 Start from the **Metrics log** template to chart the monthly scores.
@@ -280,14 +282,14 @@ starter_structure:
                 success_criteria: "Six monthly Paper 01 scores logged by section, with the latest above the first."
                 cadence: rolling
               tasks:
-                - "Collect past Paper 01s from your teacher or the CXC store"
+                - "Collect past Paper 01s from the teacher or the CXC store"
                 - "Sit a full Paper 01 under timed conditions @recurring(monthly:9)"
                 - "Log the score by syllabus section"
                 - "Turn every wrong answer into a recall card"
             - name: Monthly Paper 02 structured question practice
               description: |-
                 ## Purpose
-                Paper 02 asks you to plan meals, explain processes and evaluate choices in writing, which is a different skill from recognising the right option. Answering one full structured question a month under time, then marking it strictly with the mark scheme, trains the explanation and layout that examiners reward.
+                Paper 02 asks candidates to plan meals, explain processes and evaluate choices in writing, which is a different skill from recognising the right option. Answering one full structured question a month under time, then marking it strictly with the mark scheme, trains the explanation and layout that examiners reward.
 
                 ## Milestones
                 1. A bank of past Paper 02 questions sorted by syllabus section.
@@ -308,7 +310,7 @@ starter_structure:
             - name: FNH mistakes log and weekly review
               description: |-
                 ## Purpose
-                The same errors repeat: leaving the units off a recipe cost, mixing up kwashiorkor and marasmus, naming a cooking method without saying why it suits the food. Logging each mistake from practice, practicals and tests in one place, and reviewing it weekly, stops you paying for the same error twice.
+                The same errors repeat: leaving the units off a recipe cost, mixing up kwashiorkor and marasmus, naming a cooking method without saying why it suits the food. Logging each mistake from practice, practicals and tests in one place, and reviewing it weekly, stops your teen paying for the same error twice.
 
                 ## Milestones
                 1. A log set up with columns for source, mistake, correct version and topic.
@@ -324,12 +326,12 @@ starter_structure:
               tasks:
                 - "Set up a mistakes log with columns for source, error, fix and topic"
                 - "Add every mistake from marked work within a day of getting it back"
-                - "Read through the log and test yourself on it @recurring(weekly:fri)"
+                - "Read through the log and offer a quick quiz on it @recurring(weekly:fri)"
                 - "Flag any mistake that appears twice and practise it"
-            - name: Termly progress review with your FNH teacher
+            - name: Termly progress review with the FNH teacher
               description: |-
                 ## Purpose
-                A ten-minute conversation each term with the teacher who marks your practicals is the most direct feedback available. Arriving with your scores, your SBA progress and two specific questions turns a vague report comment into a short list of what to fix before the next term.
+                A ten-minute conversation each term with the teacher who marks the practicals is the most direct feedback available. Arriving with scores, SBA progress and two specific questions turns a vague report comment into a short list of what to fix before the next term. Let your teen lead the conversation where they can, and join in if they would like you there.
 
                 ## Milestones
                 1. Scores and SBA status summarised on one page before each review.
@@ -346,14 +348,14 @@ starter_structure:
                 success_criteria: "A written record of a review with the teacher in each of the last two terms, each with agreed actions."
                 cadence: cyclic
               tasks:
-                - "Summarise your scores and SBA progress on one page"
-                - "Book ten minutes with your FNH teacher near the end of term @recurring(quarterly)"
-                - "Write down the actions you agree"
+                - "Summarise the scores and SBA progress on one page"
+                - "Book ten minutes with the FNH teacher near the end of term @recurring(quarterly)"
+                - "Write down the actions agreed"
                 - "Check last term's actions before the next review"
             - name: Carbohydrates, proteins and fats in a Caribbean diet
               description: |-
                 ## Purpose
-                Macronutrients underpin the rest of the syllabus: meal planning, diet-related disease and food science all assume you know what each does in the body and where it comes from in a Caribbean diet. A clear table of sources, functions and the effects of too little or too much makes every later topic faster.
+                Macronutrients underpin the rest of the syllabus: meal planning, diet-related disease and food science all assume a student knows what each does in the body and where it comes from in a Caribbean diet. A clear table of sources, functions and the effects of too little or too much makes every later topic faster.
 
                 ## Milestones
                 1. Carbohydrates (sugars, starches and fibre), proteins (high and low biological value) and fats (saturated and unsaturated) classified in a table.
@@ -397,7 +399,7 @@ starter_structure:
             - name: The Caribbean six food groups and multi-mix meals
               description: |-
                 ## Purpose
-                Meal planning answers are expected to use the Caribbean six food groups: staples, legumes, foods from animals, fruits, vegetables, and fats and oils. Knowing which local foods fall into each, and how the multi-mix principle builds a meal from them, is the starting point for every menu you will write in the exam and the SBA.
+                Meal planning answers are expected to use the Caribbean six food groups: staples, legumes, foods from animals, fruits, vegetables, and fats and oils. Knowing which local foods fall into each, and how the multi-mix principle builds a meal from them, is the starting point for every menu your teen will write in the exam and the SBA.
 
                 ## Milestones
                 1. The six groups listed with ten local examples each.
@@ -422,7 +424,7 @@ starter_structure:
                 Food, Nutrition and Health examines digestion from the food's point of view: which enzyme acts on which nutrient, where in the gut, and what is absorbed into the blood or lymph. Learning it as the route a plate of food takes from mouth to colon is easier to recall than a bare list of enzymes.
 
                 ## Milestones
-                1. A labelled diagram of the digestive tract in your notes.
+                1. A labelled diagram of the digestive tract in the notes.
                 2. A table of each enzyme, where it works, what it acts on and what it produces.
                 3. Absorption through the villi explained in a short paragraph.
                 4. A past paper question on digestion answered and marked.
@@ -441,10 +443,10 @@ starter_structure:
             - name: Energy balance, BMR and body mass index
               description: |-
                 ## Purpose
-                Questions on energy ask you to calculate the energy in a food from its nutrients, explain basal metabolic rate and what changes it, and interpret a body mass index. Practising the arithmetic with real food labels makes those calculation marks dependable.
+                Questions on energy ask candidates to calculate the energy in a food from its nutrients, explain basal metabolic rate and what changes it, and interpret a body mass index. Practising the arithmetic with real food labels from your own kitchen makes those calculation marks dependable.
 
                 ## Milestones
-                1. The energy value per gram of carbohydrate, protein and fat that your textbook uses noted.
+                1. The energy value per gram of carbohydrate, protein and fat that the textbook uses noted.
                 2. The factors that raise or lower basal metabolic rate and energy needs listed.
                 3. Five energy calculations done from real food labels.
                 4. Body mass index calculated and interpreted for three sample people, and a past calculation question marked.
@@ -452,18 +454,18 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Five energy calculations, three BMI interpretations and one marked past calculation question are in your notes."
+                success_criteria: "Five energy calculations, three BMI interpretations and one marked past calculation question are in the notes."
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Note the energy value per gram of each nutrient that your textbook uses"
+                - "Note the energy value per gram of each nutrient that the textbook uses"
                 - "Work out the energy in five snacks from their food labels"
                 - "Calculate and interpret BMI for three sample people"
                 - "List the factors that raise or lower a person's energy needs"
             - name: Malnutrition and diet-related diseases in the Caribbean
               description: |-
                 ## Purpose
-                Diabetes, hypertension, obesity and heart disease are among the region's leading causes of illness, and the syllabus expects you to link each to diet, explain prevention and plan meals for someone living with one. Undernutrition still appears too, in anaemia, kwashiorkor and marasmus. A comparison sheet of causes, signs and dietary management covers a topic examiners return to often.
+                Diabetes, hypertension, obesity and heart disease are among the region's leading causes of illness, and the syllabus expects candidates to link each to diet, explain prevention and plan meals for someone living with one. Undernutrition still appears too, in anaemia, kwashiorkor and marasmus. A comparison sheet of causes, signs and dietary management covers a topic examiners return to often.
 
                 ## Milestones
                 1. A table of each condition with its dietary causes, signs and dietary management.
@@ -488,16 +490,16 @@ starter_structure:
             - name: Meal planning principles and menu writing
               description: |-
                 ## Purpose
-                Planning a meal for the exam is judged on nutrition, but also on cost, colour, texture, flavour, the time available and the people being fed. Learning the principles and a clear menu layout once means every meal-plan question becomes a matter of applying a checklist you already trust.
+                Planning a meal for the exam is judged on nutrition, but also on cost, colour, texture, flavour, the time available and the people being fed. Learning the principles and a clear menu layout once means every meal-plan question becomes a matter of applying a checklist your teen already trusts.
 
                 ## Milestones
                 1. The meal planning factors examiners expect listed on one card.
-                2. The menu layout your teacher uses copied into your notes.
+                2. The menu layout the teacher uses copied into the notes.
                 3. Three menus written and each checked against the factor list.
                 4. A past meal planning question answered within the time allowed.
 
                 ## Notes
-                Start from the **Weekly meal plan** template if you want to plan a real week at home as practice.
+                Start from the **Weekly meal plan** template if your teen would like to plan a real week of family meals as practice.
               priority: medium
               frontmatter:
                 mode: building
@@ -507,7 +509,7 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "List the factors a meal plan must consider on one card"
-                - "Copy your teacher's menu layout into your notes"
+                - "Copy the teacher's menu layout into the notes"
                 - "Write three menus and check each against the factor card"
                 - "Answer a past meal planning question under time"
             - name: Meals for infants, children and teenagers
@@ -535,7 +537,7 @@ starter_structure:
             - name: Meals for pregnancy, older adults and convalescents
               description: |-
                 ## Purpose
-                Pregnant and breastfeeding women, older adults and people recovering from illness have needs that differ from the average adult: more iron and folate, softer textures, smaller appetites. Planning a day for each, with the reasons spelled out, prepares you for the special-needs questions that appear regularly.
+                Pregnant and breastfeeding women, older adults and people recovering from illness have needs that differ from the average adult: more iron and folate, softer textures, smaller appetites. Planning a day for each, with the reasons spelled out, prepares your teen for the special-needs questions that appear regularly.
 
                 ## Milestones
                 1. The nutrient priorities and practical needs of each group tabulated.
@@ -560,11 +562,11 @@ starter_structure:
             - name: Vegetarian, ital, religious and cultural diets
               description: |-
                 ## Purpose
-                Caribbean classrooms include Hindu, Muslim, Seventh-day Adventist and Rastafarian students, and exam questions ask you to plan for vegetarians and for religious food rules. Understanding the types of vegetarian diet, ital food (the Rastafarian way of eating natural, often meat-free food with little or no salt), halal practice and meat-free festival meals lets you plan menus that are respectful and nutritionally complete.
+                Caribbean classrooms include Hindu, Muslim, Seventh-day Adventist and Rastafarian students, and exam questions ask candidates to plan for vegetarians and for religious food rules. Understanding the types of vegetarian diet, ital food (the Rastafarian way of eating natural, often meat-free food with little or no salt), halal practice and meat-free festival meals lets your teen plan menus that are respectful and nutritionally complete.
 
                 ## Milestones
                 1. Lacto-ovo, lacto and vegan diets defined, with the nutrients each can lack.
-                2. The food practices of four faiths common in your class summarised.
+                2. The food practices of four faiths common in the class summarised.
                 3. A vegan day of meals planned with protein complementation and iron sources.
                 4. A past question on planning for a vegetarian answered and marked.
               priority: medium
@@ -576,13 +578,13 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Define lacto-ovo, lacto and vegan diets and the nutrients each can lack"
-                - "Summarise the food practices of four faiths common in your class"
+                - "Summarise the food practices of four faiths common in the class"
                 - "Plan a vegan day of meals using peas, beans and ground provisions"
                 - "Answer a past question on planning meals for a vegetarian"
             - name: Food labels, advertising and consumer rights
               description: |-
                 ## Purpose
-                Shoppers are pulled by advertising, special offers and health claims on packets, and the syllabus expects you to read a label, judge a claim and know where to complain. Comparing real labels from the kitchen cupboard makes the topic concrete and quick to revise.
+                Shoppers are pulled by advertising, special offers and health claims on packets, and the syllabus expects candidates to read a label, judge a claim and know where to complain. Comparing real labels from the kitchen cupboard together makes the topic concrete and quick to revise.
 
                 ## Milestones
                 1. The information a food label must carry listed.
@@ -599,17 +601,17 @@ starter_structure:
               tasks:
                 - "Collect five food labels from products at home"
                 - "Compare their sugar, salt, fat and serving sizes in a table"
-                - "Find the name of the consumer affairs office in your country"
+                - "Find the name of the consumer affairs office in the country"
                 - "Answer a past question on food labelling or consumer rights"
             - name: Food budgeting, shopping and reducing waste
               description: |-
                 ## Purpose
-                Many FNH questions are about feeding a family on a fixed amount, which means comparing the market with the supermarket, buying in season, using leftovers and storing food so it lasts. Tracking real prices for a few staples for a few months gives you figures to quote and a sense of what a budget meal really costs.
+                Many FNH questions are about feeding a family on a fixed amount, which means comparing the market with the supermarket, buying in season, using leftovers and storing food so it lasts. Tracking real prices for a few staples for a few months, perhaps on your own shopping trips, gives your teen figures to quote and a sense of what a budget meal really costs.
 
                 ## Milestones
                 1. A price list of ten staples from a market and a supermarket.
                 2. Local fruits and vegetables listed by the months they are in season.
-                3. A week of family dinners planned within a budget agreed with a parent.
+                3. A week of family dinners planned within a budget agreed with you.
                 4. Three leftover dishes noted and a past budgeting question answered and marked.
               priority: medium
               frontmatter:
@@ -621,12 +623,12 @@ starter_structure:
               tasks:
                 - "Price ten staples at a market and a supermarket and compare"
                 - "Re-check the same ten prices @recurring(monthly:14)"
-                - "Plan a week of family dinners within a budget agreed with a parent"
+                - "Agree a budget with your teen for a week of family dinners they plan"
                 - "Answer a past question on food budgeting"
             - name: Kitchen design, equipment and small appliances
               description: |-
                 ## Purpose
-                Exam questions ask how to choose, use and care for equipment from a blender to a gas stove, and how a kitchen should be laid out for safe, efficient work. Knowing the work triangle, the materials pots are made from and the care routine for each appliance gives you material for both written papers.
+                Exam questions ask how to choose, use and care for equipment from a blender to a gas stove, and how a kitchen should be laid out for safe, efficient work. Knowing the work triangle, the materials pots are made from and the care routine for each appliance gives your teen material for both written papers.
 
                 ## Milestones
                 1. The work triangle and common kitchen layouts sketched.
@@ -641,7 +643,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Sketch the work triangle in your kitchen at home and in the school food room"
+                - "Sketch the work triangle in the kitchen at home and in the school food room"
                 - "Tabulate cookware materials with their advantages and drawbacks"
                 - "Write selection, use and care steps for a blender, oven, microwave and refrigerator"
                 - "Answer a past question on choosing or caring for kitchen equipment"
@@ -675,7 +677,7 @@ starter_structure:
                 ## Milestones
                 1. A definition and a Caribbean food example written for each of the four changes.
                 2. Three small kitchen tests done and observations recorded.
-                3. Denaturation and syneresis explained in your own words.
+                3. Denaturation and syneresis explained in plain words.
                 4. A past question on the effect of heat on food components answered and marked.
               priority: medium
               frontmatter:
@@ -741,7 +743,7 @@ starter_structure:
                 ## Milestones
                 1. The causes of spoilage tabulated with a local example of each.
                 2. The conditions bacteria need to multiply written as a list.
-                3. The temperature danger zone your textbook gives noted with what it means for leftovers.
+                3. The temperature danger zone the textbook gives noted with what it means for leftovers.
                 4. Common food poisoning bacteria listed with sources, and a past question answered and marked.
               priority: medium
               frontmatter:
@@ -753,7 +755,7 @@ starter_structure:
               tasks:
                 - "List the causes of food spoilage with a local example of each"
                 - "Write the conditions bacteria need to multiply"
-                - "Note the temperature danger zone your textbook gives"
+                - "Note the temperature danger zone the textbook gives"
                 - "Answer a past question on food spoilage or food poisoning"
             - name: Food hygiene, cross-contamination and safe storage
               description: |-
@@ -774,13 +776,13 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "Write the handwashing and work surface cleaning routine for practicals"
-                - "Reorganise your home refrigerator so raw meat sits below ready-to-eat food"
-                - "Wash and repack your apron, hair covering and tea towels @recurring(weekly:thu)"
+                - "Together, reorganise the home refrigerator so raw meat sits below ready-to-eat food"
+                - "Wash and repack the apron, hair covering and tea towels @recurring(weekly:thu)"
                 - "Answer a past question on food hygiene"
             - name: Food preservation from salting to freezing
               description: |-
                 ## Purpose
-                Saltfish, guava cheese, pepper sauce, dried sorrel and frozen fish are all preservation at work, and the region's food heritage makes this topic easy to illustrate. Learning how heat, cold, drying, sugar, salt, acid and chemical preservatives each stop spoilage, then making one preserve, turns the principles into an answer you can explain.
+                Saltfish, guava cheese, pepper sauce, dried sorrel and frozen fish are all preservation at work, and the region's food heritage makes this topic easy to illustrate. Learning how heat, cold, drying, sugar, salt, acid and chemical preservatives each stop spoilage, then making one preserve at home, turns the principles into an answer your teen can explain.
 
                 ## Milestones
                 1. Each preservation method tabulated with how it stops spoilage.
@@ -824,7 +826,7 @@ starter_structure:
             - name: Sensory evaluation and food product development
               description: |-
                 ## Purpose
-                Developing or modifying a product and testing it on tasters appears in food technology questions and can feature in SBA work. Learning ranking, rating and paired comparison tests, and running one on a real product such as a reduced-sugar sweet bread, gives you the method and the vocabulary examiners want.
+                Developing or modifying a product and testing it on tasters appears in food technology questions and can feature in SBA work. Learning ranking, rating and paired comparison tests, and running one on a real product such as a reduced-sugar sweet bread, gives your teen the method and the vocabulary examiners want, and the family gets to be the tasting panel.
 
                 ## Milestones
                 1. Ranking, rating and paired comparison tests described with when to use each.
@@ -842,11 +844,11 @@ starter_structure:
                 - "Write up the ranking, rating and paired comparison tests"
                 - "Make a standard and a reduced-sugar sweet bread for comparison"
                 - "Run a rating test with five family tasters and record the scores"
-                - "Ask the agent to suggest a clear chart for your taster results and check it yourself"
+                - "Ask the agent to suggest a clear chart for the taster results, then check it together"
             - name: Caribbean dishes, local ingredients and nutritional value
               description: |-
                 ## Purpose
-                Examiners expect Caribbean examples: oil down, cou-cou and flying fish, ackee and saltfish, pelau, pepperpot, callaloo. A reference list of regional dishes with their food groups, cooking methods and nutritional strengths and weaknesses gives you ready examples for almost any question and ideas for SBA dishes.
+                Examiners expect Caribbean examples: oil down, cou-cou and flying fish, ackee and saltfish, pelau, pepperpot, callaloo. A reference list of regional dishes with their food groups, cooking methods and nutritional strengths and weaknesses gives your teen ready examples for almost any question and ideas for SBA dishes.
 
                 ## Milestones
                 1. Twenty regional dishes listed with their country, food groups and cooking method.
@@ -864,7 +866,7 @@ starter_structure:
                 - "List twenty Caribbean dishes with their country, food groups and cooking method"
                 - "Suggest a lower-salt or lower-fat version of five of them"
                 - "Cook two of the dishes at home with a family member"
-                - "Use a regional dish as the example in your next Paper 02 answer"
+                - "Use a regional dish as the example in the next Paper 02 answer"
             - name: SBA practicals with time plans, dovetailing and evaluations
               description: |-
                 ## Purpose
@@ -884,9 +886,9 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "12"
               tasks:
-                - "Copy the practical marking criteria from the syllabus into your portfolio"
-                - "Draft a dovetailed time plan for your next assessed practical"
-                - "Show the plan to your teacher a week before the practical"
+                - "Copy the practical marking criteria from the syllabus into the portfolio"
+                - "Draft a dovetailed time plan for the next assessed practical"
+                - "Check the plan has gone to the teacher a week before the practical"
                 - "Write the evaluation within two days of each practical"
             - name: SBA research and written component
               description: |-
@@ -894,7 +896,7 @@ starter_structure:
                 Alongside the practicals, the syllabus sets written work for the SBA, such as an investigation or a product development write-up. Choosing a focused aim early, gathering real data from tasters, surveys or tests, and drafting in stages with teacher feedback keeps it from becoming a weekend rush before the deadline.
 
                 ## Milestones
-                1. The written requirement confirmed from the syllabus and with your teacher.
+                1. The written requirement confirmed from the syllabus and with the teacher.
                 2. An aim or question approved by the teacher.
                 3. Data collected and organised into tables and graphs.
                 4. A full draft returned with teacher comments and a final version completed with sources listed.
@@ -907,10 +909,10 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
-                - "Confirm with your teacher exactly what the written SBA component asks for"
+                - "Confirm with the teacher exactly what the written SBA component asks for"
                 - "Write three possible aims and get one approved"
-                - "Collect your data and put it into tables and graphs"
-                - "Ask the agent to point out unclear explanations in your draft, then rewrite them yourself"
+                - "Collect the data and put it into tables and graphs"
+                - "Ask the agent to point out unclear explanations in the draft, which your teen then rewrites"
             - name: Final SBA portfolio check and submission
               description: |-
                 ## Purpose
@@ -931,40 +933,40 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Tick every piece in the portfolio against the SBA requirements"
-                - "Complete your candidate details and any declaration forms"
+                - "Complete the candidate details and any declaration forms"
                 - "Photograph or scan the full portfolio as a backup"
-                - "Hand the portfolio to your teacher by the school deadline"
+                - "Hand the portfolio to the teacher by the school deadline"
             - name: Recipe scaling, costing and nutrient calculations
               description: |-
                 ## Purpose
                 Calculation questions turn up across the papers: scaling a recipe from four portions to twelve, costing a dish per portion, totalling the protein in a meal from a food table. A monthly set of five calculations keeps the arithmetic quick and stops unit errors under time.
 
                 ## Milestones
-                1. One worked example for each type of calculation written in your notes.
-                2. Your last practical dish costed per portion.
+                1. One worked example for each type of calculation written in the notes.
+                2. The last practical dish costed per portion.
                 3. A set of five mixed calculations done and checked each month.
                 4. No unit errors in the last two monthly sets.
               priority: medium
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Worked examples for each calculation type and two consecutive monthly sets with no unit errors are in your notes."
+                success_criteria: "Worked examples for each calculation type and two consecutive monthly sets with no unit errors are in the notes."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
                 - "Write one worked example each for scaling, costing and nutrient totals"
-                - "Cost your last practical dish per portion"
+                - "Cost the last practical dish per portion"
                 - "Do a set of five mixed calculations and check them @recurring(monthly:17)"
-                - "List the unit mistakes you make and how to avoid them"
+                - "List the unit mistakes that keep appearing and how to avoid them"
             - name: Examiner reports and mark schemes for FNH
               description: |-
                 ## Purpose
-                CXC publishes subject reports describing what strong candidates did and where many lost marks, and they are the closest thing to hearing the examiner speak. Reading the recent reports for this subject and building a list of the repeated weaknesses aims your revision at the marks most often missed.
+                CXC publishes subject reports describing what strong candidates did and where many lost marks, and they are the closest thing to hearing the examiner speak. Reading the recent reports for this subject and building a list of the repeated weaknesses aims revision at the marks most often missed.
 
                 ## Milestones
                 1. The most recent available subject reports obtained.
                 2. Every weakness that appears in more than one report listed.
-                3. Each weakness matched to a topic in your plan.
+                3. Each weakness matched to a topic in the plan.
                 4. One practice question answered and marked for each weakness.
               priority: medium
               frontmatter:
@@ -974,17 +976,17 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Find the most recent subject reports on the CXC website or from your teacher"
+                - "Find the most recent subject reports on the CXC website or from the teacher"
                 - "List every weakness that appears in more than one report"
-                - "Match each weakness to a topic in your plan"
+                - "Match each weakness to a topic in the plan"
                 - "Practise one question on each weakness and mark it"
             - name: Full FNH mock exam under exam conditions
               description: |-
                 ## Purpose
-                Sitting both written papers in full under real conditions is the best predictor of the final result and the last good chance to change approach. Treating it as a rehearsal, with the same start time, equipment and no notes, shows where your time and marks really go.
+                Sitting both written papers in full under real conditions is the best predictor of the final result and the last good chance to change approach. Treating it as a rehearsal, with the same start time, equipment and no notes, shows where your teen's time and marks really go, and you can help by keeping the house quiet for the morning.
 
                 ## Milestones
-                1. A mock date set with your teacher or at home.
+                1. A mock date set with the teacher or at home.
                 2. Paper 01 and Paper 02 sat under timed conditions with no notes.
                 3. Both papers marked against the mark scheme.
                 4. A list of the top five fixes for the final weeks written.
@@ -997,14 +999,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Agree a mock date with your teacher or set one at home"
+                - "Agree a mock date with the teacher or set one at home"
                 - "Sit Paper 01 and Paper 02 timed, with no notes"
                 - "Get both papers marked against the mark scheme"
-                - "Write your top five fixes for the final weeks"
+                - "Write the top five fixes for the final weeks"
             - name: Final eight weeks FNH revision timetable
               description: |-
                 ## Purpose
-                In the last eight weeks the SBA should already be in, and every remaining hour can go to the written papers. A day-by-day timetable that rotates the weakest sections, full past papers and meal planning practice, and fits around your other subjects, means arriving at the exam having revised every section at least twice.
+                In the last eight weeks the SBA should already be in, and every remaining hour can go to the written papers. A day-by-day timetable that rotates the weakest sections, full past papers and meal planning practice, and fits around other subjects, means arriving at the exam having revised every section at least twice.
 
                 ## Milestones
                 1. An eight-week timetable built from the post-mock fixes.
@@ -1020,14 +1022,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "30"
               tasks:
-                - "Build an eight-week timetable starting from your post-mock fixes"
+                - "Build an eight-week timetable starting from the post-mock fixes"
                 - "Schedule every syllabus section at least twice"
                 - "Plan three full past papers in the final month"
                 - "Write one meal plan or method answer from memory @recurring(daily)"
             - name: Last full past paper and CSEC FNH exam day
               description: |-
                 ## Purpose
-                The final week is for confidence, not new content: one last full past paper about a week out, a light read of the mistakes log and a calm plan for the day. Knowing your candidate number, exam centre, start time and what to bring removes the avoidable stress.
+                The final week is for confidence, not new content: one last full past paper about a week out, a light read of the mistakes log and a calm plan for the day. Knowing the candidate number, exam centre, start time and what to bring removes the avoidable stress for both of you.
 
                 ## Milestones
                 1. A last full past paper sat and marked about a week before the exam.
@@ -1043,20 +1045,20 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "Sit your last full past paper about a week before the exam"
-                - "Check your candidate number, exam centre and start time"
-                - "Pack pens, pencils, a calculator if allowed and your ID the night before"
+                - "Sit the last full past paper about a week before the exam"
+                - "Check the candidate number, exam centre and start time"
+                - "Pack pens, pencils, a calculator if allowed and ID the night before"
                 - "Arrive at the centre at least thirty minutes early"
             - name: Grade I answers on case study and meal plan questions
               description: |-
                 ## Purpose
-                Top-grade candidates do more than recall facts: they apply them to the person in the question, justify every choice and use Caribbean examples. Practising the hardest scenario questions, then comparing your answers with the mark scheme and examiner comments, is what moves a Grade II towards a Grade I.
+                Top-grade candidates do more than recall facts: they apply them to the person in the question, justify every choice and use Caribbean examples. Practising the hardest scenario questions, then comparing the answers with the mark scheme and examiner comments, is what moves a Grade II towards a Grade I.
 
                 ## Milestones
                 1. Five of the hardest scenario questions chosen from past Paper 02s.
                 2. Each answered under time with every food choice justified.
                 3. Each answer compared with the mark scheme and any model answers.
-                4. A checklist written of what your strongest answers did.
+                4. A checklist written of what the strongest answers did.
               priority: low
               frontmatter:
                 mode: research
@@ -1067,8 +1069,8 @@ starter_structure:
               tasks:
                 - "Pick five of the hardest scenario questions from past Paper 02s"
                 - "Answer each under time, justifying every food choice"
-                - "Compare your answers with the mark scheme and any model answers"
-                - "Write a checklist of what your strongest answers did"
+                - "Compare the answers with the mark scheme and any model answers"
+                - "Write a checklist of what the strongest answers did"
             - name: Parent support for a CSEC FNH student
               description: |-
                 ## Purpose
@@ -1089,11 +1091,11 @@ starter_structure:
                 - "Copy the SBA and practical dates into the family calendar"
                 - "Ask what is being cooked or studied at school this week @recurring(weekly:sun)"
                 - "Review the ingredient spending and upcoming practicals @recurring(monthly:25)"
-                - "Agree two kitchen slots a week when your child can practise"
+                - "Agree two kitchen slots a week when your teen can practise"
             - name: Teacher or tutor tracker for an FNH class
               description: |-
                 ## Purpose
-                Running an FNH class means juggling ingredient requisitions, practical rotas, SBA marking and moderation samples for every student. A single tracker with each student's practical marks, missing evaluations and portfolio status makes term reports and the moderation sample straightforward.
+                Running an FNH class means juggling ingredient requisitions, practical rotas, SBA marking and moderation samples for every student. A single tracker with each student's practical marks, missing evaluations and portfolio status makes term reports and the moderation sample straightforward. If your teen has a tutor or a teacher who would find it useful, share this project with them.
 
                 ## Milestones
                 1. A tracker set up with a row per student and a column per assessed practical.
@@ -1117,7 +1119,7 @@ starter_structure:
             - name: Private or adult candidate route for FNH
               description: |-
                 ## Purpose
-                Adults returning to study, home-schooled students and those resitting sometimes want this subject without a school. Whether a private candidate can enter for a practical subject like FNH, and how the SBA is handled, must be checked with the local registrar or the Ministry of Education before paying any fees.
+                Adults returning to study, home-schooled students and those resitting sometimes want this subject without a school. If your teen would sit privately, whether a private candidate can enter for a practical subject like FNH, and how the SBA is handled, must be checked with the local registrar or the Ministry of Education before paying any fees.
 
                 ## Milestones
                 1. Eligibility for private entry confirmed with the local registrar.
@@ -1136,17 +1138,17 @@ starter_structure:
                 - "Contact the local CXC registrar about private entry for this subject"
                 - "Ask how the SBA or its alternative works for private candidates"
                 - "Find a school, centre or tutor able to supervise practical work"
-                - "Register before the closing date the registrar gives you"
+                - "Register before the closing date the registrar gives"
             - name: Results, reviews and the next step after FNH
               description: |-
                 ## Purpose
-                When results are released, FNH can lead to sixth form subjects, hospitality and culinary programmes, food technology, and nutrition and dietetics degrees. Reading the results slip properly, deciding quickly on any review, and matching the grade to your next step keeps options open.
+                When results are released, FNH can lead to sixth form subjects, hospitality and culinary programmes, food technology, and nutrition and dietetics degrees. Reading the results slip properly with your teen, deciding quickly on any review, and matching the grade to their next step keeps options open.
 
                 ## Milestones
                 1. The overall grade and profile grades read and understood.
                 2. The review deadline checked and a decision recorded.
                 3. Next-step programmes that value FNH listed with their entry requirements.
-                4. The next step agreed with a parent and your teacher.
+                4. The next step agreed between your teen, you and the teacher.
               priority: medium
               deadlineOffsetDays: 330
               frontmatter:
@@ -1156,14 +1158,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Read your grade and the profile grades on the results slip"
+                - "Read the grade and the profile grades on the results slip together"
                 - "Check the review deadline and decide whether to request one"
                 - "List the sixth form, college or culinary programmes that value FNH"
-                - "Talk through the next step with a parent and your teacher"
+                - "Talk through the next step with your teen and their teacher"
 ---
 
 # CSEC Food, Nutrition and Health
 
-This area takes a CSEC Food, Nutrition and Health student from the first syllabus check to results day, in the order the subject is taught and examined. It starts with the foundations (the current syllabus, a diagnostic, a two-year plan, practical kit and kitchen safety, command words, the SBA portfolio and an ingredient budget), sets up the weekly routines, then works through the topics: nutrients and the Caribbean six food groups, digestion and energy, diet-related disease, meal planning for every age and diet, consumer choices, kitchen equipment, cooking methods, food science, flour mixtures, sauces, spoilage, hygiene, preservation, presentation and product development, before the SBA practicals and submission, exam technique, the mock and exam day, with projects for parents, teachers and private candidates at the end.
+This area helps a parent or guardian support a CSEC Food, Nutrition and Health student from the first syllabus check to results day, in the order the subject is taught and examined. It starts with the foundations (the current syllabus, a diagnostic, a two-year plan, practical kit and kitchen safety, command words, the SBA portfolio and an ingredient budget), sets up the weekly routines, then works through the topics: nutrients and the Caribbean six food groups, digestion and energy, diet-related disease, meal planning for every age and diet, consumer choices, kitchen equipment, cooking methods, food science, flour mixtures, sauces, spoilage, hygiene, preservation, presentation and product development, before the SBA practicals and submission, exam technique, the mock and exam day, with projects for teachers and private candidates at the end.
 
-The rhythm is two weekly study sessions, daily recall cards, one home cooking practice a week, a weekly mistakes review, a monthly timed Paper 01 and Paper 02 question, a monthly price check and calculation set, and a termly talk with your teacher. The Habit tracker, Metrics log, Meeting notes, Weekly meal plan and Skills matrix templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is two weekly study sessions, daily recall cards, one home cooking practice a week, a weekly mistakes review, a monthly timed Paper 01 and Paper 02 question, a monthly price check and calculation set, and a termly talk with the teacher. The Habit tracker, Metrics log, Meeting notes, Weekly meal plan and Skills matrix templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

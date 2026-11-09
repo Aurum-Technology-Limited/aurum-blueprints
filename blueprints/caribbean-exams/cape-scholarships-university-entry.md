@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.cape-scholarships-university-entry
 name: CAPE Results, Scholarships and University
-description: "From CAPE results to a university seat: official dates, national scholarship rules, UWI and overseas applications, offers, reviews, loans, visas and the first semester, for students and parents."
+description: "From CAPE results to a university seat: official dates, national scholarship rules, UWI and overseas applications, offers, reviews, loans, visas and the first semester, for parents backing a sixth former."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, cape-scholarships-university-entry, student, parent, cxc, cape, scholarships, university]
@@ -16,7 +16,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -26,37 +26,39 @@ starter_structure:
             - name: Eighteen-month CAPE to university map
               description: |-
                 ## Purpose
-                Most CAPE students apply to university before their final results exist, using Unit 1 grades, predicted grades and CSEC certificates, so the order of events matters more than any single deadline. Laying out the eighteen months from the start of Lower Six to the first week of university on one page shows where results, applications, scholarship notices and money decisions collide.
+                Most CAPE students apply to university before their final results exist, using Unit 1 grades, predicted grades and CSEC certificates, so the order of events matters more than any single deadline. Sitting down with your teen to lay out the eighteen months from the start of Lower Six to the first week of university on one page shows both of you where results, applications, scholarship notices and money decisions collide.
 
                 ## Milestones
                 1. A one-page timeline from Lower Six to university registration, month by month.
-                2. Each country you might apply to marked with its application window.
+                2. Each country your teen might apply to marked with its application window.
                 3. The weeks when results, reviews and scholarship notices are expected flagged as dates to confirm.
-                4. The timeline shared with a parent or guardian and pinned where both of you will see it.
+                4. The timeline agreed between you and your teen and pinned where both of you will see it.
 
                 ## Notes
-                Treat every date on the map as provisional until you have checked it against the official source in the next project.
+                This plan is for a parent or guardian supporting a teenager from CAPE results to a university place, and an older student can follow it with a parent's support.
+
+                Treat every date on the map as provisional until it has been checked against the official source in the next project.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A dated one-page timeline covering Lower Six to university registration exists and has been shared with a parent or guardian."
+                success_criteria: "A dated one-page timeline covering Lower Six to university registration exists, drawn up by your teen and agreed with you."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Write down the month you started Lower Six and the month you hope to start university"
+                - "Note the month your teen started Lower Six and the month they hope to start university"
                 - "Mark the CAPE sittings for Unit 1 and Unit 2 on a single page"
-                - "Add the application window for each country you are considering"
-                - "Go through the finished map with a parent or guardian"
+                - "Add the application window for each country they are considering"
+                - "Go through the finished map together"
             - name: Official dates for results, reviews and scholarships
               description: |-
                 ## Purpose
-                Between the CAPE sitting and the first university term, the dates that matter are set by three different bodies: CXC for results and reviews, your Ministry of Education or scholarship office for national awards, and each university for its own deadlines. Checking them at source, not in a group chat, prevents the commonest and most expensive mistake, a missed window.
+                Between the CAPE sitting and the first university term, the dates that matter are set by three different bodies: CXC for results and reviews, the Ministry of Education or scholarship office for national awards, and each university for its own deadlines. Checking them at source, not in a group chat, prevents the commonest and most expensive mistake, a missed window. Your teen can own this list, with you double-checking the money and scholarship dates.
 
                 ## Milestones
                 1. The current results release period and review of results deadline confirmed on the CXC website.
-                2. Your Ministry's scholarship notice for this year found and saved, or a note that it is not yet published.
+                2. The Ministry's scholarship notice for this year found and saved, or a note that it is not yet published.
                 3. Application deadlines for every shortlisted university written down with the link they came from.
                 4. All confirmed dates entered on the eighteen-month map.
 
@@ -72,29 +74,29 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Check the current results and review timetable on the CXC website"
-                - "Find your Ministry of Education's latest scholarship notice"
+                - "Find the Ministry of Education's latest scholarship notice"
                 - "Note each university's application deadline with its source link"
                 - "Recheck the official notices for changed dates @recurring(monthly:3)"
             - name: CXC candidate portal and certificate access
               description: |-
                 ## Purpose
-                Results now arrive online first, and many universities and scholarship offices ask for an electronic results slip or certificate rather than the paper one that reaches schools months later. Setting up access early, with your candidate numbers and registration details written down, means results day is about the grades, not about a forgotten password.
+                Results now arrive online first, and many universities and scholarship offices ask for an electronic results slip or certificate rather than the paper one that reaches schools months later. Ask your teen to set up access early, with their candidate numbers and registration details written down and a copy kept by you, so results day is about the grades, not about a forgotten password.
 
                 ## Milestones
-                1. Your candidate number for each sitting recorded from your timetable or registration slip.
+                1. Your teen's candidate number for each sitting recorded from their timetable or registration slip.
                 2. Access to CXC's online results service confirmed, following the current instructions on its website.
                 3. The way to send verified results or e-certificates to a university understood and noted.
-                4. Your school's process for releasing paper certificates confirmed with the office.
+                4. The school's process for releasing paper certificates confirmed with the office.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "Your candidate numbers and online results access are confirmed and written in your documents folder before results are released."
+                success_criteria: "Your teen's candidate numbers and online results access are confirmed and written in the documents folder before results are released."
                 cadence: one-shot
                 effort_hours_estimate: "1"
               tasks:
-                - "Find your candidate number on your exam timetable or registration slip"
+                - "Find the candidate number on the exam timetable or registration slip"
                 - "Follow CXC's current instructions to set up online results access"
                 - "Find out how universities receive verified CXC results"
                 - "Ask the school office when paper certificates are usually collected"
@@ -104,7 +106,7 @@ starter_structure:
                 Universities admit on the whole record, not CAPE alone: most programmes in the region expect a set number of CSEC passes, often including English A and Mathematics, plus a minimum number of CAPE units, and some add subject-specific grades. A gap found in Lower Six can be closed with a CSEC resit; a gap found after offers can cost a year.
 
                 ## Milestones
-                1. Your CSEC and CAPE results so far listed in one table with grades and sitting year.
+                1. Your teen's CSEC and CAPE results so far listed in one table with grades and sitting year.
                 2. The published entry requirements for three target programmes copied beside that table.
                 3. Every missing pass or grade highlighted with a plan to close it.
                 4. The check repeated after each new set of results.
@@ -113,14 +115,14 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A table compares your CSEC and CAPE grades with the requirements of three target programmes, with each gap and its fix noted."
+                success_criteria: "A table compares your teen's CSEC and CAPE grades with the requirements of three target programmes, with each gap and its fix noted."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "List every CSEC and CAPE result you hold with grade and year"
-                - "Copy the entry requirements for three programmes you want"
+                - "List every CSEC and CAPE result held, with grade and year"
+                - "Copy the entry requirements for three programmes your teen wants"
                 - "Highlight any missing subject, grade or unit"
-                - "Ask your guidance counsellor whether a CSEC resit can close a gap in time"
+                - "Ask the guidance counsellor whether a CSEC resit can close a gap in time"
             - name: Academic documents folder
               description: |-
                 ## Purpose
@@ -130,7 +132,7 @@ starter_structure:
                 1. Scans of birth certificate, passport or ID, and every CXC certificate and results slip saved with clear file names.
                 2. A school transcript and testimonial requested and filed.
                 3. Two or three certified copies of the key documents kept in a paper wallet.
-                4. Passport expiry date checked against your likely departure date.
+                4. Passport expiry date checked against the likely departure date.
 
                 ## Notes
                 Keep originals at home. Send certified copies unless an office asks to see originals in person.
@@ -143,21 +145,21 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Scan your birth certificate, passport and every CXC results slip"
-                - "Name each file with your surname, the document and the year"
+                - "Scan the birth certificate, passport and every CXC results slip"
+                - "Name each file with the surname, the document and the year"
                 - "Find out who can certify copies in your country and get three sets done"
-                - "Check your passport will still be valid a year after you plan to leave"
+                - "Check the passport will still be valid a year after your teen plans to leave"
                 - "Add any new certificates or letters to the folder @recurring(monthly:22)"
             - name: Family talk on money, distance and choices
               description: |-
                 ## Purpose
-                Parents and students often carry different pictures in their heads: one is imagining a UWI campus a bus ride away, the other a university in Toronto or Manchester. One honest conversation early in Lower Six, about what the family can pay, how far is too far and who makes the final call, stops months of applications going to places that were never possible.
+                Parents and teenagers often carry different pictures in their heads: one is imagining a UWI campus a bus ride away, the other a university in Toronto or Manchester. One honest conversation early in Lower Six, about what the family can pay, how far is too far and who makes the final call, stops months of applications going to places that were never possible.
 
                 ## Milestones
                 1. A rough ceiling agreed for what the family can contribute each year.
                 2. Places ruled in and ruled out, with the reason for each.
                 3. An agreement on who decides if a scholarship or offer arrives that the family disagrees about.
-                4. The outcome written in a short note both student and parent have read.
+                4. The outcome written in a short note both you and your teen have read.
 
                 ## Notes
                 Hold it before any applications are opened. Changing the plan later is fine; not having one is the problem.
@@ -172,17 +174,17 @@ starter_structure:
                 - "Agree a time this week for a family conversation about university"
                 - "Write down what the family could put towards fees and living costs each year"
                 - "List destinations each person would and would not support"
-                - "Agree who has the final say if student and parent disagree"
-            - name: National scholarship rules for your country
+                - "Agree who has the final say if you and your teen disagree"
+            - name: National scholarship rules for the home country
               description: |-
                 ## Purpose
-                Government scholarships tied to CAPE, such as Trinidad and Tobago's open and additional scholarships or the Barbados Scholarships and Exhibitions, are awarded under rules that set which units count, how they are grouped by field and when the results must be earned. Those rules change from time to time, and students lose eligibility by sitting the wrong combination without knowing it.
+                Government scholarships tied to CAPE, such as Trinidad and Tobago's open and additional scholarships or the Barbados Scholarships and Exhibitions, are awarded under rules that set which units count, how they are grouped by field and when the results must be earned. Those rules change from time to time, and students lose eligibility by sitting the wrong combination without knowing it. Reading the current rules alongside your teen means two people have checked the conditions that matter most.
 
                 ## Milestones
-                1. The current scholarship rules or notice for your country downloaded and read in full.
-                2. The units, sittings and grade requirements that apply to your field written in plain language.
+                1. The current scholarship rules or notice for your country downloaded and read in full by you and your teen.
+                2. The units, sittings and grade requirements that apply to your teen's field written in plain language.
                 3. Any service bond or return-home condition noted.
-                4. Questions you could not answer from the notice put to the scholarship office or your school.
+                4. Questions the notice does not answer put to the scholarship office or the school.
 
                 ## Notes
                 Rules differ between countries and years. Trust only the current official document, not older students' memories.
@@ -191,40 +193,40 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A plain-language summary of this year's national scholarship rules for your field is saved, with open questions sent to the scholarship office."
+                success_criteria: "A plain-language summary of this year's national scholarship rules for your teen's field is saved, with open questions sent to the scholarship office."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Download your country's current scholarship rules or notice"
-                - "Underline every condition about units, sittings and grades for your field"
+                - "Download the country's current scholarship rules or notice"
+                - "Underline every condition about units, sittings and grades for their field"
                 - "Write down any bond or service condition attached to the award"
                 - "Email the scholarship office with any question the notice does not answer"
                 - "Reread the rules when the new year's notice is published @recurring(yearly)"
             - name: Unit choices checked against scholarship and degree needs
               description: |-
                 ## Purpose
-                Before Upper Six begins, the units you sit are close to fixed, and that combination decides which scholarship field you compete in and which degrees will accept you. Checking it against the scholarship rules, the degree prerequisites and CXC's requirements for the CAPE Diploma and the CXC Associate Degree is a one-afternoon job with consequences for years.
+                Before Upper Six begins, the units your teen sits are close to fixed, and that combination decides which scholarship field they compete in and which degrees will accept them. Checking it against the scholarship rules, the degree prerequisites and CXC's requirements for the CAPE Diploma and the CXC Associate Degree is a one-afternoon job with consequences for years, and one worth doing together.
 
                 ## Milestones
-                1. Your planned units for Unit 1 and Unit 2 listed by subject.
-                2. The combination checked against the scholarship field you are aiming for.
-                3. Prerequisites for your top two degree programmes confirmed as covered.
+                1. Your teen's planned units for Unit 1 and Unit 2 listed by subject.
+                2. The combination checked against the scholarship field they are aiming for.
+                3. Prerequisites for their top two degree programmes confirmed as covered.
                 4. Whether the combination earns the CAPE Diploma or the CXC Associate Degree confirmed from CXC's current rules.
-                5. Any change agreed with your form teacher before the registration deadline.
+                5. Any change agreed with the form teacher before the registration deadline.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "Your Upper Six unit combination has been checked against scholarship, degree and CXC award rules, and any change agreed with the school."
+                success_criteria: "Your teen's Upper Six unit combination has been checked against scholarship, degree and CXC award rules, and any change agreed with the school."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Write out the units you plan to sit in Upper Six"
-                - "Compare them with the scholarship field rules you summarised"
-                - "Check the subject prerequisites for your top two degrees"
+                - "Ask your teen to write out the units they plan to sit in Upper Six"
+                - "Compare them with the scholarship field rules already summarised"
+                - "Check the subject prerequisites for their top two degrees"
                 - "Look up CXC's current requirements for the CAPE Diploma and Associate Degree"
-                - "Talk to your form teacher about any change before the CXC registration deadline"
+                - "Your teen raises any change with the form teacher before the CXC registration deadline"
             - name: Shortlist of study destinations and routes
               description: |-
                 ## Purpose
@@ -247,11 +249,11 @@ starter_structure:
                 - "List every university anyone in the family has suggested"
                 - "Score each on programme, entry grades, total cost and distance"
                 - "Cut the list to four to six with one regional option included"
-                - "Show the shortlist to a parent and your guidance counsellor"
+                - "Your teen shows the shortlist to you and the guidance counsellor"
             - name: Weekly applications and deadlines tracker
               description: |-
                 ## Purpose
-                Applying to three countries at once can mean a dozen portals, each with its own deadline, login and missing document. A single tracker reviewed every Sunday, listing each application, its stage, the next action and the date it is due, is the difference between submitting calmly and paying a late fee.
+                Applying to three countries at once can mean a dozen portals, each with its own deadline, login and missing document. A single tracker your teen reviews every Sunday, listing each application, its stage, the next action and the date it is due, is the difference between submitting calmly and paying a late fee, and it gives you something to glance at instead of asking for updates.
 
                 ## Milestones
                 1. A tracker with one row per application, scholarship or loan.
@@ -281,7 +283,7 @@ starter_structure:
                 1. A longlist of at least fifteen scholarships with sponsor, eligibility, value and deadline.
                 2. Each marked eligible, not eligible or unsure.
                 3. Applications started for every eligible award due in the next three months.
-                4. The sources you search each month written down so the routine stays quick.
+                4. The sources searched each month written down so the routine stays quick.
               priority: medium
               frontmatter:
                 mode: operating
@@ -289,19 +291,19 @@ starter_structure:
                 success_criteria: "A longlist of at least fifteen scholarships with eligibility checked is kept current by a monthly search."
                 cadence: rolling
               tasks:
-                - "List five places to search, such as banks, employers, credit unions, alumni groups and embassies"
+                - "List five places to search, such as banks, your employer, credit unions, alumni groups and embassies"
                 - "Record each award with sponsor, value, eligibility and deadline"
                 - "Search for new scholarships and add them to the longlist @recurring(monthly:12)"
                 - "Start an application for each eligible award due within three months"
             - name: Guidance counsellor meetings
               description: |-
                 ## Purpose
-                Guidance counsellors and sixth-form coordinators carry knowledge that is written nowhere else: which universities took last year's students, which scholarship officer answers email, how the school handles references. A short monthly meeting with an agenda, notes and agreed actions makes you one of the students they know well when references and nominations come round.
+                Guidance counsellors and sixth-form coordinators carry knowledge that is written nowhere else: which universities took last year's students, which scholarship officer answers email, how the school handles references. Encourage your teen to hold a short monthly meeting with an agenda, notes and agreed actions, so they become one of the students the counsellor knows well when references and nominations come round.
 
                 ## Milestones
-                1. A first meeting held with your map and shortlist in hand.
+                1. A first meeting held with the map and shortlist in hand.
                 2. Notes kept for every meeting, with actions and owners.
-                3. Your counsellor aware of your target scholarships and deadlines.
+                3. The counsellor aware of your teen's target scholarships and deadlines.
                 4. Agreed actions from each meeting completed before the next.
 
                 ## Notes
@@ -313,9 +315,9 @@ starter_structure:
                 success_criteria: "Notes exist for at least one counsellor meeting a month through Upper Six, each with its actions marked done."
                 cadence: rolling
               tasks:
-                - "Email your guidance counsellor to ask for a first meeting"
-                - "Bring your timeline and shortlist to the first meeting"
-                - "Meet your counsellor with a three-point agenda @recurring(monthly:5)"
+                - "Your teen emails the guidance counsellor to ask for a first meeting"
+                - "Bring the timeline and shortlist to the first meeting"
+                - "Your teen meets the counsellor with a three-point agenda @recurring(monthly:5)"
                 - "Write up actions within a day of each meeting"
             - name: University savings pot
               description: |-
@@ -324,7 +326,7 @@ starter_structure:
 
                 ## Milestones
                 1. A list of one-off costs before and during the first month, each with an estimate.
-                2. A savings target and monthly amount agreed between parent and student.
+                2. A savings target and monthly amount agreed between you and your teen.
                 3. A separate account or pot opened for the money.
                 4. The pot on track against the target at each check.
 
@@ -344,7 +346,7 @@ starter_structure:
             - name: Application inbox and portal check
               description: |-
                 ## Purpose
-                Universities send interview invitations, missing-document requests and offers by email and inside their own portals, and many give only a week or two to respond. A professional email address used only for applications, checked twice a week along with every portal, stops an offer expiring in a spam folder.
+                Universities send interview invitations, missing-document requests and offers by email and inside their own portals, and many give only a week or two to respond. A professional email address your teen uses only for applications, checked twice a week along with every portal, stops an offer expiring in a spam folder.
 
                 ## Milestones
                 1. A plain, professional email address used for every application.
@@ -358,19 +360,19 @@ starter_structure:
                 success_criteria: "Every application uses one professional email, and inbox and portals are checked twice weekly with requests answered within three working days."
                 cadence: rolling
               tasks:
-                - "Create a professional email address using your name"
+                - "Your teen creates a professional email address using their name"
                 - "List every application portal with its login link in the tracker"
                 - "Check the inbox, spam folder and every portal @recurring(weekly:mon,thu)"
                 - "Set a filter so university emails never land in spam"
             - name: Activities, service and awards record
               description: |-
                 ## Purpose
-                Scholarship panels and overseas admissions officers look beyond grades at leadership, service, sport, music and part-time work, but by Upper Six most students cannot remember dates or hours. Logging each activity monthly, with what you did and what changed because of it, builds the raw material for every CV, essay and interview answer.
+                Scholarship panels and overseas admissions officers look beyond grades at leadership, service, sport, music and part-time work, but by Upper Six most students cannot remember dates or hours. Logging each activity monthly, with what was done and what changed because of it, builds the raw material for every CV, essay and interview answer, and you can often help your teen remember the early ones.
 
                 ## Milestones
                 1. Every activity since Form Four listed with role, dates and hours.
                 2. Evidence such as certificates or letters stored for the main entries.
-                3. A sentence for each activity on what you did and what resulted.
+                3. A sentence for each activity on what your teen did and what resulted.
                 4. The three strongest entries picked out for applications.
               priority: medium
               frontmatter:
@@ -403,7 +405,7 @@ starter_structure:
                 - "Block out fixed study time for each unit in a weekly timetable"
                 - "Add two or three capped application slots each week"
                 - "Compare planned and actual hours and adjust the next week @recurring(weekly:sat)"
-                - "Tell your family which hours are protected for study"
+                - "Agree as a family which hours are protected for study"
             - name: Reference and transcript request log
               description: |-
                 ## Purpose
@@ -422,18 +424,18 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Start a log with columns for request, person, date asked and date needed"
-                - "Ask each referee in person before sending the formal request"
+                - "Your teen asks each referee in person before sending the formal request"
                 - "Follow up any request due within a fortnight that has not arrived @recurring(monthly:16)"
                 - "Send a thank-you note to each referee once decisions arrive"
             - name: Predicted and internal grades watch
               description: |-
                 ## Purpose
-                Overseas universities and some scholarship schemes make offers on the grades your school predicts, and predictions rest on internal tests and mock results. Reviewing those grades each term with subject teachers, and asking what would raise a prediction, gives you time to act before predictions are sent.
+                Overseas universities and some scholarship schemes make offers on the grades the school predicts, and predictions rest on internal tests and mock results. Encouraging your teen to review those grades each term with subject teachers, and to ask what would raise a prediction, gives them time to act before predictions are sent.
 
                 ## Milestones
                 1. Internal and mock grades for every unit listed by term.
-                2. A conversation held with each subject teacher about your predicted grade.
-                3. One specific action agreed for any unit predicted below your target.
+                2. A conversation held between your teen and each subject teacher about their predicted grade.
+                3. One specific action agreed for any unit predicted below their target.
                 4. Predicted grades confirmed before the school sends them to universities.
               priority: low
               frontmatter:
@@ -442,18 +444,18 @@ starter_structure:
                 success_criteria: "A termly record of internal and predicted grades exists for every unit, with an action noted for each unit below target."
                 cadence: cyclic
               tasks:
-                - "List your internal and mock grades for each unit this year"
-                - "Ask each subject teacher what grade they would predict and why"
+                - "List this year's internal and mock grades for each unit"
+                - "Your teen asks each subject teacher what grade they would predict and why"
                 - "Agree one action for any unit predicted below target"
-                - "Review internal grades and predictions with your teachers @recurring(quarterly)"
+                - "Your teen reviews internal grades and predictions with teachers @recurring(quarterly)"
             - name: Scholarship and university CV
               description: |-
                 ## Purpose
-                Scholarship committees, interview panels and some universities ask for a one or two page CV, and a student's first attempt usually lists clubs without saying what was done in them. Building it from your activities record, with results and responsibilities rather than memberships, gives you one document to adapt for every application.
+                Scholarship committees, interview panels and some universities ask for a one or two page CV, and a student's first attempt usually lists clubs without saying what was done in them. Your teen builds it from the activities record, with results and responsibilities rather than memberships, and ends up with one document to adapt for every application; your part is a second read.
 
                 ## Milestones
                 1. A CV of no more than two pages with education, CXC results, activities, service, awards and skills.
-                2. Every activity line written as what you did and what resulted.
+                2. Every activity line written as what your teen did and what resulted.
                 3. The draft reviewed by a teacher or counsellor and corrected.
                 4. The final version saved as a PDF with a clear file name.
 
@@ -469,13 +471,13 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Create a CV from the resume template"
-                - "Copy your strongest entries from the activities record"
-                - "Rewrite each line to show what you did and what came of it"
+                - "Copy the strongest entries from the activities record"
+                - "Rewrite each line to show what was done and what came of it"
                 - "Ask a teacher or counsellor to mark up the draft"
             - name: Personal statement for UK applications
               description: |-
                 ## Purpose
-                UK universities applying through UCAS read one personal statement across all your choices, and it has to show why you want the subject through what you have read, done and thought, not a list of achievements. Drafting it early, in several rounds with feedback, is the reliable way to a statement that sounds like you and fits the format UCAS currently uses.
+                UK universities applying through UCAS read one personal statement across all of a student's choices, and it has to show why they want the subject through what they have read, done and thought, not a list of achievements. Drafting it early, in several rounds with feedback, is the reliable way to a statement that sounds like your teen and fits the format UCAS currently uses. Offer to read drafts, but let the words stay theirs.
 
                 ## Milestones
                 1. The current UCAS personal statement format and length rules checked on the UCAS website.
@@ -492,21 +494,21 @@ starter_structure:
                 effort_hours_estimate: "12"
               tasks:
                 - "Check the current UCAS personal statement format and limit"
-                - "List the reading, projects and experiences that drew you to the subject"
-                - "Ask the agent to suggest a structure from your notes, then write the draft yourself"
+                - "List the reading, projects and experiences that drew your teen to the subject"
+                - "Your teen asks the agent to suggest a structure from their notes, then writes the draft themselves"
                 - "Get feedback from a subject teacher and redraft"
                 - "Read the final version aloud to catch errors"
             - name: US college essays and the Common App
               description: |-
                 ## Purpose
-                US universities that accept the Common App read a main essay and often several college-specific supplements, looking for a particular story only you could tell rather than a summary of your grades. Planning the essays as a set, with one main story and shorter pieces that show different sides of you, saves weeks of rewriting near the deadline.
+                US universities that accept the Common App read a main essay and often several college-specific supplements, looking for a particular story only the applicant could tell rather than a summary of grades. Planning the essays as a set, with one main story and shorter pieces that show different sides of your teen, saves weeks of rewriting near the deadline.
 
                 ## Milestones
                 1. The current Common App essay prompts and each college's supplements listed in one document.
                 2. Three possible main essay stories outlined and one chosen.
                 3. A main essay drafted, redrafted and within the word limit.
                 4. Supplements drafted for every college on the list.
-                5. All essays proofread by someone who knows you.
+                5. All essays proofread by someone who knows your teen well.
               priority: medium
               deadlineOffsetDays: 75
               frontmatter:
@@ -519,11 +521,11 @@ starter_structure:
                 - "Copy this year's Common App prompts and each college's supplements into one document"
                 - "Outline three possible stories for the main essay"
                 - "Draft the main essay and leave it for three days before revising"
-                - "Ask someone who knows you well whether the essay sounds like you"
+                - "Ask someone who knows your teen well whether the essay sounds like them"
             - name: Scholarship interview practice
               description: |-
                 ## Purpose
-                Many scholarships, medical schools and some universities shortlist by grades and decide by interview, where a nervous candidate with excellent results can lose to a clear, prepared one. Weekly mock interviews in the run-up, with one recorded and reviewed, build answers on your goals, your field and current Caribbean issues without sounding rehearsed.
+                Many scholarships, medical schools and some universities shortlist by grades and decide by interview, where a nervous candidate with excellent results can lose to a clear, prepared one. Weekly mock interviews in the run-up, with one recorded and reviewed, help your teen build answers on their goals, their field and current Caribbean issues without sounding rehearsed. Playing the panel is one of the most useful things a parent can do here.
 
                 ## Milestones
                 1. A bank of twenty likely questions with notes for each answer.
@@ -538,14 +540,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Write twenty questions a scholarship panel could ask you"
+                - "Your teen writes twenty questions a scholarship panel could ask"
                 - "Note three points for each answer instead of a script"
-                - "Hold a mock interview with a teacher, parent or family friend @recurring(weekly:thu)"
+                - "Hold a mock interview with your teen, or ask a teacher or family friend to @recurring(weekly:thu)"
                 - "Record one mock interview and watch it back"
             - name: How CAPE grades are read abroad
               description: |-
                 ## Purpose
-                CAPE is widely recognised, but each university decides how it reads your units: a UK university may list CAPE equivalents or tariff points, a US college may grant credit for some units, and a Canadian university may ask how many units match its own final-year courses. Finding out how each shortlisted university treats CAPE prevents applying with too few units or missing credits you have already earned.
+                CAPE is widely recognised, but each university decides how it reads a student's units: a UK university may list CAPE equivalents or tariff points, a US college may grant credit for some units, and a Canadian university may ask how many units match its own final-year courses. Finding out how each shortlisted university treats CAPE prevents applying with too few units or missing credits already earned.
 
                 ## Milestones
                 1. Each shortlisted university's statement on CAPE or Caribbean qualifications found.
@@ -570,9 +572,9 @@ starter_structure:
                 Families often compare funding offers without knowing the difference between a grant that is never repaid, a loan that is, a bursary tied to need and a scholarship tied to a service bond. Learning the terms once, with the public schemes in your own country, such as GATE tuition support in Trinidad and Tobago, makes every later comparison faster and safer.
 
                 ## Milestones
-                1. A one-page glossary of funding terms written in your own words.
+                1. A one-page glossary of funding terms written in plain words.
                 2. The main public funding schemes in your country listed with what each covers.
-                3. The awards on your longlist sorted into need-based and merit-based.
+                3. The awards on the longlist sorted into need-based and merit-based.
                 4. Questions about repayment or bonds listed for each funding office.
 
                 ## Notes
@@ -581,18 +583,18 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A one-page funding glossary and a list of your country's main public schemes, with what each covers, are saved."
+                success_criteria: "A one-page funding glossary and a list of the country's main public schemes, with what each covers, are saved."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
                 - "Write one-line definitions of grant, loan, bursary, scholarship and bond"
                 - "List the public tuition and loan schemes in your country"
-                - "Mark which awards on your longlist are need-based and which merit-based"
+                - "Mark which awards on the longlist are need-based and which merit-based"
                 - "Write down the repayment questions to ask each funder"
             - name: Reading an offer and its conditions
               description: |-
                 ## Purpose
-                An offer letter can be conditional on CAPE grades, on a CSEC subject you already hold, on a document by a deadline or on a deposit, and missing one small condition can cancel it. Reading each offer with a checklist, and logging every condition with its deadline, means you know exactly what must happen before a place is yours.
+                An offer letter can be conditional on CAPE grades, on a CSEC subject already held, on a document by a deadline or on a deposit, and missing one small condition can cancel it. Reading each offer with your teen against a checklist, and logging every condition with its deadline, means you both know exactly what must happen before a place is theirs.
 
                 ## Milestones
                 1. Every offer logged as conditional or unconditional.
@@ -614,7 +616,7 @@ starter_structure:
             - name: Unit 1 results and resit decision
               description: |-
                 ## Purpose
-                Unit 1 results arrive after Lower Six, and they shape everything that follows: predicted grades, scholarship standing and whether to resit a unit alongside Unit 2. Deciding calmly, with the scholarship rules and your timetable in front of you, beats a panicked resit that eats into Unit 2 study time.
+                Unit 1 results arrive after Lower Six, and they shape everything that follows: predicted grades, scholarship standing and whether to resit a unit alongside Unit 2. Deciding calmly with your teen, with the scholarship rules and their timetable in front of you, beats a panicked resit that eats into Unit 2 study time.
 
                 ## Milestones
                 1. Unit 1 grades recorded with module grades where shown.
@@ -630,17 +632,17 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "Write down each Unit 1 grade and module grade"
-                - "Check how each grade affects your scholarship field and offers"
-                - "Ask the school whether a resit can fit beside your Unit 2 timetable"
+                - "Check how each grade affects their scholarship field and offers"
+                - "Ask the school whether a resit can fit beside the Unit 2 timetable"
                 - "Record a keep or resit decision for every unit"
             - name: Requesting a CXC review of results
               description: |-
                 ## Purpose
-                When a grade is far below what your internal work and teachers predicted, CXC offers a paid review of results, but the window is short and a better grade is not guaranteed. Deciding quickly, with your teacher's honest view, and lodging the request through the school or Local Registrar on time is the only way to use it.
+                When a grade is far below what internal work and teachers predicted, CXC offers a paid review of results, but the window is short and a better grade is not guaranteed. Deciding quickly, with the teacher's honest view, and lodging the request through the school or Local Registrar on time is the only way to use it; your teen can gather the facts while you handle the fee.
 
                 ## Milestones
                 1. The current review deadline, fee and process confirmed on the CXC website.
-                2. Your subject teacher's view on whether a review is worthwhile recorded.
+                2. The subject teacher's view on whether a review is worthwhile recorded.
                 3. A decision made for each grade in question.
                 4. Any review request lodged before the deadline with a receipt kept.
                 5. Universities and scholarship offices told that a review is pending, where it matters.
@@ -653,17 +655,17 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Check the current review of results deadline and fee on the CXC website"
-                - "Ask your subject teacher whether the grade looks out of line"
-                - "Lodge the request through your school or Local Registrar"
+                - "Your teen asks the subject teacher whether the grade looks out of line"
+                - "Lodge the request through the school or Local Registrar"
                 - "Tell any university holding a conditional offer that a review is pending"
             - name: Choosing a UWI campus and programme
               description: |-
                 ## Purpose
-                UWI's campuses in Trinidad, Jamaica, Barbados and Antigua offer different programmes, and some degrees run on only one campus, so the right choice starts with the programme and only then the island. Comparing campuses, or another regional university, on programme, entry requirements, tuition arrangements for your nationality and halls gives a regional option worth holding beside any overseas plan.
+                UWI's campuses in Trinidad, Jamaica, Barbados and Antigua offer different programmes, and some degrees run on only one campus, so the right choice starts with the programme and only then the island. Comparing campuses, or another regional university, on programme, entry requirements, tuition arrangements for your teen's nationality and halls gives a regional option worth holding beside any overseas plan.
 
                 ## Milestones
-                1. Programmes in your field listed with the campus offering each.
-                2. Entry requirements and tuition arrangements for your nationality noted for each.
+                1. Programmes in your teen's field listed with the campus offering each.
+                2. Entry requirements and tuition arrangements for their nationality noted for each.
                 3. A first and second choice of programme agreed.
                 4. The online application submitted with all documents attached.
               priority: medium
@@ -674,10 +676,10 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "List programmes in your field and which campus offers each"
-                - "Check tuition arrangements for your nationality at each campus"
+                - "List programmes in their field and which campus offers each"
+                - "Check tuition arrangements for their nationality at each campus"
                 - "Choose a first and second programme"
-                - "Submit the online application with documents attached"
+                - "Your teen submits the online application with documents attached"
             - name: Comparing offers on full cost of attendance
               description: |-
                 ## Purpose
@@ -706,7 +708,7 @@ starter_structure:
                 Many government scholarships require the holder to return and work in the country for a set period, or to repay the award if they do not, and the agreement is signed before the degree even begins. Reading it carefully, asking questions in writing and getting independent advice where needed means the decision is made with the obligation in full view.
 
                 ## Milestones
-                1. The full scholarship agreement read by student and parent.
+                1. The full scholarship agreement read by you and your teen.
                 2. Service period, repayment terms and any guarantor duties written in plain language.
                 3. Questions answered by the scholarship office in writing.
                 4. Independent legal advice taken if the agreement involves a guarantor or large sums.
@@ -719,7 +721,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Read the whole scholarship agreement with a parent or guardian"
+                - "Read the whole scholarship agreement together"
                 - "Write the service, repayment and guarantor terms in plain words"
                 - "Send the scholarship office any questions in writing"
                 - "Ask an attorney to review the agreement if a guarantor is required"
@@ -729,10 +731,10 @@ starter_structure:
                 Public student loan schemes and bank education loans, such as the Students' Loan Bureau in Jamaica or a national revolving loan fund, ask for proof of admission, guarantors, income documents and identification, often with long processing times. Building the file before the offer is final means the loan can be approved before the first fee is due.
 
                 ## Milestones
-                1. Loan schemes you qualify for listed with their documents and deadlines.
+                1. Loan schemes your teen qualifies for listed with their documents and deadlines.
                 2. Guarantors identified and their documents requested.
                 3. The application submitted with proof of admission.
-                4. Repayment terms written down and understood by student and guarantor.
+                4. Repayment terms written down and understood by your teen and the guarantor.
               priority: medium
               frontmatter:
                 mode: building
@@ -741,17 +743,17 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "List the loan schemes you qualify for and their documents"
-                - "Ask your guarantors for the documents the lender requires"
-                - "Submit the application as soon as you have proof of admission"
-                - "Write down the repayment terms and share them with your guarantor"
+                - "List the loan schemes your teen qualifies for and their documents"
+                - "Ask the guarantors for the documents the lender requires"
+                - "Submit the application as soon as there is proof of admission"
+                - "Write down the repayment terms and share them with the guarantor"
             - name: Gap year or deferred entry decision
               description: |-
                 ## Purpose
                 Some students finish CAPE without the place, funding or readiness they wanted, and a planned year out, working, resitting a unit or reapplying with full results, can lead to a better place than a rushed acceptance. The year only helps if it is planned: what will be done, what will be earned or learned, and how a reapplication will be stronger.
 
                 ## Milestones
-                1. Reasons for and against a year out listed by student and parent.
+                1. Reasons for and against a year out listed by you and your teen.
                 2. Whether each offer can be deferred checked with the university.
                 3. A month-by-month plan for the year, if chosen.
                 4. A decision recorded and universities told before their deadlines.
@@ -764,13 +766,13 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "List reasons for and against a year out"
-                - "Ask each university whether deferral is allowed for your offer"
+                - "Ask each university whether deferral is allowed for the offer"
                 - "Sketch what the year would hold month by month"
                 - "Record the decision and inform each university"
             - name: Admissions tests decision for US universities
               description: |-
                 ## Purpose
-                Some US colleges require the SAT or ACT, some are test-optional and some ignore scores, and these policies have changed several times in recent years. Checking the current policy at each college on your list, then deciding whether to sit, leaves time to register at a test centre in your country and prepare properly.
+                Some US colleges require the SAT or ACT, some are test-optional and some ignore scores, and these policies have changed several times in recent years. Checking the current policy at each college on the list, then deciding with your teen whether to sit, leaves time to register at a test centre in your country and prepare properly.
 
                 ## Milestones
                 1. Testing policy recorded for every US college on the list.
@@ -787,7 +789,7 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "Check each US college's current SAT and ACT policy"
-                - "Decide whether a score would help your applications"
+                - "Decide together whether a score would help the applications"
                 - "Find the nearest test centre and its available dates"
                 - "Book a date and plan practice tests in the weeks before"
             - name: Results day plan
@@ -797,7 +799,7 @@ starter_structure:
 
                 ## Milestones
                 1. Login details for the results service tested before the day.
-                2. A short list of who to contact first, depending on the result.
+                2. A short list of who to contact first, depending on the result, agreed with your teen.
                 3. Steps written for an unexpected grade, including the review deadline.
                 4. Results saved as PDFs and sent to universities holding conditional offers.
               priority: high
@@ -808,10 +810,10 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Test your results login a week before the release date"
-                - "Write down who you will contact first for each outcome"
-                - "Save your results as a PDF as soon as they appear"
-                - "Email universities holding conditional offers with your results"
+                - "Your teen tests the results login a week before the release date"
+                - "Agree who each of you will contact first for each outcome"
+                - "Save the results as a PDF as soon as they appear"
+                - "Email universities holding conditional offers with the results"
             - name: Scholarship announcement and acceptance paperwork
               description: |-
                 ## Purpose
@@ -830,7 +832,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your school which documents awardees were asked for last year"
+                - "Ask the school which documents awardees were asked for last year"
                 - "Find out how long a police certificate takes in your country"
                 - "Complete and return each acceptance form by its deadline"
                 - "File the award letter and agreement in the documents folder"
@@ -863,7 +865,7 @@ starter_structure:
             - name: Hall and accommodation applications
               description: |-
                 ## Purpose
-                Halls of residence at UWI and overseas universities fill on their own timetable, often separate from the admissions decision, and students who wait for final results can find rooms gone. Applying as soon as each portal opens, with a backup off-campus plan, gives a first-year student a safe and affordable place to live.
+                Halls of residence at UWI and overseas universities fill on their own timetable, often separate from the admissions decision, and students who wait for final results can find rooms gone. Applying as soon as each portal opens, with a backup off-campus plan you have checked together, gives your teen a safe and affordable place to live in their first year.
 
                 ## Milestones
                 1. Accommodation deadlines and costs listed for each likely university.
@@ -903,14 +905,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "8"
               tasks:
-                - "Download the official student visa checklist for your study country"
+                - "Download the official student visa checklist for the study country"
                 - "Ask the university for the admission document the visa requires"
                 - "Gather proof of funds in the form the checklist asks for"
                 - "Book the biometrics or interview appointment as soon as allowed"
             - name: Departure and arrival plan for studying abroad
               description: |-
                 ## Purpose
-                Leaving home for university abroad means a flight, a first night, a bank account, a phone and a way from the airport to halls in a city you have never seen. A plan covering the first seventy-two hours, shared with family, makes arrival straightforward and keeps someone at home informed.
+                Leaving home for university abroad means a flight, a first night, a bank account, a phone and a way from the airport to halls in a city your teen has never seen. A plan covering the first seventy-two hours, made by your teen and shared with the family, makes arrival straightforward and keeps you informed without hovering.
 
                 ## Milestones
                 1. Flight booked to arrive before orientation, with luggage allowance checked.
@@ -929,13 +931,13 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Check the orientation date before booking a flight"
-                - "Write the route from the airport to your accommodation"
+                - "Write the route from the airport to the accommodation"
                 - "Pack documents in hand luggage and keep a separate copy online"
-                - "Share the arrival plan and contacts with family"
+                - "Your teen shares the arrival plan and contacts with the family"
             - name: Registration and orientation week
               description: |-
                 ## Purpose
-                The first week decides a lot: course registration, fee clearance, student ID, health insurance, a bank account, and finding the library before the first assignment. Going in with a list of what must be done and where, usually taken from the university's own new-student pages, means fewer queues and no missed course spaces.
+                The first week decides a lot: course registration, fee clearance, student ID, health insurance, a bank account, and finding the library before the first assignment. Your teen going in with a list of what must be done and where, usually taken from the university's own new-student pages, means fewer queues and no missed course spaces, and gives you a short list to ask about on the first call home.
 
                 ## Milestones
                 1. The new-student checklist from the university saved.
@@ -950,40 +952,40 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Save the university's new-student checklist before you arrive"
+                - "Save the university's new-student checklist before arrival"
                 - "Register for courses as soon as registration opens"
-                - "Collect your student ID and set up a bank account"
-                - "Find the library, health centre and your academic adviser"
+                - "Your teen collects their student ID and sets up a bank account"
+                - "Find the library, health centre and academic adviser"
             - name: Parent support without taking over
               description: |-
                 ## Purpose
-                Parents want to help, but admissions officers and scholarship panels expect the student's own voice, and an essay written or an email sent by a parent is easy to spot. A parent who handles money, documents and a weekly check-in, while the student owns the essays and the contact with universities, gives real help without getting in the way.
+                Parents want to help, but admissions officers and scholarship panels expect the student's own voice, and an essay written or an email sent by a parent is easy to spot. Handling money, documents and a weekly check-in yourself, while your teen owns the essays and the contact with universities, gives real help without getting in the way.
 
                 ## Milestones
-                1. Parent and student agree in writing who owns which tasks.
-                2. The parent's tasks, such as documents, fees and guarantor papers, done on time.
+                1. You and your teen agree in writing who owns which tasks.
+                2. Your tasks, such as documents, fees and guarantor papers, done on time.
                 3. A short weekly check-in held through the application season.
-                4. The student sending all communication with universities and scholarship bodies.
+                4. Your teen sending all communication with universities and scholarship bodies.
               priority: low
               frontmatter:
                 mode: service
                 output_kind: habit
-                success_criteria: "A written split of parent and student tasks exists, and a weekly check-in has run through the application season."
+                success_criteria: "A written split of your tasks and your teen's exists, and a weekly check-in has run through the application season."
                 cadence: rolling
               tasks:
-                - "List every application task and mark it parent or student"
-                - "Take on the documents, fees and guarantor paperwork as a parent"
+                - "List every application task and mark it yours or your teen's"
+                - "Take on the documents, fees and guarantor paperwork yourself"
                 - "Hold a fifteen-minute check-in about applications @recurring(weekly:fri)"
-                - "Leave all emails to universities for the student to send"
+                - "Leave all emails to universities for your teen to send"
             - name: Plan B after disappointing CAPE results
               description: |-
                 ## Purpose
-                Disappointing results feel like the end of the plan, but there are well-used routes forward: a resit of one or two units, a community or national college programme, an associate degree that transfers into a bachelor's, a foundation year abroad, or entry on a related programme with the option to transfer. Mapping these calmly within a fortnight of results keeps a year from drifting.
+                Disappointing results feel like the end of the plan, to a teenager and often to their parents, but there are well-used routes forward: a resit of one or two units, a community or national college programme, an associate degree that transfers into a bachelor's, a foundation year abroad, or entry on a related programme with the option to transfer. Mapping these calmly together within a fortnight of results keeps a year from drifting.
 
                 ## Milestones
-                1. Each grade compared with what your offers and scholarships required.
+                1. Each grade compared with what the offers and scholarships required.
                 2. At least three alternative routes listed with entry rules and costs.
-                3. Admissions offices contacted about any offer you narrowly missed.
+                3. Admissions offices contacted about any offer narrowly missed.
                 4. A chosen route agreed with the family and the first step taken.
 
                 ## Notes
@@ -997,18 +999,18 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "Compare each grade with the condition it was meant to meet"
-                - "Call admissions offices about any offer you narrowly missed"
+                - "Your teen calls admissions offices about any offer narrowly missed"
                 - "List three alternative routes with entry rules and costs"
                 - "Agree a route as a family and book the first appointment"
             - name: Applying from a small island or small sixth form
               description: |-
                 ## Purpose
-                Students in the smaller OECS states, or in schools with few CAPE candidates, may have fewer units on offer, no university fairs and a guidance counsellor covering hundreds of pupils. Finding the regional and online substitutes, from virtual open days to alumni from your island already at university, closes much of that gap.
+                Students in the smaller OECS states, or in schools with few CAPE candidates, may have fewer units on offer, no university fairs and a guidance counsellor covering hundreds of pupils. Helping your teen find the regional and online substitutes, from virtual open days to alumni from the island already at university, closes much of that gap.
 
                 ## Milestones
-                1. Units not offered at your school identified, with any other way to sit them.
+                1. Units not offered at the school identified, with any other way to sit them.
                 2. At least three virtual open days or fairs attended.
-                3. Two alumni from your island at university contacted for advice.
+                3. Two alumni from the island at university contacted for advice.
                 4. Travel and costs for any in-person interview planned in advance.
               priority: low
               frontmatter:
@@ -1018,9 +1020,9 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Check which CAPE units your school cannot offer and ask about alternatives"
+                - "Check which CAPE units the school cannot offer and ask about alternatives"
                 - "Sign up for three virtual open days or fairs"
-                - "Ask your school to put you in touch with two past students now at university"
+                - "Ask the school to put your teen in touch with two past students now at university"
                 - "Plan travel and costs for any interview held off the island"
             - name: Diaspora and dual-citizen fee status check
               description: |-
@@ -1028,7 +1030,7 @@ starter_structure:
                 A student with a parent born in the UK, US or Canada, or with a second passport, may qualify for home tuition fees or local funding abroad, but fee status usually depends on residence rules, not citizenship alone. A student born abroad who came home may also need to prove eligibility for national scholarships. Checking both sides with official sources prevents paying international fees by mistake or losing eligibility at home.
 
                 ## Milestones
-                1. Every citizenship and residence period in the student's history written down with dates.
+                1. Every citizenship and residence period in your teen's history written down with dates.
                 2. The fee status rules of each study country checked on official sites.
                 3. Eligibility for national scholarships at home confirmed with the scholarship office.
                 4. Evidence of residence or citizenship filed for any claim made.
@@ -1039,23 +1041,23 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A written note records your fee status in each study country and your eligibility at home, each confirmed by an official source."
+                success_criteria: "A written note records your teen's fee status in each study country and their eligibility at home, each confirmed by an official source."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "List every passport and country of residence in your history"
+                - "List every passport and country of residence in your teen's history"
                 - "Read each study country's official fee status guidance"
-                - "Ask the university's fee assessment team to confirm your status in writing"
-                - "Confirm with your scholarship office that your history does not affect eligibility"
+                - "Ask the university fee assessment team to confirm their status in writing"
+                - "Confirm with the scholarship office that this history does not affect eligibility"
             - name: First in the family to go to university
               description: |-
                 ## Purpose
-                When no one at home has applied to university, the unwritten rules, from what a transcript is to how halls work or what a lecturer expects, can feel like a test nobody prepared you for. Finding a mentor who has done it, and learning the vocabulary early, gives a first-generation student and their parents the same footing as everyone else.
+                When no one at home has applied to university, the unwritten rules, from what a transcript is to how halls work or what a lecturer expects, can feel like a test nobody prepared the family for. Helping your teen find a mentor who has done it, and learning the vocabulary alongside them, gives a first-generation student and their parents the same footing as everyone else.
 
                 ## Milestones
                 1. A mentor identified who has been through university applications.
                 2. A list of unfamiliar terms explained in plain language.
-                3. Parents briefed on the timeline and what they can help with.
+                3. You briefed on the timeline and what you can help with.
                 4. A monthly check-in with the mentor running through Upper Six.
               priority: low
               frontmatter:
@@ -1065,10 +1067,10 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Ask a teacher, church member or family friend who went to university to mentor you"
-                - "List every university word you do not understand"
-                - "Explain the application timeline to your parents in one sitting"
-                - "Message or meet your mentor with an update on progress @recurring(monthly:9)"
+                - "Ask a teacher, church member or family friend who went to university to mentor your teen"
+                - "List every university word either of you does not understand"
+                - "Ask your teen to walk you through the application timeline in one sitting"
+                - "Your teen messages or meets the mentor with an update on progress @recurring(monthly:9)"
             - name: First-semester student budget
               description: |-
                 ## Purpose
@@ -1081,7 +1083,7 @@ starter_structure:
                 4. Monthly reviews held, with any adjustment agreed with family.
 
                 ## Notes
-                Start from the **Monthly budget and bills** template. Check whether your visa limits part-time work hours before counting on wages.
+                Start from the **Monthly budget and bills** template. Check whether the visa limits part-time work hours before counting on wages.
               priority: medium
               frontmatter:
                 mode: operating
@@ -1092,7 +1094,7 @@ starter_structure:
                 - "List expected income for each month of the semester"
                 - "Set fixed costs and a weekly spending limit"
                 - "Review spending against the budget and adjust @recurring(monthly:2)"
-                - "Agree with family what happens if the money runs short"
+                - "Agree with your teen what happens if the money runs short"
             - name: Contending for top national and regional awards
               description: |-
                 ## Purpose
@@ -1100,7 +1102,7 @@ starter_structure:
 
                 ## Milestones
                 1. The criteria for each top award confirmed from official sources.
-                2. Your predicted grades for every unit compared with those criteria.
+                2. Your teen's predicted grades for every unit compared with those criteria.
                 3. Internal assessment marks for every unit checked with teachers as the strongest they can be.
                 4. A plan agreed with teachers for any unit where marks are being lost.
               priority: low
@@ -1112,22 +1114,22 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Look up the official criteria for each top national and regional award"
-                - "Compare your predicted grade in every unit with those criteria"
-                - "Ask each teacher where internal assessment marks are being lost"
+                - "Compare the predicted grade in every unit with those criteria"
+                - "Your teen asks each teacher where internal assessment marks are being lost"
                 - "Agree one change per unit with the subject teacher and note it"
             - name: Medicine, law and engineering entry routes
               description: |-
                 ## Purpose
-                Medicine, law and engineering are the most competitive choices for CAPE students, each with extra hurdles: specific science or mathematics units, interviews or aptitude tests for medicine, a professional law school after the degree for law, and accreditation questions for engineering abroad. Mapping the full route to qualification, not just entry, shows the true years and costs before you commit.
+                Medicine, law and engineering are the most competitive choices for CAPE students, each with extra hurdles: specific science or mathematics units, interviews or aptitude tests for medicine, a professional law school after the degree for law, and accreditation questions for engineering abroad. Mapping the full route to qualification with your teen, not just entry, shows the true years and costs before the family commits.
 
                 ## Milestones
                 1. Unit and grade requirements for the chosen professional degree confirmed at each shortlisted university.
                 2. Any interview, aptitude test or extra application identified with its date.
-                3. The full route to practise in your home country written down, from degree to licence.
+                3. The full route to practise in the home country written down, from degree to licence.
                 4. The total years and approximate costs compared across routes.
 
                 ## Notes
-                A degree from abroad may need extra steps before you can practise at home. Check with the professional council in your country before choosing.
+                A degree from abroad may need extra steps before a graduate can practise at home. Check with the professional council in your country before choosing.
               priority: medium
               frontmatter:
                 mode: research
@@ -1136,14 +1138,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Confirm the required units and grades for your profession at each university"
+                - "Confirm the required units and grades for the profession at each university"
                 - "Note any interview or aptitude test with its registration date"
-                - "Write the full route from degree to licence in your home country"
-                - "Ask the professional council at home whether your chosen degree is recognised"
+                - "Write the full route from degree to licence in the home country"
+                - "Ask the professional council at home whether the chosen degree is recognised"
             - name: Sixth-form reference programme for teachers
               description: |-
                 ## Purpose
-                Teachers and guidance counsellors write dozens of references and predicted grades each year, often from memory, under pressure and in formats that differ by country. A simple school-wide system, with a one-page student information sheet, a request deadline and shared templates, produces stronger references and fewer late nights.
+                Teachers and guidance counsellors write dozens of references and predicted grades each year, often from memory, under pressure and in formats that differ by country. If your teen's school has no system yet, this is one to suggest through the PTA or sixth-form coordinator: a one-page student information sheet, a request deadline and shared templates produce stronger references and fewer late nights.
 
                 ## Milestones
                 1. A one-page information sheet every applicant completes before asking for a reference.
@@ -1170,7 +1172,7 @@ starter_structure:
                 1. Every ongoing condition of the award listed from the agreement.
                 2. Reporting dates entered in the calendar for the full degree.
                 3. Grade requirements compared with each semester's results.
-                4. Contact details for your scholarship officer saved and checked each year.
+                4. Contact details for the scholarship officer saved and checked each year.
               priority: medium
               frontmatter:
                 mode: operating
@@ -1178,14 +1180,14 @@ starter_structure:
                 success_criteria: "Every reporting date and condition of the award is in a calendar, and each report has been submitted on time."
                 cadence: cyclic
               tasks:
-                - "List every ongoing condition in your scholarship agreement"
-                - "Put reporting dates for the whole degree in your calendar"
-                - "Send the scholarship office your grades and progress report @recurring(yearly)"
+                - "List every ongoing condition in the scholarship agreement"
+                - "Your teen puts reporting dates for the whole degree in their calendar"
+                - "Your teen sends the scholarship office their grades and progress report @recurring(yearly)"
                 - "Ask the scholarship office before changing programme, university or study load"
 ---
 
 # CAPE Results, Scholarships and University
 
-This area is for the stretch between CAPE and the first lecture: turning Unit 1 and Unit 2 results into a university place and the money to take it up, written for the student first and the parent alongside. It starts with foundations (the eighteen-month map, official dates, portal access, matriculation and scholarship rules), then the weekly and monthly machinery of applying, the skills behind essays, CVs and interviews, the decisions about resits, reviews, offers and funding, and the dated events from results day to orientation. After that come situations such as disappointing results, a small island school, diaspora fee status and being first in the family, and it ends with top awards, professional degrees, a teacher's reference system and keeping a scholarship once won.
+This area is for the stretch between CAPE and the first lecture: turning Unit 1 and Unit 2 results into a university place and the money to take it up, written for the parent or guardian, with the student leading most of the work. It starts with foundations (the eighteen-month map, official dates, portal access, matriculation and scholarship rules), then the weekly and monthly machinery of applying, the skills behind essays, CVs and interviews, the decisions about resits, reviews, offers and funding, and the dated events from results day to orientation. After that come situations such as disappointing results, a small island school, diaspora fee status and being first in the family, and it ends with top awards, professional degrees, a reference system to suggest to the school and keeping a scholarship once won.
 
 The rhythms are a Sunday tracker review, twice-weekly inbox and portal checks, a Saturday study balance check and a Friday parent check-in, with monthly scholarship searches, counsellor meetings, savings transfers and activity logging, and yearly checks of the scholarship rules and reports. The Meeting notes, Savings goal, Resume, Trip and Monthly budget and bills templates pair with the counsellor meetings, the university pot, the CV, the departure plan and the first-semester budget. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

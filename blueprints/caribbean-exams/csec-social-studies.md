@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-social-studies
 name: CSEC Social Studies
-description: "A complete CSEC Social Studies plan: the current syllabus and papers, family, society, development and regional integration section by section, your option, the SBA research project, timed past papers, the mock and exam day."
+description: "A CSEC Social Studies plan for a parent supporting a teen: the syllabus and papers, family, society, development and regional integration, the option, the SBA research project, past papers, the mock and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-social-studies, student, parent, educator, cxc, csec, social-studies, sba]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,15 +25,17 @@ starter_structure:
             - name: Current CSEC Social Studies syllabus and paper format check
               description: |-
                 ## Purpose
-                CSEC Social Studies is examined through a multiple-choice Paper 01, a written Paper 02 covering the core and your chosen option, and either the SBA research project as Paper 031 or the alternative Paper 032 for private candidates, and syllabus editions do change the detail. One evening with the current syllabus and the CXC timetable means every later project in this area is aimed at the exam you will actually sit.
+                CSEC Social Studies is examined through a multiple-choice Paper 01, a written Paper 02 covering the core and the chosen option, and either the SBA research project as Paper 031 or the alternative Paper 032 for private candidates, and syllabus editions do change the detail. One evening with the current syllabus and the CXC timetable means every later project in this area is aimed at the exam your teen will actually sit.
 
                 ## Milestones
                 1. The current CSEC Social Studies syllabus downloaded from the CXC website and its edition year noted.
                 2. The format of Paper 01, Paper 02 and Paper 031 or 032 written on one page in the syllabus's own words.
                 3. The core sections and the options listed in syllabus order, so each topic project here can be matched to one.
-                4. The May to June sitting confirmed with your school and the Social Studies exam date noted once the timetable is published.
+                4. The May to June sitting confirmed with the school and the Social Studies exam date noted once the timetable is published.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CSEC Social Studies, and an older student can follow it with a parent's support.
+
                 Older revision books and photocopied notes can trail a syllabus revision by years. Where they disagree with the CXC document, the CXC document wins.
               priority: high
               deadlineOffsetDays: 10
@@ -45,14 +47,14 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Check the current syllabus and timetable on the CXC website and note the paper format"
-                - "Write the syllabus edition year inside the cover of your Social Studies folder"
+                - "Write the syllabus edition year inside the cover of the Social Studies folder"
                 - "List the core sections and the options on one page in syllabus order"
-                - "Ask your teacher which option the class takes and how the SBA is organised"
+                - "Ask the teacher which option the class takes and how the SBA is organised"
                 - "Recheck the syllabus edition at the start of each school year @recurring(yearly)"
             - name: Diagnostic Paper 01 for Social Studies
               description: |-
                 ## Purpose
-                Social Studies feels familiar because so much of it is everyday life, and that is exactly why students underestimate it until marks come back. Sitting one past Paper 01 early, without notes, shows which ideas you hold precisely (nuclear and extended family, GDP and HDI, CARIFTA and CARICOM) and which you only half recognise, sorted by syllabus section.
+                Social Studies feels familiar because so much of it is everyday life, and that is exactly why students underestimate it until marks come back. Sitting one past Paper 01 early, without notes, shows which ideas your teen holds precisely (nuclear and extended family, GDP and HDI, CARIFTA and CARICOM) and which they only half recognise, sorted by syllabus section.
 
                 ## Milestones
                 1. One past or specimen Paper 01 completed in a single timed sitting without notes.
@@ -68,17 +70,17 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Get a past or specimen Paper 01 from your teacher or the CXC online store"
+                - "Get a past or specimen Paper 01 from the teacher or the CXC online store"
                 - "Sit the paper in one go at a clear desk with no notes"
-                - "Mark it and tally the wrong answers by syllabus section"
-                - "Circle the three sections with the most errors on your plan"
+                - "Mark it together and tally the wrong answers by syllabus section"
+                - "Circle the three sections with the most errors on the plan"
             - name: Two-year Social Studies study plan
               description: |-
                 ## Purpose
-                Most schools teach CSEC Social Studies across Forms Four and Five, with the SBA research running through the second year and the exam in May or June. A month-by-month plan that places each section, the option, the SBA stages and the revision weeks prevents the familiar crush where regional integration and the option are still untouched at Easter.
+                Most schools teach CSEC Social Studies across Forms Four and Five, with the SBA research running through the second year and the exam in May or June. A month-by-month plan that places each section, the option, the SBA stages and the revision weeks prevents the familiar crush where regional integration and the option are still untouched at Easter, and gives you a simple way to see whether things are on track.
 
                 ## Milestones
-                1. Every core section and the option placed in a month, following your school's teaching order.
+                1. Every core section and the option placed in a month, following the school's teaching order.
                 2. SBA stages from topic approval to submission marked from the school calendar.
                 3. Mock exam weeks and the final eight weeks of revision blocked out.
                 4. The plan pinned where it is seen every day.
@@ -91,23 +93,23 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for the scheme of work for both years"
+                - "Ask the teacher for the scheme of work for both years"
                 - "Place each section and the option in the month it will be taught"
                 - "Mark the SBA stages and mock exam weeks on the plan"
                 - "Compare where the class is against the plan @recurring(monthly:26)"
-            - name: Choosing your Social Studies option
+            - name: Choosing the Social Studies option
               description: |-
                 ## Purpose
-                Alongside the compulsory core, the syllabus offers optional sections (in recent editions Communication, Consumer Affairs and Tourism), and Paper 02 expects you to answer on one of them. Many schools fix the option for the whole class, but private candidates and students in small classes sometimes choose, and the choice should fit your interests, your SBA idea and the examples you can find around you.
+                Alongside the compulsory core, the syllabus offers optional sections (in recent editions Communication, Consumer Affairs and Tourism), and Paper 02 expects candidates to answer on one of them. Many schools fix the option for the whole class, but private candidates and students in small classes sometimes choose, and the choice should fit your teen's interests, their SBA idea and the examples they can find nearby.
 
                 ## Milestones
                 1. The options in the current syllabus listed with a two-line summary of each.
-                2. Your school's position confirmed: a fixed class option or a free choice.
-                3. If the choice is free, each option scored on interest, local examples available and links to your SBA topic.
+                2. The school's position confirmed: a fixed class option or a free choice.
+                3. If the choice is free, each option scored on interest, local examples available and links to the SBA topic.
                 4. One option recorded on the study plan with the teacher's agreement.
 
                 ## Notes
-                Do not prepare two options to be safe. That halves the time you spend on the one you will answer. Pick one and know it well.
+                Encourage your teen not to prepare two options to be safe. That halves the time spent on the one they will answer. Pick one and know it well.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
@@ -118,13 +120,13 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Read the objectives for each option in the current syllabus"
-                - "Ask your teacher whether the class option is fixed or open"
+                - "Ask the teacher whether the class option is fixed or open"
                 - "Score each option out of five on interest and local examples"
-                - "Write the chosen option and your reason on the study plan"
+                - "Write the chosen option and the reason on the study plan"
             - name: Command words and the shape of a Paper 02 answer
               description: |-
                 ## Purpose
-                Many Paper 02 marks are lost by answering a different question from the one set: describing when the question says explain, or giving one point when it asks for two. Learning what define, describe, explain, outline, suggest and discuss each demand, and how many points earn the marks shown, raises scores on topics you already know.
+                Many Paper 02 marks are lost by answering a different question from the one set: describing when the question says explain, or giving one point when it asks for two. Learning what define, describe, explain, outline, suggest and discuss each demand, and how many points earn the marks shown, raises scores on topics your teen already knows.
 
                 ## Milestones
                 1. A one-page list of the command words used in recent Social Studies papers with what each requires.
@@ -140,9 +142,9 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "Copy the command words from two recent past papers onto one page"
-                - "Write what each word asks for in one line and check it with your teacher"
+                - "Write what each word asks for in one line and check it with the teacher"
                 - "Rewrite three old answers so each point matches the command word"
-                - "Number your points to match the marks shown in brackets"
+                - "Number points to match the marks shown in brackets"
             - name: Reading tables, graphs and maps in Social Studies questions
               description: |-
                 ## Purpose
@@ -168,7 +170,7 @@ starter_structure:
             - name: Weekly Social Studies study sessions
               description: |-
                 ## Purpose
-                Two focused sessions a week through Forms Four and Five cover more than any amount of cramming in May, because Social Studies rewards definitions learned exactly and examples gathered over time. Fixing the days, the length and what each session is for means the work happens even in weeks crowded with other subjects' SBAs.
+                Two focused sessions a week through Forms Four and Five cover more than any amount of cramming in May, because Social Studies rewards definitions learned exactly and examples gathered over time. Agreeing the days, the length and what each session is for with your teen means the work happens even in weeks crowded with other subjects' SBAs.
 
                 ## Milestones
                 1. Two weekly sessions of about an hour fixed in the timetable.
@@ -185,7 +187,7 @@ starter_structure:
                 success_criteria: "The tracker shows at least two Social Studies sessions in nine of every ten school weeks."
                 cadence: rolling
               tasks:
-                - "Choose two fixed study times and write them into your timetable"
+                - "Agree two fixed study times with your teen and write them into the timetable"
                 - "Set up a tracker with one row per session"
                 - "Hold a one-hour Social Studies study session @recurring(weekly:tue,sat)"
                 - "Make up any missed session before the week ends"
@@ -206,19 +208,19 @@ starter_structure:
                 success_criteria: "The deck covers every section taught so far, and a full run through before the mock produces no wrong definitions."
                 cadence: rolling
               tasks:
-                - "Write cards for twenty key terms from the section you are studying now"
+                - "Write cards for twenty key terms from the section being studied now"
                 - "Review ten shaky cards before school @recurring(daily)"
                 - "Add cards for the week's new terms @recurring(weekly:sun)"
-                - "Test yourself on the whole deck before each school holiday"
+                - "Quiz your teen on the whole deck before each school holiday"
             - name: Caribbean current affairs and examples log
               description: |-
                 ## Purpose
-                Examiners reward answers that use a real, recent example: a hurricane recovery, a by-election, a new CARICOM decision, a local consumer complaint. Keeping a weekly log of one or two regional news stories, filed under the syllabus section each illustrates, builds a bank of up-to-date evidence that no textbook can supply.
+                Examiners reward answers that use a real, recent example: a hurricane recovery, a by-election, a new CARICOM decision, a local consumer complaint. Keeping a weekly log of one or two regional news stories, filed under the syllabus section each illustrates, builds a bank of up-to-date evidence that no textbook can supply. Talking over a story at the dinner table is one of the easiest ways for a parent to help.
 
                 ## Milestones
                 1. A log with columns for date, story, country, syllabus section and the point it supports.
-                2. At least one entry for every core section and your option.
-                3. Stories drawn from several Caribbean territories, not only your own.
+                2. At least one entry for every core section and the option.
+                3. Stories drawn from several Caribbean territories, not only the home territory.
                 4. The five strongest examples copied into the revision notes for each section.
               priority: medium
               frontmatter:
@@ -234,7 +236,7 @@ starter_structure:
             - name: Monthly timed Paper 01 practice
               description: |-
                 ## Purpose
-                Paper 01 rewards speed and precise recall across the whole syllabus, and only timed practice shows whether you can keep both up to the last question. One past or practice paper a month, with the score logged by section, shows progress and points each month's revision at the weakest section.
+                Paper 01 rewards speed and precise recall across the whole syllabus, and only timed practice shows whether your teen can keep both up to the last question. One past or practice paper a month, with the score logged by section, shows progress and points each month's revision at the weakest section.
 
                 ## Milestones
                 1. A timed Paper 01 sat each month under exam conditions.
@@ -251,7 +253,7 @@ starter_structure:
                 success_criteria: "A metrics log shows a timed Paper 01 score for each month of the course, with section tallies for every paper."
                 cadence: rolling
               tasks:
-                - "Gather the past Paper 01s you can get and number them"
+                - "Gather the past Paper 01s available and number them"
                 - "Sit one timed Paper 01 @recurring(monthly:8)"
                 - "Log the score and tally the wrong answers by section"
                 - "Revise the weakest section before the next paper"
@@ -272,14 +274,14 @@ starter_structure:
                 success_criteria: "A folder holds at least two marked Paper 02 answers for every core section and the option, each with a note on lost marks."
                 cadence: rolling
               tasks:
-                - "Choose a Paper 02 question from the section you finished most recently"
+                - "Choose a Paper 02 question from the section finished most recently"
                 - "Answer one core and one option question under time @recurring(monthly:18)"
-                - "Mark both answers against the mark scheme or hand them in"
+                - "Mark both answers against the mark scheme or hand them to the teacher"
                 - "Write one line on each answer about where marks were lost"
             - name: Social Studies mistakes and feedback log
               description: |-
                 ## Purpose
-                The same errors come back paper after paper: confusing the functions of the family with roles in the family, mixing up the dates of the Federation and CARIFTA, giving one reason when two were asked. Writing each mistake down once, with the correction, and reviewing the list weekly stops you paying for the same error twice.
+                The same errors come back paper after paper: confusing the functions of the family with roles in the family, mixing up the dates of the Federation and CARIFTA, giving one reason when two were asked. Writing each mistake down once, with the correction, and reviewing the list weekly stops your teen paying for the same error twice.
 
                 ## Milestones
                 1. A log with columns for the question, the mistake, the correct answer and the cause.
@@ -294,13 +296,13 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Start a mistakes log with columns for question, mistake, fix and cause"
-                - "Enter every mistake from your most recent marked work"
+                - "Enter every mistake from the most recent marked work"
                 - "Read the log and retest three old mistakes @recurring(weekly:sun)"
                 - "Tally the causes before each mock"
-            - name: Termly progress review with your Social Studies teacher
+            - name: Termly progress review with the Social Studies teacher
               description: |-
                 ## Purpose
-                A short meeting each term, with your scores, the study plan and your SBA stage in hand, catches problems while there is still time to fix them. Teachers can tell you which sections they have left to teach, how your SBA is tracking and what the class test showed, which a report card alone does not.
+                A short meeting each term, with scores, the study plan and the SBA stage in hand, catches problems while there is still time to fix them. Teachers can tell you and your teen which sections they have left to teach, how the SBA is tracking and what the class test showed, which a report card alone does not.
 
                 ## Milestones
                 1. A one-page summary of scores, weak sections and SBA stage prepared before each meeting.
@@ -317,14 +319,14 @@ starter_structure:
                 success_criteria: "Notes from a review in every school term record scores, the SBA stage and agreed actions, each ticked or carried forward."
                 cadence: cyclic
               tasks:
-                - "Book a ten-minute slot with your teacher this term"
-                - "Bring your scores, the study plan and your SBA stage to the meeting"
-                - "Write down the agreed actions before you leave"
-                - "Hold the progress review with your teacher @recurring(quarterly)"
+                - "Book a ten-minute slot with the teacher this term"
+                - "Bring the scores, the study plan and the SBA stage to the meeting"
+                - "Write down the agreed actions before leaving"
+                - "Hold the progress review with the teacher @recurring(quarterly)"
             - name: Social groups, institutions and the individual in society
               description: |-
                 ## Purpose
-                The syllabus begins by treating society as a web of groups and institutions that shape each person: the family, the school, the church, mosque or temple, the workplace and the government. Learning the vocabulary of primary and secondary groups, formal and informal groups, and the functions of each institution gives you the frame every later section relies on.
+                The syllabus begins by treating society as a web of groups and institutions that shape each person: the family, the school, the church, mosque or temple, the workplace and the government. Learning the vocabulary of primary and secondary groups, formal and informal groups, and the functions of each institution gives your teen the frame every later section relies on.
 
                 ## Milestones
                 1. Society, social group, primary and secondary group, formal and informal group, and institution defined and learned.
@@ -341,7 +343,7 @@ starter_structure:
               tasks:
                 - "Read the syllabus objectives for social groups and institutions"
                 - "Define primary, secondary, formal and informal groups with one example each"
-                - "Draw a diagram of every group you belong to and label its type"
+                - "Ask your teen to draw every group they belong to and label its type"
                 - "Answer ten Paper 01 questions and one Paper 02 question on groups"
             - name: Family types, unions and functions in the Caribbean
               description: |-
@@ -364,7 +366,7 @@ starter_structure:
                 - "List every family type and union named in the syllabus"
                 - "Write a definition and a regional example for each"
                 - "Summarise how slavery, indentureship and migration shaped family forms"
-                - "Time yourself on one Paper 02 question about family types and mark it"
+                - "Do one timed Paper 02 question about family types and mark it"
             - name: Changing family roles and the challenges families face
               description: |-
                 ## Purpose
@@ -390,7 +392,7 @@ starter_structure:
             - name: Culture, socialisation and Caribbean cultural diversity
               description: |-
                 ## Purpose
-                Culture questions test whether you can separate material and non-material culture, explain how socialisation passes it on and use real examples of the region's diversity: Carnival and Crop Over, Divali and Eid, Junkanoo, Maroon traditions, Garifuna Settlement Day. Notes built around examples like these make cultural diversity, cultural erosion and cultural retention straightforward to explain.
+                Culture questions test whether candidates can separate material and non-material culture, explain how socialisation passes it on and use real examples of the region's diversity: Carnival and Crop Over, Divali and Eid, Junkanoo, Maroon traditions, Garifuna Settlement Day. Notes built around examples like these make cultural diversity, cultural erosion and cultural retention straightforward to explain.
 
                 ## Milestones
                 1. Culture, subculture, socialisation, cultural diversity, erosion and retention defined.
@@ -412,7 +414,7 @@ starter_structure:
             - name: Government, constitutions and the Westminster system
               description: |-
                 ## Purpose
-                Most Commonwealth Caribbean states run a version of the Westminster system, and the syllabus expects you to know how a constitution, the separation of powers and the three arms of government work. Understanding the roles of the head of state, prime minister, cabinet, parliament and judiciary in your own country gives you the example every governance question needs.
+                Most Commonwealth Caribbean states run a version of the Westminster system, and the syllabus expects candidates to know how a constitution, the separation of powers and the three arms of government work. Understanding the roles of the head of state, prime minister, cabinet, parliament and judiciary in your own country gives your teen the example every governance question needs.
 
                 ## Milestones
                 1. Types of government and the features of the Westminster system summarised.
@@ -456,7 +458,7 @@ starter_structure:
             - name: Social problems, deviance and social control
               description: |-
                 ## Purpose
-                Crime, juvenile delinquency, substance abuse, gang membership and corruption appear across the syllabus, usually as cause, effect and solution questions. Learning the language of deviance and social control, and the agencies that respond in your country, lets you write balanced answers that reach beyond the police and the prisons.
+                Crime, juvenile delinquency, substance abuse, gang membership and corruption appear across the syllabus, usually as cause, effect and solution questions. Learning the language of deviance and social control, and the agencies that respond in your country, lets your teen write balanced answers that reach beyond the police and the prisons.
 
                 ## Milestones
                 1. Deviance, crime, delinquency and formal and informal social control defined.
@@ -471,14 +473,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Define deviance, crime and social control in your own words"
+                - "Define deviance, crime and social control in plain words"
                 - "Make a cause, effect and solution table for three social problems"
                 - "List the agencies that respond to youth crime in your country"
                 - "Write a timed answer to one social problems question and mark it"
             - name: Development and how it is measured
               description: |-
                 ## Purpose
-                Development questions ask what the word means beyond economic growth and how countries are compared: GDP and GNP per capita, the Human Development Index, literacy, life expectancy, infant mortality. Building a small table of real indicators for four Caribbean countries lets you explain why rankings differ and answer data questions with confidence.
+                Development questions ask what the word means beyond economic growth and how countries are compared: GDP and GNP per capita, the Human Development Index, literacy, life expectancy, infant mortality. Building a small table of real indicators for four Caribbean countries lets your teen explain why rankings differ and answer data questions with confidence.
 
                 ## Milestones
                 1. Development, economic growth and the main indicators defined.
@@ -500,7 +502,7 @@ starter_structure:
             - name: Population, the census and population pyramids
               description: |-
                 ## Purpose
-                Population is one of the most examined parts of the syllabus: birth and death rates, natural increase, dependency ratio, the census and what a population pyramid says about a country. Working with your own country's census figures from its statistical office turns abstract formulas into numbers you can explain.
+                Population is one of the most examined parts of the syllabus: birth and death rates, natural increase, dependency ratio, the census and what a population pyramid says about a country. Working with your own country's census figures from its statistical office turns abstract formulas into numbers your teen can explain.
 
                 ## Milestones
                 1. Birth rate, death rate, natural increase, dependency ratio and population density defined, with the formula where one applies.
@@ -544,7 +546,7 @@ starter_structure:
             - name: Labour force, employment and unemployment
               description: |-
                 ## Purpose
-                Questions on the labour force ask who counts as employed, what causes unemployment and underemployment, and what governments and individuals can do about it. Knowing the types of unemployment, the work of trade unions and the role of skills training and entrepreneurship lets you write answers that connect to your country's own labour figures.
+                Questions on the labour force ask who counts as employed, what causes unemployment and underemployment, and what governments and individuals can do about it. Knowing the types of unemployment, the work of trade unions and the role of skills training and entrepreneurship lets your teen write answers that connect to your country's own labour figures.
 
                 ## Milestones
                 1. Labour force, employment, unemployment, underemployment and the types of unemployment defined.
@@ -566,7 +568,7 @@ starter_structure:
             - name: Education, training and human resource development
               description: |-
                 ## Purpose
-                The syllabus treats people as a country's most valuable resource and asks how education, training and health build that resource. Linking national programmes you know, such as free secondary education, technical and vocational training or a national youth service scheme, to productivity and development gives your answers concrete Caribbean evidence.
+                The syllabus treats people as a country's most valuable resource and asks how education, training and health build that resource. Linking national programmes the family knows, such as free secondary education, technical and vocational training or a national youth service scheme, to productivity and development gives answers concrete Caribbean evidence.
 
                 ## Milestones
                 1. Human resource development and productivity defined.
@@ -588,7 +590,7 @@ starter_structure:
             - name: Natural resources, conservation and environmental problems
               description: |-
                 ## Purpose
-                Caribbean economies depend on oil and gas, bauxite, forests, fisheries, beaches and reefs, and the syllabus asks how these can be used without being used up. Learning renewable and non-renewable resources, the causes and effects of pollution, deforestation and coastal erosion, and the conservation measures in use across the region prepares you for the sustainability questions on Paper 02.
+                Caribbean economies depend on oil and gas, bauxite, forests, fisheries, beaches and reefs, and the syllabus asks how these can be used without being used up. Learning renewable and non-renewable resources, the causes and effects of pollution, deforestation and coastal erosion, and the conservation measures in use across the region prepares your teen for the sustainability questions on Paper 02.
 
                 ## Milestones
                 1. Renewable and non-renewable resources defined with a regional example of each.
@@ -676,7 +678,7 @@ starter_structure:
             - name: The CSME, free movement and the OECS
               description: |-
                 ## Purpose
-                CARICOM's Single Market and Economy is meant to let goods, services, capital and skilled people move freely between member states, and the OECS has gone further with its own economic union and a shared currency. Knowing what has been achieved, such as skills certificates and the right to set up a business, and what has not, lets you answer questions on integration in practice rather than only in theory.
+                CARICOM's Single Market and Economy is meant to let goods, services, capital and skilled people move freely between member states, and the OECS has gone further with its own economic union and a shared currency. Knowing what has been achieved, such as skills certificates and the right to set up a business, and what has not, lets your teen answer questions on integration in practice rather than only in theory.
 
                 ## Milestones
                 1. The aims and main elements of the CSME listed.
@@ -691,14 +693,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "List the elements of the CSME from your textbook and the CARICOM website"
+                - "List the elements of the CSME from the textbook and the CARICOM website"
                 - "Find which categories of worker can get a CARICOM skills certificate"
                 - "Write a short note on the OECS and the Eastern Caribbean dollar"
                 - "Answer one Paper 02 question on the CSME in practice"
             - name: Regional institutions that serve the Caribbean
               description: |-
                 ## Purpose
-                Many questions ask you to name a regional institution and explain how it supports integration: the University of the West Indies, CXC itself, the Caribbean Court of Justice, CDEMA, CARPHA, the Caribbean Development Bank and Cricket West Indies. A card for each, with its purpose and one recent action, gives you examples examiners recognise at once.
+                Many questions ask candidates to name a regional institution and explain how it supports integration: the University of the West Indies, CXC itself, the Caribbean Court of Justice, CDEMA, CARPHA, the Caribbean Development Bank and Cricket West Indies. A card for each, with its purpose and one recent action, gives your teen examples examiners recognise at once.
 
                 ## Milestones
                 1. A card for at least seven regional institutions with purpose and headquarters.
@@ -716,11 +718,11 @@ starter_structure:
                 - "Make a card for each of seven regional institutions"
                 - "Add the purpose and headquarters country to each card"
                 - "Find one recent news item for each institution"
-                - "Test yourself on five institutions from memory"
-            - name: Benefits, obstacles and your role in Caribbean integration
+                - "Quiz your teen on five institutions from memory"
+            - name: Benefits, obstacles and a young person's role in integration
               description: |-
                 ## Purpose
-                Why integration has been slow, what ordinary citizens gain from it and how a young person can contribute are regular Paper 02 questions. Weighing benefits such as wider markets and shared services against obstacles such as insularity, unequal development and distance, and adding globalisation and trade agreements, prepares you for the questions that carry the higher marks.
+                Why integration has been slow, what ordinary citizens gain from it and how a young person can contribute are regular Paper 02 questions. Weighing benefits such as wider markets and shared services against obstacles such as insularity, unequal development and distance, and adding globalisation and trade agreements, prepares your teen for the questions that carry the higher marks.
 
                 ## Milestones
                 1. Five benefits and five obstacles of integration listed with an example of each.
@@ -736,7 +738,7 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "List five benefits and five obstacles of integration with examples"
-                - "Write how a student your age can support regional integration"
+                - "Write how a young person can support regional integration"
                 - "Summarise two effects of globalisation on Caribbean economies"
                 - "Hand in one extended answer on integration for teacher marking"
             - name: Communication option on media, technology and influence
@@ -751,7 +753,7 @@ starter_structure:
                 4. Two Communication questions from past papers answered and marked.
 
                 ## Notes
-                Archive this project if your class takes Consumer Affairs or Tourism.
+                Archive this project if your teen's class takes Consumer Affairs or Tourism.
               priority: low
               frontmatter:
                 mode: building
@@ -760,7 +762,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "Confirm with your teacher that Communication is your option"
+                - "Confirm with the teacher that Communication is your teen's option"
                 - "Draw and label the communication process with three barriers"
                 - "Write positive and negative effects of social media on Caribbean youth"
                 - "Answer two past Communication option questions and mark them"
@@ -776,7 +778,7 @@ starter_structure:
                 4. Two Consumer Affairs questions from past papers answered and marked.
 
                 ## Notes
-                Archive this project if your class takes Communication or Tourism.
+                Archive this project if your teen's class takes Communication or Tourism.
               priority: low
               frontmatter:
                 mode: building
@@ -785,7 +787,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "Check the option list on your study plan says Consumer Affairs"
+                - "Check the option list on the study plan says Consumer Affairs"
                 - "Name your country's consumer protection agency and bureau of standards"
                 - "Analyse one local advertisement for the persuasion techniques it uses"
                 - "Answer two past Consumer Affairs questions and mark them"
@@ -801,7 +803,7 @@ starter_structure:
                 4. Two Tourism questions from past papers answered and marked.
 
                 ## Notes
-                Archive this project if your class takes Communication or Consumer Affairs.
+                Archive this project if your teen's class takes Communication or Consumer Affairs.
               priority: low
               frontmatter:
                 mode: building
@@ -810,23 +812,23 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "Make sure Tourism is the option your class will answer on Paper 02"
+                - "Make sure Tourism is the option the class will answer on Paper 02"
                 - "Define six types of tourism with a regional example of each"
                 - "Make a table of the economic, social and environmental effects of tourism"
                 - "Answer two past Tourism option questions and mark them"
             - name: Choosing the SBA research topic and statement of the problem
               description: |-
                 ## Purpose
-                Your Social Studies SBA is a research project on an issue drawn from the syllabus and investigated in your own community, and a narrow, local, researchable question makes every later stage easier. Agreeing the topic, the area of research and a clear statement of the problem with your teacher early avoids the common trap of a topic too broad to survey.
+                Social Studies SBA work is a research project on an issue drawn from the syllabus and investigated in the local community, and a narrow, local, researchable question makes every later stage easier. Encouraging your teen to agree the topic, the area of research and a clear statement of the problem with the teacher early avoids the common trap of a topic too broad to survey.
 
                 ## Milestones
-                1. Three possible topics listed, each tied to a syllabus objective and a place you can reach.
+                1. Three possible topics listed, each tied to a syllabus objective and a place your teen can reach.
                 2. One topic approved by the teacher, with the date noted.
                 3. A statement of the problem written as a single, focused question.
                 4. Reasons for selecting the area of research written in a short paragraph.
 
                 ## Notes
-                Good topics are local and measurable: why young people in one village leave school early, or how residents of one community prepare for hurricanes. Check the current SBA guidelines in the syllabus for the sections your report must include and whether your school runs it individually or in groups.
+                Good topics are local and measurable: why young people in one village leave school early, or how residents of one community prepare for hurricanes. Check the current SBA guidelines in the syllabus for the sections the report must include and whether the school runs it individually or in groups.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
@@ -838,12 +840,12 @@ starter_structure:
               tasks:
                 - "Read the SBA guidelines and mark scheme in the current syllabus"
                 - "Write three possible topics tied to syllabus objectives"
-                - "Agree one topic with your teacher and note the date approved"
+                - "Check the topic is agreed with the teacher and note the date approved"
                 - "Write the statement of the problem and the reasons for the area chosen"
             - name: Designing the SBA questionnaire and data collection plan
               description: |-
                 ## Purpose
-                Your data collection instrument, usually a questionnaire and sometimes an interview schedule or observation checklist, decides the quality of everything that follows. Writing clear, unbiased questions, piloting them with three people and planning who you will ask, where and when produces data you can actually present and interpret.
+                A data collection instrument, usually a questionnaire and sometimes an interview schedule or observation checklist, decides the quality of everything that follows. Writing clear, unbiased questions, piloting them with three people and planning who to ask, where and when produces data your teen can actually present and interpret.
 
                 ## Milestones
                 1. The method of investigation chosen and justified in a paragraph.
@@ -852,7 +854,7 @@ starter_structure:
                 4. A written plan for sampling, consent, safety and the dates of data collection.
 
                 ## Notes
-                Collect data in daylight, in public places or with an adult, and tell respondents their answers are anonymous. Leave out names and any question that could embarrass someone.
+                Agree with your teen that data is collected in daylight, in public places or with an adult, and that respondents are told their answers are anonymous. Leave out names and any question that could embarrass someone.
               priority: medium
               deadlineOffsetDays: 90
               frontmatter:
@@ -862,14 +864,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Choose your method of investigation and write why it suits the topic"
+                - "Choose the method of investigation and write why it suits the topic"
                 - "Draft questions that each link back to the statement of the problem"
                 - "Pilot the questionnaire with three people and fix confusing questions"
                 - "Write a sampling and data collection plan with dates"
             - name: Collecting, presenting and interpreting SBA data
               description: |-
                 ## Purpose
-                Once the questionnaires are back, marks depend on presenting the results in varied, accurate tables and graphs and then interpreting what they show rather than just describing them. Tallying carefully, choosing the right chart for each question and writing what each figure means for your problem turns raw responses into evidence.
+                Once the questionnaires are back, marks depend on presenting the results in varied, accurate tables and graphs and then interpreting what they show rather than just describing them. Tallying carefully, choosing the right chart for each question and writing what each figure means for the problem turns raw responses into evidence.
 
                 ## Milestones
                 1. All questionnaires collected and tallied on a single sheet or spreadsheet.
@@ -887,8 +889,8 @@ starter_structure:
               tasks:
                 - "Tally every returned questionnaire onto one sheet"
                 - "Choose a suitable chart for each key question and label it fully"
-                - "Write what each chart shows and what it means for your problem"
-                - "Hand the draft data sections to your teacher for comments"
+                - "Write what each chart shows and what it means for the problem"
+                - "Hand the draft data sections to the teacher for comments"
             - name: SBA findings, recommendations and final submission
               description: |-
                 ## Purpose
@@ -897,7 +899,7 @@ starter_structure:
                 ## Milestones
                 1. Findings written that answer the statement of the problem directly.
                 2. Recommendations that name who should act and how.
-                3. A bibliography in the format your teacher uses.
+                3. A bibliography in the format the teacher uses.
                 4. The full report checked against the mark scheme and submitted with the teacher's sign-off before the school deadline.
               priority: high
               deadlineOffsetDays: 170
@@ -908,7 +910,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Write findings that answer your statement of the problem"
+                - "Write findings that answer the statement of the problem"
                 - "Draft three recommendations naming who should act and how"
                 - "Check every section against the SBA mark scheme"
                 - "Submit the final report and keep a copy at home"
@@ -920,7 +922,7 @@ starter_structure:
                 ## Milestones
                 1. Three recent Social Studies subject reports found and read.
                 2. Repeated weaknesses listed on a one-page checklist.
-                3. Each checklist point matched to a fix in your own answers.
+                3. Each checklist point matched to a fix in your teen's own answers.
                 4. The checklist kept with the past papers for every practice session.
               priority: medium
               frontmatter:
@@ -932,12 +934,12 @@ starter_structure:
               tasks:
                 - "Find the three most recent CSEC Social Studies subject reports"
                 - "List the weaknesses that appear in two or more reports"
-                - "Ask the agent to turn your list into a one-page answer checklist"
-                - "Use the checklist when marking your next Paper 02 answer"
+                - "Ask the agent to turn the list into a one-page answer checklist"
+                - "Use the checklist when marking the next Paper 02 answer"
             - name: Full Social Studies mock exam under exam conditions
               description: |-
                 ## Purpose
-                A full mock of Paper 01 and Paper 02, sat to the timing in the current syllabus, tests stamina, time per question and choice of questions in a way single questions cannot. Sitting it about four months before the exam leaves time to fix what it reveals.
+                A full mock of Paper 01 and Paper 02, sat to the timing in the current syllabus, tests stamina, time per question and choice of questions in a way single questions cannot. Sitting it about four months before the exam leaves time to fix what it reveals. If the school does not run one, a quiet morning at home with you keeping time works well.
 
                 ## Milestones
                 1. A full set of past papers sat to time in one session, or the school mock completed.
@@ -956,7 +958,7 @@ starter_structure:
                 - "Book a quiet morning or confirm the school mock date"
                 - "Sit Paper 01 and Paper 02 to time without notes"
                 - "Mark both papers and note the time spent on each question"
-                - "Write three actions from the mock on your study plan"
+                - "Write three actions from the mock on the study plan"
             - name: Final eight weeks Social Studies revision timetable
               description: |-
                 ## Purpose
@@ -999,20 +1001,20 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Choose the past paper you have kept back for the final week"
+                - "Choose the past paper kept back for the final week"
                 - "Sit it to time and mark it the same day"
-                - "Read your one-page summary for each section"
+                - "Read the one-page summary for each section"
                 - "Set a regular bedtime for the last three nights"
             - name: CSEC Social Studies exam day plan
               description: |-
                 ## Purpose
-                Exam day goes best when nothing is left to decide that morning: the time, the centre, the candidate number, the pens, the route and who is bringing you. A short checklist prepared the week before lets you spend the morning calm.
+                Exam day goes best when nothing is left to decide that morning: the time, the centre, the candidate number, the pens, the route and who is bringing your teen. A short checklist prepared together the week before keeps the morning calm.
 
                 ## Milestones
-                1. Date, time and centre confirmed from the official timetable and your candidate slip.
+                1. Date, time and centre confirmed from the official timetable and the candidate slip.
                 2. Equipment packed: pens, pencil, ruler, candidate number and identification if required.
                 3. Transport and arrival time arranged with a back-up.
-                4. A plan for choosing your Paper 02 questions written down.
+                4. A plan for choosing Paper 02 questions written down.
               priority: high
               deadlineOffsetDays: 270
               frontmatter:
@@ -1022,17 +1024,17 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Copy the exam date, time and centre from your candidate slip"
-                - "Pack pens, pencil, ruler and your candidate number the night before"
+                - "Copy the exam date, time and centre from the candidate slip"
+                - "Pack pens, pencil, ruler and the candidate number the night before"
                 - "Arrange transport to arrive early, with a back-up ride"
-                - "Decide in advance how you will choose your Paper 02 questions"
+                - "Agree in advance how your teen will choose their Paper 02 questions"
             - name: Parent support for a CSEC Social Studies student
               description: |-
                 ## Purpose
-                Parents and guardians do not need to know the syllabus to help: a quiet study space, a weekly check-in, help finding SBA respondents and conversations about the news all make a difference. A simple routine keeps you informed without turning every evening into an argument about homework.
+                You do not need to know the syllabus to help: a quiet study space, a weekly check-in, help finding SBA respondents and conversations about the news all make a difference. A simple routine keeps you informed without turning every evening into an argument about homework.
 
                 ## Milestones
-                1. A regular study space and study times agreed with your child.
+                1. A regular study space and study times agreed with your teen.
                 2. A weekly ten-minute check-in on the plan, scores and SBA stage.
                 3. SBA deadlines from the school written on the family calendar.
                 4. At least one school meeting or report discussed each term.
@@ -1043,14 +1045,14 @@ starter_structure:
                 success_criteria: "Weekly check-ins are held for a full term and every SBA deadline is on the family calendar."
                 cadence: rolling
               tasks:
-                - "Agree a study space and study times with your child"
+                - "Agree a study space and study times with your teen"
                 - "Hold a ten-minute Social Studies check-in @recurring(weekly:sun)"
                 - "Write the SBA deadlines on the family calendar"
                 - "Talk over one news story that links to the syllabus @recurring(monthly:5)"
             - name: Family history interview on family, migration and culture
               description: |-
                 ## Purpose
-                Grandparents, aunts and older neighbours carry first-hand evidence for three syllabus topics at once: how family roles have changed, why relatives migrated and which traditions have survived. A recorded interview, with the student asking and a parent helping arrange it, gives examples no textbook has and practises the interviewing skills the SBA needs.
+                Grandparents, aunts and older neighbours carry first-hand evidence for three syllabus topics at once: how family roles have changed, why relatives migrated and which traditions have survived. A recorded interview, with your teen asking the questions and you helping to arrange it, gives examples no textbook has and practises the interviewing skills the SBA needs.
 
                 ## Milestones
                 1. An older relative or neighbour agrees to an interview.
@@ -1065,14 +1067,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask an older relative or neighbour for a thirty-minute interview"
+                - "Help your teen ask an older relative or neighbour for a thirty-minute interview"
                 - "Prepare ten questions on family roles, migration and traditions"
                 - "Record or write notes with the person's permission"
                 - "File three examples from the interview under the right topics"
             - name: Teacher or tutor tracker for a CSEC Social Studies class
               description: |-
                 ## Purpose
-                Teachers and lessons tutors juggle syllabus coverage, the option, SBA stages for every student and test results, often across several classes. One tracker showing each student's SBA stage, practice scores and weak sections makes it easy to see who needs help before deadlines rather than after.
+                Teachers and tutors juggle syllabus coverage, the option, SBA stages for every student and test results, often across several classes. One tracker showing each student's SBA stage, practice scores and weak sections makes it easy to see who needs help before deadlines rather than after. If your teen has a Social Studies tutor, share this project with them; it works for one student as well as a class.
 
                 ## Milestones
                 1. A tracker with one row per student and columns for SBA stages, scores and weak sections.
@@ -1096,7 +1098,7 @@ starter_structure:
             - name: Paper 032 alternative for private Social Studies candidates
               description: |-
                 ## Purpose
-                Private candidates who are not attached to a school usually sit Paper 032 instead of the SBA, a written paper that tests the same research skills: choosing a problem, designing an instrument, presenting and interpreting data. Practising those steps on paper, with past Paper 032 questions, replaces the coursework you cannot do.
+                Private candidates who are not attached to a school usually sit Paper 032 instead of the SBA, a written paper that tests the same research skills: choosing a problem, designing an instrument, presenting and interpreting data. If your teen is sitting privately, practising those steps on paper, with past Paper 032 questions, replaces the coursework a school candidate would do.
 
                 ## Milestones
                 1. Registration as a private candidate and the Paper 032 entry confirmed with the local registrar.
@@ -1111,7 +1113,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Confirm with the local registrar that you are entered for Paper 032"
+                - "Confirm with the local registrar that your teen is entered for Paper 032"
                 - "Read the Paper 032 description in the current syllabus"
                 - "Practise writing a problem statement and questionnaire for three topics"
                 - "Sit two past Paper 032 papers to time and mark them"
@@ -1133,20 +1135,20 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "Choose eight case studies across the core sections and your option"
+                - "Choose eight case studies across the core sections and the option"
                 - "Write each case study on one index card with a figure and a date"
                 - "Write one developed extended answer under time @recurring(monthly:12)"
-                - "Ask your teacher to mark four extended answers against the top band"
+                - "Ask the teacher to mark four extended answers against the top band"
             - name: Results, review requests and the next step after CSEC Social Studies
               description: |-
                 ## Purpose
-                Results usually arrive in the summer, and a good Social Studies grade supports routes into CAPE Sociology, Caribbean Studies and many diploma programmes. Knowing in advance how to read the result slip, when a review can be requested and which next courses use the subject avoids rushed decisions on results day.
+                Results usually arrive in the summer, and a good Social Studies grade supports routes into CAPE Sociology, Caribbean Studies and many diploma programmes. Knowing in advance how to read the result slip, when a review can be requested and which next courses use the subject avoids rushed decisions on results day and gives you and your teen time to talk the options through.
 
                 ## Milestones
                 1. How to read the result slip, including the profile grades, understood before results day.
                 2. The deadline and process for a review of results noted from the CXC website.
                 3. Next courses that build on Social Studies listed, such as CAPE Sociology or Caribbean Studies.
-                4. A decision recorded on the next step, with a school or college contact noted.
+                4. A decision agreed with your teen on the next step, with a school or college contact noted.
               priority: medium
               deadlineOffsetDays: 330
               frontmatter:
@@ -1159,11 +1161,11 @@ starter_structure:
                 - "Read the CXC guidance on result slips and profile grades"
                 - "Note the deadline and fee for a review from the CXC website"
                 - "List two next courses that build on Social Studies"
-                - "Record your next step and who to contact about it"
+                - "Record the next step agreed with your teen and who to contact about it"
 ---
 
 # CSEC Social Studies
 
-This area takes a CSEC Social Studies student from the first syllabus check to results day, following the order of the CXC syllabus. It opens with the foundations (the current syllabus, a diagnostic paper, a two-year plan, the option choice and answer technique), sets up the weekly study, recall and practice routines, then works through the core on the individual, family and society, sustainable development and use of resources, and regional integration, followed by the Communication, Consumer Affairs and Tourism options, the SBA research project, the mock and exam day, with projects for parents, teachers, private candidates and Grade I hopefuls at the end.
+This area helps a parent or guardian support a CSEC Social Studies student from the first syllabus check to results day, following the order of the CXC syllabus. It opens with the foundations (the current syllabus, a diagnostic paper, a two-year plan, the option choice and answer technique), sets up the weekly study, recall and practice routines, then works through the core on the individual, family and society, sustainable development and use of resources, and regional integration, followed by the Communication, Consumer Affairs and Tourism options, the SBA research project, the mock and exam day, with projects for parents, tutors and teachers, private candidates and Grade I hopefuls at the end.
 
-The rhythm is two study sessions a week, ten minutes of definitions each morning, a weekly news example and mistakes review, a monthly timed Paper 01 and Paper 02 question, and a termly talk with your teacher. The Habit tracker, Metrics log, Meeting notes and Skills matrix templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is two study sessions a week, ten minutes of definitions each morning, a weekly news example and mistakes review, a weekly check-in at home, a monthly timed Paper 01 and Paper 02 question, and a termly talk with the teacher. The Habit tracker, Metrics log, Meeting notes and Skills matrix templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-chemistry
 name: CSEC Chemistry
-description: "CSEC Chemistry studied section by section, from atomic structure and the mole to organic and qualitative analysis, with lab skills, the SBA, timed past papers and an exam-day plan for students, parents and teachers."
+description: "CSEC Chemistry section by section, from atomic structure and the mole to organic and qualitative analysis, with lab skills, the SBA, timed past papers and an exam-day plan for parents supporting a student, plus teacher projects."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-chemistry, student, parent, educator, cxc, csec, chemistry]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,39 +25,41 @@ starter_structure:
             - name: Chemistry syllabus, papers and SBA format check
               description: |-
                 ## Purpose
-                CXC revises its science syllabuses from time to time, and a revision book bought for an older cousin may describe papers, topics or SBA rules that no longer apply. Before any studying, get the current CSEC Chemistry syllabus, note how Paper 01, Paper 02 and the SBA are arranged, and confirm with your teacher which practicals your school marks for the SBA. One evening of checking stops you revising the wrong things for two years.
+                CXC revises its science syllabuses from time to time, and a revision book bought for an older cousin may describe papers, topics or SBA rules that no longer apply. Before any studying, get the current CSEC Chemistry syllabus with your teen, note how Paper 01, Paper 02 and the SBA are arranged, and ask the teacher which practicals the school marks for the SBA. One evening of checking prevents two years of revising the wrong things.
 
                 ## Milestones
-                1. The current CSEC Chemistry syllabus saved in your chemistry folder, with the date you downloaded it.
-                2. A one-page summary of the paper format in your own words: what Paper 01, Paper 02 and the SBA each involve.
+                1. The current CSEC Chemistry syllabus saved in your teen's chemistry folder, with the date it was downloaded.
+                2. A one-page summary of the paper format in plain words: what Paper 01, Paper 02 and the SBA each involve.
                 3. The three syllabus sections (principles, organic and inorganic chemistry) listed with their topics in order.
-                4. Your exam year and sitting confirmed, with a note to recheck the timetable when CXC publishes it.
+                4. Your teen's exam year and sitting confirmed with the school, with a note to recheck the timetable when CXC publishes it.
 
                 ## Notes
-                Do not rely on a revision guide or a website for the paper format, timings or weightings: check the syllabus itself. CSEC's main sitting runs from May to June; the published timetable gives your exact Chemistry dates.
+                This plan is for a parent or guardian supporting a teenager through CSEC Chemistry, and an older student can follow it with a parent's support.
+
+                Do not rely on a revision guide or a website for the paper format, timings or weightings: check the syllabus itself. CSEC's main sitting runs from May to June; the published timetable gives the exact Chemistry dates.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A dated one-page summary of the current Chemistry paper format and the syllabus topic list is filed at the front of your chemistry folder."
+                success_criteria: "A dated one-page summary of the current Chemistry paper format and the syllabus topic list is filed at the front of the chemistry folder."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
                 - "Download the current CSEC Chemistry syllabus from the CXC website"
-                - "Write the paper format and SBA requirements on one page in your own words"
-                - "Ask your teacher which practicals and investigation count towards your SBA"
+                - "Write the paper format and SBA requirements on one page in plain words"
+                - "Ask the teacher which practicals and investigation count towards the SBA"
                 - "Check the CXC timetable for the Chemistry papers once it is published"
             - name: Calculator, lab coat and chemistry folder kit
               description: |-
                 ## Purpose
-                Mole and titration questions are lost by students who meet their calculator for the first time in the exam room, and a lab book that falls apart by March is a problem when the SBA is moderated. Buying an approved scientific calculator, a hardback lab book, a lab coat and a ring binder now, and learning the calculator's standard form keys, removes a whole class of avoidable errors.
+                Mole and titration questions are lost by students who meet their calculator for the first time in the exam room, and a lab book that falls apart by March is a problem when the SBA is moderated. Buying an approved scientific calculator, a hardback lab book, a lab coat and a ring binder now, and making sure your teen learns the calculator's standard form keys, removes a whole class of avoidable errors. The calculator they practise with should be the one going into the exam.
 
                 ## Milestones
                 1. The school's and CXC's rules on permitted calculators checked.
                 2. A non-programmable scientific calculator chosen and bought, with the manual kept.
                 3. A hardback lab book, lab coat, safety goggles and a ring binder with section dividers in hand.
-                4. Standard form, fractions and memory keys practised until you can enter 6.0 x 10 to the power 23 without thinking.
+                4. Standard form, fractions and memory keys practised until 6.0 x 10 to the power 23 goes in without thinking.
 
                 ## Notes
                 Start from the **Purchase decision** template. Older siblings' calculators are fine if they are on the permitted list; the model matters less than knowing it well.
@@ -66,29 +68,29 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "You own a permitted scientific calculator, a hardback lab book and goggles, and can enter a number in standard form on the calculator first time."
+                success_criteria: "Your teen owns a permitted scientific calculator, a hardback lab book and goggles, and can enter a number in standard form on the calculator first time."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Check the permitted calculator rules with your chemistry teacher"
+                - "Check the permitted calculator rules with the chemistry teacher"
                 - "Compare two or three scientific calculator models on price and the standard form key"
                 - "Buy a hardback lab book, goggles and a ring binder with five dividers"
-                - "Practise ten standard form calculations on your own calculator"
+                - "Your teen practises ten standard form calculations on their own calculator"
             - name: Personal ion chart and periodic table card
               description: |-
                 ## Purpose
-                Almost every chemistry answer depends on writing a correct formula, and that depends on knowing the charges on common ions. A single laminated card with the first twenty elements, the common positive and negative ions including the polyatomic ones, and their charges becomes the reference you use every night until you no longer need it.
+                Almost every chemistry answer depends on writing a correct formula, and that depends on knowing the charges on common ions. A single laminated card with the first twenty elements, the common positive and negative ions including the polyatomic ones, and their charges becomes the reference your teen uses every night until they no longer need it.
 
                 ## Milestones
                 1. A periodic table of the first twenty elements drawn by hand with atomic numbers and relative atomic masses.
                 2. A table of common cations and anions, including ammonium, nitrate, sulfate, carbonate, hydroxide and hydrogencarbonate, with charges.
-                3. The card checked against your textbook by your teacher or a classmate.
-                4. The card laminated or put in a plastic sleeve and kept in your pencil case.
+                3. The card checked against the textbook by the teacher or a classmate.
+                4. The card laminated or put in a plastic sleeve and kept in the pencil case.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A checked ion chart and periodic table card covering the first twenty elements and the common polyatomic ions is in your pencil case."
+                success_criteria: "A checked ion chart and periodic table card covering the first twenty elements and the common polyatomic ions is in your teen's pencil case."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
@@ -99,13 +101,13 @@ starter_structure:
             - name: Laboratory safety rules and hazard symbols
               description: |-
                 ## Purpose
-                School chemistry labs use concentrated acids, flammable solvents and Bunsen burners, and the CSEC syllabus expects you to handle them correctly and to recognise hazard symbols in written questions. Learning the lab rules, the warning symbols and what to do after a spill or a burn makes every practical safer and also earns easy marks.
+                School chemistry labs use concentrated acids, flammable solvents and Bunsen burners, and the CSEC syllabus expects students to handle them correctly and to recognise hazard symbols in written questions. Learning the lab rules, the warning symbols and what to do after a spill or a burn makes every practical safer and also earns easy marks.
 
                 ## Milestones
-                1. Your school's lab rules read and signed, if the school asks for a signature.
+                1. The school's lab rules read and signed, if the school asks for a signature.
                 2. The common hazard symbols (corrosive, flammable, toxic, oxidising, irritant) recognised and named without notes.
-                3. The location of the eyewash, fire blanket, extinguisher and first aid kit in your lab noted.
-                4. The correct first response to an acid spill on skin and to a small fire written in your lab book.
+                3. The location of the eyewash, fire blanket, extinguisher and first aid kit in the school lab noted.
+                4. The correct first response to an acid spill on skin and to a small fire written in the lab book.
 
                 ## Notes
                 Never taste, sniff directly or take chemicals home. If anything is splashed in the eye, rinse with water and tell the teacher at once.
@@ -113,37 +115,37 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "You can name every hazard symbol on a ten-symbol quiz and point to the safety equipment in your school lab without help."
+                success_criteria: "Your teen can name every hazard symbol on a ten-symbol quiz and point to the safety equipment in the school lab without help."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Read your school's laboratory rules and ask about anything unclear"
+                - "Read the school's laboratory rules and ask about anything unclear"
                 - "Make a flashcard for each common hazard symbol and its meaning"
                 - "Walk round the lab and note where the eyewash and fire blanket are"
-                - "Write the first response to a spill and a small fire inside your lab book cover"
+                - "Write the first response to a spill and a small fire inside the lab book cover"
             - name: Baseline chemistry test on the Form Three work
               description: |-
                 ## Purpose
-                Most students start CSEC Chemistry with patchy memories of Form Three science: some can balance equations, others cannot yet write a formula. A one-hour test on past-paper questions from the early topics shows exactly where you stand, so the revision timetable can give extra weeks to the weak spots instead of spreading time evenly.
+                Most students start CSEC Chemistry with patchy memories of Form Three science: some can balance equations, others cannot yet write a formula. A one-hour test on past-paper questions from the early topics shows exactly where your teen stands, so the revision timetable can give extra weeks to the weak spots instead of spreading time evenly.
 
                 ## Milestones
                 1. Twenty to thirty questions chosen from past papers covering states of matter, separation, atomic structure and bonding.
                 2. The questions answered in one sitting, timed and without notes.
-                3. The test marked against the mark scheme, by you or your teacher.
-                4. A ranked list of your three weakest topics written at the front of your folder.
+                3. The test marked against the mark scheme, by your teen or the teacher.
+                4. A ranked list of the three weakest topics written at the front of the folder.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "A marked baseline test is filed with a written list of your three weakest topics and your score as a percentage."
+                success_criteria: "A marked baseline test is filed with a written list of the three weakest topics and the score as a percentage."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
                 - "Choose twenty past-paper questions from the first four syllabus topics"
                 - "Sit the questions in one timed hour with no notes"
                 - "Mark the test against the mark scheme and work out the percentage"
-                - "Rank your three weakest topics and write them at the front of your folder"
+                - "Rank the three weakest topics and write them at the front of the folder"
             - name: Chemistry revision timetable to the exam
               description: |-
                 ## Purpose
@@ -151,9 +153,9 @@ starter_structure:
 
                 ## Milestones
                 1. Every syllabus topic placed in a week on one calendar, in syllabus order.
-                2. Your three weakest topics from the baseline given double the time.
+                2. The three weakest topics from the baseline given double the time.
                 3. SBA deadlines, the school mock and three full past-paper weekends marked on the calendar.
-                4. The timetable shared with a parent or teacher and stuck up where you study.
+                4. The timetable shared with you or the teacher and stuck up where your teen studies.
 
                 ## Notes
                 Leave the last six weeks free of new topics: they are for past papers and fixing gaps.
@@ -162,18 +164,18 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A week-by-week calendar covering every syllabus topic, the SBA deadlines and the mock is on your wall and shared with one adult."
+                success_criteria: "A week-by-week calendar covering every syllabus topic, the SBA deadlines and the mock is on the wall and shared with you."
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
                 - "Count the weeks between today and the first Chemistry paper"
-                - "Place every syllabus topic in a week, doubling time for your weak topics"
+                - "Place every syllabus topic in a week, doubling time for the weak topics"
                 - "Mark the SBA deadlines, the mock and three past-paper weekends"
-                - "Compare progress against the timetable and move any slipped topic @recurring(monthly:3)"
+                - "Together, compare progress against the timetable and move any slipped topic @recurring(monthly:3)"
             - name: Daily ion and formula flashcards
               description: |-
                 ## Purpose
-                Ion charges, gas tests and colour changes are pure recall, and recall fades within days unless it is practised. Ten minutes a day with a deck of cards, sorting each into known and not yet known, means that by the exam these facts cost you nothing and leave your thinking for the harder questions.
+                Ion charges, gas tests and colour changes are pure recall, and recall fades within days unless it is practised. Ten minutes a day with a deck of cards, sorting each into known and not yet known, means that by the exam these facts cost nothing and leave your teen's thinking free for the harder questions.
 
                 ## Milestones
                 1. A deck of at least sixty cards covering ions, formulae, gas tests and precipitate colours.
@@ -190,7 +192,7 @@ starter_structure:
                 success_criteria: "A deck of sixty or more chemistry cards has been reviewed on at least twenty days in a month, with fewer than ten still unknown."
                 cadence: rolling
               tasks:
-                - "Write twenty cards tonight from your ion chart"
+                - "Write twenty cards from the ion chart to start the deck"
                 - "Add five new cards after each chemistry lesson"
                 - "Review the cards for ten minutes and sort them into two piles @recurring(daily)"
             - name: Tuesday balanced equations drill
@@ -199,7 +201,7 @@ starter_structure:
                 Balanced equations appear in nearly every Paper 02 question, and a wrong formula or missing state symbol costs marks even when the chemistry is understood. A short weekly set of word equations to turn into balanced symbol equations, including ionic equations, builds the habit until it is automatic.
 
                 ## Milestones
-                1. A bank of word equations drawn from your notes and past papers.
+                1. A bank of word equations drawn from class notes and past papers.
                 2. Ten equations balanced each week, with state symbols.
                 3. Ionic equations for neutralisation, precipitation and displacement written correctly.
                 4. Four weeks in a row with no more than one error.
@@ -210,14 +212,14 @@ starter_structure:
                 success_criteria: "Four consecutive weekly sets of ten balanced equations are marked with at most one error each."
                 cadence: rolling
               tasks:
-                - "Copy twenty word equations from your notes onto a practice sheet"
+                - "Copy twenty word equations from class notes onto a practice sheet"
                 - "Balance ten equations with state symbols and check them @recurring(weekly:tue)"
                 - "Rewrite three of the week's equations as ionic equations"
-                - "Circle every error and add the formula you got wrong to your flashcards"
+                - "Circle every error and add the wrong formula to the flashcards"
             - name: Saturday past-paper question block
               description: |-
                 ## Purpose
-                Knowing the chemistry and scoring marks with it are different skills, and only practice with real questions builds the second one. A ninety-minute block every Saturday, working past-paper questions on the topic you studied that week and marking them against the mark scheme, steadily trains you to write what examiners reward.
+                Knowing the chemistry and scoring marks with it are different skills, and only practice with real questions builds the second one. A ninety-minute block every Saturday, working past-paper questions on the topic studied that week and marking them against the mark scheme, steadily trains your teen to write what examiners reward.
 
                 ## Milestones
                 1. Past papers and mark schemes for at least eight years gathered and filed by year.
@@ -231,14 +233,14 @@ starter_structure:
                 success_criteria: "Six consecutive Saturday blocks of past-paper questions are marked and recorded with a percentage for each."
                 cadence: rolling
               tasks:
-                - "Collect past Chemistry papers and mark schemes from your teacher or the CXC store"
+                - "Collect past Chemistry papers and mark schemes from the teacher or the CXC store"
                 - "Answer past-paper questions on this week's topic for ninety minutes @recurring(weekly:sat)"
                 - "Mark each answer against the mark scheme in a different colour pen"
-                - "Record the percentage for the block in your error log"
+                - "Record the percentage for the block in the error log"
             - name: Monthly timed Paper 01 multiple choice set
               description: |-
                 ## Purpose
-                Multiple choice chemistry rewards speed and careful reading: many wrong options are traps built from common misconceptions. Sitting a full set of past multiple choice questions once a month, to the time your syllabus gives, shows your pace and which topics keep catching you out.
+                Multiple choice chemistry rewards speed and careful reading: many wrong options are traps built from common misconceptions. Sitting a full set of past multiple choice questions once a month, to the time the syllabus gives, shows the pace and which topics keep catching your teen out.
 
                 ## Milestones
                 1. The current Paper 01 format and time noted from the syllabus.
@@ -254,17 +256,17 @@ starter_structure:
               tasks:
                 - "Note the Paper 01 time and number of items from the current syllabus"
                 - "Sit a full past multiple choice set under timed conditions @recurring(monthly:9)"
-                - "Tag each wrong answer with its topic and the trap that caught you"
-                - "Plot the month's score on your progress chart"
+                - "Tag each wrong answer with its topic and the trap behind it"
+                - "Plot the month's score on the progress chart"
             - name: Monthly Paper 02 structured questions under exam conditions
               description: |-
                 ## Purpose
-                Paper 02 asks for calculations, diagrams, data handling and extended explanations, and stamina matters as much as knowledge. Sitting a full past Paper 02 once a month in one go, at a desk with a clock, gives you the real feel of the exam and a regular score your teacher can comment on.
+                Paper 02 asks for calculations, diagrams, data handling and extended explanations, and stamina matters as much as knowledge. Sitting a full past Paper 02 once a month in one go, at a desk with a clock, gives the real feel of the exam and a regular score the teacher can comment on. Keeping the house quiet for those hours is one of the most useful things you can do.
 
                 ## Milestones
                 1. A quiet two to three hour slot booked each month.
                 2. A full past Paper 02 sat in one go with no notes.
-                3. The paper marked against the mark scheme or handed to your teacher.
+                3. The paper marked against the mark scheme or handed to the teacher.
                 4. Lost marks sorted into knowledge gaps, calculation slips and unclear wording.
               priority: high
               frontmatter:
@@ -275,7 +277,7 @@ starter_structure:
               tasks:
                 - "Book a quiet slot at home or school for a full paper"
                 - "Sit a complete past Paper 02 under exam conditions @recurring(monthly:21)"
-                - "Mark the paper or hand it to your teacher for marking"
+                - "Mark the paper or hand it to the teacher for marking"
                 - "Sort every lost mark into gaps, slips or unclear wording"
             - name: Chemistry error log by topic
               description: |-
@@ -286,7 +288,7 @@ starter_structure:
                 1. An error log set up with columns for date, topic, question, mistake and fix.
                 2. Every marked past-paper question entered in the log.
                 3. A weekly review that picks the two most frequent mistakes to fix.
-                4. A monthly tally showing which topics lose you the most marks.
+                4. A monthly tally showing which topics lose the most marks.
 
                 ## Notes
                 Start from the **Metrics log** template. The fix column matters most: write the correct method in one line, not just the right answer.
@@ -304,16 +306,16 @@ starter_structure:
             - name: Lab write-ups within two days of each practical
               description: |-
                 ## Purpose
-                SBA marks come from the lab reports your teacher assesses during the course, and a report written a week later from memory loses the observations and readings that carry the marks. Writing each practical up within two days, in the format your teacher uses, and acting on the comments you get back keeps the SBA steady instead of a scramble.
+                SBA marks come from the lab reports the teacher assesses during the course, and a report written a week later from memory loses the observations and readings that carry the marks. Writing each practical up within two days, in the format the teacher uses, and acting on the comments that come back keeps the SBA steady instead of a scramble.
 
                 ## Milestones
-                1. Your teacher's lab report format copied into the front of your lab book.
+                1. The teacher's lab report format copied into the front of the lab book.
                 2. Every practical written up within two days, with aim, method, results table and conclusion.
                 3. Teacher comments grouped into recurring themes, such as missing units or weak conclusions.
                 4. Each later report showing the fix for the last comment.
 
                 ## Notes
-                Start from the **Feedback themes** template to group your teacher's comments. Record observations as you see them: colour changes, fizzing and precipitates, not what you expected to happen.
+                Start from the **Feedback themes** template to group the teacher's comments. Record observations as they happen: colour changes, fizzing and precipitates, not what was expected to happen.
               priority: medium
               frontmatter:
                 mode: operating
@@ -321,10 +323,10 @@ starter_structure:
                 success_criteria: "Every practical this term has a complete write-up dated within two days of the lab, and teacher comments are grouped into themes."
                 cadence: rolling
               tasks:
-                - "Copy your teacher's lab report headings into the front of your lab book"
+                - "Copy the teacher's lab report headings into the front of the lab book"
                 - "Write up today's practical before the end of the next school day"
-                - "Group your teacher's comments on returned reports into themes"
-                - "Check your lab book against the SBA mark record with your teacher @recurring(monthly:5)"
+                - "Group the teacher's comments on returned reports into themes"
+                - "Check the lab book against the SBA mark record with the teacher @recurring(monthly:5)"
             - name: Sunday chemistry check-in for parents
               description: |-
                 ## Purpose
@@ -360,7 +362,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "You score at least 70 percent on a set of past-paper questions on states of matter, diffusion and osmosis."
+                success_criteria: "Your teen scores at least 70 percent on a set of past-paper questions on states of matter, diffusion and osmosis."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
@@ -383,18 +385,18 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "You can draw and label four separation set-ups from memory and score at least 70 percent on past-paper separation questions."
+                success_criteria: "Four separation set-ups can be drawn and labelled from memory, and past-paper separation questions score at least 70 percent."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "List one everyday solution, suspension and colloid from your kitchen"
+                - "List one everyday solution, suspension and colloid from the kitchen"
                 - "Draw and label the fractional distillation apparatus from memory"
                 - "Make a table of separation methods and the property each uses"
                 - "Answer and mark past-paper questions on separation and solubility curves"
             - name: Atomic structure, isotopes and electron configuration
               description: |-
                 ## Purpose
-                Protons, neutrons and electrons explain why elements behave as they do, and the syllabus expects you to work out particle numbers, write electron configurations for the first twenty elements and calculate relative atomic mass from isotopes. Radioactive isotopes and their uses, from carbon dating to medical tracers, also sit here.
+                Protons, neutrons and electrons explain why elements behave as they do, and the syllabus expects students to work out particle numbers, write electron configurations for the first twenty elements and calculate relative atomic mass from isotopes. Radioactive isotopes and their uses, from carbon dating to medical tracers, also sit here.
 
                 ## Milestones
                 1. Protons, neutrons and electrons worked out from any mass number and atomic number.
@@ -406,7 +408,7 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "You write correct electron configurations for all twenty elements on a timed quiz and score 70 percent on past-paper atomic structure questions."
+                success_criteria: "Electron configurations for all twenty elements are correct on a timed quiz, and past-paper atomic structure questions score at least 70 percent."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
@@ -417,7 +419,7 @@ starter_structure:
             - name: Periodic table trends in Groups II, VII and Period 3
               description: |-
                 ## Purpose
-                Exam questions rarely ask you to recite the periodic table; they ask you to predict how an unfamiliar element will behave from its position. Learning the trends down Group II and Group VII and across Period 3, and the reasons behind them in terms of electrons, lets you answer questions about elements you have never handled.
+                Exam questions rarely ask a candidate to recite the periodic table; they ask how an unfamiliar element will behave from its position. Learning the trends down Group II and Group VII and across Period 3, and the reasons behind them in terms of electrons, lets your teen answer questions about elements they have never handled.
 
                 ## Milestones
                 1. The link between group number, period number and electron configuration explained.
@@ -429,7 +431,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "A one-page trend summary is in your folder and you score at least 70 percent on past-paper periodicity questions."
+                success_criteria: "A one-page trend summary is in the folder and past-paper periodicity questions score at least 70 percent."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
@@ -440,7 +442,7 @@ starter_structure:
             - name: Ionic, covalent and metallic bonding and structure
               description: |-
                 ## Purpose
-                Bonding questions are worth many marks and are easy to lose with a careless dot and cross diagram or a vague explanation of why salt melts at a high temperature. Practising the three bond types, the giant and simple molecular structures, and the allotropes of carbon until you can draw and explain each one quickly is time well spent.
+                Bonding questions are worth many marks and are easy to lose with a careless dot and cross diagram or a vague explanation of why salt melts at a high temperature. Practising the three bond types, the giant and simple molecular structures, and the allotropes of carbon until each one can be drawn and explained quickly is time well spent.
 
                 ## Milestones
                 1. Dot and cross diagrams drawn correctly for six ionic and six covalent compounds.
@@ -452,7 +454,7 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Twelve dot and cross diagrams are drawn without error and you score at least 70 percent on past-paper bonding questions."
+                success_criteria: "Twelve dot and cross diagrams are drawn without error and past-paper bonding questions score at least 70 percent."
                 cadence: phased
                 effort_hours_estimate: "7"
               tasks:
@@ -463,7 +465,7 @@ starter_structure:
             - name: Writing formulae and ionic equations with confidence
               description: |-
                 ## Purpose
-                A student who cannot turn calcium nitrate into a formula cannot do the mole, salts or electrolysis questions that follow. Working through formulae from ion charges, then full and ionic equations with state symbols, gives you the language of the rest of the course in one focused stretch.
+                A student who cannot turn calcium nitrate into a formula cannot do the mole, salts or electrolysis questions that follow. Working through formulae from ion charges, then full and ionic equations with state symbols, gives your teen the language of the rest of the course in one focused stretch.
 
                 ## Milestones
                 1. Formulae written correctly for thirty compounds from their names, including polyatomic ions.
@@ -477,11 +479,11 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "You write thirty formulae from names with no more than two errors and produce correct ionic equations for five reactions."
+                success_criteria: "Thirty formulae are written from names with no more than two errors, and correct ionic equations are produced for five reactions."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Write formulae for ten compounds using your ion chart"
+                - "Write formulae for ten compounds using the ion chart"
                 - "Name twenty formulae without looking at the chart"
                 - "Remove spectator ions to write five ionic equations"
                 - "Answer and mark past-paper questions needing formulae"
@@ -494,7 +496,7 @@ starter_structure:
                 1. Relative formula masses worked out for twenty compounds.
                 2. Moles converted to and from mass, number of particles and gas volume.
                 3. Concentrations calculated in grams per dm cubed and mol per dm cubed.
-                4. A one-page method sheet showing the triangle or formula you use for each conversion.
+                4. A one-page method sheet showing the triangle or formula used for each conversion.
                 5. Past-paper mole questions answered and marked.
 
                 ## Notes
@@ -503,7 +505,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "You complete twenty mole conversions with at least 85 percent correct and file a one-page method sheet."
+                success_criteria: "Twenty mole conversions are completed with at least 85 percent correct and a one-page method sheet is filed."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
@@ -514,7 +516,7 @@ starter_structure:
             - name: Reacting masses and titration calculations
               description: |-
                 ## Purpose
-                Once moles are secure, the syllabus asks you to use balanced equations to find reacting masses, volumes of gas produced, percentage yield and unknown concentrations from titration results. These multi-step questions carry many marks and reward a set layout that shows working, so partial credit is still available when a step goes wrong.
+                Once moles are secure, the syllabus asks candidates to use balanced equations to find reacting masses, volumes of gas produced, percentage yield and unknown concentrations from titration results. These multi-step questions carry many marks and reward a set layout that shows working, so partial credit is still available when a step goes wrong.
 
                 ## Milestones
                 1. Reacting mass and gas volume problems solved from balanced equations.
@@ -538,7 +540,7 @@ starter_structure:
             - name: Acids, bases and salt preparation
               description: |-
                 ## Purpose
-                Acids and salts tie together lab skills and theory: you must know how acids react, how pH and indicators work, and which method prepares a given salt, whether from an insoluble base, by titration or by precipitation. Everyday examples such as lime juice, antacid tablets and baking soda make the ideas stick.
+                Acids and salts tie together lab skills and theory: a student must know how acids react, how pH and indicators work, and which method prepares a given salt, whether from an insoluble base, by titration or by precipitation. Everyday examples such as lime juice, antacid tablets and baking soda make the ideas stick, and they are easy to find at home.
 
                 ## Milestones
                 1. Reactions of acids with metals, bases and carbonates written as equations with observations.
@@ -550,7 +552,7 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "You can choose and describe the correct preparation for any named salt and score at least 70 percent on past-paper acids questions."
+                success_criteria: "Your teen can choose and describe the correct preparation for any named salt and scores at least 70 percent on past-paper acids questions."
                 cadence: phased
                 effort_hours_estimate: "7"
               tasks:
@@ -561,7 +563,7 @@ starter_structure:
             - name: Oxidation, reduction and oxidation numbers
               description: |-
                 ## Purpose
-                Redox can be defined in three ways, by oxygen, electrons and oxidation number, and examiners expect you to choose the right one for the question. Practising oxidation numbers, spotting oxidising and reducing agents, and the colour changes of tests such as acidified potassium manganate(VII) and potassium iodide turns a confusing topic into a routine.
+                Redox can be defined in three ways, by oxygen, electrons and oxidation number, and examiners expect candidates to choose the right one for the question. Practising oxidation numbers, spotting oxidising and reducing agents, and the colour changes of tests such as acidified potassium manganate(VII) and potassium iodide turns a confusing topic into a routine.
 
                 ## Milestones
                 1. The three definitions of oxidation and reduction written with an example each.
@@ -573,7 +575,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "You assign oxidation numbers correctly in twenty species and score at least 70 percent on past-paper redox questions."
+                success_criteria: "Oxidation numbers are assigned correctly in twenty species and past-paper redox questions score at least 70 percent."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
@@ -596,7 +598,7 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "You predict electrode products correctly for five electrolytes and solve three Faraday calculations with full working."
+                success_criteria: "Electrode products are predicted correctly for five electrolytes and three Faraday calculations are solved with full working."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
@@ -618,7 +620,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Two rate graphs are drawn from real or past-paper data and you score at least 70 percent on past-paper rates questions."
+                success_criteria: "Two rate graphs are drawn from real or past-paper data and past-paper rates questions score at least 70 percent."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
@@ -629,7 +631,7 @@ starter_structure:
             - name: Energetics and enthalpy change from experiments
               description: |-
                 ## Purpose
-                Energy changes questions ask you to read and draw energy profile diagrams, classify reactions as exothermic or endothermic, and calculate enthalpy change from a temperature rise in a simple calorimetry experiment. A tidy method for the calculation, including the sign, is the difference between full and partial marks.
+                Energy changes questions ask candidates to read and draw energy profile diagrams, classify reactions as exothermic or endothermic, and calculate enthalpy change from a temperature rise in a simple calorimetry experiment. A tidy method for the calculation, including the sign, is the difference between full and partial marks.
 
                 ## Milestones
                 1. Exothermic and endothermic reactions explained with everyday examples such as cold packs and burning cooking gas.
@@ -641,18 +643,18 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "You draw two labelled energy profiles and solve three enthalpy calculations with correct units and sign."
+                success_criteria: "Two labelled energy profiles are drawn and three enthalpy calculations are solved with correct units and sign."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "List three exothermic and two endothermic changes you see at home"
+                - "List three exothermic and two endothermic changes seen at home"
                 - "Draw labelled energy profiles for an exothermic and an endothermic reaction"
                 - "Calculate the enthalpy change for a neutralisation from temperature data"
                 - "Answer and mark past-paper energetics questions"
             - name: Crude oil, natural gas and fractional distillation
               description: |-
                 ## Purpose
-                Organic chemistry begins with where carbon compounds come from, and the region gives you real examples: Trinidad and Tobago's oil and natural gas, refineries and petrochemical plants. Understanding fractional distillation, the fractions and their uses, and cracking prepares you for both the theory and the context questions examiners like.
+                Organic chemistry begins with where carbon compounds come from, and the region supplies real examples: Trinidad and Tobago's oil and natural gas, refineries and petrochemical plants. Understanding fractional distillation, the fractions and their uses, and cracking prepares your teen for both the theory and the context questions examiners like.
 
                 ## Milestones
                 1. The main sources of hydrocarbons, including crude oil, natural gas and biogas, described.
@@ -664,7 +666,7 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A labelled fractionating column with fractions and uses is in your notes and you score at least 70 percent on matching past-paper questions."
+                success_criteria: "A labelled fractionating column with fractions and uses is in the notes and matching past-paper questions score at least 70 percent."
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
@@ -675,7 +677,7 @@ starter_structure:
             - name: Homologous series, naming and isomers
               description: |-
                 ## Purpose
-                Before any organic reactions make sense you need to read and name the compounds. Learning the features of a homologous series, the functional groups for alkanes, alkenes, alcohols, alkanoic acids and esters, IUPAC names for short chains and how to draw structural isomers gives you the vocabulary for the rest of Section B.
+                Before any organic reactions make sense, the compounds have to be read and named. Learning the features of a homologous series, the functional groups for alkanes, alkenes, alcohols, alkanoic acids and esters, IUPAC names for short chains and how to draw structural isomers gives your teen the vocabulary for the rest of Section B.
 
                 ## Milestones
                 1. Features of a homologous series listed.
@@ -687,7 +689,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "You name twenty organic compounds from their structures with at most two errors."
+                success_criteria: "Twenty organic compounds are named from their structures with at most two errors."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
@@ -710,7 +712,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "A reaction map for alkanes and alkenes with conditions and observations is filed, and you score 70 percent on matching past-paper questions."
+                success_criteria: "A reaction map for alkanes and alkenes with conditions and observations is filed, and matching past-paper questions score 70 percent."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
@@ -721,7 +723,7 @@ starter_structure:
             - name: Alcohols, alkanoic acids and esters
               description: |-
                 ## Purpose
-                Fermentation, ethanoic acid and esters link organic chemistry to Caribbean industries from rum distilling to vinegar and soap making, and examiners use these contexts often. Learning how ethanol is made and oxidised, how alkanoic acids react, how esters form and are hydrolysed, and how soaps and soapless detergents differ, completes the reactions you need.
+                Fermentation, ethanoic acid and esters link organic chemistry to Caribbean industries from rum distilling to vinegar and soap making, and examiners use these contexts often. Learning how ethanol is made and oxidised, how alkanoic acids react, how esters form and are hydrolysed, and how soaps and soapless detergents differ, completes the reactions the syllabus asks for.
 
                 ## Milestones
                 1. Fermentation of sugars described with conditions, equation and the role of yeast.
@@ -733,7 +735,7 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A reaction map from sugar to ethanol to ethanoic acid to ester is filed, and you score at least 70 percent on past-paper questions on these series."
+                success_criteria: "A reaction map from sugar to ethanol to ethanoic acid to ester is filed, and past-paper questions on these series score at least 70 percent."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
@@ -744,7 +746,7 @@ starter_structure:
             - name: Addition and condensation polymers
               description: |-
                 ## Purpose
-                Polymer questions ask you to draw repeat units, tell addition and condensation polymerisation apart and discuss plastic waste, which matters on small islands with limited landfill. Practising repeat units for polyethene, PVC, nylon and polyesters, with the environmental arguments, rounds off Section B.
+                Polymer questions ask candidates to draw repeat units, tell addition and condensation polymerisation apart and discuss plastic waste, which matters on small islands with limited landfill. Practising repeat units for polyethene, PVC, nylon and polyesters, with the environmental arguments, rounds off Section B.
 
                 ## Milestones
                 1. Addition and condensation polymerisation compared in a table.
@@ -756,7 +758,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "You draw repeat units for four polymers correctly and score at least 70 percent on past-paper polymer questions."
+                success_criteria: "Repeat units for four polymers are drawn correctly and past-paper polymer questions score at least 70 percent."
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
@@ -779,18 +781,18 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "You recite the reactivity series and predict the outcome of ten displacement reactions with at most one error."
+                success_criteria: "Your teen can recite the reactivity series and predict the outcome of ten displacement reactions with at most one error."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Write the reactivity series with your own memory aid"
+                - "Write the reactivity series with a home-made memory aid"
                 - "Describe how magnesium, zinc and copper react with dilute acid"
                 - "Predict ten displacement reactions and write the ionic equations"
                 - "Answer and mark past-paper questions on metal reactivity"
             - name: Extraction of aluminium and iron, alloys and corrosion
               description: |-
                 ## Purpose
-                Jamaica and Guyana mine bauxite, which makes the extraction of aluminium a natural CSEC question, set beside iron from the blast furnace. Learning both extraction routes, why each method fits the metal's reactivity, the uses of alloys and how rusting is prevented connects theory to industry and to the rust you see on every seaside car.
+                Jamaica and Guyana mine bauxite, which makes the extraction of aluminium a natural CSEC question, set beside iron from the blast furnace. Learning both extraction routes, why each method fits the metal's reactivity, the uses of alloys and how rusting is prevented connects theory to industry and to the rust on every seaside car.
 
                 ## Milestones
                 1. The link between reactivity and extraction method explained.
@@ -802,7 +804,7 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "Labelled diagrams of aluminium extraction and the blast furnace are in your notes and you score 70 percent on matching past-paper questions."
+                success_criteria: "Labelled diagrams of aluminium extraction and the blast furnace are in the notes and matching past-paper questions score 70 percent."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
@@ -813,7 +815,7 @@ starter_structure:
             - name: Non-metals, gas preparation and pollution
               description: |-
                 ## Purpose
-                Lab gases are a syllabus staple: you need to know how common gases such as oxygen, carbon dioxide and ammonia are made in the lab, how they are collected and tested, and how non-metal compounds harm the environment, from acid rain to fertiliser run-off that damages reefs. Linking each gas to its preparation, collection method and test gives you a compact table that answers many questions.
+                Lab gases are a syllabus staple: students need to know how common gases such as oxygen, carbon dioxide and ammonia are made in the lab, how they are collected and tested, and how non-metal compounds harm the environment, from acid rain to fertiliser run-off that damages reefs. Linking each gas to its preparation, collection method and test gives a compact table that answers many questions.
 
                 ## Milestones
                 1. Lab preparations of oxygen, carbon dioxide and ammonia described with equations.
@@ -825,7 +827,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "A gas table showing preparation, collection and test for each gas is filed and you score 70 percent on past-paper non-metal questions."
+                success_criteria: "A gas table showing preparation, collection and test for each gas is filed and past-paper non-metal questions score 70 percent."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
@@ -849,18 +851,18 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A one-page summary of water hardness, softening and treatment is filed and you score 70 percent on matching past-paper questions."
+                success_criteria: "A one-page summary of water hardness, softening and treatment is filed and matching past-paper questions score 70 percent."
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Find out whether your home water supply is hard or soft and why"
+                - "Find out together whether the home water supply is hard or soft and why"
                 - "Write equations for removing temporary hardness by boiling"
                 - "List the stages of drinking water treatment in order"
                 - "Answer and mark past-paper questions on water and green chemistry"
             - name: Qualitative analysis of cations, anions and gases
               description: |-
                 ## Purpose
-                Identifying an unknown salt from its reactions with sodium hydroxide, aqueous ammonia and other reagents appears in practicals and on Paper 02, and it rewards exact observations rather than guesses. Learning the precipitate colours, which dissolve in excess, and the anion and gas tests as one system lets you work through any unknown in a fixed order.
+                Identifying an unknown salt from its reactions with sodium hydroxide, aqueous ammonia and other reagents appears in practicals and on Paper 02, and it rewards exact observations rather than guesses. Learning the precipitate colours, which dissolve in excess, and the anion and gas tests as one system lets your teen work through any unknown in a fixed order.
 
                 ## Milestones
                 1. A table of cation tests with sodium hydroxide and aqueous ammonia, including behaviour in excess.
@@ -870,12 +872,12 @@ starter_structure:
                 5. Past-paper qualitative analysis questions answered and marked.
 
                 ## Notes
-                Write observations as what you see, such as white precipitate soluble in excess, not as the conclusion. Examiners mark them separately.
+                Write observations as what is seen, such as white precipitate soluble in excess, not as the conclusion. Examiners mark them separately.
               priority: medium
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "You complete the cation, anion and gas tables from memory with at most two errors and identify three unknowns correctly from given observations."
+                success_criteria: "The cation, anion and gas tables are completed from memory with at most two errors, and three unknowns are identified correctly from given observations."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
@@ -886,35 +888,35 @@ starter_structure:
             - name: Mark schemes and CXC subject reports for Chemistry
               description: |-
                 ## Purpose
-                CXC publishes subject reports after each sitting that describe where candidates lost marks, and the same complaints recur: vague observations, missing units, unbalanced equations. Reading several years of Chemistry reports and comparing mark scheme wording with your own answers shows you what full-mark responses actually look like.
+                CXC publishes subject reports after each sitting that describe where candidates lost marks, and the same complaints recur: vague observations, missing units, unbalanced equations. Reading several years of Chemistry reports and comparing mark scheme wording with your teen's own answers shows what full-mark responses actually look like.
 
                 ## Milestones
                 1. Subject reports for at least three recent sittings read and annotated.
                 2. A list of the ten most common weaknesses examiners mention.
-                3. Five of your own answers rewritten using mark scheme wording.
-                4. The list pinned inside your chemistry folder for use before every past paper.
+                3. Five of their own answers rewritten using mark scheme wording.
+                4. The list pinned inside the chemistry folder for use before every past paper.
               priority: medium
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A list of ten examiner-reported weaknesses is filed and five of your past answers have been rewritten to mark scheme standard."
+                success_criteria: "A list of ten examiner-reported weaknesses is filed and five past answers have been rewritten to mark scheme standard."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
                 - "Find three recent CSEC Chemistry subject reports on the CXC website"
                 - "List the ten weaknesses examiners mention most"
-                - "Rewrite five of your own answers using mark scheme wording"
-                - "Reread the subject report section for your weakest topic @recurring(quarterly)"
+                - "Rewrite five past answers using mark scheme wording"
+                - "Reread the subject report section for the weakest topic @recurring(quarterly)"
             - name: Planning and designing experiments from a hypothesis
               description: |-
                 ## Purpose
-                Planning and design labs are the SBA skill students find hardest, because there is no method to copy: you are given a problem and must write a hypothesis, variables, apparatus, method, expected results and limitations. Practising the structure on several problems before the assessed one makes it far less daunting.
+                Planning and design labs are the SBA skill students find hardest, because there is no method to copy: the student is given a problem and must write a hypothesis, variables, apparatus, method, expected results and limitations. Practising the structure on several problems before the assessed one makes it far less daunting.
 
                 ## Milestones
-                1. The planning and design headings your teacher uses copied into your lab book.
+                1. The planning and design headings the teacher uses copied into the lab book.
                 2. Independent, dependent and controlled variables identified in five scenarios.
-                3. Three practice plans written and checked by your teacher or a classmate.
-                4. A checklist of common faults, such as untestable hypotheses and missing controls, kept with your lab book.
+                3. Three practice plans written and checked by the teacher or a classmate.
+                4. A checklist of common faults, such as untestable hypotheses and missing controls, kept with the lab book.
               priority: medium
               frontmatter:
                 mode: learning
@@ -923,18 +925,18 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Copy the planning and design headings into your lab book"
+                - "Copy the planning and design headings into the lab book"
                 - "Identify the variables in five everyday chemistry questions"
                 - "Write a practice plan to test which antacid neutralises the most acid"
-                - "Ask your teacher to check two practice plans and note the faults"
+                - "Ask the teacher to check two practice plans and note the faults"
             - name: Chemistry SBA investigation from question to report
               description: |-
                 ## Purpose
                 Where the current syllabus includes an investigation, it runs over several weeks, and students who choose an ambitious question with no apparatus to test it lose marks they cannot recover. Agreeing a manageable question early, planning around the school's equipment, running the trials and writing the report in stages keeps the work on time and within the rules.
 
                 ## Milestones
-                1. The investigation requirements checked against the current syllabus and your teacher's guidance.
-                2. A testable question and plan approved by your teacher.
+                1. The investigation requirements checked against the current syllabus and the teacher's guidance.
+                2. A testable question and plan approved by the teacher.
                 3. Data collected from repeated trials and recorded in tables.
                 4. A complete draft report with analysis, conclusion and limitations handed in for comment.
                 5. The final report revised from teacher feedback.
@@ -947,9 +949,9 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
-                - "Ask your teacher for the investigation guidelines and deadline"
+                - "Ask the teacher for the investigation guidelines and deadline"
                 - "Write three possible questions and check apparatus is available for each"
-                - "Ask the agent to help you list variables and controls for your chosen question"
+                - "Ask the agent to help list variables and controls for the chosen question"
                 - "Hand in a full draft two weeks before the school deadline"
             - name: Final SBA lab book check and submission
               description: |-
@@ -966,25 +968,25 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: deliverable
-                success_criteria: "Your lab book is submitted by the school deadline with every assessed practical listed, complete and signed, and photos kept."
+                success_criteria: "The lab book is submitted by the school deadline with every assessed practical listed, complete and signed, and photos kept."
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
                 - "Write a contents page listing each assessed practical"
                 - "Check every assessed report for units, tables and a conclusion"
-                - "Ask your teacher about any missing marks or unsigned pages"
-                - "Photograph every page before you hand the lab book in"
+                - "Ask the teacher about any missing marks or unsigned pages"
+                - "Photograph every page before the lab book is handed in"
             - name: School mock exam in Chemistry
               description: |-
                 ## Purpose
-                The mock is the best rehearsal you will get: real time pressure, an unfamiliar room and a marked paper from your own teacher. Treating it as a dress rehearsal, revising for it properly and then working through the marked script topic by topic, tells you exactly what the last months must fix.
+                The mock is the best rehearsal your teen will get: real time pressure, an unfamiliar room and a marked paper from their own teacher. Treating it as a dress rehearsal, revising for it properly and then working through the marked script topic by topic, tells you both exactly what the last months must fix.
 
                 ## Milestones
                 1. The mock date and papers confirmed with the school.
                 2. A two-week mock revision plan followed.
                 3. The mock sat with full exam kit and timing.
                 4. The marked script analysed by topic and lost marks entered in the error log.
-                5. A revised plan for the final weeks agreed with your teacher.
+                5. A revised plan for the final weeks agreed with the teacher.
               priority: high
               deadlineOffsetDays: 170
               frontmatter:
@@ -995,13 +997,13 @@ starter_structure:
                 effort_hours_estimate: "15"
               tasks:
                 - "Confirm the mock date and which papers will be set"
-                - "Write a two-week mock revision plan from your error log"
-                - "Sit the mock with your full exam kit"
-                - "Enter every lost mark from the marked script into your error log"
+                - "Write a two-week mock revision plan from the error log"
+                - "Sit the mock with the full exam kit"
+                - "Enter every lost mark from the marked script into the error log"
             - name: Final six weeks of chemistry revision
               description: |-
                 ## Purpose
-                Six weeks out, the job changes from learning to practice. A plan that cycles through every syllabus topic, sits a full past paper each week and spends the remaining time on the error log keeps you sharp and calm, instead of rereading notes that feel familiar but do not build marks.
+                Six weeks out, the job changes from learning to practice. A plan that cycles through every syllabus topic, sits a full past paper each week and spends the remaining time on the error log keeps your teen sharp and calm, instead of rereading notes that feel familiar but do not build marks.
 
                 ## Milestones
                 1. A topic checklist covering every syllabus section, marked red, amber or green.
@@ -1013,7 +1015,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "Six weekly past papers are marked and no syllabus topic remains red on your checklist a week before the exam."
+                success_criteria: "Six weekly past papers are marked and no syllabus topic remains red on the checklist a week before the exam."
                 cadence: phased
                 effort_hours_estimate: "40"
               tasks:
@@ -1024,10 +1026,10 @@ starter_structure:
             - name: Chemistry exam day kit and morning plan
               description: |-
                 ## Purpose
-                Exam mornings go wrong in small ways: a flat calculator battery, a forgotten ruler for the graph, a late taxi. Packing the kit the night before, knowing the route and timing, and having a short plan for reading the paper means your energy goes into the chemistry.
+                Exam mornings go wrong in small ways: a flat calculator battery, a forgotten ruler for the graph, a late taxi. Packing the kit the night before, knowing the route and timing, and having a short plan for reading the paper means your teen's energy goes into the chemistry.
 
                 ## Milestones
-                1. Exam dates, times and the centre confirmed from your candidate timetable.
+                1. Exam dates, times and the centre confirmed from the candidate timetable.
                 2. A kit packed: two pens, pencils, ruler, eraser, permitted calculator with spare battery, candidate details.
                 3. The route to the centre planned with a backup option and an arrival time.
                 4. A reading plan for the paper written on one card.
@@ -1036,13 +1038,13 @@ starter_structure:
               frontmatter:
                 mode: event
                 output_kind: event-completion
-                success_criteria: "Your kit is packed the night before each Chemistry paper, you arrive early, and you sit every paper."
+                success_criteria: "The kit is packed the night before each Chemistry paper, your teen arrives early and every paper is sat."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Check your candidate timetable for each Chemistry paper and centre"
+                - "Check the candidate timetable for each Chemistry paper and centre"
                 - "Pack the exam kit with a spare calculator battery the night before"
-                - "Plan the route and a backup ride with an adult"
+                - "Plan the route and a backup ride together"
                 - "Write a short reading plan for the paper on a card"
             - name: Supporting a chemistry student without a science background
               description: |-
@@ -1086,7 +1088,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "20"
               tasks:
-                - "List the missed topics with your chemistry teacher"
+                - "List the missed topics with the chemistry teacher"
                 - "Rebuild formulae and mole skills before any other topic"
                 - "Hold a catch-up session with a tutor or study partner @recurring(weekly:mon)"
                 - "Finish each missed topic with marked past-paper questions"
@@ -1107,7 +1109,7 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "You are registered as a private candidate for Chemistry with a written plan for practical skills and two Paper 032s practised."
+                success_criteria: "Private candidate registration for Chemistry is confirmed, with a written plan for practical skills and two Paper 032s practised."
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
@@ -1118,7 +1120,7 @@ starter_structure:
             - name: Teacher's practical schedule and SBA moderation sample
               description: |-
                 ## Purpose
-                For a chemistry teacher, the SBA means scheduling enough assessed practicals for each skill across two years, managing reagents and lab time, and preparing a moderation sample that matches CXC's requirements. A clear plan made at the start of the course avoids the spring rush to fill skill gaps.
+                For a chemistry teacher, the SBA means scheduling enough assessed practicals for each skill across two years, managing reagents and lab time, and preparing a moderation sample that matches CXC's requirements. A clear plan made at the start of the course avoids the spring rush to fill skill gaps. If you are not a teacher yourself, share it with your teen's chemistry teacher or use it to ask how the SBA schedule looks.
 
                 ## Milestones
                 1. A two-year practical schedule covering each assessed skill the required number of times.
@@ -1145,30 +1147,30 @@ starter_structure:
                 ## Milestones
                 1. Ten past-paper explanation questions answered at full length.
                 2. Each answer checked against the mark scheme for every marking point.
-                3. A list of linking phrases that examiners reward written in your folder.
-                4. Three answers reviewed by your teacher with comments.
+                3. A list of linking phrases that examiners reward written in the folder.
+                4. Three answers reviewed by the teacher with comments.
               priority: low
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Ten extended past-paper answers each score full marks against the mark scheme, with three reviewed by your teacher."
+                success_criteria: "Ten extended past-paper answers each score full marks against the mark scheme, with three reviewed by the teacher."
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
                 - "Pick ten explanation questions worth three marks or more"
                 - "Write one full answer and mark it point by point @recurring(monthly:17)"
                 - "List the linking phrases that appear in mark schemes"
-                - "Ask your teacher to review three of your answers"
+                - "Ask the teacher to review three of the answers"
             - name: Industry visit to see chemistry at work
               description: |-
                 ## Purpose
-                Seeing a water treatment works, a rum distillery, a bauxite plant or a petrochemical site makes fractional distillation, fermentation and electrolysis real, and gives you examples to use in exam answers. Arranging a visit, or a virtual tour where no site accepts students, is something a class, a science club or a family can do.
+                Seeing a water treatment works, a rum distillery, a bauxite plant or a petrochemical site makes fractional distillation, fermentation and electrolysis real, and gives your teen examples to use in exam answers. Arranging a visit, or a virtual tour where no site accepts students, is something a class, a science club or a family can do.
 
                 ## Milestones
                 1. Two local sites that accept student visits identified.
                 2. A visit booked through the school, a club or a family contact.
                 3. Five questions prepared linking the site to syllabus topics.
-                4. A one-page report written after the visit with the chemistry you saw.
+                4. A one-page report written after the visit with the chemistry seen there.
               priority: low
               deadlineOffsetDays: 120
               frontmatter:
@@ -1179,13 +1181,13 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "List two local plants or works that take school visits"
-                - "Ask your teacher or science club to request a visit"
-                - "Prepare five questions linking the site to your syllabus"
-                - "Write a one-page report on the chemistry you saw"
+                - "Ask the teacher or science club to request a visit"
+                - "Prepare five questions linking the site to the syllabus"
+                - "Write a one-page report on the chemistry seen on the visit"
 ---
 
 # CSEC Chemistry
 
-This area is for fourth and fifth form students sitting CSEC Chemistry, and for the parents and teachers working with them. It starts with the foundations (the current syllabus and paper format, the right kit, an ion chart, lab safety, a baseline test and a revision timetable), then the routines that build marks week by week, the topics in syllabus order through the principles of chemistry, organic chemistry and inorganic chemistry, then the SBA, the mock, the final weeks and exam day, plans for particular students and teachers, and two projects for students chasing a Grade I.
+This area is for parents and guardians supporting a fourth or fifth form student through CSEC Chemistry, with projects for teachers too. It starts with the foundations (the current syllabus and paper format, the right kit, an ion chart, lab safety, a baseline test and a revision timetable), then the routines that build marks week by week, the topics in syllabus order through the principles of chemistry, organic chemistry and inorganic chemistry, then the SBA, the mock, the final weeks and exam day, plans for particular students and teachers, and two projects for students chasing a Grade I.
 
-What repeats is a daily ten minutes of ion and formula cards, equations on Tuesdays, mole calculations on Wednesdays, an error log review on Fridays, a past-paper block every Saturday, a parent check-in on Sundays, and timed Paper 01 and Paper 02 practice on the 9th and 21st of each month. The Purchase decision, Habit tracker, Metrics log and Feedback themes templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a daily ten minutes of ion and formula cards, equations on Tuesdays, mole calculations on Wednesdays, an error log review on Fridays, a past-paper block every Saturday, your Sunday check-in with your teen, and timed Paper 01 and Paper 02 practice on the 9th and 21st of each month. The Purchase decision, Habit tracker, Metrics log and Feedback themes templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

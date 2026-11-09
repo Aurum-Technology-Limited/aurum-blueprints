@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-additional-mathematics
 name: CSEC Additional Mathematics
-description: "CSEC Additional Mathematics from the first syllabus check to exam day: algebra, functions, coordinate geometry, vectors, trigonometry, calculus, statistics and probability, the SBA project, timed past papers and a revision plan."
+description: "CSEC Additional Mathematics for parents and guardians supporting a teen: algebra, functions, vectors, trigonometry, calculus, statistics, the SBA, timed past papers and revision."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-additional-mathematics, cxc, csec, additional-mathematics, student, parent, educator, calculus, past-papers]
@@ -14,7 +14,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -24,17 +24,19 @@ starter_structure:
             - name: Add Maths syllabus and paper format check
               description: |-
                 ## Purpose
-                Additional Mathematics moves fast and CXC revises the syllabus from time to time, so the first hour should go on the current official document rather than a classmate's old notes. Reading the syllabus and the latest timetable tells you which sections are examined, how Paper 01, Paper 02 and the SBA fit together, and when the exam falls, which every later plan depends on.
+                Additional Mathematics moves fast and CXC revises the syllabus from time to time, so the first hour should go on the current official document rather than a classmate's old notes. Reading the syllabus and the latest timetable with your teen tells you both which sections are examined, how Paper 01, Paper 02 and the SBA fit together, and when the exam falls, which every later plan depends on.
 
                 ## Milestones
-                1. The current CSEC Additional Mathematics syllabus downloaded from the CXC website and saved where you study.
+                1. The current CSEC Additional Mathematics syllabus downloaded from the CXC website and saved where your teen studies.
                 2. Every section and its topics copied onto a one-page checklist in syllabus order.
                 3. The format of Paper 01, Paper 02, the SBA (Paper 031) and Paper 032 noted, taken only from the official document.
                 4. The calculator rules and any list of formulae supplied in the exam noted.
                 5. The Add Maths exam date from the current CXC timetable written on the family calendar.
 
                 ## Notes
-                If your school uses a textbook written for an older syllabus, mark any topics the current syllabus has added or dropped, so revision time is not spent on content that is no longer examined.
+                This plan is for a parent or guardian supporting a teenager through CSEC Additional Mathematics, and an older student can follow it with a parent's support.
+
+                If the school uses a textbook written for an older syllabus, mark any topics the current syllabus has added or dropped, so revision time is not spent on content that is no longer examined. Confirm with the school which sitting your teen is entered for.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -44,14 +46,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Download the current CSEC Additional Mathematics syllabus from the CXC website"
+                - "Together, download the current CSEC Additional Mathematics syllabus from the CXC website"
                 - "Note the Paper 01, Paper 02, Paper 031 and Paper 032 format from the syllabus"
                 - "List every topic on one page under its syllabus section"
                 - "Check the current CXC timetable and note the Add Maths exam date"
             - name: Readiness diagnostic on the algebra Add Maths needs
               description: |-
                 ## Purpose
-                Most Add Maths marks are lost not on the new ideas but on the algebra underneath them: expanding brackets, factorising, changing the subject, indices and fractions with letters. A short diagnostic in the first fortnight shows which of these skills are shaky, so they get fixed before calculus and logarithms lean on them.
+                Most Add Maths marks are lost not on the new ideas but on the algebra underneath them: expanding brackets, factorising, changing the subject, indices and fractions with letters. A short diagnostic in the first fortnight shows which of these skills are shaky for your teen, so they get fixed before calculus and logarithms lean on them.
 
                 ## Milestones
                 1. A one-hour diagnostic of about twenty CSEC Mathematics algebra, graph and trigonometry questions sat without help.
@@ -60,7 +62,7 @@ starter_structure:
                 4. A two-week repair plan for those skills agreed with the teacher or tutor.
 
                 ## Notes
-                Use CSEC Mathematics past-paper questions for this, not Add Maths ones. The point is to test the floor you are building on, not the new course.
+                Use CSEC Mathematics past-paper questions for this, not Add Maths ones. The point is to test the floor your teen is building on, not the new course.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -73,11 +75,11 @@ starter_structure:
                 - "Pick twenty CSEC Mathematics algebra, graph and trigonometry questions from past papers"
                 - "Sit them in one hour with no notes and no help"
                 - "Mark the answers and total the score for each skill"
-                - "Agree a two-week repair plan for the three weakest skills with your teacher"
+                - "Encourage your teen to agree a two-week repair plan for the three weakest skills with the teacher"
             - name: Choosing an exam-approved scientific calculator
               description: |-
                 ## Purpose
-                Add Maths needs a calculator that handles logarithms, radians, fractions and statistics quickly, and it must meet CXC's rules for what is allowed in the exam room. Buying the right model early and learning it from Form 4 saves minutes in every paper and avoids a panic when an invigilator turns a calculator away.
+                Add Maths needs a calculator that handles logarithms, radians, fractions and statistics quickly, and it must meet CXC's rules for what is allowed in the exam room. Buying the right model early, and making sure the calculator your teen practises with is the one going into the exam, saves minutes in every paper and avoids a panic when an invigilator turns a calculator away.
 
                 ## Milestones
                 1. CXC's current rules on permitted calculators read and noted.
@@ -86,31 +88,31 @@ starter_structure:
                 4. Degree and radian mode, the log and ln keys, fraction entry and the statistics mode each practised on a worked example.
 
                 ## Notes
-                Start from the **Purchase decision** template. Use the same calculator for homework, mocks and the exam, so the key presses become automatic.
+                Start from the **Purchase decision** template. Your teen should use the same calculator for homework, mocks and the exam, so the key presses become automatic.
               priority: medium
               deadlineOffsetDays: 21
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A calculator that meets the current CXC rules is in the student's bag, and its radian, log, fraction and statistics functions have each been used on a worked example."
+                success_criteria: "A calculator that meets the current CXC rules is in your teen's bag, and its radian, log, fraction and statistics functions have each been used on a worked example."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
                 - "Read CXC's current rules on calculators permitted in the exam room"
                 - "Compare two or three non-programmable scientific models and their prices"
-                - "Buy or borrow the calculator you chose and label it with your name"
-                - "Practise switching between degree and radian mode on a trig example"
+                - "Buy or borrow the chosen calculator and label it with your teen's name"
+                - "Ask them to show you switching between degree and radian mode on a trig example"
             - name: Add Maths study timetable counted back from the sitting
               description: |-
                 ## Purpose
-                Add Maths shares the week with CSEC Mathematics, the sciences and SBAs in other subjects, so it needs fixed slots rather than whatever time is left. Counting back from the exam date gives each syllabus section its weeks, leaves room for the SBA and the mock, and protects the final eight weeks for past papers.
+                Add Maths shares the week with CSEC Mathematics, the sciences and SBAs in other subjects, so it needs fixed slots rather than whatever time is left. Counting back from the exam date with your teen gives each syllabus section its weeks, leaves room for the SBA and the mock, and protects the final eight weeks for past papers.
 
                 ## Milestones
                 1. The exam date, SBA deadline and mock dates marked on one calendar.
                 2. Each syllabus section given a block of weeks that matches the school's teaching order.
                 3. Four fixed weekly Add Maths study slots chosen around school, lessons and chores.
                 4. The final eight weeks kept clear for timed papers and revision.
-                5. The timetable printed and posted where the student and parent can both see it.
+                5. The timetable printed and posted where your teen and you can both see it.
               priority: high
               deadlineOffsetDays: 10
               frontmatter:
@@ -123,11 +125,11 @@ starter_structure:
                 - "Ask the teacher for the school's teaching order and SBA deadline"
                 - "Mark the exam, the SBA deadline and the mock on one calendar"
                 - "Give each syllabus section its block of weeks"
-                - "Choose four fixed weekly study slots and print the timetable"
+                - "Agree four fixed weekly study slots with your teen and print the timetable"
             - name: Past paper and mark scheme bank by section
               description: |-
                 ## Purpose
-                Past papers are the closest thing to the real exam, but a folder of unsorted downloads gets used badly. Sorting them by year and tagging each Paper 02 question by syllabus section means a student can pull ten vector or calculus questions in seconds, and still save complete papers for timed practice later.
+                Past papers are the closest thing to the real exam, but a folder of unsorted downloads gets used badly. Sorting them by year and tagging each Paper 02 question by syllabus section means your teen can pull ten vector or calculus questions in seconds, and still save complete papers for timed practice later. Buying missing papers and keeping the folder in order is a practical job a parent can take on.
 
                 ## Milestones
                 1. Official past papers for at least the last five years collected from the CXC store, the school or the teacher.
@@ -153,7 +155,7 @@ starter_structure:
             - name: Handwritten formula and identity sheet
               description: |-
                 ## Purpose
-                A small set of formulas carries most of Add Maths: the quadratic formula, the laws of logarithms, the sums of progressions, the trig identities and the derivative and integral rules. Writing them out by hand, section by section, and checking which ones the exam supplies, turns them from something you look up into something you use without stopping.
+                A small set of formulas carries most of Add Maths: the quadratic formula, the laws of logarithms, the sums of progressions, the trig identities and the derivative and integral rules. Writing them out by hand, section by section, and checking which ones the exam supplies, turns them from something your teen looks up into something they use without stopping.
 
                 ## Milestones
                 1. The list of formulae supplied with the exam, if any, compared against the syllabus.
@@ -164,18 +166,18 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A one-page handwritten sheet holds every formula the exam does not supply, and the student can write it out from memory with no more than two errors."
+                success_criteria: "A one-page handwritten sheet holds every formula the exam does not supply, and your teen can write it out from memory with no more than two errors."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
                 - "Check which formulas the exam paper supplies and which it does not"
-                - "Write the formulas you must memorise on one page, grouped by section"
+                - "Write the formulas that must be memorised on one page, grouped by section"
                 - "Add a short worked example under each formula"
                 - "Write the sheet out from memory and correct it @recurring(weekly:mon)"
             - name: Add Maths error log notebook
               description: |-
                 ## Purpose
-                Students who improve fastest in Add Maths keep a record of every mistake and why it happened, because the same few errors repeat: a lost negative sign, a calculator left in the wrong mode, a constant forgotten after integrating. A dedicated notebook turns each marked piece of work into a list of habits to fix.
+                Students who improve fastest in Add Maths keep a record of every mistake and why it happened, because the same few errors repeat: a lost negative sign, a calculator left in the wrong mode, a constant forgotten after integrating. A dedicated notebook turns each marked piece of work into a list of habits to fix, and the inside cover tells you at a glance what your teen is working on.
 
                 ## Milestones
                 1. A notebook set up with columns for date, question source, the error, its cause and the corrected working.
@@ -196,7 +198,7 @@ starter_structure:
                 - "Rule a notebook with columns for source, error, cause and correction"
                 - "Log every wrong answer from this week's homework with its cause"
                 - "Group the causes under algebra slip, misread, wrong method or calculator"
-                - "Write your two most common causes inside the front cover"
+                - "Write the two most common causes inside the front cover"
             - name: Home study desk and graph paper kit
               description: |-
                 ## Purpose
@@ -225,7 +227,7 @@ starter_structure:
             - name: Daily twenty-minute algebra fluency session
               description: |-
                 ## Purpose
-                Fast, accurate algebra is the engine of every Add Maths topic, and it is built by short daily practice far better than by one long weekend session. Twenty minutes of expanding, factorising, simplifying and solving each school day keeps the skill warm while the course moves on to new sections.
+                Fast, accurate algebra is the engine of every Add Maths topic, and it is built by short daily practice far better than by one long weekend session. Twenty minutes of expanding, factorising, simplifying and solving each school day keeps the skill warm while the course moves on to new sections. Help your teen protect the slot; the tracker shows you whether it is happening.
 
                 ## Milestones
                 1. A bank of short algebra exercises gathered from the textbook and CSEC Mathematics past papers.
@@ -249,7 +251,7 @@ starter_structure:
             - name: Weekly problem set from the current section
               description: |-
                 ## Purpose
-                Class examples show a method once, while exam questions twist it. Working a set of eight to ten mixed-difficulty questions each week from whatever section the class is on makes sure every new method is practised beyond the easy examples while the lesson is still fresh.
+                Class examples show a method once, while exam questions twist it. Working a set of eight to ten mixed-difficulty questions each week from whatever section the class is on makes sure every new method is practised beyond the easy examples while the lesson is still fresh. Asking whether the unsolved questions went to the teacher is a simple weekly check.
 
                 ## Milestones
                 1. A weekly set drawn from the textbook exercise and past-paper questions on the current section.
@@ -270,7 +272,7 @@ starter_structure:
             - name: Saturday timed Paper 02 question
               description: |-
                 ## Purpose
-                Knowing a method and producing it under time are different skills, and Paper 02 rewards the second. One full Paper 02 question every Saturday, timed and then marked against the official scheme, builds pace and shows how marks are really awarded for working.
+                Knowing a method and producing it under time are different skills, and Paper 02 rewards the second. One full Paper 02 question every Saturday, timed and then marked against the official scheme, builds pace and shows how marks are really awarded for working. Offer to keep the time so your teen can concentrate on the question.
 
                 ## Milestones
                 1. A rough time allowance per question worked out from the current paper format.
@@ -291,7 +293,7 @@ starter_structure:
             - name: Sunday error log review
               description: |-
                 ## Purpose
-                An error log only pays off if it is read. A short Sunday review of the week's mistakes, redoing each one without looking at the correction, catches repeating habits like dropped brackets or a calculator left in degrees before they cost marks in the mock.
+                An error log only pays off if it is read. A short Sunday review of the week's mistakes, redoing each one without looking at the correction, catches repeating habits like dropped brackets or a calculator left in degrees before they cost marks in the mock. Let your teen lead it; your part is to ask which error keeps coming back.
 
                 ## Milestones
                 1. Every entry from the past week redone from a blank page.
@@ -333,7 +335,7 @@ starter_structure:
             - name: Spaced review rotation of finished sections
               description: |-
                 ## Purpose
-                By the time a class reaches calculus, the logarithms and progressions from Form 4 have often faded. A simple rotation that brings back three questions from an older section every week keeps the whole syllabus warm, so the final weeks are revision rather than relearning.
+                By the time a class reaches calculus, the logarithms and progressions from Form 4 have often faded. A simple rotation that brings back three questions from an older section every week keeps the whole syllabus warm, so the final weeks are revision rather than relearning. Ask your teen which section came round this week and how the redo went.
 
                 ## Milestones
                 1. A list of finished sections in the order they were taught.
@@ -354,7 +356,7 @@ starter_structure:
             - name: Past paper score log by section
               description: |-
                 ## Purpose
-                Overall percentages hide where marks are really lost. Logging every timed attempt by section shows whether the gap is in trigonometry, calculus or statistics, and gives the student, parent and teacher one shared picture of progress toward the target grade.
+                Overall percentages hide where marks are really lost. Logging every timed attempt by section shows whether the gap is in trigonometry, calculus or statistics, and gives your teen, you and the teacher one shared picture of progress toward the target grade.
 
                 ## Milestones
                 1. A log set up with a row per attempt and a column per syllabus section.
@@ -381,7 +383,7 @@ starter_structure:
                 A parent does not need to follow the mathematics to keep an Add Maths student on track. Ten minutes on a Friday looking at the timetable, the score log and the error log shows whether the work is being done, and catches a slide early enough to arrange help.
 
                 ## Milestones
-                1. A regular Friday time agreed with the student for a ten-minute check-in.
+                1. A regular Friday time agreed with your teen for a ten-minute check-in.
                 2. Three standing questions used each week: what was done, what went wrong, what help is needed.
                 3. Any request for help passed to the teacher or tutor within a week.
                 4. A monthly look at the score log together, ending on one improvement noticed.
@@ -395,14 +397,14 @@ starter_structure:
                 success_criteria: "Weekly Friday check-ins happen for a full term, and any help requested is passed to the teacher or tutor within a week."
                 cadence: rolling
               tasks:
-                - "Agree a Friday time for the check-in with your child"
+                - "Agree a Friday time for the check-in with your teen"
                 - "Ask what was done, what went wrong and what help is needed @recurring(weekly:fri)"
                 - "Look at the score log together and name one improvement @recurring(monthly:28)"
                 - "Message the teacher or tutor about any request for help"
             - name: Polynomials and the remainder and factor theorems
               description: |-
                 ## Purpose
-                The algebra section opens with polynomials: adding, multiplying and dividing them, then using the remainder and factor theorems to find unknown coefficients and factorise cubics. These questions appear reliably and reward a tidy method, so securing them early buys dependable marks.
+                The algebra section opens with polynomials: adding, multiplying and dividing them, then using the remainder and factor theorems to find unknown coefficients and factorise cubics. These questions appear reliably and reward a tidy method, so securing them early buys dependable marks. A strong start here is a good sign to look for in the first score log entries.
 
                 ## Milestones
                 1. Long division of a cubic by a linear factor carried out without errors.
@@ -425,13 +427,13 @@ starter_structure:
             - name: Quadratics, completing the square and inequalities
               description: |-
                 ## Purpose
-                Quadratic work in Add Maths goes well beyond solving: completing the square to find a maximum or minimum, using the discriminant to describe the roots, working with the sum and product of roots where your syllabus includes it, and solving quadratic inequalities. A quick sketch of the parabola is the tool that ties these together.
+                Quadratic work in Add Maths goes well beyond solving: completing the square to find a maximum or minimum, using the discriminant to describe the roots, working with the sum and product of roots where the syllabus includes it, and solving quadratic inequalities. A quick sketch of the parabola is the tool that ties these together, and asking whether the sketch came first is a check you can make.
 
                 ## Milestones
                 1. Any quadratic written in completed square form with its turning point stated.
                 2. The discriminant used to decide whether roots are real and equal, real and distinct, or not real.
                 3. Quadratic inequalities solved with a sketch and the answer given as a range.
-                4. Questions on the sum and product of roots worked, if your syllabus includes them.
+                4. Questions on the sum and product of roots worked, if the syllabus includes them.
                 5. Six past-paper quadratic questions completed and marked.
               priority: medium
               frontmatter:
@@ -448,7 +450,7 @@ starter_structure:
             - name: Simultaneous equations with a line and a curve
               description: |-
                 ## Purpose
-                A line meeting a curve or a circle is a favourite Add Maths question, and it combines substitution, quadratic solving and careful pairing of answers. Practising the full routine, including stating both points of intersection clearly, prevents the common loss of marks for mismatched x and y values.
+                A line meeting a curve or a circle is a favourite Add Maths question, and it combines substitution, quadratic solving and careful pairing of answers. Practising the full routine, including stating both points of intersection clearly, prevents the common loss of marks for mismatched x and y values. Short sessions spread over a fortnight suit this topic well.
 
                 ## Milestones
                 1. The substitution method used on a line and a quadratic curve.
@@ -470,7 +472,7 @@ starter_structure:
             - name: Surds, indices and rationalising denominators
               description: |-
                 ## Purpose
-                Exact answers in surd form turn up throughout Add Maths, from trigonometry to coordinate geometry, and examiners expect them simplified. Securing the laws of indices and surds, including rationalising a denominator with its conjugate, removes a whole class of small slips that cost marks in later topics.
+                Exact answers in surd form turn up throughout Add Maths, from trigonometry to coordinate geometry, and examiners expect them simplified. Securing the laws of indices and surds, including rationalising a denominator with its conjugate, removes a whole class of small slips that cost marks in later topics. If these slips keep showing up in the error log, it is worth raising with the teacher.
 
                 ## Milestones
                 1. Surds simplified to their simplest form without a calculator.
@@ -492,13 +494,13 @@ starter_structure:
             - name: Logarithms, exponential equations and linear reduction
               description: |-
                 ## Purpose
-                Logarithms trip many students because the laws look simple but combine in awkward ways. Practising the laws, solving exponential equations, and using logs to turn a curved relationship into a straight-line graph where your syllabus includes it, covers the questions that come back year after year.
+                Logarithms trip many students because the laws look simple but combine in awkward ways. Practising the laws, solving exponential equations, and using logs to turn a curved relationship into a straight-line graph where the syllabus includes it, covers the questions that come back year after year. Reassure your teen that logarithms often click only after a few weeks of practice.
 
                 ## Milestones
                 1. The laws of logarithms and the change of base rule used without the formula sheet.
                 2. Exponential equations solved by taking logs of both sides.
                 3. Equations that become quadratics in an exponential term solved.
-                4. A relationship reduced to linear form and its constants found from a straight-line graph, if your syllabus includes it.
+                4. A relationship reduced to linear form and its constants found from a straight-line graph, if the syllabus includes it.
                 5. Six past-paper logarithm questions completed and marked.
               priority: medium
               frontmatter:
@@ -515,7 +517,7 @@ starter_structure:
             - name: Functions, composites and inverses
               description: |-
                 ## Purpose
-                Function notation is the language the rest of the course is written in, and questions on domain, range, composite and inverse functions test whether a student can read it precisely. Sketching a function and its inverse as reflections in the line y equals x also pays off later in logarithms and calculus.
+                Function notation is the language the rest of the course is written in, and questions on domain, range, composite and inverse functions test whether a student can read it precisely. Sketching a function and its inverse as reflections in the line y equals x also pays off later in logarithms and calculus. Ask your teen to explain why fg and gf differ; explaining aloud shows how secure the idea is.
 
                 ## Milestones
                 1. Domain and range stated for given functions, including values that must be excluded.
@@ -538,7 +540,7 @@ starter_structure:
             - name: Arithmetic and geometric progressions
               description: |-
                 ## Purpose
-                Sequences and series questions follow a small number of patterns: find a term, find a sum, find the first term and the common difference or ratio from two facts, and find a sum to infinity when the ratio allows it. Turning the words into two equations is where most of the marks lie, so that setup deserves the practice.
+                Sequences and series questions follow a small number of patterns: find a term, find a sum, find the first term and the common difference or ratio from two facts, and find a sum to infinity when the ratio allows it. Turning the words into two equations is where most of the marks lie, so that setup deserves the practice. A savings example from family life makes a good word problem to try together.
 
                 ## Milestones
                 1. The nth term and sum formulas for both progressions used without the sheet.
@@ -561,7 +563,7 @@ starter_structure:
             - name: Coordinate geometry of lines and circles
               description: |-
                 ## Purpose
-                The coordinate geometry section links algebra to pictures: gradients, midpoints, perpendicular lines and the equation of a circle. Questions often ask for a tangent to a circle or where a line meets it, and a quick sketch catches most sign errors before they happen.
+                The coordinate geometry section links algebra to pictures: gradients, midpoints, perpendicular lines and the equation of a circle. Questions often ask for a tangent to a circle or where a line meets it, and a quick sketch catches most sign errors before they happen. Keep graph paper stocked for this block.
 
                 ## Milestones
                 1. Equations of lines found from a point and a gradient, including perpendicular lines.
@@ -590,7 +592,7 @@ starter_structure:
                 1. Vectors written in column form and in i, j form, and converted between them.
                 2. Magnitudes and unit vectors found.
                 3. The vector between two points found as the difference of their position vectors.
-                4. The angle between two vectors found with the scalar product, if your syllabus includes it.
+                4. The angle between two vectors found with the scalar product, if the syllabus includes it.
                 5. Six past-paper vector questions completed and marked.
               priority: medium
               frontmatter:
@@ -607,7 +609,7 @@ starter_structure:
             - name: Radian measure, arc length and sector area
               description: |-
                 ## Purpose
-                Radians are new to most CSEC students and they matter beyond this topic, because calculus with trigonometric functions only works in radians. Converting confidently, then using the arc length and sector area formulas in composite shapes, gives steady marks and prepares the ground for trigonometry and calculus.
+                Radians are new to most CSEC students and they matter beyond this topic, because calculus with trigonometric functions only works in radians. Converting confidently, then using the arc length and sector area formulas in composite shapes, gives steady marks and prepares the ground for trigonometry and calculus. A reminder to check the calculator mode is a small thing a parent can offer before each session.
 
                 ## Milestones
                 1. Common angles converted between degrees and radians without a calculator.
@@ -652,7 +654,7 @@ starter_structure:
             - name: Trigonometric identities and compound angles
               description: |-
                 ## Purpose
-                Proving identities is a skill of its own: start from the more complicated side, rewrite in sine and cosine, and move one step at a time. Practising proofs alongside the compound angle formulas and the other identities the syllabus lists gives students a reliable routine instead of guessing at substitutions.
+                Proving identities is a skill of its own: start from the more complicated side, rewrite in sine and cosine, and move one step at a time. Practising proofs alongside the compound angle formulas and the other identities the syllabus lists gives your teen a reliable routine instead of guessing at substitutions.
 
                 ## Milestones
                 1. The Pythagorean identity and its rearranged forms used without the sheet.
@@ -674,10 +676,10 @@ starter_structure:
             - name: Differentiation rules and techniques
               description: |-
                 ## Purpose
-                Calculus is the section most students fear and one that carries marks across the paper. Starting with the derivative as a gradient, then practising the chain, product and quotient rules and the derivatives of sine and cosine until each is automatic, makes the applications that follow far easier.
+                Calculus is the section most students fear and one that carries marks across the paper. Starting with the derivative as a gradient, then practising the chain, product and quotient rules and the derivatives of sine and cosine until each is automatic, makes the applications that follow far easier. If your teen is anxious about calculus, steady short practice and a calm word help more than extra pressure.
 
                 ## Milestones
-                1. The derivative explained as a gradient function, with a first principles example if your syllabus includes it.
+                1. The derivative explained as a gradient function, with a first principles example if the syllabus includes it.
                 2. Polynomials and powers of x, including negative and fractional powers, differentiated accurately.
                 3. The chain, product and quotient rules each used on five questions.
                 4. Sine and cosine functions differentiated, with angles in radians.
@@ -697,7 +699,7 @@ starter_structure:
             - name: Tangents, normals, stationary points and rates of change
               description: |-
                 ## Purpose
-                Once the rules are secure, the exam asks what the derivative tells you: the equation of a tangent or normal, where a curve turns and whether that point is a maximum or minimum, and how fast one quantity changes with another. Each has a short routine that can be practised until it runs without thinking.
+                Once the rules are secure, the exam asks what the derivative tells the candidate: the equation of a tangent or normal, where a curve turns and whether that point is a maximum or minimum, and how fast one quantity changes with another. Each has a short routine that can be practised until it runs without thinking. A real example, such as the largest garden you could fence with a fixed length, makes a good one to talk through together.
 
                 ## Milestones
                 1. Equations of tangents and normals found at given points.
@@ -743,7 +745,7 @@ starter_structure:
             - name: Data representation and summary statistics
               description: |-
                 ## Purpose
-                Statistics in Add Maths asks for more than averages: stem and leaf diagrams, box and whisker plots, quartiles and measures of spread such as standard deviation, then a sentence comparing two sets of data. That written comparison is where marks are often dropped, so practise saying what the numbers mean.
+                Statistics in Add Maths asks for more than averages: stem and leaf diagrams, box and whisker plots, quartiles and measures of spread such as standard deviation, then a sentence comparing two sets of data. That written comparison is where marks are often dropped, so encourage your teen to practise saying what the numbers mean. You can help by reading their comparison and asking whether it would make sense to someone outside the class.
 
                 ## Milestones
                 1. Stem and leaf and box and whisker diagrams drawn from raw data.
@@ -765,13 +767,13 @@ starter_structure:
             - name: Probability rules, Venn and tree diagrams
               description: |-
                 ## Purpose
-                Probability questions are short but unforgiving, because one misread phrase such as with or without replacement changes the whole answer. Working through sample spaces, Venn diagrams, the addition and multiplication rules and conditional probability where your syllabus includes it, always drawing the diagram first, makes these reliable marks.
+                Probability questions are short but unforgiving, because one misread phrase such as with or without replacement changes the whole answer. Working through sample spaces, Venn diagrams, the addition and multiplication rules and conditional probability where the syllabus includes it, always drawing the diagram first, makes these reliable marks.
 
                 ## Milestones
                 1. Sample spaces listed or tabulated for two-stage experiments.
                 2. Mutually exclusive and independent events told apart and the right rule used for each.
                 3. Venn and tree diagrams drawn for questions with and without replacement.
-                4. Conditional probability questions worked, if your syllabus includes them.
+                4. Conditional probability questions worked, if the syllabus includes them.
                 5. Six past-paper probability questions completed and marked.
               priority: low
               frontmatter:
@@ -788,7 +790,7 @@ starter_structure:
             - name: Add Maths SBA project choice and proposal
               description: |-
                 ## Purpose
-                The Add Maths SBA is a project that applies the course to a real problem, and choosing a topic that is neither too thin nor too ambitious shapes everything after it. Read the current SBA guidelines and assessment criteria first, confirm which kind of project your school runs, then pick a problem you can model or collect data for properly in the time allowed.
+                The Add Maths SBA is a project that applies the course to a real problem, and choosing a topic that is neither too thin nor too ambitious shapes everything after it. Your teen should read the current SBA guidelines and assessment criteria first, confirm which kind of project the school runs, then pick a problem they can model or collect data for properly in the time allowed. The choice should be theirs; your part is to ask whether it is realistic.
 
                 ## Milestones
                 1. The SBA guidelines and assessment criteria in the current syllabus read and summarised on one page.
@@ -810,11 +812,11 @@ starter_structure:
                 - "Read the SBA section of the current syllabus, including the assessment criteria"
                 - "Ask the teacher which project type the school uses this year"
                 - "List three topics with the mathematics and data each would need"
-                - "Write a one-page proposal and submit it for approval"
+                - "Check the one-page proposal is written and submitted for approval"
             - name: Add Maths SBA data, method and first draft
               description: |-
                 ## Purpose
-                Once the proposal is approved, the SBA moves from an idea to evidence: data collected or a model built, calculations done and shown, and a first draft written against the assessment criteria. Getting a full draft to the teacher well before the deadline leaves time to act on feedback instead of rushing.
+                Once the proposal is approved, the SBA moves from an idea to evidence: data collected or a model built, calculations done and shown, and a first draft written against the assessment criteria. Getting a full draft to the teacher well before the deadline leaves time to act on feedback instead of rushing. You can help with practical things such as printing and getting to a data source, but the work must stay your teen's own.
 
                 ## Milestones
                 1. Data collected or the model set up as the proposal describes, with the method recorded.
@@ -840,7 +842,7 @@ starter_structure:
             - name: Add Maths SBA final write-up and submission
               description: |-
                 ## Purpose
-                Teacher feedback on the draft is the most useful guidance the SBA will get, but only if every point is acted on. Working through the comments one by one, checking the presentation against the criteria and submitting before the deadline secures marks that do not depend on exam-day nerves.
+                Teacher feedback on the draft is the most useful guidance the SBA will get, but only if every point is acted on. Working through the comments one by one, checking the presentation against the criteria and submitting before the deadline secures marks that do not depend on exam-day nerves. Ask to see the list of comments ticked off before the final version goes in.
 
                 ## Milestones
                 1. Every teacher comment on the draft listed and marked as done.
@@ -880,12 +882,12 @@ starter_structure:
               tasks:
                 - "Find the CXC subject reports for the last three Add Maths sittings"
                 - "Read one report section and note its common errors @recurring(monthly:8)"
-                - "Mark one of your own past answers as an examiner would, method marks first"
+                - "Mark one past answer as an examiner would, method marks first"
                 - "Ask the agent to gather the repeated warnings into one page"
             - name: Paper 02 timing and question order plan
               description: |-
                 ## Purpose
-                Paper 02 is long and mixes shorter and extended questions, and students who start at question one and push on regardless often run out of time before the sections they are best at. A tested plan for timing, question order and any choice of questions the paper offers turns the exam into a routine already rehearsed.
+                Paper 02 is long and mixes shorter and extended questions, and students who start at question one and push on regardless often run out of time before the sections they are best at. A tested plan for timing, question order and any choice of questions the paper offers turns the exam into a routine already rehearsed. Ask your teen to talk you through the plan once it is written.
 
                 ## Milestones
                 1. Time per question worked out from the current paper format and the marks shown.
@@ -907,7 +909,7 @@ starter_structure:
             - name: Weak section repair after each full paper
               description: |-
                 ## Purpose
-                Every full paper shows one or two sections that drag the score down. A short repair cycle after each one, back to the notes, five targeted questions and a retest a week later, stops the same weakness from appearing in the mock and the exam.
+                Every full paper shows one or two sections that drag the score down. A short repair cycle after each one, back to the notes, five targeted questions and a retest a week later, stops the same weakness from appearing in the mock and the exam. Asking which section is being repaired this month keeps you informed without hovering.
 
                 ## Milestones
                 1. The weakest section identified from the score log after each full paper.
@@ -928,7 +930,7 @@ starter_structure:
             - name: School mock Add Maths exam
               description: |-
                 ## Purpose
-                Your school mock is the only full rehearsal under exam-room conditions before the real thing, and its results usually go to teachers and parents. Preparing for it like the real exam, then reviewing it mark by mark, gives the most accurate picture of where the last months should go.
+                Mock exams at school are the only full rehearsal under exam-room conditions before the real thing, and their results usually go to teachers and parents. Preparing for the mock like the real exam, then reviewing it mark by mark, gives the most accurate picture of where the last months should go. Respond to the result calmly; what matters is the revised plan that follows.
 
                 ## Milestones
                 1. Mock dates and the papers to be set confirmed with the school.
@@ -947,12 +949,12 @@ starter_structure:
               tasks:
                 - "Confirm the mock dates and which papers will be set"
                 - "Revise the mock sections for two weeks using the score log"
-                - "Sit the mock with your exam calculator and kit"
+                - "Sit the mock with the exam calculator and kit"
                 - "Review every lost mark and agree a revised plan with the teacher"
             - name: Final eight weeks Add Maths revision plan
               description: |-
                 ## Purpose
-                Eight weeks before the exam, revision should shift to full papers and the weakest sections, not new notes. A fixed weekly pattern of timed paper sessions, targeted repair and formula recall, set against the exam timetable, keeps revision steady while other CSEC subjects compete for the same evenings.
+                Eight weeks before the exam, revision should shift to full papers and the weakest sections, not new notes. A fixed weekly pattern of timed paper sessions, targeted repair and formula recall, set against the exam timetable, keeps revision steady while other CSEC subjects compete for the same evenings. Helping your teen fit every subject onto one shared timetable is one of the most useful things you can do now.
 
                 ## Milestones
                 1. A week-by-week plan from eight weeks out, with two timed paper sessions each week.
@@ -971,11 +973,11 @@ starter_structure:
                 - "Draft a week-by-week plan starting eight weeks before the exam"
                 - "Sit a timed past paper section under exam conditions @recurring(weekly:mon,thu)"
                 - "Give the three weakest sections from the score log an extra slot each"
-                - "Fit Add Maths into one shared timetable with your other subjects"
+                - "Fit Add Maths into one shared timetable with your teen's other subjects"
             - name: Last full past paper under exam conditions
               description: |-
                 ## Purpose
-                Two to three weeks before the exam, one full Paper 01 and Paper 02 sat in a single session at exam timing, with no notes and the real calculator, is the final check on pace and stamina. It uses one of the papers held back from the bank, so the questions are genuinely unseen.
+                Two to three weeks before the exam, one full Paper 01 and Paper 02 sat in a single session at exam timing, with no notes and the real calculator, is the final check on pace and stamina. It uses one of the papers held back from the bank, so the questions are genuinely unseen. Keeping the house quiet that morning is your part.
 
                 ## Milestones
                 1. One of the held-back recent papers chosen and its mark scheme kept out of sight.
@@ -998,7 +1000,7 @@ starter_structure:
             - name: Add Maths exam days and the night before
               description: |-
                 ## Purpose
-                Small things go wrong on exam mornings: a flat calculator battery, a candidate number left at home, a late taxi. A checklist prepared a week ahead, a calm last evening of light formula recall and a rehearsed plan for reading the paper and choosing where to start protect the marks the preparation has earned.
+                Small things go wrong on exam mornings: a flat calculator battery, a candidate number left at home, a late taxi. A checklist prepared a week ahead, a calm last evening of light formula recall and a rehearsed plan for reading the paper and choosing where to start protect the marks the preparation has earned. Offer to own the transport and the backup so your teen can think only about the paper.
 
                 ## Milestones
                 1. The exam dates, times and centre confirmed from the official timetable and candidate slip.
@@ -1007,13 +1009,13 @@ starter_structure:
                 4. An opening routine practised: scan the paper, choose the starting section, begin.
 
                 ## Notes
-                Do not start new topics the night before. Write out the formula sheet once, sleep, and trust the papers already done.
+                No new topics the night before. One run through the formula sheet, a good sleep, and trust in the papers already done.
               priority: high
               deadlineOffsetDays: 240
               frontmatter:
                 mode: event
                 output_kind: event-completion
-                success_criteria: "The student arrives early for both Add Maths papers with a checked kit and candidate details, following a rehearsed opening routine."
+                success_criteria: "Your teen arrives early for both Add Maths papers with a checked kit and candidate details, following a rehearsed opening routine."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
@@ -1024,35 +1026,35 @@ starter_structure:
             - name: Deciding whether to take Add Maths in Form 4
               description: |-
                 ## Purpose
-                Students choosing CSEC subjects at the end of Form 3 often hear that Add Maths is only for future engineers, or that it is too risky to attempt. A short, honest decision based on current maths results, the courses being considered after school and the weekly workload gives the student and parent a choice they can stand behind.
+                Students choosing CSEC subjects at the end of Form 3 often hear that Add Maths is only for future engineers, or that it is too risky to attempt. A short, honest decision based on current maths results, the courses being considered after school and the weekly workload gives you and your teen a choice you can both stand behind.
 
                 ## Milestones
                 1. Recent maths grades and the maths teacher's view gathered.
                 2. Sixth-form subjects and university courses being considered checked for whether Add Maths helps.
                 3. The extra weekly workload weighed against the full subject list.
-                4. A decision recorded by the student and parent, with the reasons.
+                4. A decision recorded by your teen and you, with the reasons.
               priority: medium
               deadlineOffsetDays: 30
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A written decision on taking Add Maths, with the teacher's view, course requirements checked and the reasons, is agreed by student and parent."
+                success_criteria: "A written decision on taking Add Maths, with the teacher's view, course requirements checked and the reasons, is agreed by your teen and you."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask the maths teacher whether Add Maths suits the student's current work"
+                - "Ask the maths teacher whether Add Maths suits your teen's current work"
                 - "Check entry requirements for the sixth-form subjects and courses being considered"
                 - "List the full subject choice and estimate the weekly homework load"
                 - "Write down the decision and the reasons together"
             - name: Choosing an Add Maths lessons class or tutor
               description: |-
                 ## Purpose
-                Extra lessons are common for Add Maths, but a class that only drills past papers will not help a student who never understood logarithms, and a tutor who is unsure of calculus will not stretch a strong student. Choosing on fit, using the diagnostic and the score log, makes the money and the evenings count.
+                Extra lessons are common for Add Maths, but a class that only drills past papers will not help a teen who never understood logarithms, and a tutor who is unsure of calculus will not stretch a strong student. Choosing on fit, using the diagnostic and the score log, makes the money and the evenings count.
 
                 ## Milestones
                 1. The help needed defined from the diagnostic and score log: reteaching, practice or extension.
                 2. Two or three classes or tutors compared on Add Maths experience, group size, cost and travel.
-                3. A trial session attended and the student's view recorded.
+                3. A trial session attended and your teen's view recorded.
                 4. One option chosen with a review point after six weeks.
 
                 ## Notes
@@ -1068,15 +1070,15 @@ starter_structure:
               tasks:
                 - "Write down the help needed using the diagnostic and score log"
                 - "Compare two or three lessons classes or tutors on experience, cost and travel"
-                - "Book a trial session and ask the student for an honest view afterwards"
+                - "Book a trial session and ask your teen for an honest view afterwards"
                 - "Set a review date six weeks after lessons start"
             - name: Catching up after a late start or school transfer
               description: |-
                 ## Purpose
-                Some students join Add Maths partway through Form 4, transfer from a school that taught the sections in a different order, or return after illness. A catch-up plan built from the syllabus checklist and the class's current position closes the gap without dropping the work the class is doing now.
+                Some students join Add Maths partway through Form 4, transfer from a school that taught the sections in a different order, or return after illness. A catch-up plan built from the syllabus checklist and the class's current position closes the gap without dropping the work the class is doing now. Asking the teacher early for help with the plan is often the most useful step you can take.
 
                 ## Milestones
-                1. Sections already covered by the class compared with the student's own coverage.
+                1. Sections already covered by the class compared with your teen's own coverage.
                 2. Missed sections ranked by how much later topics depend on them.
                 3. A catch-up schedule of two extra sessions a week agreed with the teacher.
                 4. Each missed section finished with past-paper questions and ticked off.
@@ -1088,14 +1090,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "20"
               tasks:
-                - "Mark which sections the class has covered and which you have missed"
+                - "Mark which sections the class has covered and which your teen has missed"
                 - "Rank the missed sections, putting algebra and functions first"
-                - "Agree two extra catch-up sessions a week with the teacher"
+                - "Agree two extra catch-up sessions a week with your teen and the teacher"
                 - "Tick off each missed section after its past-paper questions"
             - name: Paper 032 route for private candidates
               description: |-
                 ## Purpose
-                Private candidates, including adults returning to study, sit Paper 032 instead of submitting an SBA through a school. Preparing for it means learning the same content without class deadlines, registering through the local registrar on time and practising the kind of task the alternative paper sets.
+                Private candidates, including adults returning to study and teenagers sitting outside a school, sit Paper 032 instead of submitting an SBA through a school. Preparing for it means learning the same content without class deadlines, registering through the local registrar on time and practising the kind of task the alternative paper sets. If your teen is sitting privately, the registration and deadlines are the part you are best placed to own.
 
                 ## Milestones
                 1. Registration through the local CXC registrar or Ministry of Education office completed before its deadline.
@@ -1117,7 +1119,7 @@ starter_structure:
             - name: Teacher SBA supervision and marking calendar
               description: |-
                 ## Purpose
-                Add Maths teachers supervise SBA projects for a whole class while still teaching the syllabus, and the work bunches up near the deadline if nothing is fixed early. A calendar of proposal, draft and final dates, with a standard feedback sheet and the moderation sample prepared in advance, keeps the class and the marking on schedule.
+                Add Maths teachers supervise SBA projects for a whole class while still teaching the syllabus, and the work bunches up near the deadline if nothing is fixed early. A calendar of proposal, draft and final dates, with a standard feedback sheet and the moderation sample prepared in advance, keeps the class and the marking on schedule. If the school has not shared SBA dates, ask the teacher whether such a calendar exists.
 
                 ## Milestones
                 1. Proposal, draft and submission dates set and shared with students and parents.
@@ -1138,7 +1140,7 @@ starter_structure:
             - name: Section-by-section question bank for a lessons class
               description: |-
                 ## Purpose
-                Lessons tutors and teachers running revision classes need questions graded by difficulty for each section, not just whole papers. A bank built from past papers and textbooks, tagged by section and level, makes it quick to set targeted work for a mixed group and to see which questions the class finds hardest.
+                Lessons tutors and teachers running revision classes need questions graded by difficulty for each section, not just whole papers. A bank built from past papers and textbooks, tagged by section and level, makes it quick to set targeted work for a mixed group and to see which questions the class finds hardest. If your teen attends a lessons class, this is a fair standard to share with the tutor.
 
                 ## Milestones
                 1. At least fifteen questions collected for every syllabus section.
@@ -1159,21 +1161,21 @@ starter_structure:
             - name: Challenge problems for a grade I
               description: |-
                 ## Purpose
-                Students aiming for a grade I, or planning sixth-form mathematics, need questions that combine sections and do not follow a template: a calculus question that needs logarithms, a vector question that needs trigonometry. Regular work on harder mixed problems builds the flexibility that the final parts of Paper 02 questions reward.
+                Students aiming for a grade I, or planning sixth-form mathematics, need questions that combine sections and do not follow a template: a calculus question that needs logarithms, a vector question that needs trigonometry. Regular work on harder mixed problems builds the flexibility that the final parts of Paper 02 questions reward. If your teen enjoys this, let them lead and simply protect the time.
 
                 ## Milestones
                 1. A set of harder mixed problems gathered from past papers, competition sources or the teacher.
                 2. One challenge problem attempted each week for at least twenty minutes without hints.
                 3. Solutions written up in full and compared with model answers.
-                4. A personal list of problem-solving moves that worked, reread before the exam.
+                4. A list of problem-solving moves that worked, kept by your teen and reread before the exam.
               priority: low
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Twelve challenge problems are attempted and written up in full, with a personal list of problem-solving moves kept for revision."
+                success_criteria: "Twelve challenge problems are attempted and written up in full, with a list of problem-solving moves kept for revision."
                 cadence: rolling
               tasks:
-                - "Ask the teacher for five harder mixed problems from past papers"
+                - "Encourage your teen to ask the teacher for five harder mixed problems from past papers"
                 - "Attempt one challenge problem for twenty minutes without hints @recurring(weekly:thu)"
                 - "Write up each solution in full and compare it with a model answer"
                 - "Keep a list of problem-solving moves that worked"
@@ -1181,6 +1183,6 @@ starter_structure:
 
 # CSEC Additional Mathematics
 
-This area is for a Form 4 or Form 5 student taking CSEC Additional Mathematics, usually alongside CSEC Mathematics, and for the parents, teachers and lessons tutors behind them. It opens with the foundations (the current syllabus, a readiness diagnostic, an approved calculator, a timetable and a sorted past paper bank), then the weekly practice machinery, then one project per topic in syllabus order from polynomials and logarithms through coordinate geometry, vectors and trigonometry to calculus, statistics and probability, each finishing on past-paper questions. After those come the SBA project, mark schemes and paper strategy, the mock and the final weeks, projects for parents, late starters, private candidates and teachers, and challenge work for students chasing a grade I.
+This area is for a parent or guardian supporting a Form 4 or Form 5 teen taking CSEC Additional Mathematics, usually alongside CSEC Mathematics, with projects to share with teachers and lessons tutors too. It opens with the foundations (the current syllabus, a readiness diagnostic, an approved calculator, a timetable and a sorted past paper bank), then the weekly practice machinery, then one project per topic in syllabus order from polynomials and logarithms through coordinate geometry, vectors and trigonometry to calculus, statistics and probability, each finishing on past-paper questions. After those come the SBA project, mark schemes and paper strategy, the mock and the final weeks, projects for parents, late starters, private candidates and teachers, and challenge work for a teen chasing a grade I.
 
-What repeats is a daily twenty-minute algebra session, a weekly problem set, a Saturday Paper 02 question, a Sunday error log review, a monthly multiple choice set and score summary, and a Friday parent check-in. The Habit tracker, Metrics log and Purchase decision templates pair with the projects that name them. Deadlines assume roughly eight months to the May to June sitting, so shift them once CXC publishes the timetable and your school sets its SBA dates. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a daily twenty-minute algebra session, a weekly problem set, a Saturday Paper 02 question, a Sunday error log review, a monthly multiple choice set and score summary, and a Friday parent check-in. The Habit tracker, Metrics log and Purchase decision templates pair with the projects that name them. Deadlines assume roughly eight months to the May to June sitting, so shift them once CXC publishes the timetable and the school sets its SBA dates. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
