@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.cape-caribbean-studies
 name: CAPE Caribbean Studies
-description: "A complete CAPE Caribbean Studies plan: the current syllabus and papers, Caribbean society and culture, issues in development, the research project from topic to submission, timed past papers, the mock and exam day."
+description: "A CAPE Caribbean Studies plan for parents and guardians supporting a sixth former: the syllabus and papers, society and culture, issues in development, the research project, timed past papers, the mock and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, cape-caribbean-studies, student, parent, educator, cxc, cape, caribbean-studies, internal-assessment]
@@ -16,7 +16,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -26,15 +26,17 @@ starter_structure:
             - name: Current CAPE Caribbean Studies syllabus and paper format check
               description: |-
                 ## Purpose
-                CAPE Caribbean Studies is a single-unit subject built on three modules: Caribbean Society and Culture, Issues in Caribbean Development, and Investigating the Caribbean Condition, which carries the research project. It is examined through a multiple-choice Paper 01, a written Paper 02, and either the internal assessment as Paper 031 or the alternative Paper 032 for private candidates. One evening with the current syllabus and the CXC timetable means every later project here is aimed at the exam you will actually sit.
+                CAPE Caribbean Studies is a single-unit subject built on three modules: Caribbean Society and Culture, Issues in Caribbean Development, and Investigating the Caribbean Condition, which carries the research project. It is examined through a multiple-choice Paper 01, a written Paper 02, and either the internal assessment as Paper 031 or the alternative Paper 032 for private candidates. One evening with the current syllabus and the CXC timetable, ideally side by side with your teen, means every later project here is aimed at the exam they will actually sit.
 
                 ## Milestones
                 1. The current CAPE Caribbean Studies syllabus downloaded from the CXC website and its edition year noted.
                 2. The format of Paper 01, Paper 02 and Paper 031 or 032 written on one page in the syllabus's own words.
                 3. The specific objectives of Modules 1, 2 and 3 listed in syllabus order, so each topic project here can be matched to one.
-                4. The May to June sitting confirmed with your school and the school's own research project deadlines noted.
+                4. The May to June sitting confirmed with the school and the school's own research project deadlines noted.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CAPE Caribbean Studies, and an older student can follow it with a parent's support.
+
                 Revision guides and handed-down notes can trail a syllabus revision by years. Where they disagree with the CXC document, the CXC document wins.
               priority: high
               deadlineOffsetDays: 10
@@ -46,19 +48,19 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Check the current syllabus and timetable on the CXC website and note the paper format"
-                - "Write the syllabus edition year inside the cover of your Caribbean Studies folder"
+                - "Ask your teen to write the syllabus edition year inside their Caribbean Studies folder"
                 - "List the specific objectives of Modules 1, 2 and 3 in syllabus order"
-                - "Ask your teacher for the school's internal deadlines for the research project"
+                - "Ask the teacher, or have your teen ask, for the school's internal research project deadlines"
                 - "Recheck the syllabus edition at the start of each school year @recurring(yearly)"
             - name: Diagnostic Caribbean Studies paper and first essay
               description: |-
                 ## Purpose
-                Most students arrive in sixth form with CSEC Social Studies or History behind them and assume Caribbean Studies is more of the same, then meet questions asking them to assess a theory or evaluate an argument. Sitting one past Paper 01 and one Paper 02 essay early, without notes, shows which concepts you hold precisely and how far your writing is from the analytical style examiners reward.
+                Most students arrive in sixth form with CSEC Social Studies or History behind them and assume Caribbean Studies is more of the same, then meet questions asking them to assess a theory or evaluate an argument. Sitting one past Paper 01 and one Paper 02 essay early, without notes, shows which concepts your teen holds precisely and how far their writing is from the analytical style examiners reward.
 
                 ## Milestones
                 1. One past or specimen Paper 01 completed in a single timed sitting without notes.
                 2. Every answer marked against the key and wrong answers tallied by module.
-                3. One Paper 02 essay written against the clock and marked by your teacher or against the mark scheme.
+                3. One Paper 02 essay written against the clock and marked by the teacher or against the mark scheme.
                 4. The three weakest objectives and one writing weakness written at the top of the study plan.
               priority: high
               deadlineOffsetDays: 21
@@ -69,7 +71,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Get a past or specimen Paper 01 and Paper 02 from your teacher or the CXC online store"
+                - "Help your teen get a past or specimen Paper 01 and Paper 02 from the teacher or the CXC online store"
                 - "Sit Paper 01 in one go at a clear desk with no notes and mark it"
                 - "Write one Paper 02 essay against the clock"
                 - "Tally errors by module and circle the three weakest objectives"
@@ -82,10 +84,10 @@ starter_structure:
                 1. Every Module 1 and Module 2 objective assigned to a month.
                 2. The research project stages placed on the same plan, matched to the school's deadlines.
                 3. The mock and the final eight weeks of revision blocked out.
-                4. The plan shared with your teacher and pinned up at home.
+                4. The plan shared with the teacher and pinned up at home.
 
                 ## Notes
-                Plan research fieldwork away from the busiest test weeks of your other CAPE subjects, not on top of them.
+                Plan research fieldwork away from the busiest test weeks of their other CAPE subjects, not on top of them.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -95,10 +97,10 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher whether the class takes Caribbean Studies over one year or two"
+                - "Find out whether the class takes Caribbean Studies over one year or two"
                 - "Assign each module objective to a month on one page"
                 - "Mark the school's research project deadlines on the same page"
-                - "Pin the plan above your desk and give a copy to a parent"
+                - "Pin the plan above your teen's desk and keep a copy for yourself"
             - name: Command words and the Caribbean Studies essay paragraph
               description: |-
                 ## Purpose
@@ -124,7 +126,7 @@ starter_structure:
                 - "List every command word used in the last three Paper 02s"
                 - "Write a one-line definition of what each command word demands"
                 - "Write three model paragraphs using point, explanation, example and link"
-                - "Rewrite one marked essay using your teacher's comments"
+                - "Rewrite one marked essay using the teacher's comments"
             - name: Caribbean Studies concept glossary
               description: |-
                 ## Purpose
@@ -147,14 +149,14 @@ starter_structure:
                 - "Set up a glossary with columns for term, definition, example and module"
                 - "Enter every concept named in the Module 1 objectives"
                 - "Add five new concepts with a regional example each @recurring(weekly:thu)"
-                - "Test yourself on twenty random terms and re-learn the misses"
+                - "Quiz your teen on twenty random terms and note the misses to re-learn"
             - name: Shelf of Caribbean thinkers and sources
               description: |-
                 ## Purpose
-                Strong essays cite the region's own scholars: M. G. Smith on the plural society, Kamau Brathwaite on creolisation, Lloyd Best and George Beckford on the plantation economy, W. Arthur Lewis on industrialisation, Walter Rodney on underdevelopment. A short shelf of sources your teacher recommends, each summarised on one card, gives you names and arguments to use instead of opinion.
+                Strong essays cite the region's own scholars: M. G. Smith on the plural society, Kamau Brathwaite on creolisation, Lloyd Best and George Beckford on the plantation economy, W. Arthur Lewis on industrialisation, Walter Rodney on underdevelopment. A short shelf of sources the teacher recommends, each summarised on one card, gives your teen names and arguments to use instead of opinion.
 
                 ## Milestones
-                1. A list of ten to twelve sources agreed with your teacher.
+                1. A list of ten to twelve sources agreed with the teacher.
                 2. Library or online access confirmed for each.
                 3. A one-card summary for each source: argument, date and the objective it supports.
                 4. Each source used in at least one practice essay.
@@ -169,14 +171,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Ask your teacher for the ten sources they most want to see cited"
+                - "Encourage your teen to ask the teacher for the ten sources they most want to see cited"
                 - "Check which sources are in the school or national library"
                 - "Read and summarise one chapter, article or lecture @recurring(monthly:21)"
                 - "Note on each card which syllabus objective the source supports"
             - name: Weekly Caribbean Studies study sessions
               description: |-
                 ## Purpose
-                With three or four other CAPE subjects competing for evenings, Caribbean Studies is easy to leave until an essay is due. Two fixed sessions a week, one for working through the current objective and one for writing, keep the content and the writing moving together.
+                With three or four other CAPE subjects competing for evenings, Caribbean Studies is easy to leave until an essay is due. Two fixed sessions a week, agreed with your teen and protected at home, one for working through the current objective and one for writing, keep the content and the writing moving together.
 
                 ## Milestones
                 1. Two weekly slots fixed that do not clash with other subjects.
@@ -190,14 +192,14 @@ starter_structure:
                 success_criteria: "Twelve consecutive weeks of two sessions each, with no more than two missed and the plan ticked off to date."
                 cadence: rolling
               tasks:
-                - "Choose two weekly slots that do not clash with other CAPE subjects"
+                - "Agree two weekly slots with your teen that do not clash with other CAPE subjects"
                 - "Write the objective for each session on the plan before it starts"
                 - "Hold a Caribbean Studies study session @recurring(weekly:tue,thu)"
                 - "Tick off each objective on the plan once it is covered"
             - name: Daily ten-minute concept recall
               description: |-
                 ## Purpose
-                Ten minutes of testing yourself each day does more for recall than an hour of rereading before a test. Pulling ten random glossary terms each morning, saying the definition and example aloud and only then checking, keeps all three modules fresh through the year.
+                Ten minutes of self-testing each day does more for recall than an hour of rereading before a test. Pulling ten random glossary terms each morning, saying the definition and example aloud and only then checking, keeps all three modules fresh through the year. Offer to hold the cards now and then if your teen would like a quizzer.
 
                 ## Milestones
                 1. Flash cards or a spaced repetition deck built from the glossary.
@@ -221,7 +223,7 @@ starter_structure:
             - name: Caribbean news and examples log
               description: |-
                 ## Purpose
-                Examiners reward recent, specific examples, and the region supplies them every week: a CARICOM heads of government meeting, a hurricane season's damage figures, a debate on crime or migration, a festival exported to Toronto or Notting Hill. A weekly log of two news items, each tagged to an objective, gives you current evidence that a textbook printed years ago cannot.
+                Examiners reward recent, specific examples, and the region supplies them every week: a CARICOM heads of government meeting, a hurricane season's damage figures, a debate on crime or migration, a festival exported to Toronto or Notting Hill. A weekly log of two news items, each tagged to an objective, gives your teen current evidence that a textbook printed years ago cannot, and gives you an easy way into a conversation at dinner.
 
                 ## Milestones
                 1. A log with columns for date, territory, story and objective.
@@ -237,12 +239,12 @@ starter_structure:
               tasks:
                 - "Pick regional news sources from at least three different territories"
                 - "Log two news items and tag each to an objective @recurring(weekly:sun)"
-                - "Mark the entries you have used in an essay"
+                - "Mark the entries already used in an essay"
                 - "Check the log for objectives with no recent example before each mock"
             - name: Monthly timed Paper 01 practice
               description: |-
                 ## Purpose
-                Paper 01 tests breadth across the modules, and questions often hinge on a fine distinction such as hybridisation versus creolisation or GDP versus GNP. One timed paper a month, scored and tallied by module, shows whether weak areas are closing and keeps your speed up.
+                Paper 01 tests breadth across the modules, and questions often hinge on a fine distinction such as hybridisation versus creolisation or GDP versus GNP. One timed paper a month, scored and tallied by module, shows whether weak areas are closing and keeps their speed up.
 
                 ## Milestones
                 1. A score log with date, score and errors per module.
@@ -262,11 +264,11 @@ starter_structure:
                 - "Set up a score log with a column for each module"
                 - "Sit a timed Paper 01 or past question set and mark it @recurring(monthly:9)"
                 - "Trace every wrong answer back to its syllabus objective"
-                - "Add the missed concepts to your recall cards"
+                - "Add the missed concepts to the recall cards"
             - name: Monthly timed Paper 02 essay
               description: |-
                 ## Purpose
-                Knowing the content and writing a full essay against the clock are different skills, and the second only improves with practice. One timed essay a month, alternating Module 1 and Module 2, marked by your teacher or against the mark scheme, builds the pace and structure the written paper demands.
+                Knowing the content and writing a full essay against the clock are different skills, and the second only improves with practice. One timed essay a month, alternating Module 1 and Module 2, marked by the teacher or against the mark scheme, builds the pace and structure the written paper demands.
 
                 ## Milestones
                 1. A list of past Paper 02 questions grouped by objective.
@@ -282,7 +284,7 @@ starter_structure:
               tasks:
                 - "Build a list of past Paper 02 questions grouped by objective"
                 - "Write one timed Paper 02 essay, alternating modules @recurring(monthly:18)"
-                - "Hand the essay to your teacher or mark it against the mark scheme"
+                - "Hand the essay to the teacher or mark it against the mark scheme together"
                 - "Note the mark and one fix in the feedback log"
             - name: Essay feedback and mistakes log
               description: |-
@@ -304,15 +306,15 @@ starter_structure:
                 - "Create a log with columns for date, source, mistake and fix"
                 - "Enter every teacher comment from essays already marked"
                 - "Review the week's mistakes and choose one fix @recurring(weekly:fri)"
-                - "Write your three most repeated mistakes on the folder cover"
-            - name: Termly progress talk with your Caribbean Studies teacher
+                - "Write the three most repeated mistakes on the folder cover"
+            - name: Termly progress talk with the Caribbean Studies teacher
               description: |-
                 ## Purpose
-                A ten-minute conversation each term, with marks and research project progress in hand, catches problems while there is still time: a research question that is too broad, essays stuck in the same band, a module falling behind. Teachers have many students, so preparing the questions yourself makes the meeting worth having.
+                A ten-minute conversation each term, with marks and research project progress in hand, catches problems while there is still time: a research question that is too broad, essays stuck in the same band, a module falling behind. Teachers have many students, so preparing the questions beforehand makes the meeting worth having. At CAPE level your teen can lead it, with you joining when the school offers a parent meeting.
 
                 ## Milestones
                 1. A short meeting requested each term.
-                2. Your score log, research project stage and two questions prepared beforehand.
+                2. The score log, research project stage and two questions prepared beforehand.
                 3. The advice given written down.
                 4. One agreed change acted on before the next meeting.
 
@@ -325,20 +327,20 @@ starter_structure:
                 success_criteria: "Three termly meetings held in a school year, each with written notes and one change acted on."
                 cadence: cyclic
               tasks:
-                - "Ask your teacher for a short progress meeting this term @recurring(quarterly)"
-                - "Bring your score log, project stage and two questions"
-                - "Write down the advice and the one change you will make"
+                - "Encourage your teen to ask the teacher for a short progress meeting this term @recurring(quarterly)"
+                - "Ask them to bring the score log, project stage and two questions"
+                - "Talk through the advice afterwards and the one change they will make"
                 - "Check at the next meeting whether the change worked"
             - name: Essay plan bank for every objective
               description: |-
                 ## Purpose
-                Under exam conditions a good plan written in five minutes separates a structured argument from a list of facts. Building a bank of short plans, one per past question for every objective in Modules 1 and 2, means you walk in having already thought through most of the arguments the paper can ask for.
+                Under exam conditions a good plan written in five minutes separates a structured argument from a list of facts. Building a bank of short plans, one per past question for every objective in Modules 1 and 2, means your teenager walks in having already thought through most of the arguments the paper can ask for.
 
                 ## Milestones
                 1. A plan format agreed: thesis, four or five points, examples, a counter-argument and a judgement.
                 2. Plans written for every Module 1 objective.
                 3. Plans written for every Module 2 objective.
-                4. Five plans checked by your teacher for weak arguments.
+                4. Five plans checked by the teacher for weak arguments.
               priority: medium
               frontmatter:
                 mode: building
@@ -347,14 +349,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "12"
               tasks:
-                - "Agree a five-minute plan format with your teacher"
+                - "Agree a five-minute plan format with the teacher"
                 - "Write one essay plan for a past Paper 02 question @recurring(weekly:wed)"
                 - "File each plan under its syllabus objective"
-                - "Ask your teacher to check five plans for weak arguments"
+                - "Ask the teacher to check five plans for weak arguments"
             - name: Caribbean Studies study group and essay swap
               description: |-
                 ## Purpose
-                Caribbean Studies rewards argument, and arguments improve fastest when someone pushes back. Three or four classmates meeting weekly to swap essay plans, mark each other's answers against the mark scheme and debate a question such as whether CARICOM has helped development give you practice in evaluation that solo reading rarely does.
+                Caribbean Studies rewards argument, and arguments improve fastest when someone pushes back. Three or four classmates meeting weekly to swap essay plans, mark each other's answers against the mark scheme and debate a question such as whether CARICOM has helped development give your teen practice in evaluation that solo reading rarely does. Offering your home as the meeting place is often the simplest help you can give.
 
                 ## Milestones
                 1. A group of three or four with a fixed time and place.
@@ -442,7 +444,7 @@ starter_structure:
             - name: Social stratification, plural society and cultural diversity
               description: |-
                 ## Purpose
-                Why do race, colour, class and ethnicity still shape life chances in many Caribbean societies? This objective asks you to explain social stratification, compare M. G. Smith's plural society model with the creole society view, and assess how far mobility through education, migration and politics has changed the old order.
+                Why do race, colour, class and ethnicity still shape life chances in many Caribbean societies? This objective asks students to explain social stratification, compare M. G. Smith's plural society model with the creole society view, and assess how far mobility through education, migration and politics has changed the old order.
 
                 ## Milestones
                 1. Stratification, social mobility, plural society and creole society defined in the glossary.
@@ -457,14 +459,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Define stratification, social mobility and plural society in your glossary"
+                - "Define stratification, social mobility and plural society in the glossary"
                 - "Compare the plural society and creole society models in a table"
                 - "Find three examples of mobility through education or politics"
                 - "Write and mark one essay assessing the plural society model"
             - name: Creolisation, hybridisation and Caribbean identity
               description: |-
                 ## Purpose
-                Creolisation, hybridisation, cultural erasure, retention and renewal are among the most examined ideas in the subject, and students often use them as if they meant the same thing. Pinning each one to a clear definition and two concrete examples, such as Creole languages, chutney soca, Rastafari, Carnival masquerade or the survival of Hosay and Phagwah, lets you write about identity with precision.
+                Creolisation, hybridisation, cultural erasure, retention and renewal are among the most examined ideas in the subject, and students often use them as if they meant the same thing. Pinning each one to a clear definition and two concrete examples, such as Creole languages, chutney soca, Rastafari, Carnival masquerade or the survival of Hosay and Phagwah, lets your teenager write about identity with precision.
 
                 ## Milestones
                 1. Each identity concept defined in the syllabus's terms.
@@ -508,7 +510,7 @@ starter_structure:
             - name: Family, education, religion and justice as societal institutions
               description: |-
                 ## Purpose
-                Societal institutions are examined for where they came from and how they have changed: family forms marked by slavery, indentureship and migration; school systems inherited from colonial rule; religions from Christianity, Hinduism and Islam to Orisha, the Spiritual Baptists and Rastafari; and justice systems still tied, in some territories, to the Privy Council. A typical question asks you to examine how one institution reflects the region's history.
+                Societal institutions are examined for where they came from and how they have changed: family forms marked by slavery, indentureship and migration; school systems inherited from colonial rule; religions from Christianity, Hinduism and Islam to Orisha, the Spiritual Baptists and Rastafari; and justice systems still tied, in some territories, to the Privy Council. A typical question asks candidates to examine how one institution reflects the region's history.
 
                 ## Milestones
                 1. The origins, main changes and current issues of each institution summarised.
@@ -552,7 +554,7 @@ starter_structure:
             - name: Concepts and indicators of development
               description: |-
                 ## Purpose
-                Development means more than economic growth, and the syllabus expects you to compare measures such as GDP and GNP per capita, the Human Development Index and quality-of-life indicators, and to say what each one misses. Using real figures for a few Caribbean countries from a published international source makes those comparisons concrete and shows how rankings shift with the measure chosen.
+                Development means more than economic growth, and the syllabus expects students to compare measures such as GDP and GNP per capita, the Human Development Index and quality-of-life indicators, and to say what each one misses. Using real figures for a few Caribbean countries from a published international source makes those comparisons concrete and shows how rankings shift with the measure chosen.
 
                 ## Milestones
                 1. Economic growth, development and sustainable development defined.
@@ -574,7 +576,7 @@ starter_structure:
             - name: Factors that promote or hinder Caribbean development
               description: |-
                 ## Purpose
-                Small size, exposure to hazards, debt, the brain drain, crime and dependence on a few exports sit on one side of the ledger; natural resources, an educated workforce, tourism, regional cooperation and the diaspora sit on the other. Essay questions ask you to weigh these factors for a named country, so a balanced bank of evidence for and against is what you need.
+                Small size, exposure to hazards, debt, the brain drain, crime and dependence on a few exports sit on one side of the ledger; natural resources, an educated workforce, tourism, regional cooperation and the diaspora sit on the other. Essay questions ask candidates to weigh these factors for a named country, so a balanced bank of evidence for and against is what they need.
 
                 ## Milestones
                 1. The factors sorted into political, economic, social and environmental lists.
@@ -614,7 +616,7 @@ starter_structure:
                 - "Summarise each theory's core argument on one page"
                 - "Add a Caribbean example and a criticism to every summary"
                 - "Apply two theories to the same country and compare them"
-                - "Answer one past Paper 02 question that asks you to assess a theory"
+                - "Answer one past Paper 02 question that asks for a theory to be assessed"
             - name: Globalisation, trade and Caribbean economies
               description: |-
                 ## Purpose
@@ -662,7 +664,7 @@ starter_structure:
             - name: Social justice, gender, poverty and human rights
               description: |-
                 ## Purpose
-                Social justice questions ask how fairly a society shares rights and opportunities across gender, age, ethnicity, class and disability, and what governments and civil society do about the gaps. Current debates, such as gender-based violence, boys' underachievement in schools, access for people with disabilities and the measurement of poverty, give you the evidence examiners look for.
+                Social justice questions ask how fairly a society shares rights and opportunities across gender, age, ethnicity, class and disability, and what governments and civil society do about the gaps. Current debates, such as gender-based violence, boys' underachievement in schools, access for people with disabilities and the measurement of poverty, supply the evidence examiners look for.
 
                 ## Milestones
                 1. Social justice and human rights defined, with the categories the syllabus names.
@@ -706,7 +708,7 @@ starter_structure:
             - name: Mass media, social media and Caribbean culture
               description: |-
                 ## Purpose
-                Television, radio, the press and now social media shape how Caribbean people see themselves, and much of what they watch is produced elsewhere. Questions ask you to assess the media's effect on culture, politics and development, weighing cultural penetration by North American content against local broadcasting, regional news and creators who reach the diaspora online.
+                Television, radio, the press and now social media shape how Caribbean people see themselves, and much of what they watch is produced elsewhere. Questions ask candidates to assess the media's effect on culture, politics and development, weighing cultural penetration by North American content against local broadcasting, regional news and creators who reach the diaspora online.
 
                 ## Milestones
                 1. The functions of the mass media named in the syllabus listed.
@@ -728,7 +730,7 @@ starter_structure:
             - name: Caribbean intellectual traditions and thought
               description: |-
                 ## Purpose
-                Pan-Africanism, Garveyism, Négritude, Indo-centrism, Caribbean feminist thought, Marxism, the plantation school and industrialisation by invitation are the region's own answers to questions about identity and development. Knowing each tradition's main thinkers, central argument and influence lets you lift an essay above description, whichever module the question sits in.
+                Pan-Africanism, Garveyism, Négritude, Indo-centrism, Caribbean feminist thought, Marxism, the plantation school and industrialisation by invitation are the region's own answers to questions about identity and development. Knowing each tradition's main thinkers, central argument and influence lets a student lift an essay above description, whichever module the question sits in.
 
                 ## Milestones
                 1. A card for each tradition naming its main thinkers and period.
@@ -750,7 +752,7 @@ starter_structure:
             - name: Research concepts and ethics for the Caribbean Studies IA
               description: |-
                 ## Purpose
-                Module 3 assumes you can tell qualitative from quantitative research, a population from a sample and a research question from a hypothesis, and that you know why informed consent, anonymity and confidentiality matter when you question real people. Learning these ideas before choosing a topic saves a rewrite later, because the methods section of the report is built from them.
+                Module 3 assumes students can tell qualitative from quantitative research, a population from a sample and a research question from a hypothesis, and that they know why informed consent, anonymity and confidentiality matter when they question real people. Learning these ideas before choosing a topic saves a rewrite later, because the methods section of the report is built from them. Ethics is also an easy place for a parent to ask good questions, such as how respondents' names will be kept private.
 
                 ## Milestones
                 1. The research terms listed in the Module 3 objectives defined in the glossary.
@@ -773,16 +775,16 @@ starter_structure:
             - name: Choosing the IA topic and research questions
               description: |-
                 ## Purpose
-                Your research project must investigate an issue tied to the syllabus, in a place you can reach, with people who will answer you, inside the school's deadline. A topic narrowed to one community, one group and one issue, such as the effect of remittances on households in one village or attitudes to Creole among teachers at one school, is far easier to research well than a sweeping regional question.
+                Every research project must investigate an issue tied to the syllabus, in a place your teen can reach, with people who will answer them, inside the school's deadline. A topic narrowed to one community, one group and one issue, such as the effect of remittances on households in one village or attitudes to Creole among teachers at one school, is far easier to research well than a sweeping regional question.
 
                 ## Milestones
                 1. Three candidate topics written, each linked to a syllabus objective.
                 2. Each candidate checked for access, time, cost and ethics.
-                3. The final topic approved by your teacher before the school deadline.
+                3. The final topic approved by the teacher before the school deadline.
                 4. The problem statement, purpose and three or four research questions written.
 
                 ## Notes
-                If a topic needs permission from a principal, a ministry or a company, ask for it now. Waiting on a letter is the commonest reason fieldwork starts late.
+                If a topic needs permission from a principal, a ministry or a company, help your teen ask for it now. Waiting on a letter is the commonest reason fieldwork starts late.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
@@ -794,17 +796,17 @@ starter_structure:
               tasks:
                 - "Write three candidate topics and the syllabus objective each links to"
                 - "Check each candidate for access, time, cost and ethics"
-                - "Agree the final topic with your teacher before the school deadline"
+                - "Agree the final topic with the teacher before the school deadline"
                 - "Write the problem statement and three or four research questions"
             - name: Literature review and secondary sources for the IA
               description: |-
                 ## Purpose
-                A short literature review shows the examiner that your study sits inside what is already known: national statistics, earlier studies, university research, newspaper reports and government policy. Collecting and noting six to ten sources early also sharpens the research questions and gives the discussion something to compare your findings with.
+                A short literature review shows the examiner that the study sits inside what is already known: national statistics, earlier studies, university research, newspaper reports and government policy. Collecting and noting six to ten sources early also sharpens the research questions and gives the discussion something to compare the findings with.
 
                 ## Milestones
                 1. Six to ten relevant sources found, each with a full reference.
-                2. A one-paragraph summary of each source noting why it matters to your questions.
-                3. The literature review drafted and checked by your teacher.
+                2. A one-paragraph summary of each source noting why it matters to the research questions.
+                3. The literature review drafted and checked by the teacher.
                 4. One referencing style chosen and applied to every source.
               priority: medium
               deadlineOffsetDays: 100
@@ -817,18 +819,18 @@ starter_structure:
               tasks:
                 - "Search the library, university repositories and statistics offices for sources"
                 - "Write a full reference and a one-paragraph summary for each source"
-                - "Draft the literature review linking sources to your research questions"
+                - "Draft the literature review linking sources to the research questions"
                 - "Choose one referencing style and apply it to every source"
             - name: Sampling, questionnaire and interview design for the IA
               description: |-
                 ## Purpose
-                Data are only as good as the questions and the people asked. Choosing a sampling method you can justify, whether random, stratified, purposive or convenience, writing clear closed and open questions, and piloting the instrument on three or four people before the real collection removes the leading, double-barrelled and confusing questions that weaken so many projects.
+                Data are only as good as the questions and the people asked. Choosing a sampling method that can be justified, whether random, stratified, purposive or convenience, writing clear closed and open questions, and piloting the instrument on three or four people before the real collection removes the leading, double-barrelled and confusing questions that weaken so many projects.
 
                 ## Milestones
                 1. A sample size and method chosen and justified in two sentences.
                 2. A questionnaire or interview guide drafted around the research questions.
                 3. The instrument piloted on three or four people and revised.
-                4. Consent wording added and the final version approved by your teacher.
+                4. Consent wording added and the final version approved by the teacher.
               priority: medium
               deadlineOffsetDays: 120
               frontmatter:
@@ -839,13 +841,13 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Choose a sampling method and write two sentences justifying it"
-                - "Draft the questionnaire or interview guide around your research questions"
+                - "Draft the questionnaire or interview guide around the research questions"
                 - "Pilot the instrument on three or four people and fix unclear questions"
-                - "Add consent wording and get your teacher's approval"
+                - "Add consent wording and get the teacher's approval"
             - name: Fieldwork and data collection for the IA
               description: |-
                 ## Purpose
-                Fieldwork always takes longer than planned: respondents cancel, questionnaires come back half filled, permission letters take weeks. Starting early, keeping a dated record of every questionnaire and interview, and storing raw data safely means the project is never one lost notebook away from disaster.
+                Fieldwork always takes longer than planned: respondents cancel, questionnaires come back half filled, permission letters take weeks. Starting early, keeping a dated record of every questionnaire and interview, and storing raw data safely means the project is never one lost notebook away from disaster. A parent helps most here with lifts, a safe place for the data and a calm word when a respondent cancels.
 
                 ## Milestones
                 1. Any permission letters needed from the school or community received.
@@ -864,7 +866,7 @@ starter_structure:
                 - "Get any permission letters needed from the school or community"
                 - "Keep a dated field log of every questionnaire and interview"
                 - "Back up raw data and recordings in two places"
-                - "Update the IA progress record and tell your teacher of any delay @recurring(monthly:12)"
+                - "Check in on the IA progress record and any delay the teacher should hear about @recurring(monthly:12)"
             - name: Presenting and interpreting IA findings
               description: |-
                 ## Purpose
@@ -874,7 +876,7 @@ starter_structure:
                 1. All responses coded into a spreadsheet.
                 2. One labelled, numbered chart or table for each research question.
                 3. Two or three sentences of interpretation under every figure.
-                4. Findings compared with the sources in the literature review and the draft read by your teacher.
+                4. Findings compared with the sources in the literature review and the draft read by the teacher.
 
                 ## Notes
                 Pie charts with a dozen slivers and three-dimensional bars are hard to read. A plain bar chart or table is usually clearer.
@@ -890,11 +892,11 @@ starter_structure:
                 - "Code every questionnaire or interview into a spreadsheet"
                 - "Choose a chart or table for each research question and label it"
                 - "Write two or three sentences of interpretation under each figure"
-                - "Compare your findings with the sources in your literature review"
+                - "Compare the findings with the sources in the literature review"
             - name: Writing up and submitting the Caribbean Studies IA
               description: |-
                 ## Purpose
-                The final report pulls everything together: introduction and problem statement, literature review, methods, findings, discussion, conclusion, recommendations, limitations, references and appendices. Leaving a full week to redraft after your teacher's comments, and checking the word limit and layout in the current syllabus, prevents the late penalties and missing sections that cost easy marks.
+                The final report pulls everything together: introduction and problem statement, literature review, methods, findings, discussion, conclusion, recommendations, limitations, references and appendices. Leaving a full week to redraft after the teacher's comments, and checking the word limit and layout in the current syllabus, prevents the late penalties and missing sections that cost easy marks.
 
                 ## Milestones
                 1. A complete draft holding every section the current syllabus lists.
@@ -915,7 +917,7 @@ starter_structure:
                 effort_hours_estimate: "14"
               tasks:
                 - "List the report sections the current syllabus requires"
-                - "Finish a full draft and hand it to your teacher"
+                - "Finish a full draft and hand it to the teacher"
                 - "Revise using every comment and check the word count"
                 - "Submit the final report by the school's deadline and keep a copy"
             - name: Examiner reports and mark schemes for Caribbean Studies
@@ -939,14 +941,14 @@ starter_structure:
                 - "Find the last three CAPE Caribbean Studies subject reports"
                 - "Summarise the examiner comments by module"
                 - "List the ten weaknesses mentioned most often"
-                - "Turn the list into a checklist for your monthly timed essay"
+                - "Turn the list into a checklist for the monthly timed essay"
             - name: Full Caribbean Studies mock exam
               description: |-
                 ## Purpose
-                Sitting Paper 01 and Paper 02 back to back under exam conditions, months before the real thing, tests stamina as well as knowledge and shows whether your timing holds across a full paper. Marking it honestly and turning the results into the final revision plan is what makes the mock worth the morning.
+                Sitting Paper 01 and Paper 02 back to back under exam conditions, months before the real thing, tests stamina as well as knowledge and shows whether your teen's timing holds across a full paper. Marking it honestly and turning the results into the final revision plan is what makes the mock worth the morning, and you can offer to keep time.
 
                 ## Milestones
-                1. A mock date agreed with your teacher or set at home.
+                1. A mock date agreed with the teacher or set at home.
                 2. Both papers sat under timed exam conditions.
                 3. Both papers marked against the mark scheme.
                 4. The three weakest objectives written into the final revision timetable.
@@ -959,14 +961,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Agree a mock date with your teacher or set one at home"
+                - "Agree a mock date with the teacher, or set one at home together"
                 - "Sit Paper 01 and Paper 02 under timed exam conditions"
                 - "Mark the papers or have them marked against the mark scheme"
                 - "Write the three weakest objectives into the final revision timetable"
             - name: Final eight weeks Caribbean Studies revision timetable
               description: |-
                 ## Purpose
-                Eight weeks before the paper, the work shifts from learning new material to recall, essay plans and timed practice. A day-by-day timetable that cycles through every objective at least twice, with a timed paper each week and room for your other CAPE subjects, keeps the final stretch calm and complete.
+                Eight weeks before the paper, the work shifts from learning new material to recall, essay plans and timed practice. A day-by-day timetable that cycles through every objective at least twice, with a timed paper each week and room for their other CAPE subjects, keeps the final stretch calm and complete.
 
                 ## Milestones
                 1. The exam date confirmed on the published CXC timetable.
@@ -984,12 +986,12 @@ starter_structure:
               tasks:
                 - "Confirm the exam date on the published CXC timetable"
                 - "Draft an eight-week timetable that covers every objective twice"
-                - "Fit the timetable around your other CAPE subjects"
+                - "Fit the timetable around their other CAPE subjects"
                 - "Complete the day's revision slot and tick it off @recurring(daily)"
             - name: Last full past paper and the final week
               description: |-
                 ## Purpose
-                About a week before the exam, one last full past paper under strict timing confirms your pace and settles the nerves. The rest of the week is for light recall, essay plans and sleep rather than new material, because cramming fresh content now tends to crowd out what you already know.
+                About a week before the exam, one last full past paper under strict timing confirms your teen's pace and settles the nerves. The rest of the week is for light recall, essay plans and sleep rather than new material, because cramming fresh content now tends to crowd out what they already know.
 
                 ## Milestones
                 1. The most recent unseen past paper sat in full under exam timing.
@@ -1005,32 +1007,32 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "Choose the most recent past paper you have not yet sat"
+                - "Choose the most recent past paper not yet sat"
                 - "Sit it in full under exam timing a week before the exam"
-                - "Read through your essay plan bank and recall cards each evening"
-                - "Add the last mistakes from the paper to your feedback log"
+                - "Read through the essay plan bank and recall cards each evening"
+                - "Add the last mistakes from the paper to the feedback log"
             - name: CAPE Caribbean Studies exam day plan
               description: |-
                 ## Purpose
-                Exam day goes wrong in small ways: a late taxi, a forgotten candidate number, twenty minutes lost on the first essay. A written plan for travel, documents, timing per question and what to do if your mind goes blank removes the avoidable risks, so the morning is about answering questions.
+                Exam day goes wrong in small ways: a late taxi, a forgotten candidate number, twenty minutes lost on the first essay. A written plan for travel, documents, timing per question and what to do if their mind goes blank removes the avoidable risks, so the morning is about answering questions.
 
                 ## Milestones
                 1. The exam centre, start time and travel confirmed.
                 2. A checklist of documents and equipment packed the night before.
                 3. A timing plan for each part of the paper written down.
-                4. A plan agreed with yourself for a blank moment in the exam.
+                4. A plan for a blank moment in the exam agreed in advance.
               priority: high
               frontmatter:
                 mode: event
                 output_kind: event-completion
-                success_criteria: "On exam day you arrive early with every document, follow your written timing plan and answer every required question."
+                success_criteria: "On exam day your teen arrives early with every document, follows the written timing plan and answers every required question."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
                 - "Confirm the exam centre, start time and travel arrangements"
-                - "Pack your candidate number, ID, pens and a watch the night before"
+                - "Check the candidate number, ID, pens and a watch are packed the night before"
                 - "Write a timing plan for each part of the paper"
-                - "Decide what you will do in the exam if your mind goes blank"
+                - "Talk through what they will do in the exam if their mind goes blank"
             - name: Parent support for a CAPE Caribbean Studies student
               description: |-
                 ## Purpose
@@ -1043,7 +1045,7 @@ starter_structure:
                 4. Transport arranged for each fieldwork day.
 
                 ## Notes
-                Help find respondents among family, church or work contacts only if the sampling plan allows it, and let your child do the asking.
+                Help find respondents among family, church or work contacts only if the sampling plan allows it, and let your teen do the asking.
               priority: medium
               frontmatter:
                 mode: service
@@ -1053,12 +1055,12 @@ starter_structure:
               tasks:
                 - "Copy the research project deadlines and exam date onto the family calendar"
                 - "Agree a quiet study space and two protected weeknight sessions"
-                - "Ask your child about this week's progress, not marks @recurring(weekly:mon)"
+                - "Ask your teen about this week's progress, not marks @recurring(weekly:mon)"
                 - "Offer transport for fieldwork days before they are needed"
             - name: Teacher or tutor tracker for a Caribbean Studies class
               description: |-
                 ## Purpose
-                Teaching Caribbean Studies means supervising twenty or thirty research projects at different stages alongside the taught modules. A tracker showing each student's project stage, latest essay band and weak objectives lets a teacher or tutor spot stalled projects and class-wide gaps early enough to act.
+                Teaching Caribbean Studies means supervising twenty or thirty research projects at different stages alongside the taught modules. A tracker showing each student's project stage, latest essay band and weak objectives lets a teacher or tutor spot stalled projects and class-wide gaps early enough to act. If your teen has a tutor, share this project with them, or run it yourself if you teach the subject.
 
                 ## Milestones
                 1. A tracker listing each student with project stage, essay band and weak objectives.
@@ -1082,12 +1084,12 @@ starter_structure:
             - name: Paper 032 route for private Caribbean Studies candidates
               description: |-
                 ## Purpose
-                Private candidates who cannot submit the internal assessment sit Paper 032 instead, an alternative written paper whose current format you should confirm in the syllabus. Studying without a school also means building your own structure, finding past papers through the local registrar or the CXC store, and practising research method answers without a teacher's feedback.
+                Private candidates who cannot submit the internal assessment sit Paper 032 instead, an alternative written paper whose current format is worth confirming in the syllabus. Studying without a school also means building a structure at home, finding past papers through the local registrar or the CXC store, and practising research method answers without a teacher's feedback, which is where a parent's organising helps most.
 
                 ## Milestones
                 1. Registration through the local registrar confirmed and the Paper 032 format noted.
                 2. Past Paper 032 papers obtained.
-                3. Research method concepts practised on a topic of your own choosing.
+                3. Research method concepts practised on a topic of the candidate's own choosing.
                 4. Three timed answers marked by a tutor or study partner.
               priority: medium
               frontmatter:
@@ -1099,12 +1101,12 @@ starter_structure:
               tasks:
                 - "Confirm registration and the Paper 032 format with the local registrar"
                 - "Get past Paper 032 papers from the CXC online store"
-                - "Practise answering research method questions on a topic you choose"
+                - "Practise answering research method questions on a topic your teen chooses"
                 - "Find a tutor or study partner to mark three timed answers"
-            - name: Pan-Caribbean example bank beyond your own island
+            - name: Pan-Caribbean example bank beyond the home island
               description: |-
                 ## Purpose
-                Answers that take every example from one territory read as narrow, and the syllabus defines the region broadly. Collecting strong examples from Haiti, Suriname and the Dutch Caribbean, Martinique and Guadeloupe, Guyana, Belize, the Bahamas and the OECS gives your essays the regional range the best answers show.
+                Answers that take every example from one territory read as narrow, and the syllabus defines the region broadly. Collecting strong examples from Haiti, Suriname and the Dutch Caribbean, Martinique and Guadeloupe, Guyana, Belize, the Bahamas and the OECS gives your teenager's essays the regional range the best answers show.
 
                 ## Milestones
                 1. A grid of twelve territories against the main syllabus themes.
@@ -1122,11 +1124,11 @@ starter_structure:
                 - "Draw a grid of twelve territories against the main syllabus themes"
                 - "Fill one gap in the example grid @recurring(monthly:15)"
                 - "Find an example from the Dutch or French Caribbean for three themes"
-                - "Use examples from three different territories in your next essay"
+                - "Use examples from three different territories in the next essay"
             - name: Family diaspora interviews for migration and identity evidence
               description: |-
                 ## Purpose
-                Most Caribbean families have someone in Toronto, New York, London or Miami, and their stories are first-hand evidence for questions on migration, remittances, return and identity. Two or three conversations, held with permission, give you specific and current examples no textbook has, and can spark a research project topic too.
+                Most Caribbean families have someone in Toronto, New York, London or Miami, and their stories are first-hand evidence for questions on migration, remittances, return and identity. You are well placed to make the introductions. Two or three conversations, held with permission, give your teen specific and current examples no textbook has, and can spark a research project topic too.
 
                 ## Milestones
                 1. Relatives or family friends living abroad identified.
@@ -1141,20 +1143,20 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "List relatives or family friends abroad who might talk to you"
+                - "Together, list relatives or family friends abroad who might talk to your teen"
                 - "Write eight questions linked to migration and identity objectives"
                 - "Hold two or three interviews by video call with permission to take notes"
                 - "Summarise each interview as example cards tagged to objectives"
             - name: Grade I essays with evaluation and Caribbean scholarship
               description: |-
                 ## Purpose
-                Top grades go to answers that evaluate: they weigh arguments, use a named scholar or theory, bring in recent regional evidence and reach a justified judgement. Studying a few high-scoring answers, then rewriting your own best essays to that standard, shows exactly what separates a good grade from the top one.
+                Top grades go to answers that evaluate: they weigh arguments, use a named scholar or theory, bring in recent regional evidence and reach a justified judgement. Studying a few high-scoring answers, then rewriting their own best essays to that standard, shows your teen exactly what separates a good grade from the top one.
 
                 ## Milestones
-                1. Two top-band answers obtained from your teacher or quoted in examiner reports.
+                1. Two top-band answers obtained from the teacher or quoted in examiner reports.
                 2. The features that set them apart listed.
-                3. Three of your strongest essays rewritten with evaluation and a named scholar.
-                4. At least one rewritten essay placed in the top band by your teacher.
+                3. Three of the strongest essays rewritten with evaluation and a named scholar.
+                4. At least one rewritten essay placed in the top band by the teacher.
               priority: low
               frontmatter:
                 mode: building
@@ -1163,14 +1165,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Ask your teacher for two answers that scored in the top band"
+                - "Encourage your teen to ask the teacher for two answers that scored in the top band"
                 - "List the features that set those answers apart"
-                - "Rewrite three of your strongest essays to include evaluation and a scholar"
-                - "Ask your teacher to grade the rewritten essays against the mark scheme"
+                - "Rewrite three of the strongest essays to include evaluation and a scholar"
+                - "Ask the teacher to grade the rewritten essays against the mark scheme"
 ---
 
 # CAPE Caribbean Studies
 
-This area takes a CAPE Caribbean Studies student from the first look at the syllabus to exam day, following the three modules of the CXC syllabus. It opens with the foundations (the current syllabus, a diagnostic paper, a study plan, essay technique, a concept glossary and a shelf of Caribbean thinkers), sets up the weekly study, recall, news and timed practice routines, then works through Caribbean Society and Culture, Issues in Caribbean Development and the Module 3 research project stage by stage, before the mock, the final weeks and exam day, with projects for parents, teachers, private candidates and students chasing the top grade at the end.
+This area helps a parent or guardian support a CAPE Caribbean Studies student from the first look at the syllabus to exam day, following the three modules of the CXC syllabus. It opens with the foundations (the current syllabus, a diagnostic paper, a study plan, essay technique, a concept glossary and a shelf of Caribbean thinkers), sets up the weekly study, recall, news and timed practice routines, then works through Caribbean Society and Culture, Issues in Caribbean Development and the Module 3 research project stage by stage, before the mock, the final weeks and exam day, with projects on support at home, teachers and tutors, the private candidate route and the push for the top grade at the end.
 
-The rhythm is two study sessions a week, ten minutes of concept recall each morning, a weekly news log, essay plan and study group, a monthly timed Paper 01 and Paper 02 essay, a monthly research project check and a termly talk with your teacher. The Reading queue, Habit tracker, Metrics log, Meeting notes and Skills matrix templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm your teen keeps is two study sessions a week, ten minutes of concept recall each morning, a weekly news log, essay plan and study group, a monthly timed Paper 01 and Paper 02 essay, a monthly research project check and a termly talk with their teacher. The Reading queue, Habit tracker, Metrics log, Meeting notes and Skills matrix templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

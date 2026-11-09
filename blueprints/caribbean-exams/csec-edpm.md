@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-edpm
 name: CSEC Electronic Document Preparation (EDPM)
-description: "A full CSEC EDPM plan: the current syllabus and papers, daily touch typing and timed speed tests, every document type from letters to mail merge and newsletters, the SBA portfolio, the practical mock and exam day."
+description: "A CSEC EDPM plan for parents and guardians supporting a teenager: the syllabus and papers, daily touch typing and speed tests, every document type from letters to mail merge, the SBA portfolio, the practical mock and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-edpm, student, parent, educator, cxc, csec, edpm, keyboarding, sba]
@@ -16,7 +16,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -26,15 +26,17 @@ starter_structure:
             - name: Current CSEC EDPM syllabus and paper format check
               description: |-
                 ## Purpose
-                EDPM is examined partly on paper and partly at the keyboard, and the details of each paper, the SBA portfolio and any speed requirement can change between syllabus revisions. Reading the current syllabus and timetable yourself, rather than relying on an older student's notes, tells you exactly what will be marked and in what order the content is set out.
+                EDPM is examined partly on paper and partly at the keyboard, and the details of each paper, the SBA portfolio and any speed requirement can change between syllabus revisions. Reading the current syllabus and timetable with your teen, rather than relying on an older student's notes, tells you both exactly what will be marked and in what order the content is set out.
 
                 ## Milestones
                 1. The current EDPM syllabus downloaded from the CXC website and its effective date noted.
-                2. The format of Paper 01, Paper 02 and the SBA written on one page in your own words.
+                2. The format of Paper 01, Paper 02 and the SBA written on one page in plain words.
                 3. Every syllabus section listed in order, with the document types each one names.
-                4. The exam sitting window and your school's SBA deadline written beside the list.
+                4. The exam sitting window and the school's SBA deadline written beside the list.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CSEC Electronic Document Preparation (EDPM), and an older student can follow it with a parent's support.
+
                 CSEC's main sitting runs from May to June. Check the published timetable each year rather than trusting a date passed along by friends.
               priority: high
               deadlineOffsetDays: 10
@@ -47,58 +49,58 @@ starter_structure:
               tasks:
                 - "Download the current EDPM syllabus from the CXC website and note its date"
                 - "Check the current timetable on the CXC website and note the paper format"
-                - "List every syllabus section with the documents it expects you to produce"
-                - "Ask your teacher for the school's SBA submission date"
+                - "List every syllabus section with the documents it expects candidates to produce"
+                - "Ask the teacher for the school's SBA submission date"
             - name: Baseline typing speed and accuracy test
               description: |-
                 ## Purpose
-                Most students start EDPM believing they type faster than they do, and two-finger habits hide behind a decent speed until a timed practical exposes them. A five-minute test on unseen text at the start gives you a real words-per-minute figure and an error count, so every later improvement can be measured against it.
+                Most teenagers start EDPM believing they type faster than they do, and two-finger habits hide behind a decent speed until a timed practical exposes them. A five-minute test on unseen text at the start gives a real words-per-minute figure and an error count, so every later improvement can be measured against it, and it is a good moment to praise effort rather than the number.
 
                 ## Milestones
                 1. A five-minute timed test taken on unseen text without looking at the keyboard.
                 2. Gross speed, errors and net speed recorded with the date.
                 3. The keys and letter pairs that caused errors circled on the printout.
-                4. A realistic speed target for the end of Form Four agreed with your teacher.
+                4. A realistic speed target for the end of Form Four agreed with the teacher.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A dated baseline of gross speed, error count and net speed is recorded, with a target for the end of the year agreed with your teacher."
+                success_criteria: "A dated baseline of gross speed, error count and net speed is recorded, with a target for the end of the year agreed with the teacher."
                 cadence: one-shot
                 effort_hours_estimate: "1"
               tasks:
                 - "Pick a free online typing test that reports errors as well as speed"
-                - "Take a five-minute test on unseen text with your eyes on the screen"
+                - "Take a five-minute test on unseen text with eyes on the screen"
                 - "Record gross speed, errors and net speed with today's date"
-                - "Ask your teacher what speed to aim for by the end of the year"
+                - "Ask the teacher what speed to aim for by the end of the year"
             - name: Two-year EDPM study and practice plan
               description: |-
                 ## Purpose
-                Schools usually spread CSEC EDPM over Forms Four and Five, with the SBA portfolio built during the second year and the practical exam in May or June. A month-by-month plan that places each document type, the SBA stages and the revision weeks stops the familiar problem of mail merge and newsletters still being untouched at Easter.
+                Schools usually spread CSEC EDPM over Forms Four and Five, with the SBA portfolio built during the second year and the practical exam in May or June. A month-by-month plan, made with your teen, that places each document type, the SBA stages and the revision weeks stops the familiar problem of mail merge and newsletters still being untouched at Easter.
 
                 ## Milestones
-                1. Every syllabus section placed in a month, following your school's teaching order.
+                1. Every syllabus section placed in a month, following the school's teaching order.
                 2. SBA stages and the submission date marked from the school calendar.
                 3. Mock exam weeks and the final eight weeks of revision blocked out.
-                4. The plan pinned up where you see it every day, with a copy shared with a parent.
+                4. The plan pinned up where your teen sees it every day, with a copy for you.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A month-by-month plan covering every syllabus section, the SBA stages, the mock and the revision weeks is pinned up and shared with a parent."
+                success_criteria: "A month-by-month plan covering every syllabus section, the SBA stages, the mock and the revision weeks is pinned up and shared with the family."
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for the EDPM scheme of work for both years"
+                - "Ask the teacher for the EDPM scheme of work for both years"
                 - "Place each syllabus section in the month it will be taught"
                 - "Mark the SBA stages and mock exam weeks on the plan"
                 - "Compare where the class is against the plan @recurring(monthly:24)"
             - name: Home typing station set up for posture and comfort
               description: |-
                 ## Purpose
-                Hours of keyboarding at a dining table on a kitchen chair lead to sore wrists, a stiff neck and slower typing by the end of a session. Setting up one spot at home with the screen at eye level, forearms level with the keyboard and feet flat costs little and makes daily practice something you can keep up for two years.
+                Hours of keyboarding at a dining table on a kitchen chair lead to sore wrists, a stiff neck and slower typing by the end of a session. Setting up one spot at home with the screen at eye level, forearms level with the keyboard and feet flat costs little and makes daily practice something your teen can keep up for two years. It is one of the most practical ways a parent can help.
 
                 ## Milestones
                 1. A fixed practice spot chosen with steady light and no glare on the screen.
@@ -112,39 +114,39 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A practice station is set up at home where you can type for thirty minutes with level forearms, feet supported and the screen at eye level."
+                success_criteria: "A practice station is set up at home where your teen can type for thirty minutes with level forearms, feet supported and the screen at eye level."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
                 - "Choose one practice spot at home with good light and no screen glare"
-                - "Adjust the chair or add a cushion so your forearms sit level with the keys"
+                - "Adjust the chair or add a cushion so forearms sit level with the keys"
                 - "Raise the screen so its top edge sits near eye level"
                 - "Set up a copy holder or stand for printed drafts"
             - name: Word processor set up to match the exam room
               description: |-
                 ## Purpose
-                Paper 02 is done on the school's or centre's computers, and a student who practises on a different program or version loses minutes hunting for menus that have moved. Matching your home software to the exam room as closely as you can, and switching on the formatting marks, means your practice transfers directly to the day.
+                Paper 02 is done on the school's or centre's computers, and a student who practises on a different program or version loses minutes hunting for menus that have moved. Matching the home software to the exam room as closely as possible, and switching on the formatting marks, means practice transfers directly to the day.
 
                 ## Milestones
-                1. The program and version used in the school lab or exam centre confirmed with your teacher.
+                1. The program and version used in the school lab or exam centre confirmed with the teacher.
                 2. The same or a close equivalent installed or available for home practice.
                 3. Formatting marks, the ruler and the status bar word count switched on.
-                4. Default font, margins and paper size set to what your teacher expects.
+                4. Default font, margins and paper size set to what the teacher expects.
 
                 ## Notes
-                Some automatic features, such as auto-capitalisation and automatic numbering, can quietly change your work. Learn where to switch them off rather than fighting them in the exam.
+                Some automatic features, such as auto-capitalisation and automatic numbering, can quietly change the work. Learn where to switch them off rather than fighting them in the exam.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "Home practice runs on the same word processor as the exam room, with formatting marks, ruler and default settings matched to your teacher's instructions."
+                success_criteria: "Home practice runs on the same word processor as the exam room, with formatting marks, ruler and default settings matched to the teacher's instructions."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Ask your teacher which word processor and version the exam room uses"
+                - "Ask the teacher which word processor and version the exam room uses"
                 - "Install or get access to the same program for home practice"
                 - "Switch on formatting marks, the ruler and the word count"
-                - "Set the default font, margins and paper size your teacher expects"
+                - "Set the default font, margins and paper size the teacher expects"
             - name: Folder structure, file names and backups for EDPM work
               description: |-
                 ## Purpose
@@ -166,14 +168,14 @@ starter_structure:
                 - "Create one EDPM folder with a subfolder for each syllabus section"
                 - "Write down a file naming pattern that includes the document type and date"
                 - "Rename and file every existing practice document using the pattern"
-                - "Copy the whole EDPM folder to your backup location @recurring(weekly:fri)"
+                - "Copy the whole EDPM folder to the backup location @recurring(weekly:fri)"
             - name: Proofreader's marks reference card
               description: |-
                 ## Purpose
-                Exam drafts arrive covered in correction signs: transpose, close up, new paragraph, run on, stet, insert and change to capitals. Missing one sign costs accuracy marks on a document you otherwise produced perfectly, so a one-page card of every sign you are expected to know, with the margin mark and an example, is worth making before any production work starts.
+                Exam drafts arrive covered in correction signs: transpose, close up, new paragraph, run on, stet, insert and change to capitals. Missing one sign costs accuracy marks on a document otherwise produced perfectly, so a one-page card of every sign candidates are expected to know, with the margin mark and an example, is worth making before any production work starts.
 
                 ## Milestones
-                1. Every correction sign named in the syllabus or your textbook listed on one page.
+                1. Every correction sign named in the syllabus or the textbook listed on one page.
                 2. Each sign shown with its text mark, its margin mark and a before and after example.
                 3. The card tested by marking up a short paragraph and having a classmate apply the marks.
                 4. Every sign recalled correctly from memory in a quick self-test.
@@ -181,24 +183,24 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: artifact
-                success_criteria: "A one-page card shows every required proofreader's mark with an example, and you can name and apply each one from memory."
+                success_criteria: "A one-page card shows every required proofreader's mark with an example, and your teen can name and apply each one from memory."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "List every correction sign shown in your syllabus or textbook"
+                - "List every correction sign shown in the syllabus or textbook"
                 - "Draw each sign with its margin mark and a short example"
                 - "Mark up a paragraph and swap with a classmate to apply each other's marks"
-                - "Test yourself on all the signs without looking at the card"
+                - "Offer to test your teen on all the signs without the card"
             - name: Daily fifteen-minute touch typing drill
               description: |-
                 ## Purpose
-                Speed and accuracy come from short practice done often, not from a long session once a week. Fifteen minutes every day on drills that target your weak keys, with your eyes on the copy and never on the keyboard, is the single habit that most changes an EDPM grade, because every document in the exam has to be keyed before it can be formatted.
+                Speed and accuracy come from short practice done often, not from a long session once a week. Fifteen minutes every day on drills that target weak keys, with eyes on the copy and never on the keyboard, is the single habit that most changes an EDPM grade, because every document in the exam has to be keyed before it can be formatted. A quiet word of encouragement when the tracker fills up goes a long way.
 
                 ## Milestones
-                1. A free drill program or site chosen that lets you target specific keys.
+                1. A free drill program or site chosen that allows specific keys to be targeted.
                 2. The drill done at least five days a week for four weeks running.
                 3. Eyes kept on the copy for the whole drill, with no peeking at the keys.
-                4. Net speed up on your baseline at the end of the first month.
+                4. Net speed up on the baseline at the end of the first month.
 
                 ## Notes
                 Start from the **Habit tracker** template. Accuracy first: a drill typed slowly with no errors teaches the fingers more than a fast one full of corrections.
@@ -209,20 +211,20 @@ starter_structure:
                 success_criteria: "The daily drill is ticked off at least five days a week for eight weeks, and net speed has risen above the baseline."
                 cadence: rolling
               tasks:
-                - "Choose a drill program that lets you practise chosen keys"
+                - "Choose a drill program that allows chosen keys to be practised"
                 - "Do fifteen minutes of touch typing drills @recurring(daily)"
-                - "Spend one drill each week only on the keys from your error log"
-                - "Cover your hands with a cloth for one drill to stop looking down"
+                - "Spend one drill each week only on the keys from the error log"
+                - "Cover the hands with a cloth for one drill to stop looking down"
             - name: Weekly timed speed and accuracy test
               description: |-
                 ## Purpose
-                Daily drills build the fingers, but only a timed test on unseen copy shows whether speed is turning into usable production. One test a week, logged in the same way each time, turns a vague sense of improvement into a line that rises or flattens, and tells you and your teacher when to change the drills.
+                Daily drills build the fingers, but only a timed test on unseen copy shows whether speed is turning into usable production. One test a week, logged in the same way each time, turns a vague sense of improvement into a line that rises or flattens, and tells your teen and their teacher when to change the drills.
 
                 ## Milestones
                 1. One log set up with columns for date, gross speed, errors and net speed.
                 2. A timed test on unseen copy taken every week for a term.
                 3. A four-week average worked out at the end of each month.
-                4. Any month where net speed fell discussed with your teacher.
+                4. Any month where net speed fell discussed with the teacher.
 
                 ## Notes
                 Start from the **Metrics log** template. Use the same test length every time so the numbers can be compared.
@@ -235,15 +237,15 @@ starter_structure:
               tasks:
                 - "Set up a speed log with date, gross speed, errors and net speed"
                 - "Take a timed test on unseen copy and log the result @recurring(weekly:sat)"
-                - "Work out your four-week average net speed"
-                - "Show the log to your teacher at the next review"
+                - "Work out the four-week average net speed"
+                - "Ask your teen to show the log to the teacher at the next review"
             - name: Twice-weekly EDPM practical sessions
               description: |-
                 ## Purpose
-                Class time rarely gives every student enough hands-on production, and EDPM skills fade fast without use. Two fixed home or lab sessions a week, each producing one complete document from a draft, keep every document type fresh and build the habit of finishing, checking and saving work properly.
+                Class time rarely gives every student enough hands-on production, and EDPM skills fade fast without use. Two fixed home or lab sessions a week, agreed with your teen, each producing one complete document from a draft, keep every document type fresh and build the habit of finishing, checking and saving work properly.
 
                 ## Milestones
-                1. Two fixed practice slots a week agreed with your family or the lab timetable.
+                1. Two fixed practice slots a week agreed with the family or the lab timetable.
                 2. Each session producing one finished document from a textbook or past-paper draft.
                 3. Every finished document saved in the right section folder and proofread.
                 4. A month of sessions completed with no more than two missed.
@@ -254,14 +256,14 @@ starter_structure:
                 success_criteria: "At least eight complete practice documents are produced and filed in a month, from two fixed sessions a week."
                 cadence: rolling
               tasks:
-                - "Agree two fixed practice times a week with your family"
+                - "Agree two fixed practice times a week with your teen"
                 - "Produce one complete document from a draft @recurring(weekly:tue,thu)"
                 - "Proofread and save each finished document in its section folder"
                 - "Rotate through document types so none goes untouched for a month"
             - name: Typing error patterns and problem-key log
               description: |-
                 ## Purpose
-                Most students make the same few errors again and again: a weak little finger on the A and the semicolon, swapped letter pairs, missed spaces after full stops. Logging errors from tests and practice each week shows which keys and habits cost the most marks, so drills target them instead of repeating what you already do well.
+                Most students make the same few errors again and again: a weak little finger on the A and the semicolon, swapped letter pairs, missed spaces after full stops. Logging errors from tests and practice each week shows which keys and habits cost the most marks, so drills target them instead of repeating what is already done well.
 
                 ## Milestones
                 1. An error log with columns for the error, where it happened and the likely cause.
@@ -277,7 +279,7 @@ starter_structure:
               tasks:
                 - "Set up an error log with error, source and likely cause"
                 - "Copy this week's typing and formatting errors into the log @recurring(weekly:sun)"
-                - "Name your three most frequent errors at the end of the month"
+                - "Name the three most frequent errors at the end of the month"
                 - "Pick one targeted drill for each of the three errors"
             - name: Formatting rules and layout recall cards
               description: |-
@@ -317,19 +319,19 @@ starter_structure:
                 success_criteria: "Six monthly timed Paper 01 sets are completed, scored and recorded, with the weakest section revised after each."
                 cadence: rolling
               tasks:
-                - "Gather past and practice Paper 01 questions from your teacher and textbook"
+                - "Gather past and practice Paper 01 questions from the teacher and textbook"
                 - "Do one timed multiple-choice set and mark it @recurring(monthly:8)"
                 - "Trace each wrong answer to its syllabus section"
                 - "Revise the weakest section before the next set"
             - name: Monthly timed practical paper task
               description: |-
                 ## Purpose
-                Producing correct, well-laid-out documents under time is what the practical rewards, and it is a different skill from producing them slowly in class. One timed task a month from a past Paper 02, printed and marked against a mark scheme, shows whether your speed, formatting and proofreading hold up together.
+                Producing correct, well-laid-out documents under time is what the practical rewards, and it is a different skill from producing them slowly in class. One timed task a month from a past Paper 02, printed and marked against a mark scheme, shows whether speed, formatting and proofreading hold up together.
 
                 ## Milestones
                 1. A set of past Paper 02 tasks and their mark schemes gathered.
                 2. One task done each month in the time it would get in the exam.
-                3. Each printout marked against the mark scheme, or by your teacher.
+                3. Each printout marked against the mark scheme, or by the teacher.
                 4. Lost marks sorted into keying, layout and following instructions.
               priority: medium
               frontmatter:
@@ -338,14 +340,14 @@ starter_structure:
                 success_criteria: "Six timed past Paper 02 tasks are completed, printed and marked, with lost marks sorted by cause each time."
                 cadence: rolling
               tasks:
-                - "Ask your teacher for past Paper 02 tasks and mark schemes"
+                - "Ask the teacher for past Paper 02 tasks and mark schemes"
                 - "Do one past practical task under time and print it @recurring(monthly:18)"
                 - "Mark the printout against the mark scheme"
                 - "Sort lost marks into keying, layout and instructions"
             - name: Keyboard shortcuts for faster document production
               description: |-
                 ## Purpose
-                Reaching for the mouse to bold a word or find a menu adds up to many lost minutes across a practical paper. Learning the twenty or so shortcuts for saving, formatting, alignment, page breaks and undo, a few each week, keeps your hands on the keys and leaves more time for checking.
+                Reaching for the mouse to bold a word or find a menu adds up to many lost minutes across a practical paper. Learning the twenty or so shortcuts for saving, formatting, alignment, page breaks and undo, a few each week, keeps hands on the keys and leaves more time for checking.
 
                 ## Milestones
                 1. A list of the shortcuts most used in EDPM documents written out.
@@ -354,23 +356,23 @@ starter_structure:
                 4. All shortcuts on the list recalled without looking.
 
                 ## Notes
-                Shortcuts differ between programs and between Windows and Mac. Learn the ones for the program in your exam room.
+                Shortcuts differ between programs and between Windows and Mac. Learn the ones for the program in the exam room.
               priority: low
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Every shortcut on your list is recalled without looking, and a full practice document is produced using the mouse only for tables and graphics."
+                success_criteria: "Every shortcut on the list is recalled without looking, and a full practice document is produced using the mouse only for tables and graphics."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
                 - "Write a list of the shortcuts used most in EDPM documents"
                 - "Practise five new shortcuts in this week's sessions"
                 - "Produce one document using the mouse only for tables and graphics"
-                - "Test yourself on the full list without looking"
-            - name: Termly progress review with your EDPM teacher
+                - "Together, run through the full shortcut list as a quick quiz"
+            - name: Termly progress review with the EDPM teacher
               description: |-
                 ## Purpose
-                Teachers see how your printouts compare with the rest of the class and with what examiners expect, but only if you ask. A short conversation each term, bringing your speed log, error log and recent marked work, turns that view into two or three specific things to fix before the next term.
+                Teachers see how a student's printouts compare with the rest of the class and with what examiners expect, but often only when asked. A short conversation each term, bringing the speed log, error log and recent marked work, turns that view into two or three specific things to fix before the next term. Encourage your teen to lead it, with you joining where the school allows.
 
                 ## Milestones
                 1. A meeting asked for in the first fortnight of each term.
@@ -384,12 +386,12 @@ starter_structure:
               frontmatter:
                 mode: operating
                 output_kind: knowledge
-                success_criteria: "Notes from a review each term record your speed, recent marks and two or three agreed targets, checked at the following review."
+                success_criteria: "Notes from a review each term record your teen's speed, recent marks and two or three agreed targets, checked at the following review."
                 cadence: cyclic
               tasks:
-                - "Ask your teacher for ten minutes in the first fortnight of term @recurring(quarterly)"
-                - "Bring your speed log, error log and recent marked work"
-                - "Write down the two or three targets you agree"
+                - "Ask the teacher for ten minutes in the first fortnight of term @recurring(quarterly)"
+                - "Bring the speed log, error log and recent marked work"
+                - "Write down the two or three targets agreed"
                 - "Check last term's targets before the next meeting"
             - name: Computer systems, storage and software for document work
               description: |-
@@ -398,7 +400,7 @@ starter_structure:
 
                 ## Milestones
                 1. Notes covering input, output and storage devices used in document work.
-                2. The roles of system software and application software explained in your own words.
+                2. The roles of system software and application software explained in plain words.
                 3. A table comparing printers, scanners and storage media by use and advantage.
                 4. A set of past Paper 01 questions on this section answered and marked.
               priority: medium
@@ -416,7 +418,7 @@ starter_structure:
             - name: Ergonomics, health and safety at the workstation
               description: |-
                 ## Purpose
-                Examiners ask about repetitive strain injury, eye strain, posture, lighting, cable safety and how an office should be arranged, and the answers need the right terms. Learning this section properly also protects you, since EDPM students spend more hours at a keyboard than almost anyone else in school.
+                Examiners ask about repetitive strain injury, eye strain, posture, lighting, cable safety and how an office should be arranged, and the answers need the right terms. Learning this section properly also protects your teen, since EDPM students spend more hours at a keyboard than almost anyone else in school.
 
                 ## Milestones
                 1. Notes on the main health risks of keyboard work and how each is reduced.
@@ -456,7 +458,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
-                - "Practise the home keys until you find them without looking"
+                - "Practise the home keys until they can be found without looking"
                 - "Work through top and bottom row drills one row at a time"
                 - "Drill figures and symbols using the correct shift key"
                 - "Type a column of prices using the numeric keypad by touch"
@@ -466,13 +468,13 @@ starter_structure:
                 Exam drafts are often handwritten or a mix of print and handwriting, with abbreviations such as yr, recd, approx and days of the week shortened that must be typed in full. Reading untidy writing accurately and expanding every abbreviation correctly is a skill of its own, and it is where students who type well still lose marks.
 
                 ## Milestones
-                1. A list of the common abbreviations you are expected to expand, with their full forms.
+                1. A list of the common abbreviations candidates are expected to expand, with their full forms.
                 2. Five handwritten drafts typed with every abbreviation expanded.
                 3. Each typed copy checked word by word against the manuscript.
                 4. A practice draft typed with no misread words or unexpanded abbreviations.
 
                 ## Notes
-                Some abbreviations, such as those in names and addresses, are meant to stay. Learn the rules your textbook gives for which to expand and which to keep.
+                Some abbreviations, such as those in names and addresses, are meant to stay. Learn the rules the textbook gives for which to expand and which to keep.
               priority: medium
               frontmatter:
                 mode: building
@@ -481,10 +483,10 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Write out the abbreviations your textbook says to expand"
-                - "Type a handwritten draft from your textbook or a past paper"
+                - "Write out the abbreviations the textbook says to expand"
+                - "Type a handwritten draft from the textbook or a past paper"
                 - "Check the typed copy against the manuscript word by word"
-                - "Ask a family member to handwrite a short draft for you to type"
+                - "Offer to handwrite a short, untidy draft for your teen to type"
             - name: Proofreading printed work against the source copy
               description: |-
                 ## Purpose
@@ -505,8 +507,8 @@ starter_structure:
               tasks:
                 - "Write down a checking routine for figures, names, dates and lines"
                 - "Check every practice printout against its draft using a ruler"
-                - "Swap printouts with a classmate and compare the errors you each find"
-                - "Read figures aloud against the draft on your next document"
+                - "Swap printouts with a classmate and compare the errors each finds"
+                - "Read figures aloud together against the draft on the next document"
             - name: Character, paragraph and page formatting
               description: |-
                 ## Purpose
@@ -525,14 +527,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "List every formatting instruction named in your syllabus or textbook"
+                - "List every formatting instruction named in the syllabus or textbook"
                 - "Produce one document that uses every character and paragraph format"
                 - "Set and use left, centre, right and decimal tabs in a price list"
                 - "Complete a past-paper task that relies on formatting instructions"
             - name: Business letters in fully blocked format
               description: |-
                 ## Purpose
-                Nearly every EDPM practical and most SBA portfolios include a business letter. Getting the parts right, from reference, date and inside address to special marks, attention line, subject heading, complimentary close, enclosure and copy notations, in the house style your teacher uses (usually fully blocked with open punctuation), is worth more marks than any single advanced feature.
+                Nearly every EDPM practical and most SBA portfolios include a business letter. Getting the parts right, from reference, date and inside address to special marks, attention line, subject heading, complimentary close, enclosure and copy notations, in the house style the teacher uses (usually fully blocked with open punctuation), is worth more marks than any single advanced feature.
 
                 ## Milestones
                 1. A model letter showing every part in the correct order and spacing.
@@ -554,7 +556,7 @@ starter_structure:
             - name: Memos and internal notices
               description: |-
                 ## Purpose
-                Memoranda are the everyday internal document of any office, and they are quick marks if the heading layout, reference and sign-off follow the expected style. Practising pre-printed and keyed memo headings, plus short notices for a staff board, makes these a task you finish fast in the practical, freeing time for longer documents.
+                Memoranda are the everyday internal document of any office, and they are quick marks if the heading layout, reference and sign-off follow the expected style. Practising pre-printed and keyed memo headings, plus short notices for a staff board, makes these a task finished fast in the practical, freeing time for longer documents.
 
                 ## Milestones
                 1. A model memo with a keyed heading and one using a pre-printed form.
@@ -591,14 +593,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "3"
               tasks:
-                - "Find the envelope and label tools in your word processor"
+                - "Find the envelope and label tools in the word processor"
                 - "Produce three envelopes with addresses in the correct order"
                 - "Add special marks such as Confidential to an envelope"
                 - "Print a sheet of labels on plain paper first to check alignment"
             - name: Multi-page reports with headers, footers and page numbers
               description: |-
                 ## Purpose
-                Reports test whether you can control a longer document: consistent headings, numbered paragraphs, headers and footers, page numbers that skip the first page, footnotes and sensible page breaks so a heading never sits alone at the foot of a page. These are the tasks where a candidate's control of the software shows most clearly.
+                Reports test whether a candidate can control a longer document: consistent headings, numbered paragraphs, headers and footers, page numbers that skip the first page, footnotes and sensible page breaks so a heading never sits alone at the foot of a page. These are the tasks where a candidate's control of the software shows most clearly.
 
                 ## Milestones
                 1. A report produced with a consistent heading style and numbered paragraphs.
@@ -712,7 +714,7 @@ starter_structure:
             - name: Forms with fill-in spaces, tear-off slips and form fields
               description: |-
                 ## Purpose
-                Forms such as application forms, permission slips with a tear-off portion and order forms ask for dotted or ruled fill-in lines, tick boxes and even spacing. Learning both the printed form layout and the electronic form fields covers the forms questions in the practical and gives you a document a teacher can actually use.
+                Forms such as application forms, permission slips with a tear-off portion and order forms ask for dotted or ruled fill-in lines, tick boxes and even spacing. Learning both the printed form layout and the electronic form fields covers the forms questions in the practical and produces a document a teacher, or a family event, can actually use.
 
                 ## Milestones
                 1. A printed form with aligned fill-in lines and tick boxes produced.
@@ -743,7 +745,7 @@ starter_structure:
                 4. A past-paper display task completed under time and marked.
 
                 ## Notes
-                Use only images you have the right to use, such as your own photos or ones your teacher supplies, and keep a note of where each came from.
+                Use only images there is a right to use, such as family photos or ones the teacher supplies, and keep a note of where each came from.
               priority: medium
               frontmatter:
                 mode: building
@@ -759,7 +761,7 @@ starter_structure:
             - name: Styles, section breaks, templates and table of contents
               description: |-
                 ## Purpose
-                Longer and repeated documents are faster and more consistent when built with styles, section breaks and templates rather than formatting by hand. Learning these features lets you generate a table of contents from headings, switch one page to landscape inside a portrait report and save a letterhead you reuse across the SBA.
+                Longer and repeated documents are faster and more consistent when built with styles, section breaks and templates rather than formatting by hand. Learning these features means generating a table of contents from headings, switching one page to landscape inside a portrait report and saving a letterhead to reuse across the SBA.
 
                 ## Milestones
                 1. Heading styles applied and modified across a report.
@@ -781,7 +783,7 @@ starter_structure:
             - name: Importing tables, charts and images into documents
               description: |-
                 ## Purpose
-                Some tasks ask you to bring material from another file into a document: a chart from a spreadsheet, a table of figures, a scanned signature or a logo. The skill tested is placing, sizing, captioning and positioning that material neatly, not building the spreadsheet itself, and it is easy to practise once the steps are clear.
+                Some tasks ask candidates to bring material from another file into a document: a chart from a spreadsheet, a table of figures, a scanned signature or a logo. The skill tested is placing, sizing, captioning and positioning that material neatly, not building the spreadsheet itself, and it is easy to practise once the steps are clear.
 
                 ## Milestones
                 1. A chart copied from a spreadsheet file into a report and sized to the margins.
@@ -796,7 +798,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for a spreadsheet file with a ready-made chart"
+                - "Ask the teacher for a spreadsheet file with a ready-made chart"
                 - "Copy the chart into a report and size it to the margins"
                 - "Import a table of figures and match its format to the report"
                 - "Insert a logo, keep its proportions and set text wrapping"
@@ -825,11 +827,11 @@ starter_structure:
             - name: Choosing the SBA scenario and planning the portfolio
               description: |-
                 ## Purpose
-                The SBA is usually a portfolio of documents produced for one organisation or scenario, and a scenario you understand, such as a family business, a church event or a school club, makes every document easier to write convincingly. Planning the full list of documents and their order early stops the last-month scramble to produce a mail merge or newsletter from scratch.
+                The SBA is usually a portfolio of documents produced for one organisation or scenario, and a scenario your teen understands, such as a family business, a church event or a school club, makes every document easier to write convincingly. Planning the full list of documents and their order early stops the last-month scramble to produce a mail merge or newsletter from scratch. You can suggest ideas, but the choice and the work should be theirs.
 
                 ## Milestones
-                1. The SBA guidelines from your teacher read and the required document types listed.
-                2. A scenario chosen and approved by your teacher.
+                1. The SBA guidelines from the teacher read and the required document types listed.
+                2. A scenario chosen and approved by the teacher.
                 3. Every required document matched to a believable task within the scenario.
                 4. A schedule with a target date for each document, ending well before submission.
 
@@ -840,18 +842,18 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: decision
-                success_criteria: "An approved SBA scenario, a list of every required document mapped to the scenario and a dated production schedule are filed with your teacher."
+                success_criteria: "An approved SBA scenario, a list of every required document mapped to the scenario and a dated production schedule are filed with the teacher."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Ask your teacher for the SBA guidelines and the mark scheme"
-                - "List three possible scenarios and pick the one you know best"
-                - "Match each required document type to a task in your scenario"
+                - "Ask the teacher for the SBA guidelines and the mark scheme"
+                - "List three possible scenarios and pick the one your teen knows best"
+                - "Match each required document type to a task in the scenario"
                 - "Set a target date for each document and get the plan approved"
             - name: Producing and checking the SBA portfolio documents
               description: |-
                 ## Purpose
-                Portfolio marks come from accuracy, layout and following instructions on every single document, so one document finished and checked each week beats a rush of ten in the final fortnight. Working through the schedule steadily, with each document proofread and saved as a numbered version, leaves time to act on your teacher's comments.
+                Portfolio marks come from accuracy, layout and following instructions on every single document, so one document finished and checked each week beats a rush of ten in the final fortnight. Working through the schedule steadily, with each document proofread and saved as a numbered version, leaves time to act on the teacher's comments. A brief weekly question about which document is next keeps things moving without hovering.
 
                 ## Milestones
                 1. Each document produced by its target date in the schedule.
@@ -869,7 +871,7 @@ starter_structure:
               tasks:
                 - "Produce the next scheduled SBA document @recurring(weekly:wed)"
                 - "Proofread each SBA document against its draft and the instructions"
-                - "Record your teacher's comments and the changes you made"
+                - "Record the teacher's comments and the changes made"
                 - "Save each document as a numbered version and back it up"
             - name: Final SBA portfolio check and submission
               description: |-
@@ -900,29 +902,29 @@ starter_structure:
             - name: Examiner reports and mark schemes for EDPM
               description: |-
                 ## Purpose
-                CXC publishes subject reports after each sitting describing what candidates did well and where they lost marks, and EDPM reports regularly mention the same issues: instructions not followed, careless proofreading and wrong layouts. Reading three or four recent reports and comparing them with your own errors shows exactly which habits to fix.
+                CXC publishes subject reports after each sitting describing what candidates did well and where they lost marks, and EDPM reports regularly mention the same issues: instructions not followed, careless proofreading and wrong layouts. Reading three or four recent reports and comparing them with your teen's own errors shows exactly which habits to fix.
 
                 ## Milestones
                 1. Three or four recent EDPM subject reports read.
                 2. The recurring weaknesses listed in one place.
-                3. Your own error log compared with the list.
+                3. Your teen's own error log compared with the list.
                 4. Two habits chosen to change before the mock.
               priority: medium
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A one-page list of recurring weaknesses from recent EDPM subject reports is matched against your own errors, with two habits chosen to change."
+                success_criteria: "A one-page list of recurring weaknesses from recent EDPM subject reports is matched against your teen's own errors, with two habits chosen to change."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Find recent EDPM subject reports through your teacher or the CXC website"
+                - "Find recent EDPM subject reports through the teacher or the CXC website"
                 - "List the weaknesses that appear in more than one report"
-                - "Compare the list with your own error log"
+                - "Compare the list with the error log"
                 - "Choose two habits to change before the mock exam"
             - name: Practical exam room routine for saving, naming and printing
               description: |-
                 ## Purpose
-                In the practical, a document that is not saved, named or printed as the instructions say may not be marked at all. A fixed routine for reading the instructions, adding your candidate details where required, saving early and often, and printing only when checked, removes the risk of losing good work to a small procedural slip.
+                In the practical, a document that is not saved, named or printed as the instructions say may not be marked at all. A fixed routine for reading the instructions, adding candidate details where required, saving early and often, and printing only when checked, removes the risk of losing good work to a small procedural slip.
 
                 ## Milestones
                 1. A written routine covering instructions, candidate details, saving and printing.
@@ -937,19 +939,19 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher how candidate details and file names are handled in the exam"
+                - "Ask the teacher how candidate details and file names are handled in the exam"
                 - "Write a routine for reading instructions, saving and printing"
-                - "Use the routine on your next three timed practical tasks"
-                - "Note any step you skipped and tighten the routine"
+                - "Use the routine on the next three timed practical tasks"
+                - "Note any step that was skipped and tighten the routine"
             - name: Full EDPM mock exam under exam conditions
               description: |-
                 ## Purpose
-                A mock that copies the real exam, both theory and practical, in the right order and time with no notes, shows where time runs out and which document types are still slow. Doing it two to three months before the real sitting leaves time to act on what it shows.
+                A mock that copies the real exam, both theory and practical, in the right order and time with no notes, shows where time runs out and which document types are still slow. Doing it two to three months before the real sitting leaves time to act on what it shows, and a quiet, uninterrupted morning at home is something you can arrange.
 
                 ## Milestones
                 1. A recent past paper chosen for both Paper 01 and Paper 02.
                 2. Both papers sat under exam timing in one day or two consecutive days.
-                3. Both papers marked against the mark scheme or by your teacher.
+                3. Both papers marked against the mark scheme or by the teacher.
                 4. A list of three priorities for the remaining weeks written from the results.
               priority: high
               deadlineOffsetDays: 190
@@ -960,14 +962,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Choose a recent past paper you have not seen for both papers"
+                - "Choose a recent past paper your teen has not seen for both papers"
                 - "Book a lab slot or quiet time for the practical"
                 - "Sit both papers under exam timing with no notes"
                 - "Write three revision priorities from the marked papers"
             - name: Final eight weeks EDPM revision timetable
               description: |-
                 ## Purpose
-                The last eight weeks are when theory gaps get closed and production speed peaks, but only if each week has a clear focus. A timetable that rotates through the weakest document types from the mock, with theory and a timed practical every week, keeps revision from drifting into retyping what you already know.
+                The last eight weeks are when theory gaps get closed and production speed peaks, but only if each week has a clear focus. A timetable that rotates through the weakest document types from the mock, with theory and a timed practical every week, keeps revision from drifting into retyping what is already known.
 
                 ## Milestones
                 1. The weakest document types and theory sections from the mock ranked.
@@ -983,14 +985,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "3"
               tasks:
-                - "Rank your weakest document types and theory sections from the mock"
+                - "Rank the weakest document types and theory sections from the mock"
                 - "Give each of the eight weeks one main focus"
                 - "Fix a timed practical and a theory set into every week"
                 - "Review the week and adjust the timetable @recurring(weekly:sun)"
             - name: Last full past paper and the final week
               description: |-
                 ## Purpose
-                A final full past paper about ten days before the exam confirms your timing and settles nerves, and the days after it are for light review, not new topics. Planning the last week stops late-night cramming of layouts and keeps your typing hands fresh and steady.
+                A final full past paper about ten days before the exam confirms timing and settles nerves, and the days after it are for light review, not new topics. Planning the last week stops late-night cramming of layouts and keeps your teen's typing hands fresh and steady.
 
                 ## Milestones
                 1. A last full past paper sat under timing about ten days before the exam.
@@ -1007,13 +1009,13 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Sit a last full past paper about ten days before the exam"
-                - "Write a one-page sheet of the errors you still make"
+                - "Write a one-page sheet of the errors still being made"
                 - "Keep daily drills short and light in the final week"
-                - "Review your layout cards one last time"
+                - "Review the layout cards one last time"
             - name: CSEC EDPM exam day plan
               description: |-
                 ## Purpose
-                Exam day goes best when nothing is left to chance: arriving early, knowing where the exam room is, having your candidate number and identification, and starting the practical with a plan for which task to do first. Writing the plan down a week before frees your attention for the papers themselves.
+                Exam day goes best when nothing is left to chance: arriving early, knowing where the exam room is, having the candidate number and identification, and starting the practical with a plan for which task to do first. Writing the plan down with your teen a week before frees their attention for the papers themselves.
 
                 ## Milestones
                 1. Exam dates, times and rooms confirmed against the official timetable.
@@ -1022,7 +1024,7 @@ starter_structure:
                 4. Travel plan made with time to spare.
 
                 ## Notes
-                Check the official timetable on the CXC website and your school notices rather than relying on messages passed around.
+                Check the official timetable on the CXC website and the school notices rather than relying on messages passed around.
               priority: high
               deadlineOffsetDays: 270
               frontmatter:
@@ -1033,8 +1035,8 @@ starter_structure:
                 effort_hours_estimate: "1"
               tasks:
                 - "Confirm EDPM exam dates and rooms on the official timetable"
-                - "Pack your candidate number, identification and allowed items"
-                - "Decide the order you will tackle practical tasks"
+                - "Check the candidate number, identification and allowed items are packed"
+                - "Agree the order for tackling the practical tasks"
                 - "Plan travel to arrive at least thirty minutes early"
             - name: Parent support for a CSEC EDPM student
               description: |-
@@ -1053,14 +1055,14 @@ starter_structure:
                 success_criteria: "A protected practice time, reliable computer access and a monthly check-in are in place, with one teacher meeting attended each year."
                 cadence: rolling
               tasks:
-                - "Agree a regular practice time with your child"
+                - "Agree a regular practice time with your teen"
                 - "Sort out computer and printer access or a lab arrangement"
                 - "Ask to see the speed log and SBA dates @recurring(monthly:3)"
                 - "Book one meeting with the EDPM teacher this year"
             - name: Practice access for students without a computer at home
               description: |-
                 ## Purpose
-                Many students take EDPM without a computer or printer at home, and daily keyboarding practice cannot happen only in class. Booking regular lab or library time, using a phone with a plug-in keyboard for drills and planning printing in advance keeps practice going without expensive equipment.
+                Many teenagers take EDPM without a computer or printer at home, and daily keyboarding practice cannot happen only in class. Booking regular lab or library time, using a phone with a plug-in keyboard for drills and planning printing in advance keeps practice going without expensive equipment. A parent asking the school directly often turns up options a student would not hear about.
 
                 ## Milestones
                 1. School lab or library computer times found and booked weekly.
@@ -1069,7 +1071,7 @@ starter_structure:
                 4. A month of practice completed with no week missed.
 
                 ## Notes
-                Ask your teacher or school about loan laptops or after-school lab hours. Many schools have arrangements that are not advertised.
+                Ask the teacher or school about loan laptops or after-school lab hours. Many schools have arrangements that are not advertised.
               priority: medium
               frontmatter:
                 mode: building
@@ -1078,14 +1080,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher about after-school lab hours or loan laptops"
+                - "Ask the teacher about after-school lab hours or loan laptops"
                 - "Book a lab or library computer slot @recurring(weekly:mon)"
                 - "Set up a cheap keyboard with a phone or tablet for drills"
                 - "Agree a printing plan for practice and SBA work"
             - name: Teacher or tutor tracker for an EDPM class
               description: |-
                 ## Purpose
-                EDPM teachers juggle speed records, practical marks and SBA progress for a whole class, often across two year groups. One tracker showing each student's latest speed, practical score and SBA stage makes it easy to see who needs support before a deadline, and gives evidence for parent meetings.
+                EDPM teachers juggle speed records, practical marks and SBA progress for a whole class, often across two year groups. One tracker showing each student's latest speed, practical score and SBA stage makes it easy to see who needs support before a deadline, and gives evidence for parent meetings. If your teen has a tutor, share this project and ask what it shows at each check-in.
 
                 ## Milestones
                 1. A tracker with one row per student and columns for speed, practical score and SBA stage.
@@ -1109,7 +1111,7 @@ starter_structure:
             - name: Paper 032 alternative for private EDPM candidates
               description: |-
                 ## Purpose
-                Private candidates sitting EDPM without a school usually take the alternative paper in place of the SBA, and need their own access to a computer and printer for practice. Confirming the arrangement with the local registrar, then practising under timing on your own, replaces the structure a teacher would otherwise provide.
+                Private candidates sitting EDPM without a school usually take the alternative paper in place of the SBA, and need their own access to a computer and printer for practice. If your teen is sitting privately, confirming the arrangement with the local registrar, then practising under timing at home, replaces the structure a teacher would otherwise provide.
 
                 ## Milestones
                 1. The alternative paper format confirmed with the local registrar and the syllabus.
@@ -1134,7 +1136,7 @@ starter_structure:
             - name: Speed building past 50 words per minute without losing accuracy
               description: |-
                 ## Purpose
-                Students already comfortable with the exam target can keep building speed, which pays off in the practical and in any office, data or administrative job afterwards. Pushing speed while holding errors down needs structured method: short sprints above your comfortable speed, then accuracy passes at normal pace.
+                Students already comfortable with the exam target can keep building speed, which pays off in the practical and in any office, data or administrative job afterwards. Pushing speed while holding errors down needs structured method: short sprints above a comfortable speed, then accuracy passes at normal pace. Let your teen set the pace here; it is extension work, not a requirement.
 
                 ## Milestones
                 1. Current net speed and error rate recorded as the starting point.
@@ -1149,18 +1151,18 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "20"
               tasks:
-                - "Record current net speed and error rate as your starting point"
+                - "Record current net speed and error rate as the starting point"
                 - "Do one sprint and accuracy session @recurring(weekly:wed)"
                 - "Alternate one-minute sprints above comfortable speed with accuracy passes"
                 - "Retest on a five-minute unseen passage at the end of term"
             - name: Results, review requests and next steps after CSEC EDPM
               description: |-
                 ## Purpose
-                Results arrive weeks after the sitting, and a grade that seems wrong can be queried only within a limited window. Knowing how to read the result slip, when to ask your school about a review, and how an EDPM pass fits with CAPE choices, office jobs or further certification lets you act quickly instead of guessing.
+                Results arrive weeks after the sitting, and a grade that seems wrong can be queried only within a limited window. Knowing how to read the result slip, when to ask the school about a review, and how an EDPM pass fits with CAPE choices, office jobs or further certification lets you and your teen act quickly instead of guessing.
 
                 ## Milestones
                 1. The results release date and review deadline noted from official sources.
-                2. Your result slip read with your teacher, including the profile grades.
+                2. The result slip read with the teacher, including the profile grades.
                 3. A decision made on whether to request a review.
                 4. A next step chosen: further study, a resit, a job application or certification.
               priority: medium
@@ -1168,18 +1170,18 @@ starter_structure:
               frontmatter:
                 mode: event
                 output_kind: decision
-                success_criteria: "Your result is reviewed with your teacher, a decision on a review request is recorded before the deadline and a next step is chosen."
+                success_criteria: "Your teen's result is reviewed with the teacher, a decision on a review request is recorded before the deadline and a next step is chosen."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
                 - "Note the results release date and review deadline from official sources"
-                - "Read your result slip and profile grades with your teacher"
-                - "Decide whether to ask your school about a review"
-                - "Choose your next step and write it down"
+                - "Read the result slip and profile grades with the teacher"
+                - "Agree with your teen whether to ask the school about a review"
+                - "Help your teen choose a next step and write it down"
 ---
 
 # CSEC Electronic Document Preparation (EDPM)
 
-This area takes a CSEC Electronic Document Preparation and Management student from the first syllabus check to results day. It opens with the foundations (the syllabus and paper format, a baseline speed test, a two-year plan, a comfortable typing station and a tidy file system), sets up the keyboarding and practice routines, then works through the content roughly in syllabus order: computer systems and ergonomics, touch typing, manuscript and proofreading, formatting, letters, memos, reports, tables, mail merge, meeting papers, forms and display work, and electronic document management, before the SBA portfolio, the practical mock and exam day, with projects for parents, teachers, students without a home computer and private candidates at the end.
+This area helps a parent or guardian support a CSEC Electronic Document Preparation and Management student from the first syllabus check to results day. It opens with the foundations (the syllabus and paper format, a baseline speed test, a two-year plan, a comfortable typing station and a tidy file system), sets up the keyboarding and practice routines, then works through the content roughly in syllabus order: computer systems and ergonomics, touch typing, manuscript and proofreading, formatting, letters, memos, reports, tables, mail merge, meeting papers, forms and display work, and electronic document management, before the SBA portfolio, the practical mock and exam day, with projects for family support, teachers and tutors, students without a home computer and private candidates at the end.
 
-The rhythm is a short daily typing drill, a weekly timed speed test logged in one place, two practical sessions a week, a weekly error review, a monthly timed Paper 01 and a monthly practical task, and a termly talk with your teacher. The Habit tracker, Metrics log, Meeting notes, Operational checklist and Skills matrix templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is a short daily typing drill, a weekly timed speed test logged in one place, two practical sessions a week, a weekly error review, a monthly timed Paper 01 and a monthly practical task, and a termly talk with the teacher. The Habit tracker, Metrics log, Meeting notes, Operational checklist and Skills matrix templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

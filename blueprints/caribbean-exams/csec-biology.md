@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-biology
 name: CSEC Biology
-description: "A complete CSEC Biology plan: the current syllabus and papers, weekly routines, every topic from ecology and cells to genetics, SBA labs and write-ups, timed past papers, the mock, exam day and results."
+description: "A CSEC Biology plan for parents supporting a student: the current syllabus and papers, weekly routines, every topic from ecology and cells to genetics, SBA labs, timed past papers, the mock, exam day and results."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-biology, student, parent, educator, cxc, csec, biology, sba]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,15 +25,17 @@ starter_structure:
             - name: Current CSEC Biology syllabus and paper format check
               description: |-
                 ## Purpose
-                Biology at CSEC is examined through a multiple-choice Paper 01, a written Paper 02, and either the school-based assessment as Paper 031 or the alternative Paper 032 for private candidates, and the details shift between syllabus editions. An hour with the current syllabus and the CXC timetable means every later project is aimed at the exam you will actually sit, not the one an older cousin sat.
+                Biology at CSEC is examined through a multiple-choice Paper 01, a written Paper 02, and either the school-based assessment as Paper 031 or the alternative Paper 032 for private candidates, and the details shift between syllabus editions. An hour with the current syllabus and the CXC timetable means every later project is aimed at the exam your teen will actually sit, not the one an older cousin sat.
 
                 ## Milestones
                 1. The current CSEC Biology syllabus downloaded from the CXC website and its edition year noted.
                 2. The format of Paper 01, Paper 02 and Paper 031 or 032 written on one page in the syllabus's own words.
                 3. The syllabus sections and their topics listed, so each topic project in this area can be matched to one.
-                4. The May to June sitting confirmed with your school and the Biology date noted once the timetable is published.
+                4. The May to June sitting confirmed with the school and the Biology date noted once the timetable is published.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CSEC Biology, and an older student can follow it with a parent's support.
+
                 Revision books and old handouts can lag a syllabus change by years. Where they disagree with the CXC document, the CXC document wins.
               priority: high
               deadlineOffsetDays: 10
@@ -45,13 +47,13 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Check the current syllabus and timetable on the CXC website and note the paper format"
-                - "Write the syllabus edition year on the front of your Biology folder"
+                - "Write the syllabus edition year on the front of the Biology folder"
                 - "List the syllabus sections and their topics on one page"
-                - "Ask your Biology teacher which sitting and paper options the school enters you for"
-            - name: Diagnostic Paper 01 to find your starting point
+                - "Ask the Biology teacher which sitting and paper options the school enters your teen for"
+            - name: Diagnostic Paper 01 to find the starting point
               description: |-
                 ## Purpose
-                A single multiple-choice paper, sat early and without notes, shows which parts of the syllabus you half know already and which are blank. Sorting the wrong answers by topic turns a vague worry about Biology into a short list of weak areas to start on first.
+                A single multiple-choice paper, sat early and without notes, shows which parts of the syllabus your teen half knows already and which are blank. Sorting the wrong answers by topic turns a vague worry about Biology into a short list of weak areas to start on first.
 
                 ## Milestones
                 1. One past or specimen Paper 01 completed without notes.
@@ -67,8 +69,8 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Get one past or specimen Paper 01 from your teacher or the CXC store"
-                - "Sit the paper in one go without notes or a phone"
+                - "Get one past or specimen Paper 01 from the teacher or the CXC store"
+                - "Sit the paper in one go, without notes and with the phone in another room"
                 - "Mark it and tally the wrong answers by topic"
                 - "Circle the three topics with the most errors"
             - name: Two-year CSEC Biology study plan
@@ -77,7 +79,7 @@ starter_structure:
                 Most schools teach CSEC Biology across Forms Four and Five, with SBA labs running alongside and the exam in May or June of the second year. A written plan that puts each syllabus topic in a month, with SBA deadlines and revision blocks marked, prevents the common pile-up where genetics and reproduction are still untaught in March.
 
                 ## Milestones
-                1. Every syllabus topic placed in a month, following your school's teaching order.
+                1. Every syllabus topic placed in a month, following the school's teaching order.
                 2. SBA lab dates and submission deadlines marked from the school calendar.
                 3. The final eight weeks before the exam kept clear for revision and timed papers.
                 4. The plan printed or pinned where it is seen every day.
@@ -90,10 +92,10 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for the class scheme of work for both years"
+                - "Ask the teacher for the class scheme of work for both years"
                 - "Place each syllabus topic in the month it will be taught"
                 - "Mark the SBA deadlines and mock exam dates on the plan"
-                - "Compare your progress against the plan @recurring(monthly:26)"
+                - "Together, compare progress against the plan @recurring(monthly:26)"
             - name: Biology folder, notes and diagram kit
               description: |-
                 ## Purpose
@@ -137,7 +139,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Copy the command word glossary from the syllabus into your folder"
+                - "Copy the command word glossary from the syllabus into the folder"
                 - "Write a Biology example question for each command word"
                 - "Read three Paper 02 mark schemes and note how marks are split"
                 - "Rewrite five marked answers to fit their command word"
@@ -147,10 +149,10 @@ starter_structure:
                 Drawing is assessed in the SBA and turns up again in Paper 02, and the rules are strict: a large outline in sharp pencil, no shading, ruled label lines that do not cross, a title and a magnification. Practising one real specimen a week, from a hibiscus flower to a slice of dasheen stem, makes the rules automatic before the marked labs.
 
                 ## Milestones
-                1. The drawing rules your teacher marks against written on a card in the drawing kit.
+                1. The drawing rules the teacher marks against written on a card in the drawing kit.
                 2. Magnification calculated correctly for five practice drawings.
                 3. Ten specimen drawings done and checked against the rules.
-                4. Your teacher's feedback on one drawing noted and acted on.
+                4. The teacher's feedback on one drawing noted and acted on.
               priority: medium
               frontmatter:
                 mode: learning
@@ -159,17 +161,17 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Write your teacher's drawing rules on an index card"
+                - "Write the teacher's drawing rules on an index card"
                 - "Practise the magnification formula with five worked examples"
                 - "Draw one real specimen with labels and magnification @recurring(weekly:sat)"
-                - "Ask your teacher to mark one practice drawing against the SBA criteria"
+                - "Ask the teacher to mark one practice drawing against the SBA criteria"
             - name: SBA lab book, safety rules and skills tracker
               description: |-
                 ## Purpose
-                The labs done across Forms Four and Five are your SBA, so the lab book is a record worth guarding from the very first practical. Setting it up properly, learning the school lab's safety rules and keeping a tracker of which skill each lab was marked for means nothing is missing when your teacher compiles marks for CXC.
+                The labs done across Forms Four and Five are your teen's SBA, so the lab book is a record worth guarding from the very first practical. Setting it up properly, learning the school lab's safety rules and keeping a tracker of which skill each lab was marked for means nothing is missing when the teacher compiles marks for CXC.
 
                 ## Milestones
-                1. A hardback lab book labelled with your name, school and, once issued, candidate number.
+                1. A hardback lab book labelled with name, school and, once issued, candidate number.
                 2. The lab safety rules signed and pasted inside the cover.
                 3. A tracker listing each lab, its date and the skill it assessed, such as drawing or planning and design.
                 4. Every lab done so far written up and dated.
@@ -188,7 +190,7 @@ starter_structure:
                 - "Label a hardback lab book and paste the safety rules inside"
                 - "List every lab done so far with its date and assessed skill"
                 - "Photograph each completed write-up into a backup folder"
-                - "Check every lab is written up and signed by your teacher @recurring(monthly:3)"
+                - "Check every lab is written up and signed by the teacher @recurring(monthly:3)"
             - name: Weekly CSEC Biology study sessions
               description: |-
                 ## Purpose
@@ -219,7 +221,7 @@ starter_structure:
                 Paper 01 and the short Paper 02 parts lean heavily on exact definitions: osmosis, transpiration, homeostasis, allele, trophic level. Ten minutes a day with flashcards that come back at growing intervals fixes those definitions far better than rereading notes the night before a test.
 
                 ## Milestones
-                1. A card deck, paper or app, with definitions taken from the syllabus and your teacher's notes.
+                1. A card deck, paper or app, with definitions taken from the syllabus and the teacher's notes.
                 2. Cards added for each new topic within a week of it being taught.
                 3. A daily review kept for a month.
                 4. Every term in the syllabus glossary on a card by the end of the course.
@@ -254,14 +256,14 @@ starter_structure:
                 success_criteria: "At least three timed Paper 01 scores are logged a month apart, each with wrong answers tagged by topic."
                 cadence: rolling
               tasks:
-                - "Gather every past Paper 01 your teacher can share"
+                - "Gather every past Paper 01 the teacher can share"
                 - "Sit one full Paper 01 under timed conditions @recurring(monthly:12)"
                 - "Log the score and the topic of each wrong answer"
                 - "Redo the wrong questions a week later without looking"
             - name: Monthly Paper 02 structured question practice
               description: |-
                 ## Purpose
-                Paper 02 asks you to write: structured parts that build from recall to application, data to interpret and longer answers where ideas must be linked. Answering one full question a month and marking it against the official scheme trains the habit of matching points to marks.
+                Paper 02 asks candidates to write: structured parts that build from recall to application, data to interpret and longer answers where ideas must be linked. Answering one full question a month and marking it against the official scheme trains the habit of matching points to marks.
 
                 ## Milestones
                 1. A bank of past Paper 02 questions sorted by syllabus section.
@@ -278,7 +280,7 @@ starter_structure:
                 - "Sort past Paper 02 questions into the syllabus sections"
                 - "Answer one full Paper 02 question in timed conditions @recurring(monthly:22)"
                 - "Mark it against the mark scheme and list the missed points"
-                - "Ask your teacher to mark one answer where the scheme is unclear"
+                - "Ask the teacher to mark one answer where the scheme is unclear"
             - name: Biology mistakes log
               description: |-
                 ## Purpose
@@ -296,14 +298,14 @@ starter_structure:
                 success_criteria: "A mistakes log with tagged corrections has been updated weekly for a term and yields a top-ten list of repeat errors."
                 cadence: rolling
               tasks:
-                - "Start the log with the mistakes from your last marked test"
+                - "Start the log with the mistakes from the last marked test"
                 - "Add this week's mistakes and their corrections @recurring(weekly:fri)"
                 - "Tag each mistake as knowledge, misreading or technique"
                 - "Reread the whole log and star the repeat offenders @recurring(monthly:28)"
-            - name: Termly progress review with your Biology teacher
+            - name: Termly progress review with the Biology teacher
               description: |-
                 ## Purpose
-                Teachers see lab marks, test results and effort in class that a student often does not, and a short conversation each term catches problems while there is still time. Going in with your scores, your mistakes log and two specific questions makes ten minutes far more useful.
+                Teachers see lab marks, test results and effort in class that a student often does not, and a short conversation each term catches problems while there is still time. Going in with the scores, the mistakes log and two specific questions makes ten minutes far more useful. Agree with your teen whether they go alone or you go together.
 
                 ## Milestones
                 1. One short review held each term.
@@ -320,9 +322,9 @@ starter_structure:
                 success_criteria: "A review note exists for each term with the teacher's advice and one agreed action marked done or carried over."
                 cadence: cyclic
               tasks:
-                - "Write two specific questions to ask your Biology teacher"
-                - "Book a short review with your Biology teacher @recurring(quarterly)"
-                - "Bring your score log and SBA tracker to the review"
+                - "Write two specific questions to ask the Biology teacher"
+                - "Book a short review with the Biology teacher @recurring(quarterly)"
+                - "Bring the score log and SBA tracker to the review"
                 - "Write down the one action agreed for this term"
             - name: Living organisms, classification and dichotomous keys
               description: |-
@@ -330,7 +332,7 @@ starter_structure:
                 Section A opens with what makes something alive and how living things are grouped, and it supplies easy marks once the basics are secure. Learning the characteristics of living organisms and the main groups, then using and building a dichotomous key with leaves from the schoolyard, sets up the ecology topics that follow.
 
                 ## Milestones
-                1. The characteristics of living organisms listed and explained in your notes.
+                1. The characteristics of living organisms listed and explained in the notes.
                 2. The main groups of organisms summarised with one Caribbean example each.
                 3. A dichotomous key built for six local leaves or insects and tested by a classmate.
                 4. All classification questions from three past papers answered and marked.
@@ -352,7 +354,7 @@ starter_structure:
                 Ecology is examined through fieldwork as well as theory: estimating populations, measuring abiotic factors and explaining how organisms suit their habitat. A small survey of a real place, a school field, a rocky shore or the landward edge of a mangrove, makes terms like frequency, percentage cover and zonation concrete.
 
                 ## Milestones
-                1. Sampling methods summarised: quadrats, line transects and any others your teacher covers.
+                1. Sampling methods summarised: quadrats, line transects and any others the teacher covers.
                 2. A small survey carried out with species counts and abiotic readings recorded.
                 3. Results presented in a table and a suitable graph.
                 4. Ecology fieldwork questions from past Paper 02s answered and marked.
@@ -374,7 +376,7 @@ starter_structure:
             - name: Food webs, energy flow and nutrient cycles
               description: |-
                 ## Purpose
-                Questions here ask you to read a food web, explain why energy is lost at each trophic level, draw a pyramid and trace carbon or nitrogen through an ecosystem. Building your own food web for a Caribbean coral reef or mangrove, then annotating the carbon and nitrogen cycles, covers most of the ways these ideas are tested.
+                Questions here ask candidates to read a food web, explain why energy is lost at each trophic level, draw a pyramid and trace carbon or nitrogen through an ecosystem. Building a food web for a Caribbean coral reef or mangrove, then annotating the carbon and nitrogen cycles, covers most of the ways these ideas are tested.
 
                 ## Milestones
                 1. A labelled food web for one Caribbean ecosystem with producers, consumers and decomposers.
@@ -389,14 +391,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Draw a food web for a coral reef or mangrove from your notes"
+                - "Draw a food web for a coral reef or mangrove from the class notes"
                 - "Explain in writing why energy is lost between trophic levels"
                 - "Draw the carbon and nitrogen cycles from memory, then check them"
                 - "Answer the energy flow questions from three past papers"
             - name: Human impact on Caribbean ecosystems
               description: |-
                 ## Purpose
-                Examiners like questions rooted in the region: coral bleaching, mangrove clearing for development, overfishing, sargassum, invasive lionfish, pesticide run-off and solid waste. A short case file of real Caribbean examples, each with cause, effect and response, gives you specific evidence for longer answers instead of general statements.
+                Examiners like questions rooted in the region: coral bleaching, mangrove clearing for development, overfishing, sargassum, invasive lionfish, pesticide run-off and solid waste. A short case file of real Caribbean examples, each with cause, effect and response, gives your teen specific evidence for longer answers instead of general statements.
 
                 ## Milestones
                 1. A case file of four Caribbean environmental problems with cause, effect and response.
@@ -413,16 +415,16 @@ starter_structure:
               tasks:
                 - "Pick four regional problems such as coral bleaching or sargassum"
                 - "Ask the agent to draft a one-page summary for each case, then check the facts"
-                - "Find one local news report on a conservation project near you"
+                - "Find one local news report on a conservation project nearby"
                 - "Answer two past Paper 02 human impact questions using named examples"
             - name: Cells, microscopy and magnification
               description: |-
                 ## Purpose
-                Section B, on life processes and disease, starts with the cell, and almost every later topic assumes you can name organelles, compare plant and animal cells and use a light microscope. Preparing an onion epidermis slide, drawing it and calculating its magnification ties the theory to the SBA drawing skill.
+                Section B, on life processes and disease, starts with the cell, and almost every later topic assumes a student can name organelles, compare plant and animal cells and use a light microscope. Preparing an onion epidermis slide, drawing it and calculating its magnification ties the theory to the SBA drawing skill.
 
                 ## Milestones
                 1. Plant and animal cell diagrams drawn and labelled with each organelle's function.
-                2. Differences between plant and animal cells, and any other cell types your syllabus names, set out in a table.
+                2. Differences between plant and animal cells, and any other cell types the syllabus names, set out in a table.
                 3. An onion epidermis slide prepared, viewed and drawn with a magnification.
                 4. Cell questions from three past papers answered and marked.
               priority: medium
@@ -435,12 +437,12 @@ starter_structure:
               tasks:
                 - "Draw and label a plant and an animal cell from memory"
                 - "Table the differences between the two cell types"
-                - "Prepare and draw an onion epidermis slide in your next lab"
+                - "Prepare and draw an onion epidermis slide in the next lab"
                 - "Answer the cell structure questions from three past papers"
             - name: Diffusion, osmosis and active transport
               description: |-
                 ## Purpose
-                Osmosis is one of the most tested ideas in CSEC Biology and one of the most common SBA practicals, usually with potato or sweet potato strips in salt or sugar solutions. Doing the experiment carefully, graphing the percentage change in mass and explaining the result the way your teacher teaches it covers theory and practical in one go.
+                Osmosis is one of the most tested ideas in CSEC Biology and one of the most common SBA practicals, usually with potato or sweet potato strips in salt or sugar solutions. Doing the experiment carefully, graphing the percentage change in mass and explaining the result the way the teacher teaches it covers theory and practical in one go.
 
                 ## Milestones
                 1. Diffusion, osmosis and active transport defined with one plant and one animal example each.
@@ -478,13 +480,13 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Make a table of the four food tests and their positive colours"
-                - "Test four foods from home in your next practical"
+                - "Test four foods from home in the next practical"
                 - "Plan an enzyme experiment that varies temperature or pH"
                 - "Answer the enzyme questions from three past papers"
             - name: Photosynthesis and plant nutrition
               description: |-
                 ## Purpose
-                Photosynthesis questions test the word and symbol equations, leaf structure, limiting factors and the classic starch test on a destarched or variegated leaf. Running that test on a croton leaf, then explaining a limiting factor graph in your own words, covers what Paper 02 usually asks.
+                Photosynthesis questions test the word and symbol equations, leaf structure, limiting factors and the classic starch test on a destarched or variegated leaf. Running that test on a croton leaf, then explaining a limiting factor graph in plain words, covers what Paper 02 usually asks.
 
                 ## Milestones
                 1. The photosynthesis equation written from memory in words and symbols.
@@ -506,7 +508,7 @@ starter_structure:
             - name: Human nutrition, teeth and digestion
               description: |-
                 ## Purpose
-                Human nutrition links a balanced diet, the structure of teeth and the route food takes through the alimentary canal. A labelled gut diagram showing where each enzyme acts, plus a one-day record of your own meals sorted into food classes, gives you both the diagram and the applied examples Paper 02 likes.
+                Human nutrition links a balanced diet, the structure of teeth and the route food takes through the alimentary canal. A labelled gut diagram showing where each enzyme acts, plus a one-day record of meals at home sorted into food classes, gives your teen both the diagram and the applied examples Paper 02 likes.
 
                 ## Milestones
                 1. The alimentary canal drawn with the site and product of each digestive enzyme.
@@ -523,7 +525,7 @@ starter_structure:
               tasks:
                 - "Draw the alimentary canal and label each organ"
                 - "Table each digestive enzyme with its substrate, product and site"
-                - "Record one day of your own meals and sort them into food classes"
+                - "Record one day of meals at home and sort them into food classes"
                 - "Answer the digestion questions from three past papers"
             - name: Respiration, breathing and gas exchange
               description: |-
@@ -597,10 +599,10 @@ starter_structure:
             - name: Excretion, the kidney and osmoregulation
               description: |-
                 ## Purpose
-                Excretion questions centre on the kidney and nephron, how urine is formed and how the body keeps its water and salt balance, with excretion in plants as a smaller part. A large labelled nephron diagram with filtration and reabsorption marked, plus hormonal control if your syllabus includes it, makes this one of the more predictable topics.
+                Excretion questions centre on the kidney and nephron, how urine is formed and how the body keeps its water and salt balance, with excretion in plants as a smaller part. A large labelled nephron diagram with filtration and reabsorption marked, plus hormonal control if the syllabus includes it, makes this one of the more predictable topics.
 
                 ## Milestones
-                1. Excretion distinguished from egestion in your own words.
+                1. Excretion distinguished from egestion in plain words.
                 2. The urinary system and a nephron drawn and labelled.
                 3. The stages of urine formation described in order.
                 4. Excretion questions from three past papers answered and marked.
@@ -619,7 +621,7 @@ starter_structure:
             - name: Skeleton, joints and movement
               description: |-
                 ## Purpose
-                Movement and support covers the functions of the skeleton, the types of joint, how antagonistic muscles move a limb and how plants hold themselves up. Bending your own arm while naming the biceps and triceps, and comparing a ball and socket joint with a hinge joint, fixes the ideas faster than reading about them.
+                Movement and support covers the functions of the skeleton, the types of joint, how antagonistic muscles move a limb and how plants hold themselves up. Bending an arm while naming the biceps and triceps, and comparing a ball and socket joint with a hinge joint, fixes the ideas faster than reading about them.
 
                 ## Milestones
                 1. The functions of the skeleton listed.
@@ -663,7 +665,7 @@ starter_structure:
             - name: Health, disease, vectors and immunity
               description: |-
                 ## Purpose
-                Disease questions in Section B ask about types of disease, how pathogens spread, the immune response and the control of vectors such as the Aedes aegypti mosquito that carries dengue. Using regional examples, dengue, leptospirosis, diabetes and hypertension among them, gives you answers that match how CXC frames health in the Caribbean.
+                Disease questions in Section B ask about types of disease, how pathogens spread, the immune response and the control of vectors such as the Aedes aegypti mosquito that carries dengue. Using regional examples, dengue, leptospirosis, diabetes and hypertension among them, gives answers that match how CXC frames health in the Caribbean.
 
                 ## Milestones
                 1. Diseases grouped as pathogenic, deficiency, hereditary and physiological, with one example each.
@@ -672,7 +674,7 @@ starter_structure:
                 4. Health and disease questions from three past papers answered and marked.
 
                 ## Notes
-                Treat this as exam content, not health advice. Use the grouping your syllabus and teacher use if it differs from the one above.
+                Treat this as exam content, not health advice. Use the grouping the syllabus and teacher use if it differs from the one above.
               priority: medium
               frontmatter:
                 mode: building
@@ -681,14 +683,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Group ten diseases into the four types in your notes"
+                - "Group ten diseases into the four types in the notes"
                 - "Draw the mosquito life cycle and mark the control points"
-                - "Walk around your yard and list possible mosquito breeding sites"
+                - "Walk around the yard together and list possible mosquito breeding sites"
                 - "Answer the health and disease questions from three past papers"
             - name: Reproduction in flowering plants and germination
               description: |-
                 ## Purpose
-                Plant reproduction questions ask about flower structure, pollination by insects and wind, fertilisation, fruit and seed dispersal, and the conditions seeds need to germinate. Dissecting a hibiscus or pride of Barbados flower and germinating peas or corn with and without water gives you drawings and results to quote.
+                Plant reproduction questions ask about flower structure, pollination by insects and wind, fertilisation, fruit and seed dispersal, and the conditions seeds need to germinate. Dissecting a hibiscus or pride of Barbados flower and germinating peas or corn with and without water gives your teen drawings and results to quote.
 
                 ## Milestones
                 1. A flower dissected, drawn and labelled with the function of each part.
@@ -710,7 +712,7 @@ starter_structure:
             - name: Human reproduction and the menstrual cycle
               description: |-
                 ## Purpose
-                Human reproduction covers the male and female reproductive systems, the menstrual cycle, fertilisation, the placenta and methods of birth control, and some students skip it because it feels awkward in class. Learning it with labelled diagrams and a cycle timeline, as plain biology, keeps what are often straightforward marks.
+                Human reproduction covers the male and female reproductive systems, the menstrual cycle, fertilisation, the placenta and methods of birth control, and some students skip it because it feels awkward in class. Learning it with labelled diagrams and a cycle timeline, as plain biology, keeps what are often straightforward marks. A matter-of-fact attitude at home helps too.
 
                 ## Milestones
                 1. Male and female reproductive systems drawn and labelled with functions.
@@ -759,7 +761,7 @@ starter_structure:
                 ## Milestones
                 1. Key terms from gene to homozygous defined on flashcards.
                 2. Ten monohybrid crosses worked in the full exam layout.
-                3. Blood group crosses, and sex-linked crosses if your syllabus includes them, worked correctly.
+                3. Blood group crosses, and sex-linked crosses if the syllabus includes them, worked correctly.
                 4. Genetics questions from three past papers answered and marked against the scheme's layout.
               priority: medium
               frontmatter:
@@ -771,12 +773,12 @@ starter_structure:
               tasks:
                 - "Define gene, allele, genotype, phenotype, dominant and recessive"
                 - "Work five monohybrid crosses in the full exam layout"
-                - "Work three blood group crosses and check them with your teacher"
+                - "Work three blood group crosses and check them with the teacher"
                 - "Answer the genetics questions from three past papers"
             - name: Variation, natural selection and genetic engineering
               description: |-
                 ## Purpose
-                Later in the continuity section the focus moves from single genes to whole populations: continuous and discontinuous variation, mutation, natural selection and how people now alter genes directly. Measuring hand span across the class, plotting it as a histogram and preparing a balanced view on genetically modified crops gives you data and argument for the final questions.
+                Later in the continuity section the focus moves from single genes to whole populations: continuous and discontinuous variation, mutation, natural selection and how people now alter genes directly. Measuring hand span across the class, plotting it as a histogram and preparing a balanced view on genetically modified crops gives your teen data and argument for the final questions.
 
                 ## Milestones
                 1. Continuous and discontinuous variation compared, each with a measured example.
@@ -798,13 +800,13 @@ starter_structure:
             - name: Lab report write-ups that score well
               description: |-
                 ## Purpose
-                SBA marks are given for how you report a practical, not only for doing it: a clear aim, a method in the past tense, results in a ruled table with units, and a discussion that explains what happened using biology. Comparing your past write-ups with your teacher's criteria for each skill shows exactly where marks leak.
+                SBA marks are given for how a practical is reported, not only for doing it: a clear aim, a method in the past tense, results in a ruled table with units, and a discussion that explains what happened using biology. Comparing past write-ups with the teacher's criteria for each skill shows exactly where marks leak.
 
                 ## Milestones
-                1. Your teacher's marking criteria for each assessed skill collected and read.
+                1. The teacher's marking criteria for each assessed skill collected and read.
                 2. Two old write-ups re-marked against those criteria.
                 3. A write-up checklist pasted into the lab book.
-                4. The next marked lab scoring higher on your weakest skill.
+                4. The next marked lab scoring higher on the weakest skill.
               priority: medium
               frontmatter:
                 mode: learning
@@ -813,17 +815,17 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for the marking criteria used for each SBA skill"
+                - "Ask the teacher for the marking criteria used for each SBA skill"
                 - "Re-mark two past write-ups against those criteria"
                 - "Write a one-page checklist for aim, method, results and discussion"
                 - "Compare the next marked lab with the previous one"
             - name: Planning and design investigation for the SBA
               description: |-
                 ## Purpose
-                Planning and design is usually the skill students find hardest: given an observation, you write a hypothesis, aim, method, variables, expected results and limitations for an experiment you may never carry out. Practising on everyday observations, such as bread going mouldy faster in a damp kitchen, before the assessed one makes it far less daunting, and any investigation the current syllabus links to it can be planned here too.
+                Planning and design is usually the skill students find hardest: given an observation, the student writes a hypothesis, aim, method, variables, expected results and limitations for an experiment they may never carry out. Practising on everyday observations, such as bread going mouldy faster in a damp kitchen, before the assessed one makes it far less daunting, and any investigation the current syllabus links to it can be planned here too.
 
                 ## Milestones
-                1. The planning and design criteria from your teacher listed as headings.
+                1. The planning and design criteria from the teacher listed as headings.
                 2. Two practice plans written for everyday observations and marked.
                 3. The assessed plan written with independent, dependent and controlled variables stated.
                 4. The plan, and any linked investigation, handed in by the school's deadline.
@@ -837,13 +839,13 @@ starter_structure:
                 effort_hours_estimate: "10"
               tasks:
                 - "Write a hypothesis for why bread moulds faster in a damp kitchen"
-                - "Draft a full practice plan using your teacher's headings"
-                - "Ask your teacher to mark the practice plan before the assessed one"
+                - "Draft a full practice plan using the teacher's headings"
+                - "Ask the teacher to mark the practice plan before the assessed one"
                 - "Hand in the assessed plan by the school deadline"
             - name: Final SBA lab book check and submission
               description: |-
                 ## Purpose
-                Before your teacher sends marks and samples to CXC, every lab must be present, written up, dated and signed, and the selected labs must show each assessed skill. A final audit two weeks before the school's deadline leaves time to rewrite a weak report or redo a missing drawing.
+                Before the teacher sends marks and samples to CXC, every lab must be present, written up, dated and signed, and the selected labs must show each assessed skill. A final audit two weeks before the school's deadline leaves time to rewrite a weak report or redo a missing drawing.
 
                 ## Milestones
                 1. Every lab in the tracker matched to a write-up in the book.
@@ -861,7 +863,7 @@ starter_structure:
               tasks:
                 - "Tick each lab in the tracker against the lab book"
                 - "List any missing write-ups and agree dates to redo them"
-                - "Ask your teacher which labs are being submitted for each skill"
+                - "Ask the teacher which labs are being submitted for each skill"
                 - "Hand in the lab book and keep the photo backup"
             - name: Graphs, tables and data analysis questions
               description: |-
@@ -881,7 +883,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Write a graph checklist from your teacher's rules and the mark schemes"
+                - "Write a graph checklist from the teacher's rules and the mark schemes"
                 - "Do one past paper graph question and check it against the checklist @recurring(monthly:8)"
                 - "Practise describing a trend using two figures from the data"
                 - "Redraw one old graph that lost marks"
@@ -891,7 +893,7 @@ starter_structure:
                 Longer Paper 02 questions reward linked, logical answers: a point, the biology behind it and an example. Writing one timed extended answer a month on a past question, such as how the structure of the alveolus suits gas exchange, then comparing it with the mark scheme, builds the skill that lifts a good grade to a top one.
 
                 ## Milestones
-                1. A simple answer structure of point, explanation and example written in your folder.
+                1. A simple answer structure of point, explanation and example written in the folder.
                 2. Six extended answers written under time across the year.
                 3. Each answer marked against the scheme with the missing points added.
                 4. A bank of model answers for the topics that come up most often.
@@ -910,10 +912,10 @@ starter_structure:
             - name: Examiner reports and mark schemes for Biology
               description: |-
                 ## Purpose
-                CXC publishes subject reports after each sitting that describe how candidates answered each question and where they went wrong. Reading the last few Biology reports gives you the examiners' own list of common mistakes, which is better revision advice than any rumour in the class chat.
+                CXC publishes subject reports after each sitting that describe how candidates answered each question and where they went wrong. Reading the last few Biology reports gives your teen the examiners' own list of common mistakes, which is better revision advice than any rumour in the class chat.
 
                 ## Milestones
-                1. The most recent Biology subject reports obtained from CXC or your teacher.
+                1. The most recent Biology subject reports obtained from CXC or the teacher.
                 2. Recurring weaknesses listed on one page.
                 3. Each weakness linked to a topic project or the mistakes log.
                 4. Notes added when a new report is published.
@@ -927,16 +929,16 @@ starter_structure:
               tasks:
                 - "Look for the latest Biology subject reports on the CXC website"
                 - "List every weakness mentioned in more than one report"
-                - "Copy the relevant ones into your mistakes log"
+                - "Copy the relevant ones into the mistakes log"
                 - "Check for a newly published Biology subject report @recurring(yearly)"
             - name: Full Biology mock exam under exam conditions
               description: |-
                 ## Purpose
-                A mock that copies the real thing, same papers, same timing, no notes and a quiet room, tells you where you stand with enough weeks left to act. Whether the school runs one or you set it up at home, the value comes from marking it honestly and turning the results into a revision list.
+                A mock that copies the real thing, same papers, same timing, no notes and a quiet room, tells you both where things stand with enough weeks left to act. Whether the school runs one or you set it up at home together, the value comes from marking it honestly and turning the results into a revision list.
 
                 ## Milestones
                 1. A full Paper 01 and Paper 02 sat under timed conditions.
-                2. Both papers marked with the official schemes or by your teacher.
+                2. Both papers marked with the official schemes or by the teacher.
                 3. A mark for each syllabus section worked out.
                 4. A revision list of the five weakest topics written from the results.
               priority: high
@@ -948,7 +950,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Confirm the date of the school mock or choose a weekend for your own"
+                - "Confirm the date of the school mock or choose a weekend for a home one"
                 - "Sit Paper 01 and Paper 02 back to back under timed conditions"
                 - "Mark both papers and total the marks by syllabus section"
                 - "Write the five weakest topics into the revision timetable"
@@ -973,12 +975,12 @@ starter_structure:
               tasks:
                 - "List the topics flagged by the mock and the mistakes log"
                 - "Draw up an eight-week timetable with weak topics first"
-                - "Share the timetable with a parent or guardian"
+                - "Ask your teen to share the timetable with you"
                 - "Redraw one key Biology diagram from memory @recurring(daily)"
             - name: Last full past paper and the final week
               description: |-
                 ## Purpose
-                About a week before the Biology exam, sit the most recent past paper you have kept unseen, under full conditions, then spend the remaining days fixing the mistakes it shows and resting. Cramming new topics in the final week rarely helps, while tightening the ones you know usually does.
+                About a week before the Biology exam, the most recent past paper kept unseen is sat under full conditions, and the remaining days go on fixing the mistakes it shows and resting. Cramming new topics in the final week rarely helps, while tightening the known ones usually does.
 
                 ## Milestones
                 1. The most recent unseen past paper sat under exam timing.
@@ -997,20 +999,20 @@ starter_structure:
                 - "Keep one recent past paper unseen for this week"
                 - "Sit it under exam timing in a quiet room"
                 - "Fix every mistake it shows the same evening"
-                - "Reread your ten most repeated mistakes before bed"
+                - "Reread the ten most repeated mistakes before bed"
             - name: CSEC Biology exam day plan
               description: |-
                 ## Purpose
-                Exam day goes wrong in small ways: a lost candidate slip, a blunt pencil, a late taxi, a forgotten ruler. Checking the timetable twice, packing the evening before and knowing exactly how you will get there leaves all your attention for the paper.
+                Exam day goes wrong in small ways: a lost candidate slip, a blunt pencil, a late taxi, a forgotten ruler. Checking the timetable twice, packing the evening before and agreeing exactly how your teen will get there leaves all their attention for the paper.
 
                 ## Milestones
                 1. The Biology paper dates, times and venue confirmed from the official timetable.
                 2. Candidate slip and identification packed.
                 3. Pencils, eraser, ruler, pens and any permitted calculator packed the night before.
-                4. Transport and a leaving time agreed with a parent or guardian.
+                4. Transport and a leaving time agreed together.
 
                 ## Notes
-                Check with your school whether a calculator is allowed for Biology and which kind. Do not assume.
+                Check with the school whether a calculator is allowed for Biology and which kind. Do not assume.
               priority: high
               deadlineOffsetDays: 270
               frontmatter:
@@ -1021,13 +1023,13 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Check the official timetable for the Biology paper dates and times"
-                - "Pack your candidate slip, ID and stationery the night before"
-                - "Agree transport and a time to leave with a parent or guardian"
+                - "Pack the candidate slip, ID and stationery the night before"
+                - "Agree transport and a time to leave together"
                 - "Read the instructions on the front of each paper before starting"
             - name: Parent support for a CSEC Biology student
               description: |-
                 ## Purpose
-                Parents do not need to know any biology to help: a quiet place to study, data or printing for past papers, a short weekly check-in and a calm house before exams matter more. Ten minutes on a Sunday about what was covered, what is due and what is worrying your child catches SBA deadlines and slumps early.
+                Parents do not need to know any biology to help: a quiet place to study, data or printing for past papers, a short weekly check-in and a calm house before exams matter more. Ten minutes on a Sunday about what was covered, what is due and what is worrying your teen catches SBA deadlines and slumps early.
 
                 ## Milestones
                 1. A study space with a table, good light and a shelf for the Biology folder.
@@ -1043,7 +1045,7 @@ starter_structure:
               tasks:
                 - "Set up a quiet study spot with a table, light and a shelf"
                 - "Copy SBA deadlines and mock dates into the family calendar"
-                - "Hold a ten-minute Biology check-in with your child @recurring(weekly:sun)"
+                - "Hold a ten-minute Biology check-in with your teen @recurring(weekly:sun)"
                 - "Ask the Biology teacher how labs are going at the next parents' evening"
             - name: Home kitchen biology experiments for parent and child
               description: |-
@@ -1067,12 +1069,12 @@ starter_structure:
               tasks:
                 - "Pick an experiment that matches this month's Biology topic"
                 - "Gather the materials from the kitchen and set it up together"
-                - "Run one kitchen experiment with your child @recurring(monthly:9)"
-                - "Ask your child to explain the result as if answering an exam question"
+                - "Run one kitchen experiment with your teen @recurring(monthly:9)"
+                - "Ask your teen to explain the result as if answering an exam question"
             - name: Teacher or tutor tracker for a CSEC Biology class
               description: |-
                 ## Purpose
-                A Biology teacher or lessons tutor juggles syllabus coverage, lab scheduling, SBA marking and moderation for a whole group. One tracker showing each student's topic coverage, labs completed by skill and mock scores makes it easy to see who is behind and what to reteach before the SBA deadline.
+                A Biology teacher or lessons tutor juggles syllabus coverage, lab scheduling, SBA marking and moderation for a whole group. One tracker showing each student's topic coverage, labs completed by skill and mock scores makes it easy to see who is behind and what to reteach before the SBA deadline. If your teen has a tutor, this is worth sharing with them.
 
                 ## Milestones
                 1. A class tracker with topics, labs by skill and test scores for each student.
@@ -1096,13 +1098,13 @@ starter_structure:
                 Private candidates who cannot do school-based labs sit Paper 032 instead, a written paper that tests practical skills such as planning, observing, drawing and interpreting data. Without a school lab, the answer is regular practice with past or specimen Paper 032s and with home experiments, so the skills feel familiar on the day.
 
                 ## Milestones
-                1. Your entry as a private candidate sitting Paper 032 confirmed with the local registrar.
+                1. Entry as a private candidate sitting Paper 032 confirmed with the local registrar.
                 2. Past or specimen Paper 032s gathered.
                 3. Five practical-style questions answered and marked.
                 4. Two home experiments written up in full lab report form.
 
                 ## Notes
-                This project applies only if you are entered for Paper 032. Registration and fees are handled through your country's local registrar, so check the details with them.
+                This project applies only if your teen, or you as an adult candidate, are entered for Paper 032. Registration and fees are handled through the country's local registrar, so check the details with them.
               priority: low
               frontmatter:
                 mode: building
@@ -1111,7 +1113,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "12"
               tasks:
-                - "Confirm with the local registrar that you are entered for Paper 032"
+                - "Confirm the Paper 032 entry with the local registrar"
                 - "Gather past or specimen Paper 032s"
                 - "Answer one practical-style question and mark it against the scheme"
                 - "Write up two home experiments in full lab report form"
@@ -1140,13 +1142,13 @@ starter_structure:
             - name: Results, review requests and the next step after CSEC Biology
               description: |-
                 ## Purpose
-                Results arrive some weeks after the sitting, and a grade that looks wrong can be queried through your school within a set window. Knowing beforehand how to read the result slip and its profile grades, how a review request works and what grade sixth form or CAPE Biology asks for avoids a rushed decision on results day.
+                Results arrive some weeks after the sitting, and a grade that looks wrong can be queried through the school within a set window. Knowing beforehand how to read the result slip and its profile grades, how a review request works and what grade sixth form or CAPE Biology asks for avoids a rushed decision on results day.
 
                 ## Milestones
                 1. The result slip read, with the overall grade and the profile grades understood.
                 2. The school's process and deadline for a review request confirmed.
                 3. A decision recorded on whether to query the result.
-                4. Entry requirements for CAPE Biology or your next course checked against the result.
+                4. Entry requirements for CAPE Biology or the next course checked against the result.
               priority: medium
               deadlineOffsetDays: 330
               frontmatter:
@@ -1158,12 +1160,12 @@ starter_structure:
               tasks:
                 - "Ask the school how results are released and how profiles are shown"
                 - "Note the deadline for requesting a review of results"
-                - "Compare your result with the entry requirement for your next course"
-                - "Record your decision on whether to query or move on"
+                - "Compare the result with the entry requirement for the next course"
+                - "Together, record the decision on whether to query or move on"
 ---
 
 # CSEC Biology
 
-This area takes a CSEC Biology student from the first syllabus check to results day, in the order the subject is taught and examined. It starts with the foundations (the current syllabus, a diagnostic paper, a two-year plan, drawing skills and the SBA lab book), sets up the weekly routines, then works through the topics in syllabus order, from classification and ecology, through cells and life processes, to reproduction, genetics and variation, before the SBA submission, exam technique, the mock and exam day, with projects for parents, teachers and private candidates at the end.
+This area helps a parent or guardian support a CSEC Biology student from the first syllabus check to results day, in the order the subject is taught and examined. It starts with the foundations (the current syllabus, a diagnostic paper, a two-year plan, drawing skills and the SBA lab book), sets up the weekly routines, then works through the topics in syllabus order, from classification and ecology, through cells and life processes, to reproduction, genetics and variation, before the SBA submission, exam technique, the mock and exam day, with home support projects and projects for teachers and private candidates at the end.
 
-The rhythm is two weekly study sessions, daily flashcards, a weekly specimen drawing and mistakes review, a monthly timed Paper 01 and Paper 02 question, and a termly talk with your teacher. The Skills matrix, Habit tracker, Metrics log and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is two weekly study sessions, daily flashcards, a weekly specimen drawing and mistakes review, a monthly timed Paper 01 and Paper 02 question, and a termly talk with the Biology teacher. The Skills matrix, Habit tracker, Metrics log and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

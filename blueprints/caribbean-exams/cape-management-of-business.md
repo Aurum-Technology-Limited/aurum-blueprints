@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.cape-management-of-business
 name: CAPE Management of Business
-description: "A complete CAPE Management of Business plan for Units 1 and 2: the syllabus and papers, all six modules, case answers, finance and operations calculations, the internal assessment, timed past papers, the mock and exam day."
+description: "A CAPE Management of Business plan for parents supporting a sixth former through Units 1 and 2: the syllabus, all six modules, finance calculations, the internal assessment, timed past papers, the mock and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, cape-management-of-business, student, parent, educator, cxc, cape, management-of-business]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,43 +25,45 @@ starter_structure:
             - name: Current CAPE Management of Business syllabus and paper check
               description: |-
                 ## Purpose
-                CAPE Management of Business is examined as two separate units with three modules each: Unit 1 covers business and its environment, the management of people, and business finance and accounting, while Unit 2 covers production and operations management, fundamentals of marketing, and small business management. Each unit has a multiple-choice Paper 01, a written Paper 02, and either the internal assessment as Paper 031 or Paper 032 for private candidates. An evening with the current syllabus and the CXC timetable means everything else in this area is aimed at the exam you will actually sit.
+                CAPE Management of Business is examined as two separate units with three modules each: Unit 1 covers business and its environment, the management of people, and business finance and accounting, while Unit 2 covers production and operations management, fundamentals of marketing, and small business management. Each unit has a multiple-choice Paper 01, a written Paper 02, and either the internal assessment as Paper 031 or Paper 032 for private candidates. An evening with your teen, the current syllabus and the CXC timetable means everything else in this area is aimed at the exam they will actually sit.
 
                 ## Milestones
-                1. The current syllabus downloaded from the CXC website and its edition year written inside your folder.
-                2. The format of Paper 01, Paper 02 and Paper 031 or 032 for your unit summarised on one page in the syllabus's own words.
+                1. The current syllabus downloaded from the CXC website and its edition year written inside the subject folder.
+                2. The format of Paper 01, Paper 02 and Paper 031 or 032 for your teen's unit summarised on one page in the syllabus's own words.
                 3. The specific objectives of all six modules listed in syllabus order, ready to tick off.
-                4. Your school's plan for which unit is sat in which year, and its internal IA deadlines, noted.
+                4. The school's plan for which unit is sat in which year, and its internal IA deadlines, noted.
 
                 ## Notes
-                Textbooks and handed-down notes can lag a syllabus revision by several years. Where they disagree with the CXC document, follow the CXC document and ask your teacher.
+                This plan is for a parent or guardian supporting a teenager through CAPE Management of Business, and an older student can follow it with a parent's support.
+
+                Textbooks and handed-down notes can lag a syllabus revision by several years. Where they disagree with the CXC document, follow the CXC document and ask the teacher.
               priority: high
               deadlineOffsetDays: 10
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A one-page summary from the current CXC syllabus lists both units, all six modules, the papers for your unit and the sitting."
+                success_criteria: "A one-page summary from the current CXC syllabus lists both units, all six modules, the papers for your teen's unit and the sitting."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Check the current syllabus and timetable on the CXC website and note the paper format"
-                - "Write the syllabus edition year inside the cover of your folder"
+                - "Together, check the current syllabus and timetable on the CXC website and note the paper format"
+                - "Write the syllabus edition year inside the cover of the subject folder"
                 - "List the specific objectives of all six modules in syllabus order"
-                - "Ask your teacher which unit you sit this year and the school's IA deadlines"
+                - "Ask the teacher which unit your teen sits this year and the school's IA deadlines"
                 - "Recheck the syllabus edition at the start of each school year @recurring(yearly)"
             - name: Diagnostic Management of Business past paper and baseline
               description: |-
                 ## Purpose
-                Before revising anything, sit one recent Paper 01 and two Paper 02 questions under rough time limits, then mark them honestly with the mark scheme. The scores show whether your problem is knowledge, calculation or essay technique, and they give you a baseline to measure every later paper against.
+                Before revising anything, your teen sits one recent Paper 01 and two Paper 02 questions under rough time limits, then marks them honestly with the mark scheme. The scores show whether the problem is knowledge, calculation or essay technique, and they give a baseline to measure every later paper against, so you both know what progress looks like.
 
                 ## Milestones
                 1. One recent Paper 01 sat in a single sitting and marked.
                 2. Two Paper 02 questions, one theory and one with calculations, answered and marked against the mark scheme.
                 3. Every lost mark sorted into knowledge, calculation, application to the case or essay structure.
-                4. Baseline scores written at the top of your progress log, with the three weakest syllabus objectives named.
+                4. Baseline scores written at the top of the progress log, with the three weakest syllabus objectives named.
 
                 ## Notes
-                Sit it before you feel ready. A diagnostic is useful precisely because it is uncomfortable.
+                Encourage them to sit it before they feel ready. A diagnostic is useful precisely because it is uncomfortable.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -71,21 +73,21 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Get a recent Paper 01 and Paper 02 with mark schemes from your teacher or the CXC store"
+                - "Get a recent Paper 01 and Paper 02 with mark schemes from the teacher or the CXC store"
                 - "Sit Paper 01 in one go without notes"
                 - "Answer one theory and one calculation question from Paper 02"
                 - "Sort every lost mark into knowledge, calculation, application or structure"
-                - "Record your baseline scores and the three weakest objectives"
+                - "Record the baseline scores and the three weakest objectives"
             - name: Two-unit study plan across six modules
               description: |-
                 ## Purpose
-                Many schools teach Unit 1 in lower sixth and Unit 2 in upper sixth, and each year goes faster than it looks once IA work, mock exams and other subjects compete for the same evenings. A plan that maps every module to weeks, with IA milestones and buffer weeks already marked, stops the last module being crammed in the final month.
+                Many schools teach Unit 1 in lower sixth and Unit 2 in upper sixth, and each year goes faster than it looks once IA work, mock exams and other subjects compete for the same evenings. A plan your teen draws up that maps every module to weeks, with IA milestones and buffer weeks already marked, stops the last module being crammed in the final month and shows you which evenings to protect.
 
                 ## Milestones
-                1. Each module of your unit mapped to school weeks, in the order your teacher teaches it.
+                1. Each module of the unit mapped to school weeks, in the order the teacher teaches it.
                 2. IA milestones, mock exam dates and school holidays marked on the same calendar.
                 3. Two buffer weeks left empty, one before the mock and one before the final revision period.
-                4. The plan shared with a parent or guardian so evening and weekend study time is protected.
+                4. The plan shared with you so evening and weekend study time is protected.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -95,7 +97,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Get your teacher's scheme of work for the current unit"
+                - "Your teen gets the teacher's scheme of work for the current unit"
                 - "Map each module and its objectives to calendar weeks"
                 - "Mark IA milestones, mocks and holidays on the same plan"
                 - "Leave two empty buffer weeks before the mock and the final revision"
@@ -103,7 +105,7 @@ starter_structure:
             - name: Command words and the business essay answer
               description: |-
                 ## Purpose
-                Paper 02 rewards answers that do exactly what the command word asks: outline earns less than explain, and discuss or evaluate needs both sides and a judgement. A paragraph pattern of point, explanation, application to the business in the case and a short conclusion turns knowledge you already have into marks you are currently missing.
+                Paper 02 rewards answers that do exactly what the command word asks: outline earns less than explain, and discuss or evaluate needs both sides and a judgement. A paragraph pattern of point, explanation, application to the business in the case and a short conclusion turns knowledge your teen already has into marks they are currently missing.
 
                 ## Milestones
                 1. A one-page sheet of command words from the syllabus glossary, each with what an answer must contain.
@@ -129,11 +131,11 @@ starter_structure:
             - name: Glossary of business terms and theorists
               description: |-
                 ## Purpose
-                Multiple-choice items often turn on the exact meaning of terms such as span of control, working capital, lead time or market skimming, and essays lose marks when theorists are mixed up. A growing glossary, five entries a week with a Caribbean example each, becomes your Paper 01 revision tool in the final term.
+                Multiple-choice items often turn on the exact meaning of terms such as span of control, working capital, lead time or market skimming, and essays lose marks when theorists are mixed up. A growing glossary, five entries a week with a Caribbean example each, becomes your teen's Paper 01 revision tool in the final term.
 
                 ## Milestones
                 1. A glossary set up with columns for term, definition, module and a Caribbean example.
-                2. Every key term from the module you are studying entered before the next module starts.
+                2. Every key term from the module being studied entered before the next module starts.
                 3. Theorists listed with their idea in one line, from Taylor and Fayol to Maslow, Herzberg and Mintzberg.
                 4. Over two hundred entries by the start of the final revision period.
               priority: medium
@@ -145,13 +147,13 @@ starter_structure:
                 effort_hours_estimate: "12"
               tasks:
                 - "Set up a glossary with term, definition, module and example columns"
-                - "Add every key term from the module you are studying now"
+                - "Add every key term from the module being studied now"
                 - "Write each theorist's main idea in one line"
                 - "Add five new terms with a Caribbean example each @recurring(weekly:thu)"
             - name: Caribbean company case file for exam examples
               description: |-
                 ## Purpose
-                Examiners reward answers that apply theory to real businesses, and a student who can name a regional conglomerate, a credit union, a state enterprise and a family-run shop can do that in every module. A file of ten to fifteen Caribbean organisations, with notes on structure, finance, operations and marketing, gives you ready examples for Paper 02 and ideas for the IA.
+                Examiners reward answers that apply theory to real businesses, and a student who can name a regional conglomerate, a credit union, a state enterprise and a family-run shop can do that in every module. A file of ten to fifteen Caribbean organisations, with notes on structure, finance, operations and marketing, gives your teen ready examples for Paper 02 and ideas for the IA.
 
                 ## Milestones
                 1. Ten organisations chosen across sectors and ownership types, including at least one cooperative or credit union and one state enterprise.
@@ -198,12 +200,12 @@ starter_structure:
             - name: Weekly Management of Business study sessions
               description: |-
                 ## Purpose
-                Two fixed sessions a week outside class do more than one long weekend cram: one to turn the week's lesson into notes, and one to practise questions on it. Fixing the days means business study does not lose out to whichever subject has the loudest deadline.
+                Two fixed sessions a week outside class do more than one long weekend cram: one to turn the week's lesson into notes, and one to practise questions on it. Agreeing the days with your teen means business study does not lose out to whichever subject has the loudest deadline.
 
                 ## Milestones
-                1. Two weekly session slots chosen and written into your timetable.
+                1. Two weekly session slots chosen and written into the study timetable.
                 2. Each session ending with a short note of what was covered and what is still unclear.
-                3. Unclear points taken to your teacher within the week.
+                3. Unclear points taken to the teacher within the week.
                 4. Eight consecutive weeks of sessions logged.
 
                 ## Notes
@@ -215,14 +217,14 @@ starter_structure:
                 success_criteria: "Two study sessions a week are logged for at least eight consecutive weeks, each with a note of unclear points."
                 cadence: rolling
               tasks:
-                - "Pick two fixed slots for business study and write them in your timetable"
+                - "Agree two fixed slots for business study and write them in the timetable"
                 - "End each session by writing one unclear point to ask about"
                 - "Hold a Management of Business study session @recurring(weekly:tue,sat)"
-                - "Take the week's unclear points to your teacher"
+                - "Your teen takes the week's unclear points to the teacher"
             - name: Daily ten-minute business theory recall
               description: |-
                 ## Purpose
-                Short daily recall from memory is one of the best-supported study methods, and this subject has plenty to recall: theorists, definitions, and the advantages and drawbacks of every form of ownership, production method and pricing strategy. Ten minutes on the maxi taxi or before bed, using your glossary as flashcards, keeps Unit 1 alive while you study Unit 2.
+                Short daily recall from memory is one of the best-supported study methods, and this subject has plenty to recall: theorists, definitions, and the advantages and drawbacks of every form of ownership, production method and pricing strategy. Ten minutes on the maxi taxi or before bed, using the glossary as flashcards, keeps Unit 1 alive while your teen studies Unit 2.
 
                 ## Milestones
                 1. Flashcards made from the glossary and sorted by module.
@@ -236,10 +238,10 @@ starter_structure:
                 success_criteria: "Recall is logged on at least five days a week for four consecutive weeks, using cards from every module studied so far."
                 cadence: rolling
               tasks:
-                - "Turn your glossary into flashcards sorted by module"
+                - "Turn the glossary into flashcards sorted by module"
                 - "Recall ten random cards before checking the answers @recurring(daily)"
-                - "Move cards you got wrong to the front of the pile"
-                - "Mix in old Unit 1 cards once you start Unit 2"
+                - "Move cards they got wrong to the front of the pile"
+                - "Mix in old Unit 1 cards once Unit 2 starts"
             - name: Monthly timed Paper 01 practice
               description: |-
                 ## Purpose
@@ -271,7 +273,7 @@ starter_structure:
 
                 ## Milestones
                 1. One timed Paper 02 question answered each month, rotating through all modules of the unit.
-                2. Each answer marked against the mark scheme or by your teacher.
+                2. Each answer marked against the mark scheme or by the teacher.
                 3. A mistakes log listing the cause of every lost mark.
                 4. One fix chosen each week from the log and used in the next answer.
               priority: high
@@ -283,12 +285,12 @@ starter_structure:
               tasks:
                 - "Choose a Paper 02 question from a different module each month"
                 - "Write one timed Paper 02 answer and mark it @recurring(monthly:19)"
-                - "Ask your teacher to mark one answer each term"
+                - "Your teen asks the teacher to mark one answer each term"
                 - "Review the mistakes log and choose one fix for the week @recurring(weekly:fri)"
-            - name: Termly progress talk with your business teacher
+            - name: Termly progress talk with the business teacher
               description: |-
                 ## Purpose
-                Teachers see patterns in your work that you miss, but in a full sixth form class they rarely have time to raise them unasked. A short planned conversation each term, with your scores and IA progress in hand, gets you specific advice and brings IA problems to light while they can still be fixed.
+                Teachers see patterns in a student's work that the student misses, but in a full sixth form class they rarely have time to raise them unasked. A short planned conversation each term, led by your teen with scores and IA progress in hand, gets specific advice and brings IA problems to light while they can still be fixed.
 
                 ## Milestones
                 1. Scores, mistakes log and IA stage summarised on half a page before the meeting.
@@ -305,14 +307,14 @@ starter_structure:
                 success_criteria: "Notes from a progress meeting each term record the teacher's advice and one action, with the previous action closed."
                 cadence: cyclic
               tasks:
-                - "Ask your teacher for a short progress meeting this term @recurring(quarterly)"
+                - "Your teen asks the teacher for a short progress meeting this term @recurring(quarterly)"
                 - "Summarise scores, mistakes and IA stage on half a page"
-                - "Write three questions to ask"
+                - "Agree three questions for them to ask"
                 - "Record the advice and one action with a date"
             - name: Evolution of business and Caribbean economic systems
               description: |-
                 ## Purpose
-                Unit 1 opens with how business developed, from barter and plantation economies to the modern firm, and with the market, command and mixed systems that shape it. Caribbean economies have moved between these, through nationalisation in some territories and privatisation later, which gives you strong examples for any question on the role of the state.
+                Unit 1 opens with how business developed, from barter and plantation economies to the modern firm, and with the market, command and mixed systems that shape it. Caribbean economies have moved between these, through nationalisation in some territories and privatisation later, which gives strong examples for any question on the role of the state.
 
                 ## Milestones
                 1. Notes on the stages of business evolution with one Caribbean illustration each.
@@ -334,18 +336,18 @@ starter_structure:
             - name: Forms of business ownership from sole trader to state enterprise
               description: |-
                 ## Purpose
-                Questions on ownership ask you to compare sole traders, partnerships, private and public companies, cooperatives, credit unions, franchises and state enterprises, and to advise a business on changing form. A grid on liability, control, finance and continuity answers most of them, and a few local examples make the advice convincing.
+                Questions on ownership ask candidates to compare sole traders, partnerships, private and public companies, cooperatives, credit unions, franchises and state enterprises, and to advise a business on changing form. A grid on liability, control, finance and continuity answers most of them, and a few local examples make the advice convincing.
 
                 ## Milestones
                 1. A grid comparing at least seven forms of ownership on liability, control, sources of finance and continuity.
-                2. One Caribbean example of each form noted from your case file.
+                2. One Caribbean example of each form noted from the case file.
                 3. A model answer advising a growing family business whether to incorporate.
                 4. Three past-paper questions on ownership answered and marked.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A seven-form ownership grid with local examples and three marked past-paper answers is in your Unit 1 folder."
+                success_criteria: "A seven-form ownership grid with local examples and three marked past-paper answers is in the Unit 1 folder."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
@@ -356,7 +358,7 @@ starter_structure:
             - name: Stakeholders, objectives and the business environment
               description: |-
                 ## Purpose
-                A business's mission, vision and objectives sit inside an environment it cannot control, and the syllabus expects you to analyse both. Practising stakeholder mapping and a PEST or PESTLE analysis on a real Caribbean firm, including hurricanes, exchange rates and regional trade rules, turns a list of acronyms into analysis an examiner will credit.
+                A business's mission, vision and objectives sit inside an environment it cannot control, and the syllabus expects students to analyse both. Practising stakeholder mapping and a PEST or PESTLE analysis on a real Caribbean firm, including hurricanes, exchange rates and regional trade rules, turns a list of acronyms into analysis an examiner will credit.
 
                 ## Milestones
                 1. Mission, vision and SMART objectives explained with a regional example of each.
@@ -378,10 +380,10 @@ starter_structure:
             - name: Business ethics and corporate social responsibility
               description: |-
                 ## Purpose
-                Ethics questions ask you to weigh profit against obligations to workers, customers, the community and the environment, often through a short scenario. Collecting regional cases, such as a quarry near a village, a food product recall or a company's scholarship programme, gives you the evidence to argue both sides and reach a judgement.
+                Ethics questions ask candidates to weigh profit against obligations to workers, customers, the community and the environment, often through a short scenario. Collecting regional cases, such as a quarry near a village, a food product recall or a company's scholarship programme, gives your teen the evidence to argue both sides and reach a judgement. These cases also make good dinner-table conversation.
 
                 ## Milestones
-                1. Definitions of ethics and social responsibility, and the arguments for and against CSR, in your own words.
+                1. Definitions of ethics and social responsibility, and the arguments for and against CSR, in your teen's own words.
                 2. Three regional cases of ethical dilemmas or CSR programmes noted with sources.
                 3. A two-sided answer to a scenario question that ends in a reasoned judgement.
                 4. Three past-paper ethics questions answered and marked.
@@ -400,7 +402,7 @@ starter_structure:
             - name: Decision making process for managers
               description: |-
                 ## Purpose
-                Managers decide under uncertainty, and the syllabus asks you to know the stages of rational decision making and the different types of decisions. Tracing one real decision from your case file, from defining the problem to reviewing the outcome, makes the theory easy to apply under exam pressure.
+                Managers decide under uncertainty, and the syllabus asks students to know the stages of rational decision making and the different types of decisions. Tracing one real decision from the case file, from defining the problem to reviewing the outcome, makes the theory easy to apply under exam pressure.
 
                 ## Milestones
                 1. The stages of the decision-making process listed with a sentence on each.
@@ -417,12 +419,12 @@ starter_structure:
               tasks:
                 - "List the stages of rational decision making in order"
                 - "Sort ten example decisions into strategic, tactical and operational"
-                - "Trace one real business decision from your case file through every stage"
+                - "Trace one real business decision from the case file through every stage"
                 - "Answer two past-paper decision questions and mark them"
             - name: Management thought from scientific management to contingency
               description: |-
                 ## Purpose
-                Module 2 begins with the schools of management thought: Taylor's scientific management, Fayol's principles, Weber's bureaucracy, the human relations school after Mayo, and the systems and contingency approaches. A timeline with each school's core idea, its limits and a modern workplace that still runs on it helps you compare them, which is what most questions ask.
+                Module 2 begins with the schools of management thought: Taylor's scientific management, Fayol's principles, Weber's bureaucracy, the human relations school after Mayo, and the systems and contingency approaches. A timeline with each school's core idea, its limits and a modern workplace that still runs on it makes them easier to compare, which is what most questions ask.
 
                 ## Milestones
                 1. A timeline of the main schools with key thinkers and one core idea each.
@@ -444,7 +446,7 @@ starter_structure:
             - name: Functions of management and organisational structure
               description: |-
                 ## Purpose
-                Planning, organising, leading and controlling are tested on their own and inside case studies about restructuring. Drawing organisation charts for real or case businesses, covering tall and flat structures, span of control, centralisation and matrix forms, gives you the vocabulary and the diagrams for both kinds of question.
+                Planning, organising, leading and controlling are tested on their own and inside case studies about restructuring. Drawing organisation charts for real or case businesses, covering tall and flat structures, span of control, centralisation and matrix forms, gives your teen the vocabulary and the diagrams for both kinds of question.
 
                 ## Milestones
                 1. Each management function explained with an example from one business.
@@ -467,7 +469,7 @@ starter_structure:
             - name: Motivation theories applied to Caribbean workplaces
               description: |-
                 ## Purpose
-                Maslow, Herzberg, McGregor, McClelland and Vroom turn up often in Unit 1 papers, and examiners want them applied, not recited. Testing each theory against real local jobs, such as a hotel worker on seasonal contracts or a public servant on a fixed pay scale, prepares you to recommend financial and non-financial incentives that fit the case.
+                Maslow, Herzberg, McGregor, McClelland and Vroom turn up often in Unit 1 papers, and examiners want them applied, not recited. Testing each theory against real local jobs, such as a hotel worker on seasonal contracts or a public servant on a fixed pay scale, prepares a candidate to recommend financial and non-financial incentives that fit the case.
 
                 ## Milestones
                 1. Content and process theories separated, with each theory summarised in three lines.
@@ -490,12 +492,12 @@ starter_structure:
             - name: Leadership styles, groups and team performance
               description: |-
                 ## Purpose
-                Leadership questions ask which style suits a situation, and group questions ask why teams succeed or fall apart. Comparing autocratic, democratic, laissez-faire, transformational and situational leadership, then applying Tuckman's stages to a sports team, church group or sixth form committee you know, gives you examples nobody else will use.
+                Leadership questions ask which style suits a situation, and group questions ask why teams succeed or fall apart. Comparing autocratic, democratic, laissez-faire, transformational and situational leadership, then applying Tuckman's stages to a sports team, church group or sixth form committee your teen knows, gives them examples nobody else will use.
 
                 ## Milestones
                 1. Leadership styles compared on decision speed, staff morale and the situations each suits.
                 2. Trait, behavioural and contingency approaches to leadership summarised.
-                3. Tuckman's stages and the causes of group cohesion explained with a group you belong to.
+                3. Tuckman's stages and the causes of group cohesion explained with a group your teen belongs to.
                 4. Three past-paper leadership or group questions answered and marked.
               priority: medium
               frontmatter:
@@ -506,13 +508,13 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Compare five leadership styles in a table"
-                - "Describe a team you belong to using Tuckman's stages"
+                - "Describe a team they belong to using Tuckman's stages"
                 - "Write when a democratic style would fail in a case business"
                 - "Answer three past-paper leadership questions and mark them"
             - name: Conflict, change management and business communication
               description: |-
                 ## Purpose
-                Mergers, new technology and restructuring are common in Caribbean firms, and the syllabus asks how managers handle the conflict and resistance that follow. Pairing change models such as Lewin's with communication channels, barriers and conflict resolution methods prepares you for the long case questions where all three appear together.
+                Mergers, new technology and restructuring are common in Caribbean firms, and the syllabus asks how managers handle the conflict and resistance that follow. Pairing change models such as Lewin's with communication channels, barriers and conflict resolution methods is good preparation for the long case questions where all three appear together.
 
                 ## Milestones
                 1. Causes of conflict and five resolution approaches listed with an example each.
@@ -558,7 +560,7 @@ starter_structure:
             - name: Sources of finance and financial institutions
               description: |-
                 ## Purpose
-                Finance questions ask which source suits a given business: retained profit, an overdraft, a loan, leasing, debentures, shares, venture capital or a credit union loan. Knowing the regional institutions, including commercial banks, development banks, credit unions, insurance companies and the stock exchanges, lets you advise a case business with real options rather than a generic list.
+                Finance questions ask which source suits a given business: retained profit, an overdraft, a loan, leasing, debentures, shares, venture capital or a credit union loan. Knowing the regional institutions, including commercial banks, development banks, credit unions, insurance companies and the stock exchanges, lets your teen advise a case business with real options rather than a generic list.
 
                 ## Milestones
                 1. Internal and external, short and long-term sources of finance classified in one table.
@@ -580,7 +582,7 @@ starter_structure:
             - name: Financial statements and ratio analysis for managers
               description: |-
                 ## Purpose
-                Unit 1 does not ask you to keep the books, but it does expect you to read an income statement and a statement of financial position and to judge a business from its ratios. Calculating profitability, liquidity, efficiency and gearing ratios for a real Caribbean listed company, then explaining what they mean to a manager, is the best practice for case questions.
+                Unit 1 does not ask students to keep the books, but it does expect them to read an income statement and a statement of financial position and to judge a business from its ratios. Calculating profitability, liquidity, efficiency and gearing ratios for a real Caribbean listed company, then explaining what they mean to a manager, is the best practice for case questions.
 
                 ## Milestones
                 1. The main headings of an income statement and a statement of financial position explained.
@@ -625,7 +627,7 @@ starter_structure:
             - name: Investment appraisal with payback, ARR and NPV
               description: |-
                 ## Purpose
-                Choosing between projects, such as a new delivery van or a second branch, is tested with payback, accounting rate of return and net present value, followed by a discussion of non-financial factors. Practising the calculations until they are routine leaves your exam time for the evaluation, where many of the marks sit.
+                Choosing between projects, such as a new delivery van or a second branch, is tested with payback, accounting rate of return and net present value, followed by a discussion of non-financial factors. Practising the calculations until they are routine leaves exam time for the evaluation, where many of the marks sit.
 
                 ## Milestones
                 1. Payback, ARR and NPV calculated correctly for a two-project past-paper question.
@@ -647,7 +649,7 @@ starter_structure:
             - name: Production methods, location and capacity planning
               description: |-
                 ## Purpose
-                Unit 2 starts with how goods and services are produced: job, batch, flow and mass production, the choice of location and how much capacity to build. Caribbean firms face particular choices here, such as small home markets, imported inputs and free zones, so local examples make your evaluation sharper than a textbook's.
+                Unit 2 starts with how goods and services are produced: job, batch, flow and mass production, the choice of location and how much capacity to build. Caribbean firms face particular choices here, such as small home markets, imported inputs and free zones, so local examples make your teen's evaluation sharper than a textbook's.
 
                 ## Milestones
                 1. Job, batch, flow and mass production compared with a regional example each.
@@ -669,7 +671,7 @@ starter_structure:
             - name: Quality management from inspection to TQM
               description: |-
                 ## Purpose
-                Quality questions move from inspection and quality control to quality assurance, total quality management, quality circles and standards certification. Linking each to a regional example, such as a manufacturer certified through your national bureau of standards or a hotel chasing guest ratings, helps you explain why firms pay for quality.
+                Quality questions move from inspection and quality control to quality assurance, total quality management, quality circles and standards certification. Linking each to a regional example, such as a manufacturer certified through your national bureau of standards or a hotel chasing guest ratings, helps your teen explain why firms pay for quality.
 
                 ## Milestones
                 1. Quality control, quality assurance and TQM distinguished in a short table.
@@ -691,7 +693,7 @@ starter_structure:
             - name: Inventory control, EOQ and just-in-time
               description: |-
                 ## Purpose
-                Island businesses that import most of their stock face long lead times and shipping disruptions, which makes inventory control a live issue, not an abstract one. Drawing stock control charts, calculating economic order quantity and reorder levels, and weighing just-in-time against buffer stock prepares you for both calculation and discussion questions.
+                Island businesses that import most of their stock face long lead times and shipping disruptions, which makes inventory control a live issue, not an abstract one. Drawing stock control charts, calculating economic order quantity and reorder levels, and weighing just-in-time against buffer stock covers both calculation and discussion questions.
 
                 ## Milestones
                 1. A stock control chart drawn with buffer stock, reorder level and lead time marked.
@@ -761,13 +763,13 @@ starter_structure:
             - name: Marketing concepts, consumer behaviour and market research
               description: |-
                 ## Purpose
-                Fundamentals of Marketing opens with the shift from production and sales orientation to the marketing concept, then asks how consumers decide and how firms find out. Designing a small survey for a real product you buy, and comparing primary and secondary research, prepares you for research questions and can feed directly into your IA methods.
+                Fundamentals of Marketing opens with the shift from production and sales orientation to the marketing concept, then asks how consumers decide and how firms find out. Designing a small survey for a real product your teen buys, and comparing primary and secondary research, prepares them for research questions and can feed directly into the IA methods.
 
                 ## Milestones
                 1. Production, sales and marketing orientation compared with an example each.
                 2. The consumer buying process and its influences summarised.
                 3. Primary and secondary research methods and sampling methods compared.
-                4. A ten-question survey drafted for a product you buy.
+                4. A ten-question survey drafted for a product your teen buys.
                 5. Three past-paper market research questions answered and marked.
               priority: medium
               frontmatter:
@@ -779,12 +781,12 @@ starter_structure:
               tasks:
                 - "Compare production, sales and marketing orientation with examples"
                 - "Summarise the stages of the consumer buying process"
-                - "Draft a ten-question survey about a snack or phone plan you buy"
+                - "Draft a ten-question survey about a snack or phone plan they buy"
                 - "Answer three past-paper research questions and mark them"
             - name: Segmentation, targeting, positioning and the marketing mix
               description: |-
                 ## Purpose
-                Most marketing case questions end by asking you to recommend a strategy, which means choosing a target segment, a position and a marketing mix that fits. Mapping a regional brand's segments, drawing a positioning map and building its 4Ps or service 7Ps gives you a pattern you can reuse on any case.
+                Most marketing case questions end by asking candidates to recommend a strategy, which means choosing a target segment, a position and a marketing mix that fits. Mapping a regional brand's segments, drawing a positioning map and building its 4Ps or service 7Ps gives your teen a pattern they can reuse on any case.
 
                 ## Milestones
                 1. Bases of segmentation listed with a Caribbean example of each.
@@ -828,7 +830,7 @@ starter_structure:
             - name: Promotion, distribution and digital marketing in small markets
               description: |-
                 ## Purpose
-                Getting a product to customers spread across islands, and telling them about it, raises distribution and promotion choices that larger markets rarely face. Comparing channels of distribution, above and below the line promotion, and social media and online selling for a small Caribbean brand prepares you for the evaluation questions at the end of the module.
+                Getting a product to customers spread across islands, and telling them about it, raises distribution and promotion choices that larger markets rarely face. Comparing channels of distribution, above and below the line promotion, and social media and online selling for a small Caribbean brand prepares your teen for the evaluation questions at the end of the module.
 
                 ## Milestones
                 1. Channels of distribution drawn and compared for a manufacturer, an importer and a service firm.
@@ -850,7 +852,7 @@ starter_structure:
             - name: Entrepreneurship and the Caribbean small business sector
               description: |-
                 ## Purpose
-                Small Business Management asks what makes an entrepreneur, why small firms matter to Caribbean jobs and output, and how governments support them. Studying two local entrepreneurs, one from a news profile and one you can interview, gives you real traits and motives to discuss instead of a textbook list.
+                Small Business Management asks what makes an entrepreneur, why small firms matter to Caribbean jobs and output, and how governments support them. Studying two local entrepreneurs, one from a news profile and one your teen can interview, gives real traits and motives to discuss instead of a textbook list. If you know someone who runs a business, offering an introduction is an easy way to help.
 
                 ## Milestones
                 1. The characteristics and motives of entrepreneurs listed with evidence.
@@ -865,14 +867,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "List the traits and motives of entrepreneurs from your textbook"
+                - "List the traits and motives of entrepreneurs from the textbook"
                 - "Find one official statistic on small business employment in your country"
                 - "Interview or profile one local entrepreneur on one page"
                 - "Answer three past-paper entrepreneurship questions and mark them"
             - name: Small business plan for a case question
               description: |-
                 ## Purpose
-                Exam questions often ask what belongs in a business plan, or ask you to write parts of one for a case business, and lenders in the region expect the same sections. Writing a short plan for a realistic venture, such as a food truck, a lessons service or a craft brand, covers the executive summary, market analysis, operations, finance and risks in one practice piece.
+                Exam questions often ask what belongs in a business plan, or ask candidates to write parts of one for a case business, and lenders in the region expect the same sections. Writing a short plan for a realistic venture, such as a food truck, a lessons service or a craft brand, covers the executive summary, market analysis, operations, finance and risks in one practice piece.
 
                 ## Milestones
                 1. The sections of a business plan listed with what a lender looks for in each.
@@ -894,7 +896,7 @@ starter_structure:
             - name: Small business failure, support agencies and growth
               description: |-
                 ## Purpose
-                Why small businesses fail, where they can get help and how they grow are common evaluation questions. Listing the agencies in your country that fund or train small firms, such as a small business development agency, a development bank or a credit union, alongside causes of failure and growth options like franchising, gives you local, practical recommendations.
+                Why small businesses fail, where they can get help and how they grow are common evaluation questions. Listing the agencies in your country that fund or train small firms, such as a small business development agency, a development bank or a credit union, alongside causes of failure and growth options like franchising, gives your teen local, practical recommendations.
 
                 ## Milestones
                 1. Internal and external causes of small business failure listed with examples.
@@ -916,36 +918,36 @@ starter_structure:
             - name: Internal assessment brief, topic and host business
               description: |-
                 ## Purpose
-                The internal assessment for each unit is a substantial written project, and the hardest part is often securing a business willing to share information. Reading the syllabus guidelines, agreeing a topic tied to one module and getting a named contact at a host business in the first weeks leaves time for the research instead of a scramble near the deadline.
+                The internal assessment for each unit is a substantial written project, and the hardest part is often securing a business willing to share information, which is one place a parent's contacts can genuinely help. Reading the syllabus guidelines, agreeing a topic tied to one module and getting a named contact at a host business in the first weeks leaves time for the research instead of a scramble near the deadline.
 
                 ## Milestones
-                1. The IA guidelines and mark scheme in the syllabus read and summarised for your unit.
+                1. The IA guidelines and mark scheme in the syllabus read and summarised for your teen's unit.
                 2. Two possible topics drafted, each tied to a module and a clear research question.
                 3. A host business agreed, with a named contact and permission in writing.
-                4. The topic and host business approved by your teacher.
+                4. The topic and host business approved by the teacher.
 
                 ## Notes
-                Choose a business close to home and a contact who answers messages. A small local firm that will talk to you beats a large company that will not.
+                Help your teen choose a business close to home and a contact who answers messages. A small local firm that will talk to them beats a large company that will not.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
                 mode: building
                 output_kind: decision
-                success_criteria: "An IA topic with a clear research question and a host business with a named contact are approved in writing by your teacher."
+                success_criteria: "An IA topic with a clear research question and a host business with a named contact are approved in writing by the teacher."
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Read the IA guidelines and mark scheme in the syllabus for your unit"
+                - "Read the IA guidelines and mark scheme in the syllabus for the unit"
                 - "Draft two topics, each with one research question tied to a module"
-                - "Ask a business owner or manager to host your research"
-                - "Get the topic and host business approved by your teacher"
+                - "Your teen asks a business owner or manager to host the research; offer an introduction if you know one"
+                - "Get the topic and host business approved by the teacher"
             - name: IA data collection and analysis
               description: |-
                 ## Purpose
-                Interviews, questionnaires and documents from the host business are only useful if they answer your research question and are recorded properly. Planning the instruments, collecting the data in a set window and analysing it with tables and charts before writing anything keeps the project honest and the write-up quick.
+                Interviews, questionnaires and documents from the host business are only useful if they answer the research question and are recorded properly. Planning the instruments, collecting the data in a set window and analysing it with tables and charts before writing anything keeps the project honest and the write-up quick.
 
                 ## Milestones
-                1. Interview questions and a questionnaire drafted and checked by your teacher.
+                1. Interview questions and a questionnaire drafted and checked by the teacher.
                 2. Data collected from the host business and a sample of respondents within the planned weeks.
                 3. Results organised into tables and charts, each linked to the research question.
                 4. A one-page summary of findings drafted before the write-up starts.
@@ -958,10 +960,10 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
-                - "Draft interview questions and a questionnaire for your teacher to check"
-                - "Book a date to interview your contact at the host business"
+                - "Draft interview questions and a questionnaire for the teacher to check"
+                - "Book a date to interview the contact at the host business"
                 - "Organise the results into tables and charts"
-                - "Record your IA stage and flag any delay to your teacher @recurring(monthly:12)"
+                - "Ask your teen for their IA stage and check any delay has been flagged to the teacher @recurring(monthly:12)"
             - name: IA write-up and submission
               description: |-
                 ## Purpose
@@ -984,31 +986,31 @@ starter_structure:
               tasks:
                 - "Draft the introduction and methods sections first"
                 - "Write the analysis using named theories from the module"
-                - "Give the full draft to your teacher for feedback"
+                - "Your teen gives the full draft to the teacher for feedback"
                 - "Submit the final IA by the school's deadline"
             - name: Examiner reports and mark schemes for Management of Business
               description: |-
                 ## Purpose
-                CXC publishes subject reports after each sitting that say where candidates did well and where they lost marks, question by question. Reading the last three reports for your unit alongside the mark schemes tells you exactly what examiners mean by application and evaluation.
+                CXC publishes subject reports after each sitting that say where candidates did well and where they lost marks, question by question. Reading the last three reports for the unit alongside the mark schemes shows your teen exactly what examiners mean by application and evaluation.
 
                 ## Milestones
-                1. The last three available subject reports for your unit obtained.
+                1. The last three available subject reports for the unit obtained.
                 2. Recurring weaknesses noted in a list of ten points or fewer.
-                3. Two mark schemes compared with your own answers to the same questions.
-                4. Three habits changed in your Paper 02 writing as a result.
+                3. Two mark schemes compared with your teen's own answers to the same questions.
+                4. Three habits changed in their Paper 02 writing as a result.
               priority: medium
               deadlineOffsetDays: 200
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A list of recurring examiner criticisms from three reports, and three habits you have changed in response, is written down."
+                success_criteria: "A list of recurring examiner criticisms from three reports, and three habits your teen has changed in response, is written down."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Get the last three subject reports from your teacher or the CXC website"
+                - "Get the last three subject reports from the teacher or the CXC website"
                 - "List the weaknesses the reports mention more than once"
-                - "Compare your own answers with two mark schemes"
-                - "Choose three habits to change in your next timed answer"
+                - "Compare their own answers with two mark schemes"
+                - "Choose three habits to change in the next timed answer"
             - name: Full Management of Business mock exam
               description: |-
                 ## Purpose
@@ -1016,8 +1018,8 @@ starter_structure:
 
                 ## Milestones
                 1. Paper 01 and Paper 02 sat on set dates under exam timing.
-                2. Both papers marked with the mark scheme or by your teacher.
-                3. Results broken down by module and compared with your baseline.
+                2. Both papers marked with the mark scheme or by the teacher.
+                3. Results broken down by module and compared with the baseline.
                 4. The five weakest objectives carried into the final revision timetable.
               priority: high
               deadlineOffsetDays: 240
@@ -1028,17 +1030,17 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "8"
               tasks:
-                - "Set the dates for your mock Paper 01 and Paper 02"
+                - "Agree the dates for the mock Paper 01 and Paper 02 at home or school"
                 - "Sit both papers under exam timing without notes"
                 - "Mark both papers and break the results down by module"
                 - "Carry the five weakest objectives into the revision timetable"
             - name: Final eight weeks business revision timetable
               description: |-
                 ## Purpose
-                Eight weeks out, plan backwards from the exam date in the CXC timetable, mixing modules each week rather than revising one module at a time. A timetable that gives the weakest objectives more slots, includes a past paper every week and protects a rest day gets you to the exam rested and ready.
+                Eight weeks out, your teen plans backwards from the exam date in the CXC timetable, mixing modules each week rather than revising one module at a time. A timetable that gives the weakest objectives more slots, includes a past paper every week and protects a rest day gets them to the exam rested and ready, and tells you which weeks need the quietest house.
 
                 ## Milestones
-                1. Exam dates for your unit taken from the current CXC timetable.
+                1. Exam dates for the unit taken from the current CXC timetable.
                 2. Eight weeks of daily slots mixing all three modules, weighted to the weakest objectives.
                 3. One full past paper scheduled in each week.
                 4. One rest day each week kept free.
@@ -1051,14 +1053,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "30"
               tasks:
-                - "Copy your exam dates from the current CXC timetable"
-                - "Plan eight weeks of slots weighted to your weakest objectives"
+                - "Copy the exam dates from the current CXC timetable"
+                - "Plan eight weeks of slots weighted to the weakest objectives"
                 - "Schedule one full past paper in each of the eight weeks"
                 - "Complete the day's revision slot and tick it off @recurring(daily)"
             - name: CAPE Management of Business exam day plan
               description: |-
                 ## Purpose
-                Exam mornings go wrong over small things: a missing candidate number, a calculator with flat batteries, a late taxi. Planning the night before and the morning, plus how you will divide time between questions, means your attention goes on the paper.
+                Exam mornings go wrong over small things: a missing candidate number, a calculator with flat batteries, a late taxi. Planning the night before and the morning together, plus how your teen will divide time between questions, means their attention goes on the paper.
 
                 ## Milestones
                 1. Candidate number, centre and start times for each paper checked with the school.
@@ -1073,9 +1075,9 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Confirm your candidate number, centre and paper start times"
-                - "Pack pens, ID and a calculator if your paper allows one"
-                - "Write a time plan for each paper from its format"
+                - "Confirm your teen's candidate number, centre and paper start times"
+                - "Check pens, ID and a calculator are packed, if the paper allows one"
+                - "Ask them to write a time plan for each paper from its format"
                 - "Arrange transport and a backup for each exam morning"
             - name: Parent support for a CAPE business student
               description: |-
@@ -1084,7 +1086,7 @@ starter_structure:
 
                 ## Milestones
                 1. IA deadlines and exam dates copied onto the family calendar.
-                2. A quiet study space and two protected study evenings agreed with your child.
+                2. A quiet study space and two protected study evenings agreed with your teen.
                 3. A weekly check-in held for at least two months.
                 4. Any concern raised with the teacher before it becomes a crisis.
               priority: medium
@@ -1096,12 +1098,12 @@ starter_structure:
               tasks:
                 - "Copy the IA deadlines and exam dates onto the family calendar"
                 - "Agree a quiet study space and two protected evenings"
-                - "Ask your child about this week's business study progress @recurring(weekly:mon)"
-                - "Look over the IA calendar with your child @recurring(monthly:16)"
+                - "Ask your teen about this week's business study progress @recurring(weekly:mon)"
+                - "Look over the IA calendar with your teen @recurring(monthly:16)"
             - name: Teacher or tutor tracker for a Management of Business class
               description: |-
                 ## Purpose
-                Teachers and lessons tutors with a sixth form class need to see at a glance which students are behind on the IA and which syllabus objectives the class keeps getting wrong. A simple tracker updated monthly turns that into targeted revision lessons and earlier conversations with students and parents.
+                Teachers and tutors with a sixth form class need to see at a glance which students are behind on the IA and which syllabus objectives the class keeps getting wrong. If your teen has a tutor, or a teacher open to the idea, share this project with them. A simple tracker updated monthly turns that view into targeted revision lessons and earlier conversations with students and parents.
 
                 ## Milestones
                 1. A tracker listing each student, their IA stage and their latest scores by module.
@@ -1125,7 +1127,7 @@ starter_structure:
             - name: Paper 032 route for private business candidates
               description: |-
                 ## Purpose
-                Private and adult candidates who cannot complete the internal assessment through a school sit Paper 032 instead, and must cover all three modules of their unit without a class. Registering through the local registrar on time, taking the Paper 032 format from the syllabus and finding a tutor or study partner to mark answers keeps a self-taught candidate on track.
+                Private candidates who cannot complete the internal assessment through a school sit Paper 032 instead, and must cover all three modules of their unit without a class. If your teen is studying this way, registering through the local registrar on time, taking the Paper 032 format from the syllabus and finding a tutor or study partner to mark answers keeps them on track.
 
                 ## Milestones
                 1. Registration completed through the local CXC registrar before the deadline.
@@ -1143,34 +1145,34 @@ starter_structure:
               tasks:
                 - "Contact the local CXC registrar about private candidate registration"
                 - "Note the Paper 032 format from the current syllabus"
-                - "Find a tutor or study partner who will mark your answers"
-                - "Send one practice answer to your tutor for marking @recurring(monthly:5)"
+                - "Find a tutor or study partner who will mark their answers"
+                - "Send one practice answer to the tutor for marking @recurring(monthly:5)"
             - name: Grade I answers with evaluation and case application
               description: |-
                 ## Purpose
-                Students aiming for the top grade usually know the content already; what separates them is evaluation, applying every point to the case business and reaching a justified recommendation. Rewriting your best answers to that standard each month, with examiner report comments as the checklist, is the specialist work of the final year.
+                Students aiming for the top grade usually know the content already; what separates them is evaluation, applying every point to the case business and reaching a justified recommendation. Rewriting their best answers to that standard each month, with examiner report comments as the checklist, is the specialist work of the final year, and one your teen can lead.
 
                 ## Milestones
                 1. A checklist of top-grade features drawn from examiner reports and mark schemes.
                 2. Five past answers rewritten with evaluation in every paragraph and a justified conclusion.
-                3. Each rewrite marked by your teacher or against the mark scheme.
+                3. Each rewrite marked by the teacher or against the mark scheme.
                 4. A personal list of evaluation phrases and Caribbean examples ready for the exam.
               priority: low
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Five rewritten past answers, each marked and each ending in a justified recommendation, sit in your revision folder."
+                success_criteria: "Five rewritten past answers, each marked and each ending in a justified recommendation, sit in the revision folder."
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
                 - "Write a checklist of top-grade features from examiner reports"
                 - "Rewrite one past answer to grade I standard @recurring(monthly:15)"
-                - "Ask your teacher to mark one rewritten answer"
+                - "Your teen asks the teacher to mark one rewritten answer"
                 - "Build a list of evaluation phrases that weigh both sides"
 ---
 
 # CAPE Management of Business
 
-This area takes a CAPE Management of Business student from the first look at the syllabus to exam day, in the order the CXC syllabus sets out Unit 1 and Unit 2. It opens with foundations (the syllabus and paper format, a diagnostic paper, a study plan, essay technique, a glossary, a Caribbean case file and a formula sheet), sets up the weekly study and monthly timed practice routines, then works through the business environment, the management of people and business finance in Unit 1, and production and operations, marketing and small business management in Unit 2, before the internal assessment, examiner reports, the mock and exam day, with projects for parents, teachers, private candidates and students chasing a grade I at the end.
+This area helps a parent or guardian back a CAPE Management of Business student from the first look at the syllabus to exam day, in the order the CXC syllabus sets out Unit 1 and Unit 2. It opens with foundations (the syllabus and paper format, a diagnostic paper, a study plan, essay technique, a glossary, a Caribbean case file and a formula sheet), sets up the weekly study and monthly timed practice routines, then works through the business environment, the management of people and business finance in Unit 1, and production and operations, marketing and small business management in Unit 2, before the internal assessment, examiner reports, the mock and exam day, with projects for working alongside teachers and tutors, for private candidates and for teens chasing a grade I at the end.
 
-The rhythm is two study sessions a week, ten minutes of daily theory recall, weekly glossary, news and calculation work, a monthly timed Paper 01 set and Paper 02 answer, a monthly IA check and a termly talk with your teacher. The Habit tracker, Metrics log, Meeting notes and Skills matrix templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is two study sessions a week, ten minutes of daily theory recall, weekly glossary, news and calculation work, a monthly timed Paper 01 set and Paper 02 answer, a monthly IA check and a termly talk with the teacher, with your teen leading the work and you checking in. The Habit tracker, Metrics log, Meeting notes and Skills matrix templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

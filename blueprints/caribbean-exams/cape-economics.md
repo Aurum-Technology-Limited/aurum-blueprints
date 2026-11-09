@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.cape-economics
 name: CAPE Economics
-description: "CAPE Economics Units 1 and 2 topic by topic: consumer theory, market structures, market failure, distribution, national income, money, policy, trade and development, plus the IA, past papers and exam days."
+description: "CAPE Economics Units 1 and 2 for parents and guardians backing a sixth former: consumer theory, markets, market failure, national income, money, policy, trade and development, plus the IA, past papers and exam days."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, cape-economics, cxc, cape, economics, student, parent, educator, microeconomics, macroeconomics]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,16 +25,18 @@ starter_structure:
             - name: CAPE Economics syllabus and paper format check
               description: |-
                 ## Purpose
-                Before any notes are made, find out exactly what this year's examination asks of you. CXC revises syllabuses from time to time, and a module list, paper format or internal assessment rule copied from an older textbook can send weeks of study in the wrong direction. One evening with the current syllabus and timetable gives you a checklist of every topic and every paper you will face.
+                Before any notes are made, find out with your teen exactly what this year's examination asks of them. CXC revises syllabuses from time to time, and a module list, paper format or internal assessment rule copied from an older textbook can send weeks of study in the wrong direction. One evening with the current syllabus and timetable gives you both a checklist of every topic and every paper they will face.
 
                 ## Milestones
                 1. The current CAPE Economics syllabus downloaded from the CXC website, with its effective date noted.
                 2. Every module in Unit 1 and Unit 2 listed with its specific objectives as a tick list.
                 3. The format of Paper 01, Paper 02, Paper 031 and Paper 032 written down from the syllabus, not from memory or an old book.
-                4. This year's provisional exam dates for your unit or units copied from the CXC timetable or your school.
+                4. This year's provisional exam dates for the unit or units being sat copied from the CXC timetable or the school.
 
                 ## Notes
-                Write the paper format in your own notebook from the official document. Weightings and timings quoted in older revision guides are often out of date.
+                This plan is for a parent or guardian supporting a teenager through CAPE Economics, and an older student can follow it with a parent's support.
+
+                Ask your teen to write the paper format in their own notebook from the official document. Weightings and timings quoted in older revision guides are often out of date.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -47,15 +49,15 @@ starter_structure:
                 - "Download the current CAPE Economics syllabus from the CXC website"
                 - "Note the format of each paper from the syllabus, including Paper 031 and 032"
                 - "Turn the specific objectives for each module into a tick list"
-                - "Copy the provisional exam dates from the CXC timetable or your school"
+                - "Copy the provisional exam dates from the CXC timetable or the school"
                 - "Recheck the syllabus and timetable for changes each September @recurring(yearly)"
             - name: Taking Unit 1, Unit 2 or both in one year
               description: |-
                 ## Purpose
-                Most schools teach Unit 1 Microeconomics in Lower Six and Unit 2 Macroeconomics in Upper Six, but some students sit both units in one year, start with Unit 2, or need only one unit for a particular programme. Deciding the route early, with your teacher and the entry rules of the degrees you are aiming at, fixes the timetable and the order of every topic project that follows.
+                Most schools teach Unit 1 Microeconomics in Lower Six and Unit 2 Macroeconomics in Upper Six, but some students sit both units in one year, start with Unit 2, or need only one unit for a particular programme. Deciding the route early, with the teacher and the entry rules of the degrees your teen is aiming at, fixes the timetable and the order of every topic project that follows.
 
                 ## Milestones
-                1. Your school's plan for Economics units across Lower and Upper Six confirmed with your teacher.
+                1. The school's plan for Economics units across Lower and Upper Six confirmed with the teacher.
                 2. The unit requirements of two or three target degree programmes noted.
                 3. A decision recorded on which units to sit and in which year, with the reason.
                 4. Any registration consequence, such as an extra unit entry, checked with the school's CXC coordinator.
@@ -64,14 +66,14 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A written decision on which Economics units you will sit in which sitting, agreed with your teacher and checked against your target programmes."
+                success_criteria: "A written decision on which Economics units your teen will sit in which sitting, agreed with their teacher and checked against their target programmes."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Ask your Economics teacher how the school schedules Unit 1 and Unit 2"
+                - "Ask your teen to check with their Economics teacher how Unit 1 and Unit 2 are scheduled"
                 - "Look up whether two target degree programmes ask for both units"
                 - "Confirm any registration step for an extra unit with the CXC coordinator"
-                - "Write down the units you will sit and the year for each"
+                - "Write down the units to be sat and the year for each"
             - name: Bridging check from CSEC Economics or a fresh start
               description: |-
                 ## Purpose
@@ -84,7 +86,7 @@ starter_structure:
                 4. The weak items retested with every one answered correctly.
 
                 ## Notes
-                Not having CSEC Economics is common and is not a barrier, but the first month of Unit 1 assumes you can read a graph and work with percentages.
+                Not having CSEC Economics is common and is not a barrier, but the first month of Unit 1 assumes your teen can read a graph and work with percentages.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -94,10 +96,10 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "Ask your teacher for a CSEC-level diagnostic or use a CSEC past Paper 01"
+                - "Ask the teacher for a CSEC-level diagnostic or use a CSEC past Paper 01"
                 - "Mark the diagnostic and list every gap by topic"
                 - "Plan two weeks of catch-up on the three weakest gaps"
-                - "Retest yourself on the weak items once the catch-up is done"
+                - "Retest the weak items once the catch-up is done"
             - name: Economics study timetable counted back from the sittings
               description: |-
                 ## Purpose
@@ -106,8 +108,8 @@ starter_structure:
                 ## Milestones
                 1. Exam dates, internal assessment deadlines and the mock marked on a single calendar.
                 2. Each module given a block of weeks in syllabus order, finishing before the mock.
-                3. Weekly slots for diagram drills, essays and multiple choice placed around your other CAPE subjects.
-                4. The timetable shared with a parent and the Economics teacher.
+                3. Weekly slots for diagram drills, essays and multiple choice placed around the other CAPE subjects.
+                4. The timetable shared with you and the Economics teacher.
 
                 ## Notes
                 Leave the last eight weeks before the exam free of new content; they belong to revision and full papers.
@@ -116,22 +118,22 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A dated timetable covering every module, the internal assessment and the mock, finishing new content eight weeks before the exam, shared with a parent and the teacher."
+                success_criteria: "A dated timetable covering every module, the internal assessment and the mock, finishing new content eight weeks before the exam, shared with you and the teacher."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
                 - "Mark the exam, internal assessment and mock dates on one calendar"
                 - "Give each module a block of weeks in syllabus order"
-                - "Fit weekly Economics practice slots around your other CAPE subjects"
-                - "Share the finished timetable with a parent and your teacher"
-                - "Compare your progress with the timetable and adjust it @recurring(monthly:3)"
+                - "Fit weekly Economics practice slots around the other CAPE subjects"
+                - "Ask your teen to share the finished timetable with you and their teacher"
+                - "Compare progress with the timetable and adjust it @recurring(monthly:3)"
             - name: Past paper bank sorted by module and command word
               description: |-
                 ## Purpose
-                Economics past papers are the closest thing to the real exam, yet most students only meet them as whole papers in the final term. Sorting every Paper 02 question you can find by unit, module and command word lets each topic project end on genuine CXC questions, while a few recent papers stay untouched for timed practice.
+                Economics past papers are the closest thing to the real exam, yet most students only meet them as whole papers in the final term. Sorting every Paper 02 question that can be found by unit, module and command word lets each topic project end on genuine CXC questions, while a few recent papers stay untouched for timed practice.
 
                 ## Milestones
-                1. Paper 01 and Paper 02 past papers for your unit or units gathered from the school, the teacher and the official CXC store.
+                1. Paper 01 and Paper 02 past papers for the unit or units being sat gathered from the school, the teacher and the official CXC store.
                 2. Each Paper 02 question indexed by module, topic and command word such as explain, discuss or evaluate.
                 3. Mark schemes filed beside the papers they belong to.
                 4. Two recent complete papers per unit set aside unopened for timed practice.
@@ -143,20 +145,20 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Collect every Economics past paper your school and teacher can share"
+                - "Collect every Economics past paper the school and teacher can share"
                 - "Buy missing recent papers from the official CXC online store"
                 - "Index each Paper 02 question by module, topic and command word"
                 - "Hold back two recent full papers per unit for timed practice"
             - name: Diagram notebook for every syllabus graph
               description: |-
                 ## Purpose
-                Economics answers are marked on diagrams as much as on words: a correctly labelled kinked demand curve or aggregate demand shift often earns marks a paragraph cannot. Keeping every syllabus diagram in one notebook, drawn neatly with full labels and a two-line caption, gives you a single place to revise them and a standard to draw to under time.
+                Economics answers are marked on diagrams as much as on words: a correctly labelled kinked demand curve or aggregate demand shift often earns marks a paragraph cannot. Keeping every syllabus diagram in one notebook, drawn neatly with full labels and a two-line caption, gives your teen a single place to revise them and a standard to draw to under time.
 
                 ## Milestones
                 1. A list of every diagram the syllabus objectives call for, module by module.
                 2. Each diagram drawn once with axes, curves, equilibrium points and shifts labelled.
                 3. A two-line caption under each one saying what it shows and when to use it.
-                4. The notebook checked by your teacher for labelling errors.
+                4. The notebook checked by the teacher for labelling errors.
 
                 ## Notes
                 Use a ruler and pencil, label the axes with the variable rather than a bare P and Q, and mark both the original and new equilibrium. Unlabelled or wrongly labelled diagrams are one of the easiest ways to lose marks.
@@ -164,21 +166,21 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A notebook holds a labelled, captioned version of every diagram named in the syllabus objectives, checked by your teacher."
+                success_criteria: "A notebook holds a labelled, captioned version of every diagram named in the syllabus objectives, checked by the teacher."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
                 - "List every diagram named or implied in the syllabus objectives"
                 - "Draw the first module's diagrams with full labels and captions"
                 - "Add each new diagram to the notebook the week its topic is taught"
-                - "Ask your teacher to check the notebook for labelling errors"
+                - "Ask the teacher to check the notebook for labelling errors"
             - name: Definitions deck of key economic terms
               description: |-
                 ## Purpose
                 Paper 01 items and the opening part of many Paper 02 answers turn on precise definitions: opportunity cost, price elasticity, a public good, the marginal propensity to consume. A deck of flashcards, one term per card with an exact definition and a Caribbean example, turns those marks into quick wins and gives every essay a clean opening line.
 
                 ## Milestones
-                1. A card for every key term in the objectives of the units you are sitting, written in your own words.
+                1. A card for every key term in the objectives of the units being sat, written in your teen's own words.
                 2. Each definition checked against the textbook or the teacher's notes for precision.
                 3. A local or regional example on the back of at least half the cards.
                 4. Every card recalled correctly twice in a row in self-testing.
@@ -186,24 +188,24 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A flashcard deck covers every key term in the units you are sitting, and each card has been recalled correctly twice in a row."
+                success_criteria: "A flashcard deck covers every key term in the units being sat, and each card has been recalled correctly twice in a row."
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
                 - "Pull the key terms from each module's objectives into a list"
                 - "Write one card per term with a precise definition"
                 - "Add a Caribbean example to the back of each card where one fits"
-                - "Test yourself on the definitions deck @recurring(weekly:tue)"
+                - "Self-test on the definitions deck, or offer to quiz them @recurring(weekly:tue)"
             - name: Caribbean economic data file for essays and the IA
               description: |-
                 ## Purpose
-                Examiners reward answers that apply theory to real Caribbean economies, and a vague claim about high unemployment earns less than a correct figure with a source and a year. A small data file of headline figures for your country and two neighbours, taken from the central bank, the statistical office and regional bodies, gives you evidence for essays and material for the internal assessment.
+                Examiners reward answers that apply theory to real Caribbean economies, and a vague claim about high unemployment earns less than a correct figure with a source and a year. A small data file of headline figures for your country and two neighbours, taken from the central bank, the statistical office and regional bodies, gives your teen evidence for essays and material for the internal assessment.
 
                 ## Milestones
                 1. Recent GDP growth, inflation, unemployment, public debt and exchange rate figures recorded for your country, each with source and year.
                 2. The same figures recorded for two Caribbean economies with different structures, such as a tourism economy and an energy exporter.
                 3. The main exports, imports and sources of foreign exchange noted for each country.
-                4. A one-paragraph comparison written that you could adapt for an essay.
+                4. A one-paragraph comparison written that could be adapted for an essay.
 
                 ## Notes
                 Use official sources: your central bank, the national statistical office, the Eastern Caribbean Central Bank for the OECS, the Caribbean Development Bank, the IMF and the World Bank. Write the year beside every figure.
@@ -216,7 +218,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "Find your central bank's latest annual economic report"
+                - "Find the central bank's latest annual economic report"
                 - "Record growth, inflation, unemployment, debt and exchange rate with sources"
                 - "Add the same figures for two contrasting Caribbean economies"
                 - "Write a paragraph comparing the three economies"
@@ -224,7 +226,7 @@ starter_structure:
             - name: Weekly diagram drill from memory
               description: |-
                 ## Purpose
-                Drawing a diagram you have seen many times is not the same as drawing it from a blank page with the clock running. A short weekly drill, three diagrams from memory checked against the notebook, builds the speed and accuracy Paper 02 needs and shows which ones keep slipping.
+                Drawing a diagram seen many times is not the same as drawing it from a blank page with the clock running. A short weekly drill, three diagrams from memory checked against the notebook, builds the speed and accuracy Paper 02 needs and shows which ones keep slipping.
 
                 ## Milestones
                 1. A fixed weekly slot of twenty minutes for drawing diagrams from memory.
@@ -244,11 +246,11 @@ starter_structure:
                 - "Choose a fixed twenty-minute slot for the diagram drill"
                 - "Draw three diagrams from memory and check them against the notebook @recurring(weekly:wed)"
                 - "Mark every labelling or shift error in red"
-                - "Carry any diagram you got wrong into next week's drill"
+                - "Carry any diagram drawn wrongly into next week's drill"
             - name: Weekly Caribbean economic news journal
               description: |-
                 ## Purpose
-                Theory sticks when you can see it in the news: a VAT change, a fuel subsidy, a central bank rate decision, a hurricane hitting tourism earnings. Clipping one Caribbean economic story a week and writing three sentences linking it to a syllabus concept builds a supply of examples for essays and practice for the evaluation marks that separate the grades.
+                Theory sticks when a student can see it in the news: a VAT change, a fuel subsidy, a central bank rate decision, a hurricane hitting tourism earnings. Clipping one Caribbean economic story a week and writing three sentences linking it to a syllabus concept builds a supply of examples for essays and practice for the evaluation marks that separate the grades. Passing on a story you spotted is an easy way to join in.
 
                 ## Milestones
                 1. One news source from your country and one from the wider region chosen.
@@ -259,7 +261,7 @@ starter_structure:
               frontmatter:
                 mode: operating
                 output_kind: habit
-                success_criteria: "The journal holds one dated, sourced entry for most weeks of the course, with at least one entry tied to every module you are sitting."
+                success_criteria: "The journal holds one dated, sourced entry for most weeks of the course, with at least one entry tied to every module being sat."
                 cadence: rolling
               tasks:
                 - "Pick one national and one regional source of economic news"
@@ -269,7 +271,7 @@ starter_structure:
             - name: Saturday timed Paper 02 answer
               description: |-
                 ## Purpose
-                Paper 02 tests whether you can define, draw, explain and evaluate under time, and the only way to get faster is to write full answers against the clock. One timed question every Saturday from a finished topic, marked against the mark scheme, turns knowledge into exam answers long before the mock.
+                Paper 02 tests whether a candidate can define, draw, explain and evaluate under time, and the only way to get faster is to write full answers against the clock. One timed question every Saturday from a finished topic, marked against the mark scheme, turns knowledge into exam answers long before the mock.
 
                 ## Milestones
                 1. A Saturday slot fixed and protected for one timed question.
@@ -290,7 +292,7 @@ starter_structure:
             - name: Monthly multiple choice set for Paper 01
               description: |-
                 ## Purpose
-                Multiple choice items reward breadth and careful reading rather than essay skill, and they expose forgotten topics fast. A monthly set of past Paper 01 items across every finished module, timed and scored, keeps early modules fresh and gives a trend you can measure.
+                Multiple choice items reward breadth and careful reading rather than essay skill, and they expose forgotten topics fast. A monthly set of past Paper 01 items across every finished module, timed and scored, keeps early modules fresh and gives a trend that can be measured.
 
                 ## Milestones
                 1. A bank of Paper 01 items sorted by module.
@@ -306,8 +308,8 @@ starter_structure:
               tasks:
                 - "Sort available Paper 01 items into sets by module"
                 - "Sit a timed mixed Paper 01 set from finished modules @recurring(monthly:12)"
-                - "Tag each wrong item with its topic and the reason you missed it"
-                - "Reteach yourself the topic behind any item missed twice"
+                - "Tag each wrong item with its topic and the reason it was missed"
+                - "Reteach the topic behind any item missed twice"
             - name: Spaced review rotation of finished modules
               description: |-
                 ## Purpose
@@ -325,7 +327,7 @@ starter_structure:
                 success_criteria: "Every finished module has been reviewed at least once in each six-week period, with failed topics added to the drills."
                 cadence: rolling
               tasks:
-                - "List the modules you have finished so far"
+                - "List the modules finished so far"
                 - "Review the next finished module on the rotation @recurring(weekly:thu)"
                 - "End each review with five quick questions and one diagram"
                 - "Add topics that fail review to the essay or diagram drill"
@@ -359,7 +361,7 @@ starter_structure:
                 Parents rarely know what a CAPE Economics answer should look like, but they can see whether the weekly work is happening and whether marks are moving. A fifteen-minute check-in each month, looking at the score log, the timetable and one marked essay together, catches a slide early without turning into nagging.
 
                 ## Milestones
-                1. A monthly check-in time agreed between parent and student.
+                1. A monthly check-in time agreed between you and your teen.
                 2. The score log, timetable and one marked essay looked at together each month.
                 3. One thing going well and one thing to fix written down after each check-in.
                 4. A question for the teacher raised when the same problem appears two months running.
@@ -373,7 +375,7 @@ starter_structure:
                 success_criteria: "A check-in happens in most months of the course, each with one strength and one fix recorded."
                 cadence: rolling
               tasks:
-                - "Agree a regular monthly check-in time with your child"
+                - "Agree a regular monthly check-in time with your teen"
                 - "Hold the fifteen-minute Economics check-in @recurring(monthly:5)"
                 - "Write down one strength and one fix after each check-in"
                 - "Contact the teacher if the same problem shows up two months running"
@@ -401,11 +403,11 @@ starter_structure:
                 - "List the command words in the last five Paper 02 papers"
                 - "Write out the standard answer shape on one page"
                 - "Rewrite three old answers in the new shape and ask for remarking"
-                - "File the best rewrite as your model answer"
+                - "File the best rewrite as the model answer"
             - name: Data response and calculation practice
               description: |-
                 ## Purpose
-                Economics papers expect you to read tables and graphs, calculate elasticities, percentage changes, real values and multipliers, and then say what the numbers mean. Students who avoid the arithmetic give away easy marks, so a reference sheet of worked examples for each calculation type removes the fear early.
+                Economics papers expect candidates to read tables and graphs, calculate elasticities, percentage changes, real values and multipliers, and then say what the numbers mean. Students who avoid the arithmetic give away easy marks, so a reference sheet of worked examples for each calculation type removes the fear early.
 
                 ## Milestones
                 1. A list of every calculation the syllabus objectives require, from price elasticity to the multiplier and real GDP.
@@ -449,7 +451,7 @@ starter_structure:
             - name: Economic systems and how resources are allocated
               description: |-
                 ## Purpose
-                Market, planned and mixed economies answer the same questions differently, and Caribbean history gives sharp examples: state ownership of sugar, oil and utilities, later privatisation, and the mixed systems of today. Comparing the systems on efficiency, equity and freedom of choice prepares you for the discuss and evaluate questions this section attracts.
+                Market, planned and mixed economies answer the same questions differently, and Caribbean history gives sharp examples: state ownership of sugar, oil and utilities, later privatisation, and the mixed systems of today. Comparing the systems on efficiency, equity and freedom of choice prepares your teen for the discuss and evaluate questions this section attracts.
 
                 ## Milestones
                 1. Features, advantages and disadvantages of market, command and mixed systems set out in a table.
@@ -460,7 +462,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A comparison table of three economic systems, two sourced Caribbean examples and one marked past-paper answer are filed in your notes."
+                success_criteria: "A comparison table of three economic systems, two sourced Caribbean examples and one marked past-paper answer are filed in the notes."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
@@ -471,7 +473,7 @@ starter_structure:
             - name: Consumer behaviour with utility and indifference curves
               description: |-
                 ## Purpose
-                Consumer theory is where Unit 1 turns analytical, and many students memorise the indifference curve diagrams without understanding why the consumer ends up where the budget line touches the highest curve. Working through marginal utility, the equi-marginal principle, budget lines and the income and substitution effects for normal, inferior and Giffen goods makes this a topic you can explain rather than recite.
+                Consumer theory is where Unit 1 turns analytical, and many students memorise the indifference curve diagrams without understanding why the consumer ends up where the budget line touches the highest curve. Working through marginal utility, the equi-marginal principle, budget lines and the income and substitution effects for normal, inferior and Giffen goods makes this a topic your teen can explain rather than recite.
 
                 ## Milestones
                 1. Total and marginal utility calculated from a table and the equi-marginal principle explained.
@@ -483,7 +485,7 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Labelled diagrams for all three types of good and two marked past-paper answers on consumer equilibrium are in your notes."
+                success_criteria: "Labelled diagrams for all three types of good and two marked past-paper answers on consumer equilibrium are in the notes."
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
@@ -507,7 +509,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "Paired diagrams for every determinant, two worked cases of simultaneous shifts and one marked past-paper answer are in your notes."
+                success_criteria: "Paired diagrams for every determinant, two worked cases of simultaneous shifts and one marked past-paper answer are in the notes."
                 cadence: phased
                 effort_hours_estimate: "7"
               tasks:
@@ -531,7 +533,7 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Worked calculations for all four elasticities, a tax incidence diagram and two marked past-paper answers are in your notes."
+                success_criteria: "Worked calculations for all four elasticities, a tax incidence diagram and two marked past-paper answers are in the notes."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
@@ -555,7 +557,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "Short-run and long-run cost diagrams, a scale economies list with local examples and two marked past answers are in your notes."
+                success_criteria: "Short-run and long-run cost diagrams, a scale economies list with local examples and two marked past answers are in the notes."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
@@ -563,11 +565,11 @@ starter_structure:
                 - "Draw short-run cost curves with marginal cost through the minimum of average cost"
                 - "List internal and external economies of scale with local examples"
                 - "Write a paragraph on small market size and minimum efficient scale"
-                - "Time yourself on two past questions about costs of production"
+                - "Answer two past questions about costs of production, timed"
             - name: Perfect competition and monopoly compared
               description: |-
                 ## Purpose
-                Perfect competition and monopoly are the two benchmarks every other market is judged against, and examiners like questions that ask you to compare them on price, output and efficiency. Small Caribbean markets often have a single electricity, water or port provider, which gives you real monopoly cases and the regulators set up to control them.
+                Perfect competition and monopoly are the two benchmarks every other market is judged against, and examiners like questions that ask candidates to compare them on price, output and efficiency. Small Caribbean markets often have a single electricity, water or port provider, which gives real monopoly cases and the regulators set up to control them.
 
                 ## Milestones
                 1. Profit maximisation where marginal cost equals marginal revenue explained for both structures.
@@ -579,7 +581,7 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Equilibrium diagrams for both structures, a written efficiency comparison and one marked past-paper answer are in your notes."
+                success_criteria: "Equilibrium diagrams for both structures, a written efficiency comparison and one marked past-paper answer are in the notes."
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
@@ -603,7 +605,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "Diagrams for both structures, one solved payoff matrix and one marked past-paper answer on oligopoly are in your notes."
+                success_criteria: "Diagrams for both structures, one solved payoff matrix and one marked past-paper answer on oligopoly are in the notes."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
@@ -627,7 +629,7 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Labelled externality diagrams, an information failure example and two marked past-paper answers are in your notes."
+                success_criteria: "Labelled externality diagrams, an information failure example and two marked past-paper answers are in the notes."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
@@ -639,7 +641,7 @@ starter_structure:
             - name: Government intervention, price controls and government failure
               description: |-
                 ## Purpose
-                Across the region, governments tax, subsidise, cap prices on basic foods, set minimum wages and regulate utilities. Analysing each tool with a diagram, then weighing its intended and unintended effects, gives the evaluation that turns a pass into a top grade and prepares you for policy questions in both units.
+                Across the region, governments tax, subsidise, cap prices on basic foods, set minimum wages and regulate utilities. Analysing each tool with a diagram, then weighing its intended and unintended effects, gives the evaluation that turns a pass into a top grade and prepares your teen for policy questions in both units.
 
                 ## Milestones
                 1. Specific and ad valorem taxes and subsidies drawn with their effect on price and quantity.
@@ -651,7 +653,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "Diagrams for taxes, subsidies and price controls, a government failure list and one marked evaluate answer are in your notes."
+                success_criteria: "Diagrams for taxes, subsidies and price controls, a government failure list and one marked evaluate answer are in the notes."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
@@ -663,7 +665,7 @@ starter_structure:
             - name: Factor markets, wages and trade unions
               description: |-
                 ## Purpose
-                Unit 1 Module 3 asks how incomes are earned, starting with the demand for labour and marginal revenue product. Explaining wage differences, economic rent, the effects of trade unions and minimum wages, and monopsony gives you the tools for questions on Caribbean labour markets, where unions have a long history and public sector pay is a constant debate.
+                Unit 1 Module 3 asks how incomes are earned, starting with the demand for labour and marginal revenue product. Explaining wage differences, economic rent, the effects of trade unions and minimum wages, and monopsony gives your teen the tools for questions on Caribbean labour markets, where unions have a long history and public sector pay is a constant debate.
 
                 ## Milestones
                 1. The demand for labour derived from marginal revenue product and its determinants listed.
@@ -675,7 +677,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "Labour market diagrams for competition and monopsony, a rent and transfer earnings diagram and one marked past answer are in your notes."
+                success_criteria: "Labour market diagrams for competition and monopsony, a rent and transfer earnings diagram and one marked past answer are in the notes."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
@@ -687,7 +689,7 @@ starter_structure:
             - name: Income distribution, poverty and inequality
               description: |-
                 ## Purpose
-                Inequality and poverty questions combine measurement with policy: Lorenz curves and Gini coefficients, absolute and relative poverty, and the taxes and transfers that redistribute income. Several Caribbean countries publish living conditions surveys or poverty assessments, and knowing how to read them lets you argue with evidence rather than assert.
+                Inequality and poverty questions combine measurement with policy: Lorenz curves and Gini coefficients, absolute and relative poverty, and the taxes and transfers that redistribute income. Several Caribbean countries publish living conditions surveys or poverty assessments, and knowing how to read them lets a candidate argue with evidence rather than assert.
 
                 ## Milestones
                 1. A Lorenz curve drawn and the Gini coefficient explained.
@@ -699,7 +701,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A Lorenz curve, sourced national poverty figures and one marked past-paper answer on inequality are in your notes."
+                success_criteria: "A Lorenz curve, sourced national poverty figures and one marked past-paper answer on inequality are in the notes."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
@@ -723,7 +725,7 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A labelled circular flow, worked GDP calculations by three methods and two marked past answers are in your notes."
+                success_criteria: "A labelled circular flow, worked GDP calculations by three methods and two marked past answers are in the notes."
                 cadence: phased
                 effort_hours_estimate: "7"
               tasks:
@@ -735,7 +737,7 @@ starter_structure:
             - name: Keynesian income determination and the multiplier
               description: |-
                 ## Purpose
-                Keynes's income-expenditure model explains how spending determines output, and the multiplier is one of the most examined calculations in Unit 2. Small open Caribbean economies import a large share of what they spend, so their multipliers are smaller than in large economies, a point that earns evaluation marks when you can explain it.
+                Keynes's income-expenditure model explains how spending determines output, and the multiplier is one of the most examined calculations in Unit 2. Small open Caribbean economies import a large share of what they spend, so their multipliers are smaller than in large economies, a point that earns evaluation marks when a candidate can explain it.
 
                 ## Milestones
                 1. Consumption, saving and the marginal propensities defined and calculated.
@@ -747,7 +749,7 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Worked multiplier calculations for open and closed economies, the 45-degree diagram and two marked past answers are in your notes."
+                success_criteria: "Worked multiplier calculations for open and closed economies, the 45-degree diagram and two marked past answers are in the notes."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
@@ -759,7 +761,7 @@ starter_structure:
             - name: Aggregate demand and aggregate supply analysis
               description: |-
                 ## Purpose
-                Aggregate demand and supply is the main diagram for macroeconomic questions on growth, inflation and policy. Classical and Keynesian views of the supply curve lead to different conclusions, and supply shocks such as an oil price rise or a hurricane that destroys crops and hotels give you strong Caribbean applications.
+                Aggregate demand and supply is the main diagram for macroeconomic questions on growth, inflation and policy. Classical and Keynesian views of the supply curve lead to different conclusions, and supply shocks such as an oil price rise or a hurricane that destroys crops and hotels give strong Caribbean applications.
 
                 ## Milestones
                 1. The components and determinants of aggregate demand listed with the direction of each shift.
@@ -771,7 +773,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "Classical and Keynesian supply diagrams, two shock diagrams and one marked past-paper answer are in your notes."
+                success_criteria: "Classical and Keynesian supply diagrams, two shock diagrams and one marked past-paper answer are in the notes."
                 cadence: phased
                 effort_hours_estimate: "7"
               tasks:
@@ -795,7 +797,7 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A credit creation example, a money demand diagram, notes on your central bank's tools and one marked past answer are in your notes."
+                success_criteria: "A credit creation example, a money demand diagram, notes on your country's central bank tools and one marked past answer are in the notes."
                 cadence: phased
                 effort_hours_estimate: "9"
               tasks:
@@ -807,7 +809,7 @@ starter_structure:
             - name: Inflation, unemployment and the Phillips curve
               description: |-
                 ## Purpose
-                Inflation and unemployment are the two problems voters feel most, and Unit 2 asks about their types, causes, costs and cures. Demand-pull and cost-push inflation, imported inflation in economies that buy most of their food and fuel abroad, the types of unemployment and the Phillips curve trade-off give you material for both explain and evaluate questions.
+                Inflation and unemployment are the two problems voters feel most, and Unit 2 asks about their types, causes, costs and cures. Demand-pull and cost-push inflation, imported inflation in economies that buy most of their food and fuel abroad, the types of unemployment and the Phillips curve trade-off give your teen material for both explain and evaluate questions.
 
                 ## Milestones
                 1. Inflation measured with a consumer price index and its causes classified as demand-pull, cost-push or imported.
@@ -868,12 +870,12 @@ starter_structure:
                 5. A past question on trade or integration answered and marked.
 
                 ## Notes
-                Check which Unit 2 module your current syllabus places trade in, and keep this project in that module's block of the timetable.
+                Check which Unit 2 module the current syllabus places trade in, and keep this project in that module's block of the timetable.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A comparative advantage example, a tariff diagram, a sourced CSME summary and one marked past answer are in your notes."
+                success_criteria: "A comparative advantage example, a tariff diagram, a sourced CSME summary and one marked past answer are in the notes."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
@@ -885,7 +887,7 @@ starter_structure:
             - name: Balance of payments and exchange rate regimes
               description: |-
                 ## Purpose
-                Caribbean economies run on foreign exchange, which makes the balance of payments and the exchange rate central to their policy choices. The region holds every kind of regime, from the shared Eastern Caribbean dollar and the fixed Barbados dollar to managed and floating rates elsewhere, so you can compare devaluation, reserves and current account problems with real cases.
+                Caribbean economies run on foreign exchange, which makes the balance of payments and the exchange rate central to their policy choices. The region holds every kind of regime, from the shared Eastern Caribbean dollar and the fixed Barbados dollar to managed and floating rates elsewhere, so your teen can compare devaluation, reserves and current account problems with real cases.
 
                 ## Milestones
                 1. The current, capital and financial accounts of the balance of payments explained with examples of each entry.
@@ -897,7 +899,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A balance of payments structure, a sourced comparison of three exchange rate regimes, a J-curve diagram and one marked past answer are in your notes."
+                success_criteria: "A balance of payments structure, a sourced comparison of three exchange rate regimes, a J-curve diagram and one marked past answer are in the notes."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
@@ -909,19 +911,19 @@ starter_structure:
             - name: Growth and development theories with Caribbean models
               description: |-
                 ## Purpose
-                Unit 2 Module 3 asks the biggest question in the course: how poor economies become rich ones, and why some do not. Measures such as the Human Development Index, Rostow's stages, Sir Arthur Lewis's dual-sector model and industrialisation by invitation, dependency theory and the plantation economy school of Lloyd Best and Kari Levitt give you a Caribbean debate to draw on, not only imported models.
+                Unit 2 Module 3 asks the biggest question in the course: how poor economies become rich ones, and why some do not. Measures such as the Human Development Index, Rostow's stages, Sir Arthur Lewis's dual-sector model and industrialisation by invitation, dependency theory and the plantation economy school of Lloyd Best and Kari Levitt give your teen a Caribbean debate to draw on, not only imported models.
 
                 ## Milestones
                 1. Growth and development distinguished, with GDP per head, the Human Development Index and other indicators compared.
                 2. Rostow's stages and the Lewis dual-sector model summarised with a criticism of each.
                 3. Industrialisation by invitation and its results in the region explained.
-                4. Dependency theory and the plantation economy model summarised in your own words.
+                4. Dependency theory and the plantation economy model summarised in plain words.
                 5. A past evaluate question on development strategy answered and marked.
               priority: medium
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "One-page summaries of four development theories with a criticism each, and one marked past-paper answer, are in your notes."
+                success_criteria: "One-page summaries of four development theories with a criticism each, and one marked past-paper answer, are in the notes."
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
@@ -957,13 +959,13 @@ starter_structure:
             - name: Internal assessment requirements, dates and topic choice
               description: |-
                 ## Purpose
-                The CAPE Economics internal assessment is a research project on an economic issue, marked by your teacher and moderated by CXC, so a weak topic limits the grade before any data is collected. Reading the current guidelines, fixing the school's internal deadlines and choosing a researchable local question, such as how a fuel price change affected taxi fares in your town, sets the project up properly.
+                The CAPE Economics internal assessment is a research project on an economic issue, marked by the teacher and moderated by CXC, so a weak topic limits the grade before any data is collected. Reading the current guidelines, fixing the school's internal deadlines and choosing a researchable local question, such as how a fuel price change affected taxi fares in your town, sets the project up properly. Talking ideas through over dinner can help, but let your teen own the choice.
 
                 ## Milestones
                 1. The current internal assessment guidelines and mark criteria from the syllabus summarised on one page.
-                2. The school's internal dates for proposal, draft and final submission written in your calendar.
-                3. Three possible research questions shortlisted, each tied to a syllabus objective and answerable with data you can collect.
-                4. One topic approved by your teacher, with the research question written down.
+                2. The school's internal dates for proposal, draft and final submission written in the family calendar.
+                3. Three possible research questions shortlisted, each tied to a syllabus objective and answerable with data your teen can collect.
+                4. One topic approved by the teacher, with the research question written down.
 
                 ## Notes
                 Narrow beats broad. A question about one market, one policy and one place can be answered with a small survey and published data; a question about the whole Caribbean economy cannot.
@@ -972,14 +974,14 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A teacher-approved research question linked to a syllabus objective, with the school's internal assessment dates in your calendar."
+                success_criteria: "A teacher-approved research question linked to a syllabus objective, with the school's internal assessment dates in the family calendar."
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
                 - "Read the internal assessment section of the current syllabus"
-                - "Write the school's proposal, draft and submission dates in your calendar"
+                - "Write the school's proposal, draft and submission dates in the calendar"
                 - "Shortlist three local research questions tied to syllabus objectives"
-                - "Get one topic approved by your teacher"
+                - "Get one topic approved by the teacher"
             - name: Internal assessment research, write-up and submission
               description: |-
                 ## Purpose
@@ -993,7 +995,7 @@ starter_structure:
                 5. The final internal assessment submitted by the school deadline, with a copy kept.
 
                 ## Notes
-                Ask before surveying anyone under 18 or inside a business; your school may need to issue a permission letter. Cite every figure you did not collect yourself.
+                Ask before surveying anyone under 18 or inside a business; the school may need to issue a permission letter. Cite every figure your teen did not collect themselves.
               priority: high
               deadlineOffsetDays: 150
               frontmatter:
@@ -1007,7 +1009,7 @@ starter_structure:
                 - "Collect the data and log each source and date"
                 - "Turn the results into labelled tables and graphs"
                 - "Check progress against the internal assessment stage dates @recurring(weekly:mon)"
-                - "Submit the full draft to your teacher for comments"
+                - "Submit the full draft to the teacher for comments"
                 - "Hand in the final version and keep a copy"
             - name: Subject reports and mark schemes for CAPE Economics
               description: |-
@@ -1015,15 +1017,15 @@ starter_structure:
                 After each sitting CXC publishes a subject report describing what strong and weak candidates did on each question, and these reports are the clearest guide to what earns marks. Reading them alongside mark schemes shows how marks are shared between knowledge, application and evaluation, and which mistakes come up year after year.
 
                 ## Milestones
-                1. Subject reports for several recent sittings of your unit gathered from the school or the CXC website.
+                1. Subject reports for several recent sittings of the unit being sat gathered from the school or the CXC website.
                 2. A list of weaknesses that appear in more than one report, such as unlabelled diagrams or missing definitions.
                 3. Mark schemes studied to see how marks are shared within a question.
-                4. Three changes to your own answers written down and applied in the next timed essay.
+                4. Three changes to the way answers are written noted down and applied in the next timed essay.
               priority: medium
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A one-page summary of repeated weaknesses from recent subject reports, with three changes applied in your next timed answer."
+                success_criteria: "A one-page summary of repeated weaknesses from recent subject reports, with three changes applied in the next timed answer."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
@@ -1031,10 +1033,10 @@ starter_structure:
                 - "List the weaknesses that appear in more than one report"
                 - "Study how one mark scheme shares marks within a single question"
                 - "Read one subject report section before a timed essay @recurring(monthly:18)"
-            - name: School mock exam for your Economics unit
+            - name: School mock exam for the Economics unit
               description: |-
                 ## Purpose
-                Your school mock is the one full rehearsal with real timing, an unfamiliar paper and teacher marking. Preparing for it like the real thing, then analysing the marked script question by question, shows exactly which modules and skills to fix in the time that remains.
+                The school mock is the one full rehearsal with real timing, an unfamiliar paper and teacher marking. Preparing for it like the real thing, then analysing the marked script question by question, shows exactly which modules and skills to fix in the time that remains.
 
                 ## Milestones
                 1. The mock dates and papers confirmed with the teacher.
@@ -1080,7 +1082,7 @@ starter_structure:
             - name: Last full past paper under exam conditions
               description: |-
                 ## Purpose
-                One complete past paper, sat at the real time of day with nothing but the permitted equipment, is the last honest test before the exam. Using a paper held back since the start of the course gives a fair estimate of where you stand and a short list of things to tidy in the final days.
+                One complete past paper, sat at the real time of day with nothing but the permitted equipment, is the last honest test before the exam. Using a paper held back since the start of the course gives a fair estimate of where your teen stands and a short list of things to tidy in the final days.
 
                 ## Milestones
                 1. An untouched recent paper chosen from the past paper bank.
@@ -1103,7 +1105,7 @@ starter_structure:
             - name: Economics exam days and the night before
               description: |-
                 ## Purpose
-                Exam day mistakes are avoidable: the wrong room, a missing ruler, misreading which questions to choose, leaving no time to evaluate in the last answer. A short checklist for the night before and the morning, plus a time plan for each paper, means everything you prepared reaches the page.
+                Exam day mistakes are avoidable: the wrong room, a missing ruler, misreading which questions to choose, leaving no time to evaluate in the last answer. A short checklist for the night before and the morning, plus a time plan for each paper, means everything your teen prepared reaches the page.
 
                 ## Milestones
                 1. Candidate number, centre, rooms and times confirmed for each Economics paper.
@@ -1112,7 +1114,7 @@ starter_structure:
                 4. Each paper finished with time left to check diagrams and conclusions.
 
                 ## Notes
-                Check the CXC rules on calculators and other equipment for your paper rather than relying on what was allowed in another subject.
+                Check the CXC rules on calculators and other equipment for the paper rather than relying on what was allowed in another subject.
               priority: high
               deadlineOffsetDays: 240
               frontmatter:
@@ -1122,19 +1124,19 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Check your candidate number, centre and exam times"
+                - "Check the candidate number, centre and exam times"
                 - "Pack pens, pencils, ruler and eraser the night before each paper"
                 - "Write a time plan per question from the paper format"
                 - "Read every question option before choosing on Paper 02"
             - name: Choosing an Economics lessons class or tutor
               description: |-
                 ## Purpose
-                Many families pay for evening or weekend lessons in CAPE subjects, and quality varies widely. A parent who compares two or three options on the tutor's knowledge of the current syllabus, how they mark timed answers, group size and cost can spend the money where it helps most, with the student having a real say.
+                Many families pay for evening or weekend lessons in CAPE subjects, and quality varies widely. Comparing two or three options on the tutor's knowledge of the current syllabus, how they mark timed answers, group size and cost lets you spend the money where it helps most, with your teen having a real say.
 
                 ## Milestones
-                1. The student's weakest modules identified from the score log.
+                1. Your teen's weakest modules identified from the score log.
                 2. Two or three tutors or classes compared on syllabus knowledge, marking, group size, schedule and cost.
-                3. A decision made with the student and recorded with the reason.
+                3. A decision made with your teen and recorded with the reason.
                 4. A monthly progress note agreed with the chosen tutor.
 
                 ## Notes
@@ -1144,11 +1146,11 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A recorded choice of tutor or class made with the student, compared against at least two alternatives on the same criteria."
+                success_criteria: "A recorded choice of tutor or class made with your teen, compared against at least two alternatives on the same criteria."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your child which Economics modules feel weakest"
+                - "Ask your teen which Economics modules feel weakest"
                 - "Compare two or three tutors on syllabus knowledge, group size and cost"
                 - "Ask each tutor how they mark timed Paper 02 answers"
                 - "Ask the tutor for a short progress note @recurring(monthly:25)"
@@ -1177,7 +1179,7 @@ starter_structure:
             - name: Teacher module test bank and marking calendar
               description: |-
                 ## Purpose
-                Teachers and lessons tutors running CAPE Economics need an end-of-module test for each module, a marking rhythm that returns essays quickly and records that make internal assessment moderation smooth. Building this once and reusing it each year saves hours and gives students consistent feedback.
+                Teachers and lessons tutors running CAPE Economics need an end-of-module test for each module, a marking rhythm that returns essays quickly and records that make internal assessment moderation smooth. Building this once and reusing it each year saves hours and gives students consistent feedback. If your teen has a lessons tutor, this project is worth passing on to them.
 
                 ## Milestones
                 1. An end-of-module test drafted for each module from past Paper 01 and Paper 02 items.
@@ -1192,13 +1194,13 @@ starter_structure:
                 cadence: cyclic
               tasks:
                 - "Draft one end-of-module test per module from past items"
-                - "Write a marking key for each Paper 02 style question you set"
+                - "Write a marking key for each Paper 02 style question set for the class"
                 - "Plan a marking calendar that returns essays within a week"
                 - "Review class scores by module and adjust teaching @recurring(monthly:22)"
             - name: Stretch reading for economics and finance degrees
               description: |-
                 ## Purpose
-                Strong students heading for economics, finance or public policy degrees gain from reading beyond the syllabus: Sir Arthur Lewis on development, the plantation economy debate, central bank research papers and accessible economics books. A steady reading habit gives material for interviews and personal statements and deepens answers on Unit 2 Module 3.
+                Strong students heading for economics, finance or public policy degrees gain from reading beyond the syllabus: Sir Arthur Lewis on development, the plantation economy debate, central bank research papers and accessible economics books. A steady reading habit gives material for interviews and personal statements and deepens answers on Unit 2 Module 3. Offering to buy or borrow the next title is an easy way to back it.
 
                 ## Milestones
                 1. A reading list started with Caribbean and general economics titles.
@@ -1217,12 +1219,12 @@ starter_structure:
               tasks:
                 - "Start a reading list with one Caribbean and one general economics title"
                 - "Read one central bank working paper or speech about your country"
-                - "Write a half-page response to each item you finish"
-                - "Log what you finished and add the next title @recurring(monthly:15)"
+                - "Write a half-page response to each item finished"
+                - "Log what was finished and add the next title @recurring(monthly:15)"
 ---
 
 # CAPE Economics
 
-This area is for a Lower Six or Upper Six student taking CAPE Economics, and for the parents, teachers and lessons tutors behind them. It opens with the foundations (the current syllabus, a choice of units, a bridging check, a timetable, a past paper bank, a diagram notebook, a definitions deck and a Caribbean data file), then the weekly practice machinery and two exam skills, then one project per topic in syllabus order through the three modules of Unit 1 Microeconomics and the three of Unit 2 Macroeconomics, each ending on past-paper questions. After those come the internal assessment, subject reports, the mock, the final weeks and exam days, and projects for parents, private candidates, teachers and students reading beyond the syllabus.
+This area is for the parent or guardian of a Lower Six or Upper Six student taking CAPE Economics, with projects that teachers and lessons tutors can use too. It opens with the foundations (the current syllabus, a choice of units, a bridging check, a timetable, a past paper bank, a diagram notebook, a definitions deck and a Caribbean data file), then the weekly practice machinery and two exam skills, then one project per topic in syllabus order through the three modules of Unit 1 Microeconomics and the three of Unit 2 Macroeconomics, each ending on past-paper questions. After those come the internal assessment, subject reports, the mock, the final weeks and exam days, and projects for parents, private candidates, teachers and students reading beyond the syllabus.
 
-What repeats is a Wednesday diagram drill, a Sunday news journal entry, a Saturday timed Paper 02 answer, a Thursday module review, a monthly Paper 01 set, monthly score averages and subject report reading, and a monthly parent check-in. The Habit tracker, Metrics log, Purchase decision and Reading queue templates pair with the projects that name them. Deadlines assume roughly eight months to the May to June sitting, so shift them once CXC publishes the timetable and your school sets its internal assessment dates. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is your teen's Wednesday diagram drill, a Sunday news journal entry, a Saturday timed Paper 02 answer, a Thursday module review, a monthly Paper 01 set, monthly score averages and subject report reading, and a monthly check-in between the two of you. The Habit tracker, Metrics log, Purchase decision and Reading queue templates pair with the projects that name them. Deadlines assume roughly eight months to the May to June sitting, so shift them once CXC publishes the timetable and the school sets its internal assessment dates. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-caribbean-history
 name: CSEC Caribbean History
-description: "A complete CSEC Caribbean History plan: the current syllabus and papers, weekly routines, every theme from the first peoples to independence and society, source skills, the SBA research, timed past papers, the mock and exam day."
+description: "A CSEC Caribbean History plan for a parent supporting a teen: the syllabus and papers, weekly routines, every theme from the first peoples to independence, source skills, the SBA, past papers, the mock and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-caribbean-history, student, parent, educator, cxc, csec, history]
@@ -16,7 +16,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -26,42 +26,44 @@ starter_structure:
             - name: Current CSEC Caribbean History syllabus and paper check
               description: |-
                 ## Purpose
-                Caribbean History is examined through a multiple-choice Paper 01, an essay-based Paper 02 and either the school-based assessment as Paper 031 or the alternative Paper 032 for private candidates, and the syllabus groups its content into numbered themes running from the first peoples to the late twentieth century. An hour with the current CXC syllabus tells you which themes are compulsory, which are options your school chooses and how each paper is set, so you stop revising themes you will not sit and stop missing the ones you will.
+                Caribbean History is examined through a multiple-choice Paper 01, an essay-based Paper 02 and either the school-based assessment as Paper 031 or the alternative Paper 032 for private candidates, and the syllabus groups its content into numbered themes running from the first peoples to the late twentieth century. An hour with the current CXC syllabus tells you and your teen which themes are compulsory, which are options the school chooses and how each paper is set, so revision stops going on themes they will not sit and stops missing the ones they will.
 
                 ## Milestones
-                1. The current CSEC Caribbean History syllabus downloaded from the CXC website, with its edition year written on the cover of your folder.
+                1. The current CSEC Caribbean History syllabus downloaded from the CXC website, with its edition year written on the cover of the history folder.
                 2. Every theme listed in order with its main topics and date range, each marked compulsory or optional as the syllabus states.
                 3. The format of Paper 01, Paper 02 and Paper 031 or 032 summarised on one page in the syllabus's own words.
-                4. The themes your school teaches confirmed with your teacher, and the May to June sitting noted.
+                4. The themes the school teaches confirmed with the teacher, and the May to June sitting noted.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CSEC Caribbean History, and an older student can follow it with a parent's support.
+
                 Older revision books sometimes follow an earlier syllabus with different theme titles or end dates. Where they disagree with the CXC document, the CXC document wins.
               priority: high
               deadlineOffsetDays: 10
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A one-page summary from the current CXC syllabus lists the papers, the themes in order, which ones you will sit and the sitting."
+                success_criteria: "A one-page summary from the current CXC syllabus lists the papers, the themes in order, which ones your teen will sit and the sitting."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
                 - "Check the current syllabus and timetable on the CXC website and note the paper format"
                 - "List every theme with its date range on one page"
-                - "Mark which themes are compulsory and which are options in your syllabus"
-                - "Ask your teacher which optional themes the class will take"
-            - name: Diagnostic Paper 01 and essay to find your weak themes
+                - "Mark which themes are compulsory and which are options in the syllabus"
+                - "Ask the teacher which optional themes the class will take"
+            - name: Diagnostic Paper 01 and essay to find the weak themes
               description: |-
                 ## Purpose
                 Most students start the course sure they know the slavery and emancipation story and knowing little else, and a diagnostic shows quickly where that is true. Sitting one past Paper 01 untimed and writing one Paper 02 essay at the start gives a baseline by theme, so the first months of study go where marks are being lost rather than where revision feels comfortable.
 
                 ## Milestones
                 1. One past Paper 01 completed and marked, with each wrong answer tagged to its theme.
-                2. One Paper 02 essay written and marked by your teacher or against the published mark scheme.
+                2. One Paper 02 essay written and marked by the teacher or against the published mark scheme.
                 3. A table of themes ranked from weakest to strongest using both results.
-                4. The three weakest themes written at the top of your study plan.
+                4. The three weakest themes written at the top of the study plan.
 
                 ## Notes
-                Do not cram for the diagnostic. A low score now is information, not a verdict.
+                Agree with your teen not to cram for the diagnostic. A low score now is information, not a verdict.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -74,21 +76,21 @@ starter_structure:
                 - "Find one recent past Paper 01 and its answer key"
                 - "Sit the paper without notes and mark it the same day"
                 - "Tag every wrong answer with its theme number"
-                - "Write one Paper 02 essay and ask your teacher to mark it"
-                - "Rank the themes from weakest to strongest in your folder"
+                - "Write one Paper 02 essay and ask the teacher to mark it"
+                - "Rank the themes from weakest to strongest in the history folder"
             - name: Two-year Caribbean History study plan by theme
               description: |-
                 ## Purpose
-                Two school years sounds like plenty, but the themes stretch across five centuries, the SBA takes a term of its own, and revision needs the final months. Laying the themes against your school calendar, with SBA dates and a revision block marked, shows early whether the content will be finished in time and which holidays carry the catch-up.
+                Two school years sounds like plenty, but the themes stretch across five centuries, the SBA takes a term of its own, and revision needs the final months. Laying the themes against the school calendar with your teen, with SBA dates and a revision block marked, shows early whether the content will be finished in time and which holidays carry the catch-up.
 
                 ## Milestones
-                1. Every theme your school takes placed in a term, in syllabus order, with your teacher's scheme of work beside it.
+                1. Every theme the school takes placed in a term, in syllabus order, with the teacher's scheme of work beside it.
                 2. SBA topic, research, draft and submission dates marked on the same calendar.
                 3. The final eight weeks before the exam kept clear of new content for revision.
                 4. A confidence grid with every theme rated from one to five, rerated each month.
 
                 ## Notes
-                Start from the **Skills matrix** template for the confidence grid. Rate honestly: a theme you can talk about but cannot write an essay on is a two, not a four.
+                Start from the **Skills matrix** template for the confidence grid. Encourage your teen to rate honestly: a theme they can talk about but cannot write an essay on is a two, not a four.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -98,20 +100,20 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Copy your school's Caribbean History scheme of work into one calendar"
+                - "Copy the school's Caribbean History scheme of work into one calendar"
                 - "Place each theme in the term it will be taught"
                 - "Mark the SBA dates and the revision block on the calendar"
                 - "Rerate every theme on the confidence grid and adjust the plan @recurring(monthly:22)"
             - name: Command words and how history essays earn marks
               description: |-
                 ## Purpose
-                Many Caribbean History scripts lose marks not for wrong facts but for answering a different question from the one set: describing when asked to explain, or listing when asked to assess. Learning what each command word demands, and how a mark scheme rewards relevant detail and linked reasoning, turns knowledge you already have into marks.
+                Many Caribbean History scripts lose marks not for wrong facts but for answering a different question from the one set: describing when asked to explain, or listing when asked to assess. Learning what each command word demands, and how a mark scheme rewards relevant detail and linked reasoning, turns knowledge your teen already has into marks.
 
                 ## Milestones
                 1. A one-page sheet defining the command words used in Caribbean History questions, taken from the syllabus glossary.
                 2. Three past Paper 02 questions annotated to show what each part asks for.
-                3. One old answer of yours rewritten after comparing it with the mark scheme.
-                4. A paragraph pattern you will use in every essay: point, evidence, explanation, link.
+                3. One old answer rewritten after comparing it with the mark scheme.
+                4. A paragraph pattern to use in every essay: point, evidence, explanation, link.
 
                 ## Notes
                 Explain questions want reasons tied to their effects; describe questions want accurate detail in order. Use the glossary in the current syllabus for the exact definitions CXC uses.
@@ -131,11 +133,11 @@ starter_structure:
             - name: Caribbean History reading list and textbook choice
               description: |-
                 ## Purpose
-                One textbook rarely covers every theme in the depth an essay needs, and schools across the region use different ones. Choosing a main text that matches the current syllabus, plus a short list of readable extra sources for the themes you find thin, gives you somewhere to go when your notes run out.
+                One textbook rarely covers every theme in the depth an essay needs, and schools across the region use different ones. Choosing a main text that matches the current syllabus, plus a short list of readable extra sources for the themes your teen finds thin, gives them somewhere to go when class notes run out.
 
                 ## Milestones
-                1. A main textbook confirmed with your teacher as matching the current syllabus.
-                2. A reading list of six to ten extra sources, at least one per theme you take, including library copies.
+                1. A main textbook confirmed with the teacher as matching the current syllabus.
+                2. A reading list of six to ten extra sources, at least one per theme taken, including library copies.
                 3. Each source tagged with the themes and chapters it covers and its publication date.
                 4. One chapter beyond the textbook read each month and summarised in half a page.
 
@@ -145,22 +147,22 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: artifact
-                success_criteria: "A tagged reading list covers every theme you take, with at least one extra chapter summarised each month."
+                success_criteria: "A tagged reading list covers every theme taken, with at least one extra chapter summarised each month."
                 cadence: rolling
               tasks:
-                - "Ask your teacher which textbook the class follows"
+                - "Ask the teacher which textbook the class follows"
                 - "Check the school and public library for Caribbean History titles"
                 - "Tag each source with the themes it covers"
                 - "Read one chapter beyond the textbook and summarise it @recurring(monthly:13)"
             - name: SBA guidelines, research question and teacher approval
               description: |-
                 ## Purpose
-                Your Caribbean History SBA is a piece of historical research on a topic linked to the syllabus, and the topic decides most of the outcome: too broad and it becomes a textbook summary, too narrow or too local and there are no sources. Reading the current SBA guidelines and agreeing a focused, answerable question with your teacher early leaves time to find real evidence.
+                Caribbean History SBA work is a piece of historical research on a topic linked to the syllabus, and the topic decides most of the outcome: too broad and it becomes a textbook summary, too narrow or too local and there are no sources. Making sure your teen reads the current SBA guidelines and agrees a focused, answerable question with the teacher early leaves time to find real evidence.
 
                 ## Milestones
                 1. The current SBA guidelines and marking criteria read from the syllabus, with the required sections listed.
                 2. Three possible topics each written as a question, with at least two reachable sources named for each.
-                3. One research question approved by your teacher in writing.
+                3. One research question approved by the teacher in writing.
                 4. A research plan with dates for sources, draft and submission set against the school deadline.
 
                 ## Notes
@@ -170,19 +172,19 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: decision
-                success_criteria: "One SBA research question is approved in writing by your teacher, with a dated plan to the school deadline."
+                success_criteria: "One SBA research question is approved in writing by the teacher, with a dated plan to the school deadline."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
                 - "Read the SBA section of the current syllabus and list the required parts"
                 - "Write three possible topics as research questions"
-                - "Name two real sources you could reach for each topic"
-                - "Agree one question with your teacher and note the school deadline"
-                - "Send your teacher a short SBA progress note @recurring(monthly:6)"
-            - name: Caribbean map you can draw from memory
+                - "Name two real sources your teen could reach for each topic"
+                - "Check one question is agreed with the teacher and note the school deadline"
+                - "Ask how the SBA is going and whether the teacher has had an update @recurring(monthly:6)"
+            - name: Caribbean map drawn from memory
               description: |-
                 ## Purpose
-                Essays on settlement, sugar, revolts and independence keep naming territories, and examiners notice when Berbice is placed in Jamaica or Saint-Domingue is confused with Santo Domingo. A blank map you can fill in from memory, with the colonial power that held each territory at key dates, makes every later theme easier to place.
+                Essays on settlement, sugar, revolts and independence keep naming territories, and examiners notice when Berbice is placed in Jamaica or Saint-Domingue is confused with Santo Domingo. A blank map your teen can fill in from memory, with the colonial power that held each territory at key dates, makes every later theme easier to place.
 
                 ## Milestones
                 1. A blank outline map of the Caribbean and the Guianas with every territory labelled.
@@ -196,7 +198,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "You can draw and label a map of the region from memory, with colonial powers for 1700 and 1900, with two errors or fewer."
+                success_criteria: "Your teen can draw and label a map of the region from memory, with colonial powers for 1700 and 1900, with two errors or fewer."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
@@ -207,10 +209,10 @@ starter_structure:
             - name: Weekly Caribbean History study sessions
               description: |-
                 ## Purpose
-                History rewards little and often: a theme read once in class and left for a month is mostly gone by the mock. Two fixed weekly sessions, one to rewrite the week's notes and one to answer a question on them, keep each theme alive and turn class notes into exam material as you go.
+                History rewards little and often: a theme read once in class and left for a month is mostly gone by the mock. Two fixed weekly sessions, one to rewrite the week's notes and one to answer a question on them, keep each theme alive and turn class notes into exam material along the way.
 
                 ## Milestones
-                1. Two session times a week fixed in your timetable and kept for a full term.
+                1. Two session times a week fixed in your teen's timetable and kept for a full term.
                 2. Each week's class notes rewritten into theme notes with causes, events and consequences separated.
                 3. One short question answered from memory at the end of every second session.
                 4. A tally of sessions kept, reviewed at the end of each month.
@@ -224,7 +226,7 @@ starter_structure:
                 success_criteria: "At least eight in ten planned sessions are kept each month, with every week's notes rewritten into theme notes."
                 cadence: rolling
               tasks:
-                - "Choose two fixed times a week for Caribbean History"
+                - "Agree two fixed times a week for Caribbean History with your teen"
                 - "Rewrite the week's notes and answer one question on them @recurring(weekly:mon,thu)"
                 - "Write next week's topics into the study plan @recurring(weekly:sun)"
                 - "Count the sessions kept at the end of the month"
@@ -248,10 +250,10 @@ starter_structure:
                 success_criteria: "A deck covering every theme is reviewed daily and recalled at eight in ten or better before the mock."
                 cadence: rolling
               tasks:
-                - "Make ten cards for the theme you are studying now"
+                - "Make ten cards for the theme being studied now"
                 - "Review ten minutes of cards and re-sort the piles @recurring(daily)"
                 - "Add the week's new names, dates and terms to the deck @recurring(weekly:fri)"
-                - "Ask the agent to quiz you on one theme's cards before a class test"
+                - "Quiz your teen on one theme's cards before a class test"
             - name: Wall timeline from the first peoples to 1985
               description: |-
                 ## Purpose
@@ -293,7 +295,7 @@ starter_structure:
                 success_criteria: "A timed Paper 01 score is logged by theme every month, with wrong answers added to the card deck."
                 cadence: rolling
               tasks:
-                - "Collect past Paper 01s from your school or the CXC online store"
+                - "Collect past Paper 01s from the school or the CXC online store"
                 - "Sit a full Paper 01 under the time allowed and log the score @recurring(monthly:8)"
                 - "Turn every wrong answer into a card"
                 - "Compare this month's score by theme with last month's"
@@ -304,7 +306,7 @@ starter_structure:
 
                 ## Milestones
                 1. One Paper 02 question answered under time each month from a theme already taught.
-                2. Each essay marked against the mark scheme by you, a classmate or your teacher.
+                2. Each essay marked against the mark scheme by your teen, a classmate or the teacher.
                 3. A short plan written before every essay and kept with the answer.
                 4. A list of the three most frequent marking comments, updated each month.
               priority: medium
@@ -316,8 +318,8 @@ starter_structure:
               tasks:
                 - "Choose a past Paper 02 question from a theme already taught"
                 - "Write one full essay under time and mark it against the scheme @recurring(monthly:17)"
-                - "Keep the plan with the finished essay in your folder"
-                - "Copy the main marking comment into your mistakes log"
+                - "Keep the plan with the finished essay in the history folder"
+                - "Copy the main marking comment into the mistakes log"
             - name: Caribbean History mistakes and feedback log
               description: |-
                 ## Purpose
@@ -336,17 +338,17 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Set up a mistakes log with date, task, mistake, cause and fix"
-                - "Enter the mistakes from your last marked essay"
+                - "Enter the mistakes from the last marked essay"
                 - "Review the log and choose one repeated mistake to fix @recurring(monthly:27)"
                 - "Group the entries by theme and by type before the mock"
-            - name: Termly progress review with your history teacher
+            - name: Termly progress review with the history teacher
               description: |-
                 ## Purpose
-                Teachers see patterns across a whole class that a student cannot see alone, but they rarely have time to raise them unless asked. Ten minutes with your teacher near the end of each term, with your scores and log in hand, gives you their view of what to fix next and keeps the SBA on track.
+                Teachers see patterns across a whole class that a student cannot see alone, but they rarely have time to raise them unless asked. Ten minutes with the teacher near the end of each term, with scores and the log in hand and your teen leading where they can, gives you both the teacher's view of what to fix next and keeps the SBA on track.
 
                 ## Milestones
                 1. A short meeting held near the end of each term.
-                2. Your Paper 01 scores, latest essay and mistakes log brought to the meeting.
+                2. The latest Paper 01 scores, latest essay and mistakes log brought to the meeting.
                 3. Two or three actions agreed and written down.
                 4. Last term's actions checked at the start of each new meeting.
 
@@ -359,20 +361,20 @@ starter_structure:
                 success_criteria: "A note of each termly review exists with two or three agreed actions and a check on the previous term's."
                 cadence: cyclic
               tasks:
-                - "Ask your teacher for ten minutes near the end of term @recurring(quarterly)"
-                - "Bring your scores, latest essay and mistakes log"
-                - "Write down the actions you agree"
+                - "Ask the teacher for ten minutes near the end of term @recurring(quarterly)"
+                - "Bring the scores, latest essay and mistakes log"
+                - "Write down the actions agreed"
                 - "Check last term's actions before the next meeting"
             - name: Source analysis with documents, images and statistics
               description: |-
                 ## Purpose
-                Historians work from evidence, and the course asks you to read extracts, cartoons, photographs and tables and say what they show, who made them and how far they can be trusted. A monthly source exercise builds the habit of asking about origin, purpose and reliability, which also makes the SBA research much stronger.
+                Historians work from evidence, and the course asks candidates to read extracts, cartoons, photographs and tables and say what they show, who made them and how far they can be trusted. A monthly source exercise builds the habit of asking about origin, purpose and reliability, which also makes the SBA research much stronger.
 
                 ## Milestones
                 1. A one-page checklist for any source: who made it, when, why, for whom, and what it leaves out.
                 2. One primary source analysed each month, each from a different theme.
-                3. Primary and secondary sources clearly told apart in your notes.
-                4. Two analyses checked by your teacher.
+                3. Primary and secondary sources clearly told apart in the notes.
+                4. Two analyses checked by the teacher.
 
                 ## Notes
                 Check whether the current Paper 01 or Paper 02 uses stimulus or source material, and practise that kind. Planters' letters, abolitionist pamphlets and colonial reports each had an audience to persuade.
@@ -380,36 +382,36 @@ starter_structure:
               frontmatter:
                 mode: operating
                 output_kind: habit
-                success_criteria: "One source analysis is filed each month against the checklist, with two checked by your teacher."
+                success_criteria: "One source analysis is filed each month against the checklist, with two checked by the teacher."
                 cadence: rolling
               tasks:
                 - "Write a source checklist of who, when, why, for whom and what is missing"
-                - "Find a primary source from the theme you are studying"
+                - "Find a primary source from the theme being studied"
                 - "Analyse one source against the checklist @recurring(monthly:3)"
-                - "Ask your teacher to check two of your analyses"
+                - "Ask the teacher to check two analyses"
             - name: The Maya, Taino and Kalinago before 1492
               description: |-
                 ## Purpose
-                Before 1492 the region was home to peoples with their own origins, migrations, governments, economies, religions and technology, and the first theme asks you to describe and compare them. Setting the Maya of the mainland beside the Taino and Kalinago of the islands, point by point, is the structure most questions on them reward.
+                Before 1492 the region was home to peoples with their own origins, migrations, governments, economies, religions and technology, and the first theme asks candidates to describe and compare them. Setting the Maya of the mainland beside the Taino and Kalinago of the islands, point by point, is the structure most questions on them reward.
 
                 ## Milestones
                 1. A comparison grid of the Maya, Taino and Kalinago under origins, government, economy, religion, technology and daily life.
-                2. The migration routes into the islands shown on your Caribbean map.
-                3. Three facts for each people that you can use as essay evidence.
+                2. The migration routes into the islands shown on the Caribbean map.
+                3. Three facts for each people to use as essay evidence.
                 4. Two past-paper questions on the indigenous peoples answered and marked.
 
                 ## Notes
-                Much of what is known comes from archaeology and from Spanish writers who had their own reasons for describing these peoples as they did. Say so when you use their accounts.
+                Much of what is known comes from archaeology and from Spanish writers who had their own reasons for describing these peoples as they did. Say so when using their accounts.
               priority: medium
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A completed comparison grid and two marked past-paper answers on the indigenous peoples are in your folder."
+                success_criteria: "A completed comparison grid and two marked past-paper answers on the indigenous peoples are in the folder."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
                 - "Draw a comparison grid for the Maya, Taino and Kalinago"
-                - "Mark the migration routes on your Caribbean map"
+                - "Mark the migration routes on the Caribbean map"
                 - "Pick three pieces of evidence for each people"
                 - "Answer two past-paper questions on the indigenous peoples"
             - name: European motives, Columbus and the first encounters
@@ -437,10 +439,10 @@ starter_structure:
             - name: Spanish colonisation and the fate of the indigenous peoples
               description: |-
                 ## Purpose
-                Within a few decades of 1492 the Taino population of Hispaniola had collapsed, and the syllabus asks you to explain why: disease, forced labour under the encomienda, warfare, hunger and the breakdown of their society. Learning how Spain governed its colonies, and the resistance led by figures such as Hatuey and Enriquillo, turns that into a balanced argument.
+                Within a few decades of 1492 the Taino population of Hispaniola had collapsed, and the syllabus asks candidates to explain why: disease, forced labour under the encomienda, warfare, hunger and the breakdown of their society. Learning how Spain governed its colonies, and the resistance led by figures such as Hatuey and Enriquillo, turns that into a balanced argument.
 
                 ## Milestones
-                1. The encomienda and repartimiento systems explained in your own words.
+                1. The encomienda and repartimiento systems explained in plain words.
                 2. The causes of indigenous population decline ranked, each backed with evidence.
                 3. Indigenous resistance, including Hatuey and Enriquillo, summarised.
                 4. The protests of Bartolomé de las Casas and their effect on Spanish policy noted.
@@ -449,7 +451,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "A ranked list of causes with evidence and one timed, marked essay on Spanish colonisation are in your folder."
+                success_criteria: "A ranked list of causes with evidence and one timed, marked essay on Spanish colonisation are in the folder."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
@@ -556,7 +558,7 @@ starter_structure:
 
                 ## Milestones
                 1. The long-term and short-term causes laid out in two columns.
-                2. The main stages from 1791 to independence in 1804 placed on your timeline.
+                2. The main stages from 1791 to independence in 1804 placed on the timeline.
                 3. The roles of Toussaint Louverture, Dessalines and the French government explained.
                 4. The results for Haiti and for the rest of the Caribbean noted.
                 5. One timed essay on the Haitian Revolution written and marked.
@@ -564,18 +566,18 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Causes, stages, leaders and results are in your notes and one timed essay on the revolution is marked."
+                success_criteria: "Causes, stages, leaders and results are in the notes and one timed essay on the revolution is marked."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
                 - "Split the causes into long-term and short-term columns"
-                - "Place the main stages from 1791 to 1804 on your timeline"
+                - "Place the main stages from 1791 to 1804 on the timeline"
                 - "Write a paragraph on Toussaint Louverture's leadership"
                 - "Write one timed essay on the Haitian Revolution"
             - name: Revolts in Berbice, Barbados, Demerara and Jamaica compared
               description: |-
                 ## Purpose
-                Berbice in 1763, Barbados in 1816, Demerara in 1823 and Jamaica in 1831 to 1832 are the revolts most often studied, and questions ask why they broke out, why they failed or what they achieved. One comparison grid of causes, leaders, events, suppression and results lets you answer on any one of them or on all four.
+                Berbice in 1763, Barbados in 1816, Demerara in 1823 and Jamaica in 1831 to 1832 are the revolts most often studied, and questions ask why they broke out, why they failed or what they achieved. One comparison grid of causes, leaders, events, suppression and results lets your teen answer on any one of them or on all four.
 
                 ## Milestones
                 1. A grid comparing the four revolts by causes, leaders, events, suppression and results.
@@ -644,7 +646,7 @@ starter_structure:
             - name: Emancipation in the French, Danish, Dutch and Spanish Caribbean
               description: |-
                 ## Purpose
-                Freedom came at different times across the region: 1848 in the French islands and the Danish West Indies, 1863 in the Dutch territories, 1873 in Puerto Rico and 1886 in Cuba. Comparing why each came when it did, and how the enslaved forced the pace in places such as St Croix, gives you material for questions that look beyond the British colonies.
+                Freedom came at different times across the region: 1848 in the French islands and the Danish West Indies, 1863 in the Dutch territories, 1873 in Puerto Rico and 1886 in Cuba. Comparing why each came when it did, and how the enslaved forced the pace in places such as St Croix, gives your teen material for questions that look beyond the British colonies.
 
                 ## Milestones
                 1. A table of emancipation dates and main causes for each European power.
@@ -744,7 +746,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Causes of and responses to the sugar crisis are in your notes and one marked past-paper answer is filed."
+                success_criteria: "Causes of and responses to the sugar crisis are in the notes and one marked past-paper answer is filed."
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
@@ -760,7 +762,7 @@ starter_structure:
                 ## Milestones
                 1. A table of territories and their main alternative exports in the twentieth century.
                 2. The growth of the banana and cocoa industries explained with their main problems.
-                3. The rise of oil, bauxite and tourism placed on your timeline.
+                3. The rise of oil, bauxite and tourism placed on the timeline.
                 4. Industrialisation by invitation and the ideas of W. Arthur Lewis summarised.
                 5. One past-paper question on economic diversification answered.
               priority: low
@@ -773,7 +775,7 @@ starter_structure:
               tasks:
                 - "Make a table of territories and their main exports after sugar"
                 - "Explain the rise and problems of the banana industry"
-                - "Add oil, bauxite and tourism milestones to your timeline"
+                - "Add oil, bauxite and tourism milestones to the timeline"
                 - "Answer one past-paper question on diversification"
             - name: The United States, the Monroe Doctrine and the war of 1898
               description: |-
@@ -800,7 +802,7 @@ starter_structure:
             - name: US intervention from Haiti and the Dominican Republic to Grenada
               description: |-
                 ## Purpose
-                Between 1900 and 1985 the United States used the Roosevelt Corollary and dollar diplomacy, occupied Haiti from 1915 to 1934 and the Dominican Republic from 1916 to 1924, built the Panama Canal, faced the Cuban Revolution of 1959 and intervened in Grenada in 1983. A case-by-case summary of reasons, actions and results lets you write on whichever intervention the paper picks.
+                Between 1900 and 1985 the United States used the Roosevelt Corollary and dollar diplomacy, occupied Haiti from 1915 to 1934 and the Dominican Republic from 1916 to 1924, built the Panama Canal, faced the Cuban Revolution of 1959 and intervened in Grenada in 1983. A case-by-case summary of reasons, actions and results lets your teen write on whichever intervention the paper picks.
 
                 ## Milestones
                 1. A table of US interventions with dates, reasons, actions and results.
@@ -850,7 +852,7 @@ starter_structure:
                 ## Milestones
                 1. The links between trade unions and the first political parties explained with examples.
                 2. The constitutional stages from Crown Colony government to independence set out for one territory.
-                3. Independence dates for the main British territories placed on your timeline.
+                3. Independence dates for the main British territories placed on the timeline.
                 4. The different routes of the French departments, the Dutch territories and Puerto Rico summarised.
                 5. One past-paper question on the movement to independence answered.
               priority: medium
@@ -863,7 +865,7 @@ starter_structure:
               tasks:
                 - "Explain how one trade union grew into a political party"
                 - "Trace the constitutional steps to independence for one territory"
-                - "Place the independence dates on your timeline"
+                - "Place the independence dates on the timeline"
                 - "Answer one past-paper question on the movement to independence"
             - name: The West Indies Federation, CARIFTA and CARICOM
               description: |-
@@ -877,7 +879,7 @@ starter_structure:
                 4. One past-paper question on regional integration answered and marked.
 
                 ## Notes
-                Keep to the history up to the end date your syllabus sets. The present-day workings of CARICOM and the single market belong to Social Studies and Caribbean Studies.
+                Keep to the history up to the end date the syllabus sets. The present-day workings of CARICOM and the single market belong to Social Studies and Caribbean Studies.
               priority: medium
               frontmatter:
                 mode: building
@@ -893,7 +895,7 @@ starter_structure:
             - name: Caribbean society 1900 to 1985, from schools to carnival
               description: |-
                 ## Purpose
-                The final theme looks at everyday life in the twentieth century: the spread of schooling and island scholarships, churches alongside African, Hindu and Muslim faiths, health and housing, the changing role of women, and the culture of carnival, calypso, reggae and cricket. Questions often ask how far life improved, so your notes need evidence of both change and continuity.
+                The final theme looks at everyday life in the twentieth century: the spread of schooling and island scholarships, churches alongside African, Hindu and Muslim faiths, health and housing, the changing role of women, and the culture of carnival, calypso, reggae and cricket. Questions often ask how far life improved, so the notes need evidence of both change and continuity.
 
                 ## Milestones
                 1. Changes in education, health and housing between 1900 and 1985 listed with examples.
@@ -934,7 +936,7 @@ starter_structure:
               tasks:
                 - "List the main migration movements and their destinations"
                 - "Write the push and pull factors for migration to Britain after 1948"
-                - "Ask an older relative or neighbour about a family migration"
+                - "Together, ask an older relative or neighbour about a family migration"
                 - "Answer one past-paper question on migration"
             - name: SBA research with sources, interviews and site visits
               description: |-
@@ -946,31 +948,31 @@ starter_structure:
                 2. Every source recorded with author, title, date and where it was found.
                 3. Any interview planned, carried out with the person's permission and written up.
                 4. Notes organised under the sections the SBA guidelines require.
-                5. Research checked with your teacher before drafting begins.
+                5. Research checked with the teacher before drafting begins.
 
                 ## Notes
-                Ask permission before recording anyone, tell them how their words will be used, and take a parent or friend on any visit. National archives, museums and heritage trusts often help students who write ahead.
+                Make sure your teen asks permission before recording anyone and tells them how their words will be used, and go with them, or make sure a friend does, on any visit. National archives, museums and heritage trusts often help students who write ahead.
               priority: high
               deadlineOffsetDays: 110
               frontmatter:
                 mode: research
                 output_kind: artifact
-                success_criteria: "At least six fully referenced sources, including primary ones, are sorted under the SBA sections and checked by your teacher."
+                success_criteria: "At least six fully referenced sources, including primary ones, are sorted under the SBA sections and checked by the teacher."
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
-                - "List the libraries, archives and museums you can reach for your topic"
+                - "List the libraries, archives and museums within reach for the topic"
                 - "Record every source with author, title, date and location"
                 - "Prepare interview questions and ask permission before recording"
-                - "Sort your notes under the SBA's required sections"
-                - "Ask the agent to check your source list for missing reference details"
+                - "Sort the notes under the SBA's required sections"
+                - "Ask the agent to check the source list for missing reference details"
             - name: SBA draft, bibliography and final submission
               description: |-
                 ## Purpose
                 Marks on the SBA are awarded against published criteria, and most lost marks come from missing sections, unsupported claims and weak references rather than poor ideas. Writing a full draft early enough for teacher feedback, then checking it line by line against the criteria, gets a finished piece handed in before the school deadline, not on it.
 
                 ## Milestones
-                1. A full first draft covering every required section, handed to your teacher for feedback.
+                1. A full first draft covering every required section, handed to the teacher for feedback.
                 2. Each teacher comment answered in the second draft.
                 3. Every claim backed by a referenced source and a complete bibliography added.
                 4. The final piece checked against the marking criteria and any length limit in the guidelines.
@@ -985,41 +987,41 @@ starter_structure:
                 effort_hours_estimate: "12"
               tasks:
                 - "Write a full first draft in every required section"
-                - "Give the draft to your teacher and ask for written comments"
+                - "Give the draft to the teacher and ask for written comments"
                 - "Answer each comment in the second draft"
                 - "Check the final piece against the criteria and length limit"
                 - "Submit the SBA and keep a copy"
             - name: Examiner reports and mark schemes for Caribbean History
               description: |-
                 ## Purpose
-                CXC publishes a subject report after each sitting describing what candidates did well and where they lost marks, and together they read like a list of warnings for next year. Reading several years of reports, alongside mark schemes where you can get them, shows what examiners reward in history essays and which mistakes they keep seeing.
+                CXC publishes a subject report after each sitting describing what candidates did well and where they lost marks, and together they read like a list of warnings for next year. Reading several years of reports, alongside mark schemes where they can be found, shows what examiners reward in history essays and which mistakes they keep seeing.
 
                 ## Milestones
                 1. Subject reports for at least three recent sittings read and summarised.
-                2. A list of the weaknesses examiners mention most, each with how you will avoid it.
-                3. The mark scheme for at least two Paper 02 questions studied with your own answers beside them.
-                4. Your essay plan pattern adjusted in light of what the reports say.
+                2. A list of the weaknesses examiners mention most, each with how to avoid it.
+                3. The mark scheme for at least two Paper 02 questions studied with your teen's own answers beside them.
+                4. The essay plan pattern adjusted in light of what the reports say.
               priority: medium
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "Three subject reports are summarised and a list of examiner warnings, each with a fix, is in your folder."
+                success_criteria: "Three subject reports are summarised and a list of examiner warnings, each with a fix, is in the folder."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
                 - "Find the subject reports for Caribbean History on the CXC website"
                 - "Note the weaknesses examiners mention in each report"
-                - "Compare two of your essays with the matching mark schemes"
-                - "Adjust your essay plan pattern in light of the reports"
+                - "Compare two recent essays with the matching mark schemes"
+                - "Adjust the essay plan pattern in light of the reports"
             - name: Full Caribbean History mock exam
               description: |-
                 ## Purpose
-                Sitting Paper 01 and Paper 02 on the same day under exam conditions is the only real test of whether your timing and stamina hold across the whole exam. A mock about three months before the sitting leaves time to fix what it shows.
+                Sitting Paper 01 and Paper 02 on the same day under exam conditions is the only real test of whether your teen's timing and stamina hold across the whole exam. A mock about three months before the sitting leaves time to fix what it shows, and if the school does not run one, a quiet morning at home with you keeping time works well.
 
                 ## Milestones
                 1. An unseen past Paper 01 and Paper 02 sat on the same day under exam conditions.
                 2. Both papers marked against the key and the mark scheme.
-                3. Time spent on each Paper 02 answer recorded and compared with your plan.
+                3. Time spent on each Paper 02 answer recorded and compared with the plan.
                 4. Three priorities for the remaining weeks written into the revision timetable.
               priority: high
               deadlineOffsetDays: 190
@@ -1040,10 +1042,10 @@ starter_structure:
                 Eight weeks before the exam is when new content should stop and planned revision start, with each theme getting time in proportion to its weakness. A dated timetable that ends with a last full past paper about a week out turns the final stretch into a sequence of small, finishable tasks.
 
                 ## Milestones
-                1. Every theme you will sit given revision slots weighted by your confidence grid.
+                1. Every theme your teen will sit given revision slots weighted by the confidence grid.
                 2. One timed essay a week and one full Paper 01 every fortnight scheduled.
                 3. A last full past paper set about a week before the exam, with the final days kept light.
-                4. The timetable shared with a parent or study partner who checks it weekly.
+                4. The timetable shared with you or a study partner and checked together weekly.
               priority: high
               deadlineOffsetDays: 215
               frontmatter:
@@ -1056,11 +1058,11 @@ starter_structure:
                 - "Rate each theme again on the confidence grid"
                 - "Give the weakest themes the most revision slots"
                 - "Schedule the last full past paper a week before the exam"
-                - "Share the timetable with someone who will check it"
+                - "Ask your teen to share the timetable so you can check in weekly"
             - name: Caribbean History exam day plan
               description: |-
                 ## Purpose
-                Exam morning is the wrong time to find your candidate slip is missing or you have no spare pen. A short plan for the night before, the morning and the time in the exam room, including how you will divide the time between questions, lets you spend your energy on the history.
+                Exam morning is the wrong time to find the candidate slip is missing or there is no spare pen. A short plan for the night before, the morning and the time in the exam room, including how your teen will divide the time between questions, lets them spend their energy on the history.
 
                 ## Milestones
                 1. Date, time, venue and candidate number for Paper 01 and Paper 02 confirmed and written down.
@@ -1077,13 +1079,13 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Confirm the paper dates and venue from the published timetable"
-                - "Pack pens, identification and your candidate slip the night before"
+                - "Pack pens, identification and the candidate slip the night before"
                 - "Write the Paper 02 time plan on a card"
-                - "Look over your key dates cards the evening before"
+                - "Look over the key dates cards the evening before"
             - name: Parent support for a Caribbean History student
               description: |-
                 ## Purpose
-                Parents do not need to know the history to help: asking about the plan, noticing when the SBA stalls and taking a teenager to a museum or heritage site all make a difference. Many parents and grandparents also carry family history, from indentureship to migration, that brings the course to life.
+                You do not need to know the history to help: asking about the plan, noticing when the SBA stalls and taking your teen to a museum or heritage site all make a difference. You, or their grandparents, may also carry family history, from indentureship to migration, that brings the course to life.
 
                 ## Milestones
                 1. A monthly check-in on the study plan, scores and SBA progress.
@@ -1107,7 +1109,7 @@ starter_structure:
             - name: Teacher or tutor tracker for a Caribbean History class
               description: |-
                 ## Purpose
-                A teacher or lessons tutor with a Caribbean History class juggles themes, SBA progress and past-paper scores for every student. A simple tracker, with a weekly past question and a monthly check on SBA progress, shows who is falling behind while there is still time to act.
+                A teacher or tutor with a Caribbean History class juggles themes, SBA progress and past-paper scores for every student. A simple tracker, with a weekly past question and a monthly check on SBA progress, shows who is falling behind while there is still time to act. If your teen has a history tutor, share this project with them; it works for one student as well as a class.
 
                 ## Milestones
                 1. A class tracker listing each student's SBA question, stage and latest scores.
@@ -1128,7 +1130,7 @@ starter_structure:
             - name: Paper 032 alternative for private Caribbean History candidates
               description: |-
                 ## Purpose
-                Private candidates without a school to supervise an SBA usually sit Paper 032, an alternative paper that tests research and source skills under exam conditions. Studying without a class means building your own structure: a registrar, past papers, a tutor or study group, and practice on the kind of questions the alternative paper sets.
+                Private candidates without a school to supervise an SBA usually sit Paper 032, an alternative paper that tests research and source skills under exam conditions. Studying without a class means building a structure from scratch: a registrar, past papers, a tutor or study group, and practice on the kind of questions the alternative paper sets. If your teen is sitting privately, this is where your support counts most.
 
                 ## Milestones
                 1. Registration confirmed through the local CXC registrar, with Paper 032 entered.
@@ -1143,7 +1145,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Contact the local registrar to confirm your entry and Paper 032"
+                - "Contact the local registrar to confirm your teen's entry and Paper 032"
                 - "Check the Paper 032 format in the current syllabus"
                 - "Practise one past Paper 032 under time"
                 - "Find a tutor or study group for regular feedback"
@@ -1156,23 +1158,23 @@ starter_structure:
                 1. Five essay openings written that state a clear line of argument.
                 2. One essay rewritten to weigh at least two factors against each other.
                 3. Conclusions that reach a judgement written for three past questions.
-                4. Two essays confirmed by your teacher as Grade I standard.
+                4. Two essays confirmed by the teacher as Grade I standard.
               priority: low
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Two essays are confirmed by your teacher as Grade I standard, each with an argument and a reasoned judgement."
+                success_criteria: "Two essays are confirmed by the teacher as Grade I standard, each with an argument and a reasoned judgement."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
                 - "Write five essay openings that state a clear argument"
                 - "Rewrite one essay to weigh two factors against each other"
                 - "Write conclusions with a judgement for three past questions"
-                - "Ask the agent to suggest counter-arguments to one of your essay plans"
+                - "Ask the agent to suggest counter-arguments to one essay plan"
             - name: Results, reviews and the next step after CSEC Caribbean History
               description: |-
                 ## Purpose
-                Results come out in the summer, and a grade lower than expected can sometimes be queried through the school within a short window. Knowing that process, and how the subject leads on to CAPE History, Caribbean Studies, law, teaching, journalism or heritage work, means results day ends with a decision rather than a guess.
+                Results come out in the summer, and a grade lower than expected can sometimes be queried through the school within a short window. Knowing that process, and how the subject leads on to CAPE History, Caribbean Studies, law, teaching, journalism or heritage work, means results day ends with a decision you and your teen make together rather than a guess.
 
                 ## Milestones
                 1. Results checked and the overall grade and profile grades recorded.
@@ -1191,11 +1193,11 @@ starter_structure:
                 - "Check results through the school or the CXC online portal"
                 - "Ask the school about the review process and its deadline if needed"
                 - "Compare CAPE subjects and courses that build on history"
-                - "Pass your notes on to a younger student or store them"
+                - "Pass the notes on to a younger student or store them"
 ---
 
 # CSEC Caribbean History
 
-This area takes a CSEC Caribbean History student from the first syllabus check to results day, in the order the subject is taught and examined. It opens with the foundations (the current syllabus, a diagnostic paper, a two-year plan, command words, a reading list, the SBA topic and a map of the region), sets up the weekly routines and source practice, then works through the themes in syllabus order: the indigenous peoples and the Europeans, sugar and slavery, resistance and revolt, abolition and emancipation, the years after 1838, the economy after 1875, the United States in the region, the road to independence and integration, and twentieth century society. It closes with the SBA research and write-up, examiner reports, the mock and exam day, and projects for parents, teachers and private candidates.
+This area helps a parent or guardian support a CSEC Caribbean History student from the first syllabus check to results day, in the order the subject is taught and examined. It opens with the foundations (the current syllabus, a diagnostic paper, a two-year plan, command words, a reading list, the SBA topic and a map of the region), sets up the weekly routines and source practice, then works through the themes in syllabus order: the indigenous peoples and the Europeans, sugar and slavery, resistance and revolt, abolition and emancipation, the years after 1838, the economy after 1875, the United States in the region, the road to independence and integration, and twentieth century society. It closes with the SBA research and write-up, examiner reports, the mock and exam day, and projects for parents, tutors and teachers, and private candidates.
 
-The rhythm is two weekly study sessions, daily dates and terms cards, a weekly timeline entry, a monthly timed Paper 01, a monthly timed essay, a monthly source exercise, a monthly mistakes review and a termly talk with your teacher. The Skills matrix, Reading queue, Habit tracker, Metrics log and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is two weekly study sessions, daily dates and terms cards, a weekly timeline entry, a monthly timed Paper 01, a monthly timed essay, a monthly source exercise, a monthly mistakes review, a monthly check-in at home and a termly talk with the history teacher. The Skills matrix, Reading queue, Habit tracker, Metrics log and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

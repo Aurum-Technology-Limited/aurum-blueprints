@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-physics
 name: CSEC Physics
-description: "A full CSEC Physics plan: the current paper format, all five syllabus sections from mechanics to the atom, the SBA lab book, timed past papers, mark schemes and the final weeks to exam day."
+description: "A CSEC Physics plan for parents and guardians: the current paper format, all five syllabus sections from mechanics to the atom, the SBA lab book, timed past papers and the final weeks to exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-physics, cxc, csec, physics, student, parent, educator]
@@ -16,7 +16,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -26,17 +26,19 @@ starter_structure:
             - name: Current CSEC Physics syllabus and paper format check
               description: |-
                 ## Purpose
-                Physics textbooks used around the region were written for several versions of the syllabus, and a revision guide handed down from an older cousin may spend whole chapters on content that has moved or been dropped. One evening with the current CSEC Physics syllabus from the CXC website settles the five sections and the specific objectives inside each, what Paper 01, Paper 02 and the SBA look like, and which equations or data are supplied, before any revision is planned on guesswork.
+                Physics textbooks used around the region were written for several versions of the syllabus, and a revision guide handed down from an older cousin may spend whole chapters on content that has moved or been dropped. One evening with the current CSEC Physics syllabus from the CXC website, ideally with your teen beside you, settles the five sections and the specific objectives inside each, what Paper 01, Paper 02 and the SBA look like, and which equations or data are supplied, before any revision is planned on guesswork.
 
                 ## Milestones
-                1. The current CSEC Physics syllabus downloaded from the CXC website and saved where the student studies.
+                1. The current CSEC Physics syllabus downloaded from the CXC website and saved where your teen studies.
                 2. The five sections listed in the syllabus's own order, with the topics and specific objectives under each skimmed.
                 3. The format of Paper 01, Paper 02, the SBA (Paper 031) and Paper 032 written on one page in plain words, exactly as the syllabus states it.
                 4. This year's physics exam dates noted from the published CXC timetable once it is released.
                 5. Any equation list, data sheet or calculator rule the syllabus mentions copied onto the summary page.
 
                 ## Notes
-                Take weightings, timings and question counts only from the current syllabus or the school's copy of it, never from an old guide. CSEC's main sitting runs from May to June and a January sitting exists for some subjects, so confirm which sitting you are entered for before building a timetable around it.
+                This plan is for a parent or guardian supporting a teenager through CSEC Physics, and an older student can follow it with a parent's support.
+
+                Take weightings, timings and question counts only from the current syllabus or the school's copy of it, never from an old guide. CSEC's main sitting runs from May to June and a January sitting exists for some subjects, so confirm with the school which sitting your teen is entered for before building a timetable around it.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -49,12 +51,12 @@ starter_structure:
                 - "Check the current syllabus and timetable on the CXC website and note the paper format"
                 - "List the five syllabus sections and their topics on one summary page"
                 - "Note which equations, constants or data the syllabus says are given in the exam"
-                - "Share the summary page with your physics teacher and anyone who helps you study"
+                - "Share the summary page with the physics teacher and anyone who helps your teen study"
                 - "Check the CXC website for changes to the physics syllabus each September @recurring(yearly)"
             - name: Diagnostic past paper and physics starting profile
               description: |-
                 ## Purpose
-                Before revision starts it pays to know whether marks leak from the physics itself, from rearranging equations, from missing units or from never reaching the last question. Sitting one recent Paper 02 calmly at home and marking it with the official mark scheme, section by section, gives a starting score and a short list of weak topics that decides where the next months go.
+                Before revision starts it pays to know whether marks leak from the physics itself, from rearranging equations, from missing units or from never reaching the last question. Having your teen sit one recent Paper 02 calmly at home, then marking it together with the official mark scheme section by section, gives a starting score and a short list of weak topics that decides where the next months go.
 
                 ## Milestones
                 1. One recent Paper 02 attempted in a single sitting with a calculator, ruler and pencil.
@@ -75,14 +77,14 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Download or borrow one recent Paper 02 and its mark scheme"
-                - "Sit the paper at a clear table with your phone in another room"
-                - "Mark the script line by line, counting marks for working and units"
+                - "Sit the paper at a clear table, phone in another room"
+                - "Mark the script together line by line, counting marks for working and units"
                 - "Tag each lost mark with its syllabus section"
                 - "Write the starting score and three weakest topics in the error log"
             - name: Scientific calculator, ruler and graph paper kit
               description: |-
                 ## Purpose
-                Physics papers expect a working scientific calculator, a clear ruler, a protractor and sharp pencils for graphs and ray diagrams, and a student who borrows a different calculator on exam morning loses minutes hunting for the standard form button. Choosing the kit early, checking it against the CXC calculator rules and practising with the same items all year removes one avoidable problem.
+                Physics papers expect a working scientific calculator, a clear ruler, a protractor and sharp pencils for graphs and ray diagrams, and a student who borrows a different calculator on exam morning loses minutes hunting for the standard form button. Choosing the kit early with your teen, checking it against the CXC calculator rules and making sure the calculator they practise with all year is the one going into the exam removes one avoidable problem.
 
                 ## Milestones
                 1. The CXC rules on permitted calculators read and noted.
@@ -107,14 +109,14 @@ starter_structure:
             - name: CSEC Physics study timetable to the sitting
               description: |-
                 ## Purpose
-                Physics is usually one of seven or eight CSEC subjects, so it gets squeezed unless it has fixed slots. Counting the weeks to the sitting and giving each of the five syllabus sections its share, with the SBA deadlines, the mock and the final revision weeks marked in, turns a vague intention into a timetable a parent can check.
+                Physics is usually one of seven or eight CSEC subjects, so it gets squeezed unless it has fixed slots. Counting the weeks to the sitting with your teen and giving each of the five syllabus sections its share, with the SBA deadlines, the mock and the final revision weeks marked in, turns a vague intention into a timetable you can both check.
 
                 ## Milestones
                 1. The number of teaching weeks left before the physics papers counted from the school calendar.
                 2. Each syllabus section given a block of weeks, matched to the order the teacher covers them.
                 3. SBA lab deadlines, the planning and design write-up, the mock and the final six weeks marked on the plan.
                 4. Three or four fixed physics sessions a week placed around other subjects, lessons and chores.
-                5. The timetable printed or pinned where the student and a parent can both see it.
+                5. The timetable printed or pinned where your teen and you can both see it.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -125,14 +127,14 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "Count the school weeks left before the physics papers"
-                - "Ask your teacher for the order and dates of the remaining topics and labs"
-                - "Block out weekly physics sessions around your other subjects"
-                - "Pin the timetable where a parent can see it"
+                - "Your teen asks the physics teacher for the order and dates of the remaining topics and labs"
+                - "Block out weekly physics sessions around their other subjects"
+                - "Pin the timetable where you can both see it"
                 - "Compare the timetable with the score log and adjust it @recurring(monthly:3)"
             - name: Target grade agreed with the physics teacher
               description: |-
                 ## Purpose
-                Students often carry a target that came from a parent or a friend and nobody has checked whether it is realistic or ambitious enough. Ten minutes with the physics teacher, holding the diagnostic score and the SBA marks so far, produces a target grade both sides believe in and a short list of what has to change to reach it.
+                Teenagers often carry a target that came from a parent or a friend, and nobody has checked whether it is realistic or ambitious enough. Ten minutes between your teen and the physics teacher, with the diagnostic score and the SBA marks so far on the table, produces a target grade both sides believe in and a short list of what has to change to reach it.
 
                 ## Milestones
                 1. A short meeting booked with the physics teacher after the diagnostic paper.
@@ -141,19 +143,19 @@ starter_structure:
                 4. Two or three specific changes the teacher recommends recorded beside the target.
 
                 ## Notes
-                Start from the **Meeting notes** template. A parent can join, but let the student lead the conversation.
+                Start from the **Meeting notes** template. You can join, but let your teen lead the conversation.
               priority: medium
               deadlineOffsetDays: 30
               frontmatter:
                 mode: building
                 output_kind: decision
-                success_criteria: "A target physics grade and the teacher's top three recommendations are written in the student's notebook within a month of the diagnostic."
+                success_criteria: "A target physics grade and the teacher's top three recommendations are written in your teen's notebook within a month of the diagnostic."
                 cadence: one-shot
                 effort_hours_estimate: "1"
               tasks:
-                - "Ask your physics teacher for ten minutes after class this week"
-                - "Bring the diagnostic score and your SBA marks to the meeting"
-                - "Write the agreed target grade and recommendations in your notebook"
+                - "Your teen asks the physics teacher for ten minutes after class this week"
+                - "Bring the diagnostic score and SBA marks to the meeting"
+                - "Write the agreed target grade and recommendations in the physics notebook"
                 - "Review progress against the target with the teacher @recurring(quarterly)"
             - name: Equations, units and definitions sheet
               description: |-
@@ -203,7 +205,7 @@ starter_structure:
                 - "Do ten rearranging questions using equations from the mechanics section"
                 - "Make a prefix and unit conversion table from nano to mega"
                 - "Plot one graph from a past-paper results table and find its gradient"
-                - "Ask your maths or physics teacher to check your graph scales and line"
+                - "Ask the maths or physics teacher to check the graph scales and line"
             - name: Practical notebook and lab report layout
               description: |-
                 ## Purpose
@@ -225,8 +227,8 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Ask your teacher for the lab report layout they mark against"
-                - "Copy the layout onto the inside cover of your practical notebook"
+                - "Ask the physics teacher which lab report layout they mark against"
+                - "Copy the layout onto the inside cover of the practical notebook"
                 - "Draw a blank results table with units in every heading"
                 - "Write the next lab report using every heading in order"
             - name: Physics error log of lost marks
@@ -247,7 +249,7 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Set up the error log with columns for section, mistake and correct method"
-                - "Enter the lost marks from your diagnostic paper"
+                - "Enter the lost marks from the diagnostic paper"
                 - "Copy lost marks from the week's marked physics work into the log @recurring(weekly:fri)"
                 - "Redo ten logged questions without notes and score them @recurring(monthly:14)"
             - name: Daily fifteen-minute physics problem habit
@@ -262,7 +264,7 @@ starter_structure:
                 4. Each session's questions marked the same day, with lost marks added to the error log.
 
                 ## Notes
-                Start from the **Habit tracker** template. A missed day is fine; two in a row is the signal to move the time slot, not to give up.
+                Start from the **Habit tracker** template. A missed day is fine; two in a row is the signal to agree a new time slot with your teen, not to give up.
               priority: medium
               frontmatter:
                 mode: operating
@@ -291,13 +293,13 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Collect multiple choice questions from at least three past papers"
-                - "Time yourself on a set of multiple choice questions and mark it straight away @recurring(weekly:sat)"
+                - "Timed set of multiple choice questions, marked straight away @recurring(weekly:sat)"
                 - "Write the reason beside each wrong answer"
                 - "Add the weekly score to the score log"
             - name: Midweek Paper 02 structured question against the mark scheme
               description: |-
                 ## Purpose
-                Paper 02 rewards working shown step by step, labelled diagrams and explanations that use the right physics words, and the only way to learn what earns the marks is to compare your answer with a mark scheme line by line. One structured question each Wednesday, marked strictly, teaches the student how examiners think.
+                Paper 02 rewards working shown step by step, labelled diagrams and explanations that use the right physics words, and the only way to learn what earns the marks is to compare an answer with a mark scheme line by line. One structured question each Wednesday, marked strictly, teaches your teen how examiners think.
 
                 ## Milestones
                 1. A list of Paper 02 questions from recent years, grouped by syllabus section.
@@ -318,7 +320,7 @@ starter_structure:
             - name: Practice score log by syllabus section
               description: |-
                 ## Purpose
-                Scores scattered across test papers and notebooks hide whether the plan is working. One log, with a row per practice set and a column per syllabus section, shows within two months which section is improving and which is stuck, and tells the student and teacher where the next fortnight should go.
+                Scores scattered across test papers and notebooks hide whether the plan is working. One log, with a row per practice set and a column per syllabus section, shows within two months which section is improving and which is stuck, and tells you, your teen and the teacher where the next fortnight should go.
 
                 ## Milestones
                 1. A score log with columns for date, paper or set, section and percentage.
@@ -357,7 +359,7 @@ starter_structure:
               tasks:
                 - "Find the most recent physics subject reports on the CXC website"
                 - "Read one subject report beside its paper and note common errors @recurring(monthly:9)"
-                - "Add the examiners' repeated advice to the front of your notebook"
+                - "Add the examiners' repeated advice to the front of the physics notebook"
             - name: Scientific method, measurement and SI units
               description: |-
                 ## Purpose
@@ -683,7 +685,7 @@ starter_structure:
             - name: Static electricity, charging and electric fields
               description: |-
                 ## Purpose
-                Lightning over the hills on a stormy afternoon and the crackle when you pull off a polyester shirt are both electrostatics, and examiners like questions that link the classroom to that kind of everyday hazard and use. Learning charging by friction and induction, field patterns and the dangers at fuel pumps gives a short, self-contained topic.
+                Lightning over the hills on a stormy afternoon and the crackle when a polyester shirt is pulled off are both electrostatics, and examiners like questions that link the classroom to that kind of everyday hazard and use. Learning charging by friction and induction, field patterns and the dangers at fuel pumps gives a short, self-contained topic.
 
                 ## Milestones
                 1. Charging by friction and by induction explained in terms of electron movement.
@@ -729,7 +731,7 @@ starter_structure:
             - name: Electricity in the home, fuses and the electricity bill
               description: |-
                 ## Purpose
-                Your family's electricity bill is a CSEC Physics question in disguise: power, energy in kilowatt-hours and cost per unit. Linking that calculation to house wiring, fuses, circuit breakers and earthing turns a topic of safety rules into something the student can check at home, with a parent, every month.
+                Your family's electricity bill is a CSEC Physics question in disguise: power, energy in kilowatt-hours and cost per unit. Linking that calculation to house wiring, fuses, circuit breakers and earthing turns a topic of safety rules into something your teen can check at home, with you, every month.
 
                 ## Milestones
                 1. Power, energy and cost calculated in kilowatt-hours for three household appliances.
@@ -870,7 +872,7 @@ starter_structure:
             - name: Physics SBA lab programme and skills tracker
               description: |-
                 ## Purpose
-                The SBA is built from labs done over Forms Four and Five, each marked for particular practical skills the syllabus names, and students who lose track of which skills they have been assessed on find gaps only when it is too late. A simple tracker listing every lab, its date, the skills marked and the mark awarded keeps the whole programme visible to the student, the parent and the teacher.
+                The SBA is built from labs done over Forms Four and Five, each marked for particular practical skills the syllabus names, and students who lose track of which skills they have been assessed on find gaps only when it is too late. A simple tracker listing every lab, its date, the skills marked and the mark awarded keeps the whole programme visible to your teen, to you and to the teacher.
 
                 ## Milestones
                 1. The skills the syllabus assesses in the SBA, such as planning and design or analysis and interpretation, written at the top of the tracker.
@@ -889,7 +891,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
-                - "Ask your teacher which practical skills each planned lab will assess"
+                - "Ask the physics teacher which practical skills each planned lab will assess"
                 - "List every lab done so far with its date, skills and mark"
                 - "Agree a catch-up date for any missing lab report"
                 - "Update the lab tracker and finish any report still in draft @recurring(weekly:thu)"
@@ -906,7 +908,7 @@ starter_structure:
                 5. Limitations and precautions written, and the plan handed in by the teacher's deadline.
 
                 ## Notes
-                Ask the agent to check that each step of the method could be followed by a classmate who has never seen the plan, but write every word of the plan yourself: the SBA must be your own work.
+                The agent can check that each step of the method could be followed by a classmate who has never seen the plan, but your teen writes every word of it: the SBA must be their own work.
               priority: high
               deadlineOffsetDays: 90
               frontmatter:
@@ -919,8 +921,8 @@ starter_structure:
                 - "List three everyday observations that could become a physics investigation"
                 - "Write a hypothesis and name the three kinds of variable"
                 - "Draft a numbered method and a blank results table"
-                - "Ask the agent whether a classmate could follow the method, then revise it yourself"
-                - "Hand the plan to your teacher by the agreed date @priority(high)"
+                - "Ask the agent whether a classmate could follow the method; your teen then revises it"
+                - "Hand the plan to the physics teacher by the agreed date @priority(high)"
             - name: SBA lab book completion and teacher sign-off
               description: |-
                 ## Purpose
@@ -947,7 +949,7 @@ starter_structure:
             - name: Paper 01 multiple choice technique for physics
               description: |-
                 ## Purpose
-                Multiple choice physics questions are built around common mistakes, so the wrong options are often the answers you get by forgetting to square a value or convert grams to kilograms. Learning to work the answer out before looking at the options, eliminate distractors and leave nothing blank turns knowledge into marks under time.
+                Multiple choice physics questions are built around common mistakes, so the wrong options are often the answers a student gets by forgetting to square a value or convert grams to kilograms. Learning to work the answer out before looking at the options, eliminate distractors and leave nothing blank turns knowledge into marks under time.
 
                 ## Milestones
                 1. The format of Paper 01 confirmed from the current syllabus.
@@ -965,7 +967,7 @@ starter_structure:
               tasks:
                 - "Confirm the Paper 01 format from the current syllabus"
                 - "Do ten questions working each answer before reading the options"
-                - "List the five distractor tricks you fell for most often"
+                - "List the five distractor tricks that caught your teen most often"
                 - "Sit a full Paper 01 set with a written pacing plan"
             - name: Paper 02 calculations, units and explanation answers
               description: |-
@@ -986,14 +988,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Write the calculation layout on a card to keep beside you"
+                - "Write the calculation layout on a card to keep beside the desk"
                 - "List the command words with what each one asks for"
                 - "Rewrite five weak explanation answers from the error log"
                 - "Do two Paper 02 questions using the layout and mark them"
             - name: First full timed physics past paper at home
               description: |-
                 ## Purpose
-                Sitting a whole Paper 01 and Paper 02 under exam conditions, months before the real thing, shows stamina, pacing and which sections are still weak in a way topic drills never can. Doing it once early, at the kitchen table with a parent keeping time, sets a benchmark for the mock and the final weeks.
+                Sitting a whole Paper 01 and Paper 02 under exam conditions, months before the real thing, shows stamina, pacing and which sections are still weak in a way topic drills never can. Doing it once early, at the kitchen table with you keeping time, sets a benchmark for the mock and the final weeks.
 
                 ## Milestones
                 1. A recent paper set chosen and a quiet morning booked with the household.
@@ -1010,7 +1012,7 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "Choose a recent paper set and book a quiet morning at home"
-                - "Ask a parent or sibling to keep time and collect the scripts"
+                - "Offer to keep time and collect the scripts, or ask a sibling to"
                 - "Mark both papers with the official mark schemes"
                 - "Enter the section scores and adjust the timetable"
             - name: School mock exam and script review
@@ -1035,8 +1037,8 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Confirm the physics mock date with your teacher"
-                - "Plan the two weeks before the mock around your weakest sections"
+                - "Confirm the physics mock date with the teacher"
+                - "Plan the two weeks before the mock around the weakest sections"
                 - "Sort each lost mark on the returned script into one of three kinds"
                 - "Write a remediation plan with five dated fixes"
             - name: Final six weeks of physics revision
@@ -1051,7 +1053,7 @@ starter_structure:
                 4. The equations and definitions sheet recalled perfectly from memory in the final week.
 
                 ## Notes
-                Keep sleep and meals regular. A tired student in the last fortnight loses more marks than an extra evening of revision gains.
+                Help keep sleep and meals regular. A tired student in the last fortnight loses more marks than an extra evening of revision gains.
               priority: high
               deadlineOffsetDays: 200
               frontmatter:
@@ -1084,23 +1086,23 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Check the physics paper dates and centre on your candidate timetable"
+                - "Check the physics paper dates and centre on the candidate timetable"
                 - "Pack the exam kit and test the calculator the night before"
                 - "Arrange transport and a backup ride for each exam morning"
-                - "Write your first three steps in the exam room on a card"
+                - "Ask your teen to write their first three steps in the exam room on a card"
             - name: Sunday physics check-in for parents
               description: |-
                 ## Purpose
                 Parents who never studied physics can still help a great deal by asking the right questions once a week. A fifteen-minute Sunday check-in, looking at the score log, the lab tracker and the week ahead together, catches a missing lab report or a slipping topic weeks before a teacher's note goes home.
 
                 ## Milestones
-                1. A fixed Sunday time agreed with the student.
+                1. A fixed Sunday time agreed with your teen.
                 2. Three standing questions written down: what went well, what lost marks, what is due this week.
                 3. The score log and SBA lab tracker looked at together each week.
                 4. Any concern raised with the physics teacher within the following week.
 
                 ## Notes
-                Keep the tone curious, not checking up. The student should do most of the talking.
+                Keep the tone curious, not checking up. Your teen should do most of the talking.
               priority: low
               frontmatter:
                 mode: operating
@@ -1108,7 +1110,7 @@ starter_structure:
                 success_criteria: "The Sunday check-in happens on at least ten Sundays in a term, with any concern raised with the teacher within a week."
                 cadence: rolling
               tasks:
-                - "Agree a fifteen-minute Sunday time with your child"
+                - "Agree a fifteen-minute Sunday time with your teen"
                 - "Write three standing questions for the check-in"
                 - "Look at the score log and lab tracker together @recurring(weekly:sun)"
             - name: Choosing lessons or a physics tutor
@@ -1149,7 +1151,7 @@ starter_structure:
                 5. A tutor, school or lab session arranged to handle real apparatus at least once, if possible.
 
                 ## Notes
-                Registration rules, fees and deadlines for private candidates are set by the local registrar and change from year to year, so confirm them directly.
+                Registration rules, fees and deadlines for private candidates are set by the local registrar and change from year to year, so if your teen is sitting privately, confirm them directly.
               priority: medium
               frontmatter:
                 mode: building
@@ -1165,7 +1167,7 @@ starter_structure:
             - name: Class item analysis and reteach after the physics mock
               description: |-
                 ## Purpose
-                Teachers and tutors mark mock scripts one at a time, but the useful picture is across the whole class: which questions most students missed and which topics need reteaching before the sitting. Recording marks by question for every script and planning a short reteach for the worst three turns the mock into teaching time.
+                Teachers and tutors mark mock scripts one at a time, but the useful picture is across the whole class: which questions most students missed and which topics need reteaching before the sitting. If your teen has a tutor or a teacher open to the idea, share this approach: recording marks by question for every script and planning a short reteach for the worst three turns the mock into teaching time.
 
                 ## Milestones
                 1. Marks by question recorded for every script in a spreadsheet.
@@ -1190,7 +1192,7 @@ starter_structure:
             - name: Stretch problems for a Grade I
               description: |-
                 ## Purpose
-                Students aiming for the top grade have usually mastered routine questions and lose marks on unfamiliar contexts and multi-step problems that combine topics. A monthly stretch set, mixing mechanics with energy or circuits with heating, done unaided and marked strictly, builds the flexibility the hardest Paper 02 questions demand.
+                Teenagers aiming for the top grade have usually mastered routine questions and lose marks on unfamiliar contexts and multi-step problems that combine topics. A monthly stretch set, mixing mechanics with energy or circuits with heating, done unaided and marked strictly, builds the flexibility the hardest Paper 02 questions demand.
 
                 ## Milestones
                 1. A bank of harder past-paper and textbook questions that combine two or more topics.
@@ -1212,6 +1214,6 @@ starter_structure:
 
 # CSEC Physics
 
-Everything a Form Four or Form Five student, a parent or a physics teacher needs to take CSEC Physics from a first diagnostic paper to the exam room. It opens with set-up (the syllabus and paper format check, a diagnostic past paper, the exam kit, a timetable, an equations sheet, the maths physics leans on and a lab report layout), then the weekly routines, then the syllabus in its own order: mechanics, thermal physics and kinetic theory, waves and optics, electricity and magnetism, and the physics of the atom, each topic ending in past-paper questions. After that come the SBA lab book and the planning and design investigation, paper technique, timed papers, the mock and exam day, then projects for parents, tutors, private candidates and teachers, and stretch work for students chasing a Grade I.
+Everything a parent or guardian needs to support a Form Four or Form Five student through CSEC Physics, from a first diagnostic paper to the exam room. It opens with set-up (the syllabus and paper format check, a diagnostic past paper, the exam kit, a timetable, an equations sheet, the maths physics leans on and a lab report layout), then the weekly routines, then the syllabus in its own order: mechanics, thermal physics and kinetic theory, waves and optics, electricity and magnetism, and the physics of the atom, each topic ending in past-paper questions. After that come the SBA lab book and the planning and design investigation, paper technique, timed papers, the mock and exam day, then projects for parents, tutors, private candidates and teachers, and stretch work for a teenager chasing a Grade I.
 
-The rhythm is short and steady: fifteen minutes of physics problems most days, an equations and definitions recall on Tuesday, a structured Paper 02 question on Wednesday, the lab book update on Thursday, the error log on Friday, a timed multiple choice set on Saturday and a parent check-in on Sunday, with a monthly error-log retest, a monthly score log update and an examiner report each month. The Purchase decision, Meeting notes, Habit tracker, Metrics log and Remediation plan templates pair with the projects that point at them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is short and steady: fifteen minutes of physics problems on most days, an equations and definitions recall on Tuesday, a structured Paper 02 question on Wednesday, the lab book update on Thursday, the error log on Friday, a timed multiple choice set on Saturday and a family check-in on Sunday, with a monthly error-log retest, a monthly score log update and an examiner report each month. The Purchase decision, Meeting notes, Habit tracker, Metrics log and Remediation plan templates pair with the projects that point at them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

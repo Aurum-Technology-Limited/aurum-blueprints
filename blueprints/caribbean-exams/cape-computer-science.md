@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.cape-computer-science
 name: CAPE Computer Science
-description: "A full CAPE Computer Science plan: the paper format check, a C compiler at home, weekly coding and trace drills, every module of Units 1 and 2 in syllabus order, both internal assessment projects, past papers, the mock and exam day."
+description: "A CAPE Computer Science plan for parents and guardians backing a sixth former: the format check, a C compiler at home, weekly coding and trace drills, every module of Units 1 and 2, both IA projects, past papers, the mock and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, cape-computer-science, cxc, cape, programming, student, parent, educator]
@@ -16,7 +16,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -26,35 +26,37 @@ starter_structure:
             - name: Computer Science syllabus and paper format check
               description: |-
                 ## Purpose
-                CXC revises syllabuses, and the CAPE Computer Science an older student or a second-hand textbook describes may not be the one you will sit. One evening with the current syllabus tells you which modules sit in Unit 1 and Unit 2, which programming language is prescribed, what each paper tests and how the internal assessment works, so every later hour of practice rehearses the real exam.
+                CXC revises syllabuses, and the CAPE Computer Science an older student or a second-hand textbook describes may not be the one your teen will sit. One evening with the current syllabus, ideally side by side, shows which modules sit in Unit 1 and Unit 2, which programming language is prescribed, what each paper tests and how the internal assessment works, so every later hour of practice rehearses the real exam.
 
                 ## Milestones
-                1. The current CAPE Computer Science syllabus downloaded from the CXC website and saved in your study folder.
+                1. The current CAPE Computer Science syllabus downloaded from the CXC website and saved in the study folder.
                 2. The three modules of each unit listed with their main topics on one page.
                 3. Paper 01, Paper 02, Paper 031 (the internal assessment) and Paper 032 (the alternative for private candidates) each summarised in a line.
                 4. The prescribed programming language and any listed compiler or standard noted.
-                5. Your sitting confirmed from the published CXC timetable and written on the summary.
+                5. The sitting your teen is entered for confirmed from the published CXC timetable and written on the summary.
 
                 ## Notes
-                Take paper durations, numbers of questions and mark weightings only from the current syllabus or your school, never from an old revision guide. Most students sit Unit 1 in lower sixth and Unit 2 in upper sixth, but each unit is a separate exam with its own result.
+                This plan is for a parent or guardian supporting a teenager through CAPE Computer Science, and an older student can follow it with a parent's support.
+
+                Take paper durations, numbers of questions and mark weightings only from the current syllabus or the school, never from an old revision guide. Most students sit Unit 1 in lower sixth and Unit 2 in upper sixth, but each unit is a separate exam with its own result, so confirm with the school which unit and sitting your teen is entered for.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A one-page summary of both units, the four papers, the prescribed language and your exam date, taken from the CXC syllabus and timetable, is saved and checked by your teacher."
+                success_criteria: "A one-page summary of both units, the four papers, the prescribed language and your teen's exam date, taken from the CXC syllabus and timetable, is saved and checked by their teacher."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
                 - "Check the current syllabus and timetable on the CXC website and note the paper format"
                 - "List the modules of Unit 1 and Unit 2 with their main topics"
                 - "Note which programming language the syllabus prescribes"
-                - "Write your unit's exam date from the published timetable"
-                - "Ask your teacher to confirm the summary matches what the school expects"
+                - "Write the unit's exam date from the published timetable"
+                - "Check that the teacher has confirmed the summary matches what the school expects"
             - name: C compiler and code editor set up at home
               description: |-
                 ## Purpose
-                Programming is learned by typing, compiling and fixing code, and a student who can only code in the school lab gets a few hours a week when they need many more. A free C compiler and a simple editor on the home computer, tested with a first program, turn every evening into lab time and remove the excuse before it starts.
+                Programming is learned by typing, compiling and fixing code, and a student who can only code in the school lab gets a few hours a week when they need many more. A free C compiler and a simple editor on the home computer, set up together and tested with a first program, turn every evening into lab time and remove the excuse before it starts.
 
                 ## Milestones
                 1. A free C compiler installed and confirmed working from the command line or an editor.
@@ -64,7 +66,7 @@ starter_structure:
                 5. A fallback plan written for days the home computer is unavailable, such as an online C compiler or the school lab.
 
                 ## Notes
-                Use the same compiler family your school uses where possible, so code that runs at home also runs where it will be marked. Ask your teacher which one that is before installing.
+                Use the same compiler family the school uses where possible, so code that runs at home also runs where it will be marked. Ask your teen to check with their teacher which one that is before installing.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -74,19 +76,19 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher which C compiler and editor the school lab uses"
+                - "Ask your teen to find out which C compiler and editor the school lab uses"
                 - "Install the compiler and editor on the home computer"
-                - "Compile and run a program that adds two numbers you type in"
+                - "Compile and run a program that adds two numbers typed in at the keyboard"
                 - "Create folders for Unit 1, Unit 2 and the internal assessment"
                 - "Back up the code folders to a drive or cloud account @recurring(monthly:20)"
             - name: Home computer and quiet desk for coding practice
               description: |-
                 ## Purpose
-                Parents often see a laptop on the bed and assume homework is happening, but debugging C needs a table, a steady screen and a spell without the television. Setting up a coding corner, agreeing when the computer is the student's, and sorting a reliable internet plan for downloads and online compilers is the most useful thing a parent can arrange without knowing any code.
+                Parents often see a laptop on the bed and assume homework is happening, but debugging C needs a table, a steady screen and a spell without the television. Setting up a coding corner, agreeing when the computer is your teen's, and sorting a reliable internet plan for downloads and online compilers is the most useful thing you can arrange without knowing any code.
 
                 ## Milestones
                 1. A table, chair and light set aside for coding, away from the television.
-                2. The family computer schedule agreed so the student has protected hours on school nights.
+                2. The family computer schedule agreed so your teen has protected hours on school nights.
                 3. Internet access confirmed as good enough to download compilers and past papers.
                 4. A plan for power cuts or a broken laptop, such as a school lab slot or a neighbour's or library computer.
 
@@ -96,11 +98,11 @@ starter_structure:
               frontmatter:
                 mode: service
                 output_kind: deliverable
-                success_criteria: "A coding desk is set up and a weekly computer schedule giving the student protected hours is agreed and written on the fridge or family chat."
+                success_criteria: "A coding desk is set up and a weekly computer schedule giving your teen protected hours is agreed and written on the fridge or family chat."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your child which evenings they need the computer for coding"
+                - "Ask your teen which evenings they need the computer for coding"
                 - "Clear a table and light near a socket for the coding corner"
                 - "Write the agreed computer schedule where the family can see it"
                 - "Check the internet plan can handle downloads of compilers and past papers"
@@ -113,34 +115,34 @@ starter_structure:
                 1. A diagnostic of around twenty questions assembled from past Paper 01 and Paper 02 items across all three Unit 1 modules.
                 2. The diagnostic attempted in one sitting without notes.
                 3. Results marked against the mark scheme and scored by module.
-                4. The three weakest topics named and written at the top of your timetable.
+                4. The three weakest topics named and written at the top of the timetable.
 
                 ## Notes
-                Start from the **Remediation plan** template if the diagnostic shows a large gap in one module. A low score here is information, not a verdict.
+                Start from the **Remediation plan** template if the diagnostic shows a large gap in one module. A low score here is information, not a verdict, and it helps to say so to your teen before they see the result.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A marked diagnostic with a score for each Unit 1 module and the three weakest topics named is saved in your study folder."
+                success_criteria: "A marked diagnostic with a score for each Unit 1 module and the three weakest topics named is saved in the study folder."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
                 - "Pick about twenty past questions covering all three Unit 1 modules"
                 - "Sit the diagnostic in one session without notes"
                 - "Mark it with the mark scheme and score each module separately"
-                - "Write your three weakest topics at the top of the timetable"
+                - "Write the three weakest topics at the top of the timetable"
             - name: Computer Science timetable to the exam sitting
               description: |-
                 ## Purpose
-                Two units, six modules, two internal assessment projects and a programming language are too much to leave to whatever the class covers next. A week-by-week timetable counting back from the exam date gives each module its share of evenings, protects time for the IA before its deadline and leaves the last month for timed papers.
+                Two units, six modules, two internal assessment projects and a programming language are too much to leave to whatever the class covers next. A week-by-week timetable that your teen drafts and you look over, counting back from the exam date, gives each module its share of evenings, protects time for the IA before its deadline and leaves the last month for timed papers.
 
                 ## Milestones
                 1. The exam date and the IA submission date written at the end of a weekly calendar.
                 2. Each module given a block of weeks, with the weakest topics from the diagnostic weighted more.
                 3. Fixed weekly slots for C practice, a trace drill and a timed question marked on the calendar.
                 4. The final four weeks kept clear of new content for past papers.
-                5. The timetable shared with a parent and the teacher.
+                5. The timetable shared with you and the teacher.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -150,32 +152,32 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Count the weeks between today and your Computer Science exam"
+                - "Count the weeks between today and the Computer Science exam"
                 - "Give each module a block of weeks, longest for the weakest"
-                - "Mark the IA milestones your teacher has set on the same calendar"
-                - "Compare the timetable with what you actually covered @recurring(monthly:3)"
+                - "Mark the IA milestones the teacher has set on the same calendar"
+                - "Compare the timetable with what was actually covered @recurring(monthly:3)"
             - name: Past papers, mark schemes and subject reports archive
               description: |-
                 ## Purpose
                 Past papers are the closest thing to the real exam, and the subject reports CXC publishes after each sitting explain exactly where candidates lost marks on code, traces and theory. Collecting them in one folder, sorted by unit and paper, means every drill and timed session can start in seconds.
 
                 ## Milestones
-                1. Past Paper 01 and Paper 02 for as many recent sittings as you can find, sorted by unit.
+                1. Past Paper 01 and Paper 02 for as many recent sittings as can be found, sorted by unit.
                 2. Matching mark schemes or worked solutions saved beside each paper.
                 3. The CXC subject reports for recent sittings downloaded and filed by year.
                 4. An index noting which questions cover which module, so drills can be pulled by topic.
 
                 ## Notes
-                Buy or download past papers from the CXC online store or your school rather than unverified websites, which often carry wrong answers.
+                Buy or download past papers from the CXC online store or the school rather than unverified websites, which often carry wrong answers.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A folder holds at least five sittings of Paper 01 and Paper 02 for your unit with mark schemes, subject reports and a topic index."
+                success_criteria: "A folder holds at least five sittings of Paper 01 and Paper 02 for your teen's unit with mark schemes, subject reports and a topic index."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher which past papers the school already holds"
+                - "Ask your teen to find out which past papers the school already holds"
                 - "Buy or download the recent past papers from the CXC store"
                 - "File the papers, mark schemes and subject reports by unit and year"
                 - "Tag each Paper 02 question with the module it covers"
@@ -183,11 +185,11 @@ starter_structure:
             - name: Computer science key terms glossary
               description: |-
                 ## Purpose
-                Examiners report every year that candidates lose theory marks by describing a term loosely, confusing a compiler with an interpreter or RAM with cache. A glossary of precise definitions, built a few terms at a time as each topic is taught, gives you the exact wording to learn and a quick quiz deck for the bus.
+                Examiners report every year that candidates lose theory marks by describing a term loosely, confusing a compiler with an interpreter or RAM with cache. A glossary of precise definitions, built a few terms at a time as each topic is taught, gives your teen the exact wording to learn and a quick quiz deck for the bus, and gives you something easy to quiz them from.
 
                 ## Milestones
                 1. A glossary document with a section for each module of both units.
-                2. Every bold term from your notes and textbook defined in one or two exact sentences.
+                2. Every bold term from the class notes and textbook defined in one or two exact sentences.
                 3. An example or a comparison added for terms that are often confused.
                 4. The glossary used as a self-test at least once a month, with weak terms marked.
               priority: medium
@@ -199,16 +201,16 @@ starter_structure:
                 effort_hours_estimate: "10"
               tasks:
                 - "Create a glossary page with a heading for each module"
-                - "Define the terms from your most recent class in exact sentences"
+                - "Define the terms from the most recent class in exact sentences"
                 - "Add a comparison line for pairs like compiler and interpreter"
                 - "Add five new terms from the week's lessons @recurring(weekly:fri)"
-            - name: Agreeing targets and IA dates with your teacher
+            - name: Agreeing targets and IA dates with the teacher
               description: |-
                 ## Purpose
-                Internal assessment marks count toward your grade, and the school sets its own deadlines earlier than the CXC submission date. A short meeting with your teacher early in the year fixes the IA milestones, the target grade, and how they prefer to receive code, so nothing about the project arrives as a surprise in the last month.
+                Internal assessment marks count toward your teen's grade, and the school sets its own deadlines earlier than the CXC submission date. A short meeting between your teen and their teacher early in the year, which you can join or follow up on, fixes the IA milestones, the target grade and how code should be handed in, so nothing about the project arrives as a surprise in the last month.
 
                 ## Milestones
-                1. A meeting held with your Computer Science teacher about targets and the IA.
+                1. A meeting held with the Computer Science teacher about targets and the IA.
                 2. Internal dates for the IA proposal, draft code and final submission written down.
                 3. A target grade agreed with the reasons for it.
                 4. The format the teacher wants code and documentation handed in confirmed.
@@ -220,12 +222,12 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: decision
-                success_criteria: "Written notes record your target grade and every internal IA date, agreed with your teacher."
+                success_criteria: "Written notes record your teen's target grade and every internal IA date, agreed with their teacher."
                 cadence: one-shot
                 effort_hours_estimate: "1"
               tasks:
-                - "Ask your teacher for a fifteen-minute meeting about targets and the IA"
-                - "Write down every internal IA deadline your teacher gives"
+                - "Suggest your teen asks the teacher for a fifteen-minute meeting on targets and the IA"
+                - "Write down every internal IA deadline the teacher gives"
                 - "Agree a target grade and note why it is realistic"
                 - "Copy the IA dates into the timetable"
             - name: Computer Science practice score log
@@ -249,7 +251,7 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Create the score log with columns for module, question type and mistake"
-                - "Enter your scores from any practice already done this term"
+                - "Enter the scores from any practice already done this term"
                 - "Record the week's practice scores in the log @recurring(weekly:sat)"
                 - "Work out each module's average and pick next month's focus @recurring(monthly:26)"
             - name: Weekday C programming exercises
@@ -258,7 +260,7 @@ starter_structure:
                 Programming skill fades quickly without use, and students who code only when an assignment is due find that the syntax has gone each time. Three short sessions a week, each solving one small problem from start to compile, build the fluency that Paper 02 code questions and the IA both rely on.
 
                 ## Milestones
-                1. A list of at least thirty small C exercises collected from your textbook, teacher and past papers.
+                1. A list of at least thirty small C exercises collected from the textbook, the teacher and past papers.
                 2. Three sessions a week completed for four weeks in a row.
                 3. Every finished exercise saved with a comment explaining what it does.
                 4. Exercises that took more than one session marked for a second attempt.
@@ -295,7 +297,7 @@ starter_structure:
               tasks:
                 - "Pull fifteen trace questions from the past paper index"
                 - "Trace one algorithm by hand with a full variable table @recurring(weekly:tue)"
-                - "Run the code to check your final values"
+                - "Run the code to check the final values"
                 - "Note the type of each tracing mistake in the score log"
             - name: Weekly Paper 01 multiple choice set
               description: |-
@@ -305,8 +307,8 @@ starter_structure:
                 ## Milestones
                 1. A pool of past Paper 01 questions sorted by module.
                 2. A mixed set completed under time each week for at least ten weeks.
-                3. Every wrong answer explained in a sentence in your notes.
-                4. Your Paper 01 practice average rising across the term in the score log.
+                3. Every wrong answer explained in a sentence in the notes.
+                4. The Paper 01 practice average rising across the term in the score log.
               priority: medium
               frontmatter:
                 mode: operating
@@ -316,12 +318,12 @@ starter_structure:
               tasks:
                 - "Sort past Paper 01 questions into a pool by module"
                 - "Do a timed mixed set of multiple choice questions @recurring(weekly:wed)"
-                - "Write a one-line reason for each question you got wrong"
+                - "Write a one-line reason for each wrong answer"
                 - "Move repeated wrong topics onto next week's timetable"
             - name: Saturday timed Paper 02 question
               description: |-
                 ## Purpose
-                Paper 02 asks you to explain, design and write code by hand under time, which is very different from typing at a keyboard with a compiler catching errors. One full structured question every Saturday, timed and marked against the mark scheme, trains the pace and the handwritten precision the paper needs.
+                Paper 02 asks candidates to explain, design and write code by hand under time, which is very different from typing at a keyboard with a compiler catching errors. One full structured question every Saturday, timed and marked against the mark scheme, trains the pace and the handwritten precision the paper needs.
 
                 ## Milestones
                 1. A sequence of Paper 02 questions chosen to rotate through every module.
@@ -394,7 +396,7 @@ starter_structure:
 
                 ## Milestones
                 1. Conversions between binary, octal, hexadecimal and denary done in both directions without a calculator.
-                2. The link between groups of binary digits and octal and hexadecimal digits explained in your own words.
+                2. The link between groups of binary digits and octal and hexadecimal digits explained in plain words.
                 3. ASCII and Unicode compared, with why Unicode needed more bits.
                 4. A set of past paper conversion and character code questions completed and marked.
               priority: medium
@@ -422,7 +424,7 @@ starter_structure:
                 4. Past paper questions on signed numbers and floating point completed and marked.
 
                 ## Notes
-                Check the exact floating point format your syllabus uses before practising, as textbooks differ in bit lengths and bias conventions.
+                Check the exact floating point format the syllabus uses before practising, as textbooks differ in bit lengths and bias conventions.
               priority: medium
               frontmatter:
                 mode: learning
@@ -433,18 +435,18 @@ starter_structure:
               tasks:
                 - "Write minus nineteen in sign and magnitude, one's and two's complement"
                 - "Subtract two binary numbers using two's complement and check for overflow"
-                - "Normalise a floating point number in the format your syllabus uses"
+                - "Normalise a floating point number in the format the syllabus uses"
                 - "Mark the past paper questions on signed numbers and floating point"
             - name: Logic gates, truth tables and Boolean algebra
               description: |-
                 ## Purpose
-                Logic is the bridge between bits and hardware, and the questions follow a pattern: draw a circuit from an expression, complete a truth table, simplify the expression. Mastering the gates, the Boolean laws including De Morgan's, and a simplification method such as Karnaugh maps if your syllabus lists them makes these some of the most reliable marks on the paper.
+                Logic is the bridge between bits and hardware, and the questions follow a pattern: draw a circuit from an expression, complete a truth table, simplify the expression. Mastering the gates, the Boolean laws including De Morgan's, and a simplification method such as Karnaugh maps if the syllabus lists them makes these some of the most reliable marks on the paper.
 
                 ## Milestones
                 1. The symbols and truth tables for AND, OR, NOT, NAND, NOR and XOR drawn from memory.
                 2. A circuit drawn from a Boolean expression and an expression written from a circuit.
                 3. Expressions simplified using the Boolean laws and De Morgan's theorems.
-                4. Karnaugh maps used to simplify three and four variable expressions, if they are on your syllabus.
+                4. Karnaugh maps used to simplify three and four variable expressions, if they are on the syllabus.
                 5. Past paper logic questions completed and marked.
               priority: medium
               frontmatter:
@@ -461,22 +463,22 @@ starter_structure:
             - name: Adders, flip-flops and other digital circuits
               description: |-
                 ## Purpose
-                Once gates make sense, the syllabus asks how they combine into circuits that add and remember. Building the half adder and full adder truth tables yourself, and understanding how a flip-flop holds one bit, explains how the ALU and registers work and answers a whole family of design questions.
+                Once gates make sense, the syllabus asks how they combine into circuits that add and remember. Building the half adder and full adder truth tables by hand, and understanding how a flip-flop holds one bit, explains how the ALU and registers work and answers a whole family of design questions.
 
                 ## Milestones
                 1. The half adder and full adder drawn with their truth tables and explained.
                 2. Combinational and sequential circuits defined with an example of each.
                 3. An SR or D flip-flop explained, with how flip-flops make up a register.
-                4. Any decoder, multiplexer or other circuit your syllabus lists added to your notes.
+                4. Any decoder, multiplexer or other circuit the syllabus lists added to the notes.
                 5. Past paper circuit questions completed and marked.
 
                 ## Notes
-                A free online logic simulator lets you build and test each circuit, which makes the truth tables stick far better than copying them.
+                A free online logic simulator lets your teen build and test each circuit, which makes the truth tables stick far better than copying them.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Annotated diagrams of a half adder, a full adder and a flip-flop are in your notes, tested in a simulator, and the past paper circuit questions are marked."
+                success_criteria: "Annotated diagrams of a half adder, a full adder and a flip-flop are in the notes, tested in a simulator, and the past paper circuit questions are marked."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
@@ -487,7 +489,7 @@ starter_structure:
             - name: CPU, memory and the fetch-decode-execute cycle
               description: |-
                 ## Purpose
-                Questions on computer organisation ask you to name parts and then explain how they work together, and the fetch-decode-execute cycle ties them all into one story. Knowing the ALU, control unit, registers such as the program counter, MAR and MDR, the three buses and where cache, RAM and secondary storage sit in the memory hierarchy lets you answer both the short definitions and the long explanation.
+                Questions on computer organisation ask candidates to name parts and then explain how they work together, and the fetch-decode-execute cycle ties them all into one story. Knowing the ALU, control unit, registers such as the program counter, MAR and MDR, the three buses and where cache, RAM and secondary storage sit in the memory hierarchy covers both the short definitions and the long explanation.
 
                 ## Milestones
                 1. A labelled diagram of the CPU, registers, buses and main memory drawn from memory.
@@ -514,18 +516,18 @@ starter_structure:
 
                 ## Milestones
                 1. The parts of an instruction, opcode and operand, explained with an example.
-                2. Each addressing mode on your syllabus described with a worked example of the value it fetches.
+                2. Each addressing mode on the syllabus described with a worked example of the value it fetches.
                 3. Three short assembly programs traced with the accumulator and register values after each line.
                 4. A simple assembly program written for a task such as adding two stored numbers.
                 5. Past paper assembly language questions completed and marked.
 
                 ## Notes
-                Use the instruction set your syllabus or past papers use, not one from an unrelated textbook, so the mnemonics match the exam.
+                Use the instruction set the syllabus or past papers use, not one from an unrelated textbook, so the mnemonics match the exam.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Worked examples for every addressing mode on the syllabus and three traced assembly programs are in your notes, and the past paper questions are marked."
+                success_criteria: "Worked examples for every addressing mode on the syllabus and three traced assembly programs are in the notes, and the past paper questions are marked."
                 cadence: phased
                 effort_hours_estimate: "7"
               tasks:
@@ -542,7 +544,7 @@ starter_structure:
                 1. A problem statement written for three everyday tasks, such as a tuck shop bill or a grade calculator.
                 2. Each problem broken down by top-down design into smaller sub-problems.
                 3. An IPO chart completed for each problem.
-                4. The stages of problem solving listed in the order your syllabus gives them.
+                4. The stages of problem solving listed in the order the syllabus gives them.
                 5. Past paper questions on problem definition and decomposition completed and marked.
               priority: medium
               frontmatter:
@@ -559,10 +561,10 @@ starter_structure:
             - name: Algorithms in pseudocode and flowcharts
               description: |-
                 ## Purpose
-                Writing an algorithm that a marker can follow is a core Paper 02 skill, and the same few patterns come up again: totals and counts, the largest and smallest value, averages, sentinel-controlled loops and simple validation. Writing each pattern in both pseudocode and a flowchart, in the conventions your syllabus uses, gives you a toolkit to assemble answers quickly.
+                Writing an algorithm that a marker can follow is a core Paper 02 skill, and the same few patterns come up again: totals and counts, the largest and smallest value, averages, sentinel-controlled loops and simple validation. Writing each pattern in both pseudocode and a flowchart, in the conventions the syllabus uses, gives your teen a toolkit to assemble answers quickly.
 
                 ## Milestones
-                1. The standard flowchart symbols and pseudocode keywords for your syllabus listed on one page.
+                1. The standard flowchart symbols and pseudocode keywords for the syllabus listed on one page.
                 2. Sequence, selection and iteration each shown in pseudocode and a flowchart.
                 3. Algorithms written for totals, counting, maximum and minimum, average and a sentinel loop.
                 4. Each algorithm checked with a trace table.
@@ -575,7 +577,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "List the flowchart symbols and pseudocode keywords your syllabus uses"
+                - "List the flowchart symbols and pseudocode keywords the syllabus uses"
                 - "Write a sentinel-controlled loop that averages exam marks"
                 - "Draw the same algorithm as a flowchart"
                 - "Write an algorithm to find the highest and lowest of ten numbers"
@@ -583,7 +585,7 @@ starter_structure:
             - name: Language generations, paradigms and translators
               description: |-
                 ## Purpose
-                Theory questions ask you to compare machine code, assembly and high-level languages, to name paradigms such as procedural, object-oriented and declarative, and to explain what assemblers, compilers, interpreters and linkers each do. Clear comparison tables, learned well, turn these into quick marks and also explain what happens every time you compile your own C code.
+                Theory questions ask candidates to compare machine code, assembly and high-level languages, to name paradigms such as procedural, object-oriented and declarative, and to explain what assemblers, compilers, interpreters and linkers each do. Clear comparison tables, learned well, turn these into quick marks and also explain what happens every time your teen compiles their own C code.
 
                 ## Milestones
                 1. A table comparing the generations of programming languages with an example of each.
@@ -609,10 +611,10 @@ starter_structure:
                 Every program in the course rests on getting the basics exactly right: choosing int, float, double or char, declaring and initialising variables, using arithmetic and relational operators correctly, and reading and printing values with the right format specifiers. Errors here cost marks in every later topic, so it is worth drilling them until they are automatic.
 
                 ## Milestones
-                1. The C data types on your syllabus listed with their format specifiers and an example value.
+                1. The C data types on the syllabus listed with their format specifiers and an example value.
                 2. Programs written that read input, calculate and print results with correct formatting.
                 3. Integer division, the modulus operator and operator precedence demonstrated with small programs.
-                4. Constants and meaningful variable names used throughout your code.
+                4. Constants and meaningful variable names used throughout the code.
                 5. Past paper questions on C basics completed and marked.
               priority: medium
               frontmatter:
@@ -629,7 +631,7 @@ starter_structure:
             - name: Selection and loops in C
               description: |-
                 ## Purpose
-                Control structures are where programs start making decisions, and they dominate Paper 02 code questions. Writing if, if-else, switch, for, while and do-while in real programs, and knowing when each loop fits, prepares you for questions that ask you to write, complete or correct a fragment.
+                Control structures are where programs start making decisions, and they dominate Paper 02 code questions. Writing if, if-else, switch, for, while and do-while in real programs, and knowing when each loop fits, prepares your teen for questions that ask them to write, complete or correct a fragment.
 
                 ## Milestones
                 1. Programs written using if-else chains and a switch statement for a menu.
@@ -652,7 +654,7 @@ starter_structure:
             - name: Arrays and strings in C
               description: |-
                 ## Purpose
-                Arrays let one program handle a whole class list of marks, and strings in C are arrays of characters ending in a null character, which catches out many students. Working through one-dimensional and two-dimensional arrays and the standard string functions prepares you for questions on storing, searching and printing collections of data.
+                Arrays let one program handle a whole class list of marks, and strings in C are arrays of characters ending in a null character, which catches out many students. Working through one-dimensional and two-dimensional arrays and the standard string functions prepares a candidate for questions on storing, searching and printing collections of data.
 
                 ## Milestones
                 1. Programs written that fill, total and search a one-dimensional array.
@@ -675,13 +677,13 @@ starter_structure:
             - name: Functions, records and text files in C
               description: |-
                 ## Purpose
-                Breaking a program into functions is how real software stays readable, and it is exactly what the IA markers look for in your code. Writing functions with parameters and return values, understanding scope, grouping data into structs and, where your syllabus lists it, reading and writing text files, prepares you to build a complete program rather than one long main.
+                Breaking a program into functions is how real software stays readable, and it is exactly what the IA markers look for in a candidate's code. Writing functions with parameters and return values, understanding scope, grouping data into structs and, where the syllabus lists it, reading and writing text files, prepares your teen to build a complete program rather than one long main.
 
                 ## Milestones
                 1. Functions written with parameters, return values and prototypes.
                 2. Local and global scope explained with an example of a bug caused by confusing them.
                 3. A struct defined for a record such as a student, and an array of structs used.
-                4. A program that saves records to a text file and reads them back, if files are on your syllabus.
+                4. A program that saves records to a text file and reads them back, if files are on the syllabus.
                 5. Past paper questions on functions and records completed and marked.
               priority: medium
               frontmatter:
@@ -698,7 +700,7 @@ starter_structure:
             - name: Pointers and dynamic memory in C
               description: |-
                 ## Purpose
-                Unit 2 data structures are built with pointers, so a shaky grasp of addresses and dereferencing becomes a wall in the first weeks of the unit. Practising pointer basics, passing by reference, pointers to structs and allocating and freeing memory gives you the foundation that linked lists, stacks and queues all depend on.
+                Unit 2 data structures are built with pointers, so a shaky grasp of addresses and dereferencing becomes a wall in the first weeks of the unit. Practising pointer basics, passing by reference, pointers to structs and allocating and freeing memory gives your teen the foundation that linked lists, stacks and queues all depend on.
 
                 ## Milestones
                 1. The address-of and dereference operators explained with a memory diagram.
@@ -721,7 +723,7 @@ starter_structure:
             - name: Linked lists built and traversed in C
               description: |-
                 ## Purpose
-                Insertion and deletion in a linked list mean rearranging pointers in the right order, which is why it is the first data structure most students find hard. Building one yourself, then drawing the list before and after each operation, makes the exam diagrams and code questions on lists far less risky.
+                Insertion and deletion in a linked list mean rearranging pointers in the right order, which is why it is the first data structure most students find hard. Building one from scratch, then drawing the list before and after each operation, makes the exam diagrams and code questions on lists far less risky.
 
                 ## Milestones
                 1. A node struct defined and a list built by inserting at the front.
@@ -770,13 +772,13 @@ starter_structure:
             - name: Searching and sorting algorithms compared
               description: |-
                 ## Purpose
-                Search and sort algorithms are examined as pseudocode, as code, as traces and as comparisons of efficiency. Coding linear and binary search and the sorts on your syllabus, such as bubble, selection and insertion sort, then counting their comparisons on the same data, gives you answers for every form the question takes.
+                Search and sort algorithms are examined as pseudocode, as code, as traces and as comparisons of efficiency. Coding linear and binary search and the sorts on the syllabus, such as bubble, selection and insertion sort, then counting their comparisons on the same data, gives a candidate answers for every form the question takes.
 
                 ## Milestones
                 1. Linear and binary search written in C, with when binary search can be used.
-                2. Each sort on your syllabus written in C and traced pass by pass on a small array.
+                2. Each sort on the syllabus written in C and traced pass by pass on a small array.
                 3. Comparisons counted for each algorithm on sorted, reversed and random data.
-                4. Efficiency compared in plain words and in the notation your syllabus uses.
+                4. Efficiency compared in plain words and in the notation the syllabus uses.
                 5. Past paper searching and sorting questions completed and marked.
               priority: medium
               frontmatter:
@@ -793,11 +795,11 @@ starter_structure:
             - name: Software development life cycle models
               description: |-
                 ## Purpose
-                Software engineering questions start with how projects are organised, and examiners want more than a list of stages: they want the right model justified for a given scenario. Comparing the waterfall, prototyping, incremental and agile models, with what each suits and where each fails, prepares you for those scenario questions and frames the Unit 2 IA.
+                Software engineering questions start with how projects are organised, and examiners want more than a list of stages: they want the right model justified for a given scenario. Comparing the waterfall, prototyping, incremental and agile models, with what each suits and where each fails, prepares your teen for those scenario questions and frames the Unit 2 IA.
 
                 ## Milestones
                 1. The stages of the life cycle listed with what each produces.
-                2. Each model on your syllabus summarised with its strengths and weaknesses.
+                2. Each model on the syllabus summarised with its strengths and weaknesses.
                 3. A model chosen and justified for three scenarios, such as a bank system, a school app and a game.
                 4. Past paper questions on life cycle models completed and marked.
               priority: low
@@ -809,13 +811,13 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "List the life cycle stages and what each one produces"
-                - "Make a table comparing the models on your syllabus"
+                - "Make a table comparing the models on the syllabus"
                 - "Choose and justify a model for three different scenarios"
                 - "Answer the past paper questions on development models"
             - name: Requirements gathering and feasibility study
               description: |-
                 ## Purpose
-                Systems fail more often from misunderstood requirements than from bad code, and the syllabus tests how analysts find out what users need. Practising fact-finding methods, separating functional from non-functional requirements and writing a short feasibility study for a real local problem, such as a school library or a small shop, makes the theory concrete and feeds your IA.
+                Systems fail more often from misunderstood requirements than from bad code, and the syllabus tests how analysts find out what users need. Practising fact-finding methods, separating functional from non-functional requirements and writing a short feasibility study for a real local problem, such as a school library or a small shop, makes the theory concrete and feeds the IA. You may know a local business owner who would sit for a short interview.
 
                 ## Milestones
                 1. Interviews, questionnaires, observation and document review compared with when to use each.
@@ -838,13 +840,13 @@ starter_structure:
             - name: Design diagrams with DFDs, structure charts and UML
               description: |-
                 ## Purpose
-                Design questions ask you to draw, not just describe, and marks go to correct symbols and consistent levels. Practising context and level 1 data flow diagrams, structure charts and whichever UML diagrams your syllabus lists, on the same scenario each time, builds the drawing fluency that also makes the IA documentation look professional.
+                Design questions ask candidates to draw, not just describe, and marks go to correct symbols and consistent levels. Practising context and level 1 data flow diagrams, structure charts and whichever UML diagrams the syllabus lists, on the same scenario each time, builds the drawing fluency that also makes the IA documentation look professional.
 
                 ## Milestones
-                1. The symbols for each diagram type on your syllabus listed with their meaning.
+                1. The symbols for each diagram type on the syllabus listed with their meaning.
                 2. A context diagram and a level 1 DFD drawn for one scenario, with balanced flows.
-                3. A structure chart drawn for a program you have written.
-                4. Any UML or entity relationship diagrams on your syllabus drawn for the same scenario.
+                3. A structure chart drawn for a program your teen has already written.
+                4. Any UML or entity relationship diagrams on the syllabus drawn for the same scenario.
                 5. Past paper design questions completed and marked.
               priority: medium
               frontmatter:
@@ -854,19 +856,19 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "List the diagram types your syllabus names and their symbols"
-                - "Draw a context diagram for the scenario from your feasibility study"
+                - "List the diagram types the syllabus names and their symbols"
+                - "Draw a context diagram for the scenario from the feasibility study"
                 - "Expand it into a level 1 data flow diagram"
-                - "Draw a structure chart for one of your C programs"
+                - "Draw a structure chart for one of the C programs already written"
                 - "Answer two past paper design questions"
             - name: Testing, implementation and maintenance of software
               description: |-
                 ## Purpose
-                Later stages of the life cycle carry steady marks and are easy to lose through vague answers. Learning unit, integration, system and acceptance testing, black box and white box methods, normal, boundary and erroneous test data, changeover methods and the types of maintenance, with an example for each, makes your answers specific and strengthens the testing section of your IA.
+                Later stages of the life cycle carry steady marks and are easy to lose through vague answers. Learning unit, integration, system and acceptance testing, black box and white box methods, normal, boundary and erroneous test data, changeover methods and the types of maintenance, with an example for each, makes answers specific and strengthens the testing section of the IA.
 
                 ## Milestones
                 1. Each level of testing described with who does it and when.
-                2. A test plan with normal, boundary and erroneous data written for one of your programs.
+                2. A test plan with normal, boundary and erroneous data written for one of the programs already written.
                 3. Direct, parallel, phased and pilot changeover compared with a scenario for each.
                 4. Corrective, adaptive and perfective maintenance defined with examples.
                 5. Past paper questions on testing and maintenance completed and marked.
@@ -879,7 +881,7 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Write a test plan with normal, boundary and erroneous data"
-                - "Run the test plan on one of your programs and record results"
+                - "Run the test plan on one of the programs already written and record results"
                 - "Compare the four changeover methods in a table"
                 - "Answer the past paper questions on testing and maintenance"
             - name: Operating system functions and resource management
@@ -889,18 +891,18 @@ starter_structure:
 
                 ## Milestones
                 1. The main functions of an operating system listed with an example of each.
-                2. Process states drawn and scheduling algorithms on your syllabus worked through on a small set of jobs.
+                2. Process states drawn and scheduling algorithms on the syllabus worked through on a small set of jobs.
                 3. Paging, segmentation and virtual memory explained with a diagram.
-                4. File management and device handling summarised in your own words.
+                4. File management and device handling summarised in plain words.
                 5. Past paper operating system questions completed and marked.
 
                 ## Notes
-                Check which module of Unit 2 holds operating systems and networks in the current syllabus, and archive this project if your syllabus does not list them.
+                Check which module of Unit 2 holds operating systems and networks in the current syllabus, and archive this project if the syllabus does not list them.
               priority: low
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Worked scheduling examples and a memory management diagram are in your notes, and the past paper operating system questions are marked."
+                success_criteria: "Worked scheduling examples and a memory management diagram are in the notes, and the past paper operating system questions are marked."
                 cadence: phased
                 effort_hours_estimate: "7"
               tasks:
@@ -911,7 +913,7 @@ starter_structure:
             - name: Networks, protocols and security basics
               description: |-
                 ## Purpose
-                Network questions mix vocabulary with reasoning: why a layered model exists, what a protocol does at each layer, how data crosses a network and how it is kept safe. Learning the layered models, addressing, transmission media and common threats with their controls gives you answers for both the definitions and the scenario questions about a school or business network.
+                Network questions mix vocabulary with reasoning: why a layered model exists, what a protocol does at each layer, how data crosses a network and how it is kept safe. Learning the layered models, addressing, transmission media and common threats with their controls gives your teen answers for both the definitions and the scenario questions about a school or business network.
 
                 ## Milestones
                 1. LAN, WAN and the common topologies compared with their trade-offs.
@@ -934,16 +936,16 @@ starter_structure:
             - name: Unit 1 IA problem choice and specification
               description: |-
                 ## Purpose
-                The Unit 1 internal assessment is a programming project, and the choice of problem decides how much there is to show: too small and there is nothing to document, too ambitious and it never runs. Choosing a real, bounded problem, such as a school canteen order system or a small shop's stock list, and writing a clear specification before coding sets up every later stage.
+                The Unit 1 internal assessment is a programming project, and the choice of problem decides how much there is to show: too small and there is nothing to document, too ambitious and it never runs. Talking the options through with your teen, then letting them choose a real, bounded problem, such as a school canteen order system or a small shop's stock list, and write a clear specification before coding sets up every later stage.
 
                 ## Milestones
-                1. Three candidate problems listed and checked against the IA guidelines from your teacher.
-                2. One problem chosen and approved by your teacher.
+                1. Three candidate problems listed and checked against the IA guidelines from the teacher.
+                2. One problem chosen and approved by the teacher.
                 3. A specification written with the problem statement, inputs, processing, outputs and limits.
                 4. The algorithm outlined in pseudocode or a flowchart before any code is written.
 
                 ## Notes
-                Start from the **Product spec** template for the specification. Pick a problem with a real user you can ask questions, because that makes the analysis section far easier to write.
+                Start from the **Product spec** template for the specification. A problem with a real user your teen can ask questions, perhaps someone you know, makes the analysis section far easier to write.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -953,22 +955,22 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Ask your teacher for the IA guidelines and marking criteria"
+                - "Check your teen has the IA guidelines and marking criteria from the teacher"
                 - "List three possible problems that have a real user"
-                - "Get your teacher's approval for one problem"
+                - "Get the teacher's approval for one problem"
                 - "Write the specification with inputs, processing and outputs"
                 - "Ask the agent to check the specification against the marking criteria"
             - name: Unit 1 IA program, testing and documentation
               description: |-
                 ## Purpose
-                Most IA marks are lost not in the code but in what surrounds it: missing test evidence, no comments, a user guide that was rushed the night before. Building the program in stages, testing each one, and writing the documentation alongside the code keeps the project on time and shows the marker every part of the process.
+                Most IA marks are lost not in the code but in what surrounds it: missing test evidence, no comments, a user guide that was rushed the night before. Building the program in stages, testing each one, and writing the documentation alongside the code keeps the project on time and shows the marker every part of the process. Asking to see the latest stage running is the simplest way to know it is moving.
 
                 ## Milestones
                 1. The program built in working stages, each saved as a separate version.
                 2. Every function commented and variable names chosen to be self-explanatory.
                 3. A test plan carried out with screenshots or printed output as evidence.
                 4. Documentation written for each section the marking criteria ask for.
-                5. A complete draft handed to your teacher by the internal date.
+                5. A complete draft handed to the teacher by the internal date.
 
                 ## Notes
                 Save a dated copy of the code after every session. A corrupted file the week before submission is a common and avoidable disaster.
@@ -977,29 +979,29 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: deliverable
-                success_criteria: "A working, commented program with a completed test plan and full documentation is handed to your teacher as a draft by the internal deadline."
+                success_criteria: "A working, commented program with a completed test plan and full documentation is handed to the teacher as a draft by the internal deadline."
                 cadence: phased
                 effort_hours_estimate: "30"
               tasks:
-                - "Break the program into stages you can finish one at a time"
+                - "Break the program into stages that can be finished one at a time"
                 - "Build and test the first stage, then save a dated copy"
                 - "Collect test evidence as screenshots for every test case"
                 - "Write each documentation section as its stage is finished"
-                - "Hand the full draft to your teacher by the internal date"
+                - "Hand the full draft to the teacher by the internal date"
             - name: Unit 2 IA software project
               description: |-
                 ## Purpose
-                The Unit 2 internal assessment asks you to apply data structures and software engineering to a real problem, so it rewards students who treat it as a small engineering project rather than a long program. Running it through analysis, design, implementation and testing, with the diagrams and data structures from the unit visible in the write-up, matches what the marking criteria look for.
+                The Unit 2 internal assessment asks candidates to apply data structures and software engineering to a real problem, so it rewards students who treat it as a small engineering project rather than a long program. Running it through analysis, design, implementation and testing, with the diagrams and data structures from the unit visible in the write-up, matches what the marking criteria look for.
 
                 ## Milestones
                 1. The Unit 2 IA guidelines and marking criteria read and summarised.
                 2. A problem chosen that genuinely needs a data structure such as a list, stack or queue.
                 3. Analysis and design documents produced, including the diagrams the criteria ask for.
                 4. The solution implemented and tested against a written test plan.
-                5. A complete draft submitted to your teacher by the internal date.
+                5. A complete draft submitted to the teacher by the internal date.
 
                 ## Notes
-                Confirm with your teacher what the current Unit 2 IA requires, as the brief differs from Unit 1. Reuse the requirements and design work from this unit's topic projects where it fits.
+                Ask your teen to confirm with their teacher what the current Unit 2 IA requires, as the brief differs from Unit 1. Reuse the requirements and design work from this unit's topic projects where it fits.
               priority: medium
               frontmatter:
                 mode: building
@@ -1021,7 +1023,7 @@ starter_structure:
                 1. The project checked section by section against the marking criteria.
                 2. The code compiled and run on a different computer, ideally the school's.
                 3. Every page numbered, every diagram labelled and sources acknowledged.
-                4. Any forms or declarations your school requires signed.
+                4. Any forms or declarations the school requires signed.
                 5. The IA submitted and a full copy kept at home.
               priority: high
               deadlineOffsetDays: 140
@@ -1039,11 +1041,11 @@ starter_structure:
             - name: Paper 032 preparation for private candidates
               description: |-
                 ## Purpose
-                Private candidates who cannot complete an internal assessment through a school sit Paper 032 instead, which tests the same skills through a written paper. Practising its question style, with programs written and traced by hand and design questions answered from a scenario, replaces the guidance a teacher would give on the IA.
+                If your teen is a private candidate who cannot complete an internal assessment through a school, they sit Paper 032 instead, which tests the same skills through a written paper. Practising its question style, with programs written and traced by hand and design questions answered from a scenario, replaces the guidance a teacher would give on the IA.
 
                 ## Milestones
                 1. Paper 032 format confirmed from the current syllabus and with the local registrar.
-                2. Past Paper 032 questions collected for your unit.
+                2. Past Paper 032 questions collected for the unit being sat.
                 3. A practice programming project done at home to build the skills the IA would have tested.
                 4. At least three past Paper 032 papers completed under time and marked.
                 5. A tutor or experienced programmer asked to review one practice answer.
@@ -1055,10 +1057,10 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
-                - "Confirm your Paper 032 entry with the local registrar"
-                - "Collect past Paper 032 questions for your unit"
+                - "Confirm the Paper 032 entry with the local registrar"
+                - "Collect past Paper 032 questions for the unit being sat"
                 - "Complete one Paper 032 under time and mark it"
-                - "Ask a tutor or programmer to review one of your answers"
+                - "Ask a tutor or programmer to review one practice answer"
             - name: First full timed Computer Science paper at home
               description: |-
                 ## Purpose
@@ -1069,7 +1071,7 @@ starter_structure:
                 2. Both papers sat at home in exam time with no notes, phone or compiler.
                 3. Both papers marked against the mark scheme.
                 4. Time spent on each section compared with the time it was worth.
-                5. Three changes to your exam technique written down.
+                5. Three changes to exam technique written down.
               priority: medium
               deadlineOffsetDays: 150
               frontmatter:
@@ -1080,19 +1082,19 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Pick an unseen past paper and put it away until the day"
-                - "Ask a parent to keep time and hold the phone"
+                - "Offer to keep time and hold their phone during the paper"
                 - "Sit Paper 01 and Paper 02 under exam conditions"
                 - "Mark both papers and note where time ran out"
             - name: School mock exam and marked script review
               description: |-
                 ## Purpose
-                Mock exams are the last full rehearsal with real marking, and a marked script that goes in a drawer wastes it. Going through every lost mark with your teacher, and turning the pattern into a short remediation plan, gives the final months a precise focus.
+                Mock exams are the last full rehearsal with real marking, and a marked script that goes in a drawer wastes it. Going through every lost mark with the teacher, and turning the pattern into a short remediation plan, gives the final months a precise focus.
 
                 ## Milestones
                 1. Every question on the marked mock script reviewed.
                 2. Each lost mark labelled as content, code, trace, technique or time.
                 3. A short remediation plan written for the three biggest losses.
-                4. The plan agreed with your teacher and added to the timetable.
+                4. The plan agreed with the teacher and added to the timetable.
 
                 ## Notes
                 Start from the **Remediation plan** template.
@@ -1101,14 +1103,14 @@ starter_structure:
               frontmatter:
                 mode: event
                 output_kind: event-completion
-                success_criteria: "A marked mock script is fully reviewed, and a remediation plan for the three biggest losses is agreed with your teacher and timetabled."
+                success_criteria: "A marked mock script is fully reviewed, and a remediation plan for the three biggest losses is agreed with your teen's teacher and timetabled."
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "Collect your marked mock script from your teacher"
+                - "Ask your teen to collect the marked mock script from their teacher"
                 - "Label every lost mark by its cause"
                 - "Write a remediation plan for the three biggest losses"
-                - "Agree the plan with your teacher and add it to the timetable"
+                - "Agree the plan with the teacher and add it to the timetable"
             - name: Final four weeks of Computer Science revision
               description: |-
                 ## Purpose
@@ -1135,7 +1137,7 @@ starter_structure:
             - name: Computer Science exam day plan
               description: |-
                 ## Purpose
-                Exam day goes wrong in small ways: a forgotten candidate number, a pen that runs out halfway through a trace, a panic on a code question that leaves time unused. A written plan for the night before, the morning and the paper itself removes those risks and lets you spend all your attention on the questions.
+                Exam day goes wrong in small ways: a forgotten candidate number, a pen that runs out halfway through a trace, a panic on a code question that leaves time unused. A written plan for the night before, the morning and the paper itself removes those risks and lets your teen spend all their attention on the questions.
 
                 ## Milestones
                 1. Exam date, time, room and candidate number confirmed and written down.
@@ -1144,7 +1146,7 @@ starter_structure:
                 4. A plan for a hard question agreed: mark it, move on and return.
 
                 ## Notes
-                Check the CXC rules on what you may take into the room and whether a calculator is allowed for this subject.
+                Check the CXC rules on what candidates may take into the room and whether a calculator is allowed for this subject.
               priority: high
               deadlineOffsetDays: 240
               frontmatter:
@@ -1154,14 +1156,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Confirm your exam time, room and candidate number"
+                - "Confirm the exam time, room and candidate number"
                 - "Pack pens, pencils, ruler and permitted items the night before"
                 - "Write a time plan for each section of each paper"
-                - "Agree with a parent what time you leave home"
+                - "Agree with your teen what time to leave home"
             - name: Teacher's bank of C exercises with test cases
               description: |-
                 ## Purpose
-                Computing teachers and lessons tutors spend hours writing exercises and checking student code one at a time. A shared bank of graded C exercises, each with a model solution and a set of test inputs and expected outputs, lets students check their own work and frees class time for the conversations that need a teacher.
+                Computing teachers and private tutors spend hours writing exercises and checking student code one at a time. A shared bank of graded C exercises, each with a model solution and a set of test inputs and expected outputs, lets students check their own work and frees class time for the conversations that need a teacher. If your teen has a tutor, share this project with them.
 
                 ## Milestones
                 1. Forty exercises written and sorted by topic and difficulty across both units.
@@ -1181,16 +1183,16 @@ starter_structure:
               tasks:
                 - "List the topics in both units that need graded exercises"
                 - "Write ten exercises with model solutions and test cases"
-                - "Share the bank with your class in a folder or platform"
+                - "Share the bank with the class in a folder or platform"
                 - "Ask the agent to draft test cases for a new exercise"
                 - "Add one new exercise from student mistakes @recurring(monthly:12)"
             - name: Subject report patterns across five sittings
               description: |-
                 ## Purpose
-                CXC subject reports describe, sitting after sitting, the same weaknesses: vague definitions, traces abandoned halfway, code that ignores the question's constraints. Reading five years of reports for Computer Science and listing the repeated comments gives you, or your class, a checklist of the traps examiners keep seeing.
+                CXC subject reports describe, sitting after sitting, the same weaknesses: vague definitions, traces abandoned halfway, code that ignores the question's constraints. Reading five years of reports for Computer Science and listing the repeated comments gives your teen, or a whole class, a checklist of the traps examiners keep seeing.
 
                 ## Milestones
-                1. Subject reports for the last five sittings of your unit collected.
+                1. Subject reports for the last five sittings of the unit collected.
                 2. Every comment on candidate weaknesses listed by module.
                 3. Comments that repeat across three or more years highlighted.
                 4. A one-page checklist of traps to avoid written and used in the final weeks.
@@ -1202,23 +1204,23 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Collect five years of subject reports for your unit"
+                - "Collect five years of subject reports for the unit"
                 - "List every comment on weaknesses by module"
                 - "Highlight comments that repeat across three or more years"
                 - "Write a one-page checklist of traps to avoid"
             - name: Writing efficient, well-structured C for the top grade
               description: |-
                 ## Purpose
-                Students aiming for a Grade I need code that is not only correct but clear and efficient, the kind a marker can follow in seconds. Rewriting your own earlier programs, removing repetition, choosing better data structures and adding precise comments, sharpens both your Paper 02 code and your IA, and builds habits that carry into university computing.
+                Students aiming for a Grade I need code that is not only correct but clear and efficient, the kind a marker can follow in seconds. Rewriting their own earlier programs, removing repetition, choosing better data structures and adding precise comments, sharpens both Paper 02 code and the IA, and builds habits that carry into university computing.
 
                 ## Milestones
-                1. Three of your earlier programs reread with a list of weaknesses in each.
+                1. Three earlier programs reread with a list of weaknesses in each.
                 2. Each program rewritten with functions in place of repeated code and clearer names.
                 3. One rewrite improved by a better algorithm or data structure, with comparisons measured.
-                4. A short style guide for your own code written from what you changed.
+                4. A short personal style guide written from what was changed.
 
                 ## Notes
-                Read code written by stronger programmers, such as worked solutions from your teacher, and copy the structure, not the code.
+                Encourage your teen to read code written by stronger programmers, such as worked solutions from the teacher, and copy the structure, not the code.
               priority: low
               frontmatter:
                 mode: building
@@ -1227,14 +1229,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Pick three programs you wrote early in the course"
+                - "Pick three programs written early in the course"
                 - "List the repetition and unclear names in each one"
                 - "Rewrite each program using functions and better names"
-                - "Write a one-page style guide from the changes you made"
+                - "Write a one-page style guide from the changes made"
 ---
 
 # CAPE Computer Science
 
-Everything a sixth former, a parent or a computing teacher needs for CAPE Computer Science, from the first evening with a compiler to the last paper. It opens with set-up (the format check, a working C environment, a diagnostic, a timetable and a past paper archive), moves through the weekly routines, then follows the syllabus: Unit 1 on computer architecture, problem solving and programming in C, and Unit 2 on data structures, software engineering, and operating systems and networks, before the internal assessment projects, timed papers, the mock, exam day and projects for private candidates, teachers and students aiming for the top grade.
+Everything a parent or guardian needs to support a sixth former through CAPE Computer Science, with projects a computing teacher can use too, from the first evening with a compiler to the last paper. It opens with set-up (the format check, a working C environment, a diagnostic, a timetable and a past paper archive), moves through the weekly routines, then follows the syllabus: Unit 1 on computer architecture, problem solving and programming in C, and Unit 2 on data structures, software engineering, and operating systems and networks, before the internal assessment projects, timed papers, the mock, exam day and projects for private candidates, teachers and students aiming for the top grade.
 
-The rhythm is weekly: C exercises on Monday, Wednesday and Friday, a trace table on Tuesday, a multiple choice set on Wednesday, the bug notebook on Thursday, glossary terms on Friday, a timed Paper 02 question and the score log on Saturday and a parent check-in on Sunday, with a few monthly refreshers and one timed section a day in the final four weeks. The Meeting notes, Metrics log, Habit tracker, Product spec and Remediation plan templates pair with the projects that point at them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is weekly: your teen does C exercises on Monday, Wednesday and Friday, a trace table on Tuesday, a multiple choice set on Wednesday, the bug notebook on Thursday, glossary terms on Friday, a timed Paper 02 question and the score log on Saturday, and the two of you hold a short check-in on Sunday, with a few monthly refreshers and one timed section a day in the final four weeks. The Meeting notes, Metrics log, Habit tracker, Product spec and Remediation plan templates pair with the projects that point at them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

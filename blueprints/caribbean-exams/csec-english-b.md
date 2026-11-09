@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-english-b
 name: CSEC English B (Literature)
-description: "Set drama, poetry and prose texts studied genre by genre, quote banks, a weekly timed essay habit, the SBA, past papers and an exam-day plan for students, parents and teachers preparing for CSEC English B."
+description: "Set drama, poetry and prose texts studied genre by genre, quote banks, a weekly timed essay habit, the SBA, past papers and an exam-day plan for parents supporting a CSEC English B student, with projects for teachers too."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-english-b, student, parent, educator, cxc, csec, literature, english-b]
@@ -16,7 +16,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -26,39 +26,41 @@ starter_structure:
             - name: English B syllabus, papers and set text check
               description: |-
                 ## Purpose
-                Set texts for CSEC English B are prescribed for a run of exam years and then replaced, so the play, poems and novel an older cousin studied may no longer be on the list. Before reading a page, find out from the current CXC syllabus and your teacher exactly which texts you will be examined on, how Paper 01, Paper 02 and the SBA are arranged, and which sections give you a choice. One evening of checking prevents months of studying the wrong book.
+                Set texts for CSEC English B are prescribed for a run of exam years and then replaced, so the play, poems and novel an older cousin studied may no longer be on the list. Before your teen reads a page, check the current CXC syllabus and ask the teacher exactly which texts they will be examined on, how Paper 01, Paper 02 and the SBA are arranged, and which sections give a choice. One evening of checking prevents months of studying the wrong book.
 
                 ## Milestones
-                1. The current CSEC English B syllabus saved in your literature folder, with the date you downloaded it.
+                1. The current CSEC English B syllabus saved in your teen's literature folder, with the date it was downloaded.
                 2. The paper format written on one page: what Paper 01 tests, how Paper 02 is divided into drama, poetry and prose, and what the SBA involves.
-                3. Your school's chosen set texts listed by genre and confirmed by your teacher.
-                4. Your exam year and sitting confirmed, with a note to recheck the timetable when CXC publishes it.
+                3. The school's chosen set texts listed by genre and confirmed by the teacher.
+                4. Your teen's exam year and sitting confirmed, with a note to recheck the timetable when CXC publishes it.
 
                 ## Notes
-                Do not rely on a revision guide's description of the papers: guides are often written for an older syllabus. CSEC's main sitting runs from May to June; check the published timetable for your exact English B dates.
+                This plan is for a parent or guardian supporting a teenager through CSEC English B (Literature), and an older student can follow it with a parent's support.
+
+                Do not rely on a revision guide's description of the papers: guides are often written for an older syllabus. CSEC's main sitting runs from May to June; check the published timetable for the exact English B dates.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A dated one-page summary of the current English B paper format and your confirmed set texts by genre is filed in your literature folder."
+                success_criteria: "A dated one-page summary of the current English B paper format and the confirmed set texts by genre is filed in your teen's literature folder."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Download the current CSEC English B syllabus from the CXC website"
+                - "Together, download the current CSEC English B syllabus from the CXC website"
                 - "Note the paper format and which Paper 02 sections offer a choice of text"
-                - "Ask your teacher to confirm which play, poems and prose texts your class is studying"
+                - "Ask the teacher to confirm which play, poems and prose texts the class is studying"
                 - "Check the CXC timetable for the English B dates once it is published"
-            - name: Getting the right editions of your set texts
+            - name: Getting the right editions of the set texts
               description: |-
                 ## Purpose
-                Page numbers, footnotes and even scene divisions differ between editions, so a student holding a different copy from the class loses time in every lesson. A Shakespeare edition with facing-page notes can also make the play far less of a struggle. Settling on the editions your teacher uses, bought new, second-hand or borrowed, is a small decision that pays back all year.
+                Page numbers, footnotes and even scene divisions differ between editions, so a student holding a different copy from the class loses time in every lesson. A Shakespeare edition with facing-page notes can also make the play far less of a struggle. Settling on the editions the teacher uses, bought new, second-hand or borrowed, is a small decision you can make with your teen that pays back all year.
 
                 ## Milestones
-                1. The edition of each set text your teacher uses written down with its publisher.
+                1. The edition of each set text the teacher uses written down with its publisher.
                 2. New, second-hand and library options compared on price and condition.
-                3. Your own copy of every set text in hand, including the poetry anthology the syllabus names.
-                4. Each copy labelled with your name and marked as yours to annotate.
+                3. Your teen's own copy of every set text in hand, including the poetry anthology the syllabus names.
+                4. Each copy labelled with their name and marked as theirs to annotate.
 
                 ## Notes
                 Start from the **Purchase decision** template. Second-hand copies already full of someone else's notes are distracting; light pencil marks are fine, heavy highlighting is not.
@@ -67,11 +69,11 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "You own or have long-term loan of the class edition of every set text, recorded with edition and publisher in your folder."
+                success_criteria: "Your teen owns or has long-term loan of the class edition of every set text, recorded with edition and publisher in their folder."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Photograph the cover and publisher page of the class copy of each set text"
+                - "Ask your teen to photograph the cover and publisher page of each class copy"
                 - "Ask older students and the school bookshop for second-hand copies"
                 - "Compare prices for the same editions at local bookshops and online"
                 - "Buy or borrow every set text and the poetry anthology before the next lesson"
@@ -103,13 +105,13 @@ starter_structure:
             - name: Baseline timed literature essay
               description: |-
                 ## Purpose
-                Most students have no idea how much they can write about a text in the time an exam allows until they try. Writing one past-paper essay under timed conditions early, and having it marked, shows whether the gap is knowledge of the text, use of quotation, structure or simply speed, so the next months go on the right problem.
+                Most students have no idea how much they can write about a text in the time an exam allows until they try. One past-paper essay written early under timed conditions, and marked, shows whether the gap is knowledge of the text, use of quotation, structure or simply speed, so you and your teen can put the next months into the right problem.
 
                 ## Milestones
-                1. One Paper 02 style question chosen on a text you have already read.
+                1. One Paper 02 style question chosen on a text your teen has already read.
                 2. The essay written in one sitting, timed to the allowance noted from the syllabus.
-                3. The essay marked by your teacher or tutor against the CXC criteria.
-                4. Your two biggest weaknesses written at the top of your feedback log.
+                3. The essay marked by the teacher or tutor against the CXC criteria.
+                4. The two biggest weaknesses written at the top of the feedback log.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -119,20 +121,20 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Pick a past-paper question on the text you know best"
+                - "Your teen picks a past-paper question on the text they know best"
                 - "Write the essay in one timed sitting with the book closed"
-                - "Hand the essay to your teacher and ask for a mark and two comments"
-                - "Record the mark and your two biggest weaknesses in your feedback log"
+                - "Ask the teacher for a mark and two comments on the essay"
+                - "Record the mark and the two biggest weaknesses in the feedback log"
             - name: Working glossary of literary terms
               description: |-
                 ## Purpose
-                Examiners reward students who name a technique and explain its effect, not those who list devices. Knowing what dramatic irony, enjambment, foreshadowing or an unreliable narrator actually is, with one example from your own set texts beside each term, turns vague comments into precise analysis.
+                Examiners reward students who name a technique and explain its effect, not those who list devices. Knowing what dramatic irony, enjambment, foreshadowing or an unreliable narrator actually is, with one example from the set texts beside each term, turns vague comments into precise analysis. A glossary is also something you can quiz your teen on without having read the books.
 
                 ## Milestones
-                1. A list of every literary term the syllabus names, plus any your teacher adds.
+                1. A list of every literary term the syllabus names, plus any the teacher adds.
                 2. A plain-language definition beside each term.
-                3. One example from your own set texts beside each term, with its effect in a sentence.
-                4. Every term recalled correctly in a self-test.
+                3. One example from the set texts beside each term, with its effect in a sentence.
+                4. Every term recalled correctly in a quick quiz.
 
                 ## Notes
                 Group the glossary by genre: stagecraft terms for drama, sound and form terms for poetry, narrative terms for prose. Terms shared across genres such as imagery and irony go in a general section.
@@ -140,18 +142,18 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A glossary covering every syllabus term, each with a definition and an example from your set texts, is complete and self-tested."
+                success_criteria: "A glossary covering every syllabus term, each with a definition and an example from the set texts, is complete and tested."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
                 - "Copy every literary term from the syllabus into a glossary page"
-                - "Write a one-line definition for each term in your own words"
+                - "Write a one-line definition for each term in plain words"
                 - "Add an example from a set text and its effect beside each term"
-                - "Test yourself on ten glossary terms @recurring(weekly:fri)"
+                - "Quiz your teen on ten glossary terms @recurring(weekly:fri)"
             - name: First complete reading of every set text
               description: |-
                 ## Purpose
-                You cannot analyse a play or novel you only know from summaries, and examiners can tell. Reading every set text right through once, early in fourth or fifth form, gives you the whole shape of each story before lessons slice it into scenes and chapters. It also shows which text you will need the most time on.
+                Nobody can analyse a play or novel they only know from summaries, and examiners can tell. Reading every set text right through once, early in fourth or fifth form, gives your teen the whole shape of each story before lessons slice it into scenes and chapters. It also shows which text will need the most time.
 
                 ## Milestones
                 1. A reading order for all set texts with a target week for finishing each.
@@ -171,34 +173,34 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "25"
               tasks:
-                - "List your set texts in a reading order with a finish week for each"
+                - "Together, list the set texts in a reading order with a finish week for each"
                 - "Read the Shakespeare play alongside an audio recording"
                 - "Read each set poem aloud at least once"
-                - "Write a first-impression paragraph as you finish each text"
+                - "Write a first-impression paragraph on finishing each text"
             - name: English B revision timetable to the exam
               description: |-
                 ## Purpose
-                Literature revision fails when it is all poetry in March and panic about the novel in May. Working back from your English B exam date and your SBA deadline, a week-by-week plan gives each genre and each text its turn, leaves room for past papers, and shows a parent or tutor what should be happening each week.
+                Literature revision fails when it is all poetry in March and panic about the novel in May. Working back from the English B exam date and the SBA deadline, a week-by-week plan gives each genre and each text its turn, leaves room for past papers, and shows you what should be happening each week so your check-ins have something to go on.
 
                 ## Milestones
-                1. Your exam date, SBA deadline and mock dates marked on one calendar.
+                1. The exam date, SBA deadline and mock dates marked on one calendar.
                 2. Every set text and genre given at least two revision blocks.
                 3. Weekly slots fixed for timed essays and practice papers.
                 4. The last four weeks kept for full papers and weak spots only.
-                5. The plan shared with a parent or tutor.
+                5. The plan shared with you and any tutor.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A week-by-week plan to the English B exam, covering every set text twice and showing the SBA and mock dates, is shared with a parent or tutor."
+                success_criteria: "A week-by-week plan to the English B exam, covering every set text twice and showing the SBA and mock dates, is shared with you and any tutor."
                 cadence: phased
                 effort_hours_estimate: "3"
               tasks:
                 - "Mark the exam, SBA and mock dates on one calendar"
                 - "Give each set text and genre at least two revision weeks"
-                - "Share the plan with a parent, tutor or study partner"
-                - "Check progress against the timetable and adjust it @recurring(monthly:3)"
+                - "Ask your teen to share the plan with you and any tutor or study partner"
+                - "Check progress against the timetable together and adjust it @recurring(monthly:3)"
             - name: Quiet reading corner and literature hour at home
               description: |-
                 ## Purpose
@@ -211,7 +213,7 @@ starter_structure:
                 4. The arrangement reviewed with your teenager after four weeks.
 
                 ## Notes
-                Agree the hour with your child rather than imposing it; a time they chose is a time they keep.
+                Agree the hour with your teenager rather than imposing it; a time they chose is a time they keep.
               priority: low
               frontmatter:
                 mode: building
@@ -227,7 +229,7 @@ starter_structure:
             - name: Study partner sessions on the set texts
               description: |-
                 ## Purpose
-                Explaining why a character acts as she does to someone who disagrees is the fastest way to find out whether you really understand a text. A regular hour with one or two classmates, taking turns to lead on a scene, poem or chapter, builds the habit of arguing from evidence that Paper 02 rewards.
+                Explaining why a character acts as she does to someone who disagrees is the fastest way to find out whether a text is really understood. A regular hour with one or two classmates, taking turns to lead on a scene, poem or chapter, builds the habit of arguing from evidence that Paper 02 rewards. Offer the table, a lift or the snacks, and let your teen choose the partners.
 
                 ## Milestones
                 1. One or two study partners agreed, ideally with different strengths.
@@ -241,10 +243,10 @@ starter_structure:
                 success_criteria: "Eight or more weekly study partner sessions have been held, each with a one-line note of the text and the question argued."
                 cadence: rolling
               tasks:
-                - "Ask one or two classmates to meet weekly about the set texts"
+                - "Your teen asks one or two classmates to meet weekly about the set texts"
                 - "Draw up a rota of who leads on which scene, poem or chapter"
-                - "Meet your study partners and argue one exam question @recurring(weekly:thu)"
-                - "Write one line after each session on what you disagreed about"
+                - "Study partners meet and argue one exam question @recurring(weekly:thu)"
+                - "Write one line after each session on what was disagreed about"
             - name: Saturday timed essay routine
               description: |-
                 ## Purpose
@@ -257,7 +259,7 @@ starter_structure:
                 4. Marks tracked over time and showing a clear trend.
 
                 ## Notes
-                Start from the **Metrics log** template to track marks by genre. If your teacher cannot mark every essay, mark one yourself with the mark scheme and get every third one marked properly.
+                Start from the **Metrics log** template to track marks by genre. If the teacher cannot mark every essay, your teen can mark one against the mark scheme and get every third one marked properly.
               priority: high
               frontmatter:
                 mode: operating
@@ -267,12 +269,12 @@ starter_structure:
               tasks:
                 - "Sort past-paper questions into drama, poetry and prose lists"
                 - "Write one timed essay with the book closed @recurring(weekly:sat)"
-                - "Log each mark by genre and text in your score log"
-                - "Compare this month's marks with last month's and pick one fix @recurring(monthly:18)"
+                - "Log each mark by genre and text in the score log"
+                - "Together, compare this month's marks with last month's and pick one fix @recurring(monthly:18)"
             - name: Quotation bank for drama, poetry and prose
               description: |-
                 ## Purpose
-                In a closed-book exam the quotations you can recall are the evidence you have. A bank of short, flexible quotations for each character and theme, learned a few at a time on cards, lets you support every point without wasting minutes on paraphrase.
+                In a closed-book exam the quotations your teen can recall are the only evidence they have. A bank of short, flexible quotations for each character and theme, learned a few at a time on cards, supports every point without wasting minutes on paraphrase. The cards are also the easiest thing for you to quiz them on.
 
                 ## Milestones
                 1. Eight to twelve short quotations chosen for each main character and theme.
@@ -281,7 +283,7 @@ starter_structure:
                 4. At least three quotations recalled correctly for every main character.
 
                 ## Notes
-                Short beats long. Four well-chosen words you can analyse are worth more than a whole speech you half remember.
+                Short beats long. Four well-chosen words that can be analysed are worth more than a whole speech half remembered.
               priority: medium
               frontmatter:
                 mode: operating
@@ -292,7 +294,7 @@ starter_structure:
                 - "Pick eight short quotations for one main character"
                 - "Write each quotation on a card with speaker, moment and meaning"
                 - "Learn and test ten new quotation cards @recurring(weekly:wed)"
-                - "Ask someone at home to quiz you from the cards"
+                - "Offer to quiz your teen from the cards"
             - name: Poem of the week close reading
               description: |-
                 ## Purpose
@@ -319,10 +321,10 @@ starter_structure:
             - name: Monthly full practice paper under exam conditions
               description: |-
                 ## Purpose
-                Writing one essay is different from sustaining quality across a whole paper, when the third answer is usually the weakest. A full Paper 02 each month, timed, in silence and marked, builds the stamina and timing that single essays cannot, and shows which genre suffers when you run short of time.
+                Writing one essay is different from sustaining quality across a whole paper, when the third answer is usually the weakest. A full Paper 02 each month, timed, in silence and marked, builds the stamina and timing that single essays cannot, and shows which genre suffers when time runs short.
 
                 ## Milestones
-                1. A set of past Paper 02s collected from the school, the CXC store or your teacher.
+                1. A set of past Paper 02s collected from the school, the CXC store or the teacher.
                 2. One full paper sat each month in timed, silent conditions.
                 3. Each paper marked, with the mark for every answer recorded.
                 4. The weakest answer on each paper rewritten within the week.
@@ -345,7 +347,7 @@ starter_structure:
                 ## Milestones
                 1. A log with columns for date, text, mark and each comment received.
                 2. Comments grouped into no more than six recurring themes.
-                3. Your top two themes chosen as the focus for the next month.
+                3. The top two themes chosen as the focus for the next month.
                 4. A month where neither theme appears in a teacher's comments.
 
                 ## Notes
@@ -357,20 +359,20 @@ starter_structure:
                 success_criteria: "A feedback log covers every marked essay, with comments grouped into themes and two focus themes reviewed monthly."
                 cadence: rolling
               tasks:
-                - "Copy every comment from your marked literature essays into one log"
+                - "Copy every comment from the marked literature essays into one log"
                 - "Group the comments into no more than six themes"
                 - "Choose two feedback themes to fix this month @recurring(monthly:22)"
-                - "Show the log to your teacher and ask which theme matters most"
+                - "Ask your teen to show the log to the teacher and ask which theme matters most"
             - name: Unseen extract drills for Paper 01
               description: |-
                 ## Purpose
-                Paper 01 is multiple choice, and recent syllabuses base it on passages of prose, poetry and drama you have not studied. That makes it a test of reading skill you can only build by practice: spotting tone, the effect of a word choice, the speaker's attitude. A short drill each week keeps these skills sharp alongside the set texts.
+                Paper 01 is multiple choice, and recent syllabuses base it on passages of prose, poetry and drama that have not been studied in class. That makes it a test of reading skill that only practice builds: spotting tone, the effect of a word choice, the speaker's attitude. A short drill each week keeps these skills sharp alongside the set texts.
 
                 ## Milestones
                 1. The current Paper 01 format confirmed from the syllabus and specimen paper.
                 2. A source of practice extracts and multiple-choice questions gathered.
                 3. One timed drill done most weeks, with errors noted by type.
-                4. Your error rate on device and tone questions falling over two months.
+                4. The error rate on device and tone questions falling over two months.
               priority: medium
               frontmatter:
                 mode: operating
@@ -381,7 +383,7 @@ starter_structure:
                 - "Check the specimen Paper 01 to see what kinds of extracts it uses"
                 - "Gather practice extracts with multiple-choice questions from past papers and guides"
                 - "Do one timed unseen extract drill and mark it @recurring(weekly:tue)"
-                - "Note the type of every question you get wrong"
+                - "Note the type of every question answered wrongly"
             - name: Sunday literature check-in for parents
               description: |-
                 ## Purpose
@@ -408,7 +410,7 @@ starter_structure:
             - name: Act and scene map of the Shakespeare play
               description: |-
                 ## Purpose
-                Drama questions often hinge on where a moment falls: what the audience already knows, who has just left the stage, what is about to happen. A one-page map of every act and scene, with the key event, who is present and one quotation, lets you place any extract instantly and write about its dramatic purpose.
+                Drama questions often hinge on where a moment falls: what the audience already knows, who has just left the stage, what is about to happen. A one-page map of every act and scene, with the key event, who is present and one quotation, lets your teen place any extract instantly and write about its dramatic purpose.
 
                 ## Milestones
                 1. Every scene listed with its setting and the characters present.
@@ -444,7 +446,7 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Every soliloquy in the play is listed, paraphrased and analysed, and you can explain the verse and prose shift with two examples."
+                success_criteria: "Every soliloquy in the play is listed, paraphrased and analysed, and your teen can explain the verse and prose shift with two examples."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
@@ -455,7 +457,7 @@ starter_structure:
             - name: Character profiles for the set plays
               description: |-
                 ## Purpose
-                Character questions are among the most common on the drama section, and weak answers simply retell what a character does. A profile for each major character, covering how they change, how others see them, their key relationships and what the playwright uses them for, prepares you to argue rather than narrate.
+                Character questions are among the most common on the drama section, and weak answers simply retell what a character does. A profile for each major character, covering how they change, how others see them, their key relationships and what the playwright uses them for, prepares your teen to argue rather than narrate.
 
                 ## Milestones
                 1. A profile for each major character in both set plays.
@@ -470,17 +472,17 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "Choose the major characters in each set play with your teacher"
+                - "Choose the major characters in each set play with the teacher"
                 - "Trace each character's first and last appearance and what changed"
                 - "Link three quotations to traits for each character"
                 - "Write one sentence on what the playwright uses each character to show"
             - name: Themes and conflict across the set drama
               description: |-
                 ## Purpose
-                Power, loyalty, ambition, justice, family and identity recur in exam questions, and a student who has traced each theme scene by scene can answer from any angle. Mapping where each theme appears, and how the central conflicts drive it, prepares you for questions you have not seen before.
+                Power, loyalty, ambition, justice, family and identity recur in exam questions, and a student who has traced each theme scene by scene can answer from any angle. Mapping where each theme appears, and how the central conflicts drive it, prepares your teen for questions they have not seen before.
 
                 ## Milestones
-                1. The four to six main themes of each set play agreed with your teacher.
+                1. The four to six main themes of each set play agreed with the teacher.
                 2. Each theme traced through the acts with scene references.
                 3. The central conflicts named and linked to the themes they carry.
                 4. A practice paragraph written on each theme with evidence.
@@ -492,14 +494,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "7"
               tasks:
-                - "List the main themes of each set play and check them with your teacher"
+                - "List the main themes of each set play and check them with the teacher"
                 - "Trace one theme through every act with scene references"
                 - "Name the central conflicts and the themes each one carries"
                 - "Write a practice paragraph on each theme using two quotations"
             - name: Dramatic devices and stagecraft in the set plays
               description: |-
                 ## Purpose
-                Plays are written for an audience, and the drama questions expect you to write as if you can see the stage. Studying dramatic irony, asides, stage directions, entrances and exits, props, lighting and contrast between scenes shows how the playwright creates tension and meaning beyond the dialogue.
+                Plays are written for an audience, and the drama questions expect candidates to write as if they can see the stage. Studying dramatic irony, asides, stage directions, entrances and exits, props, lighting and contrast between scenes shows how the playwright creates tension and meaning beyond the dialogue.
 
                 ## Milestones
                 1. A list of the dramatic devices used in each set play with scene references.
@@ -517,14 +519,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "List every dramatic device you can find in one set play"
+                - "List every dramatic device in one set play"
                 - "Explain three moments of dramatic irony and what the audience feels"
                 - "Underline the stage directions in the other set play and note what each shows"
                 - "Write one paragraph on how a chosen scene would look and sound on stage"
             - name: Watching a performance or film of the set play
               description: |-
                 ## Purpose
-                Seeing the play performed, whether by a school drama group, a local theatre company or a filmed production, makes characters, tension and humour obvious in a way the page cannot. A performance also gives you specific staging ideas to use in essays about audience response.
+                Seeing the play performed, whether by a school drama group, a local theatre company or a filmed production, makes characters, tension and humour obvious in a way the page cannot. A performance also gives your teen specific staging ideas to use in essays about audience response, and it is something you can watch together.
 
                 ## Milestones
                 1. A live performance, filmed stage production or film adaptation of the set play found.
@@ -543,36 +545,36 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher about local performances or recommended filmed productions"
-                - "Watch the production with the text open beside you"
+                - "Ask the teacher about local performances or recommended filmed productions"
+                - "Watch the production with the text open alongside"
                 - "Note three staging choices and what they add to a scene"
                 - "List every scene the production cut or changed"
             - name: Drama essay practice from past papers
               description: |-
                 ## Purpose
-                Once the drama is known, marks come from applying that knowledge to the exact question, often built around a printed extract. Working through a set of past drama questions in the format your syllabus uses, timed and marked, shows whether you can move from the extract to the whole play and back.
+                Once the drama is known, marks come from applying that knowledge to the exact question, often built around a printed extract. Working through a set of past drama questions in the format the syllabus uses, timed and marked, shows whether your teen can move from the extract to the whole play and back.
 
                 ## Milestones
-                1. All past drama questions on your set plays collected.
+                1. All past drama questions on the set plays collected.
                 2. Six drama essays written under time and marked.
                 3. Extract-based questions practised separately from whole-play questions.
-                4. A drama mark that meets your target on two consecutive essays.
+                4. A drama mark that meets the target on two consecutive essays.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: deliverable
-                success_criteria: "Six timed drama answers on the set plays are marked, with two consecutive answers at or above your target mark."
+                success_criteria: "Six timed drama answers on the set plays are marked, with two consecutive answers at or above the target mark."
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Collect every past drama question on your set plays"
+                - "Collect every past drama question on the set plays"
                 - "Write two extract-based drama answers under time"
                 - "Write two whole-play drama answers under time"
-                - "Compare your drama marks with your target and note the gap"
+                - "Compare the drama marks with the target and note the gap"
             - name: A repeatable method for reading any poem
               description: |-
                 ## Purpose
-                Students who freeze on a poem usually have no starting point. A fixed sequence, such as who is speaking, to whom, about what, in what tone, with what images and sounds, in what form, and how it ends, works on set poems and unseen ones alike, so you always know what to do with the first five minutes.
+                Students who freeze on a poem usually have no starting point. A fixed sequence, such as who is speaking, to whom, about what, in what tone, with what images and sounds, in what form, and how it ends, works on set poems and unseen ones alike, so your teen always knows what to do with the first five minutes.
 
                 ## Milestones
                 1. A step-by-step method written on one card.
@@ -590,7 +592,7 @@ starter_structure:
                 - "Write a seven-step poem reading method on one card"
                 - "Apply the method in writing to three set poems"
                 - "Try the method on two unseen poems in fifteen minutes each"
-                - "Recite the steps from memory to a study partner"
+                - "Recite the steps from memory to a study partner or to you"
             - name: Poetic devices and their effect on the reader
               description: |-
                 ## Purpose
@@ -619,7 +621,7 @@ starter_structure:
             - name: Set poems grouped by theme for comparison
               description: |-
                 ## Purpose
-                Poetry questions often ask about two poems together or about a theme across poems. Grouping the set list by shared themes, such as childhood, loss, nature, identity, migration or protest, and noting how each poet treats the theme differently, prepares you to choose the right pair and compare rather than describe twice.
+                Poetry questions often ask about two poems together or about a theme across poems. Grouping the set list by shared themes, such as childhood, loss, nature, identity, migration or protest, and noting how each poet treats the theme differently, prepares them to choose the right pair and compare rather than describe twice.
 
                 ## Milestones
                 1. Every set poem placed in at least one theme group.
@@ -641,7 +643,7 @@ starter_structure:
             - name: Caribbean voice, place and history in the set poems
               description: |-
                 ## Purpose
-                Many set poems come from Caribbean writers whose choices about Creole and standard English, landscape, history and migration carry the meaning. Knowing a little about each poet and the world the poem speaks from lets you explain why a dialect line or a reference to cane fields matters, rather than just noticing it.
+                Many set poems come from Caribbean writers whose choices about Creole and standard English, landscape, history and migration carry the meaning. Knowing a little about each poet and the world the poem speaks from lets your teen explain why a dialect line or a reference to cane fields matters, rather than just noticing it. Family memories of that world can help too.
 
                 ## Milestones
                 1. A short note on each set poet: where they are from and when they wrote.
@@ -662,33 +664,33 @@ starter_structure:
                 - "Write two lines on each set poet's background and period"
                 - "Mark every Creole or dialect line in the set poems and note its effect"
                 - "Look up each place name or historical reference in the poems"
-                - "Add one well-placed sentence of context to your next poetry essay"
+                - "Add one well-placed sentence of context to the next poetry essay"
             - name: Poetry essay practice from past papers
               description: |-
                 ## Purpose
                 Poetry answers expect close attention to a few lines, and students who know the poems often write too generally. Timed practice on past poetry questions, including those that ask for two poems, trains the precision and selection that move a poetry mark up.
 
                 ## Milestones
-                1. All past poetry questions on poems still on your list collected.
+                1. All past poetry questions on poems still on the set list collected.
                 2. Five poetry essays written under time and marked.
                 3. At least two essays answering on two poems together.
-                4. Two consecutive poetry essays at or above your target mark.
+                4. Two consecutive poetry essays at or above the target mark.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: deliverable
-                success_criteria: "Five timed poetry essays, two of them on paired poems, are marked, with two consecutive essays at or above target."
+                success_criteria: "Five timed poetry essays, two of them on paired poems, are marked, with two consecutive essays at or above the target mark."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "Collect past poetry questions on poems still on your set list"
+                - "Collect past poetry questions on poems still on the set list"
                 - "Write a timed answer on a single poem"
                 - "Write two timed answers comparing a pair of poems"
-                - "Ask your teacher to mark one answer line by line for precision"
+                - "Ask the teacher to mark one answer line by line for precision"
             - name: Chapter map and timeline of the set novel
               description: |-
                 ## Purpose
-                Novels are long, and in the exam you must find the right moment from memory. A chapter-by-chapter map, plus a timeline that untangles any flashbacks, gives you instant recall of where events happen and how the plot is built.
+                Novels are long, and in the exam the right moment has to be found from memory. A chapter-by-chapter map, plus a timeline that untangles any flashbacks, gives them instant recall of where events happen and how the plot is built.
 
                 ## Milestones
                 1. Every chapter summarised in two lines.
@@ -710,7 +712,7 @@ starter_structure:
             - name: Narrative voice and point of view in the set prose
               description: |-
                 ## Purpose
-                Who tells the story, and how much they know, shapes everything a reader believes. Studying first person, third person limited and omniscient narration, child narrators, and moments where the narrator cannot be trusted, gives you a powerful angle on prose questions that most students ignore.
+                Who tells the story, and how much they know, shapes everything a reader believes. Studying first person, third person limited and omniscient narration, child narrators, and moments where the narrator cannot be trusted, gives a student a powerful angle on prose questions that most students ignore.
 
                 ## Milestones
                 1. The narrative voice of each set prose text identified and described.
@@ -732,7 +734,7 @@ starter_structure:
             - name: Character arcs and relationships in the set novel
               description: |-
                 ## Purpose
-                Prose questions frequently ask how a character develops or how a relationship shapes the story. Mapping each main character's arc and drawing the web of relationships between them, with evidence at each stage, gives you ready material for the most common prose essay types.
+                Prose questions frequently ask how a character develops or how a relationship shapes the story. Mapping each main character's arc and drawing the web of relationships between them, with evidence at each stage, gives your teen ready material for the most common prose essay types.
 
                 ## Milestones
                 1. An arc for each main character: starting point, turning points, ending.
@@ -754,7 +756,7 @@ starter_structure:
             - name: Setting, society and context in the set prose
               description: |-
                 ## Purpose
-                Caribbean novels on the syllabus are often rooted in a particular time: plantation and village life, colonial schooling, migration to cities or abroad, race, class and colour. Understanding that world explains why characters act as they do and lets you write about setting as more than background.
+                Caribbean novels on the syllabus are often rooted in a particular time: plantation and village life, colonial schooling, migration to cities or abroad, race, class and colour. Understanding that world explains why characters act as they do and lets your teen write about setting as more than background. Your own memories of that world may help more than you expect.
 
                 ## Milestones
                 1. The time and place of each set prose text noted with key social features.
@@ -776,16 +778,16 @@ starter_structure:
             - name: Short stories on the prose list
               description: |-
                 ## Purpose
-                Where your syllabus includes short stories, students tend to give them less time than the novel, yet each story can carry a whole question. Treating every set story as a compact text, with its turning point, ending and techniques studied closely, closes a gap many classmates leave open.
+                Where the syllabus includes short stories, students tend to give them less time than the novel, yet each story can carry a whole question. Treating every set story as a compact text, with its turning point, ending and techniques studied closely, closes a gap many classmates leave open.
 
                 ## Milestones
-                1. The set short stories on your syllabus confirmed with your teacher.
+                1. The set short stories on the syllabus confirmed with the teacher.
                 2. Each story summarised with its turning point and how it ends.
                 3. The key technique of each story noted, such as twist ending, symbol or voice.
                 4. One timed answer on a short story marked.
 
                 ## Notes
-                If your class is examined on the novel only, archive this project.
+                If your teen's class is examined on the novel only, archive this project.
               priority: low
               frontmatter:
                 mode: learning
@@ -794,7 +796,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Confirm with your teacher which short stories are set for your year"
+                - "Confirm with the teacher which short stories are set for this year"
                 - "Summarise each story's turning point and ending"
                 - "Note the main technique each writer uses"
                 - "Write one timed short story answer for marking"
@@ -804,19 +806,19 @@ starter_structure:
                 Prose answers are where students most often slip into retelling the plot. Timed practice on past prose questions, marked with attention to argument and analysis rather than story, builds the habit of making a point, proving it and explaining why it matters.
 
                 ## Milestones
-                1. All past prose questions on your set texts collected.
+                1. All past prose questions on the set texts collected.
                 2. Five prose essays written under time and marked.
                 3. Each essay checked for plot retelling, with retold lines cut in a rewrite.
-                4. Two consecutive prose essays at or above your target mark.
+                4. Two consecutive prose essays at or above the target mark.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: deliverable
-                success_criteria: "Five timed prose essays are marked, each checked for retelling, with two consecutive essays at or above target."
+                success_criteria: "Five timed prose essays are marked, each checked for retelling, with two consecutive essays at or above the target mark."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "Collect past prose questions on your set novel and stories"
+                - "Collect past prose questions on the set novel and stories"
                 - "Write a timed prose answer and highlight any plot retelling"
                 - "Rewrite one retold paragraph as a point with evidence and analysis"
                 - "Write two more timed prose answers and compare the marks"
@@ -839,17 +841,17 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "List the command words used in past English B questions"
-                - "Write down a two-minute planning method you can repeat"
+                - "Write down a repeatable two-minute planning method"
                 - "Plan ten past questions in two minutes each without writing the essays"
-                - "Start each paragraph of your next essay with a phrase from the question"
-            - name: Choosing your Paper 02 questions and timing plan
+                - "Start each paragraph of the next essay with a phrase from the question"
+            - name: Choosing Paper 02 questions and a timing plan
               description: |-
                 ## Purpose
-                Where Paper 02 gives a choice of text or question, deciding in advance which texts you will answer on, and how long each answer gets, saves panic in the exam room. Comparing your marks by text and genre lets you choose on evidence, and a fixed timing plan stops the last answer being rushed.
+                Where Paper 02 gives a choice of text or question, deciding in advance which texts to answer on, and how long each answer gets, saves panic in the exam room. Comparing marks by text and genre lets your teen choose on evidence, and a fixed timing plan stops the last answer being rushed.
 
                 ## Milestones
                 1. The Paper 02 rules on choice confirmed from the syllabus.
-                2. Average marks compared across your texts in each section.
+                2. Average marks compared across the texts in each section.
                 3. A first and a backup text chosen for each section where there is a choice.
                 4. A minute-by-minute timing plan for the paper, including reading and checking time.
                 5. The plan tested on one full past paper.
@@ -863,66 +865,66 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "Check the syllabus for which Paper 02 sections offer a choice"
-                - "Compare your average marks for each text from your score log"
+                - "Compare the average marks for each text from the score log"
                 - "Choose a first and a backup text for each section"
                 - "Write a timing plan and test it on a full past paper"
             - name: Mark schemes and CXC subject reports
               description: |-
                 ## Purpose
-                CXC publishes subject reports after each sitting describing what strong and weak candidates did on each question, and these are the closest thing to hearing from the examiners directly. Reading several recent English B reports, alongside mark schemes where your school has them, shows exactly what earns and loses marks.
+                CXC publishes subject reports after each sitting describing what strong and weak candidates did on each question, and these are the closest thing to hearing from the examiners directly. Reading several recent English B reports, alongside mark schemes where the school has them, shows exactly what earns and loses marks.
 
                 ## Milestones
                 1. The last three English B subject reports obtained.
                 2. Repeated examiner comments listed under drama, poetry, prose and Paper 01.
-                3. Your own work checked against each repeated comment.
-                4. Three changes to your essay habits written down from the reports.
+                3. Your teen's own work checked against each repeated comment.
+                4. Three changes to essay habits written down from the reports.
               priority: medium
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "Three recent English B subject reports are summarised by genre, with three changes to your own essay habits recorded."
+                success_criteria: "Three recent English B subject reports are summarised by genre, with three changes to your teen's essay habits recorded."
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Find the most recent English B subject reports on the CXC website or from your teacher"
+                - "Find the most recent English B subject reports on the CXC website or from the teacher"
                 - "Ask the agent to summarise the repeated examiner comments by genre"
-                - "Write three changes to your essay habits based on the reports"
+                - "Write three changes to essay habits based on the reports"
                 - "Read the newest English B subject report when CXC publishes it @recurring(yearly)"
             - name: English B SBA requirements and topic choice
               description: |-
                 ## Purpose
-                The SBA is the one part of English B you control in advance, and marks lost through misreading the task cannot be recovered in the exam. Reading the SBA section of the current syllabus with your teacher, understanding the criteria, and choosing a focus you can sustain, sets the whole assessment on the right track.
+                The SBA is the one part of English B your teen controls in advance, and marks lost through misreading the task cannot be recovered in the exam. Reading the SBA section of the current syllabus with the teacher, understanding the criteria, and choosing a focus they can sustain, sets the whole assessment on the right track.
 
                 ## Milestones
                 1. The SBA section of the current syllabus read and the requirements listed.
-                2. The assessment criteria copied into your SBA folder.
-                3. Your teacher's internal deadlines for each stage noted.
-                4. A topic or text focus chosen and approved by your teacher.
+                2. The assessment criteria copied into the SBA folder.
+                3. The teacher's internal deadlines for each stage noted.
+                4. A topic or text focus chosen and approved by the teacher.
 
                 ## Notes
-                Your teacher's deadlines come before CXC's. Put the school dates in your calendar, not the CXC submission date.
+                The teacher's deadlines come before CXC's. Put the school dates on the family calendar, not the CXC submission date.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
                 mode: building
                 output_kind: decision
-                success_criteria: "The English B SBA requirements and criteria are filed, internal deadlines are in your calendar and your focus is approved by your teacher."
+                success_criteria: "The English B SBA requirements and criteria are filed, internal deadlines are on the family calendar and the focus is approved by the teacher."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
                 - "Read the SBA section of the current English B syllabus"
-                - "Copy the SBA assessment criteria into your folder"
-                - "Put every internal SBA deadline in your calendar"
-                - "Get your SBA focus approved by your teacher in writing"
+                - "Copy the SBA assessment criteria into the SBA folder"
+                - "Put every internal SBA deadline on the family calendar"
+                - "Check that the SBA focus is approved by the teacher in writing"
             - name: English B SBA draft and teacher feedback
               description: |-
                 ## Purpose
-                A first draft handed in early gives your teacher time to point out what is missing while there is still time to fix it. Planning, drafting against the criteria and acting on every comment turns the SBA from a rushed last-week task into a strong, reliable share of the final grade.
+                A first draft handed in early gives the teacher time to point out what is missing while there is still time to fix it. Planning, drafting against the criteria and acting on every comment turns the SBA from a rushed last-week task into a strong, reliable share of the final grade.
 
                 ## Milestones
                 1. An outline checked against every assessment criterion.
                 2. A complete first draft submitted by the internal draft date.
-                3. Every teacher comment listed with how you will address it.
+                3. Every teacher comment listed with how it will be addressed.
                 4. A revised draft that responds to each comment.
               priority: medium
               deadlineOffsetDays: 100
@@ -935,18 +937,18 @@ starter_structure:
               tasks:
                 - "Outline the SBA and tick each criterion it covers"
                 - "Write the complete first draft before the internal draft date"
-                - "List every teacher comment with your planned fix"
+                - "List every teacher comment with a planned fix"
                 - "Revise the draft and check it again against the criteria"
             - name: Final English B SBA submission
               description: |-
                 ## Purpose
-                SBA marks are lost to small, avoidable things: a missing section, a word count ignored, a file in the wrong format, a signature not collected. A final check against the criteria and the school's submission rules, done a week before the deadline, makes sure the work you did is the work that counts.
+                SBA marks are lost to small, avoidable things: a missing section, a word count ignored, a file in the wrong format, a signature not collected. A final check against the criteria and the school's submission rules, done a week before the deadline, makes sure the work your teen did is the work that counts.
 
                 ## Milestones
                 1. The final version checked against every criterion and any length guidance.
                 2. References and quotations checked for accuracy.
                 3. Any required forms or declarations signed.
-                4. The SBA submitted to your teacher before the school deadline, with a copy kept.
+                4. The SBA submitted to the teacher before the school deadline, with a copy kept.
               priority: high
               deadlineOffsetDays: 140
               frontmatter:
@@ -963,10 +965,10 @@ starter_structure:
             - name: School mock exam in English B
               description: |-
                 ## Purpose
-                The mock is the only full rehearsal under real conditions before the exam, and how you prepare for it shows whether the revision timetable is working. Treating it as the real thing, then studying the marked script closely, gives you a reliable picture of where you stand with weeks still left to act.
+                The mock is the only full rehearsal under real conditions before the exam, and how your teen prepares for it shows whether the revision timetable is working. Treating it as the real thing, then studying the marked script closely, gives you both a reliable picture of where things stand with weeks still left to act.
 
                 ## Milestones
-                1. The mock date and papers confirmed with your teacher.
+                1. The mock date and papers confirmed with the teacher.
                 2. A two-week mock revision plan covering every set text.
                 3. The mock sat with full effort and no notes.
                 4. The marked script reviewed and three priorities set for the final weeks.
@@ -1002,33 +1004,33 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "40"
               tasks:
-                - "Write a six-week plan built around your mock priorities"
+                - "Write a six-week plan built around the mock priorities"
                 - "Review twenty quotation cards before school @recurring(daily)"
                 - "Sit the last full past paper about a week before the exam"
                 - "Stop starting new material in the final three days"
             - name: English B exam day kit and morning plan
               description: |-
                 ## Purpose
-                Small things go wrong on exam mornings: a missing candidate number, no spare pen, a late taxi, no breakfast. Planning the kit, the route and the morning in advance, and agreeing who does what with a parent, leaves your attention for the paper itself.
+                Small things go wrong on exam mornings: a missing candidate number, no spare pen, a late taxi, no breakfast. Planning the kit, the route and the morning together in advance, and agreeing who does what, leaves your teen's attention for the paper itself.
 
                 ## Milestones
-                1. Exam date, time and centre confirmed from your timetable.
+                1. Exam date, time and centre confirmed from the timetable.
                 2. A kit packed the night before: candidate details, pens, water.
                 3. Transport arranged with a backup, aiming to arrive early.
                 4. A light final revision plan for the morning, quotation cards only.
 
                 ## Notes
-                Check which items your exam centre allows. Phones are not permitted in the exam room.
+                Check which items the exam centre allows. Phones are not permitted in the exam room.
               priority: high
               deadlineOffsetDays: 230
               frontmatter:
                 mode: event
                 output_kind: event-completion
-                success_criteria: "On exam day you arrive early with the full kit, having confirmed date, time and centre in advance."
+                success_criteria: "On exam day your teen arrives early with the full kit, having confirmed date, time and centre in advance."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Confirm your English B exam date, time and centre"
+                - "Confirm the English B exam date, time and centre"
                 - "Pack candidate details, black pens and water the night before"
                 - "Arrange transport with a backup plan"
                 - "Choose the twenty quotation cards for the morning review"
@@ -1084,7 +1086,7 @@ starter_structure:
             - name: Private candidate route through English B
               description: |-
                 ## Purpose
-                Private and adult candidates sit English B without a class or a teacher marking the SBA, and usually take Paper 032, the alternative to the SBA. Confirming that route with your local registrar, getting the set texts and building a self-marking routine with mark schemes and subject reports makes studying alone workable.
+                Private and adult candidates sit English B without a class or a teacher marking the SBA, and usually take Paper 032, the alternative to the SBA. Whether your teen is sitting privately or you are sitting yourself, confirming that route with the local registrar, getting the set texts and building a self-marking routine with mark schemes and subject reports makes studying alone workable.
 
                 ## Milestones
                 1. Registration as a private candidate confirmed with the local registrar.
@@ -1102,14 +1104,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "Contact your local registrar about private candidate registration for English B"
+                - "Contact the local registrar about private candidate registration for English B"
                 - "Read the Paper 032 section of the current syllabus"
                 - "Write a study plan that covers drama, poetry and prose"
                 - "Find a tutor or study partner to mark one essay in three"
             - name: Teacher's scheme of work for the set texts
               description: |-
                 ## Purpose
-                Teachers of English B juggle three genres, SBA supervision and Paper 01 skills in two school years. A scheme of work that sequences each text, builds in timed essays and SBA checkpoints, and leaves the final term for revision, means the course is finished on time rather than squeezed.
+                Teachers of English B juggle three genres, SBA supervision and Paper 01 skills in two school years. A scheme of work that sequences each text, builds in timed essays and SBA checkpoints, and leaves the final term for revision, means the course is finished on time rather than squeezed. If you teach the subject, use it as written; otherwise ask your teen's teacher how the course is sequenced.
 
                 ## Milestones
                 1. A two-year outline placing each set text and genre in a term.
@@ -1132,7 +1134,7 @@ starter_structure:
             - name: Moderated marking of literature essays
               description: |-
                 ## Purpose
-                Marks only help students if they are consistent from teacher to teacher and essay to essay. For a department or a lessons tutor, marking a shared sample against the CXC criteria, comparing marks and agreeing standards each month keeps feedback reliable and predicts final grades more accurately.
+                Marks only help students if they are consistent from teacher to teacher and essay to essay. For a department or a lessons tutor, marking a shared sample against the CXC criteria, comparing marks and agreeing standards each month keeps feedback reliable and predicts final grades more accurately. If your teen has a tutor, share this with them.
 
                 ## Milestones
                 1. A marking rubric based on the CXC criteria shared with every marker.
@@ -1153,7 +1155,7 @@ starter_structure:
             - name: Staging a key scene with the class
               description: |-
                 ## Purpose
-                Students who have performed a scene rarely forget it. For a teacher, having groups stage a short key scene from the set play, with attention to blocking, tone and the audience's reaction, turns dramatic devices from terms into lived experience and gives everyone shared material for essays.
+                Students who have performed a scene rarely forget it. For a teacher, having groups stage a short key scene from the set play, with attention to blocking, tone and the audience's reaction, turns dramatic devices from terms into lived experience and gives everyone shared material for essays. Share the idea with your teen's English teacher, or try a scene at home.
 
                 ## Milestones
                 1. Two or three short key scenes chosen and groups assigned.
@@ -1181,7 +1183,7 @@ starter_structure:
                 1. One short critical essay or study guide chapter read for each set text.
                 2. Two alternative readings of a main character or theme noted for each text.
                 3. Alternative readings used in two essays, signalled clearly.
-                4. Your teacher's view sought on whether the alternatives strengthened the argument.
+                4. The teacher's view sought on whether the alternatives strengthened the argument.
 
                 ## Notes
                 Alternatives must still be argued from the text. Name a reading, then prove it with evidence; do not just quote a critic.
@@ -1189,18 +1191,18 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "Two alternative readings are noted for each set text and used in two marked essays that your teacher judges stronger for them."
+                success_criteria: "Two alternative readings are noted for each set text and used in two marked essays that the teacher judges stronger for them."
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Ask your teacher for one short critical reading on each set text"
+                - "Ask the teacher for one short critical reading on each set text"
                 - "Read one critical essay or guide chapter @recurring(monthly:15)"
                 - "Note two alternative readings of a character or theme per text"
-                - "Use an alternative reading in your next timed essay"
+                - "Use an alternative reading in the next timed essay"
 ---
 
 # CSEC English B (Literature)
 
-This area is for fourth and fifth form students sitting CSEC English B (Literature), and for the parents and teachers behind them. It opens with the foundations (the current syllabus and set texts, the right editions, a first full reading, a baseline essay and a revision timetable), then the weekly routines that build marks, the set texts studied in syllabus order through drama, poetry and prose, exam technique and the SBA, the mock, the final weeks and exam day, plans for particular students, and finally projects for teachers and for students aiming at the top grade.
+This area is for parents and guardians supporting a fourth or fifth form student through CSEC English B (Literature), with projects for teachers and tutors too. It opens with the foundations (the current syllabus and set texts, the right editions, a first full reading, a baseline essay and a revision timetable), then the weekly routines that build marks, the set texts studied in syllabus order through drama, poetry and prose, exam technique and the SBA, the mock, the final weeks and exam day, plans for particular students, and finally projects for teachers and for students aiming at the top grade.
 
-What repeats is a timed essay every Saturday, a poem on Mondays, unseen extract drills on Tuesdays, quotation cards on Wednesdays, a study partner on Thursdays, a glossary test on Fridays, a parent check-in on Sundays and a full practice paper on the 12th of each month. The Purchase decision, Reading queue, Metrics log, Habit tracker and Feedback themes templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a timed essay every Saturday, a poem on Mondays, unseen extract drills on Tuesdays, quotation cards on Wednesdays, a study partner on Thursdays, a glossary quiz on Fridays, your Sunday check-in with your teen and a full practice paper on the 12th of each month. The Purchase decision, Reading queue, Metrics log, Habit tracker and Feedback themes templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

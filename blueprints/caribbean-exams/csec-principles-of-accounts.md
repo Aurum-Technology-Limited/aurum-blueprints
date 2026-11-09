@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-principles-of-accounts
 name: CSEC Principles of Accounts
-description: "A complete CSEC Principles of Accounts plan: the current syllabus and papers, daily double-entry drills, every section from the cash book to payroll, the SBA, timed past papers, the mock, exam day and results."
+description: "A CSEC Principles of Accounts plan for parents and guardians of a teen: the syllabus and papers, daily double-entry drills, every section from the cash book to payroll, the SBA, past papers, the mock, exam day and results."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-principles-of-accounts, student, parent, educator, cxc, csec, accounting, sba]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,15 +25,17 @@ starter_structure:
             - name: Current CSEC Principles of Accounts syllabus and paper format check
               description: |-
                 ## Purpose
-                CXC examines Principles of Accounts through a multiple-choice Paper 01, a written problem-solving Paper 02, and either the SBA as Paper 031 or the alternative Paper 032 for private candidates, and the details change between syllabus editions. One evening with the current syllabus and the CXC timetable means every later project is aimed at the exam you will sit, not the one in an older sibling's textbook.
+                CXC examines Principles of Accounts through a multiple-choice Paper 01, a written problem-solving Paper 02, and either the SBA as Paper 031 or the alternative Paper 032 for private candidates, and the details change between syllabus editions. One evening with the current syllabus and the CXC timetable means every later project is aimed at the exam your teen will sit, not the one in an older sibling's textbook.
 
                 ## Milestones
                 1. The current CSEC Principles of Accounts syllabus downloaded from the CXC website and its edition year noted.
                 2. The format of Paper 01, Paper 02 and Paper 031 or 032 written on one page in the syllabus's own words.
                 3. All fourteen syllabus sections listed, from the introduction to payroll accounting, so each topic project here matches one.
-                4. The May to June sitting confirmed with your school and the accounts exam date noted once the timetable is out.
+                4. The May to June sitting confirmed with the school and the accounts exam date noted once the timetable is out.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CSEC Principles of Accounts, and an older student can follow it with a parent's support.
+
                 Revision guides and photocopied notes can lag a syllabus change by several years. Where they disagree with the CXC document, the CXC document wins.
               priority: high
               deadlineOffsetDays: 10
@@ -45,13 +47,13 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Check the current syllabus and timetable on the CXC website and note the paper format"
-                - "Write the syllabus edition year inside the cover of your accounts folder"
+                - "Write the syllabus edition year inside the cover of the accounts folder"
                 - "List the fourteen syllabus sections on one page in syllabus order"
-                - "Ask your teacher which sitting and SBA arrangement the school uses"
+                - "Ask the teacher which sitting and SBA arrangement the school uses"
             - name: Diagnostic Paper 01 for Principles of Accounts
               description: |-
                 ## Purpose
-                Sitting one multiple-choice paper early, without notes, shows which ideas you already hold (debit and credit, assets and liabilities) and which are guesswork. Sorting the wrong answers by syllabus section turns a general fear of accounts into three named topics to fix first.
+                Sitting one multiple-choice paper early, without notes, shows which ideas your teen already holds (debit and credit, assets and liabilities) and which are guesswork. Sorting the wrong answers by syllabus section together turns a general fear of accounts into three named topics to fix first.
 
                 ## Milestones
                 1. One past or specimen Paper 01 completed in one sitting without notes.
@@ -67,17 +69,17 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Get a past or specimen Paper 01 from your teacher or the CXC online store"
+                - "Get a past or specimen Paper 01 from the teacher or the CXC online store"
                 - "Sit the paper in one go with only a calculator"
                 - "Mark it and tally the wrong answers by syllabus section"
                 - "Circle the three sections with the most errors"
             - name: Two-year Principles of Accounts study plan
               description: |-
                 ## Purpose
-                Most schools spread CSEC Principles of Accounts over Forms Four and Five, with the SBA running through the second year and the exam in May or June. A month-by-month plan that places each section, the SBA deadlines and the revision weeks stops the usual crush where partnerships, companies and payroll are still untouched at Easter.
+                Most schools spread CSEC Principles of Accounts over Forms Four and Five, with the SBA running through the second year and the exam in May or June. A month-by-month plan that places each section, the SBA deadlines and the revision weeks stops the usual crush where partnerships, companies and payroll are still untouched at Easter. It also shows you in advance which months will be the busy ones at home.
 
                 ## Milestones
-                1. Every syllabus section placed in a month, following your school's teaching order.
+                1. Every syllabus section placed in a month, following the school's teaching order.
                 2. SBA milestones and the submission date marked from the school calendar.
                 3. Mock exam weeks and the final eight weeks of revision blocked out.
                 4. The plan pinned where it is seen every day.
@@ -90,14 +92,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for the scheme of work for both years"
+                - "Ask the teacher for the scheme of work for both years"
                 - "Place each syllabus section in the month it will be taught"
                 - "Mark the SBA dates and mock exam weeks on the plan"
                 - "Compare where the class is against the plan @recurring(monthly:26)"
             - name: Accounts stationery, ruled paper and calculator kit
               description: |-
                 ## Purpose
-                Layout earns marks in accounts answers, and a T-account drawn freehand on lined paper drifts within three entries. Having ledger and columnar paper, a ruler, two pens and an approved calculator in one pouch removes a small daily obstacle to practice.
+                Layout earns marks in accounts answers, and a T-account drawn freehand on lined paper drifts within three entries. Having ledger and columnar paper, a ruler, two pens and an approved calculator in one pouch removes a small daily obstacle to practice, and is one of the easiest ways for a parent to help.
 
                 ## Milestones
                 1. A pad of ledger or columnar paper and a ruler in the accounts folder.
@@ -113,7 +115,7 @@ starter_structure:
                 effort_hours_estimate: "1"
               tasks:
                 - "Buy a pad of ledger paper or ask the school bookshop for columnar sheets"
-                - "Check the CXC calculator rules and test your calculator against them"
+                - "Check the CXC calculator rules and test the calculator against them"
                 - "Divide the folder into notes, examples, past papers and SBA"
                 - "Print five blank cash book and trial balance formats"
             - name: Headings, layout and method marks in accounts answers
@@ -137,7 +139,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Copy a correctly headed income statement from your textbook onto one page"
+                - "Copy a correctly headed income statement from the textbook onto one page"
                 - "Write model headings for a trial balance and a statement of financial position"
                 - "Rework one old answer showing every working beneath it"
                 - "Compare that answer with the mark scheme and note where method marks sit"
@@ -158,7 +160,7 @@ starter_structure:
                 success_criteria: "Two practice sessions a week, each with a completed question, recorded for at least six consecutive weeks."
                 cadence: rolling
               tasks:
-                - "Choose two weekly slots and tell the people you live with"
+                - "Agree two weekly slots with your teen and tell the rest of the household"
                 - "Write a rotation of sections so older ones come back monthly"
                 - "Work one full question in exam format each session @recurring(weekly:tue,sat)"
                 - "Tick the session off on the study plan when it is done"
@@ -182,7 +184,7 @@ starter_structure:
                 success_criteria: "Thirty days of five-transaction drills marked on a tracker, with returns, discounts and drawings entries answered correctly."
                 cadence: rolling
               tasks:
-                - "Copy twenty transaction lines from your textbook onto cards"
+                - "Copy twenty transaction lines from the textbook onto cards"
                 - "Set up a habit tracker for the daily drill"
                 - "Write the debit and credit for five transactions @recurring(daily)"
                 - "Add new transaction types as each section is taught"
@@ -234,7 +236,7 @@ starter_structure:
             - name: Monthly Paper 02 problem-solving question practice
               description: |-
                 ## Purpose
-                Long Paper 02 questions test whether you can carry a messy set of figures through to a balanced statement under time. Doing one past-paper question a month in full, then marking it strictly against the mark scheme, builds stamina and shows where the format or the arithmetic slips.
+                Long Paper 02 questions test whether your teen can carry a messy set of figures through to a balanced statement under time. Doing one past-paper question a month in full, then marking it strictly against the mark scheme, builds stamina and shows where the format or the arithmetic slips.
 
                 ## Milestones
                 1. Past Paper 02 questions sorted by syllabus section.
@@ -248,7 +250,7 @@ starter_structure:
                 success_criteria: "Six or more Paper 02 questions completed under time and marked against mark schemes, with repeated slips listed."
                 cadence: rolling
               tasks:
-                - "Sort your past Paper 02 questions into folders by section"
+                - "Sort the past Paper 02 questions into folders by section"
                 - "Attempt one full Paper 02 question in exam time @recurring(monthly:22)"
                 - "Mark the answer line by line against the mark scheme"
                 - "Add any repeated slip to the mistakes log"
@@ -273,13 +275,13 @@ starter_structure:
                 - "Review the log and highlight repeats @recurring(weekly:fri)"
                 - "Rework three logged mistakes from a blank page @recurring(monthly:28)"
                 - "Cross off an error once it has stayed fixed for a month"
-            - name: Termly progress review with your accounts teacher
+            - name: Termly progress review with the accounts teacher
               description: |-
                 ## Purpose
-                Teachers see patterns in your scripts that you cannot, and a short planned conversation each term catches a weak section or an SBA delay while there is time to act. Bringing your scores and mistakes log makes the talk concrete rather than a general 'try harder'.
+                Teachers see patterns in your teen's scripts that neither of you can, and a short planned conversation each term catches a weak section or an SBA delay while there is time to act. Bringing the scores and mistakes log makes the talk concrete rather than a general 'try harder'.
 
                 ## Milestones
-                1. A ten-minute slot booked with your teacher each term.
+                1. A ten-minute slot booked with the teacher each term.
                 2. Recent Paper 01 scores and the mistakes log brought along.
                 3. Two agreed actions written down at the end of the talk.
                 4. The actions checked at the start of the next review.
@@ -293,10 +295,10 @@ starter_structure:
                 success_criteria: "A note from each term's review lists the scores discussed and two agreed actions, with last term's actions marked done or not."
                 cadence: cyclic
               tasks:
-                - "Ask your teacher for ten minutes in the first weeks of term"
-                - "Bring your score log and mistakes log to the meeting"
-                - "Write down two agreed actions before you leave"
-                - "Hold the review with your accounts teacher @recurring(quarterly)"
+                - "Ask the teacher for ten minutes in the first weeks of term"
+                - "Bring the score log and mistakes log to the meeting"
+                - "Write down two agreed actions before leaving"
+                - "Hold the review with the accounts teacher @recurring(quarterly)"
             - name: Users of accounts, forms of business and accounting concepts
               description: |-
                 ## Purpose
@@ -328,7 +330,7 @@ starter_structure:
                 ## Milestones
                 1. The accounting equation rearranged to find any missing item.
                 2. The effect of ten transactions on the equation shown in a table.
-                3. Assets and liabilities classified as current or non-current in order of permanence or liquidity, as your syllabus requires.
+                3. Assets and liabilities classified as current or non-current in order of permanence or liquidity, as the syllabus requires.
                 4. A classified statement of financial position prepared from a list of balances.
                 5. Past-paper questions on this section attempted and marked.
               priority: medium
@@ -342,7 +344,7 @@ starter_structure:
                 - "Show how ten transactions change assets, liabilities and capital"
                 - "Classify a list of twenty items as current or non-current"
                 - "Prepare a classified statement of financial position from a textbook list"
-                - "Work out working capital from your finished statement"
+                - "Work out working capital from the finished statement"
                 - "Attempt and mark the past-paper questions on this section"
             - name: Source documents and the books of original entry
               description: |-
@@ -456,7 +458,7 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Balance ten ledger accounts with c/d and b/d entries"
-                - "Extract a trial balance from your posted ledgers"
+                - "Extract a trial balance from the posted ledgers"
                 - "List six errors the trial balance will not reveal"
                 - "Attempt and mark two past-paper trial balance questions"
             - name: Income statement and statement of financial position for a sole trader
@@ -485,7 +487,7 @@ starter_structure:
             - name: Ratios and interpreting a sole trader's results
               description: |-
                 ## Purpose
-                Preparing statements is only half of this section, because the syllabus also asks you to analyse them. Ratios such as gross profit margin, mark-up, net profit percentage, current ratio, rate of inventory turnover and return on capital employed let you say whether a business is doing well, and written comments on them are where many candidates drop easy marks.
+                Preparing statements is only half of this section, because the syllabus also asks candidates to analyse them. Ratios such as gross profit margin, mark-up, net profit percentage, current ratio, rate of inventory turnover and return on capital employed let your teen say whether a business is doing well, and written comments on them are where many candidates drop easy marks.
 
                 ## Milestones
                 1. Each ratio in the current syllabus written with its formula.
@@ -500,18 +502,18 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A ratio sheet with every syllabus formula and a two-year comparison with written comments, checked by your teacher."
+                success_criteria: "A ratio sheet with every syllabus formula and a two-year comparison with written comments, checked by the teacher."
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
                 - "Write each syllabus ratio and its formula on one card"
                 - "Work out mark-up and margin for the same sale"
                 - "Calculate and compare ratios for two years of one business"
-                - "Ask the agent to quiz you on what each ratio change could mean"
+                - "Ask the agent for a quiz on what each ratio change could mean"
             - name: Accruals and prepayments at the year end
               description: |-
                 ## Purpose
-                Expenses and income rarely line up with the financial year: rent is paid in advance, electricity is owed, commission is still to come in. The matching of accruals and prepayments is a standard adjustment in final accounts questions, and it is easier once you can draw the expense account showing both.
+                Expenses and income rarely line up with the financial year: rent is paid in advance, electricity is owed, commission is still to come in. The matching of accruals and prepayments is a standard adjustment in final accounts questions, and it is easier once your teen can draw the expense account showing both.
 
                 ## Milestones
                 1. Accrued and prepaid expenses explained with the matching concept.
@@ -527,7 +529,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Explain accruals and prepayments in your own words on one card"
+                - "Explain accruals and prepayments in plain words on one card"
                 - "Draw a rent account with a prepayment at the year end"
                 - "Draw an electricity account with an amount owing"
                 - "Attempt and mark two past-paper adjustment questions"
@@ -557,7 +559,7 @@ starter_structure:
             - name: Bad debts and the provision for doubtful debts
               description: |-
                 ## Purpose
-                Not every credit customer pays, and accounts must say so honestly. Writing off bad debts, recovering one later and setting, raising or lowering a provision for doubtful debts are adjustments that appear in final accounts questions and test whether you understand prudence.
+                Not every credit customer pays, and accounts must say so honestly. Writing off bad debts, recovering one later and setting, raising or lowering a provision for doubtful debts are adjustments that appear in final accounts questions and test whether candidates understand prudence.
 
                 ## Milestones
                 1. Bad debts written off with the correct journal entry.
@@ -671,7 +673,7 @@ starter_structure:
             - name: Incomplete records and statements of affairs
               description: |-
                 ## Purpose
-                Many small Caribbean businesses, a parlour or a market stall, keep only a cash book and some receipts. The incomplete records section asks you to work out profit from changes in capital using statements of affairs, and to rebuild sales and purchases figures from cash records, which tests whether you understand accounts rather than just formats.
+                Many small Caribbean businesses, a parlour or a market stall, keep only a cash book and some receipts. The incomplete records section asks candidates to work out profit from changes in capital using statements of affairs, and to rebuild sales and purchases figures from cash records, which tests whether they understand accounts rather than just formats.
 
                 ## Milestones
                 1. Opening and closing statements of affairs prepared to find capital.
@@ -698,7 +700,7 @@ starter_structure:
 
                 ## Milestones
                 1. The usual contents of a partnership agreement listed.
-                2. The rules that apply without an agreement noted from your textbook and the partnership law it cites.
+                2. The rules that apply without an agreement noted from the textbook and the partnership law it cites.
                 3. An appropriation account prepared with interest, salaries and the residual profit shared.
                 4. A loss case handled where the profit does not cover the salaries and interest.
                 5. Past-paper appropriation questions attempted and marked.
@@ -711,7 +713,7 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "List what a partnership agreement usually covers"
-                - "Note the default rules your textbook gives when there is no agreement"
+                - "Note the default rules the textbook gives when there is no agreement"
                 - "Prepare an appropriation account for a two-partner business"
                 - "Attempt and mark one past-paper appropriation question"
             - name: Partners' capital and current accounts
@@ -763,12 +765,12 @@ starter_structure:
             - name: Co-operative society accounts and the use of the surplus
               description: |-
                 ## Purpose
-                Co-operatives, from credit unions to farmers' and fishermen's co-ops, are a familiar part of Caribbean business, and the syllabus gives them their own section. Learning how a co-operative is owned, how members' shares work and how the surplus is shared out, as your textbook and the syllabus set out, completes the picture of business forms.
+                Co-operatives, from credit unions to farmers' and fishermen's co-ops, are a familiar part of Caribbean business, and the syllabus gives them their own section. Learning how a co-operative is owned, how members' shares work and how the surplus is shared out, as the textbook and the syllabus set out, completes the picture of business forms.
 
                 ## Milestones
                 1. The principles and ownership of a co-operative set out in a short note.
                 2. Co-operatives compared with companies and partnerships.
-                3. The distribution of a surplus shown as your syllabus describes it.
+                3. The distribution of a surplus shown as the syllabus describes it.
                 4. Co-operative statements prepared from a textbook example.
                 5. Past-paper co-operative questions attempted and marked.
               priority: low
@@ -779,7 +781,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "3"
               tasks:
-                - "Name one co-operative or credit union in your community"
+                - "Together, name a co-operative or credit union in the community, perhaps one the family uses"
                 - "Write how members own and control a co-operative"
                 - "Work through one textbook surplus distribution example"
                 - "Attempt and mark the co-operative questions in recent past papers"
@@ -832,11 +834,11 @@ starter_structure:
             - name: Payroll with gross pay, statutory deductions and net pay
               description: |-
                 ## Purpose
-                Payroll is the last section of the syllabus and among the most practical: working out gross pay by time rate, overtime, piece rate or commission, then statutory and voluntary deductions to reach net pay. Statutory deductions differ by country (national insurance and income tax everywhere, plus items such as Jamaica's NHT and education tax or Trinidad and Tobago's health surcharge), so learn the ones your textbook and teacher use.
+                Payroll is the last section of the syllabus and among the most practical: working out gross pay by time rate, overtime, piece rate or commission, then statutory and voluntary deductions to reach net pay. Statutory deductions differ by country (national insurance and income tax everywhere, plus items such as Jamaica's NHT and education tax or Trinidad and Tobago's health surcharge), so your teen should learn the ones their textbook and teacher use.
 
                 ## Milestones
                 1. Time rate, overtime, piece rate and commission calculated for sample workers.
-                2. Statutory and voluntary deductions listed, with the ones used in your country noted from your textbook.
+                2. Statutory and voluntary deductions listed, with the ones used in your country noted from the textbook.
                 3. A payroll register completed for a small staff.
                 4. A pay slip written for one employee and the journal entries for wages recorded.
                 5. Past-paper payroll questions attempted and marked.
@@ -852,23 +854,23 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Calculate gross pay for four workers paid in four different ways"
-                - "List the statutory deductions your textbook uses for your country"
+                - "List the statutory deductions the textbook uses for your country"
                 - "Complete a payroll register for a small staff"
                 - "Attempt and mark one past-paper payroll question"
             - name: Choosing the SBA business and setting up its records
               description: |-
                 ## Purpose
-                The Principles of Accounts SBA is built around the records of a small business, real or simulated, as your teacher's brief sets out. Choosing a business you understand (a snackette, a car wash, a tuck shop) and setting up its documents, books and chart of accounts early makes the rest of the SBA steady work instead of a last-month scramble.
+                The Principles of Accounts SBA is built around the records of a small business, real or simulated, as the teacher's brief sets out. Choosing a business your teen understands (a snackette, a car wash, a tuck shop) and setting up its documents, books and chart of accounts early makes the rest of the SBA steady work instead of a last-month scramble.
 
                 ## Milestones
-                1. The current SBA guidelines read from the syllabus and your teacher's brief.
-                2. A business chosen and approved by your teacher.
+                1. The current SBA guidelines read from the syllabus and the teacher's brief.
+                2. A business chosen and approved by the teacher.
                 3. A list of the documents, books and ledgers the SBA needs.
                 4. Opening balances and a chart of accounts written up.
-                5. SBA dates copied into your study plan.
+                5. SBA dates copied into the study plan.
 
                 ## Notes
-                Choose a business with simple, regular transactions. An unusual business makes the accounts harder without adding marks.
+                Encourage a business with simple, regular transactions. An unusual business makes the accounts harder without adding marks.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
@@ -878,21 +880,21 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Read the SBA section of the syllabus and your teacher's brief"
-                - "Shortlist two businesses you know well enough to describe"
-                - "Get your teacher's approval for the chosen business"
+                - "Read the SBA section of the syllabus and the teacher's brief"
+                - "Shortlist two businesses your teen knows well enough to describe"
+                - "Get the teacher's approval for the chosen business"
                 - "Write the chart of accounts and opening balances"
             - name: Recording SBA transactions and preparing its final accounts
               description: |-
                 ## Purpose
-                Once the business is set, the SBA asks you to take its transactions from documents through the books of original entry, the ledgers and the trial balance to final accounts, often with analysis. Working weekly, rather than in one weekend, keeps errors small and leaves time for your teacher to comment on a draft.
+                Once the business is set, the SBA asks your teen to take its transactions from documents through the books of original entry, the ledgers and the trial balance to final accounts, often with analysis. Working weekly, rather than in one weekend, keeps errors small and leaves time for the teacher to comment on a draft.
 
                 ## Milestones
                 1. Source documents prepared or collected for the period set.
                 2. Books of original entry and ledgers written up and balanced.
                 3. A trial balance that agrees.
                 4. Final accounts and any required analysis drafted.
-                5. A draft handed to your teacher for comments by the school's date.
+                5. A draft handed to the teacher for comments by the school's date.
               priority: medium
               deadlineOffsetDays: 120
               frontmatter:
@@ -905,11 +907,11 @@ starter_structure:
                 - "Prepare or gather the source documents for the SBA period"
                 - "Post the week's SBA transactions to the books and ledgers @recurring(weekly:mon)"
                 - "Extract the SBA trial balance and trace any difference"
-                - "Hand the draft to your teacher by the school's date"
+                - "Hand the draft to the teacher by the school's date"
             - name: Final SBA check and submission
               description: |-
                 ## Purpose
-                A finished SBA can still lose marks for missing headings, a cover sheet without the candidate number or teacher comments left unaddressed. A final check against the syllabus criteria and the school's submission rules makes sure the work you did is the work that gets marked.
+                A finished SBA can still lose marks for missing headings, a cover sheet without the candidate number or teacher comments left unaddressed. A final check against the syllabus criteria and the school's submission rules makes sure the work your teen did is the work that gets marked.
 
                 ## Milestones
                 1. Every teacher comment on the draft addressed.
@@ -926,7 +928,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "List every comment your teacher wrote on the draft"
+                - "List every comment the teacher wrote on the draft"
                 - "Fix each comment and tick it off the list"
                 - "Check the SBA against the syllabus assessment criteria"
                 - "Complete the cover sheet and submit before the deadline"
@@ -939,7 +941,7 @@ starter_structure:
                 1. The last three Principles of Accounts subject reports downloaded.
                 2. Common weaknesses from each report listed by syllabus section.
                 3. Two mark schemes studied to see how method marks are given.
-                4. A one-page 'examiners say' sheet kept with your revision notes.
+                4. A one-page 'examiners say' sheet kept with the revision notes.
               priority: medium
               frontmatter:
                 mode: research
@@ -955,10 +957,10 @@ starter_structure:
             - name: Full Principles of Accounts mock exam under exam conditions
               description: |-
                 ## Purpose
-                Most schools run a mock in the months before the exam, and treating it as the real thing is the best rehearsal you will get. Sitting both papers in one session, in the exam timings, then going through the marked scripts tells you exactly what to fix in the final weeks.
+                Most schools run a mock in the months before the exam, and treating it as the real thing is the best rehearsal your teen will get. Sitting both papers in one session, in the exam timings, then going through the marked scripts tells them exactly what to fix in the final weeks.
 
                 ## Milestones
-                1. The mock dates confirmed with your school.
+                1. The mock dates confirmed with the school.
                 2. Both papers sat under timed conditions with only the permitted equipment.
                 3. Marked scripts reviewed question by question.
                 4. The three biggest losses turned into revision targets.
@@ -971,7 +973,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Confirm the mock exam dates with your school"
+                - "Confirm the mock exam dates with the school"
                 - "Pack the calculator, ruler and pens the night before"
                 - "Go through the marked scripts question by question"
                 - "Write the three biggest mark losses as revision targets"
@@ -1024,7 +1026,7 @@ starter_structure:
             - name: CSEC Principles of Accounts exam day plan
               description: |-
                 ## Purpose
-                On the day, small things cost marks: a flat calculator, arriving flustered, spending too long on the first question. Planning the morning, the equipment and how you will use reading and writing time means your head is free for the accounts.
+                On the day, small things cost marks: a flat calculator, arriving flustered, spending too long on the first question. Planning the morning, the equipment and how they will use reading and writing time means your teen's head is free for the accounts.
 
                 ## Milestones
                 1. Candidate number, centre and start time confirmed.
@@ -1043,14 +1045,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Check your candidate number, exam centre and start time"
+                - "Check the candidate number, exam centre and start time"
                 - "Pack the approved calculator and spare battery the night before"
                 - "Write a minutes-per-question plan for each paper"
                 - "Plan transport to arrive at least thirty minutes early"
             - name: Parent support for a CSEC accounts student
               description: |-
                 ## Purpose
-                Parents do not need to know double entry to help. A quiet table, a weekly check-in on the study plan, knowing the SBA dates and noticing when a teen is stuck on one section for weeks are what make the difference, especially for a child balancing several SBAs at once.
+                Parents do not need to know double entry to help. A quiet table, a weekly check-in on the study plan, knowing the SBA dates and noticing when a teen is stuck on one section for weeks are what make the difference, especially for a teen balancing several SBAs at once.
 
                 ## Milestones
                 1. A quiet study space with room to spread out ledger paper.
@@ -1071,10 +1073,10 @@ starter_structure:
             - name: Family business or household cash book at home
               description: |-
                 ## Purpose
-                Real figures make accounts click faster. A parent and child keeping a simple cash book for a family side business, a church fundraiser or the household groceries for a month gives practice in recording, balancing and asking what the numbers mean, with no exam pressure.
+                Real figures make accounts click faster. You and your teen keeping a simple cash book for a family side business, a church fundraiser or the household groceries for a month gives practice in recording, balancing and asking what the numbers mean, with no exam pressure.
 
                 ## Milestones
-                1. A real activity chosen with a parent or guardian.
+                1. A real activity chosen together.
                 2. A simple cash book ruled up for the month.
                 3. Every receipt and payment for the month recorded and balanced.
                 4. A short talk about what the month's figures show.
@@ -1086,14 +1088,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Agree with a parent which activity to keep accounts for"
+                - "Agree with your teen which activity to keep accounts for"
                 - "Rule up a two-column cash book for one month"
                 - "Record the week's receipts and payments @recurring(weekly:sat)"
                 - "Balance the cash book at month end and discuss it together"
             - name: Teacher or tutor tracker for a CSEC accounts class
               description: |-
                 ## Purpose
-                A teacher or lessons tutor with a class of twenty to thirty needs to see who is behind on which section and whose SBA is drifting. A simple tracker of sections taught, quiz scores by student and SBA stages turns termly reports and parent meetings into specific conversations.
+                A teacher or lessons tutor with a class of twenty to thirty needs to see who is behind on which section and whose SBA is drifting. A simple tracker of sections taught, quiz scores by student and SBA stages turns termly reports and parent meetings into specific conversations. If your teen has a lessons tutor, this is a useful project to share with them.
 
                 ## Milestones
                 1. A grid of students against the fourteen syllabus sections.
@@ -1117,7 +1119,7 @@ starter_structure:
             - name: Paper 032 alternative for private Principles of Accounts candidates
               description: |-
                 ## Purpose
-                Private candidates without a school to supervise an SBA sit the alternative paper, Paper 032, instead. Preparing for it means practising the same skills the SBA tests, recording and preparing statements for a small business, under exam conditions, using past Paper 032s and the syllabus description.
+                Private candidates without a school to supervise an SBA sit the alternative paper, Paper 032, instead. Preparing for it means practising the same skills the SBA tests, recording and preparing statements for a small business, under exam conditions, using past Paper 032s and the syllabus description. If your teen is sitting privately, this project takes the place of the SBA projects above.
 
                 ## Milestones
                 1. Registration as a private candidate confirmed with the local registrar.
@@ -1132,7 +1134,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "Confirm your private candidate registration with the local registrar"
+                - "Confirm the private candidate registration with the local registrar"
                 - "Check the Paper 032 format in the current syllabus"
                 - "Gather past Paper 032s from the CXC store or a study group"
                 - "Sit and mark two Paper 032s under time"
@@ -1157,7 +1159,7 @@ starter_structure:
                 - "Work out a time target per long question from the paper format"
                 - "Attempt one long combined question in strict time @recurring(monthly:18)"
                 - "Rewrite one ratio comment so it quotes the figures"
-                - "Ask your teacher to mark one answer as strictly as an examiner"
+                - "Ask the teacher to mark one answer as strictly as an examiner"
             - name: Results, review requests and the next step after CSEC Principles of Accounts
               description: |-
                 ## Purpose
@@ -1167,7 +1169,7 @@ starter_structure:
                 1. The result slip read, including the profile grades.
                 2. The review process and deadline checked on the CXC website if a review is considered.
                 3. A decision made on the next step: CAPE Accounting, a technician qualification, a resit or work.
-                4. The decision discussed with a parent and a teacher.
+                4. The decision talked through with your teen and a teacher.
               priority: medium
               deadlineOffsetDays: 330
               frontmatter:
@@ -1177,14 +1179,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Read your result slip and note the profile grades"
-                - "Check the CXC review process and deadline if you are considering one"
-                - "List the next-step options open with your grade"
-                - "Talk the options through with a parent and a teacher"
+                - "Read the result slip and note the profile grades"
+                - "Check the CXC review process and deadline if one is being considered"
+                - "List the next-step options open with the grade achieved"
+                - "Talk the options through with your teen and a teacher"
 ---
 
 # CSEC Principles of Accounts
 
-This area takes a CSEC Principles of Accounts student from the first syllabus check to results day, in the order CXC sets out the subject. It opens with the foundations (the current syllabus, a diagnostic paper, a two-year plan and clean answer layout), sets up the drills and practice routines, then works through the syllabus sections in turn, from the accounting equation, source documents and the cash book, through ledgers, the trial balance, final accounts and year-end adjustments, to control systems, incomplete records, partnerships, companies, co-operatives, clubs, manufacturing and payroll, before the SBA, exam technique, the mock and exam day, with projects for parents, teachers and private candidates at the end.
+This area helps a parent or guardian support a CSEC Principles of Accounts student from the first syllabus check to results day, in the order CXC sets out the subject. It opens with the foundations (the current syllabus, a diagnostic paper, a two-year plan and clean answer layout), sets up the drills and practice routines, then works through the syllabus sections in turn, from the accounting equation, source documents and the cash book, through ledgers, the trial balance, final accounts and year-end adjustments, to control systems, incomplete records, partnerships, companies, co-operatives, clubs, manufacturing and payroll, before the SBA, exam technique, the mock and exam day, with parent support projects and projects for teachers and private candidates at the end.
 
-The rhythm is two practice sessions a week, a ten-minute daily double-entry drill, a weekly mistakes review, a monthly timed Paper 01 and a monthly long Paper 02 question, and a termly talk with your teacher. The Habit tracker, Metrics log, Meeting notes and Skills matrix templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is two practice sessions a week, a ten-minute daily double-entry drill, a weekly mistakes review, a monthly timed Paper 01 and a monthly long Paper 02 question, and a termly talk with the teacher. The Habit tracker, Metrics log, Meeting notes and Skills matrix templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

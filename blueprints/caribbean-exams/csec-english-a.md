@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-english-a
 name: CSEC English A
-description: "A full CSEC English A plan: the current paper format, a diagnostic, weekly summary, comprehension and timed writing routines, each syllabus skill in turn, the SBA from theme to submission, past papers, the mock and exam day."
+description: "A CSEC English A plan for parents and guardians supporting a teen: the paper format, a diagnostic, weekly summary, comprehension and writing routines, the SBA, past papers and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-english-a, cxc, csec, english, student, parent, educator]
@@ -17,7 +17,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -27,43 +27,45 @@ starter_structure:
             - name: Current CSEC English A syllabus and paper format check
               description: |-
                 ## Purpose
-                CXC revises its syllabuses, and the English A that older cousins or second-hand revision guides describe may not be the one you will sit. An hour with the current syllabus and the CXC timetable tells you which papers exist, what Paper 01, Paper 02 and the SBA each test, and when your sitting falls, so every hour of practice after this rehearses the real exam.
+                CXC revises its syllabuses, and the English A that older cousins or second-hand revision guides describe may not be the one your teen will sit. An hour with the current syllabus and the CXC timetable, ideally side by side with your teen, shows which papers exist, what Paper 01, Paper 02 and the SBA each test, and when the sitting falls, so every hour of practice after this rehearses the real exam.
 
                 ## Milestones
-                1. The current CSEC English A syllabus downloaded from the CXC website and saved where you study.
-                2. Each paper (Paper 01, Paper 02, and Paper 031 for the SBA or Paper 032 for private candidates) listed on one page with what it tests, in your own words.
+                1. The current CSEC English A syllabus downloaded from the CXC website and saved where your teen studies.
+                2. Each paper (Paper 01, Paper 02, and Paper 031 for the SBA or Paper 032 for private candidates) listed on one page with what it tests, in plain words.
                 3. The profiles the syllabus assesses, such as understanding and expression, noted with the sections that sit under each.
-                4. Your sitting confirmed, either the May to June main sitting or the January sitting, with the date taken from the published timetable.
-                5. The one-page summary checked by your English teacher.
+                4. The sitting confirmed with the school, either the May to June main sitting or the January sitting, with the date taken from the published timetable.
+                5. The one-page summary checked by the English teacher.
 
                 ## Notes
-                Take paper durations, question numbers and mark weightings only from the current syllabus or your school, never from an old revision book. If anything is unclear, ask your teacher before building a timetable on it.
+                This plan is for a parent or guardian supporting a teenager through CSEC English A, and an older student can follow it with a parent's support.
+
+                Take paper durations, question numbers and mark weightings only from the current syllabus or the school, never from an old revision book. Confirm with the school which sitting your teen is entered for, and if anything is unclear, ask the teacher before building a timetable on it.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A one-page summary of the current English A papers and your exam date, taken from the CXC syllabus and timetable, is saved and checked by your teacher."
+                success_criteria: "A one-page summary of the current English A papers and your teen's exam date, taken from the CXC syllabus and timetable, is saved and checked by the teacher."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Check the current syllabus and timetable on the CXC website and note the English A paper format"
+                - "Together, check the current syllabus and timetable on the CXC website and note the English A paper format"
                 - "Write each paper and what it tests on one page"
-                - "Note your English A exam date from the published timetable"
-                - "Ask your English teacher to confirm the summary is right"
+                - "Note the English A exam date from the published timetable"
+                - "Ask the English teacher to confirm the summary is right"
             - name: Diagnostic English A paper and starting profile
               description: |-
                 ## Purpose
-                Before deciding where the year's effort goes, find out where marks are leaking. One recent past paper set, written at home and marked against the mark scheme, shows whether comprehension, summary, the story or the essay is costing most, and whether the cause is misreading questions, grammar or simply running out of time.
+                Before deciding where the year's effort goes, it helps to find out where your teen's marks are leaking. One recent past paper set, written at home and marked against the mark scheme, shows whether comprehension, summary, the story or the essay is costing most, and whether the cause is misreading questions, grammar or simply running out of time.
 
                 ## Milestones
                 1. One recent past paper set that matches the current format written at home, each paper in a single sitting.
-                2. Every answer marked against the CXC mark scheme or by your teacher.
+                2. Every answer marked against the CXC mark scheme or by the teacher.
                 3. Lost marks sorted under comprehension, summary, story, essay, grammar and time.
                 4. A starting score and the three weakest areas written at the front of the error notebook.
 
                 ## Notes
-                Do not chase speed on this first attempt. Note where you ran short of time, but finish every question so the picture is honest.
+                Speed does not matter on this first attempt. Note where time ran short, but encourage your teen to finish every question so the picture is honest.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -75,47 +77,47 @@ starter_structure:
               tasks:
                 - "Choose a recent past paper set that matches the current format"
                 - "Write the papers on two quiet afternoons in the same week"
-                - "Mark the answers with the mark scheme or hand them to your teacher"
-                - "Record your starting score and three weakest areas in the error notebook"
+                - "Mark the answers with the mark scheme or hand them to the teacher"
+                - "Record the starting score and three weakest areas in the error notebook"
             - name: English A study timetable to the exam sitting
               description: |-
                 ## Purpose
-                English A is required for most sixth form places, college programmes and many jobs, yet it is often squeezed out by subjects with more content to memorise. A written weekly timetable that gives it fixed slots for reading, summary, comprehension and writing, counted back from the exam date and the SBA deadlines, stops it being left to the last month.
+                English A is required for most sixth form places, college programmes and many jobs, yet it is often squeezed out by subjects with more content to memorise. A written weekly timetable, drafted by your teen and checked with you, that gives it fixed slots for reading, summary, comprehension and writing, counted back from the exam date and the SBA deadlines, stops it being left to the last month.
 
                 ## Milestones
                 1. The exam date and every SBA deadline marked on a wall or phone calendar.
                 2. Three to five fixed English A slots a week written in around school, lessons and chores.
                 3. Each slot labelled with its job: reading, summary, comprehension, writing or SBA.
                 4. Blocks reserved for the mock, the last past paper and the final four weeks.
-                5. The timetable checked by a parent or teacher and pinned where you study.
+                5. The timetable checked by you or the teacher and pinned where your teen studies.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A weekly timetable with at least three labelled English A slots, the exam date and SBA deadlines is pinned where the student works."
+                success_criteria: "A weekly timetable with at least three labelled English A slots, the exam date and SBA deadlines is pinned where your teen works."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Mark the exam date and SBA deadlines on your calendar"
-                - "Choose three to five fixed weekly slots for English A"
+                - "Mark the exam date and SBA deadlines on the family calendar"
+                - "Agree three to five fixed weekly slots for English A with your teen"
                 - "Label each slot with reading, summary, comprehension, writing or SBA"
-                - "Show the timetable to a parent or your teacher"
+                - "Ask your teen to talk you through the timetable"
                 - "Adjust the timetable for the month ahead @recurring(monthly:3)"
             - name: Past papers, mark schemes and subject reports pack
               description: |-
                 ## Purpose
-                Past papers are only half the value: the mark schemes show what earns marks, and the subject reports CXC publishes after each sitting show where candidates lost them. Gathering several years of all three into one folder, in date order, means every later practice session can be marked properly instead of guessed at.
+                Past papers are only half the value: the mark schemes show what earns marks, and the subject reports CXC publishes after each sitting show where candidates lost them. Gathering several years of all three into one folder, in date order, means every later practice session can be marked properly instead of guessed at. Buying missing papers and keeping the folder in order is a practical job you can take on.
 
                 ## Milestones
-                1. Past papers from at least the last five sittings gathered from the CXC store, your school or the library.
+                1. Past papers from at least the last five sittings gathered from the CXC store, the school or the library.
                 2. The matching mark schemes or answer guides filed beside each paper.
                 3. The English A subject reports for those sittings saved and read once.
                 4. Papers that do not match the current format labelled for use as single-question practice only.
                 5. Two complete recent papers set aside, unseen, for timed attempts.
 
                 ## Notes
-                Keep the two untouched papers for the first full timed paper and the last paper before the exam. Using them early for practice wastes your two best rehearsals.
+                Keep the two untouched papers for the first full timed paper and the last paper before the exam. Using them early for practice wastes the two best rehearsals.
               priority: medium
               deadlineOffsetDays: 30
               frontmatter:
@@ -125,17 +127,17 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher which past papers and subject reports the school holds"
+                - "Ask the teacher which past papers and subject reports the school holds"
                 - "Buy or download the missing papers from the official CXC store"
                 - "File each paper with its mark scheme and subject report in date order"
                 - "Set aside two recent papers for timed use only"
             - name: Agreeing English A targets with the teacher
               description: |-
                 ## Purpose
-                Teachers see hundreds of scripts and can usually name the one change that would lift a student a grade, but rarely have time to say it unless asked. A short meeting with your English A teacher, diagnostic results in hand, gives you a target grade, two priorities and an agreed way to get extra pieces marked.
+                Teachers see hundreds of scripts and can usually name the one change that would lift a student a grade, but rarely have time to say it unless asked. A short meeting with the English A teacher, your teen there and the diagnostic results in hand, gives a target grade, two priorities and an agreed way to get extra pieces marked.
 
                 ## Milestones
-                1. A ten-minute meeting held with your English A teacher after the diagnostic.
+                1. A ten-minute meeting held with the English A teacher after the diagnostic.
                 2. A target grade and two priority skills agreed and written down.
                 3. An arrangement made for handing in extra practice pieces for marking.
                 4. The targets reviewed at the end of each term and changed if the evidence says so.
@@ -150,20 +152,20 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "1"
               tasks:
-                - "Ask your teacher for ten minutes to discuss your diagnostic results"
-                - "Bring the marked diagnostic and your three weakest areas"
+                - "Ask the teacher for ten minutes to discuss your teen's diagnostic results"
+                - "Bring the marked diagnostic and the three weakest areas"
                 - "Write down the target grade and the two priorities agreed"
-                - "Review progress against the targets with your teacher @recurring(quarterly)"
+                - "Review progress against the targets with the teacher @recurring(quarterly)"
             - name: English A error and correction notebook
               description: |-
                 ## Purpose
-                Most students make the same ten mistakes all year: a tense slip, a comma splice, a summary that copies the passage, an essay with no clear position. One notebook where every marked error is copied with its correction and the rule behind it turns teacher feedback into a short personal checklist to read before each paper.
+                Most students make the same ten mistakes all year: a tense slip, a comma splice, a summary that copies the passage, an essay with no clear position. One notebook where every marked error is copied with its correction and the rule behind it turns teacher feedback into a short personal checklist to read before each paper. A glance at its first page tells you what your teen is working on.
 
                 ## Milestones
                 1. A notebook divided into grammar, punctuation, spelling, comprehension, summary and writing sections.
                 2. Every error from marked work since the start of term copied in with its correction.
                 3. A one-line rule written beside each repeated error.
-                4. A top ten list of your own repeated errors on the first page.
+                4. A top ten list of your teen's own repeated errors on the first page.
               priority: medium
               frontmatter:
                 mode: building
@@ -172,17 +174,17 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Set up a notebook with six labelled sections"
-                - "Copy in the errors from your last three marked pieces"
+                - "Copy in the errors from the last three marked pieces"
                 - "Write the rule behind each error in one line"
                 - "Add every newly marked error with its correction @recurring(weekly:thu)"
             - name: Personal word bank for precise writing
               description: |-
                 ## Purpose
-                Examiners reward vocabulary that is exact rather than showy: 'reluctant' instead of 'did not really want to', 'deteriorated' instead of 'got worse'. Collecting five precise words a week from real reading, each with a sentence of your own, builds the range that lifts both comprehension answers and essays.
+                Examiners reward vocabulary that is exact rather than showy: 'reluctant' instead of 'did not really want to', 'deteriorated' instead of 'got worse'. Collecting five precise words a week from real reading, each with a sentence of their own, builds the range that lifts both comprehension answers and essays. Using a new word at the dinner table is an easy way to join in.
 
                 ## Milestones
-                1. A word bank with columns for word, meaning, part of speech and your own sentence.
-                2. Five new words added each week from your reading, not from lists.
+                1. A word bank with columns for word, meaning, part of speech and an original sentence.
+                2. Five new words added each week from real reading, not from lists.
                 3. A separate section of tone and attitude words, such as wistful, sardonic and indignant, for comprehension answers.
                 4. Ten bank words used correctly in marked essays or stories.
               priority: medium
@@ -193,9 +195,9 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Start a word bank with four columns"
-                - "Add five words from this week's reading with your own sentences @recurring(weekly:mon)"
+                - "Add five words from this week's reading with original sentences @recurring(weekly:mon)"
                 - "Collect twenty words that describe a writer's tone"
-                - "Use three bank words on purpose in your next essay"
+                - "Use three bank words on purpose in the next essay"
             - name: Home writing desk and timed practice rules
               description: |-
                 ## Purpose
@@ -204,11 +206,11 @@ starter_structure:
                 ## Milestones
                 1. A desk or table available for an hour of quiet writing at agreed times.
                 2. A dictionary, thesaurus, simple timer and the past-paper folder kept at the desk.
-                3. A phone rule agreed with the student for timed practice sessions.
+                3. A phone rule agreed with your teen for timed practice sessions.
                 4. Everyone in the household told when timed practice happens each week.
 
                 ## Notes
-                Lined paper similar to an exam answer booklet helps the student judge how much they write in the time.
+                Lined paper similar to an exam answer booklet helps your teen judge how much they write in the time.
               priority: low
               frontmatter:
                 mode: service
@@ -224,7 +226,7 @@ starter_structure:
             - name: English A practice score log
               description: |-
                 ## Purpose
-                Without a record, nobody can tell whether summary marks are really rising or whether one good essay was luck. A simple log of every marked practice piece, by section and date, shows the trend across months and tells you when to move effort from one skill to another.
+                Without a record, nobody can tell whether summary marks are really rising or whether one good essay was luck. A simple log of every marked practice piece, by section and date, shows you and your teen the trend across months and when to move effort from one skill to another.
 
                 ## Milestones
                 1. A log with columns for date, paper or section, marks scored, marks available and a note.
@@ -244,11 +246,11 @@ starter_structure:
                 - "Create a score log from the metrics log template"
                 - "Enter every marked piece since the diagnostic"
                 - "Work out each section's monthly average and write one decision @recurring(monthly:28)"
-                - "Show the log to your teacher at the next target review"
+                - "Show the log to the teacher at the next target review"
             - name: Reading opinion pieces for argument practice
               description: |-
                 ## Purpose
-                Regular readers of opinion columns, letters to the editor and feature articles write stronger argumentative essays, because they have seen how real writers build a case and deal with the other side. Three short sessions a week with a regional newspaper or a reputable magazine also supply fresh passages for summary and comprehension practice.
+                Regular readers of opinion columns, letters to the editor and feature articles write stronger argumentative essays, because they have seen how real writers build a case and deal with the other side. Three short sessions a week with a regional newspaper or a reputable magazine also supply fresh passages for summary and comprehension practice. Leaving the newspaper out, or discussing one column together, makes this easier to keep up.
 
                 ## Milestones
                 1. Two or three sources chosen, such as a national daily's opinion page and a regional news magazine.
@@ -272,7 +274,7 @@ starter_structure:
             - name: Tuesday summary practice
               description: |-
                 ## Purpose
-                Summary skills fade fastest without practice, and one passage takes under half an hour. Writing a summary every Tuesday from a past paper or a saved article, then checking which points you caught, builds the habit of selecting before writing.
+                Summary skills fade fastest without practice, and one passage takes under half an hour. Writing a summary every Tuesday from a past paper or a saved article, then checking which points were caught, builds the habit of selecting before writing.
 
                 ## Milestones
                 1. A bank of at least twenty passages for summary practice drawn from past papers and saved articles.
@@ -288,12 +290,12 @@ starter_structure:
               tasks:
                 - "Collect twenty passages for summary practice"
                 - "Write one timed summary from the passage bank @recurring(weekly:tue)"
-                - "Tick off the main points you caught against the mark scheme"
+                - "Tick off the main points caught against the mark scheme"
                 - "Record the points caught in the score log"
             - name: Saturday timed comprehension passage
               description: |-
                 ## Purpose
-                Comprehension rewards reading the question as carefully as the passage. A timed passage every Saturday morning, rotating between prose, poetry, informational and visual texts, keeps every text type familiar and builds the pace the exam needs.
+                Comprehension rewards reading the question as carefully as the passage. A timed passage every Saturday morning, rotating between prose, poetry, informational and visual texts, keeps every text type familiar and builds the pace the exam needs. Offer to keep the time so your teen can concentrate on the reading.
 
                 ## Milestones
                 1. A four-week rotation set: prose, poem, informational text, visual text.
@@ -310,11 +312,11 @@ starter_structure:
                 - "Plan a four-week rotation of prose, poem, informational and visual texts"
                 - "Answer one comprehension passage under time @recurring(weekly:sat)"
                 - "Sort each wrong answer by question type in the error notebook"
-                - "Ask the teacher about any answer the mark scheme does not explain"
+                - "Encourage your teen to ask the teacher about any answer the mark scheme does not explain"
             - name: Two timed pieces of writing a month
               description: |-
                 ## Purpose
-                Writing well with a free afternoon is a different skill from writing well against the clock, and the writing questions test the second. Two timed pieces a month, alternating story, argument and exposition, keep each type rehearsed and give your teacher regular work to mark.
+                Writing well with a free afternoon is a different skill from writing well against the clock, and the writing questions test the second. Two timed pieces a month, alternating story, argument and exposition, keep each type rehearsed and give the teacher regular work to mark.
 
                 ## Milestones
                 1. A list of thirty past-paper writing prompts across story, argument and exposition.
@@ -331,11 +333,11 @@ starter_structure:
                 - "Gather thirty past-paper writing prompts into one list"
                 - "Write a timed story or essay from the prompt list @recurring(monthly:5)"
                 - "Write a second timed piece of a different type @recurring(monthly:19)"
-                - "Hand both pieces to your teacher or check them against the mark scheme"
+                - "Hand both pieces to the teacher or check them against the mark scheme"
             - name: Monthly error notebook quiz
               description: |-
                 ## Purpose
-                Copying errors down helps only if you test yourself on them later. On the 15th of each month, rewriting ten sentences from the error notebook without looking at the corrections, then checking them, makes the repeated mistakes actually stop appearing in exam writing.
+                Copying errors down helps only if they are tested later. On the 15th of each month, rewriting ten sentences from the error notebook without looking at the corrections, then checking them, makes the repeated mistakes actually stop appearing in exam writing. Offer to read the ten sentences aloud so your teen can write them from dictation.
 
                 ## Milestones
                 1. Ten sentences from the notebook rewritten from memory each month.
@@ -351,21 +353,21 @@ starter_structure:
               tasks:
                 - "Choose ten past errors from the notebook"
                 - "Rewrite the ten sentences correctly without looking @recurring(monthly:15)"
-                - "Star any error you still got wrong"
+                - "Star any error still wrong"
                 - "Cross off errors that have stayed correct for three months"
             - name: Caribbean short story reading list
               description: |-
                 ## Purpose
-                Good short stories are the best teacher for the story question, and the most useful models for a Caribbean candidate are stories set in places and voices they recognise. Reading two stories a month from Caribbean anthologies shows how professional writers open, build tension and end within a few pages.
+                Good short stories are the best teacher for the story question, and the most useful models for a Caribbean candidate are stories set in places and voices they recognise. Reading two stories a month from Caribbean anthologies shows how professional writers open, build tension and end within a few pages. A trip to the library together is a good way to start the list.
 
                 ## Milestones
                 1. A list of at least fifteen short stories from Caribbean anthologies in the school or public library.
                 2. Two stories read each month and their opening technique noted.
-                3. Three openings and three endings copied into the writing section of your notebook as models.
+                3. Three openings and three endings copied into the writing section of the notebook as models.
                 4. One story's structure imitated in a timed practice piece.
 
                 ## Notes
-                Start from the **Reading queue** template. Keep this list about technique for your own writing, not literature essays on set texts.
+                Start from the **Reading queue** template. Keep this list about technique for your teen's own writing, not literature essays on set texts.
               priority: low
               frontmatter:
                 mode: operating
@@ -376,7 +378,7 @@ starter_structure:
                 - "Ask the librarian for Caribbean short story anthologies"
                 - "Build a list of fifteen stories in a reading queue"
                 - "Read two stories and note how each opens and ends @recurring(monthly:10)"
-                - "Imitate one story's structure in your next timed piece"
+                - "Imitate one story's structure in the next timed piece"
             - name: Sunday English A check-in for parents
               description: |-
                 ## Purpose
@@ -401,13 +403,13 @@ starter_structure:
                 - "Write the three check-in questions on a card"
                 - "Hold the check-in and look at one marked piece @recurring(weekly:sun)"
                 - "Email the teacher if the same worry comes up two weeks running"
-            - name: Standard English and Creole in your own writing
+            - name: Standard English and Creole in their own writing
               description: |-
                 ## Purpose
-                Every Caribbean candidate moves between Creole and Standard English, and the exam expects Standard English in writing. Learning to spot the Creole patterns that slip into your own sentences, such as an unmarked past tense or plural, and being able to explain the difference between the two calmly and accurately, protects expression marks without treating home language as a fault.
+                Every Caribbean candidate moves between Creole and Standard English, and the exam expects Standard English in writing. Learning to spot the Creole patterns that slip into their own sentences, such as an unmarked past tense or plural, and being able to explain the difference between the two calmly and accurately, protects your teen's expression marks without treating home language as a fault. How you talk about this at home matters: Creole is a language, not a mistake.
 
                 ## Milestones
-                1. Five Creole features that appear in your own writing identified from marked work.
+                1. Five Creole features that appear in your teen's own writing identified from marked work.
                 2. A Standard English version written beside each example.
                 3. A short paragraph written explaining how Creole and Standard English differ, without calling either one wrong.
                 4. Practice questions on language use, including any on the Caribbean language situation in the current syllabus, answered and marked.
@@ -415,22 +417,22 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Five of your own Creole patterns are listed with Standard English versions, and a marked set of language-use practice questions is filed."
+                success_criteria: "Five of your teen's own Creole patterns are listed with Standard English versions, and a marked set of language-use practice questions is filed."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "List five Creole patterns from your last three marked pieces"
+                - "List five Creole patterns from the last three marked pieces"
                 - "Write each one again in Standard English"
                 - "Read what the current syllabus says about Caribbean language use"
-                - "Answer practice questions on language use and check them with your teacher"
+                - "Answer practice questions on language use and check them with the teacher"
             - name: Sentence control, agreement, tense and punctuation
               description: |-
                 ## Purpose
-                Expression marks depend heavily on sentences that are complete, agree and hold one tense, and on commas, semicolons and apostrophes used correctly. Two weeks of focused work on the sentence errors the subject reports mention most, using your own writing as the material, fixes the faults that drag every piece down.
+                Expression marks depend heavily on sentences that are complete, agree and hold one tense, and on commas, semicolons and apostrophes used correctly. Two weeks of focused work on the sentence errors the subject reports mention most, using your teen's own writing as the material, fixes the faults that drag every piece down.
 
                 ## Milestones
                 1. The sentence errors mentioned in the last three subject reports listed.
-                2. Run-on sentences, fragments and comma splices recognised and fixed in your own work.
+                2. Run-on sentences, fragments and comma splices recognised and fixed in your teen's own work.
                 3. Subject and verb agreement and tense consistency checked in three old essays.
                 4. Apostrophes, semicolons and colons used correctly in a practice paragraph.
                 5. A set of past-paper usage or editing questions answered and marked.
@@ -449,7 +451,7 @@ starter_structure:
             - name: Register, tone and audience
               description: |-
                 ## Purpose
-                A letter to a principal, a speech to classmates and a story for a magazine each call for a different voice, and comprehension questions often ask what a writer's tone is. Practising how word choice, formality and sentence length shift with audience serves both the reading and the writing side of the exam.
+                A letter to a principal, a speech to classmates and a story for a magazine each call for a different voice, and comprehension questions often ask what a writer's tone is. Practising how word choice, formality and sentence length shift with audience serves both the reading and the writing side of the exam. Everyday examples help: ask your teen how they would word the same request to a friend and to a principal.
 
                 ## Milestones
                 1. Formal, informal and neutral registers identified in five short texts.
@@ -471,7 +473,7 @@ starter_structure:
             - name: Literal and inferential comprehension questions
               description: |-
                 ## Purpose
-                Many comprehension marks are lost not through misreading the passage but through answering a different question: a literal answer where an inference is wanted, a quotation where an explanation is asked for. Learning the question types and the length of answer each one needs is the quickest gain on the understanding side of the exam.
+                Many comprehension marks are lost not through misreading the passage but through answering a different question: a literal answer where an inference is wanted, a quotation where an explanation is asked for. Learning the question types and the length of answer each one needs is the quickest gain on the understanding side of the exam. Ask your teen to explain one command word to you; if they can, they own it.
 
                 ## Milestones
                 1. Question types listed: find the fact, explain the meaning, infer, give the effect, state the writer's purpose.
@@ -493,7 +495,7 @@ starter_structure:
             - name: Writer's purpose and techniques in informational texts
               description: |-
                 ## Purpose
-                Reports, articles and explanatory passages ask not only what a writer says but why and how: statistics to impress, an expert to reassure, a rhetorical question to draw the reader in. Being able to name a technique and explain its effect in one clear sentence turns half answers into full ones.
+                Reports, articles and explanatory passages ask not only what a writer says but why and how: statistics to impress, an expert to reassure, a rhetorical question to draw the reader in. Being able to name a technique and explain its effect in one clear sentence turns half answers into full ones. A news article you have both read is good material to talk through.
 
                 ## Milestones
                 1. Ten common techniques listed with an example and its usual effect.
@@ -515,7 +517,7 @@ starter_structure:
             - name: Reading an unseen poem for comprehension
               description: |-
                 ## Purpose
-                An unseen poem in a comprehension section makes many students freeze, though the questions are usually about meaning, imagery, tone and the effect of particular words. A steady method, reading twice, saying what happens in plain words, then looking at images and sound, makes a poem as answerable as a prose passage.
+                An unseen poem in a comprehension section makes many students freeze, though the questions are usually about meaning, imagery, tone and the effect of particular words. A steady method, reading twice, saying what happens in plain words, then looking at images and sound, makes a poem as answerable as a prose passage. You do not need to enjoy poetry to help; asking what happens in the poem is enough.
 
                 ## Milestones
                 1. A four-step method for unseen poems written on a card.
@@ -540,7 +542,7 @@ starter_structure:
             - name: Prose fiction extracts, character, setting and mood
               description: |-
                 ## Purpose
-                Extracts from stories ask what a character is like, how a setting creates mood and what a particular phrase suggests. Practising answers that make a point, give brief evidence and explain it, on extracts you have not seen before, prepares you for the fiction passage and feeds techniques into your own stories.
+                Extracts from stories ask what a character is like, how a setting creates mood and what a particular phrase suggests. Practising answers that make a point, give brief evidence and explain it, on unseen extracts, prepares your teen for the fiction passage and feeds techniques into their own stories.
 
                 ## Milestones
                 1. A point, evidence and explanation answer pattern practised on three extracts.
@@ -562,7 +564,7 @@ starter_structure:
             - name: Visual and media texts, adverts, cartoons and posters
               description: |-
                 ## Purpose
-                Advertisements, cartoons, posters and infographics are read with the same skills as prose: purpose, audience, technique and effect. Learning to describe layout, image, slogan and colour precisely turns a vague answer about a picture into one that earns its marks.
+                Advertisements, cartoons, posters and infographics are read with the same skills as prose: purpose, audience, technique and effect. Learning to describe layout, image, slogan and colour precisely turns a vague answer about a picture into one that earns its marks. Pointing out a billboard or a newspaper cartoon and asking who it is aimed at is an easy way to practise together.
 
                 ## Milestones
                 1. A checklist for visual texts covering purpose, audience, image, words, layout and colour.
@@ -587,7 +589,7 @@ starter_structure:
             - name: Fact, opinion, bias and persuasion in texts
               description: |-
                 ## Purpose
-                Questions that ask whether a statement is fact or opinion, or how a writer tries to persuade, are among the most predictable in the paper. Learning to separate checkable claims from judgements, and to spot loaded words, one-sided evidence and appeals to emotion, also sharpens your own argumentative essays.
+                Questions that ask whether a statement is fact or opinion, or how a writer tries to persuade, are among the most predictable in the paper. Learning to separate checkable claims from judgements, and to spot loaded words, one-sided evidence and appeals to emotion, also sharpens your teen's own argumentative essays.
 
                 ## Milestones
                 1. Twenty statements from real articles sorted correctly into fact and opinion.
@@ -615,7 +617,7 @@ starter_structure:
                 1. The focus of each summary question underlined, so only relevant points are chosen.
                 2. Main points listed in note form for five passages before any writing.
                 3. Examples, illustrations and repetition crossed out consistently.
-                4. Your point lists compared with past-paper mark schemes and most listed points caught.
+                4. Point lists compared with past-paper mark schemes and most listed points caught.
                 5. A full past-paper summary question answered and marked.
               priority: high
               frontmatter:
@@ -628,11 +630,11 @@ starter_structure:
                 - "Underline the focus words in five past summary questions"
                 - "List the main points in note form for each passage"
                 - "Cross out examples and repeated ideas before writing"
-                - "Compare your point lists with the mark schemes"
+                - "Compare the point lists with the mark schemes"
             - name: Summary writing, paraphrase, flow and word limit
               description: |-
                 ## Purpose
-                Once the right points are found, marks depend on expressing them in your own words, in connected prose and within the word limit. Practising paraphrase, linking words and a final count turns a correct list of points into a summary that also earns its expression marks.
+                Once the right points are found, marks depend on expressing them in fresh words, in connected prose and within the word limit. Practising paraphrase, linking words and a final count turns a correct list of points into a summary that also earns its expression marks.
 
                 ## Milestones
                 1. Ten sentences from passages paraphrased without changing their meaning.
@@ -662,7 +664,7 @@ starter_structure:
                 2. Three openings written that start in the middle of the action.
                 3. Dialogue punctuated and set out correctly in a practice scene.
                 4. One story written that makes the prompt central, not an afterthought.
-                5. A timed past-paper story marked by your teacher.
+                5. A timed past-paper story marked by the teacher.
               priority: medium
               frontmatter:
                 mode: learning
@@ -678,14 +680,14 @@ starter_structure:
             - name: Argumentative and persuasive essays, position and rebuttal
               description: |-
                 ## Purpose
-                Essay prompts on issues such as school uniforms, social media or youth crime ask for a clear position defended with reasons and evidence, and the strongest scripts also answer the other side. A reliable structure, a firm opening position, developed points, a rebuttal and a conclusion that does more than repeat, makes an argument easy to follow and to mark.
+                Essay prompts on issues such as school uniforms, social media or youth crime ask for a clear position defended with reasons and evidence, and the strongest scripts also answer the other side. A reliable structure, a firm opening position, developed points, a rebuttal and a conclusion that does more than repeat, makes an argument easy to follow and to mark. A friendly debate at home, with you taking the other side, is good practice for the rebuttal.
 
                 ## Milestones
                 1. A paragraph plan for an argumentative essay written on a card.
                 2. Topic sentences that state a reason, not just a fact, practised on five prompts.
                 3. A rebuttal paragraph written for three topics.
                 4. Persuasive devices such as rhetorical questions and statistics used with restraint in one essay.
-                5. A timed past-paper essay marked by your teacher.
+                5. A timed past-paper essay marked by the teacher.
               priority: medium
               frontmatter:
                 mode: learning
@@ -697,11 +699,11 @@ starter_structure:
                 - "Write a paragraph plan for an argumentative essay on a card"
                 - "Practise topic sentences on five past-paper prompts"
                 - "Write a rebuttal paragraph for three topics"
-                - "Write a timed essay on a past-paper prompt for your teacher to mark"
+                - "Write a timed essay on a past-paper prompt for the teacher to mark"
             - name: Expository writing that explains clearly
               description: |-
                 ## Purpose
-                Expository questions ask you to explain a process, describe causes and effects or inform readers about an issue, and they reward order and clarity rather than opinion. Practising clear sequencing, precise topic sentences and examples from Caribbean life gives you a dependable option when the story and argument prompts do not suit you.
+                Expository questions ask the candidate to explain a process, describe causes and effects or inform readers about an issue, and they reward order and clarity rather than opinion. Practising clear sequencing, precise topic sentences and examples from Caribbean life gives your teen a dependable option when the story and argument prompts do not suit them.
 
                 ## Milestones
                 1. The difference between expository and argumentative writing explained in two sentences.
@@ -710,7 +712,7 @@ starter_structure:
                 4. A past-paper expository question answered under time and marked.
 
                 ## Notes
-                Check the current syllabus for exactly which writing types Paper 02 asks for, and weight your practice to match.
+                Check the current syllabus for exactly which writing types Paper 02 asks for, and weight practice to match.
               priority: low
               frontmatter:
                 mode: building
@@ -726,7 +728,7 @@ starter_structure:
             - name: Choosing the SBA theme and group roles
               description: |-
                 ## Purpose
-                The English A SBA is built around a theme, and groups that pick a vague or overused one struggle to find material for the individual pieces later. Choosing a focused theme early, getting it approved and agreeing who gathers what saves weeks of drift before the drafting deadline.
+                The English A SBA is built around a theme, and groups that pick a vague or overused one struggle to find material for the individual pieces later. Choosing a focused theme early, getting it approved and agreeing who gathers what saves weeks of drift before the drafting deadline. The group should lead; your part is to ask whether the theme has enough material and whether roles are clear.
 
                 ## Milestones
                 1. The SBA section of the current syllabus and the school's SBA guidelines read by every group member.
@@ -735,7 +737,7 @@ starter_structure:
                 4. Roles and a weekly meeting time agreed and written down.
 
                 ## Notes
-                Follow the syllabus and your teacher on what is done as a group and what must be entirely your own work.
+                Follow the syllabus and the teacher on what is done as a group and what must be entirely your teen's own work.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
@@ -745,19 +747,19 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Read the SBA section of the current syllabus with your group"
+                - "Read the SBA section of the current syllabus with the group"
                 - "List three possible themes and the material each could draw on"
-                - "Get your teacher's approval for one theme"
+                - "Get the teacher's approval for one theme"
                 - "Write down each member's role and the group meeting time"
             - name: SBA research and source record
               description: |-
                 ## Purpose
-                SBA marks, and sometimes questions about plagiarism, follow from not being able to show where material came from. Keeping a simple record of every text, article, interview or recording gathered for the theme, with what each one adds, makes the individual pieces and reflections far easier to write.
+                SBA marks, and sometimes questions about plagiarism, follow from not being able to show where material came from. Keeping a simple record of every text, article, interview or recording gathered for the theme, with what each one adds, makes the individual pieces and reflections far easier to write. Ask now and then to see the record grow.
 
                 ## Milestones
                 1. A source record with title, writer, date, where found and what it adds.
                 2. The number and range of sources the syllabus or teacher requires gathered.
-                3. Each source summarised in two or three lines in your own words.
+                3. Each source summarised in two or three lines in your teen's own words.
                 4. The record checked by the teacher before drafting begins.
               priority: medium
               frontmatter:
@@ -768,18 +770,18 @@ starter_structure:
                 effort_hours_estimate: "8"
               tasks:
                 - "Set up a source record with five columns"
-                - "Add each source you gather with a two-line summary"
-                - "Meet your group to share sources and gaps @recurring(weekly:fri)"
-                - "Show the source record to your teacher before drafting"
+                - "Add each source gathered with a two-line summary"
+                - "Meet the group to share sources and gaps @recurring(weekly:fri)"
+                - "Show the source record to the teacher before drafting"
             - name: SBA individual pieces and reflections draft
               description: |-
                 ## Purpose
-                First drafts handed in early come back with comments you can act on; drafts handed in on the deadline cannot. Writing every individual piece the syllabus asks for, with its reflection, a month before the deadline leaves room for one round of feedback and a proper second draft.
+                First drafts handed in early come back with comments that can be acted on; drafts handed in on the deadline cannot. Writing every individual piece the syllabus asks for, with its reflection, a month before the deadline leaves room for one round of feedback and a proper second draft. The writing must be your teen's own, so help with the calendar rather than the sentences.
 
                 ## Milestones
                 1. The required pieces and reflections confirmed from the syllabus and the teacher.
-                2. A first draft of each piece written in your own words.
-                3. Each reflection explaining what the piece shows about the theme and your choices as a writer.
+                2. A first draft of each piece written in your teen's own words.
+                3. Each reflection explaining what the piece shows about the theme and the writer's choices.
                 4. Drafts handed to the teacher for one round of comments.
                 5. A second draft written that responds to every comment.
               priority: medium
@@ -791,14 +793,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "14"
               tasks:
-                - "List every piece and reflection your SBA requires"
+                - "List every piece and reflection the SBA requires"
                 - "Draft the first individual piece"
                 - "Draft the reflection that goes with each piece"
-                - "Hand the drafts to your teacher and note every comment"
+                - "Hand the drafts to the teacher and note every comment"
             - name: SBA oral presentation rehearsal
               description: |-
                 ## Purpose
-                Many confident writers are thrown by speaking in front of the class, and an oral is marked on delivery as well as content. Preparing a short outline, rehearsing aloud three times and timing it against the limit your teacher gives turns nerves into a performance you have already done.
+                Many confident writers are thrown by speaking in front of the class, and an oral is marked on delivery as well as content. Preparing a short outline, rehearsing aloud three times and timing it against the limit the teacher gives turns nerves into a performance already done. Offer to be the audience for one rehearsal, and keep your feedback to one improvement.
 
                 ## Milestones
                 1. The oral presentation criteria and time limit obtained from the teacher.
@@ -807,7 +809,7 @@ starter_structure:
                 4. The presentation delivered on the assessed date.
 
                 ## Notes
-                Confirm with your teacher whether your SBA includes an oral presentation and how it is assessed before rehearsing.
+                Confirm with the teacher whether the SBA includes an oral presentation and how it is assessed before rehearsing.
               priority: medium
               deadlineOffsetDays: 150
               frontmatter:
@@ -817,14 +819,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for the oral presentation criteria and time limit"
+                - "Ask the teacher for the oral presentation criteria and time limit"
                 - "Write the outline on cue cards"
                 - "Rehearse aloud three times with a timer"
                 - "Rehearse once in front of a family member and ask for one improvement"
             - name: Final SBA portfolio check and submission
               description: |-
                 ## Purpose
-                Schools submit SBA marks well before the written papers, so a late or incomplete portfolio costs marks no exam answer can recover. A final check against the syllabus requirements, with every piece, reflection and source record in order, closes the SBA early and cleanly.
+                Schools submit SBA marks well before the written papers, so a late or incomplete portfolio costs marks no exam answer can recover. A final check against the syllabus requirements, with every piece, reflection and source record in order, closes the SBA early and cleanly. Offer to keep the home copy safe once it is handed in.
 
                 ## Milestones
                 1. Every required component present and labelled in the portfolio.
@@ -847,7 +849,7 @@ starter_structure:
             - name: Paper 032 preparation for private English A candidates
               description: |-
                 ## Purpose
-                Private candidates who are not entered through a school sit Paper 032 in place of the SBA, and it asks for the same research and writing skills under exam conditions. Working through the Paper 032 section of the syllabus and its past papers stops the alternative paper becoming the weakest part of the exam.
+                Private candidates who are not entered through a school sit Paper 032 in place of the SBA, and it asks for the same research and writing skills under exam conditions. Working through the Paper 032 section of the syllabus and its past papers stops the alternative paper becoming the weakest part of the exam. If your teen is sitting privately, registration and deadlines are the part you are best placed to own.
 
                 ## Milestones
                 1. Paper 032's format and what it tests noted from the current syllabus.
@@ -872,10 +874,10 @@ starter_structure:
             - name: Choosing extra lessons or a tutor for English A
               description: |-
                 ## Purpose
-                Extra lessons are common and can be costly, and a group class that drills the same essay every week may never touch your real weakness. Comparing two or three options against the weak areas from your diagnostic, on cost, travel time and how much writing gets individually marked, leads to a choice you can justify.
+                Extra lessons are common and can be costly, and a group class that drills the same essay every week may never touch your teen's real weakness. Comparing two or three options against the weak areas from the diagnostic, on cost, travel time and how much writing gets individually marked, leads to a choice you can justify.
 
                 ## Milestones
-                1. Your three weakest areas listed as the test any option must pass.
+                1. Your teen's three weakest areas listed as the test any option must pass.
                 2. Two or three options compared on cost, timing, travel and individually marked writing.
                 3. One trial session attended before committing.
                 4. A decision recorded, including the choice of no lessons if school support is enough.
@@ -891,18 +893,18 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Write your three weakest areas at the top of the comparison"
+                - "Write your teen's three weakest areas at the top of the comparison"
                 - "Ask two or three tutors or classes how much writing they mark individually"
                 - "Attend one trial session"
                 - "Record the decision and the reason"
             - name: Timing plan for each English A paper
               description: |-
                 ## Purpose
-                Running out of time on the last writing question is one of the commonest ways to drop a grade. A minute-by-minute plan for each paper, built from the published durations and your own practice timings and rehearsed until it is automatic, protects the marks at the end.
+                Running out of time on the last writing question is one of the commonest ways to drop a grade. A minute-by-minute plan for each paper, built from the published durations and your teen's own practice timings and rehearsed until it is automatic, protects the marks at the end.
 
                 ## Milestones
                 1. Each paper's duration and sections taken from the current syllabus.
-                2. Your actual times per section measured in two practice papers.
+                2. Actual times per section measured in two practice papers.
                 3. A written plan giving minutes for reading, planning, writing and checking in each section.
                 4. The plan followed in a full timed paper with every question attempted.
               priority: medium
@@ -914,16 +916,16 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Note each paper's duration from the current syllabus"
-                - "Time yourself on each section in two practice papers"
+                - "Time each section in two practice papers"
                 - "Write a minutes per section plan for each paper"
-                - "Follow the plan in your next full timed paper"
+                - "Follow the plan in the next full timed paper"
             - name: Handwriting speed and legibility under time
               description: |-
                 ## Purpose
-                Examiners can mark only what they can read, and students who rarely write by hand outside school often slow down or scrawl by the third answer. A month of short timed handwriting sessions, with attention to letter spacing and steady speed, keeps the last answer as clear as the first.
+                Examiners can mark only what they can read, and students who rarely write by hand outside school often slow down or scrawl by the third answer. A month of short timed handwriting sessions, with attention to letter spacing and steady speed, keeps the last answer as clear as the first. Being the reader who marks unclear words is a simple, useful role for a parent.
 
                 ## Milestones
-                1. Your handwriting speed measured in words per minute over ten minutes.
+                1. Handwriting speed measured in words per minute over ten minutes.
                 2. Three legibility problems named by a teacher or parent.
                 3. Ten short timed writing sessions completed over a month.
                 4. A full timed essay written that another reader finds clear throughout.
@@ -935,14 +937,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Measure your words per minute over ten minutes of writing"
+                - "Measure words per minute over ten minutes of writing"
                 - "Ask a teacher or parent to name three legibility problems"
                 - "Do ten short timed writing sessions over a month"
-                - "Have someone read your next timed essay and mark any unclear words"
+                - "Read your teen's next timed essay and mark any unclear words"
             - name: First full timed English A paper at home
               description: |-
                 ## Purpose
-                Sitting a whole paper under real time limits for the first time is a shock if it happens at the mock. Doing it at home months earlier, at the same time of day as the real exam, shows where pacing breaks down while there is still time to fix it.
+                Sitting a whole paper under real time limits for the first time is a shock if it happens at the mock. Doing it at home months earlier, at the same time of day as the real exam, shows where pacing breaks down while there is still time to fix it. Keeping the house quiet and holding back comment until it is marked is the most useful help you can give.
 
                 ## Milestones
                 1. One of the two unseen recent papers chosen for the attempt.
@@ -965,7 +967,7 @@ starter_structure:
             - name: School mock exam and marked script review
               description: |-
                 ## Purpose
-                Schools usually run mocks a few months before the sitting, and marked scripts often come back with little discussion. Asking for your scripts, going through every lost mark and comparing with the mark scheme turns the mock into the most useful practice of the year.
+                Schools usually run mocks a few months before the sitting, and marked scripts often come back with little discussion. Asking for the scripts, going through every lost mark and comparing with the mark scheme turns the mock into the most useful practice of the year. Encourage your teen to make the request; a word from you to the teacher can back it up.
 
                 ## Milestones
                 1. The mock date known and two weeks of revision planned before it.
@@ -983,12 +985,12 @@ starter_structure:
               tasks:
                 - "Find out the mock date and the papers it covers"
                 - "Plan two weeks of revision before the mock"
-                - "Ask for your marked scripts back after the mock"
+                - "Ask for the marked scripts back after the mock"
                 - "Annotate every lost mark with the reason"
             - name: Weak-area repair after the mock
               description: |-
                 ## Purpose
-                The mock is the last full rehearsal with time left to change anything, and its marked scripts are the best evidence you will get. Turning the two weakest results into a four-week repair plan with specific drills and a re-test gives the final months a target instead of general revision.
+                The mock is the last full rehearsal with time left to change anything, and its marked scripts are the best evidence there will be. Turning the two weakest results into a four-week repair plan with specific drills and a re-test gives the final months a target instead of general revision. Ask your teen to share the plan so you know what the weeks are for.
 
                 ## Milestones
                 1. Mock marks broken down by section and question type.
@@ -1014,7 +1016,7 @@ starter_structure:
             - name: Last full past paper before the exam
               description: |-
                 ## Purpose
-                A final complete paper about three weeks out confirms the timing plan works and gives a last reading on which section deserves the remaining revision. Using the second paper kept unseen for this purpose makes the result a fair test rather than a memory exercise.
+                A final complete paper about three weeks out confirms the timing plan works and gives a last reading on which section deserves the remaining revision. Using the second paper kept unseen for this purpose makes the result a fair test rather than a memory exercise. Plan a calm evening afterwards rather than a long post-mortem.
 
                 ## Milestones
                 1. The second unseen recent paper written under full exam conditions.
@@ -1037,7 +1039,7 @@ starter_structure:
             - name: Final four weeks of English A revision
               description: |-
                 ## Purpose
-                English A cannot be crammed like a content subject, so the final month is about sharpening rather than learning anything new: the error notebook top ten, your model answers and one short timed section a day. A written four-week plan keeps those weeks calm and stops last-minute panic over skills already secure.
+                English A cannot be crammed like a content subject, so the final month is about sharpening rather than learning anything new: the error notebook top ten, the model answers and one short timed section a day. A written four-week plan keeps those weeks calm and stops last-minute panic over skills already secure. Protecting sleep and the two rest days is where you can help most now.
 
                 ## Milestones
                 1. A four-week plan written with one focus per week.
@@ -1055,12 +1057,12 @@ starter_structure:
               tasks:
                 - "Write a four-week plan with one focus per week"
                 - "Do one short timed English A section @recurring(daily)"
-                - "Read the error notebook top ten and your model answers"
+                - "Read the error notebook top ten and the model answers"
                 - "Mark two rest days in the final week"
             - name: English A exam day plan
               description: |-
                 ## Purpose
-                On the day, small things go wrong: a missing candidate slip, a pen that dies, a taxi that does not come. A checklist of what to bring, when to leave and what to do in the first five minutes of each paper means the morning's energy goes into the writing.
+                On the day, small things go wrong: a missing candidate slip, a pen that dies, a taxi that does not come. A checklist of what to bring, when to leave and what to do in the first five minutes of each paper means the morning's energy goes into the writing. Offer to own the transport and the backup ride so your teen can think only about the paper.
 
                 ## Milestones
                 1. The time and venue for each English A paper confirmed from the school's copy of the timetable.
@@ -1079,7 +1081,7 @@ starter_structure:
                 - "Confirm the time and venue of each English A paper with the school"
                 - "Pack the checklist items the night before"
                 - "Arrange travel with a backup ride"
-                - "Write your first five minutes routine on a card"
+                - "Ask your teen to write their first five minutes routine on a card"
             - name: Extra time and access arrangements for English A
               description: |-
                 ## Purpose
@@ -1105,12 +1107,12 @@ starter_structure:
             - name: Resitting English A in the January sitting
               description: |-
                 ## Purpose
-                Students who missed the grade they needed for sixth form, college or a job can resit English A, and the January sitting offers a quicker second chance than waiting a full year. Planning the resit around the profile grades on your result slip concentrates a short window on the skills that let you down.
+                Students who missed the grade they needed for sixth form, college or a job can resit English A, and the January sitting offers a quicker second chance than waiting a full year. Planning the resit with your teen around the profile grades on the result slip concentrates a short window on the skills that let them down.
 
                 ## Milestones
-                1. The profile grades on the result slip read to see whether understanding or expression held you back.
+                1. The profile grades on the result slip read to see whether understanding or expression held your teen back.
                 2. Registration deadline and sitting confirmed with the school or local registrar.
-                3. Whether your SBA mark can be carried forward confirmed in writing.
+                3. Whether the earlier SBA mark can be carried forward confirmed in writing.
                 4. A twelve-week plan focused on the weaker profile written.
                 5. Two timed past papers completed and marked before the sitting.
               priority: medium
@@ -1121,14 +1123,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "40"
               tasks:
-                - "Read the profile grades on your result slip"
+                - "Read the profile grades on the result slip together"
                 - "Confirm the January registration deadline with the school or local registrar"
-                - "Ask whether your SBA mark can be carried forward"
+                - "Ask whether your teen's SBA mark can be carried forward"
                 - "Write a twelve-week plan focused on the weaker profile"
             - name: Teacher's English A marking rubric and model answer bank
               description: |-
                 ## Purpose
-                Teachers marking forty scripts a week need a consistent rubric and model answers at several levels, so students can see the difference between a middle and a top answer. Building both from the mark schemes and anonymised scripts makes feedback faster and more consistent across a department or a lessons class.
+                Teachers marking forty scripts a week need a consistent rubric and model answers at several levels, so students can see the difference between a middle and a top answer. Building both from the mark schemes and anonymised scripts makes feedback faster and more consistent across a department or a lessons class. If your teen has a tutor or a lessons class, this is a fair standard to share with them.
 
                 ## Milestones
                 1. A one-page rubric for each writing type built from the mark scheme criteria.
@@ -1150,7 +1152,7 @@ starter_structure:
             - name: Subject report patterns across five sittings
               description: |-
                 ## Purpose
-                CXC's English A subject reports describe, sitting after sitting, the same weaknesses: summaries that copy, essays that drift from the question, stories without a turning point. Reading five years of reports side by side and turning the patterns into a personal checklist is what experienced teachers and strong candidates do to anticipate what examiners reward.
+                CXC's English A subject reports describe, sitting after sitting, the same weaknesses: summaries that copy, essays that drift from the question, stories without a turning point. Reading five years of reports side by side and turning the patterns into a personal checklist is what experienced teachers and strong candidates do to anticipate what examiners reward. Your teen can lead this; you can help find the reports.
 
                 ## Milestones
                 1. Five recent subject reports read and the comments on each section noted.
@@ -1172,13 +1174,13 @@ starter_structure:
             - name: Stretch writing for a top grade
               description: |-
                 ## Purpose
-                Students already scoring well can still miss the top grade with writing that is correct but unremarkable. Studying how strong writers vary sentence length, control tone and choose exact detail, then revising your own best pieces line by line, is the work that separates a good script from an outstanding one.
+                Students already scoring well can still miss the top grade with writing that is correct but unremarkable. Studying how strong writers vary sentence length, control tone and choose exact detail, then revising their own best pieces line by line, is the work that separates a good script from an outstanding one. If your teen is in this group, let them lead and simply protect the time.
 
                 ## Milestones
                 1. Three passages by respected Caribbean essayists or novelists studied for sentence variety and detail.
-                2. Two of your best marked pieces revised line by line for precision.
+                2. Two of your teen's best marked pieces revised line by line for precision.
                 3. One piece rewritten with a deliberate change of tone or structure.
-                4. A revised piece marked by your teacher against the top band descriptors.
+                4. A revised piece marked by the teacher against the top band descriptors.
               priority: low
               frontmatter:
                 mode: learning
@@ -1189,12 +1191,12 @@ starter_structure:
               tasks:
                 - "Choose three passages by respected Caribbean writers to study"
                 - "Note how each passage varies sentence length and detail"
-                - "Revise two of your best pieces line by line"
-                - "Ask the agent to point out vague words in a revised piece, then fix them yourself"
+                - "Revise two of the best pieces line by line"
+                - "Ask the agent to point out vague words in a revised piece, then let your teen fix them"
 ---
 
 # CSEC English A
 
-Everything a Form Four or Form Five student, a parent or an English teacher needs for CSEC English A, from checking what the current papers look like to walking into the exam room with a timing plan. It opens with set-up (the format check, a diagnostic, a timetable, a past-paper pack and an error notebook), runs through the weekly routines, then works through the syllabus skills in order: language and usage, comprehension of prose, poetry, informational and visual texts, summary, and story, argumentative and expository writing, before the SBA, the timed papers, the mock, exam day, projects for parents and teachers, and stretch work for strong candidates.
+Everything a parent or guardian needs to support a Form Four or Form Five student through CSEC English A, from checking what the current papers look like to the morning your teen walks into the exam room with a timing plan. It opens with set-up (the format check, a diagnostic, a timetable, a past-paper pack and an error notebook), runs through the weekly routines, then works through the syllabus skills in order: language and usage, comprehension of prose, poetry, informational and visual texts, summary, and story, argumentative and expository writing, before the SBA, the timed papers, the mock, exam day, projects for parents, projects to share with teachers, and stretch work for strong candidates.
 
 The rhythm is mostly weekly: precise words on Monday, opinion pieces three times a week, a summary every Tuesday, new errors logged on Thursday, a comprehension passage on Saturday and a parent check-in on Sunday, with two timed pieces of writing, an error quiz and a score review each month and one short timed section a day in the final four weeks. The Meeting notes, Habit tracker, Metrics log, Reading queue, Purchase decision and Remediation plan templates pair with the projects that point at them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

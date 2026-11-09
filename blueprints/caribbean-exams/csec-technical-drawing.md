@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-technical-drawing
 name: CSEC Technical Drawing
-description: "A full CSEC Technical Drawing plan: the syllabus and papers, plane and solid geometry topic by topic, the building or mechanical option, timed past papers, the SBA drawings, the mock and exam day."
+description: "A CSEC Technical Drawing plan for parents supporting a teen: the syllabus and papers, plane and solid geometry, the building or mechanical option, timed papers, the SBA drawings, the mock and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-technical-drawing, student, parent, educator, cxc, csec, geometrical-drawing]
@@ -17,7 +17,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -27,16 +27,18 @@ starter_structure:
             - name: Current CSEC Technical Drawing syllabus and paper format check
               description: |-
                 ## Purpose
-                Technical Drawing is examined through a multiple-choice paper, a drawing paper and an SBA drawing project, and the sections, options and conventions it expects are set out in the current CXC syllabus, not in an older student's notes. Reading it yourself at the start tells you which geometry topics everyone sits, what the building and mechanical options each cover, and which drawing standards the examiners mark against.
+                Technical Drawing is examined through a multiple-choice paper, a drawing paper and an SBA drawing project, and the sections, options and conventions it expects are set out in the current CXC syllabus, not in an older student's notes. Reading it with your teen at the start shows you both which geometry topics everyone sits, what the building and mechanical options each cover, and which drawing standards the examiners mark against.
 
                 ## Milestones
                 1. The current Technical Drawing syllabus downloaded from the CXC website and its effective date noted.
-                2. Paper 01, Paper 02 and the SBA described on one page in your own words, with the format checked against the timetable.
+                2. Paper 01, Paper 02 and the SBA described on one page in plain words, with the format checked against the timetable.
                 3. Every section of the syllabus listed in order, with the building and mechanical option topics set out side by side.
-                4. The May to June sitting window and your school's SBA deadline written beside the list.
+                4. The May to June sitting window and the school's SBA deadline written beside the list.
 
                 ## Notes
-                Rules about which instruments, paper and boards you may use in the exam room come from CXC and your centre. Write them down now instead of finding out on the day.
+                This plan is for a parent or guardian supporting a teenager through CSEC Technical Drawing, and an older student can follow it with a parent's support.
+
+                Rules about which instruments, paper and boards your teen may use in the exam room come from CXC and the centre. Write them down now so nobody finds out on the day.
               priority: high
               deadlineOffsetDays: 10
               frontmatter:
@@ -49,17 +51,17 @@ starter_structure:
                 - "Download the current Technical Drawing syllabus from the CXC website"
                 - "Check the current timetable on the CXC website and note the paper format"
                 - "List every syllabus section and both option areas in order on one page"
-                - "Ask your teacher for the school's SBA deadline and which option the class takes"
+                - "Ask the teacher for the school's SBA deadline and which option the class takes"
             - name: Choosing between the building and mechanical drawing options
               description: |-
                 ## Purpose
-                After the shared geometry, candidates specialise in either building drawing or mechanical engineering drawing, and the choice shapes your SBA and a large part of Paper 02. Some schools teach only one option, so the decision may already be made; where you do have a choice, base it on the drawings you enjoy, the careers you are considering and which teacher can supervise your SBA.
+                After the shared geometry, candidates specialise in either building drawing or mechanical engineering drawing, and the choice shapes the SBA and a large part of Paper 02. Some schools teach only one option, so the decision may already be made; where there is a choice, help your teen weigh the drawings they enjoy, the careers they are considering and which teacher can supervise their SBA.
 
                 ## Milestones
-                1. Your school's position confirmed: one option taught, or a free choice.
+                1. The school's position confirmed: one option taught, or a free choice.
                 2. Two past Paper 02 questions from each option attempted or read through.
-                3. The option chosen, with a sentence on why, recorded with your teacher's agreement.
-                4. Your SBA supervisor named for the option you chose.
+                3. The option chosen, with a sentence on why, recorded with the teacher's agreement.
+                4. An SBA supervisor named for the chosen option.
 
                 ## Notes
                 Building drawing tends to suit students drawn to architecture, construction and surveying; mechanical drawing suits engineering and machining. Neither is easier, and both lead on to further technical study.
@@ -68,24 +70,24 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "Your option is chosen and written in your plan with a one-sentence reason, agreed with your teacher and with an SBA supervisor named."
+                success_criteria: "The option is chosen and written in the plan with a one-sentence reason, agreed with the teacher and with an SBA supervisor named."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher whether the school offers both options or only one"
+                - "Ask the teacher whether the school offers both options or only one"
                 - "Read two past Paper 02 questions from the building option"
                 - "Read two past Paper 02 questions from the mechanical option"
-                - "Record your chosen option and the reason in your study plan"
+                - "Record the chosen option and your teen's reason in the study plan"
             - name: Drawing instruments and kit bought before the first term
               description: |-
                 ## Purpose
-                A wobbly compass and a chipped set square cost marks on every construction, because accuracy to the millimetre is what the examiner checks. Buying a sound kit once, a spring-bow compass, 45 and 30-60 set squares, a protractor, a scale rule, pencils or leads in two grades and a good eraser, is cheaper than replacing poor ones every term.
+                A wobbly compass and a chipped set square cost marks on every construction, because accuracy to the millimetre is what the examiner checks. Buying a sound kit once, a spring-bow compass, 45 and 30-60 set squares, a protractor, a scale rule, pencils or leads in two grades and a good eraser, is cheaper than replacing poor ones every term, and it is one of the most direct ways a parent can help.
 
                 ## Milestones
-                1. Your teacher's or school's equipment list obtained.
+                1. The teacher's or school's equipment list obtained.
                 2. Two or three options for each item compared on price and build.
                 3. A complete kit bought, borrowed or handed down, with each item checked for accuracy.
-                4. Your name marked on every instrument.
+                4. Your teen's name marked on every instrument.
 
                 ## Notes
                 Start from the **Purchase decision** template. Check a set square by drawing a line along its edge, flipping it and drawing again: the two lines should match. Ask whether the school lends drawing boards and T-squares before buying one.
@@ -94,22 +96,22 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "Every item on the school equipment list is owned or borrowed, tested for accuracy and labelled with your name."
+                success_criteria: "Every item on the school equipment list is owned or borrowed, tested for accuracy and labelled with your teen's name."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Get the equipment list from your Technical Drawing teacher"
+                - "Get the equipment list from the Technical Drawing teacher"
                 - "Price each item at two stationery shops or bookstores"
-                - "Test compass and set square accuracy before you pay"
-                - "Label every instrument with your name"
+                - "Test compass and set square accuracy before paying"
+                - "Label every instrument with your teen's name"
             - name: Home drawing station with a board, light and flat storage
               description: |-
                 ## Purpose
-                Drawing homework done on a bed or a crowded dining table ends up smudged, creased and off square. A fixed corner with a board or flat table, a lamp that lights the paper without shadowing your hand, and a folder or tube that keeps finished sheets flat lets you draw at home with the same accuracy as in class.
+                Drawing homework done on a bed or a crowded dining table ends up smudged, creased and off square. A fixed corner with a board or flat table, a lamp that lights the paper without shadowing the drawing hand, and a folder or tube that keeps finished sheets flat lets your teen draw at home with the same accuracy as in class. Setting this up together takes an afternoon.
 
                 ## Milestones
-                1. A flat surface at least the size of your drawing board kept clear for drawing.
-                2. A lamp placed on the opposite side to your drawing hand.
+                1. A flat surface at least the size of the drawing board kept clear for drawing.
+                2. A lamp placed on the opposite side to the drawing hand.
                 3. A flat folder or tube for finished sheets, so none are folded.
                 4. Instruments kept together in one box beside the board.
               priority: medium
@@ -121,55 +123,55 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Choose a table or corner that can stay set up for drawing"
-                - "Position a lamp on the side opposite your drawing hand"
+                - "Position a lamp on the side opposite their drawing hand"
                 - "Get a flat folder or tube for finished sheets"
                 - "Store every instrument in one box beside the board"
             - name: Baseline sheet of line work, lettering and simple constructions
               description: |-
                 ## Purpose
-                Before learning anything new, one short test sheet shows where you actually stand: line quality, lettering, how accurately you bisect a line and construct a hexagon, and how long it takes. Your teacher can then point to the two or three habits worth fixing first, and later sheets can be compared with this one.
+                Before learning anything new, one short test sheet shows where your teen actually stands: line quality, lettering, how accurately they bisect a line and construct a hexagon, and how long it takes. The teacher can then point to the two or three habits worth fixing first, and later sheets can be compared with this one.
 
                 ## Milestones
                 1. One sheet drawn with a border, title block, a set of line types, a line of capital lettering and two basic constructions.
                 2. The time taken written on the sheet.
-                3. Your teacher's comments on line weight, accuracy and neatness recorded.
-                4. Two habits to fix first written at the top of your plan.
+                3. The teacher's comments on line weight, accuracy and neatness recorded.
+                4. Two habits to fix first written at the top of the plan.
               priority: medium
               deadlineOffsetDays: 14
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A dated baseline sheet carries your teacher's comments, with the two habits to fix first written in your study plan."
+                success_criteria: "A dated baseline sheet carries the teacher's comments, with the two habits to fix first written in the study plan."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
                 - "Draw a border and title block on a fresh sheet"
                 - "Add a row of each line type and a line of capital lettering"
-                - "Construct a regular hexagon and bisect a line, timing yourself"
-                - "Ask your teacher for the two habits to fix first"
+                - "Construct a regular hexagon and bisect a line against the clock"
+                - "Ask the teacher for the two habits to fix first"
             - name: Two-year Technical Drawing study plan by section
               description: |-
                 ## Purpose
-                Plane geometry, solid geometry, your option topics, the SBA and revision all compete for the same two years, and the SBA tends to collide with the heaviest solid geometry. A single plan that sets the syllabus sections against school terms, marks the SBA window and leaves the final term for timed papers keeps the load even.
+                Plane geometry, solid geometry, the option topics, the SBA and revision all compete for the same two years, and the SBA tends to collide with the heaviest solid geometry. Sitting down with your teen to build a single plan that sets the syllabus sections against school terms, marks the SBA window and leaves the final term for timed papers keeps the load even.
 
                 ## Milestones
                 1. Every syllabus section placed in a school term, in syllabus order.
-                2. The SBA design, drawing and submission stages marked against your school's dates.
+                2. The SBA design, drawing and submission stages marked against the school's dates.
                 3. At least one timed practice paper scheduled each month from the start of Form Five.
-                4. The plan checked by your teacher and pinned beside your drawing board.
+                4. The plan checked by the teacher and pinned beside the drawing board.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A written two-year plan places every syllabus section and SBA stage in a term and has been checked by your teacher."
+                success_criteria: "A written two-year plan places every syllabus section and SBA stage in a term and has been checked by the teacher."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
                 - "List the syllabus sections against the terms remaining before the exam"
-                - "Mark the SBA stages using your school's deadlines"
+                - "Mark the SBA stages using the school's deadlines"
                 - "Block one timed practice paper a month from the start of Form Five"
-                - "Ask your teacher to check the plan against the class scheme of work"
+                - "Ask the teacher to check the plan against the class scheme of work"
             - name: Line types, lettering and title block conventions
               description: |-
                 ## Purpose
@@ -178,27 +180,27 @@ starter_structure:
                 ## Milestones
                 1. A reference sheet showing each line type with its pencil grade and use.
                 2. Single-stroke capital lettering practised to a consistent height.
-                3. A standard title block layout agreed with your teacher and used on every sheet.
+                3. A standard title block layout agreed with the teacher and used on every sheet.
                 4. Construction lines kept light enough to stay visible without dominating the drawing.
               priority: medium
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A line type reference sheet and an agreed title block exist, and your next five sheets use both correctly."
+                success_criteria: "A line type reference sheet and an agreed title block exist, and the next five sheets use both correctly."
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
                 - "Draw a reference sheet of every line type with its pencil grade"
                 - "Practise a page of capital lettering between light guide lines"
-                - "Agree a standard title block layout with your teacher"
+                - "Agree a standard title block layout with the teacher"
                 - "Redraw one old sheet using the correct line weights"
             - name: Dimensioning to the conventions examiners expect
               description: |-
                 ## Purpose
-                Dimensions are where many neat drawings lose marks: arrowheads too large, figures written upside down, lines crossing, or the same size given twice. Learning one consistent method, aligned or unidirectional as your syllabus and teacher prefer, and applying it to every drawing from now on removes a quiet but steady loss.
+                Dimensions are where many neat drawings lose marks: arrowheads too large, figures written upside down, lines crossing, or the same size given twice. Learning one consistent method, aligned or unidirectional as the syllabus and teacher prefer, and applying it to every drawing from now on removes a quiet but steady loss.
 
                 ## Milestones
-                1. Your teacher's preferred dimensioning method recorded with a sketch.
+                1. The teacher's preferred dimensioning method recorded with a sketch.
                 2. A reference sheet of linear, angular, radius and diameter dimensions completed.
                 3. Common errors listed: double dimensions, crossing lines, dimensions to hidden detail.
                 4. Three past drawings re-dimensioned to the standard.
@@ -210,9 +212,9 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher which dimensioning method the class should use"
+                - "Ask the teacher which dimensioning method the class should use"
                 - "Draw a reference sheet of linear, angular, radius and diameter dimensions"
-                - "List the dimensioning errors marked on your past work"
+                - "List the dimensioning errors marked on past work"
                 - "Re-dimension three earlier drawings to the agreed standard"
             - name: Sheet layout and spacing views on the paper
               description: |-
@@ -234,12 +236,12 @@ starter_structure:
               tasks:
                 - "Write the overall-size method for spacing views on a card"
                 - "Lay out three past questions on rough paper before drawing"
-                - "Check every view on your next five sheets sits inside the border"
-                - "Time how long your layout takes on a practice question"
+                - "Check every view on the next five sheets sits inside the border"
+                - "Time how long the layout takes on a practice question"
             - name: Construction drills three times a week
               description: |-
                 ## Purpose
-                Geometrical constructions are marked for method and accuracy, and the steps fade quickly if they are only practised in class. Twenty minutes of drills on Monday, Wednesday and Friday, rotating through bisectors, polygons, tangents and loci, keeps every method in your hand rather than in your notes.
+                Geometrical constructions are marked for method and accuracy, and the steps fade quickly if they are only practised in class. Twenty minutes of drills on Monday, Wednesday and Friday, rotating through bisectors, polygons, tangents and loci, keeps every method in your teen's hand rather than only in their notes.
 
                 ## Milestones
                 1. A rotation of constructions listed in syllabus order.
@@ -256,7 +258,7 @@ starter_structure:
                 success_criteria: "Three dated drill sheets a week are filed for at least ten weeks of a term, covering every construction taught so far."
                 cadence: rolling
               tasks:
-                - "List the constructions you have been taught so far in syllabus order"
+                - "List the constructions taught so far in syllabus order"
                 - "Do a twenty-minute construction drill @recurring(weekly:mon,wed,fri)"
                 - "Add the newest construction from class to the rotation @recurring(monthly:12)"
                 - "File each dated drill sheet in one folder"
@@ -279,21 +281,21 @@ starter_structure:
               tasks:
                 - "Get a sketchbook for freehand work only"
                 - "Sketch one real object in pictorial and three views @recurring(weekly:sat)"
-                - "Measure the object and note where your proportions drifted"
-                - "Compare your first and latest sketches at the end of term"
+                - "Measure the object and note where the proportions drifted"
+                - "Together, compare the first and latest sketches at the end of term"
             - name: Monthly timed Paper 01 practice
               description: |-
                 ## Purpose
-                Paper 01 tests recall of conventions, terms and quick constructions across the whole syllabus, and it rewards breadth rather than drawing skill. A timed set each month shows which sections you are guessing on and keeps Form Four topics alive while Form Five work takes over.
+                Paper 01 tests recall of conventions, terms and quick constructions across the whole syllabus, and it rewards breadth rather than drawing skill. A timed set each month shows which sections your teen is guessing on and keeps Form Four topics alive while Form Five work takes over.
 
                 ## Milestones
-                1. A source of Paper 01 style questions identified: past papers, your textbook or your teacher.
+                1. A source of Paper 01 style questions identified: past papers, the textbook or the teacher.
                 2. One timed set completed each month.
                 3. Scores logged by section with the date.
-                4. Every wrong answer traced to its topic and corrected in your notes.
+                4. Every wrong answer traced to its topic and corrected in the notes.
 
                 ## Notes
-                Start from the **Metrics log** template. A rising score in one section and a flat one in another tells you where to spend next month.
+                Start from the **Metrics log** template. A rising score in one section and a flat one in another shows you both where to spend next month.
               priority: medium
               frontmatter:
                 mode: operating
@@ -301,19 +303,19 @@ starter_structure:
                 success_criteria: "A log shows a dated, section-by-section Paper 01 score for each month from the start of Form Five."
                 cadence: rolling
               tasks:
-                - "Ask your teacher for multiple-choice practice sets or past items"
+                - "Ask the teacher for multiple-choice practice sets or past items"
                 - "Sit a timed set of Paper 01 practice questions @recurring(monthly:9)"
                 - "Log the score by syllabus section"
-                - "Correct every wrong answer in your notes with the right method"
+                - "Correct every wrong answer in the notes with the right method"
             - name: Monthly timed Paper 02 drawing question
               description: |-
                 ## Purpose
-                Drawing to time is a different skill from drawing well: under the clock, students skip layout, rush construction lines and leave views unfinished. One full Paper 02 question each month, drawn against the time your teacher suggests and marked with a scheme, builds the pace you need while there is still time to fix it.
+                Drawing to time is a different skill from drawing well: under the clock, students skip layout, rush construction lines and leave views unfinished. One full Paper 02 question each month, drawn against the time the teacher suggests and marked with a scheme, builds the pace your teen needs while there is still time to fix it.
 
                 ## Milestones
                 1. A collection of past Paper 02 questions sorted by section.
                 2. One question drawn under time each month.
-                3. Each attempt marked against a mark scheme or by your teacher.
+                3. Each attempt marked against a mark scheme or by the teacher.
                 4. Time per question recorded and compared month to month.
               priority: medium
               frontmatter:
@@ -322,9 +324,9 @@ starter_structure:
                 success_criteria: "One timed, marked Paper 02 question is filed for each month, with the time taken recorded beside the score."
                 cadence: rolling
               tasks:
-                - "Sort your past Paper 02 questions by syllabus section"
+                - "Sort past Paper 02 questions by syllabus section"
                 - "Draw one Paper 02 question against the clock @recurring(monthly:20)"
-                - "Mark the attempt with a mark scheme or hand it to your teacher"
+                - "Mark the attempt with a mark scheme or hand it to the teacher"
                 - "Record the time taken beside the score"
             - name: Lost-marks log for drawing questions
               description: |-
@@ -346,15 +348,15 @@ starter_structure:
                 - "Set up a lost-marks log with date, question, mark and cause columns"
                 - "Enter every mark lost on returned sheets @recurring(weekly:sun)"
                 - "Pick out the three most frequent faults in the log @recurring(monthly:27)"
-                - "Ask the agent to turn your top faults into a one-page pre-submission checklist"
+                - "Ask the agent to turn the top faults into a one-page pre-submission checklist"
             - name: Construction method recall cards
               description: |-
                 ## Purpose
-                Many geometry questions only say what to construct, not how, so you must recall the method cold: the ellipse by concentric circles, a tangent from an external point, a regular polygon on a given side. A set of cards with the problem on one side and the numbered steps on the other, tested weekly, makes those methods automatic.
+                Many geometry questions only say what to construct, not how, so the method has to come back cold: the ellipse by concentric circles, a tangent from an external point, a regular polygon on a given side. A set of cards with the problem on one side and the numbered steps on the other, tested weekly, makes those methods automatic, and it is an easy way for you to help without knowing the subject.
 
                 ## Milestones
                 1. A card for every construction taught, with a sketch of the steps.
-                2. Cards tested weekly, with the ones you miss kept at the front.
+                2. Cards tested weekly, with the missed ones kept at the front.
                 3. Every card answered correctly twice in a row before it moves to the back.
                 4. The full set covering all plane and solid geometry topics by the end of Form Five.
               priority: low
@@ -365,8 +367,8 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Make a card for each construction taught so far"
-                - "Test yourself on ten construction cards @recurring(weekly:tue)"
-                - "Move the cards you miss to the front of the stack"
+                - "Offer to test your teen on ten construction cards @recurring(weekly:tue)"
+                - "Move the missed cards to the front of the stack"
                 - "Add a card the same week a new construction is taught"
             - name: Drawing kit care and sharp leads routine
               description: |-
@@ -385,18 +387,18 @@ starter_structure:
                 success_criteria: "The instrument box always holds spare leads and an eraser, and no instrument fails an accuracy check before a test."
                 cadence: rolling
               tasks:
-                - "Put a sharpener, cloth and spare leads in your instrument box"
+                - "Put a sharpener, cloth and spare leads in the instrument box"
                 - "Sharpen leads, check the compass and wipe set squares @recurring(weekly:fri)"
                 - "Test set squares for accuracy and replace any that fail"
                 - "Restock leads and erasers before each term starts"
-            - name: Termly progress review with your Technical Drawing teacher
+            - name: Termly progress review with the Technical Drawing teacher
               description: |-
                 ## Purpose
-                Teachers see a whole class of sheets and may not raise your particular gaps unless asked. A short conversation each term, bringing your lost-marks log, latest timed scores and SBA progress, gets specific advice and keeps the SBA deadlines in view for both of you.
+                Teachers see a whole class of sheets and may not raise one student's particular gaps unless asked. A short conversation each term, with your teen bringing their lost-marks log, latest timed scores and SBA progress, gets specific advice and keeps the SBA deadlines in view for everyone. Let your teen lead it where they can, and join in or follow up if they want you there.
 
                 ## Milestones
                 1. A ten-minute slot agreed each term.
-                2. Your log, scores and latest sheets brought to each meeting.
+                2. The lost-marks log, scores and latest sheets brought to each meeting.
                 3. Two or three agreed actions written down after each conversation.
                 4. Actions from the previous meeting checked at the start of the next.
 
@@ -406,12 +408,12 @@ starter_structure:
               frontmatter:
                 mode: operating
                 output_kind: habit
-                success_criteria: "Each term has a dated note of a review with your teacher, listing two or three agreed actions and the status of the last ones."
+                success_criteria: "Each term has a dated note of a review with the teacher, listing two or three agreed actions and the status of the last ones."
                 cadence: rolling
               tasks:
-                - "Ask your teacher for a short review slot this term"
-                - "Book a progress talk with your Technical Drawing teacher @recurring(quarterly)"
-                - "Bring your lost-marks log and latest timed scores"
+                - "Ask the teacher for a short review slot this term"
+                - "Book a progress talk with the Technical Drawing teacher @recurring(quarterly)"
+                - "Bring the lost-marks log and latest timed scores"
                 - "Write down the actions agreed before leaving"
             - name: Topic confidence matrix across the syllabus
               description: |-
@@ -434,9 +436,9 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "List every syllabus topic in a matrix with a four-point scale"
-                - "Rerate every topic using your latest marks @recurring(monthly:3)"
+                - "Rerate every topic using the latest marks @recurring(monthly:3)"
                 - "Schedule the two weakest taught topics into next month's drills"
-                - "Share the matrix with your teacher before the termly review"
+                - "Share the matrix with the teacher before the termly review"
             - name: Lines, angles, bisectors and dividing lines in proportion
               description: |-
                 ## Purpose
@@ -462,7 +464,7 @@ starter_structure:
             - name: Triangles, quadrilaterals and regular polygons from given data
               description: |-
                 ## Purpose
-                Questions often give a perimeter and a ratio of sides, an altitude and base angles, or a side and the number of sides, and expect a construction rather than a calculation. Practising each type of given data, including inscribing and circumscribing polygons in circles, prepares you for the variety the papers use.
+                Questions often give a perimeter and a ratio of sides, an altitude and base angles, or a side and the number of sides, and expect a construction rather than a calculation. Practising each type of given data, including inscribing and circumscribing polygons in circles, prepares your teen for the variety the papers use.
 
                 ## Milestones
                 1. Triangles constructed from perimeter and ratio, and from altitude and base angles.
@@ -485,7 +487,7 @@ starter_structure:
             - name: Circles, tangents and tangency arcs
               description: |-
                 ## Purpose
-                Tangency is central both to plane geometry and to drawing real objects, since spanners, brackets and gaskets are outlines of arcs meeting lines smoothly. The marks go to showing the centres and tangent points, so practise finding them by construction and marking them clearly.
+                Tangency is central both to plane geometry and to drawing real objects, since spanners, brackets and gaskets are outlines of arcs meeting lines smoothly. The marks go to showing the centres and tangent points, so the practice is in finding them by construction and marking them clearly.
 
                 ## Milestones
                 1. Tangents drawn to a circle from a point on it and from an external point.
@@ -508,7 +510,7 @@ starter_structure:
             - name: Plain and diagonal scales, enlargement and reduction
               description: |-
                 ## Purpose
-                Scales let you read and draw sizes too small or too large for the paper, and a diagonal scale reads to a finer division than a plain one. Constructing both from a given representative fraction, then enlarging and reducing plane figures by a stated ratio, covers a topic that appears in geometry and again in building drawing.
+                Scales make it possible to read and draw sizes too small or too large for the paper, and a diagonal scale reads to a finer division than a plain one. Constructing both from a given representative fraction, then enlarging and reducing plane figures by a stated ratio, covers a topic that appears in geometry and again in building drawing.
 
                 ## Milestones
                 1. The representative fraction explained in a sentence with a worked example.
@@ -531,7 +533,7 @@ starter_structure:
             - name: Equivalent areas and reducing polygons to triangles
               description: |-
                 ## Purpose
-                Equivalent area questions ask you to turn one shape into another of equal area by construction: a polygon into a triangle, a triangle into a square, or a figure divided into equal parts. They look unfamiliar but follow a small number of methods, which makes them reliable marks once practised.
+                Equivalent area questions ask candidates to turn one shape into another of equal area by construction: a polygon into a triangle, a triangle into a square, or a figure divided into equal parts. They look unfamiliar but follow a small number of methods, which makes them reliable marks once practised.
 
                 ## Milestones
                 1. An irregular polygon reduced step by step to a triangle of equal area.
@@ -553,7 +555,7 @@ starter_structure:
             - name: The ellipse, parabola and hyperbola
               description: |-
                 ## Purpose
-                Conic sections come up as loci and as the true shape of a cone cut by a plane, so they link plane and solid geometry. Knowing more than one method for the ellipse (concentric circles, rectangle, trammel, foci) and how to draw tangents and normals on it, plus the parabola and hyperbola, keeps you ready for whichever method a question names.
+                Conic sections come up as loci and as the true shape of a cone cut by a plane, so they link plane and solid geometry. Knowing more than one method for the ellipse (concentric circles, rectangle, trammel, foci) and how to draw tangents and normals on it, plus the parabola and hyperbola, keeps your teen ready for whichever method a question names.
 
                 ## Milestones
                 1. An ellipse constructed by concentric circles, by the rectangle method and by a trammel.
@@ -570,7 +572,7 @@ starter_structure:
                 effort_hours_estimate: "8"
               tasks:
                 - "Draw an ellipse by the concentric circles method and by a trammel"
-                - "Construct a tangent and normal at a point on your ellipse"
+                - "Construct a tangent and normal at a point on the ellipse"
                 - "Draw a parabola and a hyperbola from given focus and directrix data"
                 - "Complete past-paper conic section questions and mark them"
             - name: Loci of mechanisms, cycloids, involutes and spirals
@@ -580,7 +582,7 @@ starter_structure:
 
                 ## Milestones
                 1. The locus of a point on a simple link mechanism plotted through a full cycle.
-                2. A cycloid plotted for a circle rolling along a line, with an epicycloid or hypocycloid if your syllabus lists them.
+                2. A cycloid plotted for a circle rolling along a line, with an epicycloid or hypocycloid if the syllabus lists them.
                 3. An involute of a circle and of a square drawn.
                 4. An Archimedean spiral constructed from given data.
                 5. Past-paper loci questions completed and marked.
@@ -622,7 +624,7 @@ starter_structure:
             - name: Isometric drawing and isometric circles
               description: |-
                 ## Purpose
-                Isometric drawings appear as questions on their own and as the pictorial you work from, and many students lose marks on curves rather than straight edges. Practising boxes, cut blocks, circles by the four-centre method or by plotting, and curved surfaces, makes your pictorials as accurate as your orthographic views.
+                Isometric drawings appear as questions on their own and as the pictorial a candidate works from, and many students lose marks on curves rather than straight edges. Practising boxes, cut blocks, circles by the four-centre method or by plotting, and curved surfaces, makes your teen's pictorials as accurate as their orthographic views.
 
                 ## Milestones
                 1. Isometric drawings of cut blocks made from given orthographic views.
@@ -645,7 +647,7 @@ starter_structure:
             - name: Oblique drawing in cavalier and cabinet styles
               description: |-
                 ## Purpose
-                Oblique drawing is quicker than isometric for objects with circular faces, because the front face stays true shape. Knowing when to use cavalier or cabinet receding lengths, and which face to put at the front, gives you a fast pictorial method for sketches, SBA design ideas and any question that asks for it.
+                Oblique drawing is quicker than isometric for objects with circular faces, because the front face stays true shape. Knowing when to use cavalier or cabinet receding lengths, and which face to put at the front, gives your teen a fast pictorial method for sketches, SBA design ideas and any question that asks for it.
 
                 ## Milestones
                 1. The same object drawn in cavalier and cabinet oblique, with the receding scale noted.
@@ -667,7 +669,7 @@ starter_structure:
             - name: Sectional views and cutting planes
               description: |-
                 ## Purpose
-                Sections reveal the inside of a part, and both options rely on them: wall sections in building drawing, sectioned assemblies in mechanical drawing. The rules are precise (cutting plane line and labels, hatching at the right angle and spacing, and what is never sectioned), so learn them as rules and apply them every time.
+                Sections reveal the inside of a part, and both options rely on them: wall sections in building drawing, sectioned assemblies in mechanical drawing. The rules are precise (cutting plane line and labels, hatching at the right angle and spacing, and what is never sectioned), so they are best learned as rules and applied every time.
 
                 ## Milestones
                 1. A sectional view drawn from a given cutting plane, with labels and hatching.
@@ -733,10 +735,10 @@ starter_structure:
             - name: Interpenetration of solids and curves of intersection
               description: |-
                 ## Purpose
-                Interpenetration questions, a pipe meeting a pipe, a prism through a cylinder, a cone and cylinder joint, are often the hardest on the geometry section and the most avoided. Learning the cutting-plane method for finding points on the curve of intersection, and practising a few until the method is familiar, turns a feared question into a choice you can make.
+                Interpenetration questions, a pipe meeting a pipe, a prism through a cylinder, a cone and cylinder joint, are often the hardest on the geometry section and the most avoided. Learning the cutting-plane method for finding points on the curve of intersection, and practising a few until the method is familiar, turns a feared question into a choice your teen can make.
 
                 ## Milestones
-                1. The cutting-plane method explained in your own words with a sketch.
+                1. The cutting-plane method explained in plain words with a sketch.
                 2. The intersection of two cylinders at right angles and at an angle drawn.
                 3. The intersection of a prism and a cylinder drawn.
                 4. A cone and cylinder intersection attempted.
@@ -756,7 +758,7 @@ starter_structure:
             - name: Foundations, walls and floors for the building option
               description: |-
                 ## Purpose
-                Building drawing asks you to draw construction details to scale with the right conventions, so you need to understand how a small Caribbean house is actually built: strip and pad foundations, reinforced concrete block walls with ring beams, ground floor slabs and suspended timber floors. Drawing each detail as a labelled section is the best way to learn both the construction and the symbols.
+                Building drawing asks candidates to draw construction details to scale with the right conventions, so your teen needs to understand how a small Caribbean house is actually built: strip and pad foundations, reinforced concrete block walls with ring beams, ground floor slabs and suspended timber floors. Drawing each detail as a labelled section is the best way to learn both the construction and the symbols.
 
                 ## Milestones
                 1. Sections through a strip foundation and a concrete ground floor slab drawn and labelled.
@@ -766,7 +768,7 @@ starter_structure:
                 5. Past-paper foundation and wall questions completed and marked.
 
                 ## Notes
-                Your textbook and teacher are the reference for which details your syllabus expects. A walk past a building site, looking from the road, shows the same blocks, steel and formwork you are drawing.
+                The textbook and teacher are the reference for which details the syllabus expects. A walk past a building site together, looking from the road, shows the same blocks, steel and formwork your teen is drawing.
               priority: medium
               frontmatter:
                 mode: learning
@@ -782,7 +784,7 @@ starter_structure:
             - name: Roofs, doors, windows and stairs for the building option
               description: |-
                 ## Purpose
-                Roof, door, window and stair details are where building drawing meets hurricane-season reality: trusses, rafters tied down with straps, louvres and casements, and stairs with consistent risers and goings. Drawing each element in plan, elevation and section, with correct conventions, prepares you for detail questions and gives you the parts your SBA building will need.
+                Roof, door, window and stair details are where building drawing meets hurricane-season reality: trusses, rafters tied down with straps, louvres and casements, and stairs with consistent risers and goings. Drawing each element in plan, elevation and section, with correct conventions, prepares your teen for detail questions and gives them the parts their SBA building will need.
 
                 ## Milestones
                 1. A gable and a hip roof drawn with trusses or rafters and tie-down details labelled.
@@ -816,18 +818,18 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A complete set of plan, two elevations, a section and a site plan for one small house is drawn to scale and checked by your teacher."
+                success_criteria: "A complete set of plan, two elevations, a section and a site plan for one small house is drawn to scale and checked by the teacher."
                 cadence: phased
                 effort_hours_estimate: "14"
               tasks:
                 - "Draw a floor plan of a two-bedroom house from a simple brief"
-                - "Project the front and side elevations from your plan"
+                - "Project the front and side elevations from the plan"
                 - "Draw a section from foundation to roof through the living area"
                 - "Add a site plan with boundaries, access and north point"
             - name: Fasteners, screw threads and locking devices for the mechanical option
               description: |-
                 ## Purpose
-                Mechanical engineering drawing relies on standard parts drawn by convention rather than from life: bolts and nuts by approximate proportions, screw threads in conventional form, washers, studs, set screws, locking devices, keys and rivets. Learning the proportions and conventions for each lets you draw them quickly and correctly inside any assembly.
+                Mechanical engineering drawing relies on standard parts drawn by convention rather than from life: bolts and nuts by approximate proportions, screw threads in conventional form, washers, studs, set screws, locking devices, keys and rivets. Learning the proportions and conventions for each lets your teen draw them quickly and correctly inside any assembly.
 
                 ## Milestones
                 1. A hexagonal bolt and nut drawn in two views using standard proportions.
@@ -850,7 +852,7 @@ starter_structure:
             - name: Sectioned assembly drawings from detail parts
               description: |-
                 ## Purpose
-                The classic mechanical question gives you detail drawings of several parts and asks you to assemble them in a sectional view, with the right parts hatched, the right ones left solid and a parts list. Practising with past questions, a vice, a bearing block, a coupling, a pulley on its bracket, trains the spatial reasoning this option is built on.
+                The classic mechanical question gives candidates detail drawings of several parts and asks for them to be assembled in a sectional view, with the right parts hatched, the right ones left solid and a parts list. Practising with past questions, a vice, a bearing block, a coupling, a pulley on its bracket, trains the spatial reasoning this option is built on.
 
                 ## Milestones
                 1. The assembly sequence worked out on rough paper before drawing.
@@ -873,7 +875,7 @@ starter_structure:
             - name: Bearings, couplings, pulleys and other syllabus components
               description: |-
                 ## Purpose
-                Beyond fasteners, the mechanical option draws on a set of common machine components, bearings and bearing blocks, shaft couplings, pulleys and others your syllabus names. Knowing what each part does and how it is usually drawn means an unfamiliar assembly question still looks like parts you have met.
+                Beyond fasteners, the mechanical option draws on a set of common machine components, bearings and bearing blocks, shaft couplings, pulleys and others the syllabus names. Knowing what each part does and how it is usually drawn means an unfamiliar assembly question still looks like parts your teen has met.
 
                 ## Milestones
                 1. The list of mechanical components in the current syllabus copied out.
@@ -896,37 +898,37 @@ starter_structure:
             - name: SBA brief, design idea and sheet plan agreed
               description: |-
                 ## Purpose
-                Your Technical Drawing SBA is a set of drawings in your chosen option, and its marks are earned across the process, not just on the final sheets. Agreeing a brief, a design idea and a sheet-by-sheet plan early, with your teacher's approval, avoids the scramble of choosing a design in the term it is due.
+                The Technical Drawing SBA is a set of drawings in your teen's chosen option, and its marks are earned across the process, not just on the final sheets. Encouraging them to agree a brief, a design idea and a sheet-by-sheet plan early, with the teacher's approval, avoids the scramble of choosing a design in the term it is due.
 
                 ## Milestones
                 1. The SBA requirements and mark criteria in the current syllabus read and summarised.
-                2. A brief written: what you will design or detail, for whom, and which drawings are needed.
-                3. Two or three design ideas sketched freehand and one chosen with your teacher.
+                2. A brief written: what will be designed or detailed, for whom, and which drawings are needed.
+                3. Two or three design ideas sketched freehand and one chosen with the teacher.
                 4. A sheet-by-sheet plan with dates set back from the school deadline.
 
                 ## Notes
-                Your school's deadline, not the CXC one, is the date that matters. Keep every rough sketch, since design development may carry marks.
+                The school's deadline, not the CXC one, is the date that matters. Ask your teen to keep every rough sketch, since design development may carry marks.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
                 mode: building
                 output_kind: deliverable
-                success_criteria: "A written SBA brief, a chosen design approved by your teacher and a dated sheet plan exist before the first sheet is drawn."
+                success_criteria: "A written SBA brief, a chosen design approved by the teacher and a dated sheet plan exist before the first sheet is drawn."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
                 - "Read the SBA section of the current syllabus and note the mark criteria"
-                - "Write a one-paragraph brief for your design"
-                - "Sketch three design ideas freehand and choose one with your teacher"
+                - "Ask your teen to write a one-paragraph brief for the design"
+                - "Sketch three design ideas freehand and choose one with the teacher"
                 - "Set dates for each SBA sheet working back from the school deadline"
             - name: SBA drawings produced sheet by sheet
               description: |-
                 ## Purpose
-                SBA sheets drawn in a rush the week before submission show it in uneven line work and missing dimensions. Producing one sheet at a time, each checked by your teacher before the next starts, spreads the work across the term and catches convention errors while they are still easy to fix.
+                SBA sheets drawn in a rush the week before submission show it in uneven line work and missing dimensions. Producing one sheet at a time, each checked by the teacher before the next starts, spreads the work across the term and catches convention errors while they are still easy to fix.
 
                 ## Milestones
                 1. Every planned sheet drawn to scale with its title block completed.
-                2. Each sheet checked by your teacher and corrections made.
+                2. Each sheet checked by the teacher and corrections made.
                 3. Dimensions, labels, hatching and notes complete on every sheet.
                 4. All sheets stored flat and photographed as a backup.
               priority: medium
@@ -934,18 +936,18 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: deliverable
-                success_criteria: "Every SBA sheet in the plan is drawn, checked by your teacher, corrected and photographed before the final check."
+                success_criteria: "Every SBA sheet in the plan is drawn, checked by the teacher, corrected and photographed before the final check."
                 cadence: phased
                 effort_hours_estimate: "30"
               tasks:
                 - "Draw the first SBA sheet to scale with a full title block"
-                - "Show your teacher the latest SBA sheet for checking @recurring(weekly:wed)"
+                - "Check that the latest SBA sheet has gone to the teacher @recurring(weekly:wed)"
                 - "Correct every point raised before starting the next sheet"
                 - "Photograph each finished sheet as a backup"
             - name: Final SBA check and submission
               description: |-
                 ## Purpose
-                A last check against the mark criteria catches the small things that cost marks on otherwise good work: a missing title block field, an unlabelled view, a sheet out of order. Submitting before the school deadline, with a record of what was handed in, protects you if anything goes missing.
+                A last check against the mark criteria catches the small things that cost marks on otherwise good work: a missing title block field, an unlabelled view, a sheet out of order. Submitting before the school deadline, with a record of what was handed in, protects your teen if anything goes missing.
 
                 ## Milestones
                 1. Every sheet checked against the mark criteria with a tick list.
@@ -973,50 +975,50 @@ starter_structure:
                 ## Milestones
                 1. The subject reports for the last three sittings found and read.
                 2. Recurring weaknesses listed with the questions they came from.
-                3. Your own lost-marks log compared with the list.
+                3. Your teen's own lost-marks log compared with the list.
                 4. Mark schemes or teacher-marked samples collected for at least five past questions.
               priority: medium
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A one-page list of weaknesses from three years of subject reports is compared with your lost-marks log and filed with your notes."
+                success_criteria: "A one-page list of weaknesses from three years of subject reports is compared with the lost-marks log and filed with the notes."
                 cadence: cyclic
               tasks:
                 - "Find the Technical Drawing subject reports on the CXC website"
                 - "List the weaknesses examiners mention in more than one year"
-                - "Compare the list with your own lost-marks log"
+                - "Compare the list with the lost-marks log"
                 - "Read the newest subject report when CXC publishes it @recurring(yearly)"
             - name: Full Technical Drawing mock exam under timed conditions
               description: |-
                 ## Purpose
-                Sitting every paper in one session, in the order and timing of the real timetable, is the only way to test stamina, layout speed and whether your kit holds up. A mock about two months before the exam leaves time to fix what it exposes.
+                Sitting every paper in one session, in the order and timing of the real timetable, is the only way to test stamina, layout speed and whether the kit holds up. A mock about two months before the exam leaves time to fix what it exposes.
 
                 ## Milestones
                 1. A full past paper or school mock sat under exam conditions with the real timing.
-                2. Every answer marked against the mark scheme or by your teacher.
+                2. Every answer marked against the mark scheme or by the teacher.
                 3. Unfinished questions and the reason for each (layout, method, speed) noted.
-                4. A short fix list for the final weeks agreed with your teacher.
+                4. A short fix list for the final weeks agreed with the teacher.
               priority: high
               deadlineOffsetDays: 200
               frontmatter:
                 mode: event
                 output_kind: event-completion
-                success_criteria: "A full mock is sat under timed conditions, marked, and turned into a written fix list agreed with your teacher."
+                success_criteria: "A full mock is sat under timed conditions, marked, and turned into a written fix list agreed with the teacher."
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Choose a complete past paper your teacher has not used in class"
+                - "Choose a complete past paper the teacher has not used in class"
                 - "Sit Paper 01 and Paper 02 under timed exam conditions"
-                - "Mark both papers or hand them to your teacher"
+                - "Mark both papers or hand them to the teacher"
                 - "Write a fix list from the unfinished and weakest answers"
             - name: Final eight weeks Technical Drawing revision timetable
               description: |-
                 ## Purpose
-                The last eight weeks are for timed papers and weak topics, not new learning. A week-by-week timetable that gives each geometry topic and your option a turn, with a full Paper 02 every Saturday, keeps revision honest and leaves the last week light.
+                The last eight weeks are for timed papers and weak topics, not new learning. A week-by-week timetable that gives each geometry topic and the option a turn, with a full Paper 02 every Saturday, keeps revision honest and leaves the last week light.
 
                 ## Milestones
                 1. A week-by-week plan from eight weeks out to exam day.
-                2. The weakest topics from your matrix and mock given extra slots.
+                2. The weakest topics from the matrix and mock given extra slots.
                 3. A full Paper 02 sat every week and marked.
                 4. A light final week planned with only short drills and kit checks.
               priority: high
@@ -1028,7 +1030,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Draft the eight-week timetable from your topic matrix and mock results"
+                - "Together, draft the eight-week timetable from the topic matrix and mock results"
                 - "Give the three weakest topics an extra slot each week"
                 - "Sit a full past Paper 02 under time @recurring(weekly:sat)"
                 - "Keep the last week to short drills and a kit check"
@@ -1039,7 +1041,7 @@ starter_structure:
 
                 ## Milestones
                 1. A kit checklist matching the permitted equipment, with spares for leads, erasers and compass.
-                2. The paper, date and centre confirmed from your official timetable.
+                2. The paper, date and centre confirmed from the official timetable.
                 3. A question-choosing routine practised on a past paper.
                 4. Kit packed and checked the night before.
 
@@ -1055,9 +1057,9 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Write a kit checklist with spares for leads, erasers and compass"
-                - "Confirm your exam dates and centre from the official timetable"
+                - "Confirm the exam dates and centre from the official timetable"
                 - "Practise reading a past paper and choosing questions in five minutes"
-                - "Pack and check the kit the night before each paper"
+                - "Offer to check the packed kit the night before each paper"
             - name: Parent support for a CSEC Technical Drawing student
               description: |-
                 ## Purpose
@@ -1076,13 +1078,13 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Write the SBA and exam dates on the family calendar"
-                - "Ask your child to show you the kit list and what is missing"
+                - "Ask your teen to show you the kit list and what is missing"
                 - "Hold a ten-minute check-in on the latest drawing and the plan @recurring(monthly:15)"
                 - "Arrange one conversation with the teacher each term"
             - name: Teacher or tutor tracker for a Technical Drawing class
               description: |-
                 ## Purpose
-                A Technical Drawing teacher must track constructions taught, sheets returned, SBA stages and timed paper scores across a whole class, often with two options running at once. A single tracker with a row per student shows who is behind on SBA sheets and which topics the whole class needs again.
+                A Technical Drawing teacher must track constructions taught, sheets returned, SBA stages and timed paper scores across a whole class, often with two options running at once. A single tracker with a row per student shows who is behind on SBA sheets and which topics the whole class needs again. If your teen has a tutor or a teacher who would find it useful, share this project with them.
 
                 ## Milestones
                 1. A tracker with a row per student and columns for option, SBA stages and timed scores.
@@ -1103,7 +1105,7 @@ starter_structure:
             - name: Paper 032 route for private Technical Drawing candidates
               description: |-
                 ## Purpose
-                Private candidates without a school cannot do the SBA in the usual way and sit Paper 032, the alternative paper, instead. Studying alone also means finding past papers, a source of feedback and the discipline of a fixed weekly session, so plan those before registering through the local registrar.
+                Private candidates without a school cannot do the SBA in the usual way and sit Paper 032, the alternative paper, instead. If your teen is sitting privately, studying without a class also means finding past papers, a source of feedback and the discipline of a fixed weekly session, so plan those together before registering through the local registrar.
 
                 ## Milestones
                 1. Registration through the local registrar confirmed, with Paper 032 noted on the entry.
@@ -1115,13 +1117,13 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Your entry is confirmed with Paper 032, a named person marks your drawings, and a weekly session is kept for a full term."
+                success_criteria: "The entry is confirmed with Paper 032, a named person marks your teen's drawings, and a weekly session is kept for a full term."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
                 - "Contact the local CXC registrar about private entry for Technical Drawing"
                 - "Read the Paper 032 section of the current syllabus"
-                - "Find a tutor or teacher willing to mark your drawings"
+                - "Find a tutor or teacher willing to mark the drawings"
                 - "Keep a fixed weekly drawing session at home @recurring(weekly:tue)"
             - name: Results, reviews and where Technical Drawing leads next
               description: |-
@@ -1129,49 +1131,49 @@ starter_structure:
                 Results come with an overall grade and profile grades, and a disappointing result can be queried through a review within a set window. Knowing the next steps in advance, from CAPE Building and Mechanical Engineering Drawing to technical college, drafting, architecture and engineering routes, turns results day into a decision rather than a surprise.
 
                 ## Milestones
-                1. Your results and profile grades recorded when released.
+                1. Your teen's results and profile grades recorded when released.
                 2. The review process and its window checked on the CXC website.
                 3. Two or three next steps listed: CAPE, technical college or an apprenticeship route.
-                4. A decision on next steps made with a parent or teacher.
+                4. A decision on next steps made together, with the teacher's view where useful.
               priority: medium
               deadlineOffsetDays: 330
               frontmatter:
                 mode: event
                 output_kind: decision
-                success_criteria: "Your results are recorded, the review window is noted, and a next step is chosen and written down with a parent or teacher."
+                success_criteria: "The results are recorded, the review window is noted, and a next step is chosen and written down together."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
                 - "Note when results are expected and how to view them"
                 - "Check the review process and its deadline on the CXC website"
                 - "List two or three next steps that build on Technical Drawing"
-                - "Talk the options through with a parent or teacher"
+                - "Talk the options through with your teen and their teacher"
             - name: Computer-aided drafting alongside board drawing
               description: |-
                 ## Purpose
-                Industry now drafts mostly on computers, and some schools introduce CAD alongside the board. Learning a free CAD package by redrawing work you have already done by hand shows how the same conventions carry over and gives a head start for CAPE, technical college or a drafting job, while the exam itself is drawn as your current syllabus specifies.
+                Industry now drafts mostly on computers, and some schools introduce CAD alongside the board. Learning a free CAD package by redrawing work already done by hand shows your teen how the same conventions carry over and gives a head start for CAPE, technical college or a drafting job, while the exam itself is drawn as the current syllabus specifies.
 
                 ## Milestones
                 1. A free or school-licensed CAD package installed or accessed.
                 2. Lines, circles, layers and dimension styles learned on a simple part.
                 3. Three hand drawings redrawn in CAD with correct line types.
-                4. One past-paper drawing reproduced in CAD and compared with your board version.
+                4. One past-paper drawing reproduced in CAD and compared with the board version.
               priority: low
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Three of your hand drawings are redrawn in CAD using layers for visible, hidden and centre lines."
+                success_criteria: "Three of your teen's hand drawings are redrawn in CAD using layers for visible, hidden and centre lines."
                 cadence: phased
                 effort_hours_estimate: "20"
               tasks:
                 - "Install a free CAD package or ask about access in the school lab"
                 - "Draw a simple part using lines, circles and dimensions"
                 - "Set up layers for visible, hidden and centre lines"
-                - "Redraw one of your hand drawings in CAD @recurring(monthly:24)"
+                - "Redraw one hand drawing in CAD @recurring(monthly:24)"
 ---
 
 # CSEC Technical Drawing
 
-This area takes a CSEC Technical Drawing student from the first syllabus check to results day. It opens with the foundations (the syllabus and paper format, the building or mechanical option choice, a sound drawing kit, a home drawing station, a baseline sheet, a two-year plan and the conventions of line, lettering, dimensions and layout), sets up the practice routines, then works through the syllabus in order: plane geometry from basic constructions to loci, solid geometry from orthographic projection to interpenetration, and the building and mechanical options, before the SBA, examiner reports, the mock, the final weeks and exam day, with projects for parents, teachers and private candidates and a CAD project at the end.
+This area helps a parent or guardian support a CSEC Technical Drawing student from the first syllabus check to results day. It opens with the foundations (the syllabus and paper format, the building or mechanical option choice, a sound drawing kit, a home drawing station, a baseline sheet, a two-year plan and the conventions of line, lettering, dimensions and layout), sets up the practice routines, then works through the syllabus in order: plane geometry from basic constructions to loci, solid geometry from orthographic projection to interpenetration, and the building and mechanical options, before the SBA, examiner reports, the mock, the final weeks and exam day, with projects for teachers and private candidates and a CAD project at the end.
 
-The rhythm is three short construction drills a week, a weekly freehand sketch, weekly recall cards and a lost-marks log, a monthly timed Paper 01 set and Paper 02 question, a monthly topic rating and a termly talk with your teacher. The Purchase decision, Habit tracker, Metrics log, Skills matrix, Meeting notes and Operational checklist templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is three short construction drills a week, a weekly freehand sketch, weekly recall cards and a lost-marks log, a monthly timed Paper 01 set and Paper 02 question, a monthly topic rating and a termly talk with the teacher. The Purchase decision, Habit tracker, Metrics log, Skills matrix, Meeting notes and Operational checklist templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

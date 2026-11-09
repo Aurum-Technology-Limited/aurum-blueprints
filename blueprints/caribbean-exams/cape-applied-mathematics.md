@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.cape-applied-mathematics
 name: CAPE Applied Mathematics
-description: "CAPE Applied Mathematics from syllabus check to exam day: data, probability and inference in Unit 1, discrete methods and mechanics in Unit 2, both internal assessments, timed past papers and a revision plan."
+description: "CAPE Applied Mathematics for parents and guardians of a sixth former: data, probability and inference in Unit 1, discrete methods and mechanics in Unit 2, both internal assessments, timed past papers and revision."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, cape-applied-mathematics, student, parent, cxc, cape, statistics, mechanics]
@@ -14,7 +14,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -24,38 +24,40 @@ starter_structure:
             - name: Applied Mathematics syllabus and paper format check
               description: |-
                 ## Purpose
-                Before buying a revision guide or copying a classmate's notes, spend the first hour with the current CXC syllabus for CAPE Applied Mathematics. It shows how Unit 1 (Statistical Analysis) and Unit 2 (Mathematical Applications) are split into modules, how Paper 01, Paper 02 and the internal assessment fit together, and what the exam supplies on the day, so every later plan is built on the real exam rather than an old one.
+                Before buying a revision guide or relying on a classmate's notes, it is worth an hour with your teen and the current CXC syllabus for CAPE Applied Mathematics. It shows how Unit 1 (Statistical Analysis) and Unit 2 (Mathematical Applications) are split into modules, how Paper 01, Paper 02 and the internal assessment fit together, and what the exam supplies on the day, so every later plan is built on the real exam rather than an old one.
 
                 ## Milestones
-                1. The current CAPE Applied Mathematics syllabus downloaded from the CXC website and saved where you study.
-                2. Each module of the unit you are sitting written on a one-page checklist, with its topics in syllabus order.
+                1. The current CAPE Applied Mathematics syllabus downloaded from the CXC website and saved where your teen studies.
+                2. Each module of the unit being sat written on a one-page checklist, with its topics in syllabus order.
                 3. The format of Paper 01, Paper 02, Paper 031 and Paper 032 noted from the official document, not from memory.
                 4. The formula list, statistical tables and calculator rules for the exam recorded.
-                5. The exam date for your unit taken from the current CXC timetable and written on the family calendar.
+                5. The exam date for the unit being sat taken from the current CXC timetable and written on the family calendar.
 
                 ## Notes
-                Textbooks and online notes written for older syllabuses sometimes place a topic in a different module or include one that has since been dropped. Where your book and the syllabus disagree, the syllabus wins.
+                This plan is for a parent or guardian supporting a teenager through CAPE Applied Mathematics, and an older student can follow it with a parent's support.
+
+                Textbooks and online notes written for older syllabuses sometimes place a topic in a different module or include one that has since been dropped. Where a book and the syllabus disagree, the syllabus wins.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A one-page module and topic checklist exists for your unit, with the paper format, supplied tables and exam date all taken from CXC documents."
+                success_criteria: "A one-page module and topic checklist exists for the unit being sat, with the paper format, supplied tables and exam date all taken from CXC documents."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
                 - "Download the current CAPE Applied Mathematics syllabus from the CXC website"
                 - "Copy each module's topics onto one page in syllabus order"
                 - "Note the format of Papers 01, 02, 031 and 032 from the syllabus"
-                - "Check the current CXC timetable and write down your unit's exam date"
+                - "Check the current CXC timetable and write down the unit's exam date"
             - name: Deciding between Unit 1, Unit 2 or both
               description: |-
                 ## Purpose
-                Most students sit Unit 1 at the end of Lower Six and Unit 2 a year later, but each unit is examined and certificated on its own, and the right choice depends on the degree you are aiming at and what else you are sitting, especially Pure Mathematics, Physics or Economics. Settling it early, with a form teacher and a parent in the conversation, avoids registering for a unit that will not count toward the place you want.
+                Most students sit Unit 1 at the end of Lower Six and Unit 2 a year later, but each unit is examined and certificated on its own, and the right choice depends on the degree your teen is aiming at and what else they are sitting, especially Pure Mathematics, Physics or Economics. Settling it early, with a form teacher and you in the conversation, avoids registering for a unit that will not count toward the place they want.
 
                 ## Milestones
                 1. The entry requirements of two or three target degree programmes checked for statistics or mechanics content.
-                2. Your other CAPE subjects listed, with any overlap noted, such as mechanics in Physics or data work in Economics.
+                2. The other CAPE subjects listed, with any overlap noted, such as mechanics in Physics or data work in Economics.
                 3. A decision recorded on which unit or units to sit and in which year.
                 4. The decision confirmed with the school's CAPE coordinator before registration closes.
 
@@ -66,27 +68,27 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A written decision on which Applied Mathematics unit or units you will sit, and when, confirmed with the school before registration closes."
+                success_criteria: "A written decision on which Applied Mathematics unit or units your teen will sit, and when, confirmed with the school before registration closes."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "List the degree programmes you are considering and their maths requirements"
-                - "Mark where your other CAPE subjects overlap with each Applied Mathematics unit"
-                - "Talk the choice through with your form teacher and a parent"
-                - "Confirm your unit registration with the school's CAPE coordinator"
+                - "List the degree programmes your teen is considering and their maths requirements"
+                - "Mark where their other CAPE subjects overlap with each Applied Mathematics unit"
+                - "Talk the choice through together and with the form teacher"
+                - "Confirm the unit registration with the school's CAPE coordinator"
             - name: Calculator set-up for statistics and distributions
               description: |-
                 ## Purpose
-                A scientific calculator with a statistics mode can find a mean, a standard deviation, a regression line and many probabilities in seconds, but only if you know the key sequences before the exam. Checking your model against the CXC calculator rules and learning its statistics functions now saves minutes on every Paper 02 question and catches slips your hand working misses.
+                A scientific calculator with a statistics mode can find a mean, a standard deviation, a regression line and many probabilities in seconds, but only if the key sequences are learned before the exam. Checking the model against the CXC calculator rules, making sure the one your teen practises with is the one going into the exam, and learning its statistics functions now saves minutes on every Paper 02 question and catches slips that hand working misses.
 
                 ## Milestones
-                1. Your calculator confirmed as allowed under the current CXC calculator rules.
+                1. The calculator confirmed as allowed under the current CXC calculator rules.
                 2. The key sequences for mean, standard deviation, regression and normal probabilities written on a card.
                 3. Each function tested on a past-paper data set, with the answer checked against the mark scheme.
                 4. Spare batteries, or a spare calculator of the same model, put aside for the exam.
 
                 ## Notes
-                Learn which key gives the sample standard deviation and which gives the population one on your model. Using the wrong one is a common and easily avoided loss of marks.
+                Learn which key gives the sample standard deviation and which gives the population one on the model in use. Using the wrong one is a common and easily avoided loss of marks.
               priority: medium
               deadlineOffsetDays: 14
               frontmatter:
@@ -96,32 +98,32 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Check your calculator model against the current CXC calculator rules"
+                - "Check the calculator model against the current CXC calculator rules"
                 - "Enter a past-paper data set in statistics mode and find its mean and standard deviation"
                 - "Write the key sequences for regression and normal probabilities on an index card"
-                - "Put spare batteries in your exam pencil case"
+                - "Put spare batteries in the exam pencil case"
             - name: Statistical tables and formula list drill
               description: |-
                 ## Purpose
-                Reading a normal, t or chi-squared table quickly and correctly is a skill of its own: the right row, the right tail and the right degrees of freedom. Practising with the same formula list and tables your exam supplies, rather than a textbook's own version, means nothing on the day looks unfamiliar.
+                Reading a normal, t or chi-squared table quickly and correctly is a skill of its own: the right row, the right tail and the right degrees of freedom. Practising with the same formula list and tables the exam supplies, rather than a textbook's own version, means nothing on the day looks unfamiliar.
 
                 ## Milestones
-                1. A copy of the formula list and statistical tables used in the exam obtained from your teacher or the syllabus.
+                1. A copy of the formula list and statistical tables used in the exam obtained from the teacher or the syllabus.
                 2. Each formula on the list matched to the module where it is used.
                 3. Twenty table look-ups done, covering upper and lower tails, inverse normal values and critical values.
-                4. Results you must know that the sheet does not give written on a separate card.
+                4. Results that must be known but are not on the sheet written on a separate card.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "Twenty table look-ups are completed correctly, and a card lists every result you must memorise because the exam sheet omits it."
+                success_criteria: "Twenty table look-ups are completed correctly, and a card lists every result that must be memorised because the exam sheet omits it."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher for the formula list and tables used in the exam"
-                - "Label each formula with the module where you will use it"
+                - "Ask the teacher for the formula list and tables used in the exam"
+                - "Label each formula with the module where it is used"
                 - "Practise twenty look-ups across the normal, t and chi-squared tables"
-                - "List the results you must learn because the sheet does not give them"
+                - "List the results to learn because the sheet does not give them"
             - name: Algebra and CSEC mathematics readiness check
               description: |-
                 ## Purpose
@@ -134,7 +136,7 @@ starter_structure:
                 4. The same skills retested with new questions and the two scores compared.
 
                 ## Notes
-                If you did not take CSEC Additional Mathematics, add basic differentiation and integration to the check before Unit 2 starts.
+                If your teen did not take CSEC Additional Mathematics, add basic differentiation and integration to the check before Unit 2 starts.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -151,16 +153,16 @@ starter_structure:
             - name: Past papers sorted by module and question type
               description: |-
                 ## Purpose
-                Past papers are the closest thing to the real exam, and they are most useful when you can pull every question on one topic at once. Sorting the papers you can get by module and question type turns a folder of PDFs into a question bank you can draw from all year.
+                Past papers are the closest thing to the real exam, and they are most useful when every question on one topic can be pulled at once. Sorting the available papers by module and question type turns a folder of PDFs into a question bank to draw from all year.
 
                 ## Milestones
-                1. Past papers and mark schemes gathered from the CXC online store, the school library or your teacher.
+                1. Past papers and mark schemes gathered from the CXC online store, the school library or the teacher.
                 2. Each Paper 02 question tagged with its module and topic in a simple index.
                 3. Three recent full papers kept back untouched for timed practice nearer the exam.
                 4. Topics with few past questions noted, with another source of questions identified for each.
 
                 ## Notes
-                Resist the urge to work through the held-back papers early. They are your best rehearsal material for the final weeks.
+                Resist the urge to work through the held-back papers early. They are the best rehearsal material for the final weeks.
               priority: medium
               deadlineOffsetDays: 30
               frontmatter:
@@ -183,7 +185,7 @@ starter_structure:
                 1. The exam date, internal assessment deadlines, the mock exam and school holidays marked on one calendar.
                 2. Weeks allocated to each module, with the last six weeks kept for revision.
                 3. Fixed weekly study slots agreed around lessons, sport, church and family commitments.
-                4. The calendar shared with a parent and pinned where you study.
+                4. The calendar shared with you and pinned where your teen studies.
 
                 ## Notes
                 Leave at least one spare week per module. Illness, school events and Carnival or Crop Over season take more time than anyone plans for.
@@ -198,17 +200,17 @@ starter_structure:
               tasks:
                 - "Mark the exam date and internal assessment deadlines on one calendar"
                 - "Allocate weeks to each module, keeping the final six weeks for revision"
-                - "Agree fixed weekly study slots with a parent"
-                - "Pin the finished calendar above your study desk"
+                - "Agree fixed weekly study slots together"
+                - "Pin the finished calendar above the study desk"
             - name: Worked solutions notebook with a notation glossary
               description: |-
                 ## Purpose
-                Statistics and mechanics each carry their own notation, from E(X), Var(X), H0 and H1 to u, v and s, and many lost marks come from mixing them up. A notebook with a glossary at the front and fully worked model solutions behind gives you one place to revise from instead of scattered handouts.
+                Statistics and mechanics each carry their own notation, from E(X), Var(X), H0 and H1 to u, v and s, and many lost marks come from mixing them up. A notebook with a glossary at the front and fully worked model solutions behind gives your teen one place to revise from instead of scattered handouts.
 
                 ## Milestones
                 1. A notebook set up with a glossary section, one section per module and an error log at the back.
-                2. Every symbol in the syllabus defined in the glossary in your own words.
-                3. At least one fully worked model solution filed for each topic as you finish it.
+                2. Every symbol in the syllabus defined in the glossary in plain words.
+                3. At least one fully worked model solution filed for each topic as it is finished.
                 4. The notebook used as the main source for revision in the final weeks.
               priority: low
               frontmatter:
@@ -220,7 +222,7 @@ starter_structure:
               tasks:
                 - "Set up a notebook with a glossary, module sections and an error log"
                 - "Define each symbol from the syllabus in the glossary"
-                - "File one model solution for each topic as you finish it"
+                - "File one model solution for each topic as it is finished"
                 - "Add new notation and definitions to the glossary @recurring(weekly:mon)"
             - name: Weekly mixed problem set across finished topics
               description: |-
@@ -255,7 +257,7 @@ starter_structure:
                 1. Each logged error labelled by type: concept, method, arithmetic, misreading or notation.
                 2. Every error from the previous month re-attempted from a clean page.
                 3. Errors answered correctly on two separate occasions marked as closed.
-                4. Your three most common error types written at the front of the notebook.
+                4. The three most common error types written at the front of the notebook.
               priority: medium
               frontmatter:
                 mode: operating
@@ -266,7 +268,7 @@ starter_structure:
                 - "Label each error in the log by type"
                 - "Re-attempt last month's errors from a clean page @recurring(monthly:14)"
                 - "Close any error answered correctly on two separate occasions"
-                - "Write your three most common error types on the notebook's first page"
+                - "Write the three most common error types on the notebook's first page"
             - name: Monthly timed Paper 02 section
               description: |-
                 ## Purpose
@@ -291,7 +293,7 @@ starter_structure:
             - name: Distribution conditions and modelling assumptions drill
               description: |-
                 ## Purpose
-                Knowing when a model applies matters as much as using it. Questions regularly ask why a binomial, Poisson or normal model suits a situation, what the central limit theorem allows, or what a mechanics model assumes, and a short weekly recall of these conditions turns them into marks you can count on.
+                Knowing when a model applies matters as much as using it. Questions regularly ask why a binomial, Poisson or normal model suits a situation, what the central limit theorem allows, or what a mechanics model assumes, and a short weekly recall of these conditions turns them into dependable marks.
 
                 ## Milestones
                 1. A card for each distribution and test listing its conditions, parameters, mean and variance.
@@ -305,14 +307,14 @@ starter_structure:
                 success_criteria: "A full set of conditions and assumptions cards exists, and every card is recalled correctly twice in a row before the mock."
                 cadence: rolling
               tasks:
-                - "Write a conditions card for each distribution and test you have studied"
+                - "Write a conditions card for each distribution and test studied so far"
                 - "Add a card of modelling assumptions for each mechanics model"
                 - "Recall the cards from memory and reorder them by difficulty @recurring(weekly:tue)"
-                - "Ask someone at home to quiz you from the cards"
+                - "Offer to quiz your teen from the cards"
             - name: Applied Mathematics study group
               description: |-
                 ## Purpose
-                Explaining a hypothesis test or a critical path to a classmate shows quickly whether you really understand it. A group of three or four meeting weekly, each bringing one question they could not finish, spreads the work of hunting for solutions and keeps everyone moving.
+                Explaining a hypothesis test or a critical path to a classmate shows quickly whether a student really understands it. A group of three or four meeting weekly, each bringing one question they could not finish, spreads the work of hunting for solutions and keeps everyone moving.
 
                 ## Milestones
                 1. Three or four classmates agreed on a weekly time and place, in person or on a video call.
@@ -329,7 +331,7 @@ starter_structure:
                 - "Invite three classmates to a weekly Applied Mathematics group"
                 - "Agree a time, a place and the one-question rule"
                 - "Meet and work through each member's question @recurring(weekly:thu)"
-                - "Send any unsolved question to your teacher after the meeting"
+                - "Send any unsolved question to the teacher after the meeting"
             - name: Termly module progress rating
               description: |-
                 ## Purpose
@@ -338,7 +340,7 @@ starter_structure:
                 ## Milestones
                 1. Each topic on the syllabus checklist rated red, amber or green from recent scores.
                 2. Red topics given dedicated slots in the next term's calendar.
-                3. The rating sheet shared with a parent or teacher.
+                3. The rating sheet shared with you or the teacher.
                 4. Ratings compared with last term's to see what moved.
 
                 ## Notes
@@ -353,7 +355,7 @@ starter_structure:
                 - "Rate every finished topic red, amber or green from recent scores @recurring(quarterly)"
                 - "Compare progress with the study calendar and adjust it @recurring(monthly:2)"
                 - "Book study slots for red topics in next term's calendar"
-                - "Share the rating sheet with a parent or teacher"
+                - "Ask your teen to share the rating sheet with you or the teacher"
             - name: Parent weekly check-in on Applied Mathematics
               description: |-
                 ## Purpose
@@ -378,12 +380,12 @@ starter_structure:
             - name: Sampling methods and survey design
               description: |-
                 ## Purpose
-                Unit 1 opens with how data is collected, and you are expected to name, describe and criticise sampling methods in context. Learning random, stratified, systematic, cluster, quota and convenience sampling, with the strengths and sources of bias of each, also prepares the method section of your internal assessment.
+                Unit 1 opens with how data is collected, and students are expected to name, describe and criticise sampling methods in context. Learning random, stratified, systematic, cluster, quota and convenience sampling, with the strengths and sources of bias of each, also prepares the method section of the internal assessment.
 
                 ## Milestones
                 1. Each sampling method described in one sentence with an advantage and a disadvantage.
-                2. Population, sample, sampling frame, census and bias defined in your glossary.
-                3. A stratified sample worked out for a real case, such as students by form in your school.
+                2. Population, sample, sampling frame, census and bias defined in the glossary.
+                3. A stratified sample worked out for a real case, such as students by form at their school.
                 4. A short questionnaire critiqued for leading or ambiguous questions.
                 5. All indexed past-paper questions on sampling attempted and marked.
               priority: medium
@@ -395,7 +397,7 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Summarise each sampling method with one advantage and one disadvantage"
-                - "Work out a stratified sample of forty from your school's form sizes"
+                - "Work out a stratified sample of forty from the school's form sizes"
                 - "Rewrite three badly worded survey questions"
                 - "Attempt and mark every indexed past-paper question on sampling"
             - name: Stem and leaf, box plots and histograms
@@ -424,7 +426,7 @@ starter_structure:
             - name: Measures of centre, spread and outliers
               description: |-
                 ## Purpose
-                Means, medians and standard deviations look simple until the data is grouped or given only as totals such as the sum of x and the sum of x squared. Practising each form, including interpolation for a grouped median and the outlier rule your syllabus uses, removes the arithmetic traps Paper 02 sets.
+                Means, medians and standard deviations look simple until the data is grouped or given only as totals such as the sum of x and the sum of x squared. Practising each form, including interpolation for a grouped median and the outlier rule the syllabus uses, removes the arithmetic traps Paper 02 sets.
 
                 ## Milestones
                 1. Mean, median, mode, range, interquartile range, variance and standard deviation found for raw and grouped data.
@@ -453,7 +455,7 @@ starter_structure:
                 1. Permutations and combinations used for arrangements with and without restrictions.
                 2. Venn and tree diagrams drawn for two and three events.
                 3. One conditional probability found from a tree, a two-way table and the formula, with the same answer each way.
-                4. Independent and mutually exclusive events distinguished in your own words.
+                4. Independent and mutually exclusive events distinguished in plain words.
                 5. Past-paper probability questions attempted and marked.
               priority: medium
               frontmatter:
@@ -470,14 +472,14 @@ starter_structure:
             - name: Discrete random variables and the binomial distribution
               description: |-
                 ## Purpose
-                Discrete random variables turn probability into something you can summarise with an expected value and a variance. The binomial distribution is the workhorse here, and questions test both the calculation and whether you can say why its conditions hold in a given situation, so practise the two together.
+                Discrete random variables turn probability into something that can be summarised with an expected value and a variance. The binomial distribution is the workhorse here, and questions test both the calculation and whether a candidate can say why its conditions hold in a given situation, so the two are best practised together.
 
                 ## Milestones
                 1. A probability distribution table built from a worded question and checked to sum to one.
                 2. E(X) and Var(X) calculated from a table, including for a linear function of X.
                 3. Binomial probabilities found by formula and by calculator, including cumulative ones.
                 4. The binomial conditions stated in the context of three different questions.
-                5. Any other discrete distribution in your syllabus edition, such as the geometric, listed and practised.
+                5. Any other discrete distribution in the current syllabus edition, such as the geometric, listed and practised.
                 6. Past-paper questions on discrete distributions attempted and marked.
               priority: medium
               frontmatter:
@@ -517,7 +519,7 @@ starter_structure:
             - name: Sampling distributions and the central limit theorem
               description: |-
                 ## Purpose
-                Moving from describing one sample to reasoning about many is the hardest idea in Unit 1. Understanding the distribution of the sample mean, its standard error, unbiased estimates of the population mean and variance, and what the central limit theorem lets you assume makes confidence intervals and hypothesis tests feel logical instead of memorised.
+                Moving from describing one sample to reasoning about many is the hardest idea in Unit 1. Understanding the distribution of the sample mean, its standard error, unbiased estimates of the population mean and variance, and what the central limit theorem allows makes confidence intervals and hypothesis tests feel logical instead of memorised.
 
                 ## Milestones
                 1. The distribution of the sample mean stated for a normal population and for a large sample from any population.
@@ -532,7 +534,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Write the distribution of the sample mean in your glossary"
+                - "Write the distribution of the sample mean in the glossary"
                 - "Calculate unbiased estimates of mean and variance from a data set"
                 - "Explain in two sentences when the central limit theorem is needed"
                 - "Attempt and mark the past-paper questions on sampling distributions"
@@ -548,7 +550,7 @@ starter_structure:
                 4. Past-paper confidence interval questions attempted and marked.
 
                 ## Notes
-                A 95% interval does not mean there is a 95% chance the mean lies in this particular interval. Learn the interpretation your mark schemes accept and use it consistently.
+                A 95% interval does not mean there is a 95% chance the mean lies in this particular interval. Learn the interpretation the mark schemes accept and use it consistently.
               priority: medium
               frontmatter:
                 mode: building
@@ -564,7 +566,7 @@ starter_structure:
             - name: Hypothesis test structure, tails and conclusions
               description: |-
                 ## Purpose
-                Hypothesis tests follow a fixed structure, and mark schemes reward each step: stating H0 and H1, the significance level, the test statistic, the critical value or region and a conclusion in context. Practising one-tailed and two-tailed tests until the structure is automatic leaves your attention free for the situation in the question.
+                Hypothesis tests follow a fixed structure, and mark schemes reward each step: stating H0 and H1, the significance level, the test statistic, the critical value or region and a conclusion in context. Practising one-tailed and two-tailed tests until the structure is automatic leaves attention free for the situation in the question.
 
                 ## Milestones
                 1. A step-by-step template for every test written in the notebook.
@@ -579,7 +581,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "7"
               tasks:
-                - "Write the six-step hypothesis test template in your notebook"
+                - "Write the six-step hypothesis test template in the notebook"
                 - "Carry out a one-tailed and a two-tailed test on the same data"
                 - "Rewrite five bare conclusions so they refer to the context"
                 - "Attempt and mark the past-paper hypothesis test questions"
@@ -590,7 +592,7 @@ starter_structure:
 
                 ## Milestones
                 1. Expected frequencies calculated for a goodness of fit test against a given distribution.
-                2. Classes combined where expected frequencies fall below the threshold your syllabus states.
+                2. Classes combined where expected frequencies fall below the threshold the syllabus states.
                 3. Degrees of freedom found correctly, including when a parameter is estimated from the data.
                 4. A contingency table test completed with a conclusion in context.
                 5. Past-paper chi-squared questions attempted and marked.
@@ -604,7 +606,7 @@ starter_structure:
               tasks:
                 - "Test a set of sixty dice rolls for fairness with a goodness of fit test"
                 - "Run a contingency table test on transport to school by district"
-                - "Note the expected frequency rule and degrees of freedom formula from your syllabus"
+                - "Note the expected frequency rule and degrees of freedom formula from the syllabus"
                 - "Attempt and mark the past-paper chi-squared questions"
             - name: Correlation and least squares regression
               description: |-
@@ -613,7 +615,7 @@ starter_structure:
 
                 ## Milestones
                 1. A scatter diagram drawn and its pattern described in words.
-                2. The product moment correlation coefficient calculated by hand and checked on the calculator, with rank correlation practised if your syllabus includes it.
+                2. The product moment correlation coefficient calculated by hand and checked on the calculator, with rank correlation practised if the syllabus includes it.
                 3. The regression line of y on x found and used for a prediction, with its reliability commented on.
                 4. Correlation distinguished from causation in a written example.
                 5. Past-paper correlation and regression questions attempted and marked.
@@ -625,20 +627,20 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Plot a scatter diagram of a local data set you choose"
+                - "Plot a scatter diagram of a chosen local data set"
                 - "Calculate the correlation coefficient by hand and on the calculator"
                 - "Fit the regression line and make one interpolated prediction"
                 - "Attempt and mark the past-paper correlation and regression questions"
             - name: Unit 1 internal assessment topic and data plan
               description: |-
                 ## Purpose
-                Picking a question you can collect real data for within a few weeks is the most important decision in the Unit 1 internal assessment. Good topics are local and measurable, such as maxi taxi waiting times on two routes or the price of a basket of goods at three supermarkets, and the plan should show how the data will be sampled and analysed before any is collected.
+                Picking a question whose real data can be collected within a few weeks is the most important decision in the Unit 1 internal assessment. Good topics are local and measurable, such as maxi taxi waiting times on two routes or the price of a basket of goods at three supermarkets, and the plan should show how the data will be sampled and analysed before any is collected.
 
                 ## Milestones
                 1. The internal assessment guidance and marking criteria in the syllabus read and summarised.
                 2. Three possible questions listed, each with the data it needs and how it would be collected.
                 3. One question chosen and approved by the teacher.
-                4. A data plan written that names the sampling method and the analysis you intend to use.
+                4. A data plan written that names the sampling method and the intended analysis.
 
                 ## Notes
                 Avoid topics that need personal or sensitive data from classmates. Prices, times, counts and measurements are easier to collect and raise no consent questions.
@@ -652,8 +654,8 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Read the internal assessment criteria in the syllabus and summarise them"
-                - "List three local questions you could collect data for in a month"
-                - "Get your teacher's approval for one question"
+                - "List three local questions whose data could be collected in a month"
+                - "Get the teacher's approval for one question"
                 - "Write a data plan naming the sampling method and planned analysis"
             - name: Unit 1 internal assessment analysis and submission
               description: |-
@@ -676,9 +678,9 @@ starter_structure:
                 effort_hours_estimate: "25"
               tasks:
                 - "Collect the data and back it up in two places"
-                - "Complete the displays and calculations named in your plan"
+                - "Complete the displays and calculations named in the plan"
                 - "Write the discussion, including at least two limitations"
-                - "Submit a full draft to your teacher by the agreed date"
+                - "Submit a full draft to the teacher by the agreed date"
                 - "Hand in the final version and file a copy at home"
             - name: Linear programming formulation and graphical solution
               description: |-
@@ -687,7 +689,7 @@ starter_structure:
 
                 ## Milestones
                 1. Decision variables, constraints and an objective function written for five worded problems.
-                2. Feasible regions drawn accurately, shaded the way your teacher and mark schemes expect.
+                2. Feasible regions drawn accurately, shaded the way the teacher and mark schemes expect.
                 3. Optimal solutions found by the objective line and by testing vertices, including where whole-number answers are needed.
                 4. Past-paper linear programming questions attempted and marked.
               priority: medium
@@ -708,7 +710,7 @@ starter_structure:
                 Allocating four lifeguards to four beaches, or teachers to classes, at the lowest total cost is an assignment problem, solved step by step with the Hungarian algorithm. The method is mechanical, so marks are lost on unbalanced problems, maximisation versions and stopping too early, all of which steady practice removes.
 
                 ## Milestones
-                1. The Hungarian algorithm written as numbered steps in your own words.
+                1. The Hungarian algorithm written as numbered steps in plain words.
                 2. A square cost matrix solved, with the minimum number of covering lines checked at each stage.
                 3. A maximisation problem converted and solved, and an unbalanced one given a dummy row or column.
                 4. Past-paper assignment questions attempted and marked.
@@ -737,7 +739,7 @@ starter_structure:
                 5. Past-paper network questions attempted and marked.
 
                 ## Notes
-                Check whether your syllabus edition also includes graph theory terms such as degree, paths and trees in this module, and add them to the glossary if so.
+                Check whether the current syllabus edition also includes graph theory terms such as degree, paths and trees in this module, and add them to the glossary if so.
               priority: medium
               frontmatter:
                 mode: building
@@ -753,7 +755,7 @@ starter_structure:
             - name: Logic, truth tables and switching circuits
               description: |-
                 ## Purpose
-                Propositions, connectives and truth tables can feel abstract until you draw them as switching circuits and simplify them with Boolean algebra. This is often the least familiar Unit 2 topic for students coming from CSEC, so start early and practise translating between statements, tables, expressions and circuits.
+                Propositions, connectives and truth tables can feel abstract until they are drawn as switching circuits and simplified with Boolean algebra. This is often the least familiar Unit 2 topic for students coming from CSEC, so it pays to start early and practise translating between statements, tables, expressions and circuits.
 
                 ## Milestones
                 1. Truth tables built for negation, conjunction, disjunction, implication and equivalence.
@@ -785,7 +787,7 @@ starter_structure:
                 4. Past-paper Poisson questions attempted and marked.
 
                 ## Notes
-                Some probability topics appear in both units. Check your syllabus edition for exactly which module covers the Poisson distribution and its approximations, and revise the Unit 1 probability work first if you are sitting Unit 2 on its own.
+                Some probability topics appear in both units. Check the syllabus edition for exactly which module covers the Poisson distribution and its approximations, and revise the Unit 1 probability work first if your teen is sitting Unit 2 on its own.
               priority: medium
               frontmatter:
                 mode: building
@@ -830,7 +832,7 @@ starter_structure:
                 1. Thirty mixed probability questions sorted by model without solving them.
                 2. Each choice justified by the words in the question that decided it.
                 3. Misclassified questions added to the error log with the clue that was missed.
-                4. A one-page decision chart drawn from your own sorting.
+                4. A one-page decision chart drawn from the sorting.
               priority: low
               frontmatter:
                 mode: building
@@ -841,7 +843,7 @@ starter_structure:
               tasks:
                 - "Gather thirty mixed probability questions from the past paper index"
                 - "Label each with its model and underline the deciding words"
-                - "Check your labels against the mark schemes"
+                - "Check the labels against the mark schemes"
                 - "Draw a one-page decision chart for choosing a distribution"
             - name: Kinematics in a straight line
               description: |-
@@ -874,7 +876,7 @@ starter_structure:
                 ## Milestones
                 1. The initial velocity resolved into horizontal and vertical components for every question.
                 2. Time of flight, range and greatest height found for launches from ground level and from a height.
-                3. The equation of the trajectory derived where your syllabus requires it.
+                3. The equation of the trajectory derived where the syllabus requires it.
                 4. The modelling assumptions stated, including what ignoring air resistance does to the answer.
                 5. Past-paper projectile questions attempted and marked.
               priority: medium
@@ -937,7 +939,7 @@ starter_structure:
             - name: Unit 2 internal assessment project
               description: |-
                 ## Purpose
-                Read the syllabus guidance before anything else, because it sets out exactly what the Unit 2 internal assessment requires and how it is marked. A project that applies the unit's methods to something real, such as the critical path for a church harvest or a production plan for a small business, is easier to write well, and a schedule with proposal, draft and final dates keeps it clear of mock exams.
+                The syllabus guidance comes before anything else, because it sets out exactly what the Unit 2 internal assessment requires and how it is marked. A project that applies the unit's methods to something real, such as the critical path for a church harvest or a production plan for a small business, is easier to write well, and a schedule with proposal, draft and final dates keeps it clear of mock exams.
 
                 ## Milestones
                 1. The Unit 2 internal assessment requirements and marking criteria summarised on one page.
@@ -956,7 +958,7 @@ starter_structure:
               tasks:
                 - "Summarise the Unit 2 internal assessment criteria on one page"
                 - "Write a half-page proposal and get teacher approval"
-                - "Record progress and decisions in your project diary @recurring(weekly:wed)"
+                - "Record progress and decisions in the project diary @recurring(weekly:wed)"
                 - "Submit a full draft for feedback by the agreed date"
                 - "Submit the final version and keep a copy"
             - name: Paper 01 multiple choice technique
@@ -965,7 +967,7 @@ starter_structure:
                 Speed and accuracy on multiple choice come from recognising standard set-ups and from not over-working questions that need only a quick estimate. Short timed sets, reviewed each time, build that pace and reveal which topics are quietly losing marks.
 
                 ## Milestones
-                1. The Paper 01 format for your unit confirmed from the syllabus.
+                1. The Paper 01 format for the unit being sat confirmed from the syllabus.
                 2. Short timed sets done regularly, with each wrong answer traced to a topic.
                 3. Elimination and estimation used on questions where full working is slow.
                 4. Scores tracked by topic so weak topics also get extra Paper 02 practice.
@@ -976,7 +978,7 @@ starter_structure:
                 success_criteria: "Timed multiple choice sets are done in most weeks of each term, with every wrong answer traced to a topic in the score log."
                 cadence: rolling
               tasks:
-                - "Confirm the Paper 01 format for your unit in the syllabus"
+                - "Confirm the Paper 01 format for the unit being sat in the syllabus"
                 - "Do a timed set of ten multiple choice questions @recurring(weekly:wed)"
                 - "Trace every wrong answer to its topic"
                 - "Practise ruling out two options before working a question fully"
@@ -1000,33 +1002,33 @@ starter_structure:
                 - "Note the accuracy expected in final answers from recent mark schemes"
                 - "Write a presentation checklist for statistics and one for mechanics"
                 - "Rewrite one past solution to full mark-scheme standard @recurring(weekly:fri)"
-                - "Ask your teacher to mark one answer for presentation only"
+                - "Ask the teacher to mark one answer for presentation only"
             - name: Mark schemes and examiner reports for Applied Mathematics
               description: |-
                 ## Purpose
                 Examiners publish reports after each sitting describing where candidates lost marks, and they are the best guide to what mark schemes actually reward. Reading the last few years of Applied Mathematics reports alongside the mark schemes turns vague advice into specific habits.
 
                 ## Milestones
-                1. Examiner reports for recent sittings collected from the CXC website or your teacher.
+                1. Examiner reports for recent sittings collected from the CXC website or the teacher.
                 2. Recurring weaknesses listed by module.
-                3. Each weakness turned into a line on your presentation checklist.
-                4. Two of your old answers re-marked strictly against the mark scheme.
+                3. Each weakness turned into a line on the presentation checklist.
+                4. Two old answers re-marked strictly against the mark scheme.
               priority: low
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A list of recurring examiner criticisms by module exists, and each one appears as a line on your presentation checklist."
+                success_criteria: "A list of recurring examiner criticisms by module exists, and each one appears as a line on the presentation checklist."
                 cadence: cyclic
                 effort_hours_estimate: "4"
               tasks:
                 - "Download the most recent Applied Mathematics examiner reports"
                 - "List the weaknesses the reports mention more than once"
-                - "Re-mark two of your old answers strictly against the mark scheme"
+                - "Re-mark two old answers strictly against the mark scheme"
                 - "Read the newest examiner report when it is published @recurring(yearly)"
             - name: School mock exam for Applied Mathematics
               description: |-
                 ## Purpose
-                Sitting a full mock under real conditions is the last reliable measure of readiness while there is still time to act on it. Treat it as the real exam: prepare properly, sit it, then spend as long reviewing the script as you spent writing it.
+                Sitting a full mock under real conditions is the last reliable measure of readiness while there is still time to act on it. Treating it as the real exam means preparing properly, sitting it, then spending as long reviewing the script as was spent writing it.
 
                 ## Milestones
                 1. The mock date confirmed and a two-week preparation plan written.
@@ -1042,8 +1044,8 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "12"
               tasks:
-                - "Confirm the mock exam date with your teacher"
-                - "Revise the topics marked red on your progress sheet"
+                - "Confirm the mock exam date with the teacher"
+                - "Revise the topics marked red on the progress sheet"
                 - "Classify every lost mark by topic and error type after the mock"
                 - "Schedule repair sessions for the five costliest topics"
             - name: Final six weeks Applied Mathematics revision plan
@@ -1072,12 +1074,12 @@ starter_structure:
             - name: Applied Mathematics exam days and the night before
               description: |-
                 ## Purpose
-                Small logistics decide how calm an exam morning feels: a working calculator, the right candidate number, a ride arranged around traffic and knowing which paper is on which day. Planning them with a parent a week out leaves the night before for light review and sleep.
+                Small logistics decide how calm an exam morning feels: a working calculator, the right candidate number, a ride arranged around traffic and knowing which paper is on which day. Planning them together a week out leaves the night before for light review and sleep.
 
                 ## Milestones
                 1. Paper dates, times and venue confirmed from the school's copy of the CXC timetable.
                 2. An exam kit packed with calculator, spare batteries, pens, pencils, ruler, eraser and candidate details.
-                3. Transport arranged so you arrive well before the start.
+                3. Transport arranged so your teen arrives well before the start.
                 4. A one-page review sheet of conditions cards and key results ready for the night before.
               priority: high
               deadlineOffsetDays: 270
@@ -1090,7 +1092,7 @@ starter_structure:
               tasks:
                 - "Copy each paper's date, time and venue from the school timetable"
                 - "Pack the exam kit and test the calculator"
-                - "Arrange transport with a parent, allowing for morning traffic"
+                - "Arrange transport together, allowing for morning traffic"
                 - "Prepare a one-page review sheet for the night before"
             - name: Home study space and lessons decision for a sixth former
               description: |-
@@ -1143,7 +1145,7 @@ starter_structure:
             - name: Teacher calendar for internal assessment supervision and moderation
               description: |-
                 ## Purpose
-                Teachers of Applied Mathematics manage proposals, drafts, marking and the moderation sample for a whole class, sometimes for both units in the same year. A calendar set at the start of the year, counted back from the CXC submission date and backed by monthly progress checks, prevents the last-minute rush that weakens projects and makes authenticity harder to confirm.
+                Teachers of Applied Mathematics manage proposals, drafts, marking and the moderation sample for a whole class, sometimes for both units in the same year. A calendar set at the start of the year, counted back from the CXC submission date and backed by monthly progress checks, prevents the last-minute rush that weakens projects and makes authenticity harder to confirm. For a parent, the dates it publishes are the ones to copy onto the family calendar.
 
                 ## Milestones
                 1. The CXC submission date for internal assessment marks and samples confirmed with the school's coordinator.
@@ -1182,13 +1184,13 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Build a sheet that returns the mean, standard deviation and regression line"
-                - "Check ten of your worked answers against the sheet"
+                - "Check ten worked answers against the sheet"
                 - "Simulate a thousand sample means and chart them as a histogram"
-                - "Ask the agent to explain any gap between your answer and the sheet"
+                - "Ask the agent to explain any gap between a hand answer and the sheet"
 ---
 
 # CAPE Applied Mathematics
 
-This area is for a sixth former sitting CAPE Applied Mathematics, whether Unit 1 Statistical Analysis, Unit 2 Mathematical Applications or both, and for the parents and teachers behind them. It starts with the foundations (the current syllabus, which units to sit, the calculator and statistical tables, a readiness check, a past paper index and a study calendar), then the weekly practice routines, then one project per topic in syllabus order: collecting and describing data, probability and distributions, and inference for Unit 1, then discrete methods, probability and distributions, and particle mechanics for Unit 2, each ending on past-paper questions. After those come both internal assessments, paper technique, the mock and the final weeks, and projects for parents, private candidates, teachers and students who want to check their statistics with a spreadsheet.
+This area is for the parent or guardian of a sixth former sitting CAPE Applied Mathematics, whether Unit 1 Statistical Analysis, Unit 2 Mathematical Applications or both, with projects that also suit their teachers. It starts with the foundations (the current syllabus, which units to sit, the calculator and statistical tables, a readiness check, a past paper index and a study calendar), then the weekly practice routines, then one project per topic in syllabus order: collecting and describing data, probability and distributions, and inference for Unit 1, then discrete methods, probability and distributions, and particle mechanics for Unit 2, each ending on past-paper questions. After those come both internal assessments, paper technique, the mock and the final weeks, and projects on support at home, the private candidate route, teachers and checking statistics with a spreadsheet.
 
-What repeats is a Saturday problem set marked on Sunday, a Monday glossary update, a Tuesday conditions drill, a Wednesday multiple choice set, a Thursday study group, a Friday parent check-in, a monthly timed Paper 02 section and error log review, and a termly progress rating. The Habit tracker, Metrics log and Purchase decision templates pair with the projects that name them, and deadlines assume about nine months to the May to June sitting, so shift them once CXC publishes the timetable and your school sets its internal assessment dates. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a Saturday problem set marked on Sunday, a Monday glossary update, a Tuesday conditions drill, a Wednesday multiple choice set, a Thursday study group, a Friday check-in with you, a monthly timed Paper 02 section and error log review, and a termly progress rating. The Habit tracker, Metrics log and Purchase decision templates pair with the projects that name them, and deadlines assume about nine months to the May to June sitting, so shift them once CXC publishes the timetable and the school sets its internal assessment dates. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

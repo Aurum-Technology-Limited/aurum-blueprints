@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-spanish
 name: CSEC Spanish
-description: "A full CSEC Spanish plan: the current paper and oral format, a diagnostic, daily vocabulary and weekly listening and speaking routines, the grammar and topic areas in turn, every exam section, mocks, the oral and exam day."
+description: "A CSEC Spanish plan for parents and guardians: the paper and oral format, a diagnostic, daily vocabulary and weekly listening and speaking routines, grammar and topics, every exam section, mocks, the oral and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-spanish, cxc, csec, spanish, modern-languages, student, parent, educator, oral-exam]
@@ -17,7 +17,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -27,44 +27,46 @@ starter_structure:
             - name: Current CSEC Spanish syllabus and paper format check
               description: |-
                 ## Purpose
-                CXC revises its language syllabuses, and the Spanish exam an older sibling or a second-hand revision book describes may not be the one you will sit. An hour with the current syllabus and timetable tells you which papers exist, what the multiple-choice paper, the written paper and the oral each test, and when your sitting falls, so every hour of practice after this rehearses the real exam.
+                CXC revises its language syllabuses, and the Spanish exam an older sibling or a second-hand revision book describes may not be the one your teen will sit. An hour together with the current syllabus and timetable tells you both which papers exist, what the multiple-choice paper, the written paper and the oral each test, and when the sitting falls, so every hour of practice after this rehearses the real exam.
 
                 ## Milestones
-                1. The current CSEC Spanish syllabus downloaded from the CXC website and saved where you study.
+                1. The current CSEC Spanish syllabus downloaded from the CXC website and saved where your teen studies.
                 2. Each component (Paper 01, Paper 02, the oral examination, and any SBA as Paper 031 or alternative Paper 032 the syllabus lists) written on one page with what it tests.
-                3. The syllabus list of topic areas and grammar copied or printed as a checklist for the front of your folder.
-                4. Your sitting confirmed from the published timetable, and the likely oral window confirmed with your school.
-                5. The one-page summary checked by your Spanish teacher.
+                3. The syllabus list of topic areas and grammar copied or printed as a checklist for the front of the Spanish folder.
+                4. The sitting confirmed from the published timetable, and the likely oral window confirmed with the school.
+                5. The one-page summary checked by the Spanish teacher.
 
                 ## Notes
-                Take durations, numbers of questions and mark weightings only from the current syllabus or your school. Orals are usually run some weeks before the written papers, so ask early rather than assuming they fall in May.
+                This plan is for a parent or guardian supporting a teenager through CSEC Spanish, and an older student can follow it with a parent's support.
+
+                Take durations, numbers of questions and mark weightings only from the current syllabus or the school. Orals are usually run some weeks before the written papers, so ask early rather than assuming they fall in May.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A one-page summary of the current Spanish papers, the oral and your exam dates, taken from the CXC syllabus and timetable, is saved and checked by your teacher."
+                success_criteria: "A one-page summary of the current Spanish papers, the oral and the exam dates, taken from the CXC syllabus and timetable, is saved and checked by the Spanish teacher."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
                 - "Check the current syllabus and timetable on the CXC website and note the Spanish paper format"
                 - "Write each paper and the oral on one page with what each tests"
-                - "Ask your teacher when the school usually runs the oral examination"
-                - "Print the syllabus topic and grammar lists for the front of your folder"
+                - "Ask the Spanish teacher when the school usually runs the oral examination"
+                - "Print the syllabus topic and grammar lists for the front of the folder"
             - name: Diagnostic Spanish paper and speaking starting point
               description: |-
                 ## Purpose
-                Before deciding where the year goes, find out where marks are leaking. One recent past paper written at home, marked against the mark scheme, plus five minutes of recorded speaking, shows whether listening, reading, written accuracy or speaking is costing most, and whether the cause is vocabulary, verbs or simply running out of time.
+                Before deciding where the year goes, find out where marks are leaking. One recent past paper written at home, marked against the mark scheme, plus five minutes of recorded speaking, shows whether listening, reading, written accuracy or speaking is costing most, and whether the cause is vocabulary, verbs or simply running out of time. If the official audio is missing, you can read the listening script aloud.
 
                 ## Milestones
                 1. One recent past Paper 01 and Paper 02 that match the current format written at home, with the listening played from the official audio or read aloud by an adult.
-                2. Every answer marked against the mark scheme or by your teacher.
-                3. A five-minute recording of you answering simple questions about yourself, your school and your town.
+                2. Every answer marked against the mark scheme or by the teacher.
+                3. A five-minute recording of your teen answering simple questions about themselves, their school and their town.
                 4. Lost marks sorted under listening, reading, vocabulary, verbs, spelling and accents, and time.
                 5. A starting score and the three weakest areas written at the front of the error notebook.
 
                 ## Notes
-                Finish every question even if time runs out, and mark where it ran out. An honest first score is worth more than a good one.
+                Encourage your teen to finish every question even if time runs out, and to mark where it ran out. An honest first score is worth more than a good one.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -76,22 +78,22 @@ starter_structure:
               tasks:
                 - "Choose a recent past paper set that matches the current format"
                 - "Write both papers on two quiet afternoons in the same week"
-                - "Record five minutes of yourself answering questions about your life in Spanish"
-                - "Record your starting score and three weakest areas in the error notebook"
+                - "Your teen records five minutes answering questions about their life in Spanish"
+                - "Record the starting score and three weakest areas in the error notebook"
             - name: Spanish study timetable to the exam sitting
               description: |-
                 ## Purpose
-                Languages are learned in small daily amounts, not in a final cram, and Spanish has to share the week with eight or nine other subjects. A timetable that counts back from the oral and the written papers, fixes short daily slots and longer weekend ones, and leaves the final four weeks for timed work stops grammar topics being left until March.
+                Languages are learned in small daily amounts, not in a final cram, and Spanish has to share the week with eight or nine other subjects. A timetable that counts back from the oral and the written papers, fixes short daily slots and longer weekend ones, and leaves the final four weeks for timed work stops grammar topics being left until March. Building it with your teen, rather than for them, makes it far more likely to be followed.
 
                 ## Milestones
                 1. The oral date and written paper dates written at the end of a calendar.
                 2. Each grammar and topic project placed in a week, finishing at least six weeks before the written papers.
                 3. Fixed weekly slots for vocabulary, listening, speaking and writing that fit around other subjects and lessons.
                 4. The final four weeks kept clear for timed papers and repair work.
-                5. The timetable pinned where you study and shared with a parent.
+                5. The timetable pinned where your teen studies and shared with you.
 
                 ## Notes
-                Twenty minutes on six days beats two hours on Sunday for vocabulary and listening. Put the longer writing practice where you have a quiet hour.
+                Twenty minutes on six days beats two hours on Sunday for vocabulary and listening. Put the longer writing practice where the house is quiet for an hour.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -104,7 +106,7 @@ starter_structure:
                 - "Mark the oral and written exam dates on a calendar"
                 - "Place each grammar and topic project in a week before the final six weeks"
                 - "Fix short weekday slots for vocabulary, listening and speaking"
-                - "Compare the timetable with what you actually covered @recurring(monthly:3)"
+                - "Compare the timetable with what was actually covered @recurring(monthly:3)"
             - name: Past papers, audio, mark schemes and subject reports pack
               description: |-
                 ## Purpose
@@ -118,7 +120,7 @@ starter_structure:
                 5. A tracking sheet listing every paper with a column for the date attempted and score.
 
                 ## Notes
-                Buy official CXC material from the CXC store or your school rather than unverified copies, which often have missing pages or wrong answers. Save the newest five papers for the final weeks.
+                Buy official CXC material from the CXC store or the school rather than unverified copies, which often have missing pages or wrong answers. Save the newest five papers for the final weeks.
               priority: medium
               deadlineOffsetDays: 21
               frontmatter:
@@ -128,14 +130,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher which past papers and audio the school already holds"
+                - "Ask the Spanish teacher which past papers and audio the school already holds"
                 - "Order the missing papers and mark schemes from the CXC store or the school"
                 - "Download the recent CXC subject reports for Spanish"
                 - "Set up a tracking sheet with one row per paper"
             - name: Choosing a Spanish dictionary and verb reference
               description: |-
                 ## Purpose
-                A good bilingual dictionary shows gender, usage and example sentences, and a verb table settles an irregular preterite in seconds. Choosing one sound dictionary and one verb reference, in print or as a trusted app, means you check words the same way every time instead of trusting a phone translator that gives whole sentences you cannot explain.
+                A good bilingual dictionary shows gender, usage and example sentences, and a verb table settles an irregular preterite in seconds. Choosing one sound dictionary and one verb reference, in print or as a trusted app, means your teen checks words the same way every time instead of trusting a phone translator that gives whole sentences they cannot explain.
 
                 ## Milestones
                 1. Two or three bilingual dictionaries or apps compared on gender marking, example sentences and price.
@@ -144,24 +146,24 @@ starter_structure:
                 4. A rule written in the front of the notebook for when a translator may and may not be used.
 
                 ## Notes
-                Start from the **Purchase decision** template. A second-hand school dictionary from a past student is often all you need.
+                Start from the **Purchase decision** template. A second-hand school dictionary from a past student is often all that is needed.
               priority: low
               deadlineOffsetDays: 30
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "One bilingual dictionary and one verb reference are chosen, at hand where you study, and a written rule for translator use sits in the notebook."
+                success_criteria: "One bilingual dictionary and one verb reference are chosen, at hand where your teen studies, and a written rule for translator use sits in the notebook."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Ask your teacher which dictionary and verb book the class recommends"
+                - "Ask the teacher which dictionary and verb book the class recommends"
                 - "Compare two or three options on example sentences and gender marking"
                 - "Buy, borrow or install the chosen dictionary and verb reference"
-                - "Write your translator rule on the first page of the notebook"
+                - "Agree a translator rule together and write it on the first page of the notebook"
             - name: Agreeing Spanish targets with the teacher
               description: |-
                 ## Purpose
-                Students often aim at a grade without knowing which skill is holding it back. A short meeting with the Spanish teacher, taking the diagnostic results, turns a vague wish into two or three agreed targets, such as listening scores, accurate verb endings or speaking for two minutes without stopping, and fixes when they will be reviewed.
+                Teenagers often aim at a grade without knowing which skill is holding it back. A short meeting with the Spanish teacher, taking the diagnostic results, turns a vague wish into two or three agreed targets, such as listening scores, accurate verb endings or speaking for two minutes without stopping, and fixes when they will be reviewed. Offer to go along, or let your teen go alone and report back.
 
                 ## Milestones
                 1. The diagnostic results and weakest areas taken to a short meeting with the teacher.
@@ -170,7 +172,7 @@ starter_structure:
                 4. A review point agreed for the end of each term.
 
                 ## Notes
-                Start from the **Meeting notes** template. Ask the teacher what a strong answer in your weakest section looks like, not only what you got wrong.
+                Start from the **Meeting notes** template. Ask the teacher what a strong answer in the weakest section looks like, not only what went wrong.
               priority: medium
               deadlineOffsetDays: 30
               frontmatter:
@@ -180,7 +182,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "1"
               tasks:
-                - "Ask your teacher for ten minutes to discuss the diagnostic"
+                - "Ask the Spanish teacher for ten minutes to discuss the diagnostic"
                 - "Write two or three measurable targets during the meeting"
                 - "Note the first thing the teacher says to practise"
                 - "Review progress on the targets with the teacher @recurring(quarterly)"
@@ -207,7 +209,7 @@ starter_structure:
               tasks:
                 - "Choose paper cards or a spaced-repetition app for the deck"
                 - "Make one section for each syllabus topic area"
-                - "Enter the first two topics from your class notes with articles"
+                - "Enter the first two topics from class notes with articles"
                 - "Add the new words from each Spanish lesson to the deck @recurring(weekly:thu)"
             - name: Spanish error and verb notebook
               description: |-
@@ -229,7 +231,7 @@ starter_structure:
                 - "Set up the notebook with five sections for error types"
                 - "Copy every diagnostic error with its correction and rule"
                 - "Add corrections from each piece of marked Spanish work the week it comes back"
-                - "Quiz yourself on ten recent notebook errors @recurring(monthly:20)"
+                - "Quiz on ten recent notebook errors; offer to read them out @recurring(monthly:20)"
             - name: Ten-minute daily vocabulary review
               description: |-
                 ## Purpose
@@ -242,7 +244,7 @@ starter_structure:
                 4. A count of words known by topic noted at the end of each month.
 
                 ## Notes
-                Start from the **Habit tracker** template. Say each word aloud as you review it: it helps the oral and the listening at the same time.
+                Start from the **Habit tracker** template. Saying each word aloud during review helps the oral and the listening at the same time.
               priority: high
               frontmatter:
                 mode: operating
@@ -253,7 +255,7 @@ starter_structure:
                 - "Choose a fixed ten-minute slot for vocabulary each day"
                 - "Review the vocabulary deck aloud for ten minutes @recurring(daily)"
                 - "Move words missed three times to a hard pile"
-                - "Count the words you know in each topic at the end of the month"
+                - "Count the words known in each topic at the end of the month"
             - name: Wednesday listening practice with Spanish audio
               description: |-
                 ## Purpose
@@ -274,14 +276,14 @@ starter_structure:
                 success_criteria: "A Wednesday listening session is done most weeks, with first and second hearing notes and new words logged for each."
                 cadence: rolling
               tasks:
-                - "Pick three Spanish audio sources at a level you can mostly follow"
+                - "Pick three Spanish audio sources at a level your teen can mostly follow"
                 - "Do a twenty-minute listening session with notes @recurring(weekly:wed)"
                 - "Add new words from each session to the vocabulary deck"
-                - "Note how much you understood on the first and second hearing"
-            - name: Speaking aloud and recording yourself twice a week
+                - "Note how much was understood on the first and second hearing"
+            - name: Speaking aloud and self-recording twice a week
               description: |-
                 ## Purpose
-                Many students write Spanish well and freeze in the oral because they have never heard themselves speak it for more than a sentence. Two short recorded sessions a week, answering a question on a syllabus topic for a minute and then listening back, build fluency and expose pronunciation problems while there is time to fix them.
+                Many students write Spanish well and freeze in the oral because they have never heard themselves speak it for more than a sentence. Two short recorded sessions a week, answering a question on a syllabus topic for a minute and then listening back, build fluency and expose pronunciation problems while there is time to fix them. Spanish heard through a bedroom door is a good sign, so give it room.
 
                 ## Milestones
                 1. A list of thirty questions on syllabus topics written out to answer aloud.
@@ -290,7 +292,7 @@ starter_structure:
                 4. A recording from week one compared with one from week six.
 
                 ## Notes
-                Use the voice recorder on a phone. Speak in full sentences and keep going through mistakes, as you must in the exam.
+                Use the voice recorder on a phone. Speak in full sentences and keep going through mistakes, as the exam requires.
               priority: medium
               frontmatter:
                 mode: operating
@@ -301,7 +303,7 @@ starter_structure:
                 - "Write thirty questions on syllabus topics to answer aloud"
                 - "Record a one-minute spoken answer and play it back @recurring(weekly:mon,thu)"
                 - "Note one thing to improve after each recording"
-                - "Compare your first recording with one six weeks later"
+                - "Compare the first recording with one six weeks later"
             - name: Tuesday directed situations drill
               description: |-
                 ## Purpose
@@ -314,7 +316,7 @@ starter_structure:
                 4. Recurring mistakes copied into the error notebook.
 
                 ## Notes
-                Read the English prompt twice and underline who you are speaking to. Tú or usted is often the difference between a full and a partial mark.
+                Read the English prompt twice and underline who is being spoken to. Tú or usted is often the difference between a full and a partial mark.
               priority: medium
               frontmatter:
                 mode: operating
@@ -350,7 +352,7 @@ starter_structure:
             - name: Spanish practice score log
               description: |-
                 ## Purpose
-                A score from one paper says little; a line of scores across months shows whether listening is catching up with reading or whether letters have stalled. Logging every practice paper, section by section, gives you and your teacher evidence for what to change, and gives a parent something more useful to ask about than whether you studied.
+                A score from one paper says little; a line of scores across months shows whether listening is catching up with reading or whether letters have stalled. Logging every practice paper, section by section, gives your teen and their teacher evidence for what to change, and gives you something more useful to ask about than whether they studied.
 
                 ## Milestones
                 1. A log set up with columns for date, paper, section scores and time used.
@@ -383,7 +385,7 @@ starter_structure:
                 4. One graded reader finished each term.
 
                 ## Notes
-                Start from the **Reading queue** template. Choose texts where you know most words; a page with every third word unknown teaches very little.
+                Start from the **Reading queue** template. Choose texts where most words are already known; a page with every third word unknown teaches very little.
               priority: low
               frontmatter:
                 mode: operating
@@ -398,16 +400,16 @@ starter_structure:
             - name: Sunday Spanish check-in for parents
               description: |-
                 ## Purpose
-                Parents who do not speak Spanish often feel they cannot help, but a fifteen-minute weekly check-in needs no Spanish at all. Asking to see the vocabulary count, the latest recording and the score log, and listening to one answer aloud, keeps the routines alive and catches a slipping week before it becomes a slipping term.
+                If you do not speak Spanish, it is easy to feel you cannot help, but a fifteen-minute weekly check-in needs no Spanish at all. Asking to see the vocabulary count, the latest recording and the score log, and listening to one answer aloud, keeps the routines alive and catches a slipping week before it becomes a slipping term.
 
                 ## Milestones
-                1. A fixed Sunday time agreed with the student.
+                1. A fixed Sunday time agreed with your teen.
                 2. Three simple questions written down for the check-in.
                 3. The score log and timetable looked at together most weeks.
                 4. Any problem raised with the teacher within a fortnight.
 
                 ## Notes
-                Ask the student to teach you three words or one phrase each week. Explaining is one of the best ways to remember.
+                Ask your teen to teach you three words or one phrase each week. Explaining is one of the best ways to remember.
               priority: medium
               frontmatter:
                 mode: service
@@ -415,7 +417,7 @@ starter_structure:
                 success_criteria: "A fifteen-minute Sunday check-in happens most weeks, with concerns passed to the teacher within two weeks."
                 cadence: rolling
               tasks:
-                - "Agree a fifteen-minute Sunday slot with your child"
+                - "Agree a fifteen-minute Sunday slot with your teen"
                 - "Write three check-in questions that need no Spanish to ask"
                 - "Look at the score log and hear one spoken answer @recurring(weekly:sun)"
                 - "Email the teacher if the same problem shows up three weeks running"
@@ -426,7 +428,7 @@ starter_structure:
 
                 ## Milestones
                 1. The five vowel sounds and the hard letters (j, g, ll, ñ, rr, h) practised aloud.
-                2. The two stress rules and the reason for written accents explained in your own words.
+                2. The two stress rules and the reason for written accents explained in their own words.
                 3. Question words and pairs such as si and sí, el and él written correctly in sentences.
                 4. A short passage read aloud and recorded with correct stress.
                 5. Accent questions from past papers checked for errors.
@@ -434,13 +436,13 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "The stress and accent rules are written in your own words and a recorded passage plus past-paper writing show accents placed correctly."
+                success_criteria: "The stress and accent rules are written in their own words and a recorded passage plus past-paper writing show accents placed correctly."
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
                 - "Practise the five vowel sounds and the hard letters aloud"
-                - "Write the stress rules and accent rule in your own words"
-                - "Record yourself reading a short passage and check the stress"
+                - "Write the stress rules and accent rule in their own words"
+                - "Your teen records a short passage read aloud and checks the stress"
                 - "Check the accents in one past-paper written answer"
             - name: Present tense, regular, stem-changing and irregular verbs
               description: |-
@@ -451,7 +453,7 @@ starter_structure:
                 1. Regular ar, er and ir endings written and recited from memory.
                 2. The three stem-change patterns listed with five verbs each.
                 3. The common irregulars, including ser, ir, tener, hacer, decir and salir, conjugated without notes.
-                4. Ten sentences about your daily life written in the present.
+                4. Ten sentences about daily life written in the present.
                 5. Present tense items from past papers answered and marked.
               priority: medium
               frontmatter:
@@ -474,7 +476,7 @@ starter_structure:
                 1. The main uses of ser and estar written as two short lists with examples.
                 2. Expressions with tener, such as age, hunger, fear and need, learned.
                 3. Hay used correctly for there is and there are.
-                4. A paragraph describing your family and home written and checked.
+                4. A paragraph describing their family and home written and checked.
                 5. Description items from past papers answered and marked.
               priority: medium
               frontmatter:
@@ -486,7 +488,7 @@ starter_structure:
               tasks:
                 - "Write two lists of ser and estar uses with an example each"
                 - "Learn ten expressions with tener"
-                - "Write a paragraph describing your family and home"
+                - "Write a paragraph in Spanish describing the family and home"
                 - "Answer description items from past papers and check them"
             - name: Gender, agreement, comparisons, numbers, dates and time
               description: |-
@@ -524,7 +526,7 @@ starter_structure:
                 5. Past tense items and one composition prompt from past papers completed and marked.
 
                 ## Notes
-                Ser and ir share the same preterite forms. Context tells the reader which one you mean.
+                Ser and ir share the same preterite forms. Context tells the reader which one is meant.
               priority: high
               frontmatter:
                 mode: learning
@@ -540,12 +542,12 @@ starter_structure:
             - name: Future, conditional and ir a for plans
               description: |-
                 ## Purpose
-                Letters and conversations often ask about plans, careers and what you would do, so the future, the conditional and the simple ir a plus infinitive are needed in every component. These tenses share stems and are quick to learn once the irregular stems are known, and they add range that examiners credit.
+                Letters and conversations often ask about plans, careers and what the candidate would do, so the future, the conditional and the simple ir a plus infinitive are needed in every component. These tenses share stems and are quick to learn once the irregular stems are known, and they add range that examiners credit.
 
                 ## Milestones
                 1. Ir a plus infinitive used in five sentences about the weekend.
                 2. Future and conditional endings learned, with the shared irregular stems such as tendr, har and podr.
-                3. Five sentences written about your plans after school.
+                3. Five sentences written about their plans after school.
                 4. Three polite requests written using the conditional.
                 5. Future and conditional items from past papers answered and marked.
               priority: medium
@@ -558,12 +560,12 @@ starter_structure:
               tasks:
                 - "Write five ir a sentences about next weekend"
                 - "Learn the future and conditional endings and irregular stems"
-                - "Write five sentences about your plans after CSEC"
+                - "Your teen writes five sentences about their plans after CSEC"
                 - "Answer future and conditional items from past papers"
             - name: Commands for instructions, signs and notices
               description: |-
                 ## Purpose
-                Reading passages often include signs, recipes, instructions and adverts written as commands, and directed situations may ask you to tell someone to do something. Learning the tú and usted command forms, positive and negative, helps you understand notices quickly and give instructions accurately.
+                Reading passages often include signs, recipes, instructions and adverts written as commands, and directed situations may ask candidates to tell someone to do something. Learning the tú and usted command forms, positive and negative, helps your teen understand notices quickly and give instructions accurately.
 
                 ## Milestones
                 1. Positive tú commands, including the irregulars such as ven, haz and pon, learned.
@@ -581,18 +583,18 @@ starter_structure:
               tasks:
                 - "Learn the positive tú command forms including the irregulars"
                 - "Form usted and negative commands for ten verbs"
-                - "Write directions from your school to your home using commands"
+                - "Write directions from school to home using commands"
                 - "Answer sign and instruction items from past reading papers"
             - name: Present perfect and the present subjunctive
               description: |-
                 ## Purpose
-                Saying what you have done this year needs the present perfect, and the present subjunctive appears after wishes, advice and feelings that strong candidates use naturally. Neither is hard once taught in small steps, and a few correct subjunctive phrases in a letter or the conversation show range that lifts a grade.
+                Saying what has been done this year needs the present perfect, and the present subjunctive appears after wishes, advice and feelings that strong candidates use naturally. Neither is hard once taught in small steps, and a few correct subjunctive phrases in a letter or the conversation show range that lifts a grade.
 
                 ## Milestones
                 1. The present perfect formed with haber and the past participle, including irregular participles.
                 2. Present subjunctive forms learned for regular and common irregular verbs.
                 3. Ten trigger phrases, such as espero que and es importante que, learned with examples.
-                4. Five sentences using the subjunctive written into a letter you might send.
+                4. Five sentences using the subjunctive written into a letter they might send.
                 5. Related items from past papers answered and marked.
 
                 ## Notes
@@ -618,7 +620,7 @@ starter_structure:
                 1. Reflexive verbs used to describe a full daily routine.
                 2. Gustar, encantar, interesar and doler used with the right indirect pronoun.
                 3. Direct and indirect object pronouns, including se lo, placed correctly.
-                4. A paragraph on your routine and your likes written and checked.
+                4. A paragraph on their routine and likes written and checked.
                 5. Pronoun items from past papers answered and marked.
               priority: medium
               frontmatter:
@@ -628,7 +630,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Describe your daily routine aloud using reflexive verbs"
+                - "Describe a daily routine aloud using reflexive verbs"
                 - "Write five likes and dislikes using gustar and encantar"
                 - "Rewrite ten sentences replacing nouns with object pronouns"
                 - "Answer pronoun items from past papers and mark them"
@@ -639,8 +641,8 @@ starter_structure:
 
                 ## Milestones
                 1. The main uses of por and para written as two lists with examples.
-                2. Common prepositions of place and time used in sentences about your town.
-                3. Every question word, with accents, used in a question you could ask in a role-play.
+                2. Common prepositions of place and time used in sentences about the home town.
+                3. Every question word, with accents, used in a question they could ask in a role-play.
                 4. Twenty questions written for a conversation partner and checked.
                 5. Related items from past papers answered and marked.
               priority: low
@@ -652,57 +654,57 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Write the uses of por and para with an example each"
-                - "Describe where things are in your town using prepositions"
+                - "Describe where things are in the home town using prepositions"
                 - "Write twenty questions using every question word"
                 - "Answer preposition and question items from past papers"
             - name: Home, family, daily routine and personal identity vocabulary
               description: |-
                 ## Purpose
-                Oral exams and many letters open with who you are, where you live and what your day looks like. Building a confident set of words and phrases for family, home, appearance, personality and routine means you open the oral strongly and never lose marks on the easiest material in the syllabus.
+                Oral exams and many letters open with who the candidate is, where they live and what their day looks like. Building a confident set of words and phrases for family, home, appearance, personality and routine means your teen opens the oral strongly and never loses marks on the easiest material in the syllabus.
 
                 ## Milestones
                 1. Topic words for family, home, appearance, personality and routine in the deck.
-                2. A spoken answer of one minute about yourself recorded without notes.
-                3. An informal letter introducing yourself to a pen pal written and checked.
+                2. A spoken answer of one minute about themselves recorded without notes.
+                3. An informal letter introducing themselves to a pen pal written and checked.
                 4. Listening and reading items on this topic from past papers answered and marked.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A topic word list, a one-minute recording and a checked letter about yourself exist, and past-paper items on the topic are marked."
+                success_criteria: "A topic word list, a one-minute recording and a checked letter introducing themselves exist, and past-paper items on the topic are marked."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
                 - "Add family, home and routine words to the deck"
-                - "Record a one-minute answer about yourself without notes"
-                - "Write a letter introducing yourself to a pen pal"
+                - "Your teen records a one-minute answer about themselves without notes"
+                - "Write a Spanish letter of self-introduction to a pen pal"
                 - "Answer past-paper items on home and family and mark them"
             - name: School, careers and the world of work vocabulary
               description: |-
                 ## Purpose
-                Questions about your subjects, your school day and what you want to do after CSEC appear in conversations and letters, and job adverts and notices appear in reading. Preparing this topic properly, including the job you actually want and why, gives you real things to say in the oral rather than a memorised script.
+                Questions about a candidate's subjects, school day and plans after CSEC appear in conversations and letters, and job adverts and notices appear in reading. Preparing this topic properly, including the job your teen actually wants and why, gives them real things to say in the oral rather than a memorised script. Talking it over at home in English first is a good start.
 
                 ## Milestones
                 1. Words for subjects, school life, jobs and workplaces in the deck.
-                2. Opinions on your subjects given with reasons, using porque and the comparatives.
-                3. A paragraph on your career plans using the future and conditional.
+                2. Opinions on their subjects given with reasons, using porque and the comparatives.
+                3. A paragraph on their career plans using the future and conditional.
                 4. Listening and reading items on school and work from past papers answered and marked.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A checked paragraph on your career plans and a set of reasoned opinions on school exist, and past-paper items on the topic are marked."
+                success_criteria: "A checked paragraph on their career plans and a set of reasoned opinions on school exist, and past-paper items on the topic are marked."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
                 - "Add school subject and job words to the deck"
                 - "Write opinions on four subjects with reasons"
-                - "Write a paragraph on your career plans in Spanish"
+                - "Write a Spanish paragraph on career plans"
                 - "Answer past-paper items on school and work and mark them"
             - name: Health, food, shopping and services vocabulary
               description: |-
                 ## Purpose
-                Ordering a meal, buying clothes, explaining you feel ill or asking at a bank or post office are the everyday transactions directed situations and role-plays are built from. Learning the vocabulary and the polite set phrases for each makes these short tasks quick, accurate and safe marks.
+                Ordering a meal, buying clothes, explaining feeling ill or asking at a bank or post office are the everyday transactions directed situations and role-plays are built from. Learning the vocabulary and the polite set phrases for each makes these short tasks quick, accurate and safe marks.
 
                 ## Milestones
                 1. Words for the body, illness, food, shops, clothes and services in the deck.
@@ -719,7 +721,7 @@ starter_structure:
               tasks:
                 - "Add body, food, shop and service words to the deck"
                 - "Learn ten polite phrases for buying and ordering"
-                - "Write and act out five short role-plays with a partner"
+                - "Write and act out five short role-plays with a partner, or with you as the shopkeeper"
                 - "Answer past-paper situations on shopping and health"
             - name: Travel, tourism, directions and weather vocabulary
               description: |-
@@ -728,7 +730,7 @@ starter_structure:
 
                 ## Milestones
                 1. Words for transport, hotels, the airport, directions and weather in the deck.
-                2. Directions given aloud from a simple map of your town.
+                2. Directions given aloud from a simple map of the home town.
                 3. A formal letter booking a hotel room written and checked.
                 4. Announcement and weather listening items from past papers answered and marked.
               priority: medium
@@ -740,13 +742,13 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "Add transport, hotel and weather words to the deck"
-                - "Give directions aloud from a map of your town"
+                - "Give directions aloud from a map of the home town"
                 - "Write a formal letter booking a hotel room"
                 - "Answer past-paper travel announcements and mark them"
             - name: Environment, technology, festivals and the Hispanic world
               description: |-
                 ## Purpose
-                Later questions often turn to wider issues: pollution, hurricanes, phones and social media, festivals and how people live in other countries. Preparing this topic, with links between Carnival or Divali at home and festivals in Cuba, the Dominican Republic, Venezuela or Mexico, gives you material for longer answers and the cultural knowledge reading passages assume.
+                Later questions often turn to wider issues: pollution, hurricanes, phones and social media, festivals and how people live in other countries. Preparing this topic, with links between Carnival or Divali at home and festivals in Cuba, the Dominican Republic, Venezuela or Mexico, gives your teen material for longer answers and the cultural knowledge reading passages assume.
 
                 ## Milestones
                 1. Words for the environment, natural disasters, technology and festivals in the deck.
@@ -762,7 +764,7 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "Add environment, technology and festival words to the deck"
-                - "Write your opinion on two current issues with reasons"
+                - "Write an opinion on two current issues with reasons"
                 - "Compare a festival at home with one in a Spanish-speaking country"
                 - "Answer past-paper items on these themes and mark them"
             - name: Paper 01 listening technique
@@ -790,11 +792,11 @@ starter_structure:
                 - "Confirm the current listening format from the syllabus"
                 - "Write a five-step routine for each listening item"
                 - "Do three past listening sections using the routine"
-                - "Compare the scores with your diagnostic listening score"
+                - "Compare the scores with the diagnostic listening score"
             - name: Paper 01 reading multiple choice
               description: |-
                 ## Purpose
-                Multiple-choice reading questions test whether you can find meaning in notices, short texts and longer passages without understanding every word. Learning to use context, cognates and the question stem, and to watch for false friends such as embarazada and librería, raises scores without needing a bigger vocabulary.
+                Multiple-choice reading questions test whether a candidate can find meaning in notices, short texts and longer passages without understanding every word. Learning to use context, cognates and the question stem, and to watch for false friends such as embarazada and librería, raises scores without needing a bigger vocabulary.
 
                 ## Milestones
                 1. A list of twenty false friends that commonly mislead candidates.
@@ -810,7 +812,7 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "List twenty Spanish false friends with their real meaning"
-                - "Write your method for eliminating wrong options"
+                - "Write a method for eliminating wrong options"
                 - "Do three past reading sections against the clock"
                 - "Classify every wrong answer by its cause"
             - name: Directed situations, short accurate replies in Spanish
@@ -847,7 +849,7 @@ starter_structure:
                 4. Both letters marked and the errors added to the notebook.
 
                 ## Notes
-                Tick each point in the prompt as you cover it. Missing a point costs more than a small grammar error.
+                Tick each point in the prompt as it is covered. Missing a point costs more than a small grammar error.
               priority: medium
               frontmatter:
                 mode: building
@@ -859,11 +861,11 @@ starter_structure:
                 - "Write model layouts for an informal and a formal letter"
                 - "Learn twenty linking phrases"
                 - "Write one informal and one formal letter from past prompts"
-                - "Hand both letters to your teacher for marking"
+                - "Hand both letters to the teacher for marking"
             - name: Compositions and accounts from a cue
               description: |-
                 ## Purpose
-                Compositions ask you to tell a story or an account from a cue, using past tenses, linking and some description, and they reward controlled accuracy over ambitious errors. Planning in Spanish from the start, rather than translating from English, keeps sentences within what you can write correctly.
+                Compositions ask candidates to tell a story or an account from a cue, using past tenses, linking and some description, and they reward controlled accuracy over ambitious errors. Planning in Spanish from the start, rather than translating from English, keeps sentences within what your teen can write correctly.
 
                 ## Milestones
                 1. A five-minute planning method written: key events, tenses, three linking words, one opinion.
@@ -872,7 +874,7 @@ starter_structure:
                 4. All three marked and the strongest one kept as a model.
 
                 ## Notes
-                Write what you can say correctly. A simple sentence with the right tense is worth more than a complex one that collapses.
+                Write what can be said correctly. A simple sentence with the right tense is worth more than a complex one that collapses.
               priority: medium
               frontmatter:
                 mode: building
@@ -881,7 +883,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Write your five-minute composition planning method"
+                - "Write a five-minute composition planning method"
                 - "Collect openings and closings for accounts"
                 - "Write three compositions from past-paper cues"
                 - "Keep the best marked composition as a model"
@@ -892,9 +894,9 @@ starter_structure:
 
                 ## Milestones
                 1. The current format checked, including which language answers must be written in.
-                2. A method for locating answers and putting them in your own words.
+                2. A method for locating answers and putting them in their own words.
                 3. Three past passages answered in timed conditions and marked.
-                4. Mark scheme answers compared with yours to see the level of detail needed.
+                4. Mark scheme answers compared with your teen's to see the level of detail needed.
               priority: medium
               frontmatter:
                 mode: building
@@ -904,22 +906,22 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Check in the syllabus which language the reading answers must use"
-                - "Write your method for finding and rephrasing answers"
+                - "Write a method for finding and rephrasing answers"
                 - "Answer three past reading passages in timed conditions"
-                - "Compare your answers line by line with the mark scheme"
+                - "Compare the answers line by line with the mark scheme"
             - name: Oral exam situations and reading aloud
               description: |-
                 ## Purpose
-                Oral exams in CSEC Spanish usually include responding to set situations and reading a passage aloud, both of which can be rehearsed thoroughly. Practising with past oral material, and recording yourself reading with clear vowels and correct stress, removes the surprise from the parts of the oral that reward preparation most.
+                Oral exams in CSEC Spanish usually include responding to set situations and reading a passage aloud, both of which can be rehearsed thoroughly. Practising with past oral material, and recording passages read aloud with clear vowels and correct stress, removes the surprise from the parts of the oral that reward preparation most.
 
                 ## Milestones
-                1. The current oral format confirmed from the syllabus and your teacher.
+                1. The current oral format confirmed from the syllabus and the teacher.
                 2. Twenty past or sample oral situations answered aloud and recorded.
                 3. Five reading passages read aloud, recorded and checked for stress and pronunciation.
                 4. Feedback from the teacher on one recorded set noted and acted on.
 
                 ## Notes
-                Check the syllabus for preparation time and what you may bring into the room; do not rely on what last year's students remember.
+                Check the syllabus for preparation time and what may be brought into the room; do not rely on what last year's students remember.
               priority: high
               frontmatter:
                 mode: building
@@ -928,7 +930,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Confirm the parts of the oral and preparation time with your teacher"
+                - "Confirm the parts of the oral and preparation time with the teacher"
                 - "Answer and record twenty sample oral situations"
                 - "Record five reading passages and check the stress"
                 - "Ask the teacher to comment on one recorded set"
@@ -957,12 +959,12 @@ starter_structure:
             - name: First full timed Spanish paper at home
               description: |-
                 ## Purpose
-                Section practice builds skills, but only a full paper shows whether you can keep accuracy and pace from the first listening item to the last letter. Writing a complete Paper 01 and Paper 02 under exam timing at home, around the middle of the course, shows where time runs out and gives a realistic score to plan around.
+                Section practice builds skills, but only a full paper shows whether your teen can keep accuracy and pace from the first listening item to the last letter. Writing a complete Paper 01 and Paper 02 under exam timing at home, around the middle of the course, shows where time runs out and gives a realistic score to plan around.
 
                 ## Milestones
                 1. A full past Paper 01 and Paper 02 written under the times in the current syllabus.
                 2. Both marked against the mark scheme or by the teacher.
-                3. Time spent on each section noted against what you planned.
+                3. Time spent on each section noted against what was planned.
                 4. A timing plan for each paper written from the result.
               priority: medium
               deadlineOffsetDays: 90
@@ -999,14 +1001,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Ask the teacher for your marked mock scripts and oral notes"
+                - "Ask the teacher for the marked mock scripts and oral notes"
                 - "Trace every lost mark to a cause"
                 - "Listen to the mock oral recording if the school allows it"
                 - "Write a repair plan of no more than five targets"
             - name: Last full past paper before the exam
               description: |-
                 ## Purpose
-                Writing one final complete paper set about two weeks before the written papers confirms the timing plan and settles nerves. Keeping one of the newest papers untouched for this purpose means it is a true test of the current format rather than a paper you half remember.
+                Writing one final complete paper set about two weeks before the written papers confirms the timing plan and settles nerves. Keeping one of the newest papers untouched for this purpose means it is a true test of the current format rather than a paper half remembered.
 
                 ## Milestones
                 1. One of the newest past paper sets kept unused for this sitting.
@@ -1052,7 +1054,7 @@ starter_structure:
             - name: Spanish oral and written exam day plan
               description: |-
                 ## Purpose
-                Two exam days, the oral and the written papers, each need their own plan. Knowing the time, the room, what to bring, how to warm up your Spanish on the morning of the oral and how to split time across each paper means nerves are spent on Spanish, not on logistics.
+                Two exam days, the oral and the written papers, each need their own plan. Knowing the time, the room, what to bring, how to warm up in Spanish on the morning of the oral and how to split time across each paper means nerves are spent on Spanish, not on logistics. Sorting transport for both days is an easy way for you to help.
 
                 ## Milestones
                 1. Oral date, time and room confirmed with the school, and written paper times taken from the timetable.
@@ -1073,18 +1075,18 @@ starter_structure:
               tasks:
                 - "Confirm the oral date, time and room with the school"
                 - "Write a five-minute speaking warm-up for the oral morning"
-                - "Pack pens, pencils and your candidate number the night before"
-                - "Learn your per-section timing plan for each paper"
+                - "Pack pens, pencils and the candidate number the night before"
+                - "Learn the per-section timing plan for each paper"
             - name: Learning CSEC Spanish without a Spanish teacher
               description: |-
                 ## Purpose
-                Some students sit Spanish at a school with no Spanish teacher for their year, after a teacher leaves, or as a private candidate. Without daily lessons, the missing pieces are structure, marking and someone to speak with, and each needs a specific substitute arranged early, especially for the oral.
+                Some students sit Spanish at a school with no Spanish teacher for their year, after a teacher leaves, or as a private candidate. Without daily lessons, the missing pieces are structure, marking and someone to speak with, and if this is your teen's situation you can help arrange a specific substitute for each early, especially for the oral.
 
                 ## Milestones
                 1. A course book that follows the CSEC syllabus chosen and a weekly lesson plan built from it.
                 2. Someone found to mark written work at least monthly, such as a teacher at another school or a tutor.
                 3. A regular speaking partner arranged.
-                4. The oral arrangements for your situation confirmed with the school or the local registrar.
+                4. The oral arrangements for your teen's situation confirmed with the school or the local registrar.
 
                 ## Notes
                 For registration as a private candidate, follow the CSEC private candidate area. This project covers only how to learn the language without a teacher.
@@ -1099,7 +1101,7 @@ starter_structure:
                 - "Choose a course book that follows the CSEC Spanish syllabus"
                 - "Find someone who can mark written Spanish monthly"
                 - "Arrange a weekly speaking partner"
-                - "Confirm how and when your oral will be conducted"
+                - "Confirm how and when the oral will be conducted"
             - name: Choosing extra lessons or a Spanish tutor
               description: |-
                 ## Purpose
@@ -1125,14 +1127,14 @@ starter_structure:
                 - "Compare two or three tutors on CSEC experience and speaking time"
                 - "Book a trial lesson with the strongest option"
                 - "Ask the tutor for a short progress note @recurring(monthly:8)"
-            - name: Practising with Spanish speakers in your community
+            - name: Practising with Spanish speakers in the community
               description: |-
                 ## Purpose
-                Many Caribbean communities now include Spanish speakers from Venezuela, Cuba, the Dominican Republic and Colombia, and church groups, sports clubs and shops offer real conversation. Arranging regular, safe practice with a native speaker, with a parent's knowledge, builds listening speed and confidence no textbook can.
+                Many Caribbean communities now include Spanish speakers from Venezuela, Cuba, the Dominican Republic and Colombia, and church groups, sports clubs and shops offer real conversation. Arranging regular, safe practice with a native speaker, with your knowledge and agreement, builds listening speed and confidence no textbook can.
 
                 ## Milestones
                 1. A safe setting found, such as a church group, language club, school exchange or family friend.
-                2. A parent informed and in agreement with the arrangement.
+                2. You informed and in agreement with the arrangement.
                 3. A list of conversation topics from the syllabus prepared.
                 4. A monthly conversation held, with new words noted afterwards.
 
@@ -1145,14 +1147,14 @@ starter_structure:
                 success_criteria: "A monthly conversation with a Spanish speaker happens in a safe, parent-approved setting, with new words logged after each."
                 cadence: rolling
               tasks:
-                - "Ask your teacher or church about Spanish speakers who help students"
-                - "Agree the arrangement with a parent"
+                - "Ask the teacher or church about Spanish speakers who help students"
+                - "Agree the arrangement with your teen, including where and when they meet"
                 - "Prepare five syllabus topics to talk about"
                 - "Hold a conversation and note new words afterwards @recurring(monthly:15)"
             - name: Teacher's oral examination bank and recording checklist
               description: |-
                 ## Purpose
-                For a Spanish teacher, the oral is the component where preparation and administration both matter: students need practice material, and the recordings need to be clear and complete for moderation. A shared bank of situations, passages and conversation prompts, plus a recording checklist, makes oral season calmer for the department.
+                For a Spanish teacher, the oral is the component where preparation and administration both matter: students need practice material, and the recordings need to be clear and complete for moderation. A shared bank of situations, passages and conversation prompts, plus a recording checklist, makes oral season calmer for the department. If you teach Spanish yourself, or your teen's school is short of help, share this project with the department.
 
                 ## Milestones
                 1. A bank of practice situations, reading passages and conversation prompts organised by syllabus topic.
@@ -1178,32 +1180,32 @@ starter_structure:
             - name: Subject report patterns across five sittings
               description: |-
                 ## Purpose
-                CXC subject reports describe what candidates got wrong each year, and the same weaknesses return: register in situations, tense errors in compositions, copied answers in reading. Reading five years of Spanish reports side by side and listing the repeated comments gives a strong student or a teacher a precise checklist of traps to avoid.
+                CXC subject reports describe what candidates got wrong each year, and the same weaknesses return: register in situations, tense errors in compositions, copied answers in reading. Reading five years of Spanish reports side by side and listing the repeated comments gives a strong student, or the teacher, a precise checklist of traps to avoid.
 
                 ## Milestones
                 1. Five recent Spanish subject reports gathered.
                 2. Repeated comments listed by paper and section.
                 3. A checklist of the ten most frequent traps written.
-                4. The checklist used when marking two of your own past answers.
+                4. The checklist used when marking two of your teen's own past answers.
 
                 ## Notes
-                Ask the agent to summarise each report into a short list of strengths and weaknesses before you compare them.
+                Ask the agent to summarise each report into a short list of strengths and weaknesses before comparing them.
               priority: low
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A checklist of the ten most frequent traps from five Spanish subject reports exists and has been applied to two of your past answers."
+                success_criteria: "A checklist of the ten most frequent traps from five Spanish subject reports exists and has been applied to two of your teen's past answers."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
                 - "Gather five recent Spanish subject reports"
                 - "Ask the agent to summarise each report into strengths and weaknesses"
                 - "List the comments that repeat across sittings"
-                - "Write a ten-trap checklist and mark two of your answers with it"
+                - "Write a ten-trap checklist and mark two past answers with it"
             - name: Stretch Spanish for a top grade and beyond CSEC
               description: |-
                 ## Purpose
-                Strong candidates aiming for the top grade need range as well as accuracy: idioms, the subjunctive used naturally, varied linking and real reading. Stretching now also prepares for CAPE Spanish, international certificates such as DELE, and careers in tourism, diplomacy, trade and translation where Spanish is a real asset in the region.
+                Strong candidates aiming for the top grade need range as well as accuracy: idioms, the subjunctive used naturally, varied linking and real reading. Stretching now also prepares for CAPE Spanish, international certificates such as DELE, and careers in tourism, diplomacy, trade and translation where Spanish is a real asset in the region. Let a strong teen lead this; your part is encouragement and perhaps the cost of a certificate.
 
                 ## Milestones
                 1. Ten idioms and advanced linking phrases learned and used in writing.
@@ -1218,14 +1220,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Learn ten idioms and use three in your next letter"
+                - "Learn ten idioms and use three in the next letter"
                 - "Read one long Spanish article and summarise it @recurring(monthly:23)"
-                - "Ask your teacher to mark a piece against top-grade expectations"
+                - "Ask the teacher to mark a piece against top-grade expectations"
                 - "List CAPE, certificate and career options that use Spanish"
 ---
 
 # CSEC Spanish
 
-Everything a Form Four or Form Five student, a parent or a Spanish teacher needs for CSEC Spanish, from checking what the current papers and oral look like to walking into the exam room with a timing plan. It opens with set-up (the format check, a diagnostic, a timetable, a past-paper and audio pack, a vocabulary deck and an error notebook), runs the weekly routines, works through the grammar and the syllabus topic areas, then each exam section in turn: listening, reading, directed situations, letters, compositions, longer reading and the two halves of the oral, before the timed papers, the mock, exam day, projects for parents and teachers, and stretch work for strong candidates.
+Everything a parent or guardian needs to support a Form Four or Form Five student through CSEC Spanish, with projects for Spanish teachers too, from checking what the current papers and oral look like to the morning of the exam with a timing plan. It opens with set-up (the format check, a diagnostic, a timetable, a past-paper and audio pack, a vocabulary deck and an error notebook), runs the weekly routines, works through the grammar and the syllabus topic areas, then each exam section in turn: listening, reading, directed situations, letters, compositions, longer reading and the two halves of the oral, before the timed papers, the mock, exam day, projects for parents and teachers, and stretch work for strong candidates.
 
 The rhythm is short and frequent: ten minutes of vocabulary every day, directed situations on Tuesday, listening on Wednesday, speaking aloud on Monday and Thursday, reading on Friday, a conversation topic on Saturday and a parent check-in on Sunday, with a timed letter or composition, an error quiz and a score review each month. The Purchase decision, Meeting notes, Habit tracker, Metrics log, Reading queue and Remediation plan templates pair with the projects that point at them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

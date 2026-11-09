@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-information-technology
 name: CSEC Information Technology
-description: "A complete CSEC Information Technology plan: the current syllabus and papers, daily coding drills, every section from computer fundamentals to program implementation, the SBA, timed past papers, the mock, exam day and results."
+description: "A CSEC Information Technology plan for a parent supporting a teen: the syllabus and papers, daily coding drills, every section from fundamentals to programming, the SBA, past papers, the mock, exam day and results."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-information-technology, student, parent, educator, cxc, csec, programming, sba]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,16 +25,18 @@ starter_structure:
             - name: Current CSEC Information Technology syllabus and paper format check
               description: |-
                 ## Purpose
-                CXC examines Information Technology through a multiple-choice Paper 01, a structured written Paper 02 that includes problem solving and programming, and either the SBA as Paper 031 or the alternative Paper 032 for private candidates, and syllabus revisions have moved topics around and updated the software and programming expectations. One evening with the current syllabus and the CXC timetable means every later project is aimed at the exam you will actually sit, not the one in an older cousin's notes.
+                CXC examines Information Technology through a multiple-choice Paper 01, a structured written Paper 02 that includes problem solving and programming, and either the SBA as Paper 031 or the alternative Paper 032 for private candidates, and syllabus revisions have moved topics around and updated the software and programming expectations. One evening with the current syllabus and the CXC timetable, ideally with your teen beside you, means every later project is aimed at the exam they will actually sit, not the one in an older cousin's notes.
 
                 ## Milestones
                 1. The current CSEC Information Technology syllabus downloaded from the CXC website, with its edition year noted.
                 2. The format of Paper 01, Paper 02 and Paper 031 or 032 written on one page in the syllabus's own words.
                 3. Every syllabus section listed in order, from computer fundamentals to program implementation, so each topic project here matches one.
-                4. The programming language and software your school uses checked against what the syllabus allows.
-                5. The May to June sitting confirmed with your school and the IT exam date noted once the timetable is out.
+                4. The programming language and software the school uses checked against what the syllabus allows.
+                5. The May to June sitting confirmed with the school and the IT exam date noted once the timetable is out.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CSEC Information Technology, and an older student can follow it with a parent's support.
+
                 Revision guides and websites often lag a syllabus change by several years. Where they disagree with the CXC document, the CXC document wins.
               priority: high
               deadlineOffsetDays: 10
@@ -46,23 +48,23 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Check the current syllabus and timetable on the CXC website and note the paper format"
-                - "Write the syllabus edition year inside the cover of your IT folder"
+                - "Write the syllabus edition year inside the cover of the IT folder"
                 - "List the syllabus sections on one page in the order CXC gives them"
-                - "Ask your teacher which programming language and SBA arrangement the school uses"
+                - "Ask the teacher which programming language and SBA arrangement the school uses"
                 - "Recheck the CXC website for syllabus amendments each September @recurring(yearly)"
             - name: Diagnostic Paper 01 for Information Technology
               description: |-
                 ## Purpose
-                Before planning two years of revision, find out what you already know. A full past Paper 01, done under time and marked against the key, shows which sections are already solid from everyday computer use and which, often number systems, file organisation and networks, need real teaching.
+                Before planning two years of revision, find out what your teen already knows. A full past Paper 01, done under time and marked against the key, shows which sections are already solid from everyday computer use and which, often number systems, file organisation and networks, need real teaching.
 
                 ## Milestones
                 1. A recent past Paper 01 sat in one go under the time stated on the paper.
                 2. Every answer marked against the key and the score recorded.
                 3. Each wrong answer tagged with its syllabus section.
-                4. The three weakest sections named and written at the top of your study plan.
+                4. The three weakest sections named and written at the top of the study plan.
 
                 ## Notes
-                Do not revise first. The point is an honest starting score, and a low one is normal at the start of fourth form.
+                Agree with your teen not to revise first. The point is an honest starting score, and a low one is normal at the start of fourth form.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -72,14 +74,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Get a recent past Paper 01 and its answer key from your teacher or the official CXC past paper booklets"
-                - "Sit the paper in one go with a timer and no notes"
-                - "Mark it and tag each wrong answer with its syllabus section"
-                - "Write your three weakest sections at the top of your study plan"
+                - "Get a recent past Paper 01 and its answer key from the teacher or the official CXC past paper booklets"
+                - "Your teen sits the paper in one go with a timer and no notes"
+                - "Mark it together and tag each wrong answer with its syllabus section"
+                - "Write the three weakest sections at the top of the study plan"
             - name: Two-year Information Technology study plan
               description: |-
                 ## Purpose
-                IT is usually taught across fourth and fifth form with the SBA running alongside the theory, so a plan that ignores SBA deadlines falls apart in the second year. Mapping each syllabus section to a term, with practical lab time and SBA milestones marked, shows early whether the content fits before the mock.
+                IT is usually taught across fourth and fifth form with the SBA running alongside the theory, so a plan that ignores SBA deadlines falls apart in the second year. Mapping each syllabus section to a term with your teen, with practical lab time and SBA milestones marked, shows early whether the content fits before the mock and gives you both one calendar to check against.
 
                 ## Milestones
                 1. Each syllabus section assigned to a term, matching the school's scheme of work where one exists.
@@ -99,14 +101,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for the scheme of work and the SBA calendar"
+                - "Ask the teacher for the scheme of work and the SBA calendar"
                 - "Assign each syllabus section to a term on one page"
-                - "Rate your confidence in every section from one to five"
+                - "Ask your teen to rate their confidence in every section from one to five"
                 - "Check the plan against the school term calendar @recurring(monthly:2)"
             - name: Computer access, software and coursework folder setup
               description: |-
                 ## Purpose
-                Spreadsheet, database and programming skills only stick with hands on a keyboard, and many students share a family computer or rely on a phone. Sorting out regular access, the right software and one tidy, backed-up folder for coursework early saves the classic disaster of an SBA file lost on a borrowed flash drive a week before submission.
+                Spreadsheet, database and programming skills only stick with hands on a keyboard, and many students share a family computer or rely on a phone. Sorting out regular access, the right software and one tidy, backed-up folder for coursework early saves the classic disaster of an SBA file lost on a borrowed flash drive a week before submission, and access is the part a parent can most easily fix.
 
                 ## Milestones
                 1. Regular weekly access to a computer confirmed, at home, at school, at a relative's or at a public library.
@@ -124,35 +126,35 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "List where and when you can use a computer each week"
+                - "List where and when your teen can use a computer each week"
                 - "Check which office suite and database program the school lab uses"
                 - "Create the coursework folder with one subfolder per syllabus section"
                 - "Copy the coursework folder to a flash drive or cloud backup @recurring(weekly:fri)"
             - name: Programming environment setup and a first working program
               description: |-
                 ## Purpose
-                Learners who only ever write code on paper struggle to spot syntax errors and never see a loop actually run. Installing the compiler or editor for the language your syllabus and school use, and getting a short program to accept input and print a result, removes the setup excuse before the programming section begins.
+                Learners who only ever write code on paper struggle to spot syntax errors and never see a loop actually run. Getting the compiler or editor for the school's language installed, and seeing your teen get a short program to accept input and print a result, removes the setup excuse before the programming section begins.
 
                 ## Milestones
-                1. The language your school teaches confirmed against the syllabus; Pascal is a long-standing choice in CSEC classrooms.
-                2. A free compiler or editor for that language installed on the computer you use most.
+                1. The language the school teaches confirmed against the syllabus; Pascal is a long-standing choice in CSEC classrooms.
+                2. A free compiler or editor for that language installed on the computer your teen uses most.
                 3. A program that asks for a name and prints a greeting compiled and run without errors.
                 4. The steps to create, save, compile and run a program written on one card.
 
                 ## Notes
-                If no computer you can use will run a compiler, ask your teacher about lab time or an online editor for the same language, and check it behaves like the one in the school lab.
+                If no computer at home will run a compiler, ask the teacher about lab time or an online editor for the same language, and check it behaves like the one in the school lab.
               priority: medium
               deadlineOffsetDays: 14
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A first program in the school's language compiles and runs on a computer you can use every week, with the steps written on a card."
+                success_criteria: "A first program in the school's language compiles and runs on a computer your teen can use every week, with the steps written on a card."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Confirm with your teacher which language and compiler the class uses"
+                - "Confirm with the teacher which language and compiler the class uses"
                 - "Install a free compiler or editor for that language"
-                - "Write, compile and run a program that reads a name and prints a greeting"
+                - "Your teen writes, compiles and runs a program that reads a name and prints a greeting"
                 - "Write the save, compile and run steps on an index card"
             - name: Command words and definition answers for Paper 02
               description: |-
@@ -175,14 +177,14 @@ starter_structure:
                 - "Copy the glossary of command words from the back of the syllabus"
                 - "Write ten one-sentence definitions of core IT terms"
                 - "Answer five distinguish questions from past papers"
-                - "Ask your teacher to mark one theory question for command-word accuracy"
+                - "Ask the teacher to mark one theory question for command-word accuracy"
             - name: Weekly Information Technology practice sessions
               description: |-
                 ## Purpose
                 Two short, regular sessions a week beat a long cram before each test, because practical skills such as building a query or tracing a loop fade quickly without use. Splitting each session between one theory topic and one hands-on task keeps both halves of the exam moving forward.
 
                 ## Milestones
-                1. Two fixed 45-minute slots a week in your timetable.
+                1. Two fixed 45-minute slots a week in your teen's timetable.
                 2. Each session split between a theory topic and a practical task at the computer.
                 3. A one-line record kept of what each session covered.
                 4. Twelve consecutive weeks of sessions completed.
@@ -193,9 +195,9 @@ starter_structure:
                 success_criteria: "Twelve consecutive weeks with two recorded practice sessions each, every one covering a theory topic and a practical task."
                 cadence: rolling
               tasks:
-                - "Choose two fixed 45-minute slots in your week"
+                - "Agree two fixed 45-minute slots in the week with your teen"
                 - "Hold an IT practice session with one theory topic and one practical task @recurring(weekly:tue,sat)"
-                - "Write one line on what each session covered"
+                - "One line written on what each session covered"
                 - "Rotate the practical task between spreadsheets, databases and code each fortnight"
             - name: Ten-minute daily algorithm or coding drill
               description: |-
@@ -203,7 +205,7 @@ starter_structure:
                 Programming and algorithm questions reward fluency, and fluency comes from small daily repetitions, not occasional marathons. Ten minutes a day writing a short algorithm, tracing someone else's, or fixing a broken program keeps the logic of variables, loops and conditions fresh from fourth form to the exam.
 
                 ## Milestones
-                1. A bank of at least thirty short drills collected from textbooks, past papers and your teacher.
+                1. A bank of at least thirty short drills collected from textbooks, past papers and the teacher.
                 2. A daily ten-minute slot attached to an existing routine.
                 3. Drills ticked off on a habit tracker for a month.
                 4. Twenty consecutive school days of drills completed.
@@ -218,7 +220,7 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Collect thirty short algorithm and coding exercises into one document"
-                - "Pick the daily routine the drill will follow, such as straight after dinner"
+                - "Agree the daily routine the drill will follow, such as straight after dinner"
                 - "Do one ten-minute algorithm, tracing or debugging drill @recurring(daily)"
             - name: IT terms and acronym recall cards
               description: |-
@@ -237,10 +239,10 @@ starter_structure:
                 success_criteria: "A full card set covering every syllabus section, with at least nine in ten cards in the known pile by the mock."
                 cadence: rolling
               tasks:
-                - "Make cards for the terms in the section you are studying now"
+                - "Make cards for the terms in the section being studied now"
                 - "Sort the cards into known, shaky and new piles"
                 - "Review the shaky and new cards for fifteen minutes @recurring(weekly:wed)"
-                - "Add a card for every term you got wrong in a practice paper"
+                - "Add a card for every term missed in a practice paper"
             - name: Monthly timed Paper 01 practice for IT
               description: |-
                 ## Purpose
@@ -272,7 +274,7 @@ starter_structure:
                 ## Milestones
                 1. A list of past Paper 02 questions grouped by syllabus section.
                 2. One full question answered under time each month.
-                3. Each answer marked against the mark scheme or by your teacher.
+                3. Each answer marked against the mark scheme or by the teacher.
                 4. The month's main lesson written in the mistakes log.
               priority: medium
               frontmatter:
@@ -284,11 +286,11 @@ starter_structure:
                 - "Group past Paper 02 questions by syllabus section"
                 - "Answer one timed Paper 02 question and mark it against the scheme @recurring(monthly:23)"
                 - "Alternate between theory, productivity tools and programming questions"
-                - "Write the main lesson from each answer in your mistakes log"
+                - "Write the main lesson from each answer in the mistakes log"
             - name: Information Technology mistakes log
               description: |-
                 ## Purpose
-                Repeating the same slips, such as forgetting the dollar signs in an absolute reference or a loop counter that runs one time too many, costs more marks than real gaps in knowledge. A running log of every error from practice papers, drills and SBA work, with the correct version beside it, becomes the most useful revision document you own.
+                Repeating the same slips, such as forgetting the dollar signs in an absolute reference or a loop counter that runs one time too many, costs more marks than real gaps in knowledge. A running log of every error from practice papers, drills and SBA work, with the correct version beside it, becomes the most useful revision document your teen owns.
 
                 ## Milestones
                 1. A log with columns for date, source, section, mistake and fix.
@@ -306,13 +308,13 @@ starter_structure:
                 - "Add the week's errors from papers, drills and SBA work @recurring(weekly:sun)"
                 - "Ask the agent to group the month's mistakes by syllabus section"
                 - "Read the whole log the week before every mock"
-            - name: Termly progress review with your IT teacher
+            - name: Termly progress review with the IT teacher
               description: |-
                 ## Purpose
-                Teachers see patterns across the class that a student cannot, and a short conversation once a term turns their view into specific next steps. Bringing scores, the confidence grid and SBA progress makes the meeting about decisions rather than general encouragement.
+                Teachers see patterns across the class that neither you nor your teen can, and a short conversation once a term turns their view into specific next steps. Bringing scores, the confidence grid and SBA progress, with your teen leading the conversation where they can, makes the meeting about decisions rather than general encouragement.
 
                 ## Milestones
-                1. A ten-minute meeting with your IT teacher each term.
+                1. A ten-minute meeting with the IT teacher each term, with your teen there.
                 2. Latest Paper 01 scores, the confidence grid and SBA progress brought to the meeting.
                 3. Two or three agreed actions written down.
                 4. Actions from the last meeting checked at the start of the next.
@@ -326,14 +328,14 @@ starter_structure:
                 success_criteria: "A written record of at least three termly reviews, each with agreed actions and a check of the previous ones."
                 cadence: cyclic
               tasks:
-                - "Ask your teacher for ten minutes near the end of each term @recurring(quarterly)"
-                - "Bring your score log, confidence grid and SBA progress"
-                - "Write down the two or three actions you agree"
+                - "Ask the teacher for ten minutes near the end of each term @recurring(quarterly)"
+                - "Bring the score log, confidence grid and SBA progress"
+                - "Write down the two or three actions agreed"
                 - "Check last term's actions at the start of the meeting"
             - name: Hardware components and the input, process, output and storage cycle
               description: |-
                 ## Purpose
-                Every later section assumes you can name the parts of a computer system and say what each does in the IPOS cycle: input devices, the central processing unit with its control unit and arithmetic logic unit, memory, output devices and storage. Getting this vocabulary exact early makes questions on devices, storage and basic troubleshooting much easier.
+                Every later section assumes your teen can name the parts of a computer system and say what each does in the IPOS cycle: input devices, the central processing unit with its control unit and arithmetic logic unit, memory, output devices and storage. Getting this vocabulary exact early makes questions on devices, storage and basic troubleshooting much easier.
 
                 ## Milestones
                 1. A labelled diagram of a computer system showing input, processing, output and storage, with the main parts of the CPU named.
@@ -349,14 +351,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Draw and label the IPOS diagram from memory"
+                - "Ask your teen to draw and label the IPOS diagram from memory"
                 - "Write one sentence on what each part of the CPU does"
                 - "Make a table comparing the computer types listed in the syllabus"
                 - "Answer and mark the hardware questions from three past papers"
             - name: Choosing input and output devices for real situations
               description: |-
                 ## Purpose
-                Questions rarely ask you to define a barcode reader; they describe a supermarket, a bank, a school or a person with a disability and ask which device fits and why. Practising device choice against real Caribbean settings, from a lottery outlet's mark-sense playslip to the magnetic ink line on a bank cheque, turns a memorised list into marks.
+                Questions rarely ask a candidate to define a barcode reader; they describe a supermarket, a bank, a school or a person with a disability and ask which device fits and why. Practising device choice against real Caribbean settings, from a lottery outlet's mark-sense playslip to the magnetic ink line on a bank cheque, turns a memorised list into marks.
 
                 ## Milestones
                 1. A table of input and output devices with an example use, an advantage and a limitation for each.
@@ -373,7 +375,7 @@ starter_structure:
               tasks:
                 - "Build a table of input and output devices with uses and limitations"
                 - "List assistive devices for three different impairments"
-                - "Spot five input or output devices in use at shops, banks or school this week"
+                - "Together, spot five input or output devices in use at shops, banks or school this week"
                 - "Answer five scenario questions choosing and justifying a device"
             - name: Primary and secondary storage, units and media choice
               description: |-
@@ -401,12 +403,12 @@ starter_structure:
             - name: Binary, octal, hexadecimal and BCD conversions
               description: |-
                 ## Purpose
-                Number base conversions are among the most reliable marks on the paper for anyone who practises and among the most often lost by anyone who does not. Short, regular sets of conversions, including binary addition and whichever signed representations your syllabus lists, make the method automatic.
+                Number base conversions are among the most reliable marks on the paper for anyone who practises and among the most often lost by anyone who does not. Short, regular sets of conversions, including binary addition and whichever signed representations the syllabus lists, make the method automatic.
 
                 ## Milestones
-                1. Conversions between decimal, binary, octal and hexadecimal carried out by a written method you can show.
+                1. Conversions between decimal, binary, octal and hexadecimal carried out by a written method your teen can show.
                 2. Binary addition practised with carries.
-                3. BCD and the signed representations listed in your syllabus, such as sign and magnitude or two's complement, practised with worked examples.
+                3. BCD and the signed representations listed in the syllabus, such as sign and magnitude or two's complement, practised with worked examples.
                 4. A weekly set of five mixed conversions done for eight weeks.
                 5. Past-paper number system questions marked at 80 percent or better.
               priority: medium
@@ -419,7 +421,7 @@ starter_structure:
               tasks:
                 - "Write the method for each conversion on one reference sheet"
                 - "Work ten binary additions with carries and check them"
-                - "Check which signed number representations your syllabus lists"
+                - "Check which signed number representations the syllabus lists"
                 - "Do five mixed base conversions and check them @recurring(weekly:thu)"
             - name: Data, information and the documents of information processing
               description: |-
@@ -439,7 +441,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "3"
               tasks:
-                - "Collect three real bills or forms from home"
+                - "Gather three real bills or forms from home to work through together"
                 - "Label each one as source, turnaround, machine-readable or human-readable"
                 - "Write an example of information that fails on accuracy, timeliness and relevance"
                 - "Answer the information processing questions from two past papers"
@@ -469,13 +471,13 @@ starter_structure:
             - name: Computer networks from school LANs to mobile networks
               description: |-
                 ## Purpose
-                Section 2 of the syllabus expects you to compare network types, the media that connect them and the equipment involved, from a school lab LAN to a WAN linking bank branches across several islands. Drawing the networks you actually use, at home, at school and on a phone, gives every definition a picture to hang on.
+                Section 2 of the syllabus expects your teen to compare network types, the media that connect them and the equipment involved, from a school lab LAN to a WAN linking bank branches across several islands. Drawing the networks the family actually uses, at home, at school and on a phone, gives every definition a picture to hang on.
 
                 ## Milestones
-                1. LAN, MAN, WAN and the other network types in your syllabus compared in a table.
+                1. LAN, MAN, WAN and the other network types in the syllabus compared in a table.
                 2. Wired and wireless transmission media compared, including twisted pair, fibre optic, Wi-Fi and mobile data.
                 3. Network devices such as modems, routers, switches and network interface cards described with their roles.
-                4. A labelled diagram of your school or home network.
+                4. A labelled diagram of the school or home network.
                 5. Past-paper networking questions marked at 70 percent or better.
               priority: medium
               frontmatter:
@@ -485,14 +487,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Draw a labelled diagram of your home or school network"
+                - "Draw a labelled diagram of the home or school network"
                 - "Compare four transmission media in a table"
                 - "Write one line on what each network device does"
                 - "Answer the networking questions from three past papers"
             - name: The internet, intranets, extranets and web technologies
               description: |-
                 ## Purpose
-                Internet, intranet and extranet are easily confused, and questions on web technologies expect exact terms: URL, HTTP and HTTPS, browser, web server, hyperlink, upload and download. Taking a real website apart piece by piece connects the vocabulary to something you use every day.
+                Internet, intranet and extranet are easily confused, and questions on web technologies expect exact terms: URL, HTTP and HTTPS, browser, web server, hyperlink, upload and download. Taking a real website apart piece by piece connects the vocabulary to something your teen uses every day.
 
                 ## Milestones
                 1. Internet, intranet and extranet distinguished with a Caribbean organisation as an example of each.
@@ -515,7 +517,7 @@ starter_structure:
             - name: Computer security, cybercrime and protecting data
               description: |-
                 ## Purpose
-                Security questions ask you to name a threat, explain its effect and propose a fitting countermeasure, and vague answers such as 'use antivirus' score little. Building a threat and countermeasure table, from phishing and malware to identity theft and data lost in a hurricane, prepares precise, two-part answers.
+                Security questions ask candidates to name a threat, explain its effect and propose a fitting countermeasure, and vague answers such as 'use antivirus' score little. Building a threat and countermeasure table, from phishing and malware to identity theft and data lost in a hurricane, prepares precise, two-part answers.
 
                 ## Milestones
                 1. A table of threats, their effects and matching physical and software safeguards.
@@ -538,7 +540,7 @@ starter_structure:
             - name: ICT in Caribbean workplaces, health effects and IT careers
               description: |-
                 ## Purpose
-                Section 3 also asks how ICT changes work, health and society: telecommuting, automation, jobs lost and created, repetitive strain and eye strain, and the careers IT opens up. Grounding each answer in a Caribbean example, such as online government services or a call centre, makes answers specific and gives you a first look at where the subject leads.
+                Section 3 also asks how ICT changes work, health and society: telecommuting, automation, jobs lost and created, repetitive strain and eye strain, and the careers IT opens up. Grounding each answer in a Caribbean example, such as online government services or a call centre, makes answers specific and gives your teen a first look at where the subject leads, which is a good topic for a conversation at home.
 
                 ## Milestones
                 1. Effects of ICT on at least four fields, such as banking, education, medicine and law enforcement, noted with an example each.
@@ -583,12 +585,12 @@ starter_structure:
             - name: Planning and building a simple web page
               description: |-
                 ## Purpose
-                Web page design sits in the same syllabus section as word processing and usually features in the SBA, where marks go to planning, navigation and sensible use of text, images and links. Planning a small site on paper first, then building it with the tool your school uses, avoids a page that looks busy but misses the brief.
+                Web page design sits in the same syllabus section as word processing and usually features in the SBA, where marks go to planning, navigation and sensible use of text, images and links. Planning a small site on paper first, then building it with the tool the school uses, avoids a page that looks busy but misses the brief.
 
                 ## Milestones
                 1. The web page design principles in the syllabus listed, such as consistent layout, readable text and working links.
                 2. A site of at least two linked pages planned on paper with a navigation sketch.
-                3. The pages built with the web authoring tool or code your school uses.
+                3. The pages built with the web authoring tool or code the school uses.
                 4. Every link and image tested and the pages checked in a browser.
                 5. Past-paper web page design questions answered and marked.
               priority: medium
@@ -600,7 +602,7 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Sketch a two-page site about a school club on paper"
-                - "Ask your teacher which web authoring tool the SBA expects"
+                - "Ask the teacher which web authoring tool the SBA expects"
                 - "Build the pages with a menu, an image and links between them"
                 - "Test every link and image in two different browsers"
             - name: Spreadsheet formulas, functions and cell referencing
@@ -722,10 +724,10 @@ starter_structure:
             - name: Writing algorithms in pseudocode
               description: |-
                 ## Purpose
-                Pseudocode is how most Paper 02 problem-solving marks are earned, and examiners look for correct input, processing, output, selection and loops rather than perfect syntax. Writing algorithms in the conventions your teacher uses, from a simple average to a loop that stops on a sentinel value, builds patterns you will reuse in the exam.
+                Pseudocode is how most Paper 02 problem-solving marks are earned, and examiners look for correct input, processing, output, selection and loops rather than perfect syntax. Writing algorithms in the conventions the teacher uses, from a simple average to a loop that stops on a sentinel value, builds patterns your teen will reuse in the exam.
 
                 ## Milestones
-                1. The pseudocode keywords and conventions your class uses written on one sheet.
+                1. The pseudocode keywords and conventions the class uses written on one sheet.
                 2. Algorithms written using sequence, IF THEN, IF THEN ELSE and nested selection.
                 3. FOR, WHILE and REPEAT loops written, including a sentinel-controlled loop.
                 4. Ten past-paper algorithm questions answered and marked against the scheme.
@@ -762,32 +764,32 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "Draw and label each flowchart symbol the syllabus uses"
-                - "Convert five of your pseudocode algorithms into flowcharts"
+                - "Convert five earlier pseudocode algorithms into flowcharts"
                 - "Complete ten trace tables from past papers"
                 - "Check each trace table answer against the mark scheme"
             - name: Program structure, variables and data types in code
               description: |-
                 ## Purpose
-                Moving from pseudocode to a real language means exact syntax: a program heading, declared variables with data types, assignment, input and output. Translating your own pseudocode into the language your school uses, and running it, shows what a compiler cares about that a pseudocode marker forgives.
+                Moving from pseudocode to a real language means exact syntax: a program heading, declared variables with data types, assignment, input and output. Translating pseudocode your teen has already written into the language the school uses, and running it, shows what a compiler cares about that a pseudocode marker forgives.
 
                 ## Milestones
-                1. The structure of a program in your language written out with each part labelled.
+                1. The structure of a program in the school's language written out with each part labelled.
                 2. Integer, real, character, string and Boolean variables declared and used.
-                3. Five of your pseudocode algorithms translated into code that compiles and runs.
+                3. Five earlier pseudocode algorithms translated into code that compiles and runs.
                 4. Syntax errors recorded as they happen, with the fix beside each.
                 5. Past-paper questions on program structure and data types answered and marked.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "Five working programs translated from your own pseudocode, using each data type in the syllabus, with syntax errors logged."
+                success_criteria: "Five working programs translated from your teen's own pseudocode, using each data type in the syllabus, with syntax errors logged."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Label the parts of a short sample program in your language"
+                - "Label the parts of a short sample program in the school's language"
                 - "Write a program that declares and prints one variable of each data type"
-                - "Translate five of your pseudocode algorithms into code and run them"
-                - "Record each syntax error and its fix in your mistakes log"
+                - "Translate five earlier pseudocode algorithms into code and run them"
+                - "Record each syntax error and its fix in the mistakes log"
             - name: Selection and loops in working programs
               description: |-
                 ## Purpose
@@ -795,7 +797,7 @@ starter_structure:
 
                 ## Milestones
                 1. A program using IF THEN ELSE and a nested or multi-way selection.
-                2. A FOR loop, a WHILE loop and a REPEAT UNTIL loop each written and run, or the loop forms your language provides.
+                2. A FOR loop, a WHILE loop and a REPEAT UNTIL loop each written and run, or the loop forms the school's language provides.
                 3. A program combining a loop and selection, such as counting passes in a list of marks.
                 4. Each program tested with normal, boundary and invalid data.
                 5. Past-paper selection and loop coding questions answered and marked.
@@ -837,10 +839,10 @@ starter_structure:
             - name: Testing, debugging and documenting programs
               description: |-
                 ## Purpose
-                Compiling is not the same as being correct, and the syllabus expects you to tell syntax, logic and runtime errors apart, choose test data and document code so someone else can follow it. Building these habits now pays twice: in Paper 02 answers and in the programming part of the SBA.
+                Compiling is not the same as being correct, and the syllabus expects candidates to tell syntax, logic and runtime errors apart, choose test data and document code so someone else can follow it. Building these habits now pays twice: in Paper 02 answers and in the programming part of the SBA.
 
                 ## Milestones
-                1. Syntax, logic and runtime errors distinguished with one example of each from your own programs.
+                1. Syntax, logic and runtime errors distinguished with one example of each from your teen's own programs.
                 2. A test plan for one program with normal, boundary and erroneous data and expected results.
                 3. A dry run compared with actual output to track down a logic error.
                 4. Internal comments and a short user note added to a finished program.
@@ -853,18 +855,18 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Find one syntax, one logic and one runtime error in your own programs"
+                - "Find one syntax, one logic and one runtime error in programs your teen wrote"
                 - "Write a test plan with normal, boundary and erroneous data for one program"
                 - "Compare a dry run with the real output to track down a logic error"
-                - "Add comments and a short user note to your best program"
+                - "Add comments and a short user note to the best program so far"
             - name: IT SBA brief, mark scheme and scenario choice
               description: |-
                 ## Purpose
-                The IT SBA is normally built around one scenario that you work through with the productivity tools and with problem solving and programming, and marks depend on meeting the official requirements, not on how impressive the topic sounds. Reading the CXC guidelines and mark scheme with your teacher before settling the scenario prevents weeks of rework later.
+                The IT SBA is normally built around one scenario that your teen works through with the productivity tools and with problem solving and programming, and marks depend on meeting the official requirements, not on how impressive the topic sounds. Making sure they read the CXC guidelines and mark scheme with the teacher before settling the scenario prevents weeks of rework later.
 
                 ## Milestones
                 1. The current SBA guidelines and mark scheme read in full, with each requirement listed.
-                2. The scenario your teacher sets, or the one you propose, approved in writing.
+                2. The scenario the teacher sets, or the one your teen proposes, approved in writing.
                 3. Each SBA component and its school deadline written on the SBA calendar.
                 4. A folder for every SBA component created inside the coursework folder.
               priority: high
@@ -876,14 +878,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Get the SBA guidelines and mark scheme from your teacher"
+                - "Ask your teen to get the SBA guidelines and mark scheme from the teacher"
                 - "List every SBA requirement on one checklist"
-                - "Agree the scenario with your teacher and keep the approval"
+                - "Check the scenario is agreed with the teacher and the approval kept"
                 - "Write each component's school deadline on the SBA calendar"
             - name: SBA productivity tools for documents, spreadsheets, databases and web pages
               description: |-
                 ## Purpose
-                Moderators look for each required feature, clearly shown, when they check the productivity part of the SBA, which applies word processing, spreadsheet, database and web page skills to your scenario. Working through the requirements checklist one tool at a time, with printouts or screenshots that prove each feature, keeps the evidence complete.
+                Moderators look for each required feature, clearly shown, when they check the productivity part of the SBA, which applies word processing, spreadsheet, database and web page skills to the chosen scenario. Working through the requirements checklist one tool at a time, with printouts or screenshots that prove each feature, keeps the evidence complete.
 
                 ## Milestones
                 1. Each productivity requirement on the checklist matched to the file that meets it.
@@ -903,11 +905,11 @@ starter_structure:
                 - "Match each productivity requirement on the checklist to a file"
                 - "Build the spreadsheet and database components with all required features"
                 - "Save labelled printouts or screenshots that show each feature"
-                - "Show your SBA progress to your teacher @recurring(monthly:15)"
+                - "Check in on SBA progress and whether the teacher has seen it @recurring(monthly:15)"
             - name: SBA problem solving and programming component
               description: |-
                 ## Purpose
-                Leaving the programming part of the SBA until the end often reveals a program that no longer matches the algorithm already written up. Developing the problem definition, algorithm or flowchart, trace table and program together, testing as you go, keeps the parts consistent and the code working.
+                Leaving the programming part of the SBA until the end often reveals a program that no longer matches the algorithm already written up. Developing the problem definition, algorithm or flowchart, trace table and program together, testing along the way, keeps the parts consistent and the code working.
 
                 ## Milestones
                 1. The problem for the programming component defined with an IPO chart.
@@ -931,7 +933,7 @@ starter_structure:
             - name: Final IT SBA check and submission
               description: |-
                 ## Purpose
-                Last-minute SBA losses are usually avoidable: missing printouts, a broken link, a file saved in the wrong format or a cover sheet left blank. A full check against the mark scheme a week before the school deadline, with time to fix what it finds, protects marks you have already earned.
+                Last-minute SBA losses are usually avoidable: missing printouts, a broken link, a file saved in the wrong format or a cover sheet left blank. A full check against the mark scheme a week before the school deadline, with time to fix what it finds, protects marks your teen has already earned.
 
                 ## Milestones
                 1. Every requirement on the checklist ticked, with its evidence located.
@@ -960,7 +962,7 @@ starter_structure:
                 1. The subject reports for the three or four most recent sittings obtained.
                 2. Recurring weaknesses noted section by section.
                 3. Each recurring weakness turned into a practice question or recall card.
-                4. Mark schemes used to rewrite two of your own weak answers to full marks.
+                4. Mark schemes used to rewrite two weak practice answers to full marks.
               priority: medium
               frontmatter:
                 mode: research
@@ -972,16 +974,16 @@ starter_structure:
                 - "Download recent CSEC IT subject reports from the CXC website"
                 - "Note the weaknesses examiners mention in more than one report"
                 - "Turn each repeated weakness into a practice question or recall card"
-                - "Read one section of a subject report beside your mistakes log @recurring(monthly:18)"
+                - "Read one section of a subject report beside the mistakes log @recurring(monthly:18)"
             - name: Full Information Technology mock exam under exam conditions
               description: |-
                 ## Purpose
-                A mock taken as seriously as the real thing reveals timing problems and weak sections while there is still time to fix them. Sitting Paper 01 and Paper 02 under exam conditions, then marking and analysing both, sets the agenda for the final revision period.
+                A mock taken as seriously as the real thing reveals timing problems and weak sections while there is still time to fix them. Sitting Paper 01 and Paper 02 under exam conditions, then marking and analysing both, sets the agenda for the final revision period. Offering a quiet room and keeping the time yourself helps it feel like the real exam.
 
                 ## Milestones
-                1. A full past paper set chosen that you have not seen before.
+                1. A full past paper set chosen that your teen has not seen before.
                 2. Both papers sat under exam conditions, with time noted per section.
-                3. Both papers marked against the mark schemes, or by your teacher.
+                3. Both papers marked against the mark schemes, or by the teacher.
                 4. The five weakest areas from the mock listed and fed into the final revision timetable.
               priority: high
               deadlineOffsetDays: 195
@@ -992,7 +994,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Choose a full unseen past paper set with your teacher"
+                - "Choose a full unseen past paper set with the teacher"
                 - "Sit Paper 01 and Paper 02 under exam conditions"
                 - "Mark both papers and record the time spent per section"
                 - "List the five weakest areas for the final revision timetable"
@@ -1015,14 +1017,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Build an eight-week day-by-day timetable around your other subjects"
-                - "Give your mock's weakest sections double revision time"
+                - "Help your teen build an eight-week day-by-day timetable around other subjects"
+                - "Give the mock's weakest sections double revision time"
                 - "Schedule two full timed papers and weekly algorithm practice"
                 - "Tick off the day's IT revision block @recurring(daily)"
             - name: Last full IT past paper and the final week
               description: |-
                 ## Purpose
-                New topics have no place in the final week; it is for confidence and small fixes. One last full past paper about ten days before the exam, followed by light review of recall cards, the mistakes log and a few trace tables, keeps you sharp without burning out.
+                New topics have no place in the final week; it is for confidence and small fixes. One last full past paper about ten days before the exam, followed by light review of recall cards, the mistakes log and a few trace tables, keeps your teen sharp without burning out.
 
                 ## Milestones
                 1. A last full past paper sat about ten days before the exam and marked.
@@ -1041,17 +1043,17 @@ starter_structure:
                 - "Sit and mark the last full past paper about ten days out"
                 - "Patch the gaps it shows with short targeted questions"
                 - "Review the shaky recall cards and the mistakes log in short sessions"
-                - "Check the list of permitted exam items with your school and gather them"
+                - "Check the list of permitted exam items with the school and gather them"
             - name: CSEC Information Technology exam day plan
               description: |-
                 ## Purpose
-                Exam day nerves ease when nothing is left to chance: the time, the room, the permitted items and how you will spend the minutes on each paper. Writing the plan down the week before means the morning is calm and the time goes on the questions.
+                Exam day nerves ease when nothing is left to chance: the time, the room, the permitted items and how your teen will spend the minutes on each paper. Writing the plan down together the week before means the morning is calm and the time goes on the questions.
 
                 ## Milestones
                 1. Exam date, time, centre and candidate number confirmed and written down.
                 2. Permitted items packed the night before, including spare pens and pencils.
                 3. A time plan for each paper written, with a check of remaining time halfway.
-                4. A rule decided for questions you are stuck on, such as mark it and move on.
+                4. A rule decided for questions they are stuck on, such as mark it and move on.
               priority: high
               deadlineOffsetDays: 270
               frontmatter:
@@ -1061,17 +1063,17 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Confirm the exam date, time, centre and your candidate number"
+                - "Confirm the exam date, time, centre and your teen's candidate number"
                 - "Write a time plan for Paper 01 and Paper 02"
                 - "Pack the permitted items the night before"
-                - "Arrive at the centre at least thirty minutes early"
+                - "Plan the route so your teen arrives at least thirty minutes early"
             - name: Parent support for a CSEC IT student
               description: |-
                 ## Purpose
-                Parents do not need to know Pascal or databases to help; they help most with access, routine and deadlines. Making sure the computer is available at agreed times, a weekly ten-minute check-in happens and SBA dates are on the family calendar removes the most common reasons IT students fall behind.
+                You do not need to know Pascal or databases to help; parents help most with access, routine and deadlines. Making sure the computer is available at agreed times, a weekly ten-minute check-in happens and SBA dates are on the family calendar removes the most common reasons IT students fall behind.
 
                 ## Milestones
-                1. Agreed times each week when the student has the family computer or a quiet place to use a laptop.
+                1. Agreed times each week when your teen has the family computer or a quiet place to use a laptop.
                 2. A weekly ten-minute check-in about practice and the SBA.
                 3. The school's SBA deadlines on the family calendar.
                 4. A backup plan for computer access if the home device breaks, such as a relative's computer or the school lab.
@@ -1082,14 +1084,14 @@ starter_structure:
                 success_criteria: "Twelve weekly check-ins held, SBA deadlines on the family calendar and a backup plan for computer access written down."
                 cadence: rolling
               tasks:
-                - "Agree the weekly times your child has the family computer"
-                - "Hold a ten-minute IT check-in with your child @recurring(weekly:sun)"
+                - "Agree the weekly times your teen has the family computer"
+                - "Hold a ten-minute IT check-in with your teen @recurring(weekly:sun)"
                 - "Put the school's SBA deadlines on the family calendar"
                 - "Check the school notices or portal for new IT deadlines @recurring(monthly:5)"
             - name: Teacher or tutor tracker for a CSEC IT class
               description: |-
                 ## Purpose
-                IT teachers juggle lab bookings, software versions and SBA components for a whole class at once. A single tracker showing each student's practice scores, SBA progress and weak sections makes interventions earlier and moderation preparation calmer.
+                IT teachers juggle lab bookings, software versions and SBA components for a whole class at once. A single tracker showing each student's practice scores, SBA progress and weak sections makes interventions earlier and moderation preparation calmer. If your teen has an IT tutor, share this project with them, or ask the teacher whether the class keeps a tracker like it.
 
                 ## Milestones
                 1. A class tracker with columns for each student's scores, SBA components and weak sections.
@@ -1110,13 +1112,13 @@ starter_structure:
             - name: Paper 032 alternative for private IT candidates
               description: |-
                 ## Purpose
-                Private candidates without a school cannot complete the SBA, so CXC offers Paper 032 as the alternative. Checking its current format in the syllabus, then practising the skills it assesses on your own computer, closes the gap a school SBA would normally fill.
+                Private candidates without a school cannot complete the SBA, so CXC offers Paper 032 as the alternative. If your teen is sitting privately, checking its current format in the syllabus, then practising the skills it assesses on a home computer, closes the gap a school SBA would normally fill.
 
                 ## Milestones
                 1. Registration as a private candidate confirmed through the local CXC registrar.
                 2. The Paper 032 format checked in the current syllabus.
                 3. Specimen or past Paper 032 questions sourced and practised.
-                4. Practical skills in spreadsheets, databases and programming kept active on your own computer.
+                4. Practical skills in spreadsheets, databases and programming kept active on a home computer.
               priority: low
               frontmatter:
                 mode: building
@@ -1132,11 +1134,11 @@ starter_structure:
             - name: Grade I answers on long algorithm and programming questions
               description: |-
                 ## Purpose
-                Top grades depend on the problem-solving and programming questions, where full-mark answers handle every case the question mentions, use clear variable names and end loops correctly. Studying model answers and rewriting your own until they match is the specialist work that separates good from excellent.
+                Top grades depend on the problem-solving and programming questions, where full-mark answers handle every case the question mentions, use clear variable names and end loops correctly. Studying model answers and rewriting earlier answers until they match is the specialist work that separates good from excellent, and it suits a teen aiming high who is ready to lead their own practice.
 
                 ## Milestones
                 1. Five model answers to long algorithm questions studied and annotated.
-                2. Your own answers to the same questions rewritten to full marks.
+                2. Your teen's own answers to the same questions rewritten to full marks.
                 3. One timed long algorithm or coding question answered each week for eight weeks.
                 4. Teacher or tutor marking showing full or near-full marks on three consecutive answers.
               priority: low
@@ -1148,19 +1150,19 @@ starter_structure:
                 effort_hours_estimate: "10"
               tasks:
                 - "Annotate five model answers to long algorithm questions"
-                - "Rewrite your own answers to the same questions to full marks"
+                - "Rewrite earlier answers to the same questions to full marks"
                 - "Answer one long algorithm question under time @recurring(weekly:sat)"
-                - "Ask your teacher to mark three answers in a row"
+                - "Ask the teacher or tutor to mark three answers in a row"
             - name: Results, review requests and the next step after CSEC IT
               description: |-
                 ## Purpose
-                Results bring decisions: whether to request a review, whether to resit, and whether IT leads on to CAPE Computer Science, CAPE Information Technology or a technical course. Planning these choices before results day means you can act quickly if a deadline applies.
+                Results bring decisions: whether to request a review, whether to resit, and whether IT leads on to CAPE Computer Science, CAPE Information Technology or a technical course. Talking these choices through with your teen before results day means you can act quickly together if a deadline applies.
 
                 ## Milestones
                 1. Results checked through the school or the CXC online portal.
                 2. The review request process and its deadline noted in case a grade looks wrong.
-                3. A decision recorded on CAPE Computer Science, CAPE Information Technology, a resit or a technical course.
-                4. SBA files and your best programs kept as a portfolio for the next stage.
+                3. A decision agreed with your teen on CAPE Computer Science, CAPE Information Technology, a resit or a technical course.
+                4. SBA files and the best programs kept as a portfolio for the next stage.
               priority: medium
               deadlineOffsetDays: 330
               frontmatter:
@@ -1170,14 +1172,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Note how and when results are released by your school and CXC"
+                - "Note how and when results are released by the school and CXC"
                 - "Check the review request process and deadline before results day"
                 - "Compare CAPE Computer Science, CAPE Information Technology and technical courses"
-                - "Save your best SBA work and programs as a portfolio"
+                - "Save the best SBA work and programs as a portfolio"
 ---
 
 # CSEC Information Technology
 
-This area takes a CSEC Information Technology student from the first syllabus check to results day, in the order CXC sets out the subject. It opens with the foundations (the current syllabus, a diagnostic paper, a two-year plan, a working computer and a programming environment), sets up the practice routines, then works through the syllabus in turn: computer fundamentals and information processing, networks and web technologies, the social and economic impact of ICT, word processing and web page design, spreadsheets, databases, problem solving and program design, and program implementation, before the SBA, examiner reports, the mock and exam day, with projects for parents, teachers and private candidates at the end.
+This area helps a parent or guardian support a CSEC Information Technology student from the first syllabus check to results day, in the order CXC sets out the subject. It opens with the foundations (the current syllabus, a diagnostic paper, a two-year plan, a working computer and a programming environment), sets up the practice routines, then works through the syllabus in turn: computer fundamentals and information processing, networks and web technologies, the social and economic impact of ICT, word processing and web page design, spreadsheets, databases, problem solving and program design, and program implementation, before the SBA, examiner reports, the mock and exam day, with projects on parent support, teachers and tutors, and private candidates at the end.
 
-The rhythm is two practice sessions a week, a ten-minute daily algorithm or coding drill, a weekly backup of coursework files, weekly recall cards and number base conversions, a monthly timed Paper 01 and a monthly Paper 02 question, and a termly talk with your teacher. The Skills matrix, Habit tracker, Metrics log and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is two practice sessions a week, a ten-minute daily algorithm or coding drill, a weekly backup of coursework files, weekly recall cards and number base conversions, a monthly timed Paper 01 and a monthly Paper 02 question, a weekly check-in at home and a termly talk with the IT teacher. The Skills matrix, Habit tracker, Metrics log and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

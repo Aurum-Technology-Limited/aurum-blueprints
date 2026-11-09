@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.cape-biology
 name: CAPE Biology
-description: "A full CAPE Biology plan for Units 1 and 2: the current syllabus and papers, weekly routines, every module from biomolecules to immunology, the internal assessment labs, essay practice, mocks and exam day."
+description: "A CAPE Biology plan for parents and guardians backing a sixth former through Units 1 and 2: the syllabus and papers, weekly routines, every module, the internal assessment labs, essay practice, mocks and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, cape-biology, student, parent, educator, cxc, cape, biology, internal-assessment]
@@ -16,7 +16,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -26,15 +26,17 @@ starter_structure:
             - name: Current CAPE Biology syllabus and paper format check
               description: |-
                 ## Purpose
-                CAPE Biology is examined unit by unit, each with a multiple-choice Paper 01, a written Paper 02 of structured and essay questions, and either the school-based internal assessment as Paper 031 or the written alternative Paper 032 for private candidates. Syllabus editions change wording, specific objectives and practical requirements, so an hour with the current CXC document means the next two years are aimed at the exam you will actually sit.
+                CAPE Biology is examined unit by unit, each with a multiple-choice Paper 01, a written Paper 02 of structured and essay questions, and either the school-based internal assessment as Paper 031 or the written alternative Paper 032 for private candidates. Syllabus editions change wording, specific objectives and practical requirements, so an hour with the current CXC document means the next two years are aimed at the exam your teen will actually sit. Going through it together once also gives you the dates and terms you will hear about for the next two years.
 
                 ## Milestones
-                1. The current CAPE Biology syllabus downloaded from the CXC website and its edition year written on your folder.
+                1. The current CAPE Biology syllabus downloaded from the CXC website and its edition year written on their Biology folder.
                 2. The format of Paper 01, Paper 02 and Paper 031 or 032 summarised on one page in the syllabus's own words.
                 3. The three modules of Unit 1 and the three modules of Unit 2 listed with their sub-topics, ready to match to the topic projects in this area.
-                4. The May to June sitting confirmed with your school and each unit's paper dates noted once the CXC timetable is published.
+                4. The May to June sitting confirmed with the school and each unit's paper dates noted once the CXC timetable is published.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CAPE Biology, and an older student can follow it with a parent's support.
+
                 Older revision guides and handouts often follow a previous syllabus. Where they disagree with the CXC document, the CXC document wins.
               priority: high
               deadlineOffsetDays: 10
@@ -45,23 +47,23 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Check the current syllabus and timetable on the CXC website and note the paper format"
-                - "Write the syllabus edition year on the front of your Biology folder"
+                - "Together, check the current syllabus and timetable on the CXC website and note the paper format"
+                - "Write the syllabus edition year on the front of the Biology folder"
                 - "List the six modules and their specific objectives on one page"
-                - "Ask your teacher which unit the school enters you for this year and in which sitting"
+                - "Ask the teacher which unit the school is entering your teen for this year and in which sitting"
             - name: CSEC to CAPE Biology gap check
               description: |-
                 ## Purpose
-                Students arriving from CSEC usually know the vocabulary but not the depth: CAPE asks why water potential falls, not just that osmosis happens. A one-hour diagnostic on CSEC ideas that CAPE builds on, such as cell structure, enzymes, inheritance and transport, shows which foundations to repair in the first month instead of discovering them in the mock.
+                Students arriving from CSEC usually know the vocabulary but not the depth: CAPE asks why water potential falls, not just that osmosis happens. A one-hour diagnostic on CSEC ideas that CAPE builds on, such as cell structure, enzymes, inheritance and transport, shows which foundations your teen needs to repair in the first month instead of discovering them in the mock.
 
                 ## Milestones
                 1. A CSEC Biology Paper 02 or a teacher's bridging test completed under timed conditions.
-                2. Your answers marked against the mark scheme and the score recorded.
+                2. The answers marked against the mark scheme and the score recorded.
                 3. Weak CSEC topics listed against the CAPE modules that depend on them.
                 4. A two-week repair plan written for the three weakest foundations.
 
                 ## Notes
-                Students who did Human and Social Biology or Integrated Science rather than CSEC Biology should expect more gaps in plant biology and ecology, and should plan extra time for them.
+                If your teen did Human and Social Biology or Integrated Science rather than CSEC Biology, expect more gaps in plant biology and ecology, and plan extra time for them.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -71,21 +73,21 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for a bridging test or a recent CSEC Biology paper"
+                - "Ask the teacher for a bridging test or a recent CSEC Biology paper"
                 - "Sit the paper in one timed session without notes"
                 - "Mark it against the mark scheme and record the score"
                 - "Match each weak topic to the CAPE module that builds on it"
-                - "Spend two weeks repairing the three weakest topics"
+                - "Two weeks of repair on the three weakest topics, with a quick check-in at the end"
             - name: Two-year CAPE Biology study plan for Units 1 and 2
               description: |-
                 ## Purpose
-                Two units, six modules and a year of practical work do not fit into the last term, and most schools teach one unit per year. A plan that places each module against the school calendar, with holidays, mock weeks and internal assessment deadlines marked, shows early when the class is falling behind and where your own revision has to cover the gap.
+                Two units, six modules and a year of practical work do not fit into the last term, and most schools teach one unit per year. A plan that places each module against the school calendar, with holidays, mock weeks and internal assessment deadlines marked, shows early when the class is falling behind and where your teen's own revision has to cover the gap. Copying the key dates into the family calendar lets you see the heavy weeks coming.
 
                 ## Milestones
                 1. Every module of Units 1 and 2 placed on a term-by-term calendar.
                 2. Mock exams, internal assessment deadlines and the May to June sitting marked on it.
-                3. Two weekly study blocks and one past-paper session fixed in your timetable.
-                4. The plan checked against your teacher's scheme of work and adjusted.
+                3. Two weekly study blocks and one past-paper session fixed in their timetable.
+                4. The plan checked against the teacher's scheme of work and adjusted.
 
                 ## Notes
                 Leave a buffer of two to three weeks before each sitting for full papers only. New content in the final month rarely sticks.
@@ -98,49 +100,49 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for the scheme of work for both units"
+                - "Ask the teacher for the scheme of work for both units"
                 - "Place each module on a term-by-term calendar"
                 - "Mark mocks, lab deadlines and the sitting on the calendar"
-                - "Check the plan against where your class actually is @recurring(monthly:3)"
-            - name: Choosing your unit order and sitting for CAPE Biology
+                - "Ask your teen whether the class is on plan and adjust it together @recurring(monthly:3)"
+            - name: Choosing the unit order and sitting for CAPE Biology
               description: |-
                 ## Purpose
-                Some schools enter students for Unit 1 in lower sixth and Unit 2 in upper sixth, others sit both together, and a few students add Biology late or take one unit only. The choice affects workload alongside your other CAPE subjects and what a university or scholarship board will see, so it is worth deciding deliberately with your teacher and parents rather than drifting into it.
+                Some schools enter students for Unit 1 in lower sixth and Unit 2 in upper sixth, others sit both together, and a few students add Biology late or take one unit only. The choice affects your teen's workload alongside their other CAPE subjects and what a university or scholarship board will see. Let them weigh it up with the teacher, then talk it through together so the decision is made deliberately rather than drifted into.
 
                 ## Milestones
-                1. Your school's usual arrangement for Biology units confirmed with the head of science.
-                2. The entry requirements of two or three programmes you are considering checked for Biology Unit 1, Unit 2 or both.
-                3. Your workload across all CAPE subjects laid out for each option.
-                4. A decision on unit order and sitting recorded, with the reasons, and shared with your parents.
+                1. The school's usual arrangement for Biology units confirmed with the head of science.
+                2. The entry requirements of two or three programmes your teen is considering checked for Biology Unit 1, Unit 2 or both.
+                3. Their workload across all CAPE subjects laid out for each option.
+                4. A decision on unit order and sitting recorded, with the reasons, and talked through at home.
 
                 ## Notes
-                Rules for scholarships and university entry are covered in their own area. Here the decision is only how and when you sit Biology.
+                Rules for scholarships and university entry are covered in their own area. Here the decision is only how and when your teen sits Biology.
               priority: medium
               deadlineOffsetDays: 45
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A written decision on which Biology units to sit and when, with reasons, agreed with your teacher and shared with your parents."
+                success_criteria: "A written decision on which Biology units to sit and when, with reasons, agreed with the teacher and talked through with you."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
                 - "Ask the head of science how Biology units are usually entered"
                 - "Check two programmes' entry requirements for Biology units"
-                - "Lay out your CAPE workload for each unit order on one page"
-                - "Record the decision and reasons, then talk it through with your parents"
+                - "Lay out the CAPE workload for each unit order on one page"
+                - "Record the decision and reasons, then talk it through together"
             - name: Past paper and examiner report bank for CAPE Biology
               description: |-
                 ## Purpose
-                Past papers, mark schemes and CXC subject reports are the closest thing to a key for the exam, but they end up scattered across phones, group chats and photocopies. One organised bank, sorted by unit, module and year, makes every later practice session start in seconds and lets you see which objectives come up again and again.
+                Past papers, mark schemes and CXC subject reports are the closest thing to a key for the exam, but they end up scattered across phones, group chats and photocopies. One organised bank, sorted by unit, module and year, makes every later practice session start in seconds and lets your teen see which objectives come up again and again. Offering to cover printing or official papers is a practical way to help.
 
                 ## Milestones
-                1. Official past papers for both units gathered from the CXC store or your school, with mark schemes where available.
+                1. Official past papers for both units gathered from the CXC store or the school, with mark schemes where available.
                 2. CXC subject reports for recent years collected and filed by unit.
                 3. Every question tagged with its module, so topic practice can draw on it.
                 4. A one-page list of the objectives examiners say candidates handle worst.
 
                 ## Notes
-                Answers shared in group chats are often wrong. Check any unofficial answer against the official mark scheme or your teacher before learning it.
+                Answers shared in group chats are often wrong. Check any unofficial answer against the official mark scheme or the teacher before learning it.
               priority: medium
               frontmatter:
                 mode: building
@@ -149,17 +151,17 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "Ask your teacher which past papers and mark schemes the school holds"
+                - "Ask the teacher which past papers and mark schemes the school holds"
                 - "Collect the CXC subject reports for each unit for recent years"
                 - "Tag each past-paper question with its module number"
                 - "Ask the agent to summarise the repeated weaknesses named in the subject reports"
             - name: Command words and CAPE essay marking in Biology
               description: |-
                 ## Purpose
-                Marks in a CAPE Biology essay are awarded for specific points, so a beautifully written answer that describes when the question said explain can score little. Learning what each command word demands, and how mark schemes split an essay into knowledge, explanation and application, changes the shape of every answer you write afterwards.
+                Marks in a CAPE Biology essay are awarded for specific points, so a beautifully written answer that describes when the question said explain can score little. Learning what each command word demands, and how mark schemes split an essay into knowledge, explanation and application, changes the shape of every answer your teen writes afterwards.
 
                 ## Milestones
-                1. The syllabus glossary of command words copied into your folder with one Biology example each.
+                1. The syllabus glossary of command words copied into the Biology folder with one example each.
                 2. Three past mark schemes studied to see how points are allocated in essay questions.
                 3. One essay rewritten after marking, showing the extra points the rewrite earns.
                 4. A personal checklist for reading a question before writing.
@@ -167,18 +169,18 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A command word sheet with Biology examples and one marked essay rewritten to earn more points, both kept in your folder."
+                success_criteria: "A command word sheet with Biology examples and one marked essay rewritten to earn more points, both kept in the Biology folder."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Copy the command word glossary from the syllabus into your folder"
+                - "Copy the command word glossary from the syllabus into the Biology folder"
                 - "Write one Biology example for describe, explain, discuss and compare"
                 - "Study how three mark schemes award points in essay questions"
                 - "Rewrite one marked essay against its mark scheme"
             - name: Lab book, safety and internal assessment skills tracker
               description: |-
                 ## Purpose
-                Your internal assessment marks come from practical work spread across the year, assessed on skills such as observation, recording and reporting, manipulation and measurement, analysis and interpretation, and planning and designing. A lab book kept to standard from the first practical, with a tracker showing which skill each lab assessed, avoids the scramble of rewriting a year of reports in April.
+                Internal assessment marks come from practical work spread across the year, assessed on skills such as observation, recording and reporting, manipulation and measurement, analysis and interpretation, and planning and designing. A lab book kept to standard from the first practical, with a tracker showing which skill each lab assessed, avoids the scramble of rewriting a year of reports in April. Asking now and then to see the tracker is an easy way to back your teen up without hovering.
 
                 ## Milestones
                 1. The skills assessed and the internal assessment rules copied from the current syllabus.
@@ -207,7 +209,7 @@ starter_structure:
                 Calculating actual size with a calibrated eyepiece graticule, drawing plan diagrams of tissues and interpreting electron micrographs appear in both the practical work and the written papers. These skills are learned once and used in every module, so practising them early pays back in cell biology, plant transport and reproduction alike.
 
                 ## Milestones
-                1. An eyepiece graticule calibrated against a stage micrometer and the method written in your own words.
+                1. An eyepiece graticule calibrated against a stage micrometer and the method written in their own words.
                 2. Five magnification and actual-size calculations done correctly with units.
                 3. Plan diagrams of three tissues drawn to CXC conventions: clean single lines, no shading, labels ruled to the side.
                 4. Past-paper questions on micrographs and magnification answered and marked.
@@ -226,7 +228,7 @@ starter_structure:
             - name: Weekly CAPE Biology study blocks
               description: |-
                 ## Purpose
-                Six modules cannot be crammed, and the detail of the Krebs cycle or the action potential fades within weeks unless it is reused. Two fixed study blocks a week, one to consolidate what was taught and one to practise questions on it, keep the content from piling up behind your other CAPE subjects.
+                Six modules cannot be crammed, and the detail of the Krebs cycle or the action potential fades within weeks unless it is reused. Two fixed study blocks a week, one to consolidate what was taught and one to practise questions on it, keep the content from piling up behind your teen's other CAPE subjects. Agree the times with them, then leave them to run the blocks.
 
                 ## Milestones
                 1. Two study blocks of about ninety minutes fixed on the same days each week.
@@ -243,7 +245,7 @@ starter_structure:
                 success_criteria: "Two Biology study blocks a week recorded in a habit tracker for eight consecutive weeks."
                 cadence: rolling
               tasks:
-                - "Choose two fixed times a week for Biology study"
+                - "Agree two fixed times a week for Biology study with your teen"
                 - "Set up a habit tracker with a row for each block"
                 - "Hold a Biology study block and write a short summary @recurring(weekly:tue,sat)"
                 - "Move any missed block to another day that same week"
@@ -264,14 +266,14 @@ starter_structure:
                 success_criteria: "A recall deck covering every module taught so far, reviewed on at least five days a week for four weeks."
                 cadence: rolling
               tasks:
-                - "Write ten definition cards from the module you are studying now"
+                - "Write ten definition cards from the module being studied now"
                 - "Choose a paper or app system that repeats hard cards more often"
-                - "Answer your recall cards from memory before checking @recurring(daily)"
+                - "Answer the recall cards from memory before checking @recurring(daily)"
                 - "Add cards for this week's new terms and pathways @recurring(weekly:sun)"
             - name: Monthly timed Paper 01 multiple-choice set
               description: |-
                 ## Purpose
-                Multiple choice at this level tests fine distinctions, such as competitive versus non-competitive inhibition or the role of NADP versus NAD, and speed matters. A timed set each month, drawn from the modules taught so far, gives a score trend you can show your teacher and a list of misread items to fix.
+                Multiple choice at this level tests fine distinctions, such as competitive versus non-competitive inhibition or the role of NADP versus NAD, and speed matters. A timed set each month, drawn from the modules taught so far, gives a score trend your teen can show the teacher, and you, plus a list of misread items to fix.
 
                 ## Milestones
                 1. A timed set of multiple-choice items completed each month for the modules taught so far.
@@ -291,7 +293,7 @@ starter_structure:
                 - "Set up a metrics log for Paper 01 scores"
                 - "Sit a timed multiple-choice set on modules taught so far @recurring(monthly:9)"
                 - "Classify each wrong answer as gap, misread or rushed"
-                - "Add the gaps to your recall cards the same day"
+                - "Add the gaps to the recall cards the same day"
             - name: Monthly Paper 02 essay question under time
               description: |-
                 ## Purpose
@@ -312,11 +314,11 @@ starter_structure:
                 - "Choose a past essay question from the module just finished"
                 - "Write one timed essay with a five-minute plan @recurring(monthly:23)"
                 - "Mark it against the mark scheme and tick each point earned"
-                - "File the plan in your essay plan bank for that module"
+                - "File the plan in the essay plan bank for that module"
             - name: CAPE Biology mistakes and misconceptions log
               description: |-
                 ## Purpose
-                Most marks lost in Biology come from the same few errors repeated: saying energy is produced in respiration, mixing up alleles and genes, or confusing transpiration with translocation. Logging every mistake with the correct version and re-testing it weeks later turns a pile of marked work into a short list of things you no longer get wrong.
+                Most marks lost in Biology come from the same few errors repeated: saying energy is produced in respiration, mixing up alleles and genes, or confusing transpiration with translocation. Logging every mistake with the correct version and re-testing it weeks later turns a pile of marked work into a short list of things your teen no longer gets wrong.
 
                 ## Milestones
                 1. A log with columns for the mistake, the correct version, the module and the date re-tested.
@@ -333,15 +335,15 @@ starter_structure:
                 - "Start a mistakes log with mistake, correction, module and re-test date"
                 - "Enter this week's mistakes from marked work @recurring(weekly:sun)"
                 - "Re-test logged mistakes without notes @recurring(monthly:28)"
-                - "Write your ten most common errors on one page"
-            - name: Termly progress review with your CAPE Biology teacher
+                - "Write the ten most common errors on one page"
+            - name: Termly progress review with the CAPE Biology teacher
               description: |-
                 ## Purpose
-                A short meeting each term with your Biology teacher, covering internal assessment marks, test scores and the modules still to come, catches problems while there is time to fix them. Coming with your own numbers makes the conversation specific and gives your teacher a reason to point you at the right practice.
+                A short meeting each term with the Biology teacher, covering internal assessment marks, test scores and the modules still to come, catches problems while there is time to fix them. At CAPE level your teen should lead it, bringing their own numbers so the conversation is specific and the teacher can point them at the right practice. You can join, or simply ask afterwards what was agreed.
 
                 ## Milestones
-                1. Your test scores, lab marks and weak modules summarised on one page before the meeting.
-                2. A fifteen-minute review held with your teacher each term.
+                1. Test scores, lab marks and weak modules summarised on one page before the meeting.
+                2. A fifteen-minute review held with the teacher each term.
                 3. Two or three agreed actions written down after each review.
                 4. Those actions checked off before the next review.
 
@@ -354,14 +356,14 @@ starter_structure:
                 success_criteria: "Notes from at least two termly reviews, each with agreed actions and a record of whether they were done."
                 cadence: cyclic
               tasks:
-                - "Summarise your scores, lab marks and weak modules on one page"
-                - "Ask your teacher for fifteen minutes this term to review progress"
+                - "Summarise scores, lab marks and weak modules on one page"
+                - "Ask the teacher for fifteen minutes this term to review progress"
                 - "Hold the review and write down the agreed actions @recurring(quarterly)"
-                - "Check off the agreed actions before the next review"
+                - "Check in on the agreed actions before the next review"
             - name: Weekly essay marking circle with classmates
               description: |-
                 ## Purpose
-                Marking a classmate's essay against the mark scheme teaches you more about how points are earned than writing another one alone. A small circle of three or four students who swap one answer a week, mark it honestly and discuss the missed points builds exam sense and keeps everyone working between lessons.
+                Marking a classmate's essay against the mark scheme teaches more about how points are earned than writing another one alone. A small circle of three or four students who swap one answer a week, mark it honestly and discuss the missed points builds exam sense and keeps everyone working between lessons. Encourage your teen to set one up, but it is their circle to run.
 
                 ## Milestones
                 1. A circle of three or four classmates agreed, with a fixed weekly time.
@@ -472,12 +474,12 @@ starter_structure:
               tasks:
                 - "Draw and label the fluid mosaic model from memory"
                 - "Compare the five transport mechanisms in one table"
-                - "Carry out a potato tissue water potential practical with your class"
+                - "Carry out a potato tissue water potential practical with the class"
                 - "Answer past-paper questions on membranes and water potential"
             - name: Enzymes, rate graphs and inhibition
               description: |-
                 ## Purpose
-                Enzyme questions combine theory with data: reading rate curves, explaining the effect of temperature and pH, and telling competitive from non-competitive inhibition. Doing one enzyme practical, such as catalase with hydrogen peroxide, and drawing your own graphs makes the planning and analysis questions far easier.
+                Enzyme questions combine theory with data: reading rate curves, explaining the effect of temperature and pH, and telling competitive from non-competitive inhibition. Doing one enzyme practical, such as catalase with hydrogen peroxide, and drawing the graphs by hand makes the planning and analysis questions far easier.
 
                 ## Milestones
                 1. The induced fit and lock and key models explained with labelled diagrams.
@@ -500,7 +502,7 @@ starter_structure:
             - name: DNA and RNA structure and semi-conservative replication
               description: |-
                 ## Purpose
-                Before protein synthesis makes sense you need nucleotides, base pairing, antiparallel strands and the evidence for semi-conservative replication. Unit 1 Module 2 begins here, and examiners regularly ask candidates to interpret the Meselson and Stahl experiment or compare DNA with RNA.
+                Before protein synthesis makes sense a student needs nucleotides, base pairing, antiparallel strands and the evidence for semi-conservative replication. Unit 1 Module 2 begins here, and examiners regularly ask candidates to interpret the Meselson and Stahl experiment or compare DNA with RNA.
 
                 ## Milestones
                 1. A nucleotide and a short double-stranded section of DNA drawn with bonds labelled.
@@ -572,7 +574,7 @@ starter_structure:
                 Dihybrid crosses, sex linkage, codominance, multiple alleles and epistasis are tested with genetic diagrams laid out to a standard format, and marks are lost for missing gametes or keys. The chi-squared test then asks whether observed results fit the expected ratio, a calculation worth practising until it is routine.
 
                 ## Milestones
-                1. A standard layout for genetic diagrams agreed with your teacher and used every time.
+                1. A standard layout for genetic diagrams agreed with the teacher and used every time.
                 2. Worked examples of dihybrid, sex-linked, codominant and multiple allele crosses.
                 3. Five chi-squared calculations completed with the conclusion stated against the critical value.
                 4. Past-paper genetics problems answered and marked.
@@ -587,7 +589,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Copy the standard genetic diagram layout your teacher uses"
+                - "Copy the standard genetic diagram layout the teacher uses"
                 - "Work one dihybrid and one sex-linked cross in full"
                 - "Complete five chi-squared calculations with conclusions"
                 - "Answer past-paper genetics problems and mark them"
@@ -616,7 +618,7 @@ starter_structure:
             - name: Variation, natural selection and speciation
               description: |-
                 ## Purpose
-                Antibiotic resistance, insecticide resistance in mosquitoes and the variety of anole lizards across the islands are real examples of selection that make this topic easy to illustrate. Unit 1 Module 2 closes by asking you to explain continuous and discontinuous variation, the types of selection and how new species form.
+                Antibiotic resistance, insecticide resistance in mosquitoes and the variety of anole lizards across the islands are real examples of selection that make this topic easy to illustrate. Unit 1 Module 2 closes by asking candidates to explain continuous and discontinuous variation, the types of selection and how new species form.
 
                 ## Milestones
                 1. Continuous and discontinuous variation compared with graphs and causes.
@@ -639,7 +641,7 @@ starter_structure:
             - name: Asexual reproduction and vegetative propagation in crops
               description: |-
                 ## Purpose
-                Banana plantlets grown in tissue culture, sugar cane setts, cassava stem cuttings and grafted mangoes show how Caribbean agriculture depends on asexual reproduction. Unit 1 Module 3 asks you to explain the methods, their advantages and the risk that genetically identical crops share the same weaknesses to disease.
+                Banana plantlets grown in tissue culture, sugar cane setts, cassava stem cuttings and grafted mangoes show how Caribbean agriculture depends on asexual reproduction. Unit 1 Module 3 asks candidates to explain the methods, their advantages and the risk that genetically identical crops share the same weaknesses to disease.
 
                 ## Milestones
                 1. Natural and artificial methods of vegetative propagation listed with Caribbean examples.
@@ -661,7 +663,7 @@ starter_structure:
             - name: Sexual reproduction in flowering plants
               description: |-
                 ## Purpose
-                Pollination, double fertilisation and the development of seed and fruit are examined with flower diagrams and essay questions on cross and self pollination. Collecting and dissecting a local flower, such as hibiscus or pride of Barbados, turns textbook diagrams into structures you can draw from memory.
+                Pollination, double fertilisation and the development of seed and fruit are examined with flower diagrams and essay questions on cross and self pollination. Collecting and dissecting a local flower, such as hibiscus or pride of Barbados, turns textbook diagrams into structures your teen can draw from memory, and a flower from the garden is an easy thing to offer.
 
                 ## Milestones
                 1. A local flower dissected and drawn with parts labelled.
@@ -752,7 +754,7 @@ starter_structure:
             - name: Energy flow, nutrient cycling and productivity
               description: |-
                 ## Purpose
-                Energy flow and nutrient cycling questions ask you to calculate efficiency between trophic levels, interpret pyramids and explain the nitrogen cycle step by step. Using a Caribbean ecosystem, such as a seagrass bed or a cane field, makes the calculations and the cycle concrete.
+                Energy flow and nutrient cycling questions ask candidates to calculate efficiency between trophic levels, interpret pyramids and explain the nitrogen cycle step by step. Using a Caribbean ecosystem, such as a seagrass bed or a cane field, makes the calculations and the cycle concrete.
 
                 ## Milestones
                 1. Gross and net primary productivity defined and an efficiency calculation completed.
@@ -774,7 +776,7 @@ starter_structure:
             - name: Biodiversity and conservation of Caribbean ecosystems
               description: |-
                 ## Purpose
-                Mangroves, seagrass beds and coral reefs protect Caribbean coastlines and fisheries, yet face bleaching, sargassum influxes, invasive lionfish and coastal development. Unit 2 Module 1 asks you to measure diversity, explain threats and evaluate conservation methods, and a short field study gives you data of your own to discuss.
+                Mangroves, seagrass beds and coral reefs protect Caribbean coastlines and fisheries, yet face bleaching, sargassum influxes, invasive lionfish and coastal development. Unit 2 Module 1 asks candidates to measure diversity, explain threats and evaluate conservation methods, and a short field study gives your teen data of their own to discuss. Offering a lift to a mangrove or shoreline site can be what makes that visit happen.
 
                 ## Milestones
                 1. A simple diversity index calculated from sample or field data.
@@ -849,7 +851,7 @@ starter_structure:
                 1. The principle of negative feedback explained with two examples.
                 2. Blood glucose control by insulin and glucagon written as a feedback loop.
                 3. The nephron drawn with ultrafiltration, selective reabsorption and ADH action labelled.
-                4. Plant hormones covered if your current syllabus includes them.
+                4. Plant hormones covered if the current syllabus includes them.
                 5. Past-paper questions on homeostasis and excretion answered and marked.
               priority: medium
               frontmatter:
@@ -912,7 +914,7 @@ starter_structure:
             - name: Health, disease and preventive medicine in the Caribbean
               description: |-
                 ## Purpose
-                Diabetes, hypertension, dengue, HIV and other diseases give the health and disease part of Module 3 its Caribbean focus. Questions ask you to classify diseases, explain risk factors and evaluate prevention and control, so a set of regional case studies, drawn from bodies such as the Caribbean Public Health Agency, makes essays specific.
+                Diabetes, hypertension, dengue, HIV and other diseases give the health and disease part of Module 3 its Caribbean focus. Questions ask candidates to classify diseases, explain risk factors and evaluate prevention and control, so a set of regional case studies, drawn from bodies such as the Caribbean Public Health Agency, makes essays specific.
 
                 ## Milestones
                 1. Diseases classified as infectious, deficiency, degenerative, inherited or lifestyle with examples.
@@ -921,7 +923,7 @@ starter_structure:
                 4. One past essay on health and disease written and marked.
 
                 ## Notes
-                Keep this as exam study. Questions about your own or a relative's health belong with a doctor, not a revision folder.
+                Keep this as exam study. Questions about your teen's own or a relative's health belong with a doctor, not a revision folder.
               priority: medium
               frontmatter:
                 mode: research
@@ -960,10 +962,10 @@ starter_structure:
             - name: Planning and design investigation for the internal assessment
               description: |-
                 ## Purpose
-                Planning and designing is usually the skill students score lowest on, because it asks for a hypothesis, controlled variables, a method someone else could follow and expected results, all before any equipment is touched. Writing a plan from an observation, getting feedback and redrafting it is the surest way to lift your internal assessment mark.
+                Planning and designing is usually the skill students score lowest on, because it asks for a hypothesis, controlled variables, a method someone else could follow and expected results, all before any equipment is touched. Writing a plan from an observation, getting feedback and redrafting it is the surest way to lift the internal assessment mark. Asking your teen to explain their plan to you is a good test of whether someone else could follow it.
 
                 ## Milestones
-                1. A testable hypothesis written from an observation your teacher provides or approves.
+                1. A testable hypothesis written from an observation the teacher provides or approves.
                 2. Independent, dependent and controlled variables listed with how each is managed.
                 3. A step-by-step method, safety notes and a results table prepared.
                 4. Expected results, limitations and sources of error stated.
@@ -977,20 +979,20 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Ask your teacher for the observation or scenario for the planning lab"
+                - "Ask the teacher for the observation or scenario for the planning lab"
                 - "Write a hypothesis and list the variables"
                 - "Draft the method, safety notes and results table"
                 - "Submit the plan and redraft it after feedback"
             - name: Final internal assessment lab book check and submission
               description: |-
                 ## Purpose
-                Internal assessment marks are moderated, so every report must be complete, dated and in the lab book by the school deadline, which comes well before the written papers. A final check against the syllabus skills list, a week before the deadline, catches missing graphs, unlabelled drawings and labs that were never written up.
+                Internal assessment marks are moderated, so every report must be complete, dated and in the lab book by the school deadline, which comes well before the written papers. A final check against the syllabus skills list, a week before the deadline, catches missing graphs, unlabelled drawings and labs that were never written up. Having the date in the family calendar helps you spot a last-minute rush early.
 
                 ## Milestones
                 1. Every required skill shown at least the number of times the syllabus specifies.
                 2. Each report complete with aim, method, results, analysis and conclusion.
                 3. Drawings labelled and graphs titled with axes and units.
-                4. The lab book signed off by your teacher and handed in before the school deadline.
+                4. The lab book signed off by the teacher and handed in before the school deadline.
               priority: high
               deadlineOffsetDays: 200
               frontmatter:
@@ -1000,17 +1002,17 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "8"
               tasks:
-                - "Ask your teacher for the school's internal assessment deadline"
-                - "Check every required skill against your tracker"
+                - "Find out the school's internal assessment deadline and add it to the family calendar"
+                - "Check every required skill against the tracker"
                 - "Fix missing labels, titles and units in every report"
                 - "Get teacher sign-off and hand in the lab book"
             - name: Full CAPE Biology mock under exam conditions
               description: |-
                 ## Purpose
-                A full mock of Paper 01 and Paper 02 for your unit, sat in one sitting with no notes, is the best predictor of the real result and the clearest guide for the final weeks. Marking it carefully and turning every lost mark into an action makes the mock worth more than any amount of rereading.
+                A full mock of Paper 01 and Paper 02 for the unit your teen is sitting, done in one sitting with no notes, is the best predictor of the real result and the clearest guide for the final weeks. Marking it carefully and turning every lost mark into an action makes the mock worth more than any amount of rereading. A quiet morning at home, with the phone in another room, is the support that matters most here.
 
                 ## Milestones
-                1. A full past paper set chosen for your unit and the timings checked against the current syllabus.
+                1. A full past paper set chosen for the unit being sat and the timings checked against the current syllabus.
                 2. Both papers sat under exam conditions.
                 3. Both papers marked against the official mark schemes.
                 4. Lost marks grouped by module and by cause.
@@ -1024,14 +1026,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "10"
               tasks:
-                - "Choose a full past paper set for your unit"
+                - "Choose a full past paper set for the unit being sat"
                 - "Sit both papers in one day under exam conditions"
                 - "Mark both papers against the mark schemes"
                 - "List the five weakest areas from the lost marks"
             - name: Final eight weeks CAPE Biology revision timetable
               description: |-
                 ## Purpose
-                The last eight weeks before the sitting are for full papers, weak modules and memory work, not new notes. A timetable built from your mock results, with every module visited at least twice and full papers in the final three weeks, keeps revision balanced across both units if you are sitting them together.
+                The last eight weeks before the sitting are for full papers, weak modules and memory work, not new notes. A timetable built from the mock results, with every module visited at least twice and full papers in the final three weeks, keeps revision balanced across both units if your teen is sitting them together.
 
                 ## Milestones
                 1. A day-by-day timetable for the final eight weeks written.
@@ -1047,14 +1049,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "40"
               tasks:
-                - "List the modules from weakest to strongest using your mock"
+                - "List the modules from weakest to strongest using the mock"
                 - "Write a day-by-day timetable for the final eight weeks"
                 - "Schedule full timed papers in the last three weeks"
-                - "Share the timetable with a parent so they know your busy days"
+                - "Ask your teen to share the timetable so you know their busy days"
             - name: CAPE Biology exam day plan
               description: |-
                 ## Purpose
-                On the morning of a paper, nerves cause more damage than gaps in knowledge: a forgotten calculator, a late arrival or a rushed first page. A written plan for the night before and the day itself, covering equipment, route, timing and how to split time across questions, removes avoidable problems.
+                On the morning of a paper, nerves cause more damage than gaps in knowledge: a forgotten calculator, a late arrival or a rushed first page. A written plan for the night before and the day itself, covering equipment, route, timing and how to split time across questions, removes avoidable problems. Transport and a backup route are where you can help most.
 
                 ## Milestones
                 1. The date, time and room of each Biology paper confirmed from the official timetable.
@@ -1098,7 +1100,7 @@ starter_structure:
             - name: Teacher or tutor tracker for a CAPE Biology class
               description: |-
                 ## Purpose
-                Teachers and lessons tutors at sixth form level juggle two units, a year of practicals, moderation samples and students with very different starting points. A single tracker showing module coverage, practicals by skill, mock scores and essay marks for each student makes it clear who needs a catch-up lab or extra essay practice before the internal assessment deadline.
+                Teachers and private tutors at sixth form level juggle two units, a year of practicals, moderation samples and students with very different starting points. A single tracker showing module coverage, practicals by skill, mock scores and essay marks for each student makes it clear who needs a catch-up lab or extra essay practice before the internal assessment deadline. If your teen has a tutor, or a teacher who would welcome it, share this project with them.
 
                 ## Milestones
                 1. A class tracker with modules, practicals by skill and scores for each student.
@@ -1119,7 +1121,7 @@ starter_structure:
             - name: Paper 032 for private CAPE Biology candidates
               description: |-
                 ## Purpose
-                Private candidates who cannot do the school-based internal assessment usually sit the alternative written Paper 032, which tests practical skills on paper. Without a lab, you need to practise reading data, drawing from photographs, planning investigations and analysing results from past Paper 032 questions, and to register through your local registrar in good time.
+                Private candidates who cannot do the school-based internal assessment usually sit the alternative written Paper 032, which tests practical skills on paper. Without a lab, the candidate needs to practise reading data, drawing from photographs, planning investigations and analysing results from past Paper 032 questions, and to register through the local registrar in good time. If your teen is sitting privately, you will probably be the one handling registration and tracking down past papers.
 
                 ## Milestones
                 1. Registration as a private candidate confirmed with the local CXC registrar, with the alternative paper option checked.
@@ -1134,7 +1136,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
-                - "Contact your local CXC registrar about private candidate entry"
+                - "Contact the local CXC registrar about private candidate entry"
                 - "Note the Paper 032 format from the current syllabus"
                 - "Answer one past Paper 032 question under time @recurring(weekly:sat)"
                 - "Work through a practical skills checklist using photographs and data"
@@ -1147,7 +1149,7 @@ starter_structure:
                 1. The features of strong answers noted from CXC subject reports.
                 2. Five links between modules mapped on one page.
                 3. Three synoptic essays written under time and marked.
-                4. Feedback on one essay from your teacher recorded and acted on.
+                4. Feedback on one essay from the teacher recorded and acted on.
               priority: low
               frontmatter:
                 mode: learning
@@ -1159,20 +1161,20 @@ starter_structure:
                 - "Note what CXC subject reports praise in strong Biology answers"
                 - "Map five links between modules on one page"
                 - "Write a timed essay linking two modules @recurring(monthly:18)"
-                - "Ask your teacher to mark one synoptic essay"
+                - "Encourage your teen to ask the teacher to mark one synoptic essay"
             - name: Independent Caribbean biology investigation for a science fair
               description: |-
                 ## Purpose
-                Going beyond the internal assessment with an independent investigation, such as the effect of salinity on mangrove seedlings or antibacterial activity in local plant extracts, builds the planning skills top candidates need and gives you something real to discuss in interviews. National science fairs and school science days are a natural deadline for it.
+                Going beyond the internal assessment with an independent investigation, such as the effect of salinity on mangrove seedlings or antibacterial activity in local plant extracts, builds the planning skills top candidates need and gives your teen something real to discuss in interviews. National science fairs and school science days are a natural deadline for it. Helping to source seedlings or plants, or getting them and the poster to the fair, is a good way to back them up.
 
                 ## Milestones
-                1. A question chosen and approved by your teacher, with safety and ethics considered.
+                1. A question chosen and approved by the teacher, with safety and ethics considered.
                 2. A method trialled and refined with a small pilot.
                 3. Data collected, analysed and presented with graphs.
                 4. A poster or short report presented at a science fair or school event.
 
                 ## Notes
-                Choose an investigation that can be done safely with school equipment. Work with living organisms should follow your school's rules.
+                Choose an investigation that can be done safely with school equipment. Work with living organisms should follow the school's rules.
               priority: low
               frontmatter:
                 mode: building
@@ -1182,13 +1184,13 @@ starter_structure:
                 effort_hours_estimate: "30"
               tasks:
                 - "List three investigation ideas using local organisms"
-                - "Get your teacher's approval for one question"
+                - "Get the teacher's approval for one question"
                 - "Run a small pilot and refine the method"
                 - "Present the results as a poster or short report"
 ---
 
 # CAPE Biology
 
-This area takes a CAPE Biology student from the first look at the syllabus to the last paper, in the order the subject is taught and examined. It opens with the foundations (the current syllabus, a CSEC gap check, a two-year plan, the choice of unit order, command words and the lab book), sets up the weekly routines, then works through Unit 1 (cell and molecular biology, genetics and variation, reproductive biology) and Unit 2 (bioenergetics, biosystems maintenance, applications of biology) module by module, before the internal assessment, the mock, the final weeks and exam day, with projects for parents, teachers, private candidates and students aiming for the top grade at the end.
+This area helps a parent or guardian support a CAPE Biology student from the first look at the syllabus to the last paper, in the order the subject is taught and examined. It opens with the foundations (the current syllabus, a CSEC gap check, a two-year plan, the choice of unit order, command words and the lab book), sets up the weekly routines, then works through Unit 1 (cell and molecular biology, genetics and variation, reproductive biology) and Unit 2 (bioenergetics, biosystems maintenance, applications of biology) module by module, before the internal assessment, the mock, the final weeks and exam day, with projects for parents, teachers, private candidates and teens aiming for the top grade at the end.
 
-The rhythm is two weekly study blocks, daily recall cards, a weekly lab book update and mistakes review, a monthly timed Paper 01 set and Paper 02 essay, a weekly marking circle and a termly talk with your teacher. The Skills matrix, Habit tracker, Metrics log, 1:1 and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is two weekly study blocks your teen leads, daily recall cards, a weekly lab book update and mistakes review, a monthly timed Paper 01 set and Paper 02 essay, a weekly marking circle and a termly talk with the teacher, with a short weekly check-in at home. The Skills matrix, Habit tracker, Metrics log, 1:1 and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
