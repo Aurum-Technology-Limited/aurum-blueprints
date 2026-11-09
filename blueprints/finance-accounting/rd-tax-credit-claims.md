@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Rates, thresholds and scheme names change often. Date the note and record the guidance page you relied on.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help you organise decisions about money. It is not financial, investment, tax or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with a qualified, licensed adviser in yours. Investing and trading can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -1090,7 +1090,7 @@ starter_structure:
             - name: Tax treatment of research costs beyond the credit
               description: |-
                 ## Purpose
-                In some countries the same costs that earn an R&D credit must also be capitalised and spread over several years in the tax computation, and these rules have changed more than once, for example under the US rules for research expenditure. Understanding with your accountant how the claim interacts with that treatment prevents surprises in taxable profit.
+                In some countries the same costs that earn an R&D credit must also be capitalised and spread over several years in the tax computation, and these rules have changed more than once: the US, for example, required capitalisation from 2022, then restored an immediate deduction for domestic research costs for tax years beginning after 2024 while foreign research is still spread over several years. Understanding with your accountant how the claim interacts with that treatment prevents surprises in taxable profit.
 
                 ## Milestones
                 1. The treatment of research costs in the tax computation confirmed for the current period.

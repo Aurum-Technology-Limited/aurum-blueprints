@@ -4,7 +4,7 @@ name: Commercial Property Asset Management
 description: "Running commercial buildings after purchase: a business plan per asset, a leasing strategy, service charges that reconcile, capex that earns its keep and an honest hold or sell review every year."
 category: business
 version: 1.0.0
-tags: [real-estate-development, commercial-property-asset-management, knowledge-worker, small-business, business-plan, service-charges, capex, hold-sell-review]
+tags: [real-estate-development, commercial-property-asset-management, knowledge-worker, small-business, business-plan, service-charges, capex, hold-sell-review, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Asset takeover after a purchase completes
               description: |-
                 ## Purpose
-                The first month after completion decides whether rent, insurance and safety carry on without a gap. Rent demands may still be going out in the seller's name, service contracts may be about to lapse and tenants often do not know who to call. A short, checklisted takeover moves every live obligation onto the new owner before anything slips.
+                The first month after completion decides whether rent, insurance and safety carry on without a gap. Rent demands may still be going out in the seller's name, service contracts may be about to lapse and tenants often do not know who to call. A short, checklisted takeover moves every live obligation onto the new owner before anything slips. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Notice of the change of landlord sent to every tenant with new payment details.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Rent and service charge received around completion is usually apportioned between buyer and seller. Check the completion statement with your solicitor before chasing any tenant for money.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help your team organise its work. It is not legal advice, and following it does not make anyone your organisation's lawyer. Rules differ between countries and change often, so check decisions that matter, and anything your organisation signs, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -174,7 +174,7 @@ starter_structure:
                 - "Write the scope of services you need from a managing agent"
                 - "Ask three agents for fee proposals against the same scope"
                 - "Agree service levels for demands, arrears, repairs and reports"
-                - "Confirm the client money account details and your access"
+                - "Finance lead confirms the client money account details and the owner's access"
             - name: Building compliance register
               description: |-
                 ## Purpose
@@ -563,7 +563,7 @@ starter_structure:
               tasks:
                 - "Find the service charge code of practice used in your market"
                 - "Summarise recoverability, reasonableness and apportionment rules"
-                - "Check your budget against the code and list gaps"
+                - "Asset manager checks the budget against the code and lists gaps"
                 - "Draft a plain explanation of the service charge for tenants"
             - name: Dilapidations explained for landlords
               description: |-
@@ -677,7 +677,7 @@ starter_structure:
               tasks:
                 - "Class each tenant as core, keep on terms, or replace"
                 - "Chart lease expiries and breaks by year"
-                - "Name early regear targets for the next 18 months"
+                - "Asset manager names early regear targets for the next 18 months"
                 - "Brief the letting agent on the agreed strategy"
             - name: Cutting the cost of vacant space
               description: |-

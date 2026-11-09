@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Read the version you actually signed, not the current template, and check whether a later promotion letter replaced the original terms. Keep this folder on a personal device, never the firm's.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

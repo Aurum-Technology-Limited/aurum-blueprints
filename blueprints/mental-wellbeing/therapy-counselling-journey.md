@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Goals often change once therapy starts, and that is normal. Write them anyway: a rough aim is easier to revise than a blank page.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -222,7 +222,7 @@ starter_structure:
                 4. The agreed way to contact the therapist between sessions written down.
 
                 ## Notes
-                Therapists are not an emergency service. Ask what they suggest you do if you are in crisis between sessions, and keep that information with your agreement.
+                Therapists are not an emergency service. Ask what they suggest you do if you are in crisis between sessions, and keep that information with your agreement. Crisis lines include Samaritans on 116 123 in the UK and Ireland and the 988 Suicide & Crisis Lifeline in the US (call or text 988).
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
@@ -996,7 +996,7 @@ starter_structure:
                 4. A joint review after the sixth session with a decision on continuing.
 
                 ## Notes
-                If one partner feels unsafe at home, couples work is not advised. Contact a domestic abuse service for guidance instead.
+                If one partner feels unsafe at home, couples work is not advised. Contact a domestic abuse service for guidance instead. If you feel afraid of a partner or family member, or someone is controlling, threatening or hurting you, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233).
               priority: medium
               deadlineOffsetDays: 60
               frontmatter:

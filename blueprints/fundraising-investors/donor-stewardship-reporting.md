@@ -4,7 +4,7 @@ name: Donor Stewardship & Reporting
 description: "A stewardship system for nonprofits: prompt thanks, tiered touches through the year, honest impact reports and the retention numbers that show whether donors give again."
 category: business
 version: 1.0.0
-tags: [fundraising-investors, donor-stewardship-reporting, nonprofit, team, donor-retention, impact-reporting, gift-acknowledgement]
+tags: [fundraising-investors, donor-stewardship-reporting, nonprofit, team, donor-retention, impact-reporting, gift-acknowledgement, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -28,7 +28,7 @@ starter_structure:
             - name: Stewardship audit of last year's gifts
               description: |-
                 ## Purpose
-                Most organisations believe they thank donors well until they check the dates. Pulling every gift from the last twelve months and recording how long the thank-you took, who signed it and whether the donor later heard what their money achieved gives a factual starting point for every other project in this area.
+                Most organisations believe they thank donors well until they check the dates. Pulling every gift from the last twelve months and recording how long the thank-you took, who signed it and whether the donor later heard what their money achieved gives a factual starting point for every other project in this area. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A list of every gift received in the last twelve months, with gift date and acknowledgement date side by side.
@@ -39,7 +39,7 @@ starter_structure:
                 ## Notes
                 Sample if the volume is large: fifty gifts spread across sizes and channels is usually enough to see the pattern.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -204,7 +204,7 @@ starter_structure:
                 In many countries a donor can only claim tax relief, or the charity can only reclaim tax, if the receipt or declaration carries specific wording and details. Writing down your tax authority's requirements and building them into one receipting process avoids reissuing receipts in a rush at year end.
 
                 ## Milestones
-                1. Your tax authority's receipt or declaration requirements written down, for example Gift Aid declarations in the UK.
+                1. Your tax authority's receipt or declaration requirements written down, for example Gift Aid declarations in the UK (HMRC) or, in the US, the IRS written acknowledgment for single gifts of $250 or more.
                 2. A receipt template carrying every required detail.
                 3. A rule for when receipts are issued: per gift, or as an annual statement.
                 4. The process checked by your accountant or auditor.
@@ -222,7 +222,7 @@ starter_structure:
               tasks:
                 - "Find your tax authority's published rules for donation receipts"
                 - "Compare your current receipt against every required detail"
-                - "Update the receipt template and write the issuing rule"
+                - "Finance manager updates the receipt template and the accountant confirms it"
                 - "Ask your accountant or auditor to confirm the process"
             - name: Thank-you letter and email library
               description: |-

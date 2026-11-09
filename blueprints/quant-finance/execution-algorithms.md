@@ -4,7 +4,7 @@ name: Execution Algorithms
 description: "Written execution objectives and benchmarks, hard limits on every parent order, a replay simulator, staged rollouts and regular reviews of TWAP, VWAP, shortfall and routing logic, for the researchers and engineers who build them."
 category: business
 version: 1.0.0
-tags: [quant-finance, execution-algorithms, researcher, engineer, twap-vwap, implementation-shortfall, smart-order-routing, order-scheduling]
+tags: [quant-finance, execution-algorithms, researcher, engineer, twap-vwap, implementation-shortfall, smart-order-routing, order-scheduling, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Written execution objectives by order type
               description: |-
                 ## Purpose
-                An algo cannot be judged good or bad until someone has written down what each kind of order is trying to achieve: minimise cost against the decision price, match the day's average, finish before the close or stay invisible. Writing one objective per order type, with the trade-off it accepts, stops arguments after the fact about whether a slow fill was patience or failure.
+                An algo cannot be judged good or bad until someone has written down what each kind of order is trying to achieve: minimise cost against the decision price, match the day's average, finish before the close or stay invisible. Writing one objective per order type, with the trade-off it accepts, stops arguments after the fact about whether a slow fill was patience or failure. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A list of the order types you actually send, such as rebalance, alpha entry, risk reduction and cash flow.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 If two order types share an objective and an algo, merge them. Fewer categories make every later review easier.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -882,7 +882,7 @@ starter_structure:
                 4. The assessment signed by the people your rules name.
 
                 ## Notes
-                Start from the **Compliance control** template. The rules themselves are a question for compliance and legal advisers, not for this project.
+                Start from the **Compliance control** template. Examples: in the EU, MiFID II and its RTS 6 require an annual self-assessment and validation; the UK keeps an equivalent regime under the FCA; in the US, broker-dealers with market access must meet SEC Rule 15c3-5 controls with an annual CEO certification. The rules themselves are a question for compliance and legal advisers, not for this project.
               priority: high
               frontmatter:
                 mode: event
@@ -890,8 +890,8 @@ starter_structure:
                 success_criteria: "A signed yearly self-assessment maps every applicable requirement to held evidence and lists gaps with owners and dates."
                 cadence: cyclic
               tasks:
-                - "Ask compliance which algorithmic trading rules apply to you"
-                - "Map each requirement to evidence you already hold"
+                - "Compliance confirms in writing which algo trading rules apply to the firm"
+                - "Execution quant team maps each requirement to evidence already held"
                 - "List gaps with owners and dates"
                 - "Start the yearly self-assessment and book the sign-off @recurring(yearly)"
             - name: Quarter-end and expiry day playbook

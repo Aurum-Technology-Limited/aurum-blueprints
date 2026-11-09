@@ -1,0 +1,142 @@
+[
+ {
+  "id": "engineering-practice.hazop-studies",
+  "reason": "A facilitated team study, not a goal one person owns, and safety-critical process-hazard analysis; a rewrite cannot change either"
+ },
+ {
+  "id": "engineering-practice.lopa-and-safety-integrity-levels",
+  "reason": "Safety-integrity (SIL/LOPA) calculations under IEC 61511 are safety-critical engineering; errors can kill; needs a functional-safety engineer, cannot be made a personal plan"
+ },
+ {
+  "id": "engineering-practice.permit-to-work-and-isolations",
+  "reason": "Lockout/isolation procedure content is safety-critical and site-specific; errors can kill; needs a chartered/safety engineer review"
+ },
+ {
+  "id": "family-office.close-protection-arrangements",
+  "reason": "Personal-security arrangements for high-risk families; run by a family office, very narrow, and wrong guidance creates physical-safety risk"
+ },
+ {
+  "id": "family-office.crs-and-fatca-reporting",
+  "reason": "Entity classification and CRS/FATCA reporting for family structures carries penalties; an organisation's regulated filing, needs legal/tax review"
+ },
+ {
+  "id": "family-office.kidnap-and-extortion-preparedness",
+  "reason": "Kidnap and extortion response belongs with specialist crisis responders and police; sensitive, narrow, cannot be made safe by rewrite"
+ },
+ {
+  "id": "family-office.pre-immigration-wealth-planning",
+  "reason": "Core subject is tax-residency structuring before moving countries; removing the structuring leaves little of the plan; needs legal/tax review"
+ },
+ {
+  "id": "family-office.private-trust-company",
+  "reason": "Setting up a regulated trust company is legal structuring for very few users; needs legal review"
+ },
+ {
+  "id": "family-office.trust-structures-across-jurisdictions",
+  "reason": "Multi-jurisdiction trust structuring is legal/tax advice territory with no safe organisational core; needs legal review"
+ },
+ {
+  "id": "family-office.wealth-structuring-jurisdictions",
+  "reason": "Offshore jurisdiction comparisons read as structuring advice and carry reputational and tax-avoidance risk; needs legal review"
+ },
+ {
+  "id": "fundraising-investors.equity-crowdfunding-campaign",
+  "reason": "Public securities offering to retail investors via a regulated crowdfunding platform; legal and regulatory exposure needs securities-law review (same basis as held real-estate syndications)"
+ },
+ {
+  "id": "fundraising-investors.raising-a-venture-fund",
+  "reason": "Raising a pooled fund from LPs is a securities offering plus fund-manager regulation; cannot be made safe without professional review"
+ },
+ {
+  "id": "investment-banking.alternative-listing-routes",
+  "reason": "Securities offering: de-SPAC, direct listing, PIPE and reverse takeover execution routes to public markets; held under the securities-offering rule. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main."
+ },
+ {
+  "id": "investment-banking.dcm-bond-issuance",
+  "reason": "Securities offering: bond issuance execution from mandate to pricing, allocation and settlement; held under the securities-offering rule. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main."
+ },
+ {
+  "id": "investment-banking.follow-ons-and-block-trades",
+  "reason": "Securities offering: follow-on and overnight block execution incl. wall-crossing, sounding scripts and stabilisation; held under the securities-offering rule. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main."
+ },
+ {
+  "id": "investment-banking.ipo-execution-ecm",
+  "reason": "Securities offering: the plan is an IPO execution playbook (pricing, bookbuilding, allocation, stabilisation); held under the team-plan rule to hold anything that remains a securities offering. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main."
+ },
+ {
+  "id": "investment-banking.liability-management-exercises",
+  "reason": "Securities offering: tender, exchange offers and consent solicitations (exchange offers are offerings of new securities); held under the securities-offering rule. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main."
+ },
+ {
+  "id": "practice-ownership.aml-duties-law-accounting-firms",
+  "reason": "Regulated AML duties (CDD, MLRO, suspicious activity reporting) where errors carry criminal and regulatory liability; needs professional review"
+ },
+ {
+  "id": "practice-ownership.client-trust-accounts",
+  "reason": "Client-money rules are regulator-specific and breaches carry regulatory liability; needs professional review"
+ },
+ {
+  "id": "practice-ownership.clinical-governance-and-audits",
+  "reason": "Regulated clinical governance across a practice; clinical review gate"
+ },
+ {
+  "id": "practice-ownership.controlled-drugs-pharmacy-registers",
+  "reason": "Controlled-drug registers are statutory records with criminal liability; needs pharmacist/regulator review"
+ },
+ {
+  "id": "practice-ownership.infection-prevention-in-practice",
+  "reason": "Clinical infection control; clinical review gate"
+ },
+ {
+  "id": "practice-ownership.patient-and-client-records",
+  "reason": "Records retention periods and confidentiality duties are statutory and profession-specific; errors carry legal liability; needs professional review"
+ },
+ {
+  "id": "practice-ownership.practice-regulator-compliance",
+  "reason": "Regulator rules vary by profession and country and the plan performs regulated compliance duties; needs professional review"
+ },
+ {
+  "id": "private-equity-vc.angel-to-fund-manager",
+  "reason": "Moving from angel to running SPVs and a fund for outside backers, including friends and family money: syndication and fund-manager regulation; needs legal review"
+ },
+ {
+  "id": "private-equity-vc.emerging-manager-fund-launch",
+  "reason": "Launching and raising a first fund: securities offering, adviser registration and LP marketing rules; needs securities-law review"
+ },
+ {
+  "id": "private-equity-vc.fund-compliance-and-regulatory-filings",
+  "reason": "Regulated filing procedure: adviser registration/exemption, Form ADV/PF, FATCA/CRS submissions and AML programme; held under the regulated-filing rule. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main."
+ },
+ {
+  "id": "private-equity-vc.independent-sponsor-deals",
+  "reason": "Raises deal-by-deal equity from capital partners with sponsor fees and promote: a syndication with securities-law exposure; needs legal review"
+ },
+ {
+  "id": "private-equity-vc.leading-an-angel-syndicate",
+  "reason": "Leading a syndicate means promoting deals and pooling other investors' money through SPVs; syndication and financial-promotion rules; needs legal review"
+ },
+ {
+  "id": "private-equity-vc.pe-fund-lp-fundraising",
+  "reason": "Securities offering: fund marketing and LP solicitation through first and final close, incl. raising Fund I from individuals; held under the securities-offering rule. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main."
+ },
+ {
+  "id": "private-equity-vc.search-fund-launch",
+  "reason": "Core of the plan is an offering memorandum and first and final closes of search capital from outside investors: a securities offering; needs legal review"
+ },
+ {
+  "id": "product-management.mvp-scoping",
+  "reason": "Substantial duplicate of live founding-startups.mvp-scoping-and-build: same riskiest-assumption, pass/fail threshold, time box, concierge/Wizard-of-Oz, story map, cut list, sign-up wall, taking money, part-time/technical-founder projects; still founder-oriented, not a distinct team plan"
+ },
+ {
+  "id": "real-estate-development.real-estate-syndications",
+  "reason": "Raising money from investors is a securities offering (e.g. US Reg D, UK financial promotion rules); brief requires hold"
+ },
+ {
+  "id": "real-estate-development.syndication-investor-relations",
+  "reason": "Securities offering: real-estate syndication (subscription documents, friends-and-family investors, capital calls, track-record marketing); syndications are on the brief's hold list. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main."
+ },
+ {
+  "id": "real-estate-development.syndication-investor-relations",
+  "reason": "Sponsor's investor reporting is an organisation's process and carries securities-law exposure"
+ }
+]

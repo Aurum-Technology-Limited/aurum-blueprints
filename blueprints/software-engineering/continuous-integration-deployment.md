@@ -4,7 +4,7 @@ name: Continuous Integration & Deployment
 description: "Pipelines that build, test and deploy every change on their own: required checks, artifacts built once, safe secrets, fast feedback, deploy strategies with automatic rollback, and the routines that keep it all green."
 category: business
 version: 1.0.0
-tags: [software-engineering, continuous-integration-deployment, engineer, team, ci-cd, pipelines, deployment, devops]
+tags: [software-engineering, continuous-integration-deployment, engineer, team, ci-cd, pipelines, deployment, devops, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Map of every pipeline the team runs today
               description: |-
                 ## Purpose
-                Before changing anything, write down what actually happens between a push and a production deploy: which jobs run, where, how long they take and which steps are still done by hand. Teams are often surprised to find a forgotten cron job deploying from a laptop or a nightly build nobody reads. An honest map turns vague complaints about slow CI into a short list of real problems.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before changing anything, write down what actually happens between a push and a production deploy: which jobs run, where, how long they take and which steps are still done by hand. Teams are often surprised to find a forgotten cron job deploying from a laptop or a nightly build nobody reads. An honest map turns vague complaints about slow CI into a short list of real problems.
 
                 ## Milestones
                 1. Every repository with a pipeline listed, with its CI platform, trigger events and target environments.

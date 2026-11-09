@@ -4,7 +4,7 @@ name: Co-Investment Deals
 description: "A written allocation policy, standard co-invest terms and SPV structure agreed with counsel, a co-investor map, fast underwriting habits for LPs and the routines that keep every co-investor informed from offer to exit."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, co-investment-deals, knowledge-worker, co-investment, allocation-policy, spv, limited-partners, syndication]
+tags: [private-equity-vc, co-investment-deals, knowledge-worker, co-investment, allocation-policy, spv, limited-partners, syndication, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: How co-investment works for GPs and LPs
               description: |-
                 ## Purpose
-                Co-investment means an LP or third party puts money directly into one deal next to the fund, usually at reduced or no fee and carry. GPs use it to write bigger cheques and deepen LP relationships, while LPs use it to lower their blended fee load and build exposure faster. Understanding both motives before your first process stops you treating it as a favour rather than a product with its own rules.
+                Co-investment means an LP or third party puts money directly into one deal next to the fund, usually at reduced or no fee and carry. GPs use it to write bigger cheques and deepen LP relationships, while LPs use it to lower their blended fee load and build exposure faster. Understanding both motives before your first process stops you treating it as a favour rather than a product with its own rules. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page explainer covering why GPs offer co-investment and why LPs want it.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Industry bodies such as ILPA publish guidance on co-investment and allocation. Read it alongside your own firm's documents, not instead of them.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -68,7 +70,7 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "List every co-investment step from first sounding to final distribution"
-                - "Mark each step as owned, supported or observed by you"
+                - "Mark each step as owned by the deal team, IR, legal or finance"
                 - "Confirm who signs off allocation and co-investor terms"
                 - "Send the remit note to your manager for confirmation"
             - name: Reading the LPA co-investment provisions with counsel
@@ -514,7 +516,7 @@ starter_structure:
               tasks:
                 - "Choose a past or sample deal pack to practise on"
                 - "Write a week-by-week underwriting plan ending in an IC date"
-                - "Split the diligence into rely-on-GP and test-yourself lists"
+                - "Split diligence into rely-on-GP and test-in-house lists with owners"
                 - "Run the plan and time each workstream"
             - name: Adverse selection test for co-investment offers
               description: |-

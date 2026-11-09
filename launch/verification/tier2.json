@@ -1,0 +1,1130 @@
+[
+ {
+  "id": "wealth-investing.workplace-pension-optimisation",
+  "status": "publish",
+  "reason": "Organisational plan, financial notice present; claims (match rules, Roth options, catch-up ages, scam signs) generic and accurate; no picks or promises",
+  "sources": [
+   "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-catch-up-contributions",
+   "https://www.gov.uk/workplace-pensions"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.tax-advantaged-investment-accounts",
+  "status": "publish",
+  "reason": "UK/US examples each labelled by country and verified: LISA open before 40, 25% charge, access at 60; ISA year ends 5 April; 6% IRA excess tax; HSA 65; Roth 59.5 + five-year; inherited IRA ten-year rule; APS; Form 8606",
+  "sources": [
+   "https://www.gov.uk/lifetime-isa",
+   "https://www.gov.uk/individual-savings-accounts",
+   "https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-iras-excess-contributions",
+   "https://www.irs.gov/publications/p590b",
+   "https://www.irs.gov/publications/p969"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.employee-stock-options-rsus",
+  "status": "fixed",
+  "reason": "83(b) 30-day rule and 90-day post-employment window correct; filing task updated for IRS online filing",
+  "changes": [
+   "83(b) task now says file within 30 days online with the IRS or by tracked post (IRS online Form 15620 filing available since mid-2025)"
+  ],
+  "sources": [
+   "https://www.irs.gov/forms-pubs/about-form-15620",
+   "https://www.mintz.com/insights-center/viewpoints/2906/2025-07-29-new-electronic-filing-option-section-83b-elections",
+   "https://www.finra.org/investors/insights/concentration-risk"
+  ]
+ },
+ {
+  "id": "wealth-investing.asset-allocation-rebalancing",
+  "status": "publish",
+  "reason": "Illustrative percentages only, no target mix prescribed, past-performance caveat present",
+  "sources": [
+   "https://www.investor.gov/introduction-investing/getting-started/asset-allocation"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.investment-fee-reduction",
+  "status": "publish",
+  "reason": "Fee arithmetic checked (1.9% of 200,000 = 3,800); advises regulated advice before giving up guarantees",
+  "sources": [
+   "https://www.investor.gov/introduction-investing/investing-basics/understanding-fees"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.investor-behaviour-panic-control",
+  "status": "publish",
+  "reason": "Historical crash dates and loss/recovery maths correct (50% fall needs 100% rise); behavioural, no instructions to trade",
+  "sources": [
+   "https://www.finra.org/investors/insights/market-volatility"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.personal-investment-policy",
+  "status": "publish",
+  "reason": "Process plan for writing one's own IPS; examples arithmetically correct; no picks",
+  "sources": [
+   "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2024/basics-portfolio-planning-construction"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.annual-wealth-review",
+  "status": "publish",
+  "reason": "Review routine with no jurisdiction-specific figures or advice",
+  "sources": [],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.pension-consolidation",
+  "status": "publish",
+  "reason": "Flags guarantees, DB transfer advice requirement 'by law in some countries' (UK: advice required above 30,000 GBP), exit-fee cap noted generically",
+  "sources": [
+   "https://www.moneyhelper.org.uk/en/pensions-and-retirement/building-your-retirement-pot/combining-your-pensions",
+   "https://www.fca.org.uk/consumers/pension-transfer"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.lost-pension-tracing",
+  "status": "publish",
+  "reason": "Tracing steps generic and safe; signposts official tracing services",
+  "sources": [
+   "https://www.gov.uk/find-pension-contact-details"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.mortgage-overpayment-vs-investing",
+  "status": "publish",
+  "reason": "Typical 10% overpayment allowance and LTV bands accurate as typical examples; framing balanced",
+  "sources": [
+   "https://www.moneyhelper.org.uk/en/homes/buying-a-home/should-i-overpay-my-mortgage"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.cryptocurrency-holdings",
+  "status": "publish",
+  "reason": "Security and records focus; regulator-register check and 'no deposit protection' caveat; disposals taxable claim matches HMRC/IRS",
+  "sources": [
+   "https://www.gov.uk/government/publications/tax-on-cryptoassets/cryptoassets-for-individuals",
+   "https://www.irs.gov/filing/digital-assets",
+   "https://www.fca.org.uk/investsmart/crypto-basics"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.individual-stock-research",
+  "status": "publish",
+  "reason": "Capped satellite framing, concentration warnings, no stock picks",
+  "sources": [
+   "https://www.finra.org/investors/insights/concentration-risk"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.ethical-impact-investing",
+  "status": "publish",
+  "reason": "Screening process plan, label caveats present; no fund recommendations",
+  "sources": [
+   "https://www.fca.org.uk/firms/climate-change-sustainable-finance/sustainability-disclosure-requirements"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.dividend-income-investing",
+  "status": "publish",
+  "reason": "2020 dividend cuts and yield caveats accurate; no picks or promised income",
+  "sources": [],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.bonds-fixed-income",
+  "status": "publish",
+  "reason": "Duration rule of thumb, 2022 bond falls and linker behaviour correct",
+  "sources": [
+   "https://www.finra.org/investors/insights/duration-risk"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.capital-gains-tax-planning",
+  "status": "publish",
+  "reason": "Rules kept generic ('check your country'); 30-day repurchase matching consistent with HMRC 30-day rule and IRS wash-sale rule",
+  "sources": [
+   "https://www.gov.uk/capital-gains-tax",
+   "https://www.irs.gov/publications/p550"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.couples-retirement-plan-alignment",
+  "status": "publish",
+  "reason": "Planning conversation plan; no jurisdiction figures",
+  "sources": [],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.mini-retirement-funding",
+  "status": "publish",
+  "reason": "Budgeting plan; pension/credit effects flagged for checking",
+  "sources": [],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.self-employed-retirement-saving",
+  "status": "publish",
+  "reason": "Wrapper examples labelled by country (SIPP, SEP IRA, solo 401(k), RRSP); thresholds left to accountant",
+  "sources": [
+   "https://www.irs.gov/retirement-plans/retirement-plans-for-self-employed-people"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.private-pension-accounts",
+  "status": "fixed",
+  "reason": "UK figures verified (MPAA 10,000; non-earner 2,880 net; NMPA 57 from 2028; pensions into IHT from April 2027); relief and taper wording corrected",
+  "changes": [
+   "Relief line now says relief at your marginal rate, 20% at UK basic rate to 45% or more for top-rate taxpayers (was 'extra 20 to 45 percent on top of the payment')",
+   "Taper line adds the 200,000 threshold-income test and a 'check current figures on GOV.UK' pointer"
+  ],
+  "sources": [
+   "https://www.gov.uk/guidance/pension-schemes-work-out-your-tapered-annual-allowance",
+   "https://www.gov.uk/tax-on-your-private-pension/annual-allowance",
+   "https://www.gov.uk/government/publications/inheritance-tax-on-pensions-technical-note/technical-note-inheritance-tax-on-pensions",
+   "https://www.gov.uk/government/publications/increasing-normal-minimum-pension-age"
+  ]
+ },
+ {
+  "id": "wealth-investing.choosing-financial-adviser",
+  "status": "publish",
+  "reason": "Register checks, fee arithmetic (1% of 400,000) and scam signs correct; DB transfer advice requirement described accurately",
+  "sources": [
+   "https://register.fca.org.uk/",
+   "https://brokercheck.finra.org/",
+   "https://www.fca.org.uk/scamsmart"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.childrens-investment-accounts",
+  "status": "publish",
+  "reason": "JISA control at 16 / withdrawal at 18, CTF 2002-2011, parental gift rule and 18-or-21 custodial ages accurate and framed by country",
+  "sources": [
+   "https://www.gov.uk/junior-individual-savings-accounts",
+   "https://www.gov.uk/child-trust-funds",
+   "https://www.investor.gov/introduction-investing/investing-basics/glossary/custodial-accounts"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.reit-property-fund-investing",
+  "status": "publish",
+  "reason": "90% distribution rule, fund suspensions 2008/2016/2020, withholding ranges accurate",
+  "sources": [
+   "https://www.sec.gov/answers/reits.htm",
+   "https://www.gov.uk/guidance/real-estate-investment-trusts-guidance"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.buy-to-let-property",
+  "status": "publish",
+  "reason": "Typical 25% deposit, agent fees and illegal-eviction warning accurate; legal checks pointed to professionals",
+  "sources": [
+   "https://www.gov.uk/renting-out-a-property"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.state-pension-social-security",
+  "status": "publish",
+  "reason": "US 35 highest years, UK qualifying years, divorced-spouse ten-year marriage rule, earnings test correct and country-labelled",
+  "sources": [
+   "https://www.ssa.gov/benefits/retirement/planner/credits.html",
+   "https://www.ssa.gov/benefits/retirement/planner/applying7.html",
+   "https://www.gov.uk/new-state-pension"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.inflation-protection-strategy",
+  "status": "fixed",
+  "reason": "Linker and duration claims correct; real-loss arithmetic corrected",
+  "changes": [
+   "1% interest vs 5% inflation now 'loses nearly 4 percent of its buying power every year' (was 'about a twentieth')"
+  ],
+  "sources": [
+   "https://www.bankofengland.co.uk/knowledgebank/what-is-inflation"
+  ]
+ },
+ {
+  "id": "wealth-investing.expat-cross-border-investing",
+  "status": "publish",
+  "reason": "Residency, treaty and foreign-account reporting kept generic with professional review; no structuring advice",
+  "sources": [
+   "https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements",
+   "https://www.gov.uk/tax-foreign-income"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.estate-planning-inheritance-tax",
+  "status": "publish",
+  "reason": "Rules generalised (threshold, spouse exemption, transferable allowance); solicitor-led drafting",
+  "sources": [
+   "https://www.gov.uk/inheritance-tax"
+  ],
+  "changes": []
+ },
+ {
+  "id": "wealth-investing.active-trading-rules",
+  "status": "publish",
+  "reason": "Risk-limit and journaling plan; 1-2% per-trade cap described as practice of others, losses acknowledged; no strategy promises",
+  "sources": [
+   "https://www.finra.org/investors/insights/day-trading"
+  ],
+  "changes": []
+ },
+ {
+  "id": "software-engineering.system-architecture-design",
+  "status": "publish",
+  "reason": "Engineering practice plan; numeric examples (latency, utilisation, budgets) are illustrative and sound; security/compliance claims (OWASP Top 10 broken access control #1, SOC 2/ISO 27001, IEC 61508 signpost) accurate; no legal or safety instructions",
+  "changes": [],
+  "sources": [
+   "https://owasp.org/Top10/"
+  ]
+ },
+ {
+  "id": "software-engineering.database-schema-design",
+  "status": "publish",
+  "reason": "Engineering practice plan; numeric examples (latency, utilisation, budgets) are illustrative and sound; security/compliance claims (OWASP Top 10 broken access control #1, SOC 2/ISO 27001, IEC 61508 signpost) accurate; no legal or safety instructions",
+  "changes": [],
+  "sources": [
+   "https://owasp.org/Top10/"
+  ]
+ },
+ {
+  "id": "software-engineering.api-design-versioning",
+  "status": "publish",
+  "reason": "Engineering practice plan; numeric examples (latency, utilisation, budgets) are illustrative and sound; security/compliance claims (OWASP Top 10 broken access control #1, SOC 2/ISO 27001, IEC 61508 signpost) accurate; no legal or safety instructions",
+  "changes": [],
+  "sources": [
+   "https://owasp.org/Top10/"
+  ]
+ },
+ {
+  "id": "software-engineering.containers-kubernetes",
+  "status": "publish",
+  "reason": "Engineering practice plan; numeric examples (latency, utilisation, budgets) are illustrative and sound; security/compliance claims (OWASP Top 10 broken access control #1, SOC 2/ISO 27001, IEC 61508 signpost) accurate; no legal or safety instructions",
+  "changes": [],
+  "sources": [
+   "https://owasp.org/Top10/"
+  ]
+ },
+ {
+  "id": "software-engineering.cloud-infrastructure-provisioning",
+  "status": "publish",
+  "reason": "Engineering practice plan; numeric examples (latency, utilisation, budgets) are illustrative and sound; security/compliance claims (OWASP Top 10 broken access control #1, SOC 2/ISO 27001, IEC 61508 signpost) accurate; no legal or safety instructions",
+  "changes": [],
+  "sources": [
+   "https://owasp.org/Top10/"
+  ]
+ },
+ {
+  "id": "software-engineering.infrastructure-as-code",
+  "status": "publish",
+  "reason": "Engineering practice plan; numeric examples (latency, utilisation, budgets) are illustrative and sound; security/compliance claims (OWASP Top 10 broken access control #1, SOC 2/ISO 27001, IEC 61508 signpost) accurate; no legal or safety instructions",
+  "changes": [],
+  "sources": [
+   "https://owasp.org/Top10/"
+  ]
+ },
+ {
+  "id": "software-engineering.application-performance-tuning",
+  "status": "publish",
+  "reason": "Engineering practice plan; numeric examples (latency, utilisation, budgets) are illustrative and sound; security/compliance claims (OWASP Top 10 broken access control #1, SOC 2/ISO 27001, IEC 61508 signpost) accurate; no legal or safety instructions",
+  "changes": [],
+  "sources": [
+   "https://owasp.org/Top10/"
+  ]
+ },
+ {
+  "id": "software-engineering.secure-coding-practices",
+  "status": "publish",
+  "reason": "OWASP Top 10 and ASVS references accurate (broken access control ranked #1); STRIDE threat modelling; no unsafe instructions",
+  "changes": [],
+  "sources": [
+   "https://owasp.org/Top10/",
+   "https://owasp.org/www-project-application-security-verification-standard/"
+  ]
+ },
+ {
+  "id": "software-engineering.automated-test-strategy",
+  "status": "publish",
+  "reason": "Engineering practice plan; numeric examples (latency, utilisation, budgets) are illustrative and sound; security/compliance claims (OWASP Top 10 broken access control #1, SOC 2/ISO 27001, IEC 61508 signpost) accurate; no legal or safety instructions",
+  "changes": [],
+  "sources": [
+   "https://owasp.org/Top10/"
+  ]
+ },
+ {
+  "id": "software-engineering.distributed-systems-scaling",
+  "status": "publish",
+  "reason": "Engineering practice plan; numeric examples (latency, utilisation, budgets) are illustrative and sound; security/compliance claims (OWASP Top 10 broken access control #1, SOC 2/ISO 27001, IEC 61508 signpost) accurate; no legal or safety instructions",
+  "changes": [],
+  "sources": [
+   "https://owasp.org/Top10/"
+  ]
+ },
+ {
+  "id": "software-engineering.engineering-team-management",
+  "status": "publish",
+  "reason": "Engineering practice plan; numeric examples (latency, utilisation, budgets) are illustrative and sound; security/compliance claims (OWASP Top 10 broken access control #1, SOC 2/ISO 27001, IEC 61508 signpost) accurate; no legal or safety instructions",
+  "changes": [],
+  "sources": [
+   "https://owasp.org/Top10/"
+  ]
+ },
+ {
+  "id": "software-engineering.desktop-app-engineering",
+  "status": "publish",
+  "reason": "Engineering practice plan; numeric examples (latency, utilisation, budgets) are illustrative and sound; security/compliance claims (OWASP Top 10 broken access control #1, SOC 2/ISO 27001, IEC 61508 signpost) accurate; no legal or safety instructions",
+  "changes": [],
+  "sources": [
+   "https://owasp.org/Top10/"
+  ]
+ },
+ {
+  "id": "software-engineering.embedded-firmware-engineering",
+  "status": "publish",
+  "reason": "Safety-relevant firmware correctly pointed to functional safety standards (IEC 61508 family) rather than self-certification",
+  "changes": [],
+  "sources": [
+   "https://webstore.iec.ch/en/publication/5515"
+  ]
+ },
+ {
+  "id": "data-analytics.statistical-analysis-methods",
+  "status": "publish",
+  "reason": "Analytics practice plan; statistical claims checked (peeking inflates false positives above 20%, 800 comparisons at 5% gives ~40 false hits, 2% churn implies 50-month life, CI misreading); licence/privacy questions routed to legal/privacy lead",
+  "changes": [],
+  "sources": [
+   "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+   "https://www.amstat.org/asa/files/pdfs/p-valuestatements.pdf"
+  ]
+ },
+ {
+  "id": "data-analytics.online-experimentation-ab-tests",
+  "status": "publish",
+  "reason": "Analytics practice plan; statistical claims checked (peeking inflates false positives above 20%, 800 comparisons at 5% gives ~40 false hits, 2% churn implies 50-month life, CI misreading); licence/privacy questions routed to legal/privacy lead",
+  "changes": [],
+  "sources": [
+   "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+   "https://www.amstat.org/asa/files/pdfs/p-valuestatements.pdf"
+  ]
+ },
+ {
+  "id": "data-analytics.predictive-modelling",
+  "status": "publish",
+  "reason": "Analytics practice plan; statistical claims checked (peeking inflates false positives above 20%, 800 comparisons at 5% gives ~40 false hits, 2% churn implies 50-month life, CI misreading); licence/privacy questions routed to legal/privacy lead",
+  "changes": [],
+  "sources": [
+   "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+   "https://www.amstat.org/asa/files/pdfs/p-valuestatements.pdf"
+  ]
+ },
+ {
+  "id": "data-analytics.time-series-forecasting",
+  "status": "publish",
+  "reason": "Analytics practice plan; statistical claims checked (peeking inflates false positives above 20%, 800 comparisons at 5% gives ~40 false hits, 2% churn implies 50-month life, CI misreading); licence/privacy questions routed to legal/privacy lead",
+  "changes": [],
+  "sources": [
+   "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+   "https://www.amstat.org/asa/files/pdfs/p-valuestatements.pdf"
+  ]
+ },
+ {
+  "id": "data-analytics.cohort-retention-analysis",
+  "status": "publish",
+  "reason": "Analytics practice plan; statistical claims checked (peeking inflates false positives above 20%, 800 comparisons at 5% gives ~40 false hits, 2% churn implies 50-month life, CI misreading); licence/privacy questions routed to legal/privacy lead",
+  "changes": [],
+  "sources": [
+   "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+   "https://www.amstat.org/asa/files/pdfs/p-valuestatements.pdf"
+  ]
+ },
+ {
+  "id": "data-analytics.reproducible-analysis-workflows",
+  "status": "publish",
+  "reason": "Analytics practice plan; statistical claims checked (peeking inflates false positives above 20%, 800 comparisons at 5% gives ~40 false hits, 2% churn implies 50-month life, CI misreading); licence/privacy questions routed to legal/privacy lead",
+  "changes": [],
+  "sources": [
+   "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+   "https://www.amstat.org/asa/files/pdfs/p-valuestatements.pdf"
+  ]
+ },
+ {
+  "id": "data-analytics.analytics-data-modelling-dbt",
+  "status": "publish",
+  "reason": "Analytics practice plan; statistical claims checked (peeking inflates false positives above 20%, 800 comparisons at 5% gives ~40 false hits, 2% churn implies 50-month life, CI misreading); licence/privacy questions routed to legal/privacy lead",
+  "changes": [],
+  "sources": [
+   "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+   "https://www.amstat.org/asa/files/pdfs/p-valuestatements.pdf"
+  ]
+ },
+ {
+  "id": "data-analytics.business-intelligence-dashboards",
+  "status": "publish",
+  "reason": "Analytics practice plan; statistical claims checked (peeking inflates false positives above 20%, 800 comparisons at 5% gives ~40 false hits, 2% churn implies 50-month life, CI misreading); licence/privacy questions routed to legal/privacy lead",
+  "changes": [],
+  "sources": [
+   "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+   "https://www.amstat.org/asa/files/pdfs/p-valuestatements.pdf"
+  ]
+ },
+ {
+  "id": "data-analytics.web-app-traffic-analytics",
+  "status": "publish",
+  "reason": "Consent set-up routed to privacy adviser; no analytics cookies before choice, matching ICO/PECR guidance",
+  "changes": [],
+  "sources": [
+   "https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/cookies-and-similar-technologies/"
+  ]
+ },
+ {
+  "id": "data-analytics.survey-data-analysis",
+  "status": "publish",
+  "reason": "Analytics practice plan; statistical claims checked (peeking inflates false positives above 20%, 800 comparisons at 5% gives ~40 false hits, 2% churn implies 50-month life, CI misreading); licence/privacy questions routed to legal/privacy lead",
+  "changes": [],
+  "sources": [
+   "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+   "https://www.amstat.org/asa/files/pdfs/p-valuestatements.pdf"
+  ]
+ },
+ {
+  "id": "data-analytics.causal-inference-studies",
+  "status": "publish",
+  "reason": "Analytics practice plan; statistical claims checked (peeking inflates false positives above 20%, 800 comparisons at 5% gives ~40 false hits, 2% churn implies 50-month life, CI misreading); licence/privacy questions routed to legal/privacy lead",
+  "changes": [],
+  "sources": [
+   "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+   "https://www.amstat.org/asa/files/pdfs/p-valuestatements.pdf"
+  ]
+ },
+ {
+  "id": "data-analytics.customer-lifetime-value-analysis",
+  "status": "publish",
+  "reason": "Analytics practice plan; statistical claims checked (peeking inflates false positives above 20%, 800 comparisons at 5% gives ~40 false hits, 2% churn implies 50-month life, CI misreading); licence/privacy questions routed to legal/privacy lead",
+  "changes": [],
+  "sources": [
+   "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+   "https://www.amstat.org/asa/files/pdfs/p-valuestatements.pdf"
+  ]
+ },
+ {
+  "id": "data-analytics.llm-evaluation-rag-data",
+  "status": "publish",
+  "reason": "Analytics practice plan; statistical claims checked (peeking inflates false positives above 20%, 800 comparisons at 5% gives ~40 false hits, 2% churn implies 50-month life, CI misreading); licence/privacy questions routed to legal/privacy lead",
+  "changes": [],
+  "sources": [
+   "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+   "https://www.amstat.org/asa/files/pdfs/p-valuestatements.pdf"
+  ]
+ },
+ {
+  "id": "data-analytics.text-sentiment-analytics",
+  "status": "publish",
+  "reason": "Analytics practice plan; statistical claims checked (peeking inflates false positives above 20%, 800 comparisons at 5% gives ~40 false hits, 2% churn implies 50-month life, CI misreading); licence/privacy questions routed to legal/privacy lead",
+  "changes": [],
+  "sources": [
+   "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+   "https://www.amstat.org/asa/files/pdfs/p-valuestatements.pdf"
+  ]
+ },
+ {
+  "id": "data-analytics.geospatial-analysis",
+  "status": "publish",
+  "reason": "Analytics practice plan; statistical claims checked (peeking inflates false positives above 20%, 800 comparisons at 5% gives ~40 false hits, 2% churn implies 50-month life, CI misreading); licence/privacy questions routed to legal/privacy lead",
+  "changes": [],
+  "sources": [
+   "https://www.evanmiller.org/how-not-to-run-an-ab-test.html",
+   "https://www.amstat.org/asa/files/pdfs/p-valuestatements.pdf"
+  ]
+ },
+ {
+  "id": "data-analytics.open-public-datasets",
+  "status": "publish",
+  "reason": "Licensing correctly framed (no licence is not public domain; CC BY/CC0); legal contact reviews",
+  "changes": [],
+  "sources": [
+   "https://creativecommons.org/licenses/"
+  ]
+ },
+ {
+  "id": "data-analytics.computer-vision-projects",
+  "status": "publish",
+  "reason": "Training-data rights register routed to legal/privacy adviser; no legal conclusions",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-discovery-interviews",
+  "status": "publish",
+  "reason": "Individual PM skill plan; privacy/AI disclosure questions routed to legal lead; no regulated claims",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-requirements-documents",
+  "status": "publish",
+  "reason": "Individual PM skill plan; privacy/AI disclosure questions routed to legal lead; no regulated claims",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "product-management.feature-prioritisation-frameworks",
+  "status": "publish",
+  "reason": "Individual PM skill plan; privacy/AI disclosure questions routed to legal lead; no regulated claims",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-roadmap-planning",
+  "status": "publish",
+  "reason": "Individual PM skill plan; privacy/AI disclosure questions routed to legal lead; no regulated claims",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "product-management.jobs-to-be-done-research",
+  "status": "publish",
+  "reason": "Individual PM skill plan; privacy/AI disclosure questions routed to legal lead; no regulated claims",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "product-management.prototype-validation-tests",
+  "status": "publish",
+  "reason": "Individual PM skill plan; privacy/AI disclosure questions routed to legal lead; no regulated claims",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "product-management.problem-framing-opportunity-mapping",
+  "status": "publish",
+  "reason": "Individual PM skill plan; privacy/AI disclosure questions routed to legal lead; no regulated claims",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-vision-writing",
+  "status": "publish",
+  "reason": "Individual PM skill plan; privacy/AI disclosure questions routed to legal lead; no regulated claims",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-stakeholder-alignment",
+  "status": "publish",
+  "reason": "Individual PM skill plan; privacy/AI disclosure questions routed to legal lead; no regulated claims",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "product-management.ai-feature-product-management",
+  "status": "publish",
+  "reason": "Individual PM skill plan; privacy/AI disclosure questions routed to legal lead; no regulated claims",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "product-management.competitor-feature-analysis",
+  "status": "publish",
+  "reason": "Individual PM skill plan; privacy/AI disclosure questions routed to legal lead; no regulated claims",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "product-management.mobile-app-product-management",
+  "status": "publish",
+  "reason": "Individual PM skill plan; privacy/AI disclosure questions routed to legal lead; no regulated claims",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-discovery-calls",
+  "status": "publish",
+  "reason": "Individual selling skill plan; contract positions agreed with a lawyer; no outcome promises",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.deal-negotiation-closing",
+  "status": "publish",
+  "reason": "Individual selling skill plan; contract positions agreed with a lawyer; no outcome promises",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-objection-handling",
+  "status": "publish",
+  "reason": "Individual selling skill plan; contract positions agreed with a lawyer; no outcome promises",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.cold-email-prospecting-sequences",
+  "status": "publish",
+  "reason": "GDPR/PECR (UK/EU) and CAN-SPAM (US) named as examples; legal check with adviser is an early high-priority project",
+  "changes": [],
+  "sources": [
+   "https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/electronic-and-telephone-marketing/",
+   "https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business"
+  ]
+ },
+ {
+  "id": "sales-revenue.cold-calling-phone-outreach",
+  "status": "publish",
+  "reason": "Registers named correctly by country (UK TPS/CTPS, US National DNC Registry, Canada DNCL); per-country rules sheet and lawyer check; recording consent check",
+  "changes": [],
+  "sources": [
+   "https://www.tpsonline.org.uk/",
+   "https://www.donotcall.gov/",
+   "https://lnnte-dncl.gc.ca/"
+  ]
+ },
+ {
+  "id": "sales-revenue.linkedin-social-selling",
+  "status": "publish",
+  "reason": "Individual selling skill plan; contract positions agreed with a lawyer; no outcome promises",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.product-demo-delivery",
+  "status": "publish",
+  "reason": "Individual selling skill plan; contract positions agreed with a lawyer; no outcome promises",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.executive-sales-presentations",
+  "status": "publish",
+  "reason": "Individual selling skill plan; contract positions agreed with a lawyer; no outcome promises",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-proposal-writing",
+  "status": "publish",
+  "reason": "Individual selling skill plan; contract positions agreed with a lawyer; no outcome promises",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.referral-warm-introduction-selling",
+  "status": "publish",
+  "reason": "Individual selling skill plan; contract positions agreed with a lawyer; no outcome promises",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.deal-qualification-meddicc-bant",
+  "status": "publish",
+  "reason": "Individual selling skill plan; contract positions agreed with a lawyer; no outcome promises",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.deal-stakeholder-mapping",
+  "status": "publish",
+  "reason": "Individual selling skill plan; contract positions agreed with a lawyer; no outcome promises",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.mutual-action-plans",
+  "status": "publish",
+  "reason": "Individual selling skill plan; contract positions agreed with a lawyer; no outcome promises",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.key-account-management",
+  "status": "publish",
+  "reason": "Individual selling skill plan; contract positions agreed with a lawyer; no outcome promises",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.account-expansion-upsell",
+  "status": "publish",
+  "reason": "Individual selling skill plan; contract positions agreed with a lawyer; no outcome promises",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.front-line-sales-management",
+  "status": "publish",
+  "reason": "Individual selling skill plan; contract positions agreed with a lawyer; no outcome promises",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.executive-presence-development",
+  "status": "publish",
+  "reason": "Leadership development plan; no regulated or jurisdiction-specific claims; HR/legal questions routed to professionals",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.strategy-narrative-and-memo-writing",
+  "status": "publish",
+  "reason": "Leadership development plan; no regulated or jurisdiction-specific claims; HR/legal questions routed to professionals",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.leadership-360-feedback",
+  "status": "publish",
+  "reason": "Leadership development plan; no regulated or jurisdiction-specific claims; HR/legal questions routed to professionals",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.executive-coaching-engagement",
+  "status": "publish",
+  "reason": "Leadership development plan; no regulated or jurisdiction-specific claims; HR/legal questions routed to professionals",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.leading-distributed-teams",
+  "status": "publish",
+  "reason": "Leadership development plan; no regulated or jurisdiction-specific claims; HR/legal questions routed to professionals",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.building-psychological-safety",
+  "status": "publish",
+  "reason": "Leadership development plan; no regulated or jurisdiction-specific claims; HR/legal questions routed to professionals",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.ethical-leadership-dilemmas",
+  "status": "publish",
+  "reason": "Leadership development plan; no regulated or jurisdiction-specific claims; HR/legal questions routed to professionals",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.first-ninety-days-as-an-executive",
+  "status": "publish",
+  "reason": "Leadership development plan; no regulated or jurisdiction-specific claims; HR/legal questions routed to professionals",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.consulting-promotion-reviews",
+  "status": "publish",
+  "reason": "Consulting career/skill plan; employment-contract, visa and tax questions routed to employment lawyer / tax or mobility team",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.consulting-exit-options",
+  "status": "publish",
+  "reason": "Consulting career/skill plan; employment-contract, visa and tax questions routed to employment lawyer / tax or mobility team",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.consulting-staffing-and-project-choice",
+  "status": "publish",
+  "reason": "Consulting career/skill plan; employment-contract, visa and tax questions routed to employment lawyer / tax or mobility team",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.consulting-travel-life",
+  "status": "publish",
+  "reason": "Consulting career/skill plan; employment-contract, visa and tax questions routed to employment lawyer / tax or mobility team",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.written-and-group-case-exercises",
+  "status": "publish",
+  "reason": "Consulting career/skill plan; employment-contract, visa and tax questions routed to employment lawyer / tax or mobility team",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.issue-trees-and-problem-structuring",
+  "status": "publish",
+  "reason": "Consulting career/skill plan; employment-contract, visa and tax questions routed to employment lawyer / tax or mobility team",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.slide-storylining-and-action-titles",
+  "status": "publish",
+  "reason": "Consulting career/skill plan; employment-contract, visa and tax questions routed to employment lawyer / tax or mobility team",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.synthesis-and-executive-summaries",
+  "status": "publish",
+  "reason": "Consulting career/skill plan; employment-contract, visa and tax questions routed to employment lawyer / tax or mobility team",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.workshop-facilitation",
+  "status": "publish",
+  "reason": "Consulting career/skill plan; employment-contract, visa and tax questions routed to employment lawyer / tax or mobility team",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.consulting-excel-modelling",
+  "status": "publish",
+  "reason": "Consulting career/skill plan; employment-contract, visa and tax questions routed to employment lawyer / tax or mobility team",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.client-interviews-and-expert-calls",
+  "status": "publish",
+  "reason": "Consulting career/skill plan; employment-contract, visa and tax questions routed to employment lawyer / tax or mobility team",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.going-independent-after-a-firm",
+  "status": "publish",
+  "reason": "Restrictive covenants reviewed by an employment lawyer, structure/tax with an accountant, terms with a commercial lawyer; no legal conclusions",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.mba-consulting-internship",
+  "status": "publish",
+  "reason": "Consulting career/skill plan; employment-contract, visa and tax questions routed to employment lawyer / tax or mobility team",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "agriculture.pesticide-safety-and-records",
+  "status": "fixed",
+  "reason": "Reviewed: label-first throughout, no rates or doses, licensed operators for restricted products and fumigants, poisoning plan defers to clinicians; safe as a farmer's own safety and records plan",
+  "changes": [
+   "Added a Notes paragraph to the first project: plan does not replace the label, applicator training/certification, extension officer, pesticides authority or doctor; rules differ by country",
+   "Recommend the notices owner map this area to a notice (agriculture is not in add-notices BY_PILLAR/BY_AREA)"
+  ],
+  "sources": [
+   "https://www.epa.gov/pesticide-labels/introduction-pesticide-labels",
+   "https://www.fao.org/agriculture/crops/thematic-sitemap/theme/pests/code/en/",
+   "https://www.epa.gov/pesticide-worker-safety/recognition-and-management-pesticide-poisonings",
+   "https://www.hse.gov.uk/pesticides/"
+  ]
+ },
+ {
+  "id": "engineering-practice.hazop-studies",
+  "status": "hold",
+  "reason": "A facilitated team study, not a goal one person owns, and safety-critical process-hazard analysis; a rewrite cannot change either",
+  "changes": [],
+  "sources": [
+   "https://www.hse.gov.uk/comah/sragtech/techmeashazop.htm"
+  ]
+ },
+ {
+  "id": "engineering-practice.lopa-and-safety-integrity-levels",
+  "status": "hold",
+  "reason": "Safety-integrity (SIL/LOPA) calculations under IEC 61511 are safety-critical engineering; errors can kill; needs a functional-safety engineer, cannot be made a personal plan",
+  "changes": [],
+  "sources": [
+   "https://webstore.iec.ch/en/publication/24241"
+  ]
+ },
+ {
+  "id": "engineering-practice.permit-to-work-and-isolations",
+  "status": "hold",
+  "reason": "Lockout/isolation procedure content is safety-critical and site-specific; errors can kill; needs a chartered/safety engineer review",
+  "changes": [],
+  "sources": [
+   "https://www.hse.gov.uk/pubns/books/hsg250.htm",
+   "https://www.osha.gov/control-hazardous-energy"
+  ]
+ },
+ {
+  "id": "family-office.close-protection-arrangements",
+  "status": "hold",
+  "reason": "Personal-security arrangements for high-risk families; run by a family office, very narrow, and wrong guidance creates physical-safety risk",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.crs-and-fatca-reporting",
+  "status": "hold",
+  "reason": "Entity classification and CRS/FATCA reporting for family structures carries penalties; an organisation's regulated filing, needs legal/tax review",
+  "changes": [],
+  "sources": [
+   "https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca",
+   "https://www.oecd.org/en/topics/sub-issues/crs.html"
+  ]
+ },
+ {
+  "id": "family-office.kidnap-and-extortion-preparedness",
+  "status": "hold",
+  "reason": "Kidnap and extortion response belongs with specialist crisis responders and police; sensitive, narrow, cannot be made safe by rewrite",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.pre-immigration-wealth-planning",
+  "status": "hold",
+  "reason": "Core subject is tax-residency structuring before moving countries; removing the structuring leaves little of the plan; needs legal/tax review",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.private-trust-company",
+  "status": "hold",
+  "reason": "Setting up a regulated trust company is legal structuring for very few users; needs legal review",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.trust-structures-across-jurisdictions",
+  "status": "hold",
+  "reason": "Multi-jurisdiction trust structuring is legal/tax advice territory with no safe organisational core; needs legal review",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.wealth-structuring-jurisdictions",
+  "status": "hold",
+  "reason": "Offshore jurisdiction comparisons read as structuring advice and carry reputational and tax-avoidance risk; needs legal review",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.tax-investigation-response",
+  "status": "publish",
+  "reason": "Reviewed: purely organisational (letter logging, adviser appointment, case file, deadlines); rules generalised to 'your authority'; fraud/criminal letters routed to a specialist lawyer with instruction to pause contact and preserve records; financial notice present",
+  "changes": [],
+  "sources": [
+   "https://www.gov.uk/tax-compliance-checks",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/irs-audits",
+   "https://www.gov.uk/government/publications/hmrc-charter"
+  ]
+ },
+ {
+  "id": "practice-ownership.aml-duties-law-accounting-firms",
+  "status": "hold",
+  "reason": "Regulated AML duties (CDD, MLRO, suspicious activity reporting) where errors carry criminal and regulatory liability; needs professional review",
+  "changes": [],
+  "sources": [
+   "https://www.gov.uk/guidance/money-laundering-regulations-introduction"
+  ]
+ },
+ {
+  "id": "practice-ownership.client-trust-accounts",
+  "status": "hold",
+  "reason": "Client-money rules are regulator-specific and breaches carry regulatory liability; needs professional review",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "practice-ownership.clinical-governance-and-audits",
+  "status": "hold",
+  "reason": "Regulated clinical governance across a practice; clinical review gate",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "practice-ownership.complaints-and-professional-discipline",
+  "status": "fixed",
+  "reason": "Reviewed: organisational complaints procedure with no stated deadlines; regulator matters routed to insurer/defence organisation and representative; records-integrity warning present",
+  "changes": [
+   "Added a Notes paragraph to the first project: not legal advice; complaint and fitness to practise rules and deadlines are set by your regulator and vary; involve indemnity insurer or defence organisation when a regulator is involved",
+   "Recommend the notices owner add a legal notice for this area"
+  ],
+  "sources": [
+   "https://www.sra.org.uk/solicitors/standards-regulations/code-conduct-firms/",
+   "https://www.gmc-uk.org/concerns/information-for-doctors-under-investigation"
+  ]
+ },
+ {
+  "id": "practice-ownership.controlled-drugs-pharmacy-registers",
+  "status": "hold",
+  "reason": "Controlled-drug registers are statutory records with criminal liability; needs pharmacist/regulator review",
+  "changes": [],
+  "sources": [
+   "https://www.gov.uk/guidance/controlled-drugs-licences-fees-and-returns"
+  ]
+ },
+ {
+  "id": "practice-ownership.infection-prevention-in-practice",
+  "status": "hold",
+  "reason": "Clinical infection control; clinical review gate",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "practice-ownership.patient-and-client-records",
+  "status": "hold",
+  "reason": "Records retention periods and confidentiality duties are statutory and profession-specific; errors carry legal liability; needs professional review",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "practice-ownership.practice-partnership-agreements",
+  "status": "fixed",
+  "reason": "Reviewed: lawyer drafts throughout, independent advice for partners, regulator ownership rules checked, tax via accountant; no clause wording or legal conclusions",
+  "changes": [
+   "Added a Notes paragraph to the first project: not legal or tax advice; agreement drafted or reviewed by a qualified lawyer; partners may need independent advice",
+   "Recommend the notices owner add a legal notice for this area"
+  ],
+  "sources": [
+   "https://www.gov.uk/set-up-business-partnership",
+   "https://www.lawsociety.org.uk/topics/business-management/partnership-agreements"
+  ]
+ },
+ {
+  "id": "practice-ownership.practice-regulator-compliance",
+  "status": "hold",
+  "reason": "Regulator rules vary by profession and country and the plan performs regulated compliance duties; needs professional review",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "real-estate-development.real-estate-syndications",
+  "status": "hold",
+  "reason": "Raising money from investors is a securities offering (e.g. US Reg D, UK financial promotion rules); brief requires hold",
+  "changes": [],
+  "sources": [
+   "https://www.sec.gov/resources-small-businesses/exempt-offerings",
+   "https://www.fca.org.uk/firms/financial-promotions-adverts"
+  ]
+ },
+ {
+  "id": "real-estate-development.syndication-investor-relations",
+  "status": "hold",
+  "reason": "Sponsor's investor reporting is an organisation's process and carries securities-law exposure",
+  "changes": [],
+  "sources": [
+   "https://www.sec.gov/resources-small-businesses/exempt-offerings"
+  ]
+ }
+]

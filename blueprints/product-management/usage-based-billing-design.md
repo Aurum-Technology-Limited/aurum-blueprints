@@ -4,7 +4,7 @@ name: Usage-Based Billing Design
 description: "A value metric chosen on evidence, meters everyone trusts, allowances, caps and overages that feel fair, and the bill runs, disputes and forecasts that keep usage bills predictable."
 category: business
 version: 1.0.0
-tags: [product-management, usage-based-billing-design, founder, team, usage-based-pricing, metering, overages, billing]
+tags: [product-management, usage-based-billing-design, founder, team, usage-based-pricing, metering, overages, billing, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Inventory of every metered charge and meter
               description: |-
                 ## Purpose
-                Before redesigning anything, list what the product already counts and what it already charges for, because most teams find meters that bill nothing and charges that no meter supports. A one-page inventory of each meter, its source, its unit and the plans that use it turns a vague sense of the billing model into something the founder and team can argue about with facts.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before redesigning anything, list what the product already counts and what it already charges for, because most teams find meters that bill nothing and charges that no meter supports. A one-page inventory of each meter, its source, its unit and the plans that use it turns a vague sense of the billing model into something the founder and team can argue about with facts.
 
                 ## Milestones
                 1. Every meter in the product listed with its unit, data source and owning service.

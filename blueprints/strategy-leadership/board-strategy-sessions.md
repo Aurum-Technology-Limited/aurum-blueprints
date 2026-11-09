@@ -4,7 +4,7 @@ name: Board Strategy Sessions
 description: "Board strategy sessions that frame real choices, draw on what each director knows, and end in recorded decisions: purpose, calendar, papers, facilitation, the annual strategy day and the follow-through between meetings."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, board-strategy-sessions, manager, founder, enterprise, board-of-directors, strategy-day, board-papers, governance]
+tags: [strategy-leadership, board-strategy-sessions, manager, founder, enterprise, board-of-directors, strategy-day, board-papers, governance, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Look-back at two years of board strategy discussion
               description: |-
                 ## Purpose
-                Few chief executives know how many board minutes in the last two years actually went on strategy, or how many of those discussions ended in a decision. Reading the minutes and board packs for eight meetings and tagging each strategy item gives a factual starting point for the conversation with the chair about what needs to change.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Few chief executives know how many board minutes in the last two years actually went on strategy, or how many of those discussions ended in a decision. Reading the minutes and board packs for eight meetings and tagging each strategy item gives a factual starting point for the conversation with the chair about what needs to change.
 
                 ## Milestones
                 1. Minutes and packs for the last eight board meetings gathered in one folder.

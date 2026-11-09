@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 In a small practice the owner is often the lead. That is fine, as long as the deputy is someone else who can step in.
+
+                Before you start: this plan is general information to help you organise your own work. It does not replace your professional judgement, the rules of your regulator or professional body, your firm's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

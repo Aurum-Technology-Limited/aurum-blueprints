@@ -4,7 +4,7 @@ name: Carve-Outs and Divestitures
 description: "Divisional sales advised properly: the perimeter and entanglement map, carve-out financials, standalone and stranded costs, TSA schedules and pricing, separation governance and a clean path to legal day one and TSA exit."
 category: business
 version: 1.0.0
-tags: [investment-banking, carve-outs-and-divestitures, knowledge-worker, carve-out, divestiture, separation, tsa, stranded-costs]
+tags: [investment-banking, carve-outs-and-divestitures, knowledge-worker, carve-out, divestiture, separation, tsa, stranded-costs, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Carve-out deal anatomy from perimeter to day one
               description: |-
                 ## Purpose
-                Selling a division looks like any sale process from the outside, but most of the risk sits in work an ordinary auction never touches: deciding what is in the perimeter, building financials that never existed, and keeping the business running after it leaves its parent. A one-page anatomy of a carve-out, laid over the familiar sale stages, tells you which separation workstream has to be ready before each buyer milestone.
+                Selling a division looks like any sale process from the outside, but most of the risk sits in work an ordinary auction never touches: deciding what is in the perimeter, building financials that never existed, and keeping the business running after it leaves its parent. A one-page anatomy of a carve-out, laid over the familiar sale stages, tells you which separation workstream has to be ready before each buyer milestone. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page map that sets the separation workstreams (perimeter, financials, legal entities, people, IT, contracts, TSAs) against the sale stages.
@@ -1211,4 +1211,4 @@ starter_structure:
 
 This area is for the banker advising a parent company on selling a division, or a buyer on acquiring one, where the hard part is not the auction but untangling a business that was never built to stand alone. It starts with foundations (the deal anatomy, the parent's rationale, the perimeter, the shared asset inventory, structure options, readiness, carve-out financials, governance and timetable), moves into the operating rhythm of steering meetings, dependency logs, TSA and stranded cost trackers, then the skills of allocations, standalone costs, working capital and TSA pricing, the separation decisions on IT, contracts, brand, pensions and tax questions, the dated moments from board approval to TSA exit, situations for each seat and for sponsor buyers, and finally specialist work: remedy divestitures, multi-country separations, distressed parents and retained stakes.
 
-What repeats is a weekly separation steering meeting, a twice-weekly bidder concerns review while the process is live, weekly logs for dependencies, perimeter changes, people and contract consents, a monthly TSA and stranded cost review and a quarterly look at mitigation progress. The Reading queue, Meeting notes, Risk register and Operational checklist templates pair with the projects that name them. Keep client names, division numbers and live terms inside your firm's systems; these projects hold your own working method, not a client's confidential data. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a weekly separation steering meeting, a twice-weekly bidder concerns review while the process is live, weekly logs for dependencies, perimeter changes, people and contract consents, a monthly TSA and stranded cost review and a quarterly look at mitigation progress. The Reading queue, Meeting notes, Risk register and Operational checklist templates pair with the projects that name them. Keep client names, division numbers and live terms inside your firm's systems; these projects hold the team's working method, not a client's confidential data. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

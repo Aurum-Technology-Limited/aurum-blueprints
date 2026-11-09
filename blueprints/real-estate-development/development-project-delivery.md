@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Keep instructions to the contractor flowing through the one person the contract names. A director chatting to the site manager about tile choices is how unrecorded variations begin.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

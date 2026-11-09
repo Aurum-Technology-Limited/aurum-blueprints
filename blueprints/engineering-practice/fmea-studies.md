@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 If your customers include an automotive OEM, check its customer-specific requirements before choosing. Some still accept legacy RPN FMEAs for carry-over parts and require the AIAG-VDA approach only for new programmes.
+
+                Before you start: this plan is general information to help you organise your own work. It does not replace your professional judgement, the rules of your regulator or professional body, your firm's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               frontmatter:
                 mode: research

@@ -4,7 +4,7 @@ name: Family Bank and Member Loans
 description: "An internal family bank that lends on written terms: a lending policy and committee, standard loan agreements, a clean ledger, repayment and arrears routines, and fairness across every branch."
 category: personal
 version: 1.0.0
-tags: [family-office, family-bank-and-member-loans, parent, retiree, family-bank, intra-family-loans, lending-policy, loan-records]
+tags: [family-office, family-bank-and-member-loans, parent, retiree, family-bank, intra-family-loans, lending-policy, loan-records, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Family bank purpose and scope statement
               description: |-
                 ## Purpose
-                A family bank works best when everyone knows what it is for before the first request lands: helping members buy homes, start ventures or study, rather than funding lifestyle spending that the family would never approve as a gift. A one-page statement of purpose and scope, agreed by the senior generation, is the reference point every later rule and every refusal goes back to.
+                A family bank works best when everyone knows what it is for before the first request lands: helping members buy homes, start ventures or study, rather than funding lifestyle spending that the family would never approve as a gift. A one-page statement of purpose and scope, agreed by the senior generation, is the reference point every later rule and every refusal goes back to. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The kinds of lending the family bank will consider listed, and the kinds it will not.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Keep it short. A purpose statement that runs to five pages gets argued over clause by clause and never finished.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -71,7 +73,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "List every family loan you can remember in a single spreadsheet"
+                - "Ask each branch to list every family loan it can recall in one shared spreadsheet"
                 - "Search bank statements and emails for transfers to family members"
                 - "Send each borrower a friendly note asking them to confirm the balance"
                 - "Total the amounts lent and outstanding for each family branch"
@@ -226,7 +228,7 @@ starter_structure:
             - name: Tax and gifting review of family loans with an adviser
               description: |-
                 ## Purpose
-                Interest-free or low-interest loans to relatives can have tax consequences in many countries, such as deemed interest, gift tax on forgiven amounts, or inheritance rules on balances outstanding at death. A single review meeting with the family's tax adviser, covering each country where lenders and borrowers live, tells the committee which rate floors, records and forms it must respect.
+                Interest-free or low-interest loans to relatives can have tax consequences in many countries, such as deemed interest, gift tax on forgiven amounts, or inheritance rules on balances outstanding at death. In the United States, for example, the IRS publishes Applicable Federal Rates each month, and a family loan charging less can be treated as partly a gift under section 7872. A single review meeting with the family's tax adviser, covering each country where lenders and borrowers live, tells the committee which rate floors, records and forms it must respect.
 
                 ## Milestones
                 1. A list of the countries where lenders, borrowers and the lending entity are tax resident.
@@ -605,7 +607,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "Ask your family office adviser for recommended reading on family banks"
+                - "Ask the family office adviser for recommended reading on family banks"
                 - "Read one case study a month and note a practice to copy and one to avoid"
                 - "Summarise the lessons for the committee in a page"
                 - "Turn any agreed lesson into a proposed policy change"

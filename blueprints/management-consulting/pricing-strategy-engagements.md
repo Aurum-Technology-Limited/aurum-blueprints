@@ -4,7 +4,7 @@ name: Pricing Strategy Engagements
 description: "A delivery method for client pricing work: the pricing decision framed, a price waterfall from list to pocket, willingness-to-pay research, discount leakage closed, controlled pilots and a sales rollout that holds."
 category: business
 version: 1.0.0
-tags: [management-consulting, pricing-strategy-engagements, knowledge-worker, pricing, price-waterfall, willingness-to-pay, discount-leakage, price-architecture]
+tags: [management-consulting, pricing-strategy-engagements, knowledge-worker, pricing, price-waterfall, willingness-to-pay, discount-leakage, price-architecture, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: The pricing decision the client has to take
               description: |-
                 ## Purpose
-                Clients often ask for a pricing review when what they need is one decision: whether to push a list increase through this year, how to stop margin erosion in one channel, or what to charge for a new product. Writing that decision in one sentence, with the date it will be taken and who takes it, tells you which analyses matter and stops the work drifting into a general pricing audit.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Clients often ask for a pricing review when what they need is one decision: whether to push a list increase through this year, how to stop margin erosion in one channel, or what to charge for a new product. Writing that decision in one sentence, with the date it will be taken and who takes it, tells you which analyses matter and stops the work drifting into a general pricing audit.
 
                 ## Milestones
                 1. The decision written in one sentence, with the owner and the date it will be taken.

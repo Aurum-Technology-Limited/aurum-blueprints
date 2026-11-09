@@ -420,6 +420,8 @@ starter_structure:
 
                 ## Notes
                 This is your own readiness plan. For a friend already in a long or severe crisis, pace yourself and bring in other people so the support lasts.
+
+                If a friend talks about harming themselves or you think they are in danger, call your local emergency number, or help them contact a crisis line such as Samaritans on 116 123 in the UK and Ireland or 988 in the US.
               priority: high
               frontmatter:
                 mode: service

@@ -4,7 +4,7 @@ name: Sustainable Building Certification
 description: "A green building rating planned from day one: the right system chosen, a target and budget set early, credits tracked through design and build, evidence ready for the assessor, and the certificate turned into value and rent."
 category: business
 version: 1.0.0
-tags: [real-estate-development, sustainable-building-certification, founder, small-business, leed, breeam, edge, green-building]
+tags: [real-estate-development, sustainable-building-certification, founder, small-business, leed, breeam, edge, green-building, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Choosing between LEED, BREEAM and EDGE for the scheme
               description: |-
                 ## Purpose
-                Each rating system suits a different market: buyers and tenants in some countries expect LEED, others know BREEAM, and EDGE is designed to be quicker and cheaper for housing and emerging markets. Picking the one your end buyers, tenants and lenders actually recognise, before the design is fixed, avoids paying for a badge nobody in your market values.
+                Each rating system suits a different market: buyers and tenants in some countries expect LEED, others know BREEAM, and EDGE is designed to be quicker and cheaper for housing and emerging markets. Picking the one your end buyers, tenants and lenders actually recognise, before the design is fixed, avoids paying for a badge nobody in your market values. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The rating systems your target tenants, buyers and lenders ask for identified from at least five conversations or listings.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Start from the **Purchase decision** template. Ask two local agents which ratings appear in the leasing and sales particulars they see most often; that answer usually settles it.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help your team organise its work. It is not legal advice, and following it does not make anyone your organisation's lawyer. Rules differ between countries and change often, so check decisions that matter, and anything your organisation signs, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -75,8 +75,8 @@ starter_structure:
               tasks:
                 - "Check whether local planning policy sets a minimum green rating"
                 - "List every cost the certification adds, with a rough figure for each"
-                - "Note the benefits you can evidence, not the ones you hope for"
-                - "Present the target level and fallbacks to your partners for sign-off"
+                - "Note only the benefits the team can evidence, not the ones it hopes for"
+                - "Development director presents the target level and fallbacks to the partners for sign-off"
             - name: Certification line in the development appraisal
               description: |-
                 ## Purpose

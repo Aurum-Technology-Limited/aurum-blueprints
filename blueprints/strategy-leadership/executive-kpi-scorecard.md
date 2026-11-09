@@ -4,7 +4,7 @@ name: Executive KPI Scorecard
 description: "A short list of executive indicators tied to strategy, each with one owner, a written definition, a target and thresholds, issued on time and reviewed by exception every month."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, executive-kpi-scorecard, manager, enterprise, kpis, scorecard, performance-measurement, metrics]
+tags: [strategy-leadership, executive-kpi-scorecard, manager, enterprise, kpis, scorecard, performance-measurement, metrics, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Scorecard purpose and audience statement
               description: |-
                 ## Purpose
-                Most executive scorecards drift because nobody wrote down which decisions they exist to inform or who must read them. A half-page statement naming the audience (the executive team, the board, or both), the decisions the scorecard feeds and how often it is read becomes the test every proposed metric has to pass.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most executive scorecards drift because nobody wrote down which decisions they exist to inform or who must read them. A half-page statement naming the audience (the executive team, the board, or both), the decisions the scorecard feeds and how often it is read becomes the test every proposed metric has to pass.
 
                 ## Milestones
                 1. A list of the five to eight recurring decisions the scorecard should inform.

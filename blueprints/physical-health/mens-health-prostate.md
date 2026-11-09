@@ -35,7 +35,7 @@ starter_structure:
                 ## Notes
                 Ask your practice for a copy of your recent results through the patient portal rather than relying on memory. Keep the page somewhere a partner could find it.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -172,7 +172,7 @@ starter_structure:
             - name: Urgent urinary and testicular symptoms card
               description: |-
                 ## Purpose
-                Being unable to pass urine at all, sudden severe pain in a testicle, or fever with painful urination need same-day care, while blood in the urine needs a prompt appointment. A card that sorts symptoms into emergency, same day and soon means nobody has to judge it at two in the morning.
+                Sudden severe pain in a testicle or being unable to pass urine at all needs emergency care straight away, fever with painful urination needs same-day care, and blood in the urine needs a prompt appointment. A card that sorts symptoms into emergency, same day and soon means nobody has to judge it at two in the morning.
 
                 ## Milestones
                 1. Your health service's guidance on urgent urinary and testicular symptoms found.
@@ -453,6 +453,8 @@ starter_structure:
                 4. Your own decision to test, wait or decline written down after talking it through.
 
                 ## Notes
+                Approaches differ by country. In the UK there is no national PSA screening programme: men over 50 can ask their GP for a test after talking through the pros and cons, and in 2026 the UK National Screening Committee recommended targeted screening only for some men with a BRCA2 gene change, pending a government decision. In the US, the USPSTF advises men aged 55 to 69 to make an individual decision with their clinician and advises against routine screening from 70. Check the current advice where you live.
+
                 Ask beforehand whether to avoid ejaculation and vigorous exercise for a couple of days before the test, as many labs advise.
               priority: medium
               deadlineOffsetDays: 30

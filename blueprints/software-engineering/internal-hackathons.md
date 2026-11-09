@@ -4,7 +4,7 @@ name: Internal Hackathons
 description: "Agreed goals, rules, sandboxes and a judging rubric, plus the idea backlog, run sheets, demo days and graduation path that turn internal hackathon prototypes into shipped work."
 category: business
 version: 1.0.0
-tags: [software-engineering, internal-hackathons, team, manager, engineer, hackathon, prototyping, demo-day]
+tags: [software-engineering, internal-hackathons, team, manager, engineer, hackathon, prototyping, demo-day, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Hackathon goals and executive sponsor
               description: |-
                 ## Purpose
-                Teams run hackathons for very different reasons: morale, exploring a new platform, clearing internal tooling pain or finding the next product bet, and an event that tries to do all four usually does none well. Writing down one primary goal and getting a named sponsor to back it decides the theme, the judging and whether prototypes get a real chance at production.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Teams run hackathons for very different reasons: morale, exploring a new platform, clearing internal tooling pain or finding the next product bet, and an event that tries to do all four usually does none well. Writing down one primary goal and getting a named sponsor to back it decides the theme, the judging and whether prototypes get a real chance at production.
 
                 ## Milestones
                 1. One primary goal and at most two secondary goals written in plain sentences.

@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Declining a service on paper is as useful as offering one. It gives staff a clear reason to say no to the client who asks for a quick drainage design from a structural-only office.
+
+                Before you start: this plan is general information to help you organise your own work. It does not replace your professional judgement, the rules of your regulator or professional body, your firm's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: medium
               frontmatter:
                 mode: research

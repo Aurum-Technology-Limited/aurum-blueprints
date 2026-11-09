@@ -4,7 +4,7 @@ name: Rolling Financial Forecasts
 description: "A twelve to eighteen month rolling forecast built on drivers and named owners, refreshed every month or quarter, with accuracy tracked, scenarios ready and a pack the board and investors can trust."
 category: business
 version: 1.0.0
-tags: [finance-accounting, rolling-financial-forecasts, manager, founder, team, reforecasting, driver-based-planning, scenario-planning]
+tags: [finance-accounting, rolling-financial-forecasts, manager, founder, team, reforecasting, driver-based-planning, scenario-planning, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Rolling forecast horizon and cadence decision
               description: |-
                 ## Purpose
-                Most growing companies settle on a twelve or eighteen month window refreshed monthly or quarterly, but the right pair depends on how quickly the business changes and how many finance hours exist each month. Choosing deliberately, and writing down why, stops the forecast drifting into an annual exercise with a rolling label. Decide this first because every other project in the area inherits it.
+                Most growing companies settle on a twelve or eighteen month window refreshed monthly or quarterly, but the right pair depends on how quickly the business changes and how many finance hours exist each month. Choosing deliberately, and writing down why, stops the forecast drifting into an annual exercise with a rolling label. Decide this first because every other project in the area inherits it. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A horizon chosen, with the reason it fits your planning and funding needs written in two sentences.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 A common default is eighteen months refreshed monthly for fast-changing companies and twelve months refreshed quarterly for steadier ones. Whatever you choose, the window should always reach past the next financial year end by the time the annual target is set.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -1201,4 +1201,4 @@ starter_structure:
 
 This area is for whoever keeps the forward view of a growing company honest: a finance manager running the reforecast, a founder who wants to see past next quarter, or a small team sharing the work. It starts with the foundations (horizon and cadence, the decisions the forecast serves, a clean actuals baseline, drivers, owners and an assumptions register), then the monthly machinery of rolling in actuals, collecting inputs, reviewing and bridging the numbers, the forecasting skills behind good drivers, the improvements and decisions that make the forecast faster and more credible, the dated packs for boards, investors and lenders, situations for founders, inheriting managers and small teams, and finally specialist work on forecast value added, statistical baselines and long-range outlooks.
 
-What repeats is the monthly cycle: external assumptions refreshed around the 2nd, owner requests out on the 3rd, actuals rolled in on the 5th, inputs chased on the 6th, risks and review meeting by the 8th, the bridge on the 9th, versions locked on the 10th and accuracy logged on the 12th, with a weekly look at leading indicators. Each quarter brings a driver rebuild, a scenario refresh and the board pack, and each year the target and the forecast policy are revisited. The Purchase decision, Operational checklist, Meeting notes, Metrics log, Risk register and Board meeting templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is the monthly cycle: external assumptions refreshed around the 2nd, owner requests out on the 3rd, actuals rolled in on the 5th, inputs chased on the 6th, risks and review meeting by the 8th, the bridge on the 9th, versions locked on the 10th and accuracy logged on the 12th, with a weekly look at leading indicators. Each quarter brings a driver rebuild, a scenario refresh and the board pack, and each year the target and the forecast policy are revisited. The Purchase decision, Operational checklist, Meeting notes, Metrics log, Risk register and Board meeting templates pair with the projects that name them. In a shared workspace, the FP&A lead runs the cycle, budget owners update their drivers and the CFO signs off the forecast before it reaches the board. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

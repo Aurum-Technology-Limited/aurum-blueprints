@@ -4,7 +4,7 @@ name: Implementation Support Phases
 description: "Stay on after the recommendation and help the client make it real: pilots with clear go or no-go criteria, change support, benefits tracked against a locked baseline and a handover the client owns."
 category: business
 version: 1.0.0
-tags: [management-consulting, implementation-support-phases, knowledge-worker, implementation, pilots, change-management, benefits-tracking, handover]
+tags: [management-consulting, implementation-support-phases, knowledge-worker, implementation, pilots, change-management, benefits-tracking, handover, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Implementation phase scope and exit criteria
               description: |-
                 ## Purpose
-                Implementation phases that start without written exit criteria tend to run until the budget runs out, with the client unsure what it bought and the team unsure when to leave. Agreeing in writing which initiatives are in scope, what done looks like for each and the date the consulting team steps back gives both sides a clean finish line from the first week.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Implementation phases that start without written exit criteria tend to run until the budget runs out, with the client unsure what it bought and the team unsure when to leave. Agreeing in writing which initiatives are in scope, what done looks like for each and the date the consulting team steps back gives both sides a clean finish line from the first week.
 
                 ## Milestones
                 1. A one-page scope listing each initiative carried into implementation, with anything deliberately left out named.

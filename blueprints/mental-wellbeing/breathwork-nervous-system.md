@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Mild tingling or light-headedness usually means you are breathing more than you need: slow down and let the breath return to normal. Anything stronger is a reason to stop and seek advice, not to push on.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -954,7 +954,7 @@ starter_structure:
                 4. Three things you learned written down within two days.
 
                 ## Notes
-                Strong emotional or physical reactions can happen in intense sessions. Tell the teacher about any mental or physical health conditions beforehand.
+                Strong emotional or physical reactions can happen in intense sessions. Tell the teacher about any mental or physical health conditions beforehand, and skip fast, forceful or breath-holding styles if you have epilepsy, a heart condition or a history of psychosis, or are pregnant, unless your doctor has agreed.
               priority: low
               deadlineOffsetDays: 90
               frontmatter:
@@ -1176,7 +1176,7 @@ starter_structure:
                 5. The playbook reread and edited every month.
 
                 ## Notes
-                If you ever feel unsafe or in crisis, the playbook should point to people and emergency services first, not to another breathing exercise.
+                If you ever feel unsafe or in crisis, the playbook should point to people and emergency services first, not to another breathing exercise. Crisis lines include Samaritans on 116 123 in the UK and Ireland and the 988 Suicide & Crisis Lifeline in the US (call or text 988).
               priority: medium
               frontmatter:
                 mode: building

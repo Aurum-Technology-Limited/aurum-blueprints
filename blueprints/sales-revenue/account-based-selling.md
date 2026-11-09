@@ -4,7 +4,7 @@ name: Account-Based Selling
 description: "A named and tiered target account list, coordinated pods, multi-threaded plays, signal watching, engagement scores and the events and specialist work that turn a short list of dream accounts into pipeline."
 category: business
 version: 1.0.0
-tags: [sales-revenue, account-based-selling, enterprise, team, founder, target-accounts, abm, multi-threading]
+tags: [sales-revenue, account-based-selling, enterprise, team, founder, target-accounts, abm, multi-threading, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Deciding whether account-based selling fits your deals
               description: |-
                 ## Purpose
-                Account-based selling pays off when deals are large, buying committees have five or more people and the number of companies that could ever buy runs to hundreds, not tens of thousands. Where a deal is worth less than about ten times the cost of a coordinated campaign into one account, high-volume outbound usually wins. Checking your last twenty closed deals against those tests settles the question before anyone buys software or redraws patches.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Account-based selling pays off when deals are large, buying committees have five or more people and the number of companies that could ever buy runs to hundreds, not tens of thousands. Where a deal is worth less than about ten times the cost of a coordinated campaign into one account, high-volume outbound usually wins. Checking your last twenty closed deals against those tests settles the question before anyone buys software or redraws patches.
 
                 ## Milestones
                 1. Average deal size, sales cycle length and number of people involved recorded for the last twenty closed deals.
@@ -674,7 +674,7 @@ starter_structure:
                 4. Every send and response logged against the account.
 
                 ## Notes
-                Many organisations cap or ban gifts to their staff. Check first, and never send anything that could look like an inducement.
+                Many organisations cap or ban gifts to their staff, and anti-bribery laws such as the UK Bribery Act 2010 and the US Foreign Corrupt Practices Act apply to gifts, especially to public officials. Agree the gifting rules with whoever owns legal or compliance, and never send anything that could look like an inducement.
               priority: low
               frontmatter:
                 mode: operating

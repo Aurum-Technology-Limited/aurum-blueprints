@@ -4,7 +4,7 @@ name: Incident Postmortems
 description: "A postmortem policy, a blameless template, honest timelines, contributing factor analysis and action items that really close, plus the review rhythms that turn every outage into a lesson for engineers, teams and managers."
 category: business
 version: 1.0.0
-tags: [software-engineering, incident-postmortems, engineer, team, manager, blameless, root-cause-analysis, action-items]
+tags: [software-engineering, incident-postmortems, engineer, team, manager, blameless, root-cause-analysis, action-items, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Postmortem policy with clear severity triggers
               description: |-
                 ## Purpose
-                Without a written rule, postmortems happen for the incidents that embarrassed someone senior and get skipped for the quiet ones that will recur. A one-page policy that says which severities, durations, data incidents and customer-visible failures require a review, and how soon, removes the argument every time. Agree it before the next outage, while nobody is defending a particular incident.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Without a written rule, postmortems happen for the incidents that embarrassed someone senior and get skipped for the quiet ones that will recur. A one-page policy that says which severities, durations, data incidents and customer-visible failures require a review, and how soon, removes the argument every time. Agree it before the next outage, while nobody is defending a particular incident.
 
                 ## Milestones
                 1. A list of triggers agreed, covering severity level, customer impact, data loss or exposure, and any incident a responder asks to review.

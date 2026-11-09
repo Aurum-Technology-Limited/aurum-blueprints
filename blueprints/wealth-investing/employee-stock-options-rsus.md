@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Download copies now. Portal access often ends on your last day, and former employees routinely have to request documents by email and wait weeks.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help you organise decisions about money. It is not financial, investment, tax or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with a qualified, licensed adviser in yours. Investing and trading can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -677,7 +677,7 @@ starter_structure:
                 - "Calculate the cash and tax needed to exercise now"
                 - "Write down how much you could lose if the company fails"
                 - "Book a session with a tax adviser before deciding"
-                - "Send any election by tracked post within 30 days and file the receipt"
+                - "File any election within 30 days, online with the IRS or by tracked post, and save the receipt"
             - name: Spreading option exercises across tax years
               description: |-
                 ## Purpose

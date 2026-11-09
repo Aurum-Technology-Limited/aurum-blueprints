@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Most Caribbean smallholders start with meat goats, because live sales for curry goat and festival demand are steady, while dairy needs daily milking and usually a licence to sell milk. Breeding stock sales come later, once your records can prove what your animals do.
+
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

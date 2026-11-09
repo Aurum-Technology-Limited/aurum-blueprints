@@ -4,7 +4,7 @@ name: Information Memorandum Drafting
 description: "A working method for the confidential information memorandum: scope and contents, sourced facts, the equity story, business, market and financial sections, model tie-outs, counsel's pages and client sign-off."
 category: business
 version: 1.0.0
-tags: [investment-banking, information-memorandum-drafting, knowledge-worker, analyst, associate, cim, sell-side, deal-documents]
+tags: [investment-banking, information-memorandum-drafting, knowledge-worker, analyst, associate, cim, sell-side, deal-documents, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -24,7 +24,7 @@ starter_structure:
             - name: Anatomy of an information memorandum from three past deals
               description: |-
                 ## Purpose
-                Every group has a house shape for its information memoranda, and juniors who learn it from finished documents get far fewer structural comments on a first draft. Reading three released IMs from recent sale processes, ideally one corporate, one sponsor-owned and one founder-owned business, shows which chapters never change, how long each runs and where the equity story is stated first.
+                Every group has a house shape for its information memoranda, and juniors who learn it from finished documents get far fewer structural comments on a first draft. Reading three released IMs from recent sale processes, ideally one corporate, one sponsor-owned and one founder-owned business, shows which chapters never change, how long each runs and where the equity story is stated first. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Three final, released information memoranda from your group pulled from the deal archive with permission.
@@ -980,7 +980,7 @@ starter_structure:
                 - "Compare them with the IM and log every difference"
                 - "Agree corrections or footnotes for each difference with the provider"
                 - "Coordinate release dates for the IM and the reports"
-            - name: Your first IM as an analyst
+            - name: A new analyst's first IM
               description: |-
                 ## Purpose
                 First-year analysts usually draft the financial chapter, build the charts and run the tie-out, often while staffed on two other deals. Knowing what good looks like in those three jobs, keeping a personal list of the comments you receive and asking the associate for one chapter to draft in full turns your first IM into a skill you keep.

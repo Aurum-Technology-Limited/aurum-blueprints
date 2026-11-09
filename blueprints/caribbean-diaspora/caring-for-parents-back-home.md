@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Start from the **Person** template. Write what you know and mark what is guesswork; the guesses are where the first phone calls should go.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

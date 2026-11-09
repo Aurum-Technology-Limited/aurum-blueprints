@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 Start from the **Purchase decision** template. Two-piece tins seal and release more easily than three-piece cobbler shakers, which tend to leak and jam once they are cold.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

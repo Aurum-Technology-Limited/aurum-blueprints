@@ -4,7 +4,7 @@ name: Family Enterprise Ownership Rules
 description: "Written rules for owning shares in the family business: an accurate register, who may hold shares, transfer and pre-emption rules, a dividend policy, fair exit routes for members who want out, and voting."
 category: personal
 version: 1.0.0
-tags: [family-office, family-enterprise-ownership-rules, parent, founder, shareholders-agreement, dividend-policy, share-transfers, family-enterprise]
+tags: [family-office, family-enterprise-ownership-rules, parent, founder, shareholders-agreement, dividend-policy, share-transfers, family-enterprise, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -24,7 +24,7 @@ starter_structure:
             - name: Family shareholder register and cap table
               description: |-
                 ## Purpose
-                Many family companies cannot say with confidence who owns what: a share gift in 1998 was never stamped, an uncle's shares passed through an estate nobody finished, a trust holds a block nobody remembers. A clean register and capitalisation table, reconciled to the statutory register and the share certificates, is the ground every other ownership rule stands on.
+                Many family companies cannot say with confidence who owns what: a share gift in 1998 was never stamped, an uncle's shares passed through an estate nobody finished, a trust holds a block nobody remembers. A clean register and capitalisation table, reconciled to the statutory register and the share certificates, is the ground every other ownership rule stands on. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every shareholder listed with share class, number of shares and percentage held.
@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Fix the register before drafting any rule. A rule about who may hold shares is useless if the family cannot agree who holds them today.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

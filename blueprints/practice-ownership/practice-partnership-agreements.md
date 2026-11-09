@@ -35,6 +35,10 @@ starter_structure:
 
                 ## Notes
                 An unsigned draft that everyone has followed for years can still matter legally. Ask your lawyer how your jurisdiction treats it rather than assuming it is either binding or worthless.
+
+                This plan organises the work around your agreement. It is not legal or tax advice: the agreement itself should be drafted or reviewed by a qualified lawyer in your country, and each partner may need independent advice before signing.
+
+                Before you start: this plan is general information to help you organise your own work. It does not replace your professional judgement, the rules of your regulator or professional body, your firm's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

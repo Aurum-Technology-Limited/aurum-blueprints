@@ -4,7 +4,7 @@ name: Internal Tools Product Ownership
 description: "Internal tools run like products: an owner and charter for each, a request and release rhythm staff can trust, access reviews, adoption measures, and the cutovers that retire spreadsheets and legacy systems."
 category: business
 version: 1.0.0
-tags: [product-management, internal-tools-product-ownership, team, enterprise, engineer, internal-tools, back-office, admin-console]
+tags: [product-management, internal-tools-product-ownership, team, enterprise, engineer, internal-tools, back-office, admin-console, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Internal tools inventory with owners and users
               description: |-
                 ## Purpose
-                Most organisations cannot say how many internal tools they run, who built them or who depends on them, until one breaks during month-end. A single inventory listing every admin console, back-office app, operations dashboard, scripted workflow and business-critical spreadsheet, with its users, owner and the process it supports, is the base every other decision in this area stands on.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most organisations cannot say how many internal tools they run, who built them or who depends on them, until one breaks during month-end. A single inventory listing every admin console, back-office app, operations dashboard, scripted workflow and business-critical spreadsheet, with its users, owner and the process it supports, is the base every other decision in this area stands on.
 
                 ## Milestones
                 1. An inventory listing every internal tool with its purpose, main users and the business process it supports.

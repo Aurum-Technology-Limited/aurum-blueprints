@@ -4,7 +4,7 @@ name: Add-On Acquisitions
 description: "A working buy-and-build programme: add-on criteria and target maps, owner outreach, debt capacity for add-ons, integration playbooks, synergies tracking and an honest ledger of what multiple arbitrage is really worth."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, add-on-acquisitions, knowledge-worker, buy-and-build, roll-up, integration, multiple-arbitrage, owner-outreach]
+tags: [private-equity-vc, add-on-acquisitions, knowledge-worker, buy-and-build, roll-up, integration, multiple-arbitrage, owner-outreach, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Buy-and-build strategy statement for the platform
               description: |-
                 ## Purpose
-                A roll-up without a written strategy tends to become a collection of whatever owners agreed to sell. One page that says why combining businesses in this sector creates value (density, cross-selling, procurement, a gap in coverage), how many add-ons the plan needs and over what period, gives the CEO, the board and lenders the same picture before the first approach goes out.
+                A roll-up without a written strategy tends to become a collection of whatever owners agreed to sell. One page that says why combining businesses in this sector creates value (density, cross-selling, procurement, a gap in coverage), how many add-ons the plan needs and over what period, gives the CEO, the board and lenders the same picture before the first approach goes out. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page statement naming the value logic of combining businesses in this sector.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 The strategy should survive the question: would we still do this if exit multiples did not rise? If the only answer is multiple arbitrage, the plan is fragile.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -558,7 +560,7 @@ starter_structure:
                 - "Collect five buy-and-build case studies, two of them failures"
                 - "Summarise the cause of each outcome in a paragraph"
                 - "Draw up ten warning signs from the cases"
-                - "Score your current programme against the warning signs"
+                - "Deal partner and portfolio ops score the programme against the warning signs"
             - name: Estimating cost and revenue synergies with discipline
               description: |-
                 ## Purpose

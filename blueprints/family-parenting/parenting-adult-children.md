@@ -1033,7 +1033,9 @@ starter_structure:
                 4. A crisis plan with emergency numbers and what you will do if your child is at risk.
 
                 ## Notes
-                If your child is in immediate danger, call your local emergency services. Treatment decisions belong to your child and their clinicians; your role is support, not diagnosis.
+                If your child is in immediate danger, call your local emergency services. If they talk about harming themselves, a crisis line can advise you both, such as Samaritans on 116 123 in the UK and Ireland or 988 in the US. Treatment decisions belong to your child and their clinicians; your role is support, not diagnosis.
+
+                If you feel afraid of your adult child, or they are threatening or hurting you, call your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233).
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

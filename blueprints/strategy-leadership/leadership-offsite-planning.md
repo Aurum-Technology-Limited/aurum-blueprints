@@ -4,7 +4,7 @@ name: Leadership Offsite Planning
 description: "Offsites with a written purpose and decision list, a run of show built around real choices, skilled facilitation, sound logistics and a follow-through routine that turns the room's agreements into delivered work."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, leadership-offsite-planning, manager, team, offsites, facilitation, retreats, decision-making]
+tags: [strategy-leadership, leadership-offsite-planning, manager, team, offsites, facilitation, retreats, decision-making, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Offsite purpose statement and decision list
               description: |-
                 ## Purpose
-                Most offsites that end in goodwill and nothing else were planned around a theme rather than a list of decisions. Writing one sentence of purpose and the three to five decisions the team must leave with gives every later choice, from the guest list to the agenda, something to be tested against.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most offsites that end in goodwill and nothing else were planned around a theme rather than a list of decisions. Writing one sentence of purpose and the three to five decisions the team must leave with gives every later choice, from the guest list to the agenda, something to be tested against.
 
                 ## Milestones
                 1. A one-sentence purpose that a team member could repeat without notes.

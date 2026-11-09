@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Growing a superhot because it is famous, with no buyer lined up, is the classic first-season mistake. Prices for superhots are high per pound but the outlets are few.
+
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

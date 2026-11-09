@@ -4,7 +4,7 @@ name: Multifamily Value-Add Programmes
 description: "Improving apartment buildings you own: a value-add plan per building, tested unit renovations, amenity and other income upgrades, lawful rent increases, expense cuts and a ledger tracking the return on every spend."
 category: business
 version: 1.0.0
-tags: [real-estate-development, multifamily-value-add-programmes, founder, small-business, value-add, unit-renovations, rent-increases, expense-reduction]
+tags: [real-estate-development, multifamily-value-add-programmes, founder, small-business, value-add, unit-renovations, rent-increases, expense-reduction, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Value-add business plan for one building
               description: |-
                 ## Purpose
-                Most value-add programmes drift because the plan lived in the acquisition model and nobody turned it into a list of works, rents and dates. Writing a short business plan for one building, naming which units get which scope, the target rent after works, the expense lines to attack and the month the building should be stabilised, gives the site team, the lender and your partners one document to work from.
+                Most value-add programmes drift because the plan lived in the acquisition model and nobody turned it into a list of works, rents and dates. Writing a short business plan for one building, naming which units get which scope, the target rent after works, the expense lines to attack and the month the building should be stabilised, gives the site team, the lender and your partners one document to work from. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A two to four page plan covering units, amenities, other income, expenses and timing for one named building.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Keep the plan short enough to reread every quarter. A forty-page plan is the acquisition memo again and nobody updates it.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help your team organise its work. It is not legal advice, and following it does not make anyone your organisation's lawyer. Rules differ between countries and change often, so check decisions that matter, and anything your organisation signs, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -150,7 +150,7 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "Work out the return on cost the acquisition model assumed for renovations"
-                - "Propose hurdles for units and amenities to your partners in writing"
+                - "Asset manager proposes hurdles for units and amenities to the partners in writing"
                 - "Set approval limits for site manager, asset manager and partners"
                 - "Record the agreed rule on the first page of the business plan"
             - name: Value-add capital budget and contingency
@@ -718,7 +718,7 @@ starter_structure:
               tasks:
                 - "List parking, laundry, storage, pet and other fees the building charges or could"
                 - "Read the laundry or vending contract for term, split and exit dates"
-                - "Check with your adviser before adding charges for existing residents"
+                - "Have the solicitor confirm the law before adding charges for existing residents"
                 - "Review all other income terms against local norms @recurring(yearly)"
             - name: Insurance and service contract retender
               description: |-
@@ -956,7 +956,7 @@ starter_structure:
                 effort_hours_estimate: "15"
               tasks:
                 - "Ask an experienced operator to act as a monthly sounding board"
-                - "Set a first-year renovation pace you can fund from the budget in hand"
+                - "Set a first-year renovation pace the budget in hand can fund"
                 - "Agree a larger contingency with partners"
                 - "Write a year-one lessons note at the end of the period"
             - name: Owner-operator programme alongside a day job

@@ -4,7 +4,7 @@ name: Sales Playbook Development
 description: "A written account of how your team really sells: segments, buyer roles, stage exit criteria, plays and handoffs, plus the routines that keep the playbook current, short and used."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-playbook-development, manager, founder, team, sales-process, playbook, stage-definitions]
+tags: [sales-revenue, sales-playbook-development, manager, founder, team, sales-process, playbook, stage-definitions, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Playbook scope, audience and owner
               description: |-
                 ## Purpose
-                Most playbooks stall because nobody decided who they are for, what version one must cover and who has the final say on wording. Settling the audience (new hires, the whole team, partners), a short scope for the first release and one named owner turns a vague wish into a project with an end date.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most playbooks stall because nobody decided who they are for, what version one must cover and who has the final say on wording. Settling the audience (new hires, the whole team, partners), a short scope for the first release and one named owner turns a vague wish into a project with an end date.
 
                 ## Milestones
                 1. The primary reader named, for example a seller in their first ninety days.

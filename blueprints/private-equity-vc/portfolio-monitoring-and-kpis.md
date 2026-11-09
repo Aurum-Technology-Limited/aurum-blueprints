@@ -4,7 +4,7 @@ name: Portfolio Monitoring and KPIs
 description: "A standard monthly pack, a KPI dictionary and dashboard, covenant headroom checks, an early warning watchlist and quarterly valuation workpapers for tracking portfolio companies between board meetings."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, portfolio-monitoring-and-kpis, knowledge-worker, portfolio-monitoring, kpi-dashboards, covenants, valuation, early-warning]
+tags: [private-equity-vc, portfolio-monitoring-and-kpis, knowledge-worker, portfolio-monitoring, kpi-dashboards, covenants, valuation, early-warning, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,13 +27,16 @@ starter_structure:
             - name: Portfolio company monitoring inventory
               description: |-
                 ## Purpose
-                Before any dashboard is worth building you need one record per portfolio company listing who owns the relationship, the closing date, the fund's ownership, the lenders and where the governing documents sit. Most teams find gaps here: a facilities agreement nobody saved, or a CFO who left and was never replaced in the contact list. Building the inventory first makes every later routine faster and catches missing documents while they are still easy to get.
+                Before any dashboard is worth building you need one record per portfolio company listing who owns the relationship, the closing date, the fund's ownership, the lenders and where the governing documents sit. Most teams find gaps here: a facilities agreement nobody saved, or a CFO who left and was never replaced in the contact list. Building the inventory first makes every later routine faster and catches missing documents while they are still easy to get. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page record for every portfolio company with deal lead, monitoring owner, ownership percentage and closing date.
                 2. The finance contacts at each company named, with a backup contact.
                 3. Links saved to the shareholders' agreement, facilities agreement, investment case model and latest budget.
                 4. Missing documents listed with the person asked to supply each one.
+
+                ## Notes
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -189,7 +192,7 @@ starter_structure:
                 - "Build covenant EBITDA from the defined add-backs, citing each clause"
                 - "Show headroom as both a percentage and an EBITDA cushion"
                 - "Reconcile the calculator to the latest compliance certificate"
-                - "Ask each company CFO to confirm the definitions you used"
+                - "Ask each company CFO to confirm the KPI definitions used"
             - name: Portfolio reporting calendar
               description: |-
                 ## Purpose
@@ -527,7 +530,7 @@ starter_structure:
                 - "Choose one portfolio facilities agreement to study clause by clause"
                 - "Write the covenant EBITDA definition and add-back caps in plain words"
                 - "Model an equity cure on the headroom calculator"
-                - "List your open questions and take them to fund counsel"
+                - "Portfolio ops lists open questions and takes them to fund counsel"
             - name: Cash conversion and working capital metrics
               description: |-
                 ## Purpose

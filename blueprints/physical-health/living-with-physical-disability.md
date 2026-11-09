@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Write it in the first person ("I transfer best from my left side") so it reads as instructions, not a medical summary.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -531,6 +531,9 @@ starter_structure:
                 2. A standard way to give feedback chosen and used, such as a quick end-of-shift check.
                 3. One difficult conversation, such as about lateness or rough handling, prepared and held.
                 4. The instructions tested with a new or occasional helper.
+
+                ## Notes
+                Rough handling, threats, neglect or someone taking your money is abuse, not a feedback issue. If you are in danger call your local emergency number; otherwise contact your local council's adult safeguarding team in the UK, Adult Protective Services in the US, or the equivalent where you live.
               priority: medium
               frontmatter:
                 mode: learning
@@ -1011,7 +1014,7 @@ starter_structure:
                 4. A three-month review held with your team on what to keep, change or chase.
 
                 ## Notes
-                Ask the discharge team for a named contact to ring in the first fortnight. It is the time most likely to go wrong.
+                Ask the discharge team for a named contact to ring in the first fortnight. It is the time most likely to go wrong. Low mood is common after a life-changing injury or diagnosis, so tell your team if it lasts; if you have thoughts of harming yourself, call your local emergency number or a crisis line straight away, such as Samaritans on 116 123 in the UK and Ireland or 988 in the US.
               priority: high
               deadlineOffsetDays: 90
               frontmatter:

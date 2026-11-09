@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Plan on the strain's management guide figures, then knock a little off peak lay and add a little to mortality. Plans built on the brochure's best flock run short of cash in month seven.
+
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

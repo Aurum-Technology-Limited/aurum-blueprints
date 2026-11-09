@@ -4,7 +4,7 @@ name: Local Content in Energy Contracting
 description: "Local content rules mapped, local status proven, prequalification held, partners chosen with care and a capability record that wins energy sector work for local firms and engineers."
 category: business
 version: 1.0.0
-tags: [engineering-practice, local-content-in-energy-contracting, engineer, small-business, local-content, prequalification, trinidad-and-tobago, guyana]
+tags: [engineering-practice, local-content-in-energy-contracting, engineer, small-business, local-content, prequalification, trinidad-and-tobago, guyana, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Local content rules map for your target markets
               description: |-
                 ## Purpose
-                Trinidad and Tobago works from a ministry local content policy and framework plus clauses in production sharing contracts and licences, while Guyana has a Local Content Act with a secretariat, a register and reserved service categories. Most small firms know these rules only by rumour, so a one-page map per market, with sources, stops you bidding on the wrong assumptions.
+                Trinidad and Tobago works from a ministry local content policy and framework plus clauses in production sharing contracts and licences, while Guyana has a Local Content Act with a secretariat, a register and reserved service categories. Most small firms know these rules only by rumour, so a one-page map per market, with sources, stops you bidding on the wrong assumptions. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page summary for each target market naming the governing law, policy or contract clause and where to read the current text.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Rules change by regulation and by contract, so treat the map as a dated snapshot and check anything material with the regulator or a lawyer before you rely on it.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

@@ -4,7 +4,7 @@ name: Rising Generation Leadership Roles
 description: "A clear route for young adults into family governance: observer seats, a junior board, committee roles and mentors, with written rules for eligibility, voting and the step up to full responsibility."
 category: personal
 version: 1.0.0
-tags: [family-office, rising-generation-leadership-roles, parent, student, next-generation, junior-board, mentoring, family-governance]
+tags: [family-office, rising-generation-leadership-roles, parent, student, next-generation, junior-board, mentoring, family-governance, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Rising generation roster and readiness map
               description: |-
                 ## Purpose
-                Most families can name their grandchildren but not say which of them are eighteen next year, which are at university abroad and which have asked about the family business. A single roster with age, location, studies, interests and any governance contact so far turns a vague hope about the next generation into a list of people the family can actually plan seats for.
+                Most families can name their grandchildren but not say which of them are eighteen next year, which are at university abroad and which have asked about the family business. A single roster with age, location, studies, interests and any governance contact so far turns a vague hope about the next generation into a list of people the family can actually plan seats for. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A roster of every member of the rising generation aged fourteen and over, by branch, with date of birth and current location.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Keep the readiness grouping descriptive, not a ranking. The roster will be seen by parents across branches, and a column that reads as a league table causes more harm than the missing information.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

@@ -4,7 +4,7 @@ name: Strategic Bets Prioritisation
 description: "A full list of what you are funding, criteria the leadership team agrees on, staged funding and kill criteria for every bet, and a habit of stopping work as deliberately as you start it."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, strategic-bets-prioritisation, manager, enterprise, prioritisation, trade-offs, resource-allocation, stop-decisions]
+tags: [strategy-leadership, strategic-bets-prioritisation, manager, enterprise, prioritisation, trade-offs, resource-allocation, stop-decisions, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Full inventory of funded initiatives
               description: |-
                 ## Purpose
-                Most leadership teams cannot name every initiative they are paying for, because work started in one budget cycle quietly survives into the next. A single list of everything that consumes discretionary money or named people is the precondition for every trade-off that follows, since you cannot stop what you cannot see.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most leadership teams cannot name every initiative they are paying for, because work started in one budget cycle quietly survives into the next. A single list of everything that consumes discretionary money or named people is the precondition for every trade-off that follows, since you cannot stop what you cannot see.
 
                 ## Milestones
                 1. One list holding every initiative above an agreed size threshold, with its sponsor, start date and stated purpose.

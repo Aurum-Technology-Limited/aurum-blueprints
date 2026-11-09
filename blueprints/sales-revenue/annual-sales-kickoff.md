@@ -4,7 +4,7 @@ name: Annual Sales Kickoff
 description: "The yearly sales kickoff planned end to end: outcomes, budget, venue and run-of-show, the targets reveal, product training, the awards night and the follow-through that keeps the message alive all year."
 category: business
 version: 1.0.0
-tags: [sales-revenue, annual-sales-kickoff, manager, enterprise, team, sales-kickoff, event-planning, sales-awards]
+tags: [sales-revenue, annual-sales-kickoff, manager, enterprise, team, sales-kickoff, event-planning, sales-awards, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Kickoff purpose and three measurable outcomes
               description: |-
                 ## Purpose
-                Without three written outcomes, every executive adds a session and the kickoff turns into a two-day slide marathon. Agreeing what sellers should know, believe and do differently when they fly home, each with a way to check it sixty days later, gives the planning team a filter for every agenda request that follows.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Without three written outcomes, every executive adds a session and the kickoff turns into a two-day slide marathon. Agreeing what sellers should know, believe and do differently when they fly home, each with a way to check it sixty days later, gives the planning team a filter for every agenda request that follows.
 
                 ## Milestones
                 1. Three outcomes written, one each for knowledge, belief and behaviour.

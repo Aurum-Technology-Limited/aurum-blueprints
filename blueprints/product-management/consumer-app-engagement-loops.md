@@ -4,7 +4,7 @@ name: Consumer App Engagement Loops
 description: "A one-page map of your core loops, metrics that tell healthy use from compulsive use, an ethics charter, and the triggers, rewards and social mechanics that bring people back for good reasons."
 category: business
 version: 1.0.0
-tags: [product-management, consumer-app-engagement-loops, team, founder, creative, gamification, social-features, digital-wellbeing]
+tags: [product-management, consumer-app-engagement-loops, team, founder, creative, gamification, social-features, digital-wellbeing, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Core engagement loop map on one page
               description: |-
                 ## Purpose
-                Most consumer apps run on two or three loops, such as post, get a reaction, post again, or practise, see progress, practise again, yet few teams have ever drawn theirs. A one-page map of each loop's trigger, action, reward and the thing the user puts back in shows where people drop out of the cycle and gives every later debate a shared picture. Draw it before adding any new mechanic.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most consumer apps run on two or three loops, such as post, get a reaction, post again, or practise, see progress, practise again, yet few teams have ever drawn theirs. A one-page map of each loop's trigger, action, reward and the thing the user puts back in shows where people drop out of the cycle and gives every later debate a shared picture. Draw it before adding any new mechanic.
 
                 ## Milestones
                 1. Every loop the product depends on named, with no more than three treated as core.

@@ -4,7 +4,7 @@ name: Dependency Upgrades & Patching
 description: "A dependency inventory, an upgrade policy, an update bot that does not drown you and the weekly, monthly and quarterly routines that keep libraries, frameworks and runtimes current and patched fast."
 category: business
 version: 1.0.0
-tags: [software-engineering, dependency-upgrades-patching, engineer, team, dependencies, patching, vulnerabilities, upgrades]
+tags: [software-engineering, dependency-upgrades-patching, engineer, team, dependencies, patching, vulnerabilities, upgrades, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Dependency inventory across every repository
               description: |-
                 ## Purpose
-                You cannot patch what you do not know you run, and most teams discover their real dependency list during an incident. A single inventory of every repository, its package managers, runtimes, base images and direct dependencies turns the next advisory from a day of grepping into a five-minute lookup. Build it before anything else in this area, because every later routine reads from it.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. You cannot patch what you do not know you run, and most teams discover their real dependency list during an incident. A single inventory of every repository, its package managers, runtimes, base images and direct dependencies turns the next advisory from a day of grepping into a five-minute lookup. Build it before anything else in this area, because every later routine reads from it.
 
                 ## Milestones
                 1. Every active repository listed with its owner, language, package managers and runtime version.

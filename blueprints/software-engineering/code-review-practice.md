@@ -4,7 +4,7 @@ name: Code Review Practice
 description: "Written review guidelines, fast turnaround, small pull requests and comments that teach, plus the routines and skills that make reviews catch real problems for engineers and teams."
 category: business
 version: 1.0.0
-tags: [software-engineering, code-review-practice, engineer, team, pull-requests, peer-review, code-quality, feedback]
+tags: [software-engineering, code-review-practice, engineer, team, pull-requests, peer-review, code-quality, feedback, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Written code review guidelines for the team
               description: |-
                 ## Purpose
-                Most review friction comes from unspoken expectations: one reviewer blocks on naming, another approves anything that compiles, and authors cannot tell which standard applies today. A two-page guideline that says what reviews are for, what reviewers must check, what they should leave alone and how fast to respond gives everyone the same contract. Write it with the team rather than for them, so it describes the practice you want rather than one person's preferences.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most review friction comes from unspoken expectations: one reviewer blocks on naming, another approves anything that compiles, and authors cannot tell which standard applies today. A two-page guideline that says what reviews are for, what reviewers must check, what they should leave alone and how fast to respond gives everyone the same contract. Write it with the team rather than for them, so it describes the practice you want rather than one person's preferences.
 
                 ## Milestones
                 1. A draft guideline covering purpose, scope of a review, response time, approval rules and tone.
@@ -1084,7 +1084,7 @@ starter_structure:
             - name: Review evidence for audited change control
               description: |-
                 ## Purpose
-                Organisations under security or financial audits, such as SOC 2 or ISO 27001 attestations, must show that changes to production were reviewed by someone other than the author. Pulling that evidence by hand each audit is miserable; designing the review setup so evidence is a query away makes audits routine. Confirm the exact control wording with your compliance owner.
+                Organisations under security or financial audits, such as SOC 2 or ISO 27001 attestations, are usually expected to show that changes to production were reviewed by someone other than the author. Pulling that evidence by hand each audit is miserable; designing the review setup so evidence is a query away makes audits routine. Confirm the exact control wording with your compliance owner.
 
                 ## Milestones
                 1. The change management control wording obtained from the compliance owner.

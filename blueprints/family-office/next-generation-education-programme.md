@@ -4,7 +4,7 @@ name: Next-Generation Education Programme
 description: "A structured education programme for the family's children and young adults: age-based learning goals, money skills, governance training, outside work experience and yearly reviews."
 category: personal
 version: 1.0.0
-tags: [family-office, next-generation-education-programme, parent, rising-generation, financial-literacy, governance-training, work-experience, family-education]
+tags: [family-office, next-generation-education-programme, parent, rising-generation, financial-literacy, governance-training, work-experience, family-education, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Next-generation education programme charter
               description: |-
                 ## Purpose
-                Most families start educating their children about wealth with a single seminar and a good intention, then stop when the speaker leaves. A two-page charter that names the programme's purpose, who it serves, who sponsors it on the family council and how success will be judged turns a gesture into something the family will still be running in fifteen years.
+                Most families start educating their children about wealth with a single seminar and a good intention, then stop when the speaker leaves. A two-page charter that names the programme's purpose, who it serves, who sponsors it on the family council and how success will be judged turns a gesture into something the family will still be running in fifteen years. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A charter of two pages or fewer stating purpose, the age range served, the sponsor and the yearly budget owner.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Keep the outcomes about capability and character (can read a statement, knows how the trust works, has held an outside job) rather than about wealth figures. Link the charter to the family constitution if one exists.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:

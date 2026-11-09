@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 Start from the **Sleep review** template. Fill it in each morning from memory rather than checking the clock during the night, which feeds insomnia.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -735,7 +735,7 @@ starter_structure:
                 4. The final step reached, or the plan paused and reviewed with the doctor.
 
                 ## Notes
-                Do not reduce faster than agreed. If withdrawal effects are strong, the usual answer is to slow down with the doctor's help, not to abandon the plan.
+                Never stop or cut down on your own: some sleep medicines cause serious withdrawal effects if stopped suddenly, so every step should come from your prescriber. Do not reduce faster than agreed. If withdrawal effects are strong, the usual answer is to slow down with the doctor's help, not to abandon the plan.
               priority: medium
               deadlineOffsetDays: 120
               frontmatter:

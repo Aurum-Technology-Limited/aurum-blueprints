@@ -33,6 +33,9 @@ starter_structure:
                 2. The plant's main blocks (inlet, pretreatment, liquefaction, fractionation, storage, loading, utilities) marked on a site plot plan.
                 3. A glossary of at least twenty LNG terms written in your own words.
                 4. Three questions about the site layout answered by an experienced operator or engineer.
+
+                ## Notes
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

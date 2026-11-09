@@ -4,7 +4,7 @@ name: 100-Day Plans
 description: "A working hundred-day programme after an acquisition: charter and day-one readiness, governance and reporting packs, cash control, quick wins, key hires, finance upgrades and the early risks."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, 100-day-plans, knowledge-worker, manager, private-equity, post-acquisition, portfolio-operations, integration]
+tags: [private-equity-vc, 100-day-plans, knowledge-worker, manager, private-equity, post-acquisition, portfolio-operations, integration, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Hundred-day plan charter and scope
               description: |-
                 ## Purpose
-                Before the first workstream starts, the deal team and management need to agree what the hundred days are for: stabilising the business, landing the governance the new owner needs and starting two or three value levers, not delivering the whole investment case. A one-page charter with objectives, owners and what is deliberately out of scope stops the plan swelling into 200 actions that nobody finishes.
+                Before the first workstream starts, the deal team and management need to agree what the hundred days are for: stabilising the business, landing the governance the new owner needs and starting two or three value levers, not delivering the whole investment case. A one-page charter with objectives, owners and what is deliberately out of scope stops the plan swelling into 200 actions that nobody finishes. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page charter naming three to five objectives to be met by day 100.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Keep the charter separate from the value creation plan. The hundred days set up the machinery and the early fixes; the value creation plan runs for the whole hold.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -1111,7 +1113,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Agree your role in the programme with the deal partner and the CEO"
+                - "Agree each person's role in the programme with the deal partner and CEO"
                 - "Set a weekly hours budget for the portfolio company"
                 - "Schedule follow-ups with each diligence adviser on open findings"
                 - "Write a handover note for the portfolio team at day 100"

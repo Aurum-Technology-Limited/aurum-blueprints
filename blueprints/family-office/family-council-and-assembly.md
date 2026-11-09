@@ -4,7 +4,7 @@ name: Family Council and Assembly
 description: "A family council that meets, decides and writes things down, and a family assembly every branch actually attends: membership, elections, agendas, minutes and updates that reach everyone."
 category: personal
 version: 1.0.0
-tags: [family-office, family-council-and-assembly, parent, retiree, family-governance, family-meetings, minutes, elections]
+tags: [family-office, family-council-and-assembly, parent, retiree, family-governance, family-meetings, minutes, elections, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Family council terms of reference
               description: |-
                 ## Purpose
-                Without a written remit, a family council drifts into either rubber-stamping the family office or second-guessing the operating board. Two pages that say what the council decides, what it only recommends and what it simply hears about give every later meeting a boundary, and they are far easier to agree now than in the middle of a disagreement.
+                Without a written remit, a family council drifts into either rubber-stamping the family office or second-guessing the operating board. Two pages that say what the council decides, what it only recommends and what it simply hears about give every later meeting a boundary, and they are far easier to agree now than in the middle of a disagreement. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A draft listing the council's purpose, the matters it decides, the matters it recommends and the matters outside its remit.
@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Keep it short. The constitution says why the family governs itself; the terms of reference only say how this one body works. If the family has no constitution yet, note that the terms are provisional.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:

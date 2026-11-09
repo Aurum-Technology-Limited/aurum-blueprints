@@ -4,7 +4,7 @@ name: Model Validation and Model Risk
 description: "Model validation run as a craft: a model inventory and tiering, conceptual soundness and replication, benchmarks and outcomes analysis, findings that get fixed, ongoing monitoring and documentation a model risk team accepts."
 category: business
 version: 1.0.0
-tags: [quant-finance, model-validation-and-model-risk, researcher, knowledge-worker, model-risk, independent-validation, model-governance, model-monitoring]
+tags: [quant-finance, model-validation-and-model-risk, researcher, knowledge-worker, model-risk, independent-validation, model-governance, model-monitoring, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,18 +27,18 @@ starter_structure:
             - name: Written definition of what counts as a model
               description: |-
                 ## Purpose
-                Most model risk arguments start with whether a thing is a model at all: a pricing spreadsheet, a rules engine, a vendor score or a regression a researcher runs every Friday. A one-page definition, with worked examples of what is in and what is out, settles that argument once and decides what goes in the inventory and what gets validated.
+                Most model risk arguments start with whether a thing is a model at all: a pricing spreadsheet, a rules engine, a vendor score or a regression a researcher runs every Friday. A one-page definition, with worked examples of what is in and what is out, settles that argument once and decides what goes in the inventory and what gets validated. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A definition covering input data, a quantitative method and an output used for decisions.
                 2. Ten borderline examples from your own work classed as model, tool or calculation, each with a reason.
-                3. The definition checked against the guidance your firm follows, for example SR 11-7 in the US or SS1/23 in the UK.
+                3. The definition checked against the guidance your firm follows, for example SR 26-2 in the US (which replaced SR 11-7 in April 2026) or the PRA's SS1/23 in the UK.
                 4. The definition agreed by the model risk lead and filed where model owners can find it.
 
                 ## Notes
                 Err towards including borderline tools in the inventory with a low tier. A tool left out never gets looked at, while a low-tier entry costs little.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -48,7 +48,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "List ten tools you use that might or might not be models"
+                - "Each desk lead lists ten tools the team uses that might be models"
                 - "Draft a definition built on inputs, method and decision-relevant outputs"
                 - "Class each of the ten tools against the draft definition with a reason"
                 - "Ask the model risk lead to agree or amend the definition"
@@ -101,7 +101,7 @@ starter_structure:
                 effort_hours_estimate: "10"
               tasks:
                 - "Draft materiality, complexity and reliance criteria with a scoring scale"
-                - "Test the scoring on five models you know well"
+                - "Validation lead tests the scoring on five models the team knows well"
                 - "Score every inventory entry and assign a tier"
                 - "Send tier assignments to model owners for comment"
             - name: Model ownership and independence map
@@ -130,7 +130,7 @@ starter_structure:
             - name: Reading the model risk guidance your firm follows
               description: |-
                 ## Purpose
-                Validators who have never read the supervisory guidance end up arguing from habit, and model owners hear rules that do not exist. Working through the guidance your firm applies, for example SR 11-7, SS1/23 or the relevant European guide, and noting what it actually requires gives you firm ground in every review conversation.
+                Validators who have never read the supervisory guidance end up arguing from habit, and model owners hear rules that do not exist. Working through the guidance your firm applies, for example the US agencies' SR 26-2 (it replaced SR 11-7 in April 2026), the PRA's SS1/23 in the UK or the relevant European guide, and noting what it actually requires gives you firm ground in every review conversation.
 
                 ## Milestones
                 1. The guidance documents that apply to your firm identified with the compliance team.

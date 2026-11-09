@@ -4,7 +4,7 @@ name: Analytics Request Intake
 description: "A single front door for data questions, a decision-first form, prioritisation and turnaround targets, a request desk rota and a searchable library of past answers, so asks stop getting lost or answered twice."
 category: business
 version: 1.0.0
-tags: [data-analytics, analytics-request-intake, team, manager, request-queue, prioritisation, service-levels, answer-library]
+tags: [data-analytics, analytics-request-intake, team, manager, request-queue, prioritisation, service-levels, answer-library, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Map of where data requests arrive today
               description: |-
                 ## Purpose
-                Before designing anything, find out how questions actually reach the data team: direct messages, email threads, comments on dashboards, asides at the end of meetings and the occasional ticket. A two-week tally usually shows that more than half of requests skip any formal route and that a handful of senior requesters account for a large share. That picture decides where the front door has to be and who needs persuading to use it.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before designing anything, find out how questions actually reach the data team: direct messages, email threads, comments on dashboards, asides at the end of meetings and the occasional ticket. A two-week tally usually shows that more than half of requests skip any formal route and that a handful of senior requesters account for a large share. That picture decides where the front door has to be and who needs persuading to use it.
 
                 ## Milestones
                 1. Every channel that carried a data request in the last two weeks listed, with a rough count for each.

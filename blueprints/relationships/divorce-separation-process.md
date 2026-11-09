@@ -35,7 +35,7 @@ starter_structure:
                 ## Notes
                 Urgent usually means safety, money for the next few weeks and where the children sleep. Almost everything else, including who keeps the house, can wait for advice.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -61,7 +61,7 @@ starter_structure:
                 4. Any safety concern raised with your solicitor or mediator at the very first contact.
 
                 ## Notes
-                If you are in danger now, call your local emergency number. Planning a safe exit from a controlling relationship is covered in its own area; this project is about shaping the legal process around the risk.
+                If you are in danger now, call your local emergency number. Planning a safe exit from a controlling relationship is covered in its own area; this project is about shaping the legal process around the risk. Example helplines: the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -403,7 +403,7 @@ starter_structure:
                 4. A short list of signs that you need more help, shared with one trusted person.
 
                 ## Notes
-                Your lawyer is not your therapist, and using them as one is expensive. If you have thoughts of harming yourself, contact your doctor or a crisis line straight away.
+                Your lawyer is not your therapist, and using them as one is expensive. If you have thoughts of harming yourself or feel unable to keep yourself safe, call your local emergency number or a crisis line straight away, such as Samaritans on 116 123 (UK and Ireland) or 988 (US).
               priority: medium
               frontmatter:
                 mode: operating

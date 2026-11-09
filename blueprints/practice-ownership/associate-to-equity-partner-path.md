@@ -4,7 +4,7 @@ name: Associate to Equity Partner Path
 description: "Written partnership criteria, a clear ladder from associate to salaried and equity partner, buy-in terms people can afford, career conversations that keep good associates, and a fair route for those on the path."
 category: business
 version: 1.0.0
-tags: [practice-ownership, associate-to-equity-partner-path, small-business, manager, partnership, career-progression, retention, buy-in]
+tags: [practice-ownership, associate-to-equity-partner-path, small-business, manager, partnership, career-progression, retention, buy-in, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Reasons for offering a route to ownership
               description: |-
                 ## Purpose
-                Owners who open a partner track without agreeing why tend to make it either impossible to reach or too easy to grant. Writing down what the practice needs from new owners, whether that is succession, retention, more client capacity or capital, decides almost every later design choice. It also gives you a straight answer when an associate asks why the route exists.
+                Owners who open a partner track without agreeing why tend to make it either impossible to reach or too easy to grant. Writing down what the practice needs from new owners, whether that is succession, retention, more client capacity or capital, decides almost every later design choice. It also gives you a straight answer when an associate asks why the route exists. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page statement of the two or three reasons the practice is offering ownership, agreed by every current owner.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 If the honest reason is that a key associate has threatened to leave, say so in the owners' discussion. A route built around one person rarely survives the next candidate.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -45,8 +47,8 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Write your own three reasons for wanting new owners in the practice"
-                - "Ask each co-owner to write theirs separately before you compare"
+                - "Each owner writes three reasons for wanting new owners in the practice"
+                - "Managing partner collects each co-owner's reasons separately before comparing"
                 - "Hold an owners' meeting to agree a single statement"
                 - "File the agreed statement with the partnership papers"
             - name: Associate departures review of the last five years

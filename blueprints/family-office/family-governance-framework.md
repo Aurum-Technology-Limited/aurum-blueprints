@@ -4,7 +4,7 @@ name: Family Governance Framework
 description: "A governance framework a wealthy family can run: a readiness check, a map of family, business and office roles, forums with clear terms, written decision rights and voting rules, and a yearly review."
 category: personal
 version: 1.0.0
-tags: [family-office, family-governance-framework, parent, retiree, founder, family-governance, decision-rights, family-enterprise]
+tags: [family-office, family-governance-framework, parent, retiree, founder, family-governance, decision-rights, family-enterprise, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Family governance readiness assessment
               description: |-
                 ## Purpose
-                Before anyone drafts a rule, it helps to know why the family wants governance now: a founder turning 70, a second generation marrying, a sale offer, or simply decisions that keep stalling. A short readiness check, done through private conversations with each adult member, shows how much structure the family needs and how much appetite there is for it.
+                Before anyone drafts a rule, it helps to know why the family wants governance now: a founder turning 70, a second generation marrying, a sale offer, or simply decisions that keep stalling. A short readiness check, done through private conversations with each adult member, shows how much structure the family needs and how much appetite there is for it. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page list of the triggers that make governance urgent for this family.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Keep the interview notes confidential to whoever runs the check. People speak more freely when they know their words will not be quoted back at a family dinner.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

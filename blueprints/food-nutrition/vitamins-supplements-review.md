@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 Include products bought for other household members and anything kept at work, in the car or in a bag. Many pharmacies take back unwanted medicines and supplements for safe disposal.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -546,6 +546,8 @@ starter_structure:
 
                 ## Notes
                 Upper levels are set for healthy adults. A clinician may prescribe more for a diagnosed deficiency, under supervision, and that is a different situation.
+
+                If you are pregnant or trying to conceive, tell your midwife, doctor or pharmacist about every product. UK NHS advice is to take 400 micrograms of folic acid a day from before conception until 12 weeks of pregnancy (some people are advised a higher dose by their doctor), and to avoid supplements containing vitamin A (retinol) and fish liver oils, because too much vitamin A can harm an unborn baby.
               priority: medium
               frontmatter:
                 mode: learning

@@ -4,7 +4,7 @@ name: Technical Debt Paydown
 description: "A shared definition, a scored debt register, an agreed capacity share and the weekly and monthly routines that pay debt down steadily, for engineers, teams and managers."
 category: business
 version: 1.0.0
-tags: [software-engineering, technical-debt-paydown, engineer, team, manager, code-health, debt-register, prioritisation]
+tags: [software-engineering, technical-debt-paydown, engineer, team, manager, code-health, debt-register, prioritisation, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Shared definition of technical debt for the team
               description: |-
                 ## Purpose
-                Ask five engineers what counts as technical debt and you get five answers: ugly code, missing tests, an old framework, a product decision someone dislikes. Until the team agrees a one-page definition with examples of what is and is not debt, the register fills with opinions and the conversation with product never lands. Agreeing it first makes every later project faster to run.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Ask five engineers what counts as technical debt and you get five answers: ugly code, missing tests, an old framework, a product decision someone dislikes. Until the team agrees a one-page definition with examples of what is and is not debt, the register fills with opinions and the conversation with product never lands. Agreeing it first makes every later project faster to run.
 
                 ## Milestones
                 1. A one-page definition that describes debt as anything making future change slower, riskier or costlier than it needs to be.

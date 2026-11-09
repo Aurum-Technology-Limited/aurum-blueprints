@@ -4,7 +4,7 @@ name: OKR Setting and Tracking
 description: "Objectives and key results that trace back to strategy, a weekly and quarterly tracking rhythm teams actually keep, honest scoring, and the lessons that make each cycle better than the last."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, okr-setting-and-tracking, manager, team, enterprise, okrs, goal-setting, execution]
+tags: [strategy-leadership, okr-setting-and-tracking, manager, team, enterprise, okrs, goal-setting, execution, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: OKR readiness check before the first cycle
               description: |-
                 ## Purpose
-                OKRs fail most often in organisations that have no written strategy, no reliable numbers or no leader willing to sponsor them for at least four quarters. An honest two-week check of those three conditions tells you whether to launch now, fix a gap first, or start smaller with one team.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. OKRs fail most often in organisations that have no written strategy, no reliable numbers or no leader willing to sponsor them for at least four quarters. An honest two-week check of those three conditions tells you whether to launch now, fix a gap first, or start smaller with one team.
 
                 ## Milestones
                 1. The current strategy or annual priorities located in writing, or their absence noted.

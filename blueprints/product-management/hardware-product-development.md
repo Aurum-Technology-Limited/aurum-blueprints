@@ -4,7 +4,7 @@ name: Hardware Product Development
 description: "A device taken from one-page brief to shipped units: a target cost stack, stage gates from EVT to PVT, a chosen factory, certification by market, and the routines that keep BOM cost, parts and changes under control."
 category: business
 version: 1.0.0
-tags: [product-management, hardware-product-development, founder, team, engineer, manufacturing, certification, prototyping]
+tags: [product-management, hardware-product-development, founder, team, engineer, manufacturing, certification, prototyping, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -28,7 +28,7 @@ starter_structure:
             - name: Hardware product brief on one page
               description: |-
                 ## Purpose
-                Before any schematic or sketch, a hardware team needs one page that says who the device is for, what job it does, the target retail price, the first-year volume and the date it must be on shelves. Hardware punishes vague intent: a late change to size or battery life can scrap a tooled enclosure, so writing these down now is the cheapest change you will ever make.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before any schematic or sketch, a hardware team needs one page that says who the device is for, what job it does, the target retail price, the first-year volume and the date it must be on shelves. Hardware punishes vague intent: a late change to size or battery life can scrap a tooled enclosure, so writing these down now is the cheapest change you will ever make.
 
                 ## Milestones
                 1. A named target customer and the main use situation described in two sentences.
@@ -110,7 +110,7 @@ starter_structure:
 
                 ## Milestones
                 1. Launch markets listed in order, with the date each must open.
-                2. Required approvals named for each market (for example CE or UKCA in Europe and the UK, FCC in the US, ISED in Canada).
+                2. Required approvals named for each market (for example CE in the EU, UKCA or, for many product types, CE in Great Britain, FCC in the US, ISED in Canada).
                 3. Battery shipping tests and labelling needs noted if the device contains lithium cells.
                 4. Quotes and lead times received from at least two accredited test labs.
                 5. Test dates pencilled into the master schedule.

@@ -4,7 +4,7 @@ name: Sales Compensation Plan Design
 description: "A written pay philosophy, pay mix and measures by role, payout curves, crediting and clawback rules, a counsel-checked plan document and the yearly cycle that keeps sales incentives fair and affordable."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-compensation-plan-design, manager, founder, enterprise, commission, accelerators, incentive-pay]
+tags: [sales-revenue, sales-compensation-plan-design, manager, founder, enterprise, commission, accelerators, incentive-pay, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Sales compensation philosophy statement
               description: |-
                 ## Purpose
-                Before anyone argues about a commission rate, the business needs to say in writing what the plan is for: which behaviour it pays for, where it wants to sit against the market and how much of a seller's pay should be at risk. A one-page philosophy turns every later design argument into a check against agreed principles, and it is the document you reach for when a senior seller asks why the plan changed.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before anyone argues about a commission rate, the business needs to say in writing what the plan is for: which behaviour it pays for, where it wants to sit against the market and how much of a seller's pay should be at risk. A one-page philosophy turns every later design argument into a check against agreed principles, and it is the document you reach for when a senior seller asks why the plan changed.
 
                 ## Milestones
                 1. A one-page statement covering purpose, market position, pay at risk and what the plan will never reward.

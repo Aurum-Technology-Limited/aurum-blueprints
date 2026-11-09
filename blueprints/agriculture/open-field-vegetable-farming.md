@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Keep block numbers permanent even when you change what grows in them. Renumbering after a season breaks every record you have already kept.
+
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

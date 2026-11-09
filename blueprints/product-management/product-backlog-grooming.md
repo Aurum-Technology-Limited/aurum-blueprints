@@ -4,7 +4,7 @@ name: Product Backlog Grooming
 description: "A backlog that stays ordered, sized and current: one owner and ticket standards, weekly refinement and triage, splitting and estimation skills, clean-up decisions and situations from solo developers to platform teams."
 category: business
 version: 1.0.0
-tags: [product-management, product-backlog-grooming, team, engineer, backlog-refinement, agile, issue-tracking, definition-of-ready]
+tags: [product-management, product-backlog-grooming, team, engineer, backlog-refinement, agile, issue-tracking, definition-of-ready, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Backlog inventory and ticket count baseline
               description: |-
                 ## Purpose
-                Before changing anything, count what is actually there: how many open tickets, how old they are, how many have no description or no estimate, and how many nobody has touched in six months. A one-page baseline turns a vague sense that the backlog is a mess into numbers the team can agree to fix, and gives every later clean-up something to be measured against.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before changing anything, count what is actually there: how many open tickets, how old they are, how many have no description or no estimate, and how many nobody has touched in six months. A one-page baseline turns a vague sense that the backlog is a mess into numbers the team can agree to fix, and gives every later clean-up something to be measured against.
 
                 ## Milestones
                 1. An export of every open ticket with type, status, created date, last updated date and estimate.

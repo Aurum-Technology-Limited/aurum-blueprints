@@ -4,7 +4,7 @@ name: Deal Desk & Discount Approvals
 description: "An approval matrix and signed pricing authority, one intake route for exceptions, a weekly review board, precedent and exception logs, and the monthly leakage numbers that keep discounting fast and fair."
 category: business
 version: 1.0.0
-tags: [sales-revenue, deal-desk-discount-approvals, enterprise, manager, team, discounting, pricing-governance, approvals]
+tags: [sales-revenue, deal-desk-discount-approvals, enterprise, manager, team, discounting, pricing-governance, approvals, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Audit of the last two quarters of discounted deals
               description: |-
                 ## Purpose
-                Before writing any rules, find out what has actually been happening. Pulling every closed deal from the last two quarters with list price, signed price, terms and approver usually shows that a handful of sellers and approvers account for most of the discounting, and that many exceptions were never approved by anyone.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before writing any rules, find out what has actually been happening. Pulling every closed deal from the last two quarters with list price, signed price, terms and approver usually shows that a handful of sellers and approvers account for most of the discounting, and that many exceptions were never approved by anyone.
 
                 ## Milestones
                 1. A spreadsheet of every closed deal from the last two quarters with list price, net price and discount percentage.

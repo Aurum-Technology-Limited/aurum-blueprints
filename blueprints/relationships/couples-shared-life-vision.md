@@ -506,6 +506,8 @@ starter_structure:
 
                 ## Notes
                 If the same disagreement causes distress for months despite honest effort, a couples therapist can guide this exact conversation; that work belongs with a professional.
+
+                Couples counselling is generally not advised where one partner is afraid of or controlled by the other; individual specialist support is the safer route. If you feel afraid of your partner, contact a domestic abuse helpline, such as 0808 2000 247 in the UK or 1-800-799-7233 in the US.
               priority: medium
               frontmatter:
                 mode: learning

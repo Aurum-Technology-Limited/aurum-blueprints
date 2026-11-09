@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Leave iterative calculation off by default and switch it on only inside a model with a deliberate circularity switch. Silent iteration is how a broken interest calculation survives to committee.
+
+                Before you start: this plan is general information to help you organise decisions about money. It is not financial, investment, tax or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with a qualified, licensed adviser in yours. Investing and trading can lose money, and raising or managing other people's money is regulated in most countries.
               priority: medium
               deadlineOffsetDays: 7
               frontmatter:

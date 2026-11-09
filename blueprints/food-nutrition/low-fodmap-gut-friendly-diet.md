@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 If you have already cut out wheat or bread, say so. Coeliac testing needs gluten in the diet, and your doctor decides whether and how to put it back first.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -141,6 +141,8 @@ starter_structure:
 
                 ## Notes
                 Your dietitian may recommend a specific guide. Use theirs so you are both reading from the same data.
+
+                The best known lab-tested guide is the Monash University FODMAP Diet app, developed by the research team that created the diet.
               priority: medium
               deadlineOffsetDays: 14
               frontmatter:
@@ -186,6 +188,10 @@ starter_structure:
                 2. The elimination length agreed with your dietitian and an end date written in the calendar.
                 3. A success measure set, such as a set drop in average symptom score.
                 4. Stop rules written for what happens if symptoms do not improve or you lose weight unintentionally.
+
+                ## Notes
+
+                If you have ever had an eating disorder or disordered eating, tell your doctor and dietitian before you start, because cutting out whole food groups can restart restrictive patterns. Stop and ask for help if the food rules or the symptom scores start to feel distressing. Your national eating disorder charity (such as Beat in the UK) can help.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

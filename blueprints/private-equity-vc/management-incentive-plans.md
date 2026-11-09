@@ -4,7 +4,7 @@ name: Management Incentive Plans
 description: "A route from first principles to a signed management equity plan: instrument choice, pool sizing, sweet equity and the envy ratio, vesting and leaver terms, a register that stays reconciled, and a plan the team actually understands."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, management-incentive-plans, knowledge-worker, sweet-equity, management-equity, leaver-terms, vesting, envy-ratio]
+tags: [private-equity-vc, management-incentive-plans, knowledge-worker, sweet-equity, management-equity, leaver-terms, vesting, envy-ratio, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Written objectives for the management incentive plan
               description: |-
                 ## Purpose
-                Before anyone argues about percentages, the deal team should agree in writing what the plan is for: retaining five named people through exit, rewarding a specific value creation plan, or recruiting a missing CFO. A one-page objectives note settles later arguments about depth, vesting and ratchets because each term can be tested against it.
+                Before anyone argues about percentages, the deal team should agree in writing what the plan is for: retaining five named people through exit, rewarding a specific value creation plan, or recruiting a missing CFO. A one-page objectives note settles later arguments about depth, vesting and ratchets because each term can be tested against it. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page note naming the three or four outcomes the plan must drive.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Keep the note short. A plan that tries to reward everything ends up rewarding tenure rather than value.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -577,7 +579,7 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Map each term sheet item to its clause in the drafts"
-                - "List every mismatch you find"
+                - "Portfolio finance lists every mismatch found"
                 - "Raise the mismatches with counsel in one note"
                 - "Record sign-off once the drafts match"
             - name: House benchmark of management plan terms

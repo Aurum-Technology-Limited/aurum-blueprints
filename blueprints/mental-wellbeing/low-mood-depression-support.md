@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 A checklist is not a diagnosis. Its job is to help you describe what is happening to someone qualified to assess it.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -64,7 +64,7 @@ starter_structure:
                 4. One person told where the card is and what it is for.
 
                 ## Notes
-                If you are thinking about ending your life or are not sure you can keep yourself safe, contact emergency services or a crisis line now rather than finishing this project.
+                If you are thinking about ending your life or are not sure you can keep yourself safe, contact emergency services or a crisis line now rather than finishing this project. Crisis lines include Samaritans on 116 123 in the UK and Ireland and the 988 Suicide & Crisis Lifeline in the US (call or text 988).
               priority: high
               deadlineOffsetDays: 7
               frontmatter:

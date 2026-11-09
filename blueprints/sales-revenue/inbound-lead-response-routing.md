@@ -4,7 +4,7 @@ name: Inbound Lead Response & Routing
 description: "Every inbound channel mapped, a response standard by enquiry type, written routing rules, daily queue sweeps and weekly speed to lead reporting, so no enquiry waits and every source shows what it converts."
 category: business
 version: 1.0.0
-tags: [sales-revenue, inbound-lead-response-routing, small-business, team, manager, speed-to-lead, lead-routing, inbound-leads]
+tags: [sales-revenue, inbound-lead-response-routing, small-business, team, manager, speed-to-lead, lead-routing, inbound-leads, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Inbound channel inventory with an owner for each
               description: |-
                 ## Purpose
-                Enquiries rarely arrive through one door: the website form, a chat widget, a published phone number, a shared mailbox, social messages, marketplace listings and the odd old landing page nobody remembers building. Listing every one, where it lands and who sees it first is the only way to find the channels where leads currently sit unread for days.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Enquiries rarely arrive through one door: the website form, a chat widget, a published phone number, a shared mailbox, social messages, marketplace listings and the odd old landing page nobody remembers building. Listing every one, where it lands and who sees it first is the only way to find the channels where leads currently sit unread for days.
 
                 ## Milestones
                 1. A list of every inbound channel, including old forms, numbers and mailboxes still live.
@@ -663,7 +663,7 @@ starter_structure:
                 4. Any open questions taken to whoever advises the business on data protection.
 
                 ## Notes
-                This project organises what you need to ask. Take the final view from your data protection lead or legal adviser.
+                Examples of the rules in play are PECR and UK GDPR in the UK, and the TCPA for calls and texts and CAN-SPAM for email in the US. This project organises what you need to ask. Take the final view from your data protection lead or legal adviser.
               priority: medium
               frontmatter:
                 mode: learning

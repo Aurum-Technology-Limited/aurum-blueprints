@@ -4,7 +4,7 @@ name: Large-Scale Refactoring
 description: "A one-page target design, a safety net of tests, thin shippable slices behind flags, and the weekly routines that move a big restructuring forward without freezing feature delivery."
 category: business
 version: 1.0.0
-tags: [software-engineering, large-scale-refactoring, engineer, team, refactoring, codemods, feature-flags, incremental-change]
+tags: [software-engineering, large-scale-refactoring, engineer, team, refactoring, codemods, feature-flags, incremental-change, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: One-page target design for the refactor
               description: |-
                 ## Purpose
-                Big refactors drift when nobody can say in two sentences what the code should look like at the end. Writing a single page with the current structure, the target structure, the reason for the change and what is explicitly out of scope gives every later slice a direction to point in, and gives reviewers a way to say no to scope creep.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Big refactors drift when nobody can say in two sentences what the code should look like at the end. Writing a single page with the current structure, the target structure, the reason for the change and what is explicitly out of scope gives every later slice a direction to point in, and gives reviewers a way to say no to scope creep.
 
                 ## Milestones
                 1. A diagram of the current module structure and one of the target structure, side by side.

@@ -37,7 +37,9 @@ starter_structure:
                 ## Notes
                 If you have already cut gluten out, tell your doctor before the test. They may ask you to reintroduce it for several weeks first, and that is their call, not a guess.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                UK NICE guidance (NG20) advises eating some gluten in more than one meal every day for at least six weeks before the blood test, and carrying on eating gluten after a positive test until a specialist confirms the diagnosis.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -87,6 +89,10 @@ starter_structure:
                 2. Your three hardest situations, such as work lunches or travel, listed for discussion.
                 3. The dietitian's advice on nutrients, oats and follow-up written into one page.
                 4. A follow-up appointment booked or a reason recorded for not needing one.
+
+                ## Notes
+
+                A strict lifelong diet can tip into anxiety about food for some people. If you have ever had an eating disorder, or eating starts to feel frightening or very narrow, tell your dietitian or doctor. Your national eating disorder charity (such as Beat in the UK) can also help.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:

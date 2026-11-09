@@ -4,7 +4,7 @@ name: Nonprofit Fund Accounting
 description: "A fund register, restriction terms on file, fund-coded books, monthly roll-forwards, grant budget tracking, funder and trustee reporting, a reserves policy and the annual filings that keep a charity accountable."
 category: business
 version: 1.0.0
-tags: [finance-accounting, nonprofit-fund-accounting, nonprofit, manager, team, restricted-funds, grant-reporting, charity]
+tags: [finance-accounting, nonprofit-fund-accounting, nonprofit, manager, team, restricted-funds, grant-reporting, charity, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Fund register of every restricted and unrestricted fund
               description: |-
                 ## Purpose
-                Every pound or dollar a nonprofit holds belongs to a fund, and most fund accounting problems start because nobody has a single list of what those funds are. A register naming each fund, its type, its source, its purpose wording, its end date and its current balance becomes the reference that coding, reporting and the annual accounts all hang from.
+                Every pound or dollar a nonprofit holds belongs to a fund, and most fund accounting problems start because nobody has a single list of what those funds are. A register naming each fund, its type, its source, its purpose wording, its end date and its current balance becomes the reference that coding, reporting and the annual accounts all hang from. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every active fund listed with a short code, a name and its type: unrestricted, designated, restricted income or endowment.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Keep fund types to the categories your accounting framework uses. Inventing extra categories makes the annual funds note harder, not easier.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -1189,4 +1189,4 @@ starter_structure:
 
 This area is for the finance manager, bookkeeper or volunteer treasurer of a charity or nonprofit, and the small finance team behind them, who have to show that every restricted gift and grant was spent as promised. It runs from foundations (a fund register, restriction documents, fund coding, opening balances and the policies behind them), through the monthly and quarterly routines, the skills of reading frameworks and grant terms, decisions on reserves, overheads and systems, the dated moments of year-end, filing and grant close-out, situations such as a new treasurer, a first big grant or a merger, and finally specialist work on endowments, trading subsidiaries and social investment.
 
-What repeats is steady rather than heavy: a weekly donation batch, a monthly fund close with roll-forward, grant budget checks, payroll allocations, free reserves and gifts in kind updates and a funder deadline check, then quarterly transfers, donor tax relief claims, interest allocations and trustee reports, and a yearly round of filings, receipts and policy reviews. The Month-end close, Board meeting, Risk register, Purchase decision, Operational checklist and Remediation plan templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is steady rather than heavy: a weekly donation batch, a monthly fund close with roll-forward, grant budget checks, payroll allocations, free reserves and gifts in kind updates and a funder deadline check, then quarterly transfers, donor tax relief claims, interest allocations and trustee reports, and a yearly round of filings, receipts and policy reviews. The Month-end close, Board meeting, Risk register, Purchase decision, Operational checklist and Remediation plan templates pair with the projects that name them. In a shared workspace, the finance lead or treasurer keeps the fund records, programme staff confirm spending against restrictions and the trustees or board approve the accounts with the independent examiner or auditor, following the regulator's official guidance where you are registered. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

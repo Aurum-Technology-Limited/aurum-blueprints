@@ -4,7 +4,7 @@ name: Value Creation Plans
 description: "Turn an investment thesis into a value creation plan with sized levers, named owners, milestones and leading indicators, then track it monthly and report slips honestly."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, value-creation-plans, knowledge-worker, manager, private-equity, portfolio-operations, ebitda-bridge, initiative-tracking]
+tags: [private-equity-vc, value-creation-plans, knowledge-worker, manager, private-equity, portfolio-operations, ebitda-bridge, initiative-tracking, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Value creation hypotheses drawn from the IC memo
               description: |-
                 ## Purpose
-                An approved IC memo usually promises four to eight sources of value, scattered across the thesis, the model and the diligence findings. Pulling each one out as a testable hypothesis with its assumed EBITDA or cash effect gives the plan a starting list that the committee has already signed up to, rather than a fresh wish list written after closing.
+                An approved IC memo usually promises four to eight sources of value, scattered across the thesis, the model and the diligence findings. Pulling each one out as a testable hypothesis with its assumed EBITDA or cash effect gives the plan a starting list that the committee has already signed up to, rather than a fresh wish list written after closing. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every value claim in the final IC memo and model listed as a separate hypothesis.
@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Keep the language of the memo. If the base case assumed 200 basis points of gross margin from procurement, the hypothesis says exactly that, so later tracking compares like with like.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -1052,7 +1054,7 @@ starter_structure:
               tasks:
                 - "Summarise information and consent rights from the shareholder agreement"
                 - "Ask the founders which three outcomes matter most to them this year"
-                - "Write the specific support your firm will offer"
+                - "Portfolio ops writes the specific support the firm will offer"
                 - "Hold the quarterly priorities check-in with the founders @recurring(quarterly)"
             - name: Recovery plan when the business misses the base case
               description: |-

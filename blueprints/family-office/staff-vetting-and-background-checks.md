@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Start from the **Risk register** template. Walk each property with the house manager rather than working from the payroll, since contractors and friends of staff rarely appear on it.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -343,7 +345,7 @@ starter_structure:
                 - "Set a re-check interval for each tier"
                 - "Write each staff member's next re-check date into the register"
                 - "Order the re-checks due this month @recurring(monthly:12)"
-                - "Refresh criminal record checks for tier one staff @recurring(yearly)"
+                - "Refresh criminal record checks for tier one staff where the law allows @recurring(yearly)"
             - name: Contractor and tradesperson access control
               description: |-
                 ## Purpose

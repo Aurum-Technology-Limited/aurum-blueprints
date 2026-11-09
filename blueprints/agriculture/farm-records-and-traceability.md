@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Keep codes short and never reuse one for a different piece of ground. If a block is split later, add a letter (B3a, B3b) instead of renumbering.
+
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

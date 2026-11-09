@@ -112,7 +112,7 @@ starter_structure:
                 4. A date set to talk again about how the feelings have shifted.
 
                 ## Notes
-                If low mood, poor sleep or loss of interest lasts for weeks, mention it to your doctor. Sadness in a quiet house is common, but it is worth having checked if it settles in.
+                If low mood, poor sleep or loss of interest lasts for weeks, mention it to your doctor. Sadness in a quiet house is common, but it is worth having checked if it settles in. If you ever think of harming yourself, call a crisis line such as Samaritans on 116 123 (UK and Ireland) or 988 (US).
               priority: medium
               frontmatter:
                 mode: building
@@ -1060,7 +1060,7 @@ starter_structure:
                 4. A first appointment booked if any of the signs are present.
 
                 ## Notes
-                If either partner feels unsafe or controlled, contact a domestic abuse helpline rather than starting joint counselling.
+                If either partner feels unsafe or controlled, contact a domestic abuse helpline rather than starting joint counselling (for example 0808 2000 247 in the UK, or 1-800-799-7233 in the US), and call your local emergency number if you are in danger.
               priority: medium
               frontmatter:
                 mode: research

@@ -4,7 +4,7 @@ name: Buy-Side M&A Mandates
 description: "A buy-side advisory routine: acquisition criteria, target screens and profiles, approach plans, bid authority and offer letters, diligence and red flags, certainty of funds and the push to signing."
 category: business
 version: 1.0.0
-tags: [investment-banking, buy-side-m-and-a-mandates, knowledge-worker, analyst, associate, buy-side, acquisitions, bid-tactics]
+tags: [investment-banking, buy-side-m-and-a-mandates, knowledge-worker, analyst, associate, buy-side, acquisitions, bid-tactics, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Anatomy of a buy-side mandate from three past deals
               description: |-
                 ## Purpose
-                Juniors often arrive on a buy-side mandate having only seen sale processes, and spend the first fortnight working the wrong way round. Reading the files of three past buy-side deals from your group, ideally one won, one lost in an auction and one that never reached a bid, shows how the work really flows from criteria to screen to approach to bid, and where the hours went.
+                Juniors often arrive on a buy-side mandate having only seen sale processes, and spend the first fortnight working the wrong way round. Reading the files of three past buy-side deals from your group, ideally one won, one lost in an auction and one that never reached a bid, shows how the work really flows from criteria to screen to approach to bid, and where the hours went. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Three past buy-side deal files identified with an associate, covering a win, a loss and a deal that stopped early.

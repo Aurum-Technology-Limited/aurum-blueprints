@@ -4,7 +4,7 @@ name: Signing to Closing Workstreams
 description: "The period between signing and closing, run like a programme: conditions precedent and filings tracked, interim covenants respected, funds flow rehearsed, closing checklists turned and announcements ready on the day."
 category: business
 version: 1.0.0
-tags: [investment-banking, signing-to-closing-workstreams, knowledge-worker, analyst, associate, conditions-precedent, funds-flow, closing]
+tags: [investment-banking, signing-to-closing-workstreams, knowledge-worker, analyst, associate, conditions-precedent, funds-flow, closing, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: One-page signing to closing timetable
               description: |-
                 ## Purpose
-                Every adviser on a signed deal carries a different idea of when closing will happen, and the client usually believes the most optimistic one. A single page showing signing, each filing, the expected clearance windows, the shareholder vote if any, the target closing date and the long-stop date gives everyone the same picture and makes slippage visible the week it starts.
+                Every adviser on a signed deal carries a different idea of when closing will happen, and the client usually believes the most optimistic one. A single page showing signing, each filing, the expected clearance windows, the shareholder vote if any, the target closing date and the long-stop date gives everyone the same picture and makes slippage visible the week it starts. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page timetable with every dated step from signing to closing and the long-stop date.

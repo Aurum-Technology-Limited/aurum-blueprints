@@ -187,7 +187,7 @@ starter_structure:
                 4. A sick-child plan agreed: which parent stays home first, and for how long.
 
                 ## Notes
-                Most holiday clubs exclude children for 48 hours after sickness or diarrhoea. Plan for two lost days, not one.
+                Most holiday clubs exclude children until 48 hours after the last bout of vomiting or diarrhoea. Plan for two lost days, not one.
               priority: high
               frontmatter:
                 mode: building

@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Start from the **Metrics log** template. A score is a tracking tool, not a diagnosis; if loneliness sits alongside persistent low mood, raise both with your doctor.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -158,7 +158,7 @@ starter_structure:
                 4. The friendship line called once on an ordinary day so it feels familiar.
 
                 ## Notes
-                If loneliness ever turns into thoughts of not wanting to be alive, call your crisis line or emergency number straight away.
+                If loneliness ever turns into thoughts of not wanting to be alive, call your crisis line or emergency number straight away. Crisis lines include Samaritans on 116 123 in the UK and Ireland and the 988 Suicide & Crisis Lifeline in the US (call or text 988).
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -176,7 +176,7 @@ starter_structure:
             - name: Daily check-in arrangement for living alone
               description: |-
                 ## Purpose
-                For anyone living alone, and especially for older people, one quiet fear is falling ill and nobody noticing for days. Agreeing a simple daily signal with a friend, relative or neighbour, a morning text or curtains opened by nine, gives reassurance on both sides and a guaranteed small contact every day.
+                For anyone living alone, and especially for older people, one quiet fear is falling ill and nobody noticing for days. Agreeing a simple daily signal with a friend, relative or neighbour, a morning text or curtains opened by nine, gives reassurance on both sides and a reliable small contact every day.
 
                 ## Milestones
                 1. One person agreed as your daily check-in partner, with a back-up named.

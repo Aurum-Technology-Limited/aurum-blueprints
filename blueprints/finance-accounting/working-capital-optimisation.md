@@ -4,7 +4,7 @@ name: Working Capital Optimisation
 description: "A measured cash conversion cycle, registers of real customer and supplier terms, stock cover by product, and the monthly routines and term, stock and finance decisions that free cash from the balance sheet."
 category: business
 version: 1.0.0
-tags: [finance-accounting, working-capital-optimisation, small-business, manager, enterprise, cash-conversion-cycle, payment-terms, stock-cover]
+tags: [finance-accounting, working-capital-optimisation, small-business, manager, enterprise, cash-conversion-cycle, payment-terms, stock-cover, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Cash conversion cycle baseline
               description: |-
                 ## Purpose
-                Working capital conversations go round in circles until everyone is looking at the same three numbers: debtor days, stock days and creditor days, and the cycle they add up to. Calculating them from the last twelve months of accounts, month by month, shows how many days of trading your cash is locked up for and which of the three levers is doing the most damage.
+                Working capital conversations go round in circles until everyone is looking at the same three numbers: debtor days, stock days and creditor days, and the cycle they add up to. Calculating them from the last twelve months of accounts, month by month, shows how many days of trading your cash is locked up for and which of the three levers is doing the most damage. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Debtor days, stock days and creditor days calculated for each of the last twelve month ends.
@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 Use the same method every time. If sales are seasonal, the count-back method for debtor days gives a truer picture than a simple annual average.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -1203,4 +1203,4 @@ starter_structure:
 
 This area is for anyone whose business looks profitable on paper but never seems to have the cash, from an owner with a warehouse of slow stock and customers on sixty days to a finance lead asked to release a number from the balance sheet by the year end. It opens with the foundations (a cash conversion cycle baseline, a map of where cash sits, and registers of the terms you actually give and get), then the monthly and weekly machinery that holds the gains, the skills behind terms, stock planning and trade finance, decisions on terms, deposits, ranges, factoring and supplier finance, dated moments such as a cash release sprint or a seasonal stock build, situations for growing firms, contractors, stockists and groups, and finally specialist work on benchmarks, deal pegs and statistical safety stock.
 
-What repeats is a weekly cash and stock huddle and a weekly purchase order check, a monthly dashboard with invoice lag, early payment and slow stock reviews around it, quarterly terms audits and leadership reports, and a yearly reset of targets in the budget. The Metrics log, Vendor, Purchase decision and Operational checklist templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a weekly cash and stock huddle and a weekly purchase order check, a monthly dashboard with invoice lag, early payment and slow stock reviews around it, quarterly terms audits and leadership reports, and a yearly reset of targets in the budget. The Metrics log, Vendor, Purchase decision and Operational checklist templates pair with the projects that name them. In a shared workspace, the finance lead runs the programme, credit control, purchasing and operations own their levers, and financing or accounting questions go to a qualified accountant or adviser. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

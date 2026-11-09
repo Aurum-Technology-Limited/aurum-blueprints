@@ -36,7 +36,9 @@ starter_structure:
                 ## Notes
                 Fermenting and canning carry different risks. Fermented vegetables rely on salt and the acidity bacteria build; canned food relies on acid plus heat. A recipe that is safe for one method is not automatically safe for the other.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Examples of tested sources include the USDA Complete Guide to Home Canning and the US National Center for Home Food Preservation. Add garlic, herbs or chillies in oil to your house rules too: they can carry botulism at room temperature, so make them fresh, keep them in the fridge and use within a few days, or freeze them, unless you follow a tested acidified recipe.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

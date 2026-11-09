@@ -4,7 +4,7 @@ name: Coding Standards & Linting
 description: "A formatter and linter in every repo, a short style guide for what tools cannot check, CI gates, a ratchet for legacy warnings and the habits that keep the rules earning their keep."
 category: business
 version: 1.0.0
-tags: [software-engineering, coding-standards-linting, engineer, team, linting, code-formatting, style-guide, static-analysis]
+tags: [software-engineering, coding-standards-linting, engineer, team, linting, code-formatting, style-guide, static-analysis, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Inventory of linters and formatters in every repository
               description: |-
                 ## Purpose
-                Most teams discover they run three different formatter versions and a linter nobody has configured since the repo was created. A one-page inventory of what each repository actually runs, locally and in CI, shows where the gaps and contradictions are before anyone proposes new rules.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most teams discover they run three different formatter versions and a linter nobody has configured since the repo was created. A one-page inventory of what each repository actually runs, locally and in CI, shows where the gaps and contradictions are before anyone proposes new rules.
 
                 ## Milestones
                 1. Every active repository listed with its languages and the formatter, linter and type checker it uses, including versions.

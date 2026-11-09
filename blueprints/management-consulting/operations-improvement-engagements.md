@@ -4,7 +4,7 @@ name: Operations Improvement Engagements
 description: "Deliver operations improvement for a client: a measured baseline, process walks and value stream maps, bottleneck and loss analysis, pilots run on the floor with supervisors, and a handover client owners can run."
 category: business
 version: 1.0.0
-tags: [management-consulting, operations-improvement-engagements, knowledge-worker, lean, value-stream-mapping, bottleneck-analysis, process-improvement, shop-floor]
+tags: [management-consulting, operations-improvement-engagements, knowledge-worker, lean, value-stream-mapping, bottleneck-analysis, process-improvement, shop-floor, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Operations scope and KPI definitions agreed
               description: |-
                 ## Purpose
-                Operations engagements go wrong early when the client says throughput and means good units shipped, while the team measures units started. Agreeing in the first week which process steps are in scope, which three to five KPIs define success and exactly how each is calculated stops a month of arguments about whose number is right.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Operations engagements go wrong early when the client says throughput and means good units shipped, while the team measures units started. Agreeing in the first week which process steps are in scope, which three to five KPIs define success and exactly how each is calculated stops a month of arguments about whose number is right.
 
                 ## Milestones
                 1. The in-scope value streams, sites and shifts listed, with the explicit exclusions beside them.

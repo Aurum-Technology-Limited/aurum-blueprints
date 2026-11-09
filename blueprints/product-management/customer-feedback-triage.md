@@ -4,7 +4,7 @@ name: Customer Feedback Triage
 description: "One inbox for feedback from support, sales, reviews, surveys and interviews, a tagging taxonomy people apply the same way, a weekly triage habit and monthly themes that reach the roadmap, for product teams and small businesses."
 category: business
 version: 1.0.0
-tags: [product-management, customer-feedback-triage, team, small-business, voice-of-customer, feedback-tagging, support-insights, customer-insights]
+tags: [product-management, customer-feedback-triage, team, small-business, voice-of-customer, feedback-tagging, support-insights, customer-insights, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Inventory of every place feedback arrives
               description: |-
                 ## Purpose
-                Feedback usually lives in six or more places at once: the help desk, sales call notes, app store reviews, survey comments, a shared inbox, chat channels and the founder's head. Listing every source, who owns it and roughly how much arrives each month shows where signal is being lost before you build anything to catch it.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Feedback usually lives in six or more places at once: the help desk, sales call notes, app store reviews, survey comments, a shared inbox, chat channels and the founder's head. Listing every source, who owns it and roughly how much arrives each month shows where signal is being lost before you build anything to catch it.
 
                 ## Milestones
                 1. A list of every feedback source, including informal ones such as direct messages and conversations at events.

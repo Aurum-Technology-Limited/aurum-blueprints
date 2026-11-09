@@ -4,7 +4,7 @@ name: RFP Response Management
 description: "A bid or no-bid rubric, one intake route, a maintained answer library, compliance matrices and colour team reviews, plus the debriefs and win-rate numbers that make every RFP response sharper than the last."
 category: business
 version: 1.0.0
-tags: [sales-revenue, rfp-response-management, enterprise, agency, team, rfp, bid-management, proposal-library, tenders]
+tags: [sales-revenue, rfp-response-management, enterprise, agency, team, rfp, bid-management, proposal-library, tenders, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Audit of the last twelve months of RFP bids
               description: |-
                 ## Purpose
-                Most teams have a feeling about their RFP win rate and no figure. Listing every request received in the last year, whether you bid, what it cost in hours and what happened, usually shows that a few kinds of bid win most of the revenue while the rest absorb weeks of effort for nothing.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most teams have a feeling about their RFP win rate and no figure. Listing every request received in the last year, whether you bid, what it cost in hours and what happened, usually shows that a few kinds of bid win most of the revenue while the rest absorb weeks of effort for nothing.
 
                 ## Milestones
                 1. A spreadsheet of every RFP, RFI and RFQ received in the last twelve months, with buyer, value and due date.

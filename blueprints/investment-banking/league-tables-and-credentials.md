@@ -4,7 +4,7 @@ name: League Tables and Credentials
 description: "Deal credentials you can defend: a clean deal record for every mandate, league table submissions on time, tombstones and credentials pages that match the record, and consent and compliance checks before anything is shown."
 category: business
 version: 1.0.0
-tags: [investment-banking, league-tables-and-credentials, knowledge-worker, analyst, associate, league-tables, tombstones, deal-records]
+tags: [investment-banking, league-tables-and-credentials, knowledge-worker, analyst, associate, league-tables, tombstones, deal-records, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -24,7 +24,7 @@ starter_structure:
             - name: How league table providers compile their rankings
               description: |-
                 ## Purpose
-                Juniors often treat a league table as a fact, when it is the output of one provider's eligibility rules, credit rules, value definitions and cut-off dates. Reading the published criteria of the two or three providers your group quotes explains why the bank can be third in one table and ninth in another for the same quarter, and stops you promising a ranking that the rules will not give.
+                Juniors often treat a league table as a fact, when it is the output of one provider's eligibility rules, credit rules, value definitions and cut-off dates. Reading the published criteria of the two or three providers your group quotes explains why the bank can be third in one table and ninth in another for the same quarter, and stops you promising a ranking that the rules will not give. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The published league table criteria of each provider your group uses saved in one folder.
@@ -218,14 +218,14 @@ starter_structure:
                 - "Write approved role wording for each product the group works on"
                 - "Set the value and date format and the order of lines"
                 - "Check the style guide against the latest firm brand rules @recurring(yearly)"
-            - name: Your own deal list with your actual role
+            - name: Team deal list with each banker's actual role
               description: |-
                 ## Purpose
-                Two years in, most bankers cannot say exactly which deals they worked on, what closed, and what they personally built, and that list matters for reviews, promotions and any later move. Keeping your own record of each deal, your role on it and the public facts only, inside firm policy, means you never have to reconstruct it from memory.
+                Two years in, most bankers cannot say exactly which deals they worked on, what closed, and what they personally built, and that list matters for reviews, promotions and any later move. Keeping a team record of each deal, each banker's role on it and the public facts only, inside firm policy, means nobody has to reconstruct it from memory.
 
                 ## Milestones
-                1. Every deal and live pitch you have worked on listed with its status.
-                2. Your role on each written in a line: the model, the information memorandum, the data room, the buyer list.
+                1. Every deal and live pitch the team has worked on listed with its status.
+                2. Each banker's role on each written in a line: the model, the information memorandum, the data room, the buyer list.
                 3. Only public information kept, with non-public deals described in generic terms.
                 4. The list checked against firm policy on what staff may keep outside firm systems.
 
@@ -236,14 +236,14 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A personal deal list covering every deal and pitch you worked on, each with your role in one line, compliant with firm policy."
+                success_criteria: "A team deal list covering every deal and pitch, each with every banker's role in one line, compliant with firm policy."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "List every deal and pitch you have worked on from your calendar and folders"
-                - "Write your own role on each deal in one line"
+                - "Each banker lists the deals and pitches they worked on from calendars and folders"
+                - "Each banker writes their own role on each deal in one line"
                 - "Replace names on unannounced deals with sector and size band"
-                - "Read the firm policy on personal records and adjust the list to fit it"
+                - "Compliance checks the list against firm policy on staff records"
             - name: Closing capture routine for newly completed deals
               description: |-
                 ## Purpose
@@ -416,25 +416,25 @@ starter_structure:
                 - "Send each deal lead their deals to confirm @recurring(yearly)"
                 - "Check final provider submissions against the signed list"
                 - "Archive the signed list with the provider confirmations"
-            - name: Monthly upkeep of your personal deal list
+            - name: Monthly upkeep of the team deal list
               description: |-
                 ## Purpose
                 Updated once a year, a deal list is mostly guesswork about who built which model in March. Ten minutes at the end of each month, adding new deals, status changes and what you did, keeps the list ready for a mid-year review or a staffing conversation without a weekend of reconstruction.
 
                 ## Milestones
                 1. New deals and pitches from the month added with status.
-                2. Your role on each new item written in a line while it is fresh.
+                2. Each banker's role on each new item written in a line while it is fresh.
                 3. Deals that signed, closed, priced or died updated.
                 4. Any item that has since become public renamed from its generic description.
               priority: low
               frontmatter:
                 mode: operating
                 output_kind: habit
-                success_criteria: "The personal deal list shows an update in each of the last six months, with roles written for every new item."
+                success_criteria: "The team deal list shows an update in each of the last six months, with roles written for every new item."
                 cadence: rolling
               tasks:
-                - "Add this month's deals and pitches to your deal list @recurring(monthly:28)"
-                - "Write your role on each new item in one line"
+                - "Analysts add this month's deals and pitches to the team deal list @recurring(monthly:28)"
+                - "Each banker writes their role on each new item in one line"
                 - "Update the status of deals that signed, closed or died"
                 - "Rename items that have become public since last month"
             - name: Disputed credit log with each provider

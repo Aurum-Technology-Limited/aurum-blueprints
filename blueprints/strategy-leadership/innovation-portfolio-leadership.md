@@ -4,7 +4,7 @@ name: Innovation Portfolio Leadership
 description: "A clear mandate, a ring-fenced pool, staged funding gates and a venture board, plus the review rhythm, evidence skills and protections that let new bets grow beside the core business."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, innovation-portfolio-leadership, manager, enterprise, innovation, venture-building, experimentation, stage-gate]
+tags: [strategy-leadership, innovation-portfolio-leadership, manager, enterprise, innovation, venture-building, experimentation, stage-gate, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Innovation mandate and portfolio charter
               description: |-
                 ## Purpose
-                Innovation teams fail most often because nobody agreed what they were for: growth beyond the core, defence against a disruptor, or a showcase for the annual report. A one-page charter signed by the chief executive names the strategic purpose, the time horizon, the decision owner and what success looks like in three years, so every later funding argument starts from the same place.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Innovation teams fail most often because nobody agreed what they were for: growth beyond the core, defence against a disruptor, or a showcase for the annual report. A one-page charter signed by the chief executive names the strategic purpose, the time horizon, the decision owner and what success looks like in three years, so every later funding argument starts from the same place.
 
                 ## Milestones
                 1. A one-page charter stating the strategic purpose of the innovation portfolio and the time horizon it is judged over.

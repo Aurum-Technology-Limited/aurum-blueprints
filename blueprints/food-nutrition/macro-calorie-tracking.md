@@ -35,7 +35,9 @@ starter_structure:
                 ## Notes
                 If the honest goal is to lose weight as fast as possible, read the health check project first. A slower goal you can keep beats an aggressive one abandoned in week two.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                If you have ever had an eating disorder or disordered eating, talk to your doctor before you start, and stop if tracking or the numbers start to feel distressing. Your national eating disorder charity (such as Beat in the UK) can help.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -1072,7 +1074,7 @@ starter_structure:
                 5. A post-weigh-in refuelling plan written and practised in training.
 
                 ## Notes
-                Never attempt rapid dehydration, sauna cutting or fasting for a weigh-in without qualified medical and coaching supervision. Junior athletes should not cut weight at all unless their coach, parents and a doctor are involved.
+                Never attempt rapid dehydration, sauna cutting or fasting for a weigh-in without qualified medical and coaching supervision. Junior athletes should not cut weight at all unless their coach, parents and a doctor are involved. Rapid weight cutting can trigger or worsen disordered eating: if you have any history of an eating disorder, talk to your doctor before planning a cut, and stop if the numbers start to feel distressing.
               priority: high
               frontmatter:
                 mode: event
@@ -1119,6 +1121,9 @@ starter_structure:
                 2. Start date, length and target intake for the phase written down.
                 3. The phase logged in full at the agreed targets.
                 4. A review after the phase deciding what comes next.
+
+                ## Notes
+                Months of deficit dieting can blur hunger cues and make eating at maintenance feel frightening. If that happens, or you notice bingeing, guilt or rigid rules creeping in, pause the cut and talk to your doctor or a registered dietitian.
               priority: low
               frontmatter:
                 mode: building
@@ -1165,7 +1170,7 @@ starter_structure:
                 5. A post-show intake plan written before show week.
 
                 ## Notes
-                Long, deep deficits affect hormones, mood and sleep. Involve your doctor and blood tests, and treat the weeks after the show as part of the prep.
+                Long, deep deficits affect hormones, mood and sleep. Involve your doctor and blood tests, and treat the weeks after the show as part of the prep. Physique preps are a known risk for disordered eating and body-image problems: if you have any history of an eating disorder, talk to your doctor before you commit, and stop and get help if food or the mirror starts to feel distressing. Your national eating disorder charity (such as Beat in the UK) can help.
               priority: low
               frontmatter:
                 mode: event

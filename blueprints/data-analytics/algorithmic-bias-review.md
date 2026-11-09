@@ -4,7 +4,7 @@ name: Algorithmic Bias Review
 description: "An inventory of your models and automated decisions, agreed fairness metrics, disparity testing, documented limitations, release gates and the mitigations and audits that fix unfair outcomes."
 category: business
 version: 1.0.0
-tags: [data-analytics, algorithmic-bias-review, researcher, enterprise, fairness, responsible-ai, model-audit, disparate-impact]
+tags: [data-analytics, algorithmic-bias-review, researcher, enterprise, fairness, responsible-ai, model-audit, disparate-impact, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Inventory of models and automated decisions
               description: |-
                 ## Purpose
-                Most organisations cannot say how many models make or shape decisions about people, and bias reviews then only reach the systems someone happened to mention. A single inventory listing each model, the decision it feeds, who is affected and who owns it is the scope every later review depends on.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most organisations cannot say how many models make or shape decisions about people, and bias reviews then only reach the systems someone happened to mention. A single inventory listing each model, the decision it feeds, who is affected and who owns it is the scope every later review depends on.
 
                 ## Milestones
                 1. A list of every model, scoring rule and vendor tool that ranks, approves, prices or flags people.

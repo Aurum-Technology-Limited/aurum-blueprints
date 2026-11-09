@@ -35,7 +35,7 @@ starter_structure:
                 ## Notes
                 Good questions are about patterns over weeks, not single days. Asking why one Tuesday was bad is rarely answerable; asking what your worst weeks have in common usually is.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -211,7 +211,7 @@ starter_structure:
                 4. The rule shown to a clinician or a trusted person.
 
                 ## Notes
-                If you ever have thoughts of harming yourself, contact emergency services or a crisis line straight away; do not wait for a pattern to appear in the log. A full crisis safety plan is separate work worth doing alongside this.
+                If you ever have thoughts of harming yourself, contact emergency services or a crisis line straight away; do not wait for a pattern to appear in the log. Crisis lines include Samaritans on 116 123 in the UK and Ireland and the 988 Suicide & Crisis Lifeline in the US (call or text 988). A full crisis safety plan is separate work worth doing alongside this.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

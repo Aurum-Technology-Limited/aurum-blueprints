@@ -4,7 +4,7 @@ name: Business Cost Reduction Programme
 description: "A charter and spend baseline, savings that show up in the accounts, renewal gates and structured reviews of software, suppliers, property, fees and headcount, so costs fall without harming the business."
 category: business
 version: 1.0.0
-tags: [finance-accounting, business-cost-reduction-programme, small-business, manager, enterprise, cost-reduction, supplier-negotiation, spend-analysis]
+tags: [finance-accounting, business-cost-reduction-programme, small-business, manager, enterprise, cost-reduction, supplier-negotiation, spend-analysis, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Cost reduction programme charter and savings target
               description: |-
                 ## Purpose
-                Cost programmes that start with a vague instruction to cut where you can usually end with a few cancelled subscriptions and a resentful team. A one-page charter naming the target in money and as a share of the cost base, the timeframe, the sponsor, the scope and what is off limits gives everyone the same brief and gives the programme a finish line.
+                Cost programmes that start with a vague instruction to cut where you can usually end with a few cancelled subscriptions and a resentful team. A one-page charter naming the target in money and as a share of the cost base, the timeframe, the sponsor, the scope and what is off limits gives everyone the same brief and gives the programme a finish line. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A savings target agreed in money and as a percentage of the addressable cost base, with the financial year it must show in.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Set the target from the gap you need to close (a margin goal, a funding runway, a price you must hit), not from a round number. A target nobody can trace to a reason gets negotiated down in the first month.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -445,7 +445,7 @@ starter_structure:
                 - "Write a checklist of renewal, indexation, minimum and termination clauses"
                 - "Read the five largest contracts against the checklist"
                 - "Note the earliest exit or renegotiation date for each"
-                - "List any clause that needs a lawyer's reading before you act"
+                - "List any clause that needs a lawyer's reading before anyone acts"
             - name: Negotiation preparation for a supplier renewal
               description: |-
                 ## Purpose
@@ -1188,7 +1188,7 @@ starter_structure:
               tasks:
                 - "Pick a supplier whose way of working drives a large part of the cost"
                 - "Agree the baseline and how savings will be measured"
-                - "Have your lawyer review the contract variation"
+                - "Have the company's lawyer review the contract variation"
                 - "Measure and share savings at the first review point"
             - name: Cost discipline indicators after the programme
               description: |-
@@ -1220,4 +1220,4 @@ starter_structure:
 
 This area is for owners and leadership teams who need lower costs without breaking what makes the business work, from a small firm going through its bank statements to an enterprise running a multi-site programme. It starts with the foundations (a charter and target, a twelve-month spend baseline, protected spend, savings rules and a renewal calendar), then the operating machinery of tracking, renewal gates and category rotation, the negotiation and analysis skills, reviews of software, suppliers, property, professional fees and headcount spend, dated moments such as the year-end renegotiation round and board updates, situations for owners, managers, founders and acquirers, and finally specialist spend analytics, gainshare deals and lasting cost indicators.
 
-What repeats is a weekly tracker update and challenge panel, monthly savings realisation, licence, cloud, utility, invoice rate and premium pay checks, quarterly category reviews, supplier increase reviews and board updates, and yearly baseline, insurance and line inventory work. The Operational checklist, Purchase decision, Vendor, Board meeting and Metrics log templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a weekly tracker update and challenge panel, monthly savings realisation, licence, cloud, utility, invoice rate and premium pay checks, quarterly category reviews, supplier increase reviews and board updates, and yearly baseline, insurance and line inventory work. The Operational checklist, Purchase decision, Vendor, Board meeting and Metrics log templates pair with the projects that name them. In a shared workspace, a programme lead owns the tracker, budget holders own their savings lines and leadership signs off each cut, while contract, employment and redundancy questions go to a qualified lawyer first. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

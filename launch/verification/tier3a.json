@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "management-consulting.engagement-manager-role",
+    "status": "publish",
+    "reason": "Professional craft plan; numeric claims are illustrative rules of thumb framed as examples; withholding tax, VAT, data protection and governing law are routed to the user's accountant or lawyer per country.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "management-consulting.workstream-leadership",
+    "status": "publish",
+    "reason": "Professional craft plan; numeric claims are illustrative rules of thumb framed as examples; withholding tax, VAT, data protection and governing law are routed to the user's accountant or lawyer per country.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "management-consulting.partner-track-and-selling-work",
+    "status": "publish",
+    "reason": "Professional craft plan; numeric claims are illustrative rules of thumb framed as examples; withholding tax, VAT, data protection and governing law are routed to the user's accountant or lawyer per country.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "management-consulting.hypothesis-driven-workplans",
+    "status": "publish",
+    "reason": "Professional craft plan; numeric claims are illustrative rules of thumb framed as examples; withholding tax, VAT, data protection and governing law are routed to the user's accountant or lawyer per country.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "management-consulting.managing-client-sponsors",
+    "status": "publish",
+    "reason": "Professional craft plan; numeric claims are illustrative rules of thumb framed as examples; withholding tax, VAT, data protection and governing law are routed to the user's accountant or lawyer per country.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "management-consulting.client-data-requests-and-analysis",
+    "status": "publish",
+    "reason": "Professional craft plan; numeric claims are illustrative rules of thumb framed as examples; withholding tax, VAT, data protection and governing law are routed to the user's accountant or lawyer per country.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "management-consulting.ethics-and-conflicts-in-consulting",
+    "status": "publish",
+    "reason": "Professional craft plan; numeric claims are illustrative rules of thumb framed as examples; withholding tax, VAT, data protection and governing law are routed to the user's accountant or lawyer per country. GDPR named as the EU example with 'the data protection law that applies'; whistleblowing prepared with protection in mind.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "management-consulting.consulting-engagement-pricing",
+    "status": "publish",
+    "reason": "Professional craft plan; numeric claims are illustrative rules of thumb framed as examples; withholding tax, VAT, data protection and governing law are routed to the user's accountant or lawyer per country.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "management-consulting.consulting-proposal-letters",
+    "status": "publish",
+    "reason": "Professional craft plan; numeric claims are illustrative rules of thumb framed as examples; withholding tax, VAT, data protection and governing law are routed to the user's accountant or lawyer per country.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "management-consulting.follow-on-work-and-extensions",
+    "status": "publish",
+    "reason": "Professional craft plan; numeric claims are illustrative rules of thumb framed as examples; withholding tax, VAT, data protection and governing law are routed to the user's accountant or lawyer per country.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "management-consulting.consulting-thought-leadership",
+    "status": "publish",
+    "reason": "Professional craft plan; numeric claims are illustrative rules of thumb framed as examples; withholding tax, VAT, data protection and governing law are routed to the user's accountant or lawyer per country.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "management-consulting.expert-network-calls",
+    "status": "publish",
+    "reason": "Professional craft plan; numeric claims are illustrative rules of thumb framed as examples; withholding tax, VAT, data protection and governing law are routed to the user's accountant or lawyer per country. Material non-public information correctly treated as refuse-and-end-call.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "management-consulting.subcontracting-to-larger-firms",
+    "status": "publish",
+    "reason": "Professional craft plan; numeric claims are illustrative rules of thumb framed as examples; withholding tax, VAT, data protection and governing law are routed to the user's accountant or lawyer per country.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "management-consulting.multilateral-donor-funded-consultancies",
+    "status": "publish",
+    "reason": "Professional craft plan; numeric claims are illustrative rules of thumb framed as examples; withholding tax, VAT, data protection and governing law are routed to the user's accountant or lawyer per country.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "management-consulting.boutique-consulting-firm-building",
+    "status": "publish",
+    "reason": "Professional craft plan; numeric claims are illustrative rules of thumb framed as examples; withholding tax, VAT, data protection and governing law are routed to the user's accountant or lawyer per country.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "data-analytics.pricing-analytics",
+    "status": "publish",
+    "reason": "Technical/analytical craft plan with no regulated claims; tax display and privacy points routed to advisers; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "data-analytics.recommendation-systems",
+    "status": "publish",
+    "reason": "Technical/analytical craft plan with no regulated claims; tax display and privacy points routed to advisers; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "data-analytics.ml-feature-engineering",
+    "status": "publish",
+    "reason": "Technical/analytical craft plan with no regulated claims; tax display and privacy points routed to advisers; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "data-analytics.ml-model-deployment-mlops",
+    "status": "publish",
+    "reason": "Technical/analytical craft plan with no regulated claims; tax display and privacy points routed to advisers; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "data-analytics.marketing-mix-modelling",
+    "status": "publish",
+    "reason": "Technical/analytical craft plan with no regulated claims; tax display and privacy points routed to advisers; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "data-analytics.small-business-reporting-setup",
+    "status": "publish",
+    "reason": "Technical/analytical craft plan with no regulated claims; tax display and privacy points routed to advisers; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "data-analytics.data-team-management",
+    "status": "publish",
+    "reason": "Technical/analytical craft plan with no regulated claims; tax display and privacy points routed to advisers; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "sales-revenue.ideal-customer-profile-sales",
+    "status": "publish",
+    "reason": "Sales craft plan; tax, procurement-challenge time limits and public tender rules routed to tax team, lawyer or the published procurement rules; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "sales-revenue.enterprise-complex-deal-cycles",
+    "status": "publish",
+    "reason": "Sales craft plan; tax, procurement-challenge time limits and public tender rules routed to tax team, lawyer or the published procurement rules; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "sales-revenue.navigating-buyer-procurement",
+    "status": "publish",
+    "reason": "Sales craft plan; tax, procurement-challenge time limits and public tender rules routed to tax team, lawyer or the published procurement rules; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "sales-revenue.field-sales-territory-visits",
+    "status": "publish",
+    "reason": "Sales craft plan; tax, procurement-challenge time limits and public tender rules routed to tax team, lawyer or the published procurement rules; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "sales-revenue.public-sector-selling",
+    "status": "publish",
+    "reason": "Sales craft plan; tax, procurement-challenge time limits and public tender rules routed to tax team, lawyer or the published procurement rules; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "strategy-leadership.leading-through-managers",
+    "status": "publish",
+    "reason": "Leadership plan with no regulated claims; statutory duties, reporting to safety authorities and legal exposure routed to the right officer or adviser.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "strategy-leadership.leading-through-a-crisis",
+    "status": "publish",
+    "reason": "Leadership plan with no regulated claims; statutory duties, reporting to safety authorities and legal exposure routed to the right officer or adviser. Serious-incident project defers to police/safety authority and includes counselling/EAP for staff.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "strategy-leadership.small-business-owner-strategy-day",
+    "status": "publish",
+    "reason": "Leadership plan with no regulated claims; statutory duties, reporting to safety authorities and legal exposure routed to the right officer or adviser.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "strategy-leadership.family-business-leadership",
+    "status": "publish",
+    "reason": "Leadership plan with no regulated claims; statutory duties, reporting to safety authorities and legal exposure routed to the right officer or adviser.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "strategy-leadership.public-sector-leadership",
+    "status": "publish",
+    "reason": "Leadership plan with no regulated claims; statutory duties, reporting to safety authorities and legal exposure routed to the right officer or adviser. Statutory duties listed against the user's own legislation; no jurisdiction-specific claims asserted.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.real-estate-financial-modelling",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.cap-rates-and-property-valuation",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns. Arithmetic claims check out (25 bp move on a 5% yield is about 5% of value; 6.5% headline yield is about 6.1% after roughly 6.5% purchaser's costs).",
+    "changes": [],
+    "sources": [
+      "https://www.rics.org/profession-standards/rics-standards-and-guidance/sector-standards/valuation-standards/red-book"
+    ]
+  },
+  {
+    "id": "real-estate-development.property-acquisition-due-diligence",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.development-appraisal",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.off-market-deal-sourcing",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns. Owner outreach correctly flagged under GDPR/do-not-call rules with a privacy professional check.",
+    "changes": [],
+    "sources": [
+      "https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/"
+    ]
+  },
+  {
+    "id": "real-estate-development.multifamily-acquisitions",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.distressed-property-acquisitions",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns. Explicit 'never change locks or cut services without your attorney' on occupiers.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.real-estate-club-deals",
+    "status": "fixed",
+    "reason": "Private co-investment club; the securities/collective-investment question was flagged mid-plan and is now surfaced before any partner is approached.",
+    "changes": [
+      "Added a note and high-priority task in 'Choosing the club partners' to get a lawyer's view on regulated-offering rules before approaching candidates"
+    ],
+    "sources": [
+      "https://www.sec.gov/resources-small-businesses/exempt-offerings",
+      "https://www.fca.org.uk/firms/collective-investment-schemes"
+    ]
+  },
+  {
+    "id": "real-estate-development.site-finding-and-land-acquisition",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.site-feasibility-and-massing",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.appointing-a-design-team",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns. UK CDM and Building Safety Act dutyholder references accurate and given as examples.",
+    "changes": [],
+    "sources": [
+      "https://www.hse.gov.uk/construction/cdm/2015/index.htm"
+    ]
+  },
+  {
+    "id": "real-estate-development.construction-finance",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.development-cost-control",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.practical-completion-and-handover",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.site-utilities-and-connections",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.option-and-conditional-land-deals",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.land-banking-and-strategic-land",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.development-exit-and-refinancing",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.development-joint-ventures",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.development-project-delivery",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns. UK CDM duties and the Construction Act (HGCRA 1996) payment rules named as UK examples with a 'confirm for your country' caveat.",
+    "changes": [],
+    "sources": [
+      "https://www.legislation.gov.uk/ukpga/1996/53/part/II"
+    ]
+  },
+  {
+    "id": "real-estate-development.property-development-company-setup",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.reit-financial-analysis",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns. Analyst workflow (FFO/AFFO, maturities, sensitivity grids); no buy/sell instruction.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.commercial-property-underwriting",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.commercial-real-estate-acquisitions",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.commercial-real-estate-debt",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.industrial-and-logistics-property",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.niche-property-sectors",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.caribbean-development-approvals",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.caribbean-land-subdivision-projects",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.caribbean-tourism-real-estate",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns. Alien landholding licences (OECS), incentives acts and CBI framed as 'check with attorney / programme unit'.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.hurricane-resilient-development",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "real-estate-development.property-management-company",
+    "status": "publish",
+    "reason": "Carries the legal notice; tax, title, planning, transfer duty, guarantees and licensing are country-caveated and routed to a local attorney, accountant, valuer or authority; no tax-avoidance strategies or promised returns.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.starting-a-practice-from-scratch",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.buying-an-existing-practice",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.owning-a-dental-practice",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.owning-a-medical-clinic",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.owning-a-law-firm",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.owning-an-accounting-firm",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.owning-a-physiotherapy-clinic",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.owning-a-therapy-practice",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.owning-a-pharmacy",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes. Responsible pharmacist, controlled drug registers and substitution rules framed as 'your jurisdiction's rules'.",
+    "changes": [],
+    "sources": [
+      "https://www.pharmacyregulation.org/"
+    ]
+  },
+  {
+    "id": "practice-ownership.owning-a-veterinary-practice",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.owning-an-optometry-practice",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.owning-an-architecture-studio",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.owning-an-engineering-consultancy",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.practice-owner-time-management",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.practice-fee-schedules",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.practice-financial-dashboard",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.practice-valuation",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes. Valuation method (EBITDA/SDE/cap rate) described accurately; no multiples asserted, comparables to be collected.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.selling-a-practice",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.selling-to-a-practice-group",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.practice-succession-planning",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.partner-retirement-and-exit",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.partner-profit-sharing-models",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.practice-equipment-finance",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.practice-premises-and-fit-out",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.practice-management-software",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.practice-manager-role",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.practice-marketing-professional-rules",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.professional-indemnity-for-practices",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.professional-referral-networks",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.setting-up-a-caribbean-practice",
+    "status": "fixed",
+    "reason": "Caribbean tax naming corrected; everything else country-caveated and routed to the accountant, regulator or labour ministry.",
+    "changes": [
+      "Named Antigua and Barbuda's sales tax correctly (ABST, not VAT) in the VAT/GCT registration project"
+    ],
+    "sources": [
+      "https://sovos.com/regulatory-updates/sut/antigua-and-barbuda-standard-sales-tax-rate-increase-from-january-1-2024/",
+      "https://www.jamaicatax.gov.jm/"
+    ]
+  },
+  {
+    "id": "practice-ownership.telehealth-and-remote-services",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes. Cross-jurisdiction licensing, e-prescribing and veterinary remote-prescribing restrictions all routed to the regulator.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.work-in-progress-and-lockup",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.locums-and-contract-professionals",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.hiring-associates-and-professionals",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.hiring-front-desk-and-support-staff",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.group-practice-and-multi-site-growth",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "practice-ownership.patient-billing-and-insurance-claims",
+    "status": "publish",
+    "reason": "Business-management plan for the owner, not the regulated professional act; licensing, controlled drugs, client money, tax, employment and indemnity steps all point to the user's own regulator, professional body, lawyer or accountant; no promised outcomes. Coding explicitly left to clinician and certified coder; 'never write notes to fit a code'.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.mechanical-engineering-practice",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.electrical-engineering-practice",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker. NFPA 70E 'de-energise by default' and IEEE 1584 arc flash references accurate.",
+    "changes": [],
+    "sources": [
+      "https://www.nfpa.org/codes-and-standards/nfpa-70e-standard-development/70e"
+    ]
+  },
+  {
+    "id": "engineering-practice.structural-engineering-practice",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.chemical-and-process-engineering",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.controls-and-automation-engineering",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.petroleum-engineering-practice",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.environmental-engineering-practice",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.biomedical-engineering-practice",
+    "status": "fixed",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker. ISO 13485/14971, IEC 60601-1/62304, 510(k)/De Novo/EU MDR references accurate.",
+    "changes": [
+      "Updated outdated 'FDA quality system rule' to the Quality Management System Regulation (21 CFR 820, incorporating ISO 13485 since 2 Feb 2026)"
+    ],
+    "sources": [
+      "https://www.fda.gov/medical-devices/postmarket-requirements-devices/quality-system-qs-regulationmedical-device-good-manufacturing-practices"
+    ]
+  },
+  {
+    "id": "engineering-practice.aerospace-engineering-practice",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.marine-engineering-practice",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker. MARPOL Annex I oil record book and 15 ppm bilge alarm accurate.",
+    "changes": [],
+    "sources": [
+      "https://www.imo.org/en/About/Conventions/Pages/International-Convention-for-the-Prevention-of-Pollution-from-Ships-(MARPOL).aspx"
+    ]
+  },
+  {
+    "id": "engineering-practice.mining-and-minerals-engineering",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.industrial-and-manufacturing-engineering",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.engineering-report-writing",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.engineering-calculation-packages",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.cad-modelling-and-drawings",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker. ASME Y14.5 vs ISO GPS default difference (independency principle) is accurate.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.engineering-ethics",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.codes-and-standards-compliance",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker. ASME BPVC two-year edition cycle, Authorized Inspector role and 'statutory requirements are never deviated by the project' are accurate.",
+    "changes": [],
+    "sources": [
+      "https://www.asme.org/codes-standards/bpvc-standards"
+    ]
+  },
+  {
+    "id": "engineering-practice.fea-and-cfd-simulation",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.process-simulation-modelling",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.plc-programming",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker. Safety logic left to IEC 61508/61511/ISO 13849 competent persons; forces treated as overrides of protection.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.scada-and-hmi-systems",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.reliability-engineering",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.root-cause-analysis",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.fmea-studies",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.engineering-cost-estimating",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker. AACE Class 5 accuracy range (-50% to +100% at the extremes) matches AACE 18R-97.",
+    "changes": [],
+    "sources": [
+      "https://web.aacei.org/resources/publications/recommended-practices"
+    ]
+  },
+  {
+    "id": "engineering-practice.factory-acceptance-testing",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.engineering-project-delivery",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.caribbean-wind-and-seismic-design",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker. Correctly says Caribbean territories use different codes (IBC-based, CUBiC-derived, ASCE 7, Eurocode) and to confirm the adopted edition locally; no design wind speeds asserted.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.energy-transition-engineering-projects",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.trinidad-upstream-oil-and-gas",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.point-lisas-petrochemical-plants",
+    "status": "fixed",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker. Trinidad and Tobago bodies (EMA, OSH Act) correctly named; refrigerated ammonia at about -33 C correct.",
+    "changes": [
+      "Statutory boiler/pressure vessel examination task now points to the HSE lead or the OSH Agency instead of an ambiguous 'HSE'"
+    ],
+    "sources": [
+      "https://www.osha.gov.tt/",
+      "https://www.ema.co.tt/"
+    ]
+  },
+  {
+    "id": "engineering-practice.lng-plant-operations-and-engineering",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "engineering-practice.offshore-platform-engineering",
+    "status": "publish",
+    "reason": "Professional-practice plan for working engineers: organises work, checking and learning; no design values or safety-critical calculations are given, and code editions, statutory duties, licensure and safety systems are routed to the governing code, regulator, licensing body and independent checker.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.open-field-vegetable-farming",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.herbs-and-seasoning-crops",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.farm-budgets-and-enterprise-costing",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.farmers-markets-and-direct-sales",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.soil-testing-and-fertility",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.farm-irrigation-systems",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.integrated-pest-management",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.root-crop-farming",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.tropical-fruit-orchards",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.broiler-production",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.goat-and-sheep-farming",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises. FAMACHA guidance matches the scheme (training required, barber's pole worm only).",
+    "changes": [],
+    "sources": [
+      "https://www.wormx.info/famacha"
+    ]
+  },
+  {
+    "id": "agriculture.agro-processing-business",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.farm-finance-and-loans",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.farm-records-and-traceability",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.post-harvest-handling-and-packing",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.supplying-hotels-and-restaurants",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.supermarket-supply-contracts",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.hurricane-resilience-on-the-farm",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.drought-and-dry-season-planning",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.farm-drainage-and-flood-control",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.banana-and-plantain-farming",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.citrus-orchards",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.cocoa-farming",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises. EUDR mention already tells growers to confirm current rules (application moved to 30 Dec 2026).",
+    "changes": [],
+    "sources": [
+      "https://agrinfo.eu/book-of-reports/review-of-eu-deforestation-regulation-simplification/"
+    ]
+  },
+  {
+    "id": "agriculture.coconut-farming",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.coffee-farming",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises. Parchment moisture 10-12% matches common buyer specs and the text says confirm with the buyer; EUDR not asserted.",
+    "changes": [],
+    "sources": [
+      "https://www.ico.org/"
+    ]
+  },
+  {
+    "id": "agriculture.nutmeg-and-spice-crops",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises. GCNA (Grenada nutmeg/mace) and JACRA (Jamaica pimento/spices) correctly named.",
+    "changes": [],
+    "sources": [
+      "https://jacra.org/",
+      "https://www.moa.gov.jm/content/jacra-endorses-jaspice-project"
+    ]
+  },
+  {
+    "id": "agriculture.aquaponics-systems",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.tilapia-aquaculture",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.pig-farming",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.beef-cattle-farming",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.dairy-farming",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.livestock-feed-and-forage",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.livestock-health-and-vet-care",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises. Notifiable/zoonotic diseases and withdrawal periods framed as 'check with the veterinary authority'.",
+    "changes": [],
+    "sources": [
+      "https://www.woah.org/en/what-we-do/animal-health-and-welfare/animal-diseases/"
+    ]
+  },
+  {
+    "id": "agriculture.farm-machinery-and-equipment",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.farm-land-tenure-and-leases",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.farm-labour-and-workers",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.contract-farming-agreements",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.wholesale-market-selling",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.agricultural-insurance",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.agricultural-export-compliance",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises. ISPM 15 pallet marking, Incoterms (EXW/FCA/CPT/CIF) and CARIFORUM-EU EPA references are accurate and generalised.",
+    "changes": [],
+    "sources": [
+      "https://www.ippc.int/en/core-activities/standards-setting/ispms/",
+      "https://iccwbo.org/business-solutions/incoterms-rules/"
+    ]
+  },
+  {
+    "id": "agriculture.food-safety-and-gap-certification",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.praedial-larceny-prevention",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  },
+  {
+    "id": "agriculture.rice-farming-in-guyana-and-suriname",
+    "status": "publish",
+    "reason": "Claims checked; every pesticide, vet-medicine, withdrawal-period and food-safety step defers to the product label, the vet, the extension officer or the national authority; no rates, doses or outcome promises.",
+    "changes": [],
+    "sources": []
+  }
+]

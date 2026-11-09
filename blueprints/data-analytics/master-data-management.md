@@ -4,7 +4,7 @@ name: Master Data Management
 description: "One trusted version of customer, product and supplier records: a domain inventory and baseline, match, merge and survivorship rules, stewardship routines, a hub go-live and the controls that stop duplicates coming back."
 category: business
 version: 1.0.0
-tags: [data-analytics, master-data-management, enterprise, team, golden-record, record-matching, data-stewardship, reference-data]
+tags: [data-analytics, master-data-management, enterprise, team, golden-record, record-matching, data-stewardship, reference-data, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Master data domain and system inventory
               description: |-
                 ## Purpose
-                Before anyone buys a hub or writes a match rule, someone has to say which records count as master data and where each copy lives. A single inventory of domains such as customer, product, supplier, location and employee, with every system that creates or stores them, usually reveals four to eight copies of the customer alone and shows where the pain really sits.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before anyone buys a hub or writes a match rule, someone has to say which records count as master data and where each copy lives. A single inventory of domains such as customer, product, supplier, location and employee, with every system that creates or stores them, usually reveals four to eight copies of the customer alone and shows where the pain really sits.
 
                 ## Milestones
                 1. Each candidate domain listed with a one-line definition of what a record represents.

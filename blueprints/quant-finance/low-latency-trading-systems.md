@@ -4,7 +4,7 @@ name: Low-Latency Trading Systems
 description: "A written latency budget, hardware timestamps and synced clocks, tuned and audited hosts, kernel bypass and lock-free hot paths, and an honest yearly test of whether the speed still pays for itself."
 category: business
 version: 1.0.0
-tags: [quant-finance, low-latency-trading-systems, engineer, kernel-bypass, colocation, tick-to-trade, lock-free, ptp-clock-sync]
+tags: [quant-finance, low-latency-trading-systems, engineer, kernel-bypass, colocation, tick-to-trade, lock-free, ptp-clock-sync, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Deciding whether speed matters for your strategy
               description: |-
                 ## Purpose
-                Cutting latency from 50 microseconds to 5 costs real money in hardware, colocation and engineering time, and it only pays when the strategy's edge decays within that window. Measuring how quickly your signal's value fades after a market event tells you whether to chase nanoseconds, settle for a well-tuned ordinary host, or spend the effort on research instead.
+                Cutting latency from 50 microseconds to 5 costs real money in hardware, colocation and engineering time, and it only pays when the strategy's edge decays within that window. Measuring how quickly your signal's value fades after a market event tells you whether to chase nanoseconds, settle for a well-tuned ordinary host, or spend the effort on research instead. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A chart of signal value or fill quality against simulated reaction delay, from 1 microsecond to 10 milliseconds.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Most strategies fail out of sample however fast they are. If the edge is not there at 10 milliseconds, it will not appear at 10 microseconds.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -136,7 +136,7 @@ starter_structure:
                 4. Offset and path delay for every host graphed, with an alert when any host leaves tolerance.
 
                 ## Notes
-                Check what accuracy and traceability your regulator expects for timestamps; in the EU, for example, MiFID II sets tighter limits for high-frequency trading.
+                Check what accuracy and traceability your regulator expects for timestamps; in the EU, for example, MiFID II (RTS 25) requires UTC-traceable clocks with tighter limits for high-frequency trading, and US firms reporting to the Consolidated Audit Trail have their own clock synchronisation rule.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
@@ -997,7 +997,7 @@ starter_structure:
                 effort_hours_estimate: "20"
               tasks:
                 - "Read the path diagram, latency budget and change policy"
-                - "Run the lab replay benchmark yourself and compare with the log"
+                - "New joiner runs the lab replay benchmark and compares with the log"
                 - "Pick one small improvement with your lead"
                 - "Add three unwritten rules you learned to the team notes"
             - name: Moving from backend engineering into low latency

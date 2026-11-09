@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Most services require a spare bedroom for each fostered child, and many expect one carer to be available for school runs, meetings and sick days. Check the requirements of services near you before assuming either way.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -469,7 +471,7 @@ starter_structure:
             - name: Child's care plan review meetings
               description: |-
                 ## Purpose
-                A child in care has statutory reviews chaired by an independent reviewing officer, typically within the first month, then at three months and every six months after. The review looks at the care plan, family time, health, education and the child's wishes, and carers write a report beforehand. Preparing that report from your recordings, and helping the child say what they want, keeps the meeting about the child rather than the paperwork.
+                A child in care has regular statutory reviews whose timing is set by law where you live; in England, for example, an independent reviewing officer chairs them within 20 working days of the placement, again within three months, then at least every six months. The review looks at the care plan, family time, health, education and the child's wishes, and carers write a report beforehand. Preparing that report from your recordings, and helping the child say what they want, keeps the meeting about the child rather than the paperwork.
 
                 ## Milestones
                 1. Review dates for each child known and in the calendar.

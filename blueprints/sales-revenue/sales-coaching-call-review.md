@@ -4,7 +4,7 @@ name: Sales Coaching & Call Review
 description: "A skills model and anchored scorecard, a weekly call review and coaching rhythm, peer and team listening, and the calibration and analysis that make sales coaching fair and measurable."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-coaching-call-review, manager, team, call-review, coaching, conversation-intelligence, feedback]
+tags: [sales-revenue, sales-coaching-call-review, manager, team, call-review, coaching, conversation-intelligence, feedback, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Call recording consent and retention rules
               description: |-
                 ## Purpose
-                Recording laws differ by country and state, and some require every party on the call to agree before anything is captured. Before a single call is reviewed, the team needs written rules on how buyers are told, which calls may be recorded, who can listen and how long recordings are kept, checked with whoever owns legal and privacy in your business.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Recording laws differ by country and state, and some require every party on the call to agree before anything is captured. Before a single call is reviewed, the team needs written rules on how buyers are told, which calls may be recorded, who can listen and how long recordings are kept, checked with whoever owns legal and privacy in your business.
 
                 ## Milestones
                 1. The consent requirements for each country or state you sell into listed and checked with your legal or privacy lead.

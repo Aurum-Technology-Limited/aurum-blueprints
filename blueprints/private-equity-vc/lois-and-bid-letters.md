@@ -4,7 +4,7 @@ name: LOIs and Bid Letters
 description: "A house bid letter template, a binding versus non-binding map agreed with counsel, funding evidence, walk-away prices, a live bid tracker and the drafting skills that keep an IOI or LOI credible from first round to signing."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, lois-and-bid-letters, knowledge-worker, founder, loi, ioi, bid-letters, exclusivity]
+tags: [private-equity-vc, lois-and-bid-letters, knowledge-worker, founder, loi, ioi, bid-letters, exclusivity, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Anatomy of an IOI and an LOI
               description: |-
                 ## Purpose
-                An indication of interest and a letter of intent look alike but do different jobs: the first earns a place in the next round, the second earns exclusivity and sets the price everyone will measure you against. Knowing what every paragraph is for, from headline value to confidentiality, stops you copying a precedent clause you cannot explain to a seller or a partner.
+                An indication of interest and a letter of intent look alike but do different jobs: the first earns a place in the next round, the second earns exclusivity and sets the price everyone will measure you against. Knowing what every paragraph is for, from headline value to confidentiality, stops you copying a precedent clause you cannot explain to a seller or a partner. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page reference listing each standard section of an IOI and of an LOI with a sentence on its purpose.
@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Learn from your own firm's precedents where you are allowed to. Public examples exist but rarely match how your partners actually write.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -142,7 +144,7 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Mark each template clause as you believe it is intended to operate"
-                - "Send the marked template to counsel with your questions"
+                - "Deal team sends the marked template to deal counsel for sign-off"
                 - "Record counsel's recommended wording for each binding clause"
                 - "Ask counsel whether case law or practice has shifted the clause map @recurring(yearly)"
             - name: Bid letter version control and naming rules

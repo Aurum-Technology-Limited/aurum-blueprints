@@ -4,7 +4,7 @@ name: Commissioning and Start-Up
 description: "A plant or system taken from mechanical completion to steady operation: clear system boundaries, a completions database, punch lists under control, safe first energisation and first feed, and performance tests that close the job."
 category: business
 version: 1.0.0
-tags: [engineering-practice, commissioning-and-start-up, engineer, commissioning, start-up, mechanical-completion, punch-list, handover]
+tags: [engineering-practice, commissioning-and-start-up, engineer, commissioning, start-up, mechanical-completion, punch-list, handover, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Commissioning phases and vocabulary primer
               description: |-
                 ## Purpose
-                Mechanical completion, pre-commissioning, commissioning, ready for start-up and performance test mean slightly different things on every project, and arguments about who owns a system usually start with a definition nobody wrote down. Learning the standard phase model and comparing it with your project's own definitions gives you the language for every handover, certificate and dispute that follows.
+                Mechanical completion, pre-commissioning, commissioning, ready for start-up and performance test mean slightly different things on every project, and arguments about who owns a system usually start with a definition nobody wrote down. Learning the standard phase model and comparing it with your project's own definitions gives you the language for every handover, certificate and dispute that follows. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page diagram of the phases from construction complete through to performance test, with the certificate that closes each one.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Contracts govern payment milestones and liquidated damages, so the contract definition always wins over the textbook one. Read the contract clause before you sign any certificate.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               frontmatter:
                 mode: learning
@@ -521,7 +523,7 @@ starter_structure:
               tasks:
                 - "Ask construction for a completed test pack to study"
                 - "List what a complete pack must contain"
-                - "Witness a pressure test with the inspector"
+                - "Witness a pressure test with the authorised inspector"
                 - "Use a reinstatement checklist on the tested line"
             - name: Rotating equipment first run
               description: |-
@@ -652,7 +654,7 @@ starter_structure:
 
                 ## Milestones
                 1. The difference between a strength test and a service leak test explained.
-                2. A leak test plan for one subsystem with test pressure basis, joints list and method.
+                2. A leak test plan for one subsystem with test pressure basis, joints list and method, approved by the commissioning lead and the pressure systems competent person.
                 3. Every flanged and threaded joint checked and recorded.
                 4. Leaks repaired and retested before the subsystem is accepted for first feed.
               priority: medium
@@ -665,7 +667,7 @@ starter_structure:
               tasks:
                 - "Read the leak test section of the commissioning specification"
                 - "List every joint on one subsystem from the isometrics"
-                - "Write the leak test plan with the test pressure basis"
+                - "Draft the leak test plan for approval by the commissioning lead"
                 - "Record each joint result during the test"
             - name: Choosing a completions management tool
               description: |-

@@ -4,7 +4,7 @@ name: Strategic Scenario Planning
 description: "Scenario work that changes decisions: a sharp focal question, driving forces and critical uncertainties, four plausible futures, a strategy stress test, signposts to watch and options ready if the world turns."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, strategic-scenario-planning, manager, enterprise, scenarios, foresight, uncertainty, contingency-planning]
+tags: [strategy-leadership, strategic-scenario-planning, manager, enterprise, scenarios, foresight, uncertainty, contingency-planning, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Focal question for the scenario exercise
               description: |-
                 ## Purpose
-                Scenario projects that start with "what will the world look like in 2035" produce interesting stories and no decisions. A focal question tied to a real choice, such as whether to build a second plant or how far to depend on one channel, keeps every later step pointed at something the leadership team must actually decide.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Scenario projects that start with "what will the world look like in 2035" produce interesting stories and no decisions. A focal question tied to a real choice, such as whether to build a second plant or how far to depend on one channel, keeps every later step pointed at something the leadership team must actually decide.
 
                 ## Milestones
                 1. Three candidate focal questions drafted, each linked to a pending strategic decision.

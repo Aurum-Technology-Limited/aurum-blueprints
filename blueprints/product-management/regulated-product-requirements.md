@@ -4,7 +4,7 @@ name: Regulated Product Requirements
 description: "Regulated product work for teams and founders in finance, health and education: classification, obligations turned into testable requirements, release sign-off, audits, submissions and partner reviews."
 category: business
 version: 1.0.0
-tags: [product-management, regulated-product-requirements, team, enterprise, founder, compliance, fintech, healthtech]
+tags: [product-management, regulated-product-requirements, team, enterprise, founder, compliance, fintech, healthtech, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Regulatory landscape map for the product
               description: |-
                 ## Purpose
-                Teams building for finance, health or education often discover a relevant rule only when a partner, customer or auditor mentions it, and by then the design is fixed. Listing every regime that could touch the product (financial services licensing, anti-money laundering, health data protection, medical device rules, student privacy, consumer protection, general data protection) with the trigger that brings each one into play gives the team one shared starting picture. Counsel or your compliance lead then confirms which apply, rather than the team guessing.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Teams building for finance, health or education often discover a relevant rule only when a partner, customer or auditor mentions it, and by then the design is fixed. Listing every regime that could touch the product (financial services licensing, anti-money laundering, health data protection, medical device rules, student privacy, consumer protection, general data protection) with the trigger that brings each one into play gives the team one shared starting picture. Counsel or your compliance lead then confirms which apply, rather than the team guessing.
 
                 ## Milestones
                 1. Every regime that could plausibly apply listed with the product feature or activity that triggers it.

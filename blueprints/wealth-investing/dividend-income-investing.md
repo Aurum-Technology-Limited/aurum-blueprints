@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 Dividends are not free money: a share price usually drops by roughly the dividend on the ex-dividend date. Judge the approach on total return as well as on income.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help you organise decisions about money. It is not financial, investment, tax or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with a qualified, licensed adviser in yours. Investing and trading can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

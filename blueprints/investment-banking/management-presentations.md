@@ -4,7 +4,7 @@ name: Management Presentations
 description: "Management presentations from the banker's side: the line-up, storyline and deck, question banks and rehearsals, site visits, bidder sessions, debriefs and the variants for founders, carve-outs and distressed sales."
 category: business
 version: 1.0.0
-tags: [investment-banking, management-presentations, knowledge-worker, analyst, associate, sell-side, management-meetings, rehearsals]
+tags: [investment-banking, management-presentations, knowledge-worker, analyst, associate, sell-side, management-meetings, rehearsals, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -24,7 +24,7 @@ starter_structure:
             - name: Management presentation scope and timetable
               description: |-
                 ## Purpose
-                Management teams agree to a sale process long before they understand that it will take two or three weeks of their diaries, often in the same quarter as a budget or a year-end. Pinning down where the presentations sit in the process, how many bidders are likely to be invited and how long each session runs lets the client protect the time before it is gone.
+                Management teams agree to a sale process long before they understand that it will take two or three weeks of their diaries, often in the same quarter as a budget or a year-end. Pinning down where the presentations sit in the process, how many bidders are likely to be invited and how long each session runs lets the client protect the time before it is gone. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The window for presentations fixed against the bid round dates in the process timetable.

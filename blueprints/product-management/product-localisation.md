@@ -4,7 +4,7 @@ name: Product Localisation
 description: "A product ready for other languages, a translation pipeline with glossary, style guides and quality reviews, and the formats, payment methods and launch plans that make each new market feel local."
 category: business
 version: 1.0.0
-tags: [product-management, product-localisation, team, enterprise, localisation, internationalisation, translation, new-markets]
+tags: [product-management, product-localisation, team, enterprise, localisation, internationalisation, translation, new-markets, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Internationalisation readiness audit of one user flow
               description: |-
                 ## Purpose
-                Before a single string goes to a translator, the code has to be able to hold another language: strings outside the source code, no sentences glued together from fragments, dates and numbers formatted by locale, and layouts that survive longer words. An audit of one representative flow, such as sign-up to first invoice, shows how much engineering work sits between you and a second language, and it costs far less than finding the same problems during a launch.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before a single string goes to a translator, the code has to be able to hold another language: strings outside the source code, no sentences glued together from fragments, dates and numbers formatted by locale, and layouts that survive longer words. An audit of one representative flow, such as sign-up to first invoice, shows how much engineering work sits between you and a second language, and it costs far less than finding the same problems during a launch.
 
                 ## Milestones
                 1. One end-to-end flow chosen and every screen, email and error message in it captured.

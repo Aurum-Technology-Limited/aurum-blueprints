@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 If one of you is mainly motivated by saving rent, say so openly. It is a fair reason, but it should not be the only one either of you believes is true.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

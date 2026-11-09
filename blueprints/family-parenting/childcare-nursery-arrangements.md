@@ -360,7 +360,7 @@ starter_structure:
                 4. The setting given any new code the same week it is issued.
 
                 ## Notes
-                In the UK, for example, Tax-Free Childcare and the funded hours code both need reconfirming every three months. Check what your own schemes require.
+                In the UK, for example, Tax-Free Childcare and England's free childcare for working parents both need reconfirming every three months (gov.uk). Check what your own schemes require.
               priority: medium
               frontmatter:
                 mode: operating
@@ -444,7 +444,7 @@ starter_structure:
             - name: Illness exclusion cover plan
               description: |-
                 ## Purpose
-                Most settings exclude a child for 48 hours after sickness or diarrhoea and for set periods with conditions like chickenpox, and in the first year that can add up to a dozen lost days. A plan for who covers which day, agreed before the first call from nursery, saves the frantic morning negotiation.
+                Most settings exclude a child until 48 hours after the last bout of vomiting or diarrhoea and for set periods with conditions like chickenpox, and in the first year that can add up to a dozen lost days. A plan for who covers which day, agreed before the first call from nursery, saves the frantic morning negotiation.
 
                 ## Milestones
                 1. The setting's illness and exclusion policy read and the main periods noted.

@@ -4,7 +4,7 @@ name: LP Reporting and Annual Meetings
 description: "LP reporting that arrives on time and answers the questions: an obligations map, a valuation policy, quarterly reports and capital account statements, ILPA templates, an LP enquiry log and an annual meeting worth the flight."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, lp-reporting-and-annual-meetings, founder, knowledge-worker, investor-relations, quarterly-reporting, ilpa, fund-valuation]
+tags: [private-equity-vc, lp-reporting-and-annual-meetings, founder, knowledge-worker, investor-relations, quarterly-reporting, ilpa, fund-valuation, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Map of every reporting promise in the LPA and side letters
               description: |-
                 ## Purpose
-                Reporting duties are scattered across the limited partnership agreement, the PPM, a dozen side letters and whatever was said in fundraising meetings, and the one nobody remembers is the one an LP will cite. A single map of what is owed, to whom, by when and in what form turns a vague sense of obligation into a checklist the team can run every quarter.
+                Reporting duties are scattered across the limited partnership agreement, the PPM, a dozen side letters and whatever was said in fundraising meetings, and the one nobody remembers is the one an LP will cite. A single map of what is owed, to whom, by when and in what form turns a vague sense of obligation into a checklist the team can run every quarter. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The reporting, valuation and audit clauses of the executed LPA extracted with clause references.
@@ -38,6 +38,8 @@ starter_structure:
 
                 ## Notes
                 Most favoured nation elections can extend one LP's reporting right to others, so check the MFN election results before closing the map.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -1110,7 +1112,7 @@ starter_structure:
               tasks:
                 - "Assemble the last four quarterly reports and statements"
                 - "Ask a friendly LP for permission to see two peer reports"
-                - "Score your reports on timeliness, completeness and clarity @recurring(yearly)"
+                - "IR lead and CFO score the reports on timeliness and clarity @recurring(yearly)"
                 - "Schedule three improvements for next year"
             - name: Valuation back-testing against realised exits
               description: |-

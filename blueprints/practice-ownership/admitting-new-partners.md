@@ -4,7 +4,7 @@ name: Admitting New Partners
 description: "A clear case for adding a partner, written criteria, a buy-in figure and financing plan, a fair trial period, a recorded admission vote and an amended agreement signed by everyone."
 category: business
 version: 1.0.0
-tags: [practice-ownership, admitting-new-partners, small-business, partnership, buy-in, partner-admission, capital-account, due-diligence]
+tags: [practice-ownership, admitting-new-partners, small-business, partnership, buy-in, partner-admission, capital-account, due-diligence, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Case for admitting a new partner
               description: |-
                 ## Purpose
-                Partners are usually added for one of four reasons: more capacity than the current owners can carry, a skill or specialty the practice lacks, a succession plan, or keeping a star associate from leaving. Writing down which reason applies, and what the practice expects to look like three years after the admission, stops the existing partners agreeing to the idea while each imagining a different person and a different deal.
+                Partners are usually added for one of four reasons: more capacity than the current owners can carry, a skill or specialty the practice lacks, a succession plan, or keeping a star associate from leaving. Writing down which reason applies, and what the practice expects to look like three years after the admission, stops the existing partners agreeing to the idea while each imagining a different person and a different deal. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The main reason for admitting a partner written in one paragraph, with any secondary reasons ranked below it.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 If the honest reason is that one partner wants to work less, say so. It changes who you look for and how the profit share should move.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -75,7 +77,7 @@ starter_structure:
                 - "Find the signed partnership agreement and every amendment since"
                 - "Copy each clause on admission, capital and voting into a summary"
                 - "List the topics the agreement is silent on"
-                - "Send the summary to your lawyer for confirmation"
+                - "Managing partner sends the summary to the practice lawyer for confirmation"
             - name: Regulator rules on who may become a partner
               description: |-
                 ## Purpose
@@ -515,7 +517,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your lawyer what the practice structure means for partner liability"
+                - "Managing partner asks the lawyer what the practice structure means for partner liability"
                 - "List every personal guarantee the current partners have given"
                 - "Get the insurance broker to summarise indemnity and run-off cover"
                 - "Write a plain summary of what the new partner takes on"

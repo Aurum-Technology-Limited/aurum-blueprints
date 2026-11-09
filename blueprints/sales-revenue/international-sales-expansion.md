@@ -4,7 +4,7 @@ name: Selling Into New Countries
 description: "Opening sales in a new country step by step: choosing the market, local pricing and contracts, partner or direct entry, first hires, time zone routines, launch events and the reviews that decide whether to stay."
 category: business
 version: 1.0.0
-tags: [sales-revenue, international-sales-expansion, enterprise, founder, manager, market-entry, localisation, channel-partners]
+tags: [sales-revenue, international-sales-expansion, enterprise, founder, manager, market-entry, localisation, channel-partners, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Evidence of overseas demand already in your data
               description: |-
                 ## Purpose
-                Before picking a country, look at what the market has already told you: overseas sign-ups, inbound enquiries, lost deals that failed on currency or language, and customers whose subsidiaries sit abroad. Twelve months of this data usually points to two or three countries with real pull, which is a far better starting point than the board's favourite holiday destination.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before picking a country, look at what the market has already told you: overseas sign-ups, inbound enquiries, lost deals that failed on currency or language, and customers whose subsidiaries sit abroad. Twelve months of this data usually points to two or three countries with real pull, which is a far better starting point than the board's favourite holiday destination.
 
                 ## Milestones
                 1. An export of twelve months of leads, trials and closed deals with the country field filled in.

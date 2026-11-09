@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Use real figures where you have them: a harvest log, a pay book, a notebook of who worked which days. A rough map built from memory is still far better than none, and it gets sharper every season.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

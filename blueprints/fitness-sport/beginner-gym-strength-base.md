@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Pick a goal about what you can do rather than how you look. Performance goals keep moving even in weeks when the mirror and the scales do not.
 
-                Before you start: this plan is general information, not medical advice. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury, and stop if you feel pain, dizziness or chest discomfort.
+                Before you start: this plan is general information, not medical advice or personal coaching. Check with a doctor before starting a new training programme, especially if you have a health condition, are pregnant or are coming back from an injury. Stop if you feel pain, dizziness, breathlessness or chest discomfort, and call your local emergency number if it is severe.
               priority: medium
               deadlineOffsetDays: 14
               frontmatter:

@@ -4,7 +4,7 @@ name: Engineering Design Reviews
 description: "Stage reviews at 30, 60 and 90 percent, 3D model reviews, operability and constructability input, a comment log with severity codes, and every action closed with a named owner and evidence."
 category: business
 version: 1.0.0
-tags: [engineering-practice, engineering-design-reviews, engineer, design-review, model-review, constructability, comment-log, operability]
+tags: [engineering-practice, engineering-design-reviews, engineer, design-review, model-review, constructability, comment-log, operability, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Written design review procedure for the project
               description: |-
                 ## Purpose
-                Every project claims to hold design reviews, but without a written procedure each discipline lead runs them differently and nobody can say when a review is finished. A short procedure that names the stages, the attendees, the entry and exit criteria and how comments are closed gives the whole team one rulebook and gives the client something to audit against.
+                Every project claims to hold design reviews, but without a written procedure each discipline lead runs them differently and nobody can say when a review is finished. A short procedure that names the stages, the attendees, the entry and exit criteria and how comments are closed gives the whole team one rulebook and gives the client something to audit against. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A procedure of no more than eight pages covering stages, roles, entry criteria, comment handling and close-out.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Start from the client's own procedure if one exists and add only what your contract needs. A procedure longer than the design it governs will be ignored.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

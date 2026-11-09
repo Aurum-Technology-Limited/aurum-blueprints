@@ -4,7 +4,7 @@ name: Engineering Interview Loops
 description: "Role scorecards, structured questions, anchored rubrics, fair take-homes and evidence-based debriefs, plus the routines that keep an engineering interview loop fast, consistent and kind to candidates."
 category: business
 version: 1.0.0
-tags: [software-engineering, engineering-interview-loops, manager, engineer, team, hiring, interviewing, scoring-rubrics]
+tags: [software-engineering, engineering-interview-loops, manager, engineer, team, hiring, interviewing, scoring-rubrics, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Role scorecard before the first interview
               description: |-
                 ## Purpose
-                Loops go wrong before anyone is interviewed, when the hiring manager and the panel each carry a different picture of the role in their heads. A one-page scorecard naming the outcomes expected in the first year, the four to six competencies that matter and the ones that do not, gives every interviewer the same target. Write it before the job advert goes live, because a scorecard written after the first candidates arrive tends to describe whoever impressed you most.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Loops go wrong before anyone is interviewed, when the hiring manager and the panel each carry a different picture of the role in their heads. A one-page scorecard naming the outcomes expected in the first year, the four to six competencies that matter and the ones that do not, gives every interviewer the same target. Write it before the job advert goes live, because a scorecard written after the first candidates arrive tends to describe whoever impressed you most.
 
                 ## Milestones
                 1. A scorecard listing three to five outcomes the hire should deliver in their first twelve months.

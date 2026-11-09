@@ -35,7 +35,7 @@ starter_structure:
                 ## Notes
                 Ages and intervals differ between countries and change over time, so copy them from your own health service rather than from a general article.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -848,7 +848,7 @@ starter_structure:
             - name: First mammogram
               description: |-
                 ## Purpose
-                A first breast screening invitation usually arrives around fifty, though the age varies by country and is earlier for some people at higher risk. Knowing that the compression lasts seconds, that you will be asked to undress from the waist up and that results come by letter takes most of the dread out of the first visit.
+                The age of a first breast screening invitation varies by country: for example, England's NHS programme invites women between 50 and 53, while US guidance recommends starting at 40, and it is earlier for some people at higher risk. Knowing that the compression lasts seconds, that you will be asked to undress from the waist up and that results come by letter takes most of the dread out of the first visit.
 
                 ## Milestones
                 1. The invitation answered and the appointment booked.

@@ -4,7 +4,7 @@ name: Family Employment Policy
 description: "A written family employment policy that holds up: who is eligible, the qualifications and outside experience required, market pay, honest performance reviews, fair exits and a yearly review by the family."
 category: personal
 version: 1.0.0
-tags: [family-office, family-employment-policy, parent, founder, nepotism, family-business, market-pay, performance-reviews]
+tags: [family-office, family-employment-policy, parent, founder, nepotism, family-business, market-pay, performance-reviews, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Why the family needs an employment policy now
               description: |-
                 ## Purpose
-                Most families write employment rules only after a hire goes wrong: a nephew promoted over a long-serving manager, or a daughter paid twice the market rate. Naming the triggers that make the question live for your family, before anyone drafts a rule, keeps the policy focused on real problems instead of hypothetical ones.
+                Most families write employment rules only after a hire goes wrong: a nephew promoted over a long-serving manager, or a daughter paid twice the market rate. Naming the triggers that make the question live for your family, before anyone drafts a rule, keeps the policy focused on real problems instead of hypothetical ones. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page list of the situations that prompted the policy, past and expected.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Keep the trigger list factual. Naming a specific relative as the reason for the policy makes it feel aimed at them and sinks it before it is drafted.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

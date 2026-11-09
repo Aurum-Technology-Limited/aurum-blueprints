@@ -35,9 +35,9 @@ starter_structure:
                 4. What your doctor concluded and the agreed next step written down on the day.
 
                 ## Notes
-                If worry ever comes with thoughts of harming yourself, say so at this appointment, or contact urgent services sooner rather than waiting for it. Asking for a longer appointment is reasonable when you have a lot to cover.
+                If worry ever comes with thoughts of harming yourself, say so at this appointment, or contact urgent services sooner rather than waiting for it. Crisis lines include Samaritans on 116 123 in the UK and Ireland and the 988 Suicide & Crisis Lifeline in the US (call or text 988). Asking for a longer appointment is reasonable when you have a lot to cover.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -250,7 +250,7 @@ starter_structure:
             - name: Choosing a first treatment step with your doctor
               description: |-
                 ## Purpose
-                Most health services use stepped care for generalised anxiety: information and self-help first, then guided self-help or groups, then individual CBT or applied relaxation, with medication offered as an option at several points. Knowing the steps before you choose means you can say what you prefer, talking therapy, medication or both, and why. The decision belongs to you and your clinician together.
+                Most health services use stepped care for generalised anxiety: information and self-help first, then guided self-help or groups, then individual CBT or applied relaxation, with medication (usually an SSRI) offered as an alternative to high-intensity therapy at that stage or later. Knowing the steps before you choose means you can say what you prefer, talking therapy, medication or both, and why. The decision belongs to you and your clinician together.
 
                 ## Milestones
                 1. The treatments your local health service offers for generalised anxiety listed.
@@ -444,7 +444,7 @@ starter_structure:
                 4. The plan kept on your phone and on paper.
 
                 ## Notes
-                This plan is for days that are hard but safe. If you feel at risk of harming yourself, use a crisis plan or contact emergency services.
+                This plan is for days that are hard but safe. If you feel at risk of harming yourself, use a crisis plan or contact emergency services. Crisis lines include Samaritans on 116 123 in the UK and Ireland and the 988 Suicide & Crisis Lifeline in the US (call or text 988).
               priority: low
               frontmatter:
                 mode: building
@@ -1156,7 +1156,7 @@ starter_structure:
                 1. One core fear chosen with your therapist, such as a loved one coming to harm.
                 2. A detailed written scenario of that fear prepared.
                 3. The scenario revisited in planned sessions, with anxiety rated each time.
-                4. Anxiety ratings shown to fall across sessions.
+                4. Anxiety ratings tracked across sessions and reviewed with your therapist.
 
                 ## Notes
                 Do not try this alone if you have experienced trauma or feel unstable. Discuss it with a therapist first.

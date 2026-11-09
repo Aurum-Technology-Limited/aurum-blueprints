@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Keep the brief about the company you expect to be in five years, not only the first product. A name tied to one feature, city or technology can feel cramped after the first pivot.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:

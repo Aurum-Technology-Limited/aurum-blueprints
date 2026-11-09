@@ -1130,7 +1130,7 @@ starter_structure:
                 4. A family counsellor or mediator suggested if both sides want to talk.
 
                 ## Notes
-                You cannot fix someone else's relationship. Where there is abuse or safety risk, protecting people comes before attendance, and professional help is the right route.
+                You cannot fix someone else's relationship. Where there is abuse or safety risk, protecting people comes before attendance, and professional help is the right route. If you feel afraid of a family member, or someone is controlling, threatening or hurting you, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233). If a child may be at risk, contact your local child-protection service or a helpline such as the NSPCC (0808 800 5000) in the UK or Childhelp (1-800-422-4453) in the US.
               priority: medium
               frontmatter:
                 mode: building

@@ -4,7 +4,7 @@ name: Feature Adoption Tracking
 description: "Clear adoption definitions, a dashboard per feature, regular post-launch checkpoints and the fix, promote or retire calls that follow when nobody is using what shipped."
 category: business
 version: 1.0.0
-tags: [product-management, feature-adoption-tracking, team, manager, adoption, product-analytics, dashboards, post-launch]
+tags: [product-management, feature-adoption-tracking, team, manager, adoption, product-analytics, dashboards, post-launch, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Feature inventory with owners and launch dates
               description: |-
                 ## Purpose
-                Most products have more features than anyone can list from memory, and adoption cannot be tracked for features nobody has written down. A single inventory with each feature's owner, launch date, plan availability and the event that shows it being used is the spine every later report hangs from.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most products have more features than anyone can list from memory, and adoption cannot be tracked for features nobody has written down. A single inventory with each feature's owner, launch date, plan availability and the event that shows it being used is the spine every later report hangs from.
 
                 ## Milestones
                 1. A list of every user-facing feature, grouped by product area, with no duplicates.

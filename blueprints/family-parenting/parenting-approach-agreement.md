@@ -1159,6 +1159,9 @@ starter_structure:
                 2. Two or three family therapists or parenting counsellors compared on approach, cost and availability.
                 3. A first session attended by both parents.
                 4. An agreed goal for the sessions and a point to review whether they are helping.
+
+                ## Notes
+                Joint sessions are not advised where one partner is afraid of the other. If you feel afraid of a partner or family member, or someone is controlling, threatening or hurting you or the children, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233).
               priority: low
               frontmatter:
                 mode: research

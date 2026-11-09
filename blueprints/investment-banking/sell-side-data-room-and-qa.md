@@ -4,7 +4,7 @@ name: Sell-Side Data Room and Q&A
 description: "A sell-side data room and Q&A system: provider choice, index and request lists, access by bidder and phase, a question log with client-approved answers, audit trails, freeze and close-out."
 category: business
 version: 1.0.0
-tags: [investment-banking, sell-side-data-room-and-qa, knowledge-worker, analyst, associate, data-room, due-diligence, q-and-a]
+tags: [investment-banking, sell-side-data-room-and-qa, knowledge-worker, analyst, associate, data-room, due-diligence, q-and-a, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Data room readiness review with the client
               description: |-
                 ## Purpose
-                Most sale timetables slip in the data room, not the bid rounds, because nobody checked early how much of the company's paperwork exists, where it lives and who can find it. A two-hour walk through the main document categories with the client's finance lead and general counsel shows which folders will be quick, which need months, and which documents may not exist at all.
+                Most sale timetables slip in the data room, not the bid rounds, because nobody checked early how much of the company's paperwork exists, where it lives and who can find it. A two-hour walk through the main document categories with the client's finance lead and general counsel shows which folders will be quick, which need months, and which documents may not exist at all. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A list of the twelve or so main document categories, each marked ready, findable or missing.
@@ -972,7 +972,7 @@ starter_structure:
                 - "Send destruction confirmation requests to each losing bidder"
                 - "File the confirmations and chase anything missing"
                 - "Close the provider account and check the final invoice"
-            - name: Your first data room as an analyst
+            - name: A new analyst's first data room
               description: |-
                 ## Purpose
                 Running the room is often the first live workstream an analyst owns, and it is visible to the client, bidders and seniors every day. Breaking it into stages, from setting up the index to the freeze, with a check-in with your associate at each, turns an overwhelming list into work you can show you own.

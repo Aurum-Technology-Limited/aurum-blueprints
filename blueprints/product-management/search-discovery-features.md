@@ -4,7 +4,7 @@ name: Search & Discovery Features
 description: "Search people can trust and browsing that makes sense: query log baselines, quality metrics and judgement lists, weekly zero-result reviews, relevance tuning, facets, autocomplete and the engine decisions behind them."
 category: business
 version: 1.0.0
-tags: [product-management, search-discovery-features, team, engineer, search, relevance, information-architecture, search-analytics]
+tags: [product-management, search-discovery-features, team, engineer, search, relevance, information-architecture, search-analytics, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Search and discovery audit of the current product
               description: |-
                 ## Purpose
-                Before changing ranking or adding filters, someone needs to write down how people actually find things in the product today: the search box, category pages, filters, sort menus, saved views and links from elsewhere. Teams are often surprised to find three separate search implementations, a filter nobody uses and a browse path that dead-ends. A two-week audit gives the team a shared picture and a starting list of problems ranked by how many users hit them.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before changing ranking or adding filters, someone needs to write down how people actually find things in the product today: the search box, category pages, filters, sort menus, saved views and links from elsewhere. Teams are often surprised to find three separate search implementations, a filter nobody uses and a browse path that dead-ends. A two-week audit gives the team a shared picture and a starting list of problems ranked by how many users hit them.
 
                 ## Milestones
                 1. Every entry point for finding content listed, with a screenshot and the engine or query behind each.

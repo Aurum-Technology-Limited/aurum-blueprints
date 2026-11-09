@@ -4,7 +4,7 @@ name: Two-Sided Marketplace Products
 description: "Marketplaces that work for both sides: the constrained side and first market, liquidity and unit economics, trust and payments, routines that keep supply healthy, and specialist work on experiments and network effects."
 category: business
 version: 1.0.0
-tags: [product-management, two-sided-marketplace-products, founder, team, network-effects, liquidity, trust-and-safety, take-rate]
+tags: [product-management, two-sided-marketplace-products, founder, team, network-effects, liquidity, trust-and-safety, take-rate, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Constrained side diagnosis for your marketplace
               description: |-
                 ## Purpose
-                Almost every marketplace has one side that is harder to get and one that follows once the first is there: for a home cleaning app it is usually reliable cleaners, for a used furniture site it is buyers in the right postcode. Naming the constrained side from evidence, not instinct, decides where the first year of acquisition money, product effort and founder time goes.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Almost every marketplace has one side that is harder to get and one that follows once the first is there: for a home cleaning app it is usually reliable cleaners, for a used furniture site it is buyers in the right postcode. Naming the constrained side from evidence, not instinct, decides where the first year of acquisition money, product effort and founder time goes.
 
                 ## Milestones
                 1. Ten to fifteen conversations or data pulls showing where transactions currently fail: no supply, no demand or no match.

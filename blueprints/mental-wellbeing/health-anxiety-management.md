@@ -35,7 +35,9 @@ starter_structure:
                 ## Notes
                 If a genuinely new symptom also needs looking at, name it at the start, then move on to the anxiety. Keeping the two apart stops the appointment turning into another round of reassurance.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                If you are thinking of harming yourself or feel unable to keep yourself safe, call your local emergency number or a crisis line now, for example Samaritans on 116 123 in the UK and Ireland, or call or text 988 in the US.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
@@ -374,7 +376,7 @@ starter_structure:
                 4. A monthly count of how many noted symptoms faded without any action.
 
                 ## Notes
-                The wait rule never applies to symptoms your doctor has told you to act on straight away. Keep that list at the top of the page.
+                The wait rule never applies to symptoms your doctor has told you to act on straight away. Keep that list at the top of the page. It also never applies to sudden or severe symptoms such as chest pain, difficulty breathing, signs of a stroke or heavy bleeding: call your local emergency number.
               priority: medium
               frontmatter:
                 mode: operating

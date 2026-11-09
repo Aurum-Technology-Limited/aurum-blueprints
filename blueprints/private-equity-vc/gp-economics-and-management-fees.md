@@ -4,7 +4,7 @@ name: GP Economics and Management Fees
 description: "A fee income schedule, a management company budget and breakeven, a funded GP commitment, monthly cash and cost reviews, and an economics plan that carries a manager from Fund I to Fund III."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, gp-economics-and-management-fees, founder, management-company, management-fees, gp-commitment, fund-budgeting, emerging-manager]
+tags: [private-equity-vc, gp-economics-and-management-fees, founder, management-company, management-fees, gp-commitment, fund-budgeting, emerging-manager, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Management company and GP entity map
               description: |-
                 ## Purpose
-                Most first-time managers have at least three entities in play: the fund, the general partner that controls it and takes carry, and the management company that receives fees and employs the team. A one-page map of who owns each entity, which one signs which contract and where each cash flow lands stops fees, costs and GP capital ending up in the wrong bank account.
+                Most first-time managers have at least three entities in play: the fund, the general partner that controls it and takes carry, and the management company that receives fees and employs the team. A one-page map of who owns each entity, which one signs which contract and where each cash flow lands stops fees, costs and GP capital ending up in the wrong bank account. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A diagram showing the fund, the GP entity, the management company and any carry vehicle, with owners and percentages.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Keep the map with the formation documents and update it whenever an entity is added. Structuring choices themselves belong to fund counsel and your tax adviser; this project records what was set up.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -360,7 +362,7 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "Describe how cash moves under each GP commitment route"
-                - "List the tax and accounting questions for your adviser"
+                - "CFO lists tax and accounting questions for the licensed tax adviser"
                 - "Ask two LPs or fellow managers how they view fee waivers"
                 - "Build the comparison table for the commitment decision"
             - name: Management company accounting basics for founders

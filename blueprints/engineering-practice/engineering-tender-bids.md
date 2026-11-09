@@ -4,7 +4,7 @@ name: Engineering Tender Bids
 description: "Bids that are compliant, priced on purpose and delivered on time: a go or no-go discipline, a tender register and compliance matrix, clarifications, priced risks, a settled price and a clean submission."
 category: business
 version: 1.0.0
-tags: [engineering-practice, engineering-tender-bids, engineer, small-business, tendering, bid-management, proposals, procurement]
+tags: [engineering-practice, engineering-tender-bids, engineer, small-business, tendering, bid-management, proposals, procurement, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Go or no-go scorecard for engineering tenders
               description: |-
                 ## Purpose
-                Most firms that complain about a low hit rate are bidding for work they were never likely to win, and every unwinnable bid takes estimators and engineers away from the ones they could. A written scorecard, with weighted criteria such as client relationship, technical fit, capacity, competition, contract risk and margin potential, turns the decision to bid into something the team can argue about with facts in the first two days of a tender.
+                Most firms that complain about a low hit rate are bidding for work they were never likely to win, and every unwinnable bid takes estimators and engineers away from the ones they could. A written scorecard, with weighted criteria such as client relationship, technical fit, capacity, competition, contract risk and margin potential, turns the decision to bid into something the team can argue about with facts in the first two days of a tender. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Eight to ten go or no-go criteria agreed, each with a weighting and a scoring guide.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Declining politely, with a short letter to the client, protects the relationship far better than a rushed, non-compliant bid.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

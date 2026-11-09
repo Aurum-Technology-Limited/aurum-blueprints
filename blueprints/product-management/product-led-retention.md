@@ -4,7 +4,7 @@ name: Product-Led Retention
 description: "A written retention definition, honest cohort curves, the behaviours that predict who stays, review rhythms for churn and dormancy, and fixes for the moments users quietly leave."
 category: business
 version: 1.0.0
-tags: [product-management, product-led-retention, team, founder, retention, churn, cohort-analysis, habit-loops]
+tags: [product-management, product-led-retention, team, founder, retention, churn, cohort-analysis, habit-loops, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Written definition of a retained user
               description: |-
                 ## Purpose
-                Teams argue about whether retention is improving because each person means something different by an active user: logged in, opened the app, or did the thing the product exists for. Writing one definition built on a core value action, rather than a login, makes every later chart and decision comparable. It takes an afternoon and saves months of crossed wires.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Teams argue about whether retention is improving because each person means something different by an active user: logged in, opened the app, or did the thing the product exists for. Writing one definition built on a core value action, rather than a login, makes every later chart and decision comparable. It takes an afternoon and saves months of crossed wires.
 
                 ## Milestones
                 1. Three candidate definitions written, each naming the action that counts as real use.

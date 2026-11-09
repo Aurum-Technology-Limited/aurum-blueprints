@@ -4,7 +4,7 @@ name: Sales Contests & SPIFFs
 description: "Short sales contests and SPIFFs that change one behaviour at a time, with a written policy, an agreed budget, fair rules, prizes paid on time and an honest look at what each incentive bought."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-contests-spiffs, manager, team, incentives, spiffs, sales-contests, recognition]
+tags: [sales-revenue, sales-contests-spiffs, manager, team, incentives, spiffs, sales-contests, recognition, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Contest and SPIFF policy one-pager
               description: |-
                 ## Purpose
-                Sales teams that run incentives without a written policy end up arguing about each one: who qualifies, which deals count, when prizes are paid and who can approve a new SPIFF on a Thursday afternoon. A single page agreed by sales leadership, finance and HR settles those questions once, so every later contest only has to define its goal, its metric and its prize.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Sales teams that run incentives without a written policy end up arguing about each one: who qualifies, which deals count, when prizes are paid and who can approve a new SPIFF on a Thursday afternoon. A single page agreed by sales leadership, finance and HR settles those questions once, so every later contest only has to define its goal, its metric and its prize.
 
                 ## Milestones
                 1. A one-page policy covering eligibility, crediting, approval, payout timing and disputes.

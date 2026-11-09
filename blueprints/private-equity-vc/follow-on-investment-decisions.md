@@ -4,7 +4,7 @@ name: Follow-On Investment Decisions
 description: "A written follow-on policy, a live reserves ledger, pro rata rights on file, a scorecard and rationale for every later-round cheque, and honest hindsight reviews."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, follow-on-investment-decisions, knowledge-worker, venture-capital, reserves, pro-rata, follow-on, portfolio-management]
+tags: [private-equity-vc, follow-on-investment-decisions, knowledge-worker, venture-capital, reserves, pro-rata, follow-on, portfolio-management, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Written follow-on policy for the fund
               description: |-
                 ## Purpose
-                Without a written policy, follow-on cheques drift towards whichever founder calls loudest or whichever round closes first. A two-page policy that states when you take pro rata, when you go above it, when you pass and who decides turns every later-round conversation into an application of rules agreed in calm conditions.
+                Without a written policy, follow-on cheques drift towards whichever founder calls loudest or whichever round closes first. A two-page policy that states when you take pro rata, when you go above it, when you pass and who decides turns every later-round conversation into an application of rules agreed in calm conditions. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A two-page policy covering default pro rata, super pro rata, bridges, insider rounds and passes.
@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Keep the policy consistent with the fund's documents. If the LPA limits follow-ons into companies other funds of the manager hold, or caps concentration, quote those limits rather than paraphrasing them.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -169,7 +171,7 @@ starter_structure:
                 effort_hours_estimate: "8"
               tasks:
                 - "Request the latest fully diluted cap table from each company"
-                - "Compare each cap table with your own ownership records"
+                - "Finance compares each cap table with the fund's ownership records"
                 - "Estimate dilution from the next round and option pool top-up"
                 - "Refresh ownership figures after cap table updates @recurring(quarterly)"
             - name: Information rights and reporting gaps map
@@ -466,7 +468,7 @@ starter_structure:
               tasks:
                 - "Pick three recent later-stage term sheets from portfolio rounds"
                 - "Mark every clause that changes the position of existing shareholders"
-                - "Walk a partner or counsel through your annotations"
+                - "Walk the deal partner and fund counsel through the annotations"
                 - "Turn the annotations into a one-page insider clause checklist"
             - name: Pro rata maths on a fully diluted basis
               description: |-

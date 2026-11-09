@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Include the reviewer comments if you can find them. The comments you received twice are the cheapest lessons you will get.
+
+                Before you start: this plan is general information to help you organise your own work. It does not replace your professional judgement, the rules of your regulator or professional body, your firm's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

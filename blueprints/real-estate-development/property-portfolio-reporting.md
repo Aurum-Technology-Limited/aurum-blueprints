@@ -4,7 +4,7 @@ name: Property Portfolio Reporting
 description: "Portfolio numbers people can rely on: one property list, agreed KPI definitions, a consolidated rent roll, arrears, occupancy, debt and valuation schedules, and a quarterly pack for partners or lenders that goes out on time."
 category: business
 version: 1.0.0
-tags: [real-estate-development, property-portfolio-reporting, small-business, knowledge-worker, rent-roll, arrears, covenants, quarterly-reporting]
+tags: [real-estate-development, property-portfolio-reporting, small-business, knowledge-worker, rent-roll, arrears, covenants, quarterly-reporting, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Master property list for the portfolio
               description: |-
                 ## Purpose
-                Every later report depends on one agreed list of what the portfolio actually owns, and many owners discover that the bank, the accountant and the property manager each count it differently. A master list with one row per property, its owning entity, unit count, lettable area, purchase date and lender becomes the spine that every rent roll and schedule hangs from.
+                Every later report depends on one agreed list of what the portfolio actually owns, and many owners discover that the bank, the accountant and the property manager each count it differently. A master list with one row per property, its owning entity, unit count, lettable area, purchase date and lender becomes the spine that every rent roll and schedule hangs from. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. One row per property with address, owning entity, ownership share and acquisition date.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Keep sold properties on a separate tab with their sale date rather than deleting them, so historic reports still reconcile.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help your team organise its work. It is not legal advice, and following it does not make anyone your organisation's lawyer. Rules differ between countries and change often, so check decisions that matter, and anything your organisation signs, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -554,7 +554,7 @@ starter_structure:
             - name: Physical and economic occupancy explained
               description: |-
                 ## Purpose
-                Buildings can be 95 percent let by units and still collect only 80 percent of its potential rent once rent-free periods, discounts and arrears are counted. Learning how physical, economic and financial occupancy differ, and which one each audience expects, stops you reporting a flattering number that a lender will recalculate.
+                Buildings can be 95 percent let by units and still collect only 80 percent of their potential rent once rent-free periods, discounts and arrears are counted. Learning how physical, economic and financial occupancy differ, and which one each audience expects, stops you reporting a flattering number that a lender will recalculate.
 
                 ## Milestones
                 1. Notes on physical, economic and collected occupancy with a worked example for one property.
@@ -944,10 +944,10 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "8"
               tasks:
-                - "Have a second person recheck the covenant calculation against the agreement"
+                - "Have the finance manager recheck the covenant calculation against the agreement"
                 - "Write the cause of the shortfall with supporting figures"
                 - "Forecast the next two test dates from known lease events"
-                - "Brief your lawyer and record their advice on what to send and when"
+                - "CFO briefs the lawyer and records their advice on what to send and when"
             - name: Reporting handover when changing property manager
               description: |-
                 ## Purpose

@@ -4,7 +4,7 @@ name: Public Sector Consulting Engagements
 description: "A working system for consulting to government: procurement routes and compliance packs, bid gates, value for money and business cases, contract reporting, approval tracking, transparency habits and the political calendar."
 category: business
 version: 1.0.0
-tags: [management-consulting, public-sector-consulting-engagements, knowledge-worker, freelancer, public-procurement, value-for-money, business-case, government]
+tags: [management-consulting, public-sector-consulting-engagements, knowledge-worker, freelancer, public-procurement, value-for-money, business-case, government, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Public body decision map for each target client
               description: |-
                 ## Purpose
-                In a public body the person who asked for help, the budget holder, the accounting officer who signs off spending and the commercial team who runs the contract are rarely the same person. A one-page map for each target client stops you pitching to someone who cannot buy and missing the official who can veto the work.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. In a public body the person who asked for help, the budget holder, the accounting officer who signs off spending and the commercial team who runs the contract are rarely the same person. A one-page map for each target client stops you pitching to someone who cannot buy and missing the official who can veto the work.
 
                 ## Milestones
                 1. A one-page map for each of your top three target bodies naming the minister or elected lead, senior official, budget holder and commercial lead.

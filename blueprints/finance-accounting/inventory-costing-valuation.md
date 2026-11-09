@@ -4,7 +4,7 @@ name: Inventory Costing & Valuation
 description: "A written stock valuation policy and cost formula, ledgers that reconcile, cycle and year-end counts, obsolescence and net realisable value reviews, and costing rules that keep cost of goods sold right."
 category: business
 version: 1.0.0
-tags: [finance-accounting, inventory-costing-valuation, small-business, manager, enterprise, stock-count, cost-of-goods-sold, stock-provisions]
+tags: [finance-accounting, inventory-costing-valuation, small-business, manager, enterprise, stock-count, cost-of-goods-sold, stock-provisions, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Inventory valuation policy on one page
               description: |-
                 ## Purpose
-                Ask three people how stock is valued in a typical small or mid-sized business and you will hear three answers, which is why year-end adjustments surprise everyone. A one-page policy stating the cost formula, what goes into cost, how counts and write-offs are approved and when provisions are made gives the bookkeeper, the warehouse and the auditor one reference. Write it before changing anything else, so every later project has something to point back to.
+                Ask three people how stock is valued in a typical small or mid-sized business and you will hear three answers, which is why year-end adjustments surprise everyone. A one-page policy stating the cost formula, what goes into cost, how counts and write-offs are approved and when provisions are made gives the bookkeeper, the warehouse and the auditor one reference. Write it before changing anything else, so every later project has something to point back to. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page policy covering cost formula, cost inclusions, counts, write-offs and provisions.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Keep it short. A long policy nobody reads gives false comfort at audit time, which is worse than having none.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -1180,4 +1180,4 @@ starter_structure:
 
 This area is for anyone whose accounts carry stock: an owner valuing a shop or small workshop, a finance manager answerable for the inventory line, or an enterprise team running costing across several sites. It starts with the foundations (a written valuation policy, the cost formula, a clean item master, a posting map, a ledger tie-out and a first full count), moves to the routines of reconciliation, cycle counts, cut-off, obsolescence and net realisable value reviews, then the accounting skills behind them, improvements such as landed costs and a provision matrix, the year-end count and valuation pack, situations for retailers, online sellers, small manufacturers and new managers, and finally specialist work on consignment, variance capitalisation and joint costs.
 
-What repeats is a weekly exceptions sweep and cycle count, a monthly reconciliation alongside goods received not invoiced, cut-off, adjustment, variance, shrinkage and cost change reviews, quarterly obsolescence and net realisable value tests, and a yearly standard cost roll, provision refresh and count plan. The Operational checklist, Metrics log, Meeting notes, Remediation plan, Vendor and Onboarding 30/60/90 templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a weekly exceptions sweep and cycle count, a monthly reconciliation alongside goods received not invoiced, cut-off, adjustment, variance, shrinkage and cost change reviews, quarterly obsolescence and net realisable value tests, and a yearly standard cost roll, provision refresh and count plan. The Operational checklist, Metrics log, Meeting notes, Remediation plan, Vendor and Onboarding 30/60/90 templates pair with the projects that name them. In a shared workspace, the warehouse team owns counts and movements, the cost accountant owns valuation, and the financial controller and a qualified accountant sign off the policy, write-downs and tax treatment. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

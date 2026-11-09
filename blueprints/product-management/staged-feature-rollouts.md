@@ -4,7 +4,7 @@ name: Staged Feature Rollouts
 description: "A flag inventory you can trust, a stage ladder with guardrail metrics and tested kill switches, weekly rollout reviews, drills and flag clean-up, for product teams and engineers releasing features gradually."
 category: business
 version: 1.0.0
-tags: [product-management, staged-feature-rollouts, team, engineer, feature-flags, progressive-delivery, kill-switch, canary]
+tags: [product-management, staged-feature-rollouts, team, engineer, feature-flags, progressive-delivery, kill-switch, canary, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Feature flag inventory with owners and expiry dates
               description: |-
                 ## Purpose
-                Most codebases that have used flags for a year carry dozens nobody can explain: a toggle from a launch two years ago, a percentage stuck at 50, a kill switch whose owner has left. One inventory listing every flag with its owner, current state and intended removal date is the starting point for every safer rollout, and it usually exposes a handful that are silently serving different code to different customers.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most codebases that have used flags for a year carry dozens nobody can explain: a toggle from a launch two years ago, a percentage stuck at 50, a kill switch whose owner has left. One inventory listing every flag with its owner, current state and intended removal date is the starting point for every safer rollout, and it usually exposes a handful that are silently serving different code to different customers.
 
                 ## Milestones
                 1. Every flag in the flag service and in config files listed in one sheet.

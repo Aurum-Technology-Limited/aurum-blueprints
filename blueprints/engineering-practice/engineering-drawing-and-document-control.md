@@ -4,7 +4,7 @@ name: Engineering Drawing and Document Control
 description: "A numbering and revision scheme everyone follows, a master document register that matches reality, transmittals and vendor documents tracked to return, superseded prints off site and as-builts handed over complete."
 category: business
 version: 1.0.0
-tags: [engineering-practice, engineering-drawing-and-document-control, engineer, document-control, document-register, transmittals, vendor-documents, as-built]
+tags: [engineering-practice, engineering-drawing-and-document-control, engineer, document-control, document-register, transmittals, vendor-documents, as-built, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Project document control procedure
               description: |-
                 ## Purpose
-                Without a written procedure, each discipline invents its own way of numbering, issuing and filing, and the differences surface at handover when nobody can say which set is the record. A short procedure that names the register, the numbering key, the revision rules, the transmittal route and who may issue a document gives the whole team one rulebook from the first issue.
+                Without a written procedure, each discipline invents its own way of numbering, issuing and filing, and the differences surface at handover when nobody can say which set is the record. A short procedure that names the register, the numbering key, the revision rules, the transmittal route and who may issue a document gives the whole team one rulebook from the first issue. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The contract and client specifications searched for every document control requirement, each listed with its clause.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Write the procedure to the client's requirements, not to a generic company version: client specifications often fix the numbering format and the review code meanings, and a mismatch costs months of renumbering.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

@@ -4,7 +4,7 @@ name: Transformation Office Support
 description: "A working transformation office for a client: an agreed value target and baseline, stage gates that mean something, a weekly and monthly governance rhythm, value reconciled with finance and a board report people trust."
 category: business
 version: 1.0.0
-tags: [management-consulting, transformation-office-support, knowledge-worker, transformation-office, pmo, value-tracking, stage-gates, governance]
+tags: [management-consulting, transformation-office-support, knowledge-worker, transformation-office, pmo, value-tracking, stage-gates, governance, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Transformation value target signed off by the CFO
               description: |-
                 ## Purpose
-                Programmes launched on a slogan such as "world-class cost base" spend their first quarter arguing about what success means. A single headline target, for example a run-rate EBITDA improvement of a stated amount by a stated month, split by lever and business unit and signed by the chief financial officer, gives every later gate, report and argument something fixed to refer back to.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Programmes launched on a slogan such as "world-class cost base" spend their first quarter arguing about what success means. A single headline target, for example a run-rate EBITDA improvement of a stated amount by a stated month, split by lever and business unit and signed by the chief financial officer, gives every later gate, report and argument something fixed to refer back to.
 
                 ## Milestones
                 1. One headline target written with its metric, amount, measurement basis and date.

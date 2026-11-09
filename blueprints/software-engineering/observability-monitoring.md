@@ -4,7 +4,7 @@ name: Observability & Monitoring
 description: "Logs, metrics and traces you can trust, alerts that page on real user pain, dashboards people actually open, and the routines that keep telemetry useful and affordable."
 category: business
 version: 1.0.0
-tags: [software-engineering, observability-monitoring, engineer, team, logging, metrics, distributed-tracing, alerting]
+tags: [software-engineering, observability-monitoring, engineer, team, logging, metrics, distributed-tracing, alerting, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Telemetry inventory of production services
               description: |-
                 ## Purpose
-                Most teams have more monitoring than they think and less than they need: three log tools, a dashboard nobody owns and one service that emits nothing at all. Listing every production service with what it sends, where it goes and who looks at it turns that vague unease into a map you can plan against in a single afternoon.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most teams have more monitoring than they think and less than they need: three log tools, a dashboard nobody owns and one service that emits nothing at all. Listing every production service with what it sends, where it goes and who looks at it turns that vague unease into a map you can plan against in a single afternoon.
 
                 ## Milestones
                 1. Every production service listed with its owner and runtime.

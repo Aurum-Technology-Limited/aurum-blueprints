@@ -26,7 +26,7 @@ starter_structure:
             - name: Flipping readiness and capital check
               description: |-
                 ## Purpose
-                Before viewing a single property, work out how much cash you can commit for six to twelve months and how much you could lose without harming your household. Flips routinely run 20 percent over budget and two months over time, so the honest number is the one that survives both. Knowing it now stops you chasing deals you cannot finish.
+                Before viewing a single property, work out how much cash you can commit for six to twelve months and how much you could lose without harming your household. Renovations often run over budget and behind schedule, so the honest number is the one that survives a 20 percent overrun and a two-month delay. Knowing it now stops you chasing deals you cannot finish.
 
                 ## Milestones
                 1. Cash available for deposit, works and contingency written as one figure, separate from emergency savings.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 If the plan depends on borrowing against your own home, talk it through with a mortgage adviser before going further: the downside then includes the roof over your head.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help you organise decisions about money. It is not financial, investment, tax or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with a qualified, licensed adviser in yours. Investing and trading can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -564,7 +564,7 @@ starter_structure:
             - name: Buying at property auction
               description: |-
                 ## Purpose
-                Auctions carry many unmodernised and hard-to-mortgage homes, but in many countries the hammer falling is a binding contract, usually with a 10 percent deposit on the day and completion within about 28 days. Learning to read a legal pack, set a ceiling and arrange finance before the day prevents the expensive auction-room mistakes.
+                Auctions carry many unmodernised and hard-to-mortgage homes, but in some countries, England and Wales for example, the hammer falling is a binding contract, usually with a 10 percent deposit on the day and completion within about 28 days. Check the auction terms and local rules before bidding. Learning to read a legal pack, set a ceiling and arrange finance before the day prevents the expensive auction-room mistakes.
 
                 ## Milestones
                 1. Two auctions watched without bidding.

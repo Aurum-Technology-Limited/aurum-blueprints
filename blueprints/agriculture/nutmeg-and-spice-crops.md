@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 A phone mapping app that records a walked track is enough to start. Paint the block name on a post at each entrance so pickers and family use the same names.
+
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

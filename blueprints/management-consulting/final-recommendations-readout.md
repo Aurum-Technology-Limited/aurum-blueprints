@@ -4,7 +4,7 @@ name: Final Recommendations Readout
 description: "A system for the final readout of an engagement: the decision sought, one clear recommendation with its evidence and financial case, a roadmap, rehearsals, objection handling and the follow-through afterwards."
 category: business
 version: 1.0.0
-tags: [management-consulting, final-recommendations-readout, knowledge-worker, final-readout, recommendations, implementation-roadmap, objection-handling, executive-presentation]
+tags: [management-consulting, final-recommendations-readout, knowledge-worker, final-readout, recommendations, implementation-roadmap, objection-handling, executive-presentation, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Decision the readout must produce
               description: |-
                 ## Purpose
-                Most weak readouts are weak because nobody wrote down what the client should decide at the end of the hour. Naming the decision, the person who can make it and what a yes commits them to turns the readout from a presentation of findings into a meeting with a purpose, and it tells you which pages earn their place.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most weak readouts are weak because nobody wrote down what the client should decide at the end of the hour. Naming the decision, the person who can make it and what a yes commits them to turns the readout from a presentation of findings into a meeting with a purpose, and it tells you which pages earn their place.
 
                 ## Milestones
                 1. One sentence stating the decision sought, such as approving a two-phase rollout and a named programme lead.

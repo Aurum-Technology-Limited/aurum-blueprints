@@ -4,7 +4,7 @@ name: Residential Property Management Operations
 description: "The daily machinery of residential property management: fair tenant screening, rent collection and a firm arrears ladder, maintenance triage, inspections, compliance renewals and landlord statements that arrive on time."
 category: business
 version: 1.0.0
-tags: [real-estate-development, residential-property-management-ops, small-business, property-management, tenant-screening, rent-arrears, maintenance, inspections]
+tags: [real-estate-development, residential-property-management-ops, small-business, property-management, tenant-screening, rent-arrears, maintenance, inspections, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Managed property register and unit files
               description: |-
                 ## Purpose
-                Every other process in this area depends on knowing exactly which homes you manage, who owns them, who lives in them and what you are allowed to spend without asking. A single register with one row per unit, linked to a tidy digital file for each property, ends the hunt through email threads when a tenant rings about a leak at 9pm.
+                Every other process in this area depends on knowing exactly which homes you manage, who owns them, who lives in them and what you are allowed to spend without asking. A single register with one row per unit, linked to a tidy digital file for each property, ends the hunt through email threads when a tenant rings about a leak at 9pm. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A register listing every managed unit with address, landlord, tenant names, rent, tenancy start and end dates and the agreed repair spending limit.
@@ -36,7 +36,7 @@ starter_structure:
                 4. The register checked against the rent ledger so the number of units and rents match.
 
                 ## Notes
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help your team organise its work. It is not legal advice, and following it does not make anyone your organisation's lawyer. Rules differ between countries and change often, so check decisions that matter, and anything your organisation signs, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -98,7 +98,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "8"
               tasks:
-                - "Confirm which certificates and licences residential lets need where you operate"
+                - "Compliance lead confirms which certificates and licences residential lets need locally"
                 - "Record each certificate's expiry and the date the tenant got a copy"
                 - "Set a booking lead time for each certificate type"
                 - "Book renewals for anything expiring in the next eight weeks @priority(high)"
@@ -427,7 +427,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Write down the deposit rules and deadlines where you operate"
+                - "Compliance lead writes down the deposit rules and deadlines, checked by a housing solicitor"
                 - "Check proof of protection for every current deposit"
                 - "Write a return procedure with day targets for each step"
                 - "Audit new deposits taken last month for protection proof @recurring(monthly:8)"
@@ -561,7 +561,7 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Go through one referencing report section by section and note what each shows"
-                - "Write how you assess irregular and self-employed income"
+                - "Lettings manager writes how irregular and self-employed income is assessed"
                 - "List warning signs of altered payslips and false references"
                 - "Test the checklist on five past applications"
             - name: Damp, mould and condensation diagnosis

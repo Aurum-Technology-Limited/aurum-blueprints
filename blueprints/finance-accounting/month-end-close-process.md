@@ -4,7 +4,7 @@ name: Month-End Close Process
 description: "A working-day close calendar and checklist with named owners, monthly accruals, prepayments and reconciliations, journal review and sign-off, and the changes that bring reliable numbers in five days."
 category: business
 version: 1.0.0
-tags: [finance-accounting, month-end-close-process, small-business, manager, team, accruals, cut-off, close-checklist]
+tags: [finance-accounting, month-end-close-process, small-business, manager, team, accruals, cut-off, close-checklist, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Month-end close checklist from last month's close
               description: |-
                 ## Purpose
-                Most small finance teams close from memory, which works until someone is off sick or a step is quietly skipped and the numbers move a week later. Writing down every task from the last close, in the order it actually happened, gives you a checklist to run, hand over and improve. It is the foundation every other project in this area builds on.
+                Most small finance teams close from memory, which works until someone is off sick or a step is quietly skipped and the numbers move a week later. Writing down every task from the last close, in the order it actually happened, gives you a checklist to run, hand over and improve. It is the foundation every other project in this area builds on. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every task from last month's close listed, including the small ones done from habit.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Start from the **Month-end close** template. Capture what you really do, not what a textbook says; the gaps become obvious once it is written down.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -47,7 +47,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "List every task you did to close last month, in the order you did them"
+                - "List every task done to close last month, in the order it was done"
                 - "Add the owner, system and evidence for each task"
                 - "Group the tasks into pre-close, close days and post-close"
                 - "Ask everyone involved in the close to add anything missing"
@@ -1168,4 +1168,4 @@ starter_structure:
 
 This area is for anyone who has to produce a month's numbers that people can rely on: an owner closing their own books, a finance manager running the close, or a small team sharing it. It starts with the foundations (a checklist built from how you close today, a working-day calendar with owners, a materiality threshold, cut-off rules and an evidence standard), then the monthly machinery of accruals, prepayments, deferred income, reconciliations, journal review and sign-off, the accounting skills behind each entry, the improvements that shorten the close, the dated moments such as quarter end and month twelve, situations for owners, new managers and small teams, and finally the specialist work of continuous accounting, journal analytics and a monthly judgements memo.
 
-What repeats is the close itself: a pre-close week from around the 24th, the accruals, prepayments and income schedules in the first working days, subledger tie-outs and balance sheet reconciliations, journal review, sign-off and lock, then a short retrospective, a metrics entry and a post-close adjustments review. Quarterly and yearly additions sit on top, and a weekly Friday tidy keeps month-end work small. The Month-end close, Meeting notes, Metrics log, Purchase decision and Skills matrix templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is the close itself: a pre-close week from around the 24th, the accruals, prepayments and income schedules in the first working days, subledger tie-outs and balance sheet reconciliations, journal review, sign-off and lock, then a short retrospective, a metrics entry and a post-close adjustments review. Quarterly and yearly additions sit on top, and a weekly Friday tidy keeps month-end work small. The Month-end close, Meeting notes, Metrics log, Purchase decision and Skills matrix templates pair with the projects that name them. In a shared workspace, each close task has a named preparer and a separate reviewer, and the finance manager signs off the month before results are shared. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

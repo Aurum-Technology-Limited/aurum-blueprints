@@ -178,6 +178,9 @@ starter_structure:
                 2. A written rule that first meetings are public, early in the evening and reached by your own transport.
                 3. A backup adult named to collect the children if you are delayed or unwell.
                 4. Your address, the school and the children's routines kept private until trust is earned.
+
+                ## Notes
+                If a date becomes threatening, leave and call your local emergency number. In England and Wales, the Domestic Violence Disclosure Scheme (Clare's Law) lets you ask the police whether a new partner has a record of abuse; check whether your country has something similar.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -227,6 +230,8 @@ starter_structure:
 
                 ## Notes
                 If the plan sets conditions on new partners, or the wording is unclear, ask your family lawyer or mediator rather than guessing.
+
+                If you feel afraid of your ex, or they are controlling, threatening or hurting you, put safety first: call your local emergency number if you are in danger, or a domestic abuse helpline (for example 0808 2000 247 in the UK, or 1-800-799-7233 in the US) before sharing news about your life.
               priority: medium
               deadlineOffsetDays: 45
               frontmatter:
@@ -492,7 +497,7 @@ starter_structure:
                 4. The children taught, at their level, that no adult should ask them to keep secrets.
 
                 ## Notes
-                Trust unease. You do not need proof to pause an introduction or end a relationship, and you can contact a child protection helpline simply to talk a worry through.
+                Trust unease. You do not need proof to pause an introduction or end a relationship, and you can contact a child protection helpline simply to talk a worry through. Examples: the NSPCC helpline in the UK (0808 800 5000) or Childhelp in the US (1-800-422-4453). If a child is in immediate danger, call your local emergency number.
               priority: high
               frontmatter:
                 mode: learning

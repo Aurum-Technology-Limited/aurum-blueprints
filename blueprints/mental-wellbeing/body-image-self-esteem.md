@@ -35,7 +35,7 @@ starter_structure:
                 ## Notes
                 Start from the **Metrics log** template. These scales describe how you feel; they do not diagnose anything, so treat a very low score as a reason to talk to your doctor, not as a verdict.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -111,7 +111,7 @@ starter_structure:
                 4. The name and number of a helpline saved in your phone.
 
                 ## Notes
-                This list organises the guidance of recognised services; it is not a diagnosis. If you or someone you live with is in immediate danger, call your local emergency number.
+                This list organises the guidance of recognised services; it is not a diagnosis. If you or someone you live with is in immediate danger, call your local emergency number. Eating disorder helplines include Beat in the UK (0808 801 0677) and ANAD in the US (1-888-375-7767). Crisis lines include Samaritans on 116 123 in the UK and Ireland and the 988 Suicide & Crisis Lifeline in the US (call or text 988).
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -469,7 +469,7 @@ starter_structure:
                 4. End-of-session distress lower in week four than in week one.
 
                 ## Notes
-                Describe, do not judge: say broad shoulders, not huge shoulders. If sessions become overwhelming or you start checking more, pause and talk to a therapist experienced in body image.
+                Describe, do not judge: say broad shoulders, not huge shoulders. If sessions become overwhelming or you start checking more, pause and talk to a therapist experienced in body image. If you think you may have an eating disorder or body dysmorphic disorder, do mirror work with a therapist rather than alone.
               priority: medium
               deadlineOffsetDays: 42
               frontmatter:

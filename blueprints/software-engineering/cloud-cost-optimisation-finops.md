@@ -4,7 +4,7 @@ name: Cloud Cost Optimisation (FinOps)
 description: "A cloud bill you can read and explain: billing data you can query, tags and owners on every pound spent, budgets and anomaly alerts, waste sweeps, right-sizing, commitment decisions and unit costs that teams own."
 category: business
 version: 1.0.0
-tags: [software-engineering, cloud-cost-optimisation-finops, engineer, manager, founder, finops, cloud-billing, right-sizing]
+tags: [software-engineering, cloud-cost-optimisation-finops, engineer, manager, founder, finops, cloud-billing, right-sizing, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Billing data export to a queryable store
               description: |-
                 ## Purpose
-                Console cost charts are fine for a glance but useless for answering who spent what and why. Turning on the provider's detailed cost and usage export, landing it in a warehouse or query engine and checking it reconciles with the invoice gives every later project in this area something solid to stand on.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Console cost charts are fine for a glance but useless for answering who spent what and why. Turning on the provider's detailed cost and usage export, landing it in a warehouse or query engine and checking it reconciles with the invoice gives every later project in this area something solid to stand on.
 
                 ## Milestones
                 1. The detailed cost and usage export switched on for every billing account, at hourly or daily granularity with resource identifiers included.

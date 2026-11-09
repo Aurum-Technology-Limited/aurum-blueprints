@@ -4,7 +4,7 @@ name: Public Company Investor Relations
 description: "A charter, ownership baseline and disclosure policy for a listed company, the routines and calendar that keep shareholders informed, and plans for guidance, capital markets days, activism and bids."
 category: business
 version: 1.0.0
-tags: [fundraising-investors, public-company-investor-relations, enterprise, manager, listed-company, disclosure, shareholder-engagement, investor-calendar]
+tags: [fundraising-investors, public-company-investor-relations, enterprise, manager, listed-company, disclosure, shareholder-engagement, investor-calendar, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Investor relations charter with the CEO and CFO
               description: |-
                 ## Purpose
-                Investor relations sits between the CEO, the CFO, the company secretary and the board, and without a written mandate it drifts towards whoever asks loudest. A two-page charter that sets what IR owns, who may speak to the market, how much executive time the programme gets and how success is measured settles the turf questions before the first roadshow.
+                Investor relations sits between the CEO, the CFO, the company secretary and the board, and without a written mandate it drifts towards whoever asks loudest. A two-page charter that sets what IR owns, who may speak to the market, how much executive time the programme gets and how success is measured settles the turf questions before the first roadshow. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A two-page charter covering scope, reporting line, spokespeople and the year's objectives.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Keep the measures about access, understanding and shareholder mix, not the share price. IR cannot control the price, and a target built on it invites the wrong behaviour.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

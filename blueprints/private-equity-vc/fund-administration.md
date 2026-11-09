@@ -4,7 +4,7 @@ name: Fund Administration
 description: "A working fund administration set-up: capital calls and distributions that land cleanly, NAV and register checks, payment controls, audit support and a clear way to choose, manage or switch an administrator."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, fund-administration, founder, knowledge-worker, capital-calls, nav, investor-register, fund-operations]
+tags: [private-equity-vc, fund-administration, founder, knowledge-worker, capital-calls, nav, investor-register, fund-operations, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Fund administration responsibilities map
               description: |-
                 ## Purpose
-                Most early fund errors come from a task everyone assumed someone else owned: the administrator thought the GP would confirm the call amount, the GP thought the bank would flag the missing wire. A one-page map of what the GP, administrator, auditor, fund counsel, depositary or bank and tax adviser each own, with the hand-offs between them, is the first document a new fund needs.
+                Most early fund errors come from a task everyone assumed someone else owned: the administrator thought the GP would confirm the call amount, the GP thought the bank would flag the missing wire. A one-page map of what the GP, administrator, auditor, fund counsel, depositary or bank and tax adviser each own, with the hand-offs between them, is the first document a new fund needs. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page map listing every recurring fund administration task with a named owner and a named reviewer.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Ask the administrator for their standard responsibility matrix and edit it rather than starting from blank. Theirs will be written in their favour, so read the GP column closely.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -46,7 +48,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "List every fund administration task you can think of in one sitting"
+                - "CFO and administrator list every fund administration task in one sitting"
                 - "Request the administrator's standard responsibility matrix"
                 - "Mark an owner and reviewer for each task and highlight the unowned ones"
                 - "Agree the final map with the administrator's relationship manager"
@@ -73,7 +75,7 @@ starter_structure:
                 effort_hours_estimate: "8"
               tasks:
                 - "Ask the agent to draft a first-pass abstract of fee, call and distribution clauses from the LPA"
-                - "Check every abstracted line against the clause text yourself"
+                - "A second reviewer checks every abstracted line against the clause text"
                 - "Add a separate table of side-letter terms that change any calculation"
                 - "Send the abstract to fund counsel for confirmation of the readings"
             - name: Investor register built from signed subscriptions
@@ -268,7 +270,7 @@ starter_structure:
                 4. Written GP sign-off sent to the administrator before investor reporting starts.
 
                 ## Notes
-                Start from the **Month-end close** template and adapt it to a quarterly cycle. The valuation itself belongs to your valuation policy; this review checks the NAV carries it correctly.
+                Start from the **Month-end close** template and adapt it to a quarterly cycle. The valuation itself belongs to your valuation policy and is approved by the valuation committee, with the auditor testing it; this review checks the NAV carries it correctly.
               priority: high
               frontmatter:
                 mode: operating

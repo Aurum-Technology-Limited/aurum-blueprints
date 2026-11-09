@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Write the summary in your own words but keep the policy references exact, because the policy text is what you will be held to, not your paraphrase.
+
+                Before you start: this plan is general information to help you organise your own work. It does not replace your professional judgement, the rules of your regulator or professional body, your firm's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -948,7 +950,7 @@ starter_structure:
                 First-year analysts handle more inside information than almost anyone else, on less sleep, with the least context about why the rules exist. Building the core habits in the first three months, before deal volume peaks, means they run on autopilot by the first all-nighter. The aim is simple: disclosures done, pre-clearance routine running, code names everywhere and the compliance number saved.
 
                 ## Milestones
-                1. Holdings and connected persons disclosures submitted in the first two weeks.
+                1. Holdings and connected persons disclosures submitted by your firm's deadline, which is often within the first days or weeks.
                 2. Obligations page, contact card and approved channels in place in the first month.
                 3. Pre-clearance log and wall-crossing register running by day 60.
                 4. A day-90 self-check against the obligations page completed.
@@ -964,7 +966,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Put the two-week disclosure deadline in your calendar today"
+                - "Put your firm's holdings disclosure deadline in your calendar today"
                 - "Set day-30, day-60 and day-90 compliance check dates"
                 - "Ask a second-year analyst which compliance slips they see most"
                 - "Write the day-90 self-check against your obligations page"

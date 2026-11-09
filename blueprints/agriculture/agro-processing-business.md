@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Shelf-stable products such as acidified sauces, jams and dried goods are usually simpler to start than anything needing refrigeration, because cold storage and transport add cost at every step.
+
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

@@ -4,7 +4,7 @@ name: FEED Studies
 description: "A FEED that holds up at final investment decision: a frozen basis of design, defined process and layout, controlled holds and changes, a defensible estimate basis and a clean handover to the EPC contractor."
 category: business
 version: 1.0.0
-tags: [engineering-practice, feed-studies, engineer, feed, basis-of-design, front-end-loading, final-investment-decision, owners-engineer]
+tags: [engineering-practice, feed-studies, engineer, feed, basis-of-design, front-end-loading, final-investment-decision, owners-engineer, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Where FEED sits between concept select and FID
               description: |-
                 ## Purpose
-                Engineers often join a FEED without knowing what the previous stage decided or what the next gate expects, so they rework settled questions and miss the ones the investment committee will ask. Mapping the owner's stage gate process, from appraise and select through FEED to final investment decision, shows which decisions are already closed, which must close in FEED, and what level of definition each deliverable needs to reach.
+                Engineers often join a FEED without knowing what the previous stage decided or what the next gate expects, so they rework settled questions and miss the ones the investment committee will ask. Mapping the owner's stage gate process, from appraise and select through FEED to final investment decision, shows which decisions are already closed, which must close in FEED, and what level of definition each deliverable needs to reach. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page map of the owner's stage gates with the purpose and decision of each gate.
@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Owners name the stages differently (FEL 1 to 3, select and define, DG1 to DG4). Use the owner's names in every document, not your previous employer's.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: medium
               frontmatter:
                 mode: learning

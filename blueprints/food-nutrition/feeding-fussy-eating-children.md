@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 Record what was offered as well as what was eaten: the gap between the two is the most useful column. Keep entries factual, amounts and times rather than judgements.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -89,6 +89,8 @@ starter_structure:
 
                 ## Notes
                 This project organises the conversation; it does not replace it. Seek help promptly if your child is losing weight, struggling to swallow or very distressed around food.
+
+                Fussy eating that is severe or lasting, with a very short food list, fear of choking or vomiting, weight loss or faltering growth, can be a sign of avoidant restrictive food intake disorder (ARFID). Ask your doctor about it; eating disorder charities such as Beat in the UK have guidance for parents.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

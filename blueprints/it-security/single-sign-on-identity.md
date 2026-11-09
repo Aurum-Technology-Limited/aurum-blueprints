@@ -4,7 +4,7 @@ name: Single Sign-On & Identity
 description: "One identity provider for every staff login: a clean directory, apps connected through SAML or OIDC, automated provisioning, and the routines that keep accounts consistent and sign-in working."
 category: business
 version: 1.0.0
-tags: [it-security, single-sign-on-identity, enterprise, small-business, engineer, sso, saml, scim]
+tags: [it-security, single-sign-on-identity, enterprise, small-business, engineer, sso, saml, scim, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -24,7 +24,7 @@ starter_structure:
             - name: Map of every login and account store in use
               description: |-
                 ## Purpose
-                Most organisations that think they have one directory actually have five: a Microsoft or Google tenant, an old on-premises Active Directory, the HR system, and dozens of apps holding their own usernames and passwords. Writing down every place an account can live, and how people sign in to each, is the map every later identity decision is drawn on.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most organisations that think they have one directory actually have five: a Microsoft or Google tenant, an old on-premises Active Directory, the HR system, and dozens of apps holding their own usernames and passwords. Writing down every place an account can live, and how people sign in to each, is the map every later identity decision is drawn on.
 
                 ## Milestones
                 1. A list of every directory, tenant and app that holds staff accounts, with its admin owner.

@@ -4,7 +4,7 @@ name: Family Leadership Succession
 description: "A planned handover of the family leader's roles: emergency stand-ins, agreed principles, a fair candidate process, successor development, a dated transition and an announcement every branch hears properly."
 category: personal
 version: 1.0.0
-tags: [family-office, family-leadership-succession, parent, retiree, succession-planning, family-leadership, transition, governance]
+tags: [family-office, family-leadership-succession, parent, retiree, succession-planning, family-leadership, transition, governance, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Inventory of roles the family leader holds
               description: |-
                 ## Purpose
-                Most family leaders hold far more roles than anyone has written down: chair of the holding company, head of the family council, signatory on a dozen accounts, protector of a trust, chief peacemaker and the person bankers ring first. Listing every formal and informal role is the first step, because each one needs its own successor and some cannot be passed on without legal steps.
+                Most family leaders hold far more roles than anyone has written down: chair of the holding company, head of the family council, signatory on a dozen accounts, protector of a trust, chief peacemaker and the person bankers ring first. Listing every formal and informal role is the first step, because each one needs its own successor and some cannot be passed on without legal steps. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A list of every board seat, committee chair, trust office and signing authority the leader holds, with the entity and document behind each.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Ask the family office or company secretary for the formal list first, then interview the leader and two other family members for the informal roles. The informal list is usually longer.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

@@ -496,7 +496,7 @@ starter_structure:
                 4. The relevant police reporting route and image takedown service noted where you can find them fast.
 
                 ## Notes
-                This is the conversation parents most often put off. A short, matter-of-fact talk in the car works better than a sit-down, and saying it will not make you angry matters more than any detail.
+                This is the conversation parents most often put off. A short, matter-of-fact talk in the car works better than a sit-down, and saying it will not make you angry matters more than any detail. Takedown services for under-18s include Report Remove (Childline and the IWF) in the UK and Take It Down (NCMEC) in the US; report the blackmail to the police too.
               priority: high
               frontmatter:
                 mode: learning
@@ -1046,7 +1046,7 @@ starter_structure:
                 4. A plan for what you will say to your child so they do not feel blamed.
 
                 ## Notes
-                Start from the **Operational checklist** template. If a child is in immediate danger or a meeting has been arranged, call the emergency number first.
+                Start from the **Operational checklist** template. If a child is in immediate danger or a meeting has been arranged, call the emergency number first. Examples of reporting routes: in the UK, the police (999 in an emergency, 101 otherwise), CEOP's online reporting form and the NSPCC helpline on 0808 800 5000; in the US, 911, the NCMEC CyberTipline (1-800-843-5678) and Childhelp on 1-800-422-4453. Screenshot messages, but never screenshot, save or forward a sexual image of a child, even as evidence.
               priority: high
               frontmatter:
                 mode: service

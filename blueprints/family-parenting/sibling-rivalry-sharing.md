@@ -1112,7 +1112,7 @@ starter_structure:
                 4. A clear plan agreed, including when to contact the doctor, school or a family support service.
 
                 ## Notes
-                Signs include one child always losing, fear of being alone with a sibling, damaged belongings and changes in sleep or appetite. If a child is being seriously hurt, seek professional help promptly.
+                Signs include one child always losing, fear of being alone with a sibling, damaged belongings and changes in sleep or appetite. If a child is being seriously hurt, seek professional help promptly. If you are worried about sexual behaviour between siblings or a child is in danger, call your local emergency number or a child protection helpline (for example the NSPCC on 0808 800 5000 in the UK, or Childhelp on 1-800-422-4453 in the US).
               priority: high
               frontmatter:
                 mode: research

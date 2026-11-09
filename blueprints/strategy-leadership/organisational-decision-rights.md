@@ -4,7 +4,7 @@ name: Organisational Decision Rights
 description: "A clear map of who decides what, a delegation of authority people can find, escalation paths with time limits, a decision log and the review rhythm that keeps all of it true as the organisation changes."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, organisational-decision-rights, manager, enterprise, team, decision-making, delegation, governance]
+tags: [strategy-leadership, organisational-decision-rights, manager, enterprise, team, decision-making, delegation, governance, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Decision pain inventory from the last quarter
               description: |-
                 ## Purpose
-                Before drawing any matrix, find out where decisions actually hurt: the pricing call that took nine weeks, the hire approved twice by different people, the launch nobody knew had been cancelled. Twelve to fifteen short conversations and a look back through recent emails give you a list of real cases, which is far more persuasive to a leadership team than a framework slide.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before drawing any matrix, find out where decisions actually hurt: the pricing call that took nine weeks, the hire approved twice by different people, the launch nobody knew had been cancelled. Twelve to fifteen short conversations and a look back through recent emails give you a list of real cases, which is far more persuasive to a leadership team than a framework slide.
 
                 ## Milestones
                 1. Twelve or more conversations held with managers and team members across at least four functions.

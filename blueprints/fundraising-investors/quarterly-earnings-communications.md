@@ -4,7 +4,7 @@ name: Quarterly Earnings Communications
 description: "Results releases, earnings call scripts, Q&A banks and a quarterly timeline that keeps finance, legal and investor relations agreed on every number before it goes public."
 category: business
 version: 1.0.0
-tags: [fundraising-investors, quarterly-earnings-communications, enterprise, manager, earnings-call, results-release, disclosure, listed-company]
+tags: [fundraising-investors, quarterly-earnings-communications, enterprise, manager, earnings-call, results-release, disclosure, listed-company, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Annual results calendar and blackout dates
               description: |-
                 ## Purpose
-                Four results dates a year drive every other deadline: the close, the audit committee meeting, the trading blackout and the call itself. Fixing them twelve months ahead stops the scramble when a board date moves or the auditors need an extra week. It also tells every insider exactly when they cannot trade.
+                Four results dates a year drive every other deadline: the close, the audit committee meeting, the trading blackout and the call itself. Fixing them twelve months ahead stops the scramble when a board date moves or the auditors need an extra week. It also tells every insider exactly when they cannot trade. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Four release dates and call times agreed with the CFO, CEO and audit committee chair.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Check the filing deadline for your interim and annual reports with legal before choosing dates, and leave a few working days between the auditors' review and the release.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

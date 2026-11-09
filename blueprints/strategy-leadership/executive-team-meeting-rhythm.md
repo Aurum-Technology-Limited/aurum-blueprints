@@ -4,7 +4,7 @@ name: Executive Team Meeting Rhythm
 description: "A leadership meeting calendar where the weekly, monthly and quarterly forums each have one job, with pre-reads, a decision log, an action register and a yearly reset that keeps updates out of the room."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, executive-team-meeting-rhythm, manager, enterprise, leadership-meetings, decision-log, agenda-design, operating-rhythm]
+tags: [strategy-leadership, executive-team-meeting-rhythm, manager, enterprise, leadership-meetings, decision-log, agenda-design, operating-rhythm, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Audit of current leadership meeting hours
               description: |-
                 ## Purpose
-                Most executive teams cannot say how many hours a month they spend together, or what share of that time produced a decision. Pulling eight weeks of calendars and classifying every leadership meeting as decision, discussion or update gives a factual starting point that ends arguments about whether the rhythm needs changing.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most executive teams cannot say how many hours a month they spend together, or what share of that time produced a decision. Pulling eight weeks of calendars and classifying every leadership meeting as decision, discussion or update gives a factual starting point that ends arguments about whether the rhythm needs changing.
 
                 ## Milestones
                 1. Eight weeks of every recurring and ad hoc meeting attended by three or more executives listed with duration and attendees.

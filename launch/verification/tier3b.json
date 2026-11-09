@@ -1,0 +1,1441 @@
+[
+ {
+  "id": "fundraising-investors.series-a-fundraise",
+  "status": "fixed",
+  "reason": "Web-verified claims; corrected a stale or inaccurate fact; otherwise organisational with adviser routing and no promised outcomes",
+  "changes": [
+   "Stale '18 to 24 months of runway' norm updated: Carta data shows the median gap between rounds now exceeds two years"
+  ],
+  "sources": [
+   "https://carta.com/data/linkedin-time-between-vc-rounds-growing-2-plus-years/",
+   "https://carta.com/data/linkedin-startup-runway-18-24-months-not-enough/"
+  ]
+ },
+ {
+  "id": "fundraising-investors.safes-convertible-notes",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.sec.gov/resources-small-businesses/exempt-offerings/filing-form-d-notice",
+   "https://www.gov.uk/hmrc-internal-manuals/venture-capital-schemes-manual/vcm12025"
+  ]
+ },
+ {
+  "id": "fundraising-investors.term-sheet-negotiation",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.investor-target-list-building",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.sec.gov/resources-small-businesses/exempt-offerings/filing-form-d-notice"
+  ]
+ },
+ {
+  "id": "fundraising-investors.investor-warm-introductions",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.monthly-investor-updates",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.founder-dilution-planning",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.cap-table-management",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://legislation.gov.uk/ukpga/2006/46/section/555/2018-04-06",
+   "https://www.gov.uk/government/publications/return-of-allotment-of-shares-sh01"
+  ]
+ },
+ {
+  "id": "fundraising-investors.fundraising-financial-model",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.investor-data-room",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.angel-syndicate-raises",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.sec.gov/resources-small-businesses/capital-raising-building-blocks/accredited-investors",
+   "https://www.twobirds.com/en/insights/2024/uk/financial-promotion-exemptions-for-high-net-worth-individuals-and-sophisticated-investors"
+  ]
+ },
+ {
+  "id": "fundraising-investors.bridge-round-extension",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.option-pool-sizing",
+  "status": "fixed",
+  "reason": "Web-verified claims; corrected a stale or inaccurate fact; otherwise organisational with adviser routing and no promised outcomes",
+  "changes": [
+   "Next round 'often 18 to 24 months away' updated to 'often two years or more away' (Carta time-between-rounds data)"
+  ],
+  "sources": [
+   "https://carta.com/data/linkedin-time-between-vc-rounds-growing-2-plus-years/"
+  ]
+ },
+ {
+  "id": "fundraising-investors.round-closing-completion",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://legislation.gov.uk/ukpga/2006/46/section/555/2018-04-06",
+   "https://www.sec.gov/resources-small-businesses/exempt-offerings/filing-form-d-notice"
+  ]
+ },
+ {
+  "id": "fundraising-investors.investor-reference-checks",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.reward-crowdfunding-launch",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://help.kickstarter.com/hc/en-us/articles/115005128434-Creator-Handbook"
+  ]
+ },
+ {
+  "id": "fundraising-investors.revenue-based-financing",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://capitalise.com/gb/business-finance/revenue-based-financing",
+   "https://altstreet.investments/reference/mechanics/revenue-based-financing-cap"
+  ]
+ },
+ {
+  "id": "fundraising-investors.equity-crowdfunding-campaign",
+  "status": "hold",
+  "reason": "Public securities offering to retail investors via a regulated crowdfunding platform; legal and regulatory exposure needs securities-law review (same basis as held real-estate syndications)",
+  "changes": [],
+  "sources": [
+   "https://www.sec.gov/resources-small-businesses/exempt-offerings/regulation-crowdfunding",
+   "https://www.legislation.gov.uk/eur/2020/1503/data.html",
+   "https://www.fca.org.uk/firms/financial-promotions-adverts"
+  ]
+ },
+ {
+  "id": "fundraising-investors.investor-tax-relief-schemes",
+  "status": "fixed",
+  "reason": "Corrected or localised a jurisdiction-specific claim; otherwise organisational with adviser routing and no promised outcomes",
+  "changes": [
+   "Updated SEIS/EIS same-day note: SEIS must currently be issued before EIS, with the announced change allowing same-day issue for shares issued from 6 April 2027, and a prompt to confirm the rule for your dates with an adviser"
+  ],
+  "sources": [
+   "https://www.gov.uk/government/publications/changes-to-the-seed-enterprise-investment-scheme-enterprise-investment-scheme-and-venture-capital-trusts/changes-to-venture-capital-schemes",
+   "https://www.gov.uk/hmrc-internal-manuals/venture-capital-schemes-manual/vcm12025",
+   "https://www.gov.uk/guidance/venture-capital-schemes-apply-for-advance-assurance",
+   "https://gov.uk/hmrc-internal-manuals/venture-capital-schemes-manual/vcm8530",
+   "https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/incentives-and-concessions/tax-incentives-for-innovation/tax-incentives-for-early-stage-investors/for-early-stage-innovation-companies-esics",
+   "https://www.charteredaccountants.ie/our-impact/News/news-item/revenue-restructures-its-guidance-on-the-employment-investment-incentive-scheme-(eiis)-and-related-reliefs",
+   "https://crowell.com/en/insights/client-alerts/the-one-big-beautiful-bill-act-expands-favorable-qsbs-treatment",
+   "https://mn.gov/deed/business/financing-business/tax-credits/angel-tax-credit/for-businesses/",
+   "https://www2.gov.bc.ca/gov/content/employment-business/investment-capital/venture-capital-programs/eligible-business-corporation/registration"
+  ]
+ },
+ {
+  "id": "fundraising-investors.impact-investor-fundraising",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.corporate-venture-investors",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.cfius.gov/",
+   "https://www.gov.uk/guidance/national-security-and-investment-act-guidance-on-acquisitions"
+  ]
+ },
+ {
+  "id": "fundraising-investors.family-office-relationships",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.post-round-board-setup",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.investor-board-reporting",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.share-valuations-409a",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.law.cornell.edu/uscode/text/26/83",
+   "https://www.law.cornell.edu/cfr/text/26/1.409A-1",
+   "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-2-share-based-payment/",
+   "https://www.gov.uk/guidance/get-a-share-scheme-valuation-from-hmrc",
+   "https://www.gov.uk/guidance/employment-related-securities-bulletin-44-july-2022"
+  ]
+ },
+ {
+  "id": "fundraising-investors.venture-debt-facilities",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.growth-equity-rounds",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.down-round-recapitalisation",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.secondary-share-sales-liquidity",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.company-sale-exit-process",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.acquisition-financing",
+  "status": "publish",
+  "reason": "Country-specific rules are labelled as examples (US Form D, UK SEIS/EIS, EMI, 409A) and routed to the company's lawyer or adviser; no promised outcomes; spot-checked facts correct; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.sba.gov/funding-programs/loans/7a-loans"
+  ]
+ },
+ {
+  "id": "fundraising-investors.raising-a-venture-fund",
+  "status": "hold",
+  "reason": "Raising a pooled fund from LPs is a securities offering plus fund-manager regulation; cannot be made safe without professional review",
+  "changes": [],
+  "sources": [
+   "https://carta.com/uk/en/data/fund-economics-report-2025/",
+   "https://www.sec.gov/resources-small-businesses/capital-raising-building-blocks/accredited-investors"
+  ]
+ },
+ {
+  "id": "wealth-investing.angel-investing-in-startups",
+  "status": "publish",
+  "reason": "Organisational only; tax and product rules are given as labelled country examples with adviser checks; no investment picks or promised returns; money notice present; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.sec.gov/resources-small-businesses/capital-raising-building-blocks/accredited-investors",
+   "https://www.twobirds.com/en/insights/2024/uk/financial-promotion-exemptions-for-high-net-worth-individuals-and-sophisticated-investors",
+   "https://carta.com/data/state-of-pre-seed-q1-2025-full-report/",
+   "https://www.gov.uk/hmrc-internal-manuals/venture-capital-schemes-manual/vcm12025"
+  ]
+ },
+ {
+  "id": "wealth-investing.holiday-let-property",
+  "status": "fixed",
+  "reason": "Web-verified claims; corrected a stale or inaccurate fact; otherwise organisational with adviser routing and no promised outcomes",
+  "changes": [
+   "Agency commission range corrected from '15 to 35 percent' to 'somewhere between 10 and 30 percent, sometimes more' per published UK agency fee guides"
+  ],
+  "sources": [
+   "https://www.gov.uk/government/publications/furnished-holiday-lettings-tax-regime-abolition",
+   "https://www.simplybusiness.co.uk/knowledge/tenants/guide-to-holiday-let-agents/",
+   "https://www.passthekeys.com/en/host-resources/income-pricing-revenue-strategy/how-much-do-holiday-let-management-companies-charge-understanding-management-fees-and-commission/"
+  ]
+ },
+ {
+  "id": "wealth-investing.property-flipping",
+  "status": "fixed",
+  "reason": "Corrected or localised a jurisdiction-specific claim; otherwise organisational with adviser routing and no promised outcomes",
+  "changes": [
+   "Auction note made country-specific: binding contract on the hammer with 10 percent deposit and about 28 days to complete is given as an England and Wales example, plus 'check the auction terms and local rules before bidding'",
+   "'Flips routinely run 20 percent over budget and two months over time' softened to 'renovations often run over budget and behind schedule', keeping the 20 percent and two-month stress test (survey overrun rates vary widely)"
+  ],
+  "sources": [
+   "https://www.rics.org/profession-standards/rics-standards-and-guidance/sector-standards/real-estate-standards/common-auction-conditions",
+   "https://www.checkatrade.com/blog/news/renoflation/",
+   "https://www.biggerpockets.com/blog/70-percent-rule",
+   "https://anthonygold.co.uk/latest/blog/leases-how-long-is-long-enough",
+   "https://www.financial-ombudsman.org.uk/unoccupied-properties"
+  ]
+ },
+ {
+  "id": "wealth-investing.property-company-structure",
+  "status": "publish",
+  "reason": "Organisational only; tax and product rules are given as labelled country examples with adviser checks; no investment picks or promised returns; money notice present; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.gov.uk/guidance/changes-to-tax-relief-for-residential-landlords-how-its-worked-out-including-case-studies",
+   "https://www.gov.uk/guidance/annual-tax-on-enveloped-dwellings-the-basics"
+  ]
+ },
+ {
+  "id": "wealth-investing.peer-to-peer-lending",
+  "status": "publish",
+  "reason": "Organisational only; tax and product rules are given as labelled country examples with adviser checks; no investment picks or promised returns; money notice present; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.gov.uk/individual-savings-accounts/how-isas-work",
+   "https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim12010",
+   "https://www.legislation.gov.uk/eur/2020/1503/data.html"
+  ]
+ },
+ {
+  "id": "wealth-investing.precious-metals-holdings",
+  "status": "publish",
+  "reason": "Organisational only; tax and product rules are given as labelled country examples with adviser checks; no investment picks or promised returns; money notice present; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.gold.org/goldhub/research/whats-bear-case-gold-historical-perspective/19836",
+   "https://www.usagold.com/gold-price-history-50-years-investor-lessons/"
+  ]
+ },
+ {
+  "id": "wealth-investing.alternative-collectible-investments",
+  "status": "publish",
+  "reason": "Organisational only; tax and product rules are given as labelled country examples with adviser checks; no investment picks or promised returns; money notice present; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://smithsonianprovenance.si.edu/provenance-world-war-ii-era-1933-1945",
+   "https://wipo.int/tk/en/databases/creative_heritage/docs/aam_guidelines.pdf"
+  ]
+ },
+ {
+  "id": "wealth-investing.royalty-licensing-income",
+  "status": "publish",
+  "reason": "Organisational only; tax and product rules are given as labelled country examples with adviser checks; no investment picks or promised returns; money notice present; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "wealth-investing.business-owner-exit-wealth",
+  "status": "publish",
+  "reason": "Organisational only; tax and product rules are given as labelled country examples with adviser checks; no investment picks or promised returns; money notice present; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.gov.uk/business-asset-disposal-relief",
+   "https://crowell.com/en/insights/client-alerts/the-one-big-beautiful-bill-act-expands-favorable-qsbs-treatment"
+  ]
+ },
+ {
+  "id": "wealth-investing.annuity-decisions",
+  "status": "publish",
+  "reason": "Organisational only; tax and product rules are given as labelled country examples with adviser checks; no investment picks or promised returns; money notice present; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.gov.uk/tax-on-your-private-pension/lump-sum-allowance",
+   "https://handbook.fca.org.uk/handbook/COBS/15/2.html",
+   "https://pensionwise.gov.uk",
+   "https://nolhga.com/policyholders/how-youre-protected/",
+   "https://www.merceradvisors.com/?p=64512"
+  ]
+ },
+ {
+  "id": "wealth-investing.retirement-income-drawdown",
+  "status": "publish",
+  "reason": "Organisational only; tax and product rules are given as labelled country examples with adviser checks; no investment picks or promised returns; money notice present; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.gov.uk/tax-on-your-private-pension/annual-allowance",
+   "https://www.irs.gov/retirement-plans/retirement-plan-and-ira-required-minimum-distributions-faqs",
+   "https://ato.gov.au/SMSFminpensionstandards"
+  ]
+ },
+ {
+  "id": "wealth-investing.family-trusts-lifetime-gifting",
+  "status": "publish",
+  "reason": "Organisational only; tax and product rules are given as labelled country examples with adviser checks; no investment picks or promised returns; money notice present; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.gov.uk/inheritance-tax/gifts",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes",
+   "https://www.gov.uk/guidance/register-a-trust-as-a-trustee",
+   "https://www.gov.uk/guidance/trusts-and-inheritance-tax"
+  ]
+ },
+ {
+  "id": "wealth-investing.philanthropic-legacy-giving",
+  "status": "fixed",
+  "reason": "Web-verified claims; corrected a stale or inaccurate fact; otherwise organisational with adviser routing and no promised outcomes",
+  "changes": [
+   "US relief described as 'a deduction only if you itemise' updated: from 2026 non-itemisers can also deduct up to 1,000 (2,000 joint) of cash gifts (IRS, OBBBA s70424)"
+  ],
+  "sources": [
+   "https://www.gov.uk/donating-to-charity/gift-aid",
+   "http://irs.gov/newsroom/one-big-beautiful-bill-provisions",
+   "https://www.irs.gov/pub/irs-access/p6196_accessible.pdf",
+   "https://www.gov.uk/government/publications/charitable-giving-hs342-self-assessment-helpsheet/hs342-charitable-giving-2026",
+   "https://www.gov.uk/inheritance-tax/leaving-to-charity",
+   "https://www.irs.gov/charities-non-profits/charitable-remainder-trusts",
+   "https://irs.gov/newsroom/reminder-to-ira-owners-age-70-and-a-half-or-over-qualified-charitable-distributions-are-great-options-for-making-tax-free-gifts-to-charity",
+   "https://www.philanthropy-impact.org/media/tdzp23ru/daf-research-2024-final-web-version.pdf"
+  ]
+ },
+ {
+  "id": "wealth-investing.teaching-heirs-about-wealth",
+  "status": "publish",
+  "reason": "Organisational only; tax and product rules are given as labelled country examples with adviser checks; no investment picks or promised returns; money notice present; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.customer-invoicing-billing",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.receivables-collections-management",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.gov.uk/late-commercial-payments-interest-debt-recovery",
+   "https://www.gov.uk/late-commercial-payments-interest-debt-recovery/charging-interest-commercial-debt"
+  ]
+ },
+ {
+  "id": "finance-accounting.bank-card-reconciliation",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.outsourced-accountant-management",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.three-statement-financial-modelling",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.year-end-statutory-accounts",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.corporate-income-tax-returns",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.gov.uk/company-tax-returns",
+   "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/corporation-income-tax-return.html"
+  ]
+ },
+ {
+  "id": "finance-accounting.payment-processor-payout-reconciliation",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.irs.gov/businesses/understanding-your-form-1099-k"
+  ]
+ },
+ {
+  "id": "finance-accounting.management-accounts-reporting",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.chart-of-accounts-design",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.accounting-software-implementation",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.product-margin-analysis",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.project-job-costing",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.business-banking-relationships",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.business-debt-loan-servicing",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.payment-fraud-prevention",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.wearepay.uk/what-we-do/overlay-services/confirmation-of-payee/"
+  ]
+ },
+ {
+  "id": "finance-accounting.contractor-payment-reporting",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.irs.gov/forms-pubs/about-form-1099-nec",
+   "https://www.irs.gov/forms-pubs/about-form-w-8-ben",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/backup-withholding-b-program",
+   "https://www.irs.gov/individuals/understanding-your-cp2100-or-cp2100a-notice",
+   "https://www.irs.gov/publications/p1099",
+   "https://www.gov.uk/guidance/understanding-off-payroll-working-ir35",
+   "https://www.gov.uk/what-is-the-construction-industry-scheme",
+   "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/reporting-fees-for-service/fact-sheet-reporting-fees-services.html"
+  ]
+ },
+ {
+  "id": "finance-accounting.rd-tax-credit-claims",
+  "status": "fixed",
+  "reason": "Web-verified claims; corrected a stale or inaccurate fact; otherwise organisational with adviser routing and no promised outcomes",
+  "changes": [
+   "US research-cost capitalisation example updated: capitalisation from 2022, immediate deduction of domestic research restored for tax years beginning after 2024 (s174A), foreign research still amortised"
+  ],
+  "sources": [
+   "https://www.gov.uk/guidance/research-and-development-rd-tax-relief-the-merged-scheme-and-enhanced-rd-intensive-support",
+   "https://www.gov.uk/government/publications/guidelines-on-the-meaning-of-research-and-development-for-tax-purposes",
+   "https://www.irs.gov/instructions/i6765",
+   "https://irs.gov/zh-hans/credits-deductions/research-credit-against-payroll-tax-for-small-businesses",
+   "https://www.cooley.com/news/insight/2025/2025-07-14-the-one-big-beautiful-bill-act-permits-immediate-deduction-of-domestic-re-expenditures-in-some-cases-retroactively",
+   "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html",
+   "https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/incentives-and-concessions/research-and-development-tax-incentive-and-concessions/research-and-development-tax-incentive/previous-years/r-d-tax-incentive-1-july-2011-to-30-june-2021/registering-and-dealing-with-ausindustry",
+   "https://www.gov.uk/guidance/corporation-tax-the-patent-box"
+  ]
+ },
+ {
+  "id": "finance-accounting.finance-business-partnering",
+  "status": "publish",
+  "reason": "Bookkeeping and finance process plan; tax forms and schemes are labelled country examples routed to the accountant or tax authority guidance; money notice present; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.banking-exit-opportunities",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.analyst-to-associate-promotion",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.boutique-or-bulge-bracket-choice",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.ib-analyst-training-programme",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam"
+  ]
+ },
+ {
+  "id": "investment-banking.excel-and-powerpoint-speed",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.health-under-banking-hours",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice (medical notice recommended; plan already signposts doctor, assistance line and crisis line); no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.ib-analyst-workflow",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.deal-staffing-and-hours",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.dcf-valuation-work",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-16-leases/",
+   "https://advisory.kpmg.us/articles/2018/ifrs-16-asc-842-differences.html"
+  ]
+ },
+ {
+  "id": "investment-banking.trading-comparables-analysis",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-16-leases/",
+   "https://advisory.kpmg.us/articles/2018/ifrs-16-asc-842-differences.html"
+  ]
+ },
+ {
+  "id": "investment-banking.precedent-transactions-analysis",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-16-leases/"
+  ]
+ },
+ {
+  "id": "investment-banking.merger-models-and-accretion-dilution",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-3-business-combinations/"
+  ]
+ },
+ {
+  "id": "investment-banking.financial-model-checking",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.turning-comments-from-seniors",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-16-leases/"
+  ]
+ },
+ {
+  "id": "investment-banking.pitch-book-preparation",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.banking-bonus-season",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.lateral-moves-between-banks",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.associate-role-in-banking",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.vice-president-deal-leadership",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.client-coverage-and-origination",
+  "status": "publish",
+  "reason": "Career and analyst craft plan; accounting references (IFRS 16, ASC 842, IFRS 3, ASC 805) accurate; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.wall-crossing-and-compliance",
+  "status": "fixed",
+  "reason": "Corrected or localised a jurisdiction-specific claim; otherwise organisational with adviser routing and no promised outcomes",
+  "changes": [
+   "Replaced an invented fixed 'two-week' holdings disclosure deadline with 'your firm's deadline, often within the first days or weeks' in the milestone and task (deadlines vary by firm and regime, e.g. SEC Rule 204A-1 sets 10 days for advisers)"
+  ],
+  "sources": [
+   "https://www.law.cornell.edu/cfr/text/17/275.204A-1",
+   "https://www.fca.org.uk/markets/market-abuse"
+  ]
+ },
+ {
+  "id": "private-equity-vc.breaking-into-venture-capital",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.lbo-modelling",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.pe-associate-years",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.vc-career-growth",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.pe-career-progression-to-partner",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.investment-committee-memos",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.venture-investment-memos",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.deal-screening-and-first-look",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.investment-thesis-development",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.early-stage-startup-diligence",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.management-team-assessment",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.carried-interest-and-waterfalls",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.search-fund-launch",
+  "status": "hold",
+  "reason": "Core of the plan is an offering memorandum and first and final closes of search capital from outside investors: a securities offering; needs legal review",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.search-fund-acquisition-phase",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.searcher-as-ceo",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.independent-sponsor-deals",
+  "status": "hold",
+  "reason": "Raises deal-by-deal equity from capital partners with sponsor fees and promote: a syndication with securities-law exposure; needs legal review",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.venture-scout-programmes",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.vc-deal-flow",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.pe-deal-sourcing",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.angel-to-fund-manager",
+  "status": "hold",
+  "reason": "Moving from angel to running SPVs and a fund for outside backers, including friends and family money: syndication and fund-manager regulation; needs legal review",
+  "changes": [],
+  "sources": [
+   "https://www.sec.gov/resources-small-businesses/capital-raising-building-blocks/accredited-investors"
+  ]
+ },
+ {
+  "id": "private-equity-vc.leading-an-angel-syndicate",
+  "status": "hold",
+  "reason": "Leading a syndicate means promoting deals and pooling other investors' money through SPVs; syndication and financial-promotion rules; needs legal review",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.emerging-manager-fund-launch",
+  "status": "hold",
+  "reason": "Launching and raising a first fund: securities offering, adviser registration and LP marketing rules; needs securities-law review",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.vc-board-seats",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.law.cornell.edu/cfr/text/26/1.409A-1"
+  ]
+ },
+ {
+  "id": "private-equity-vc.portfolio-company-board-work",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.operating-partner-role",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.working-in-corporate-venture-capital",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.vc-portfolio-support",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.track-record-and-attribution",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.sec.gov/rules-regulations/staff-guidance/division-investment-management-frequently-asked-questions/marketing-compliance-frequently-asked-questions",
+   "https://www.sec.gov/files/rules/final/2020/ia-5653.pdf",
+   "https://www.gipsstandards.org/",
+   "https://www.acaglobal.com/insights/2020-gips-standards-top-changes-you-need-know"
+  ]
+ },
+ {
+  "id": "private-equity-vc.caribbean-private-capital-deals",
+  "status": "publish",
+  "reason": "Career and deal-craft plan; regulated points routed to counsel or compliance; no investment advice; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.eccb-centralbank.org/blogs/recent-us-policies-and-their-likely-implications-for-the-eccu",
+   "https://www.centralbank.org.bb/news/general-press-release/fixed-for-forty-one-years",
+   "https://www.centralbank.org.bz/detail-pages/news/2026/05/11/belize-commemorates-50-years-of-exchange-rate-stability",
+   "https://www.centralbanking.com/foreign-exchange/2436733/trinidad-governor-implies-500m-injection-failed-to-solve-us-dollar-shortfall",
+   "https://jis.gov.jm/renewal-junior-stock-exchange-incentives-approved/",
+   "https://caricom.org/projects/caricom-single-market-and-economy/",
+   "https://www.imf.org/en/news/articles/2026/10/08/pr26330-guyana-article-iv/index.md"
+  ]
+ },
+ {
+  "id": "quant-finance.quant-trader-interviews",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.quant-researcher-interviews",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.quant-developer-interviews",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.choosing-a-quant-employer",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.quant-finance-masters-programmes",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.quant-careers-after-a-phd",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.trading-risk-rules-and-kill-switches",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.active-trading-tax-records",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.irs.gov/publications/p550",
+   "https://www.irs.gov/taxtopics/tc429",
+   "https://www.gov.uk/government/publications/shares-and-capital-gains-tax-hs284-self-assessment-helpsheet/hs284-shares-and-capital-gains-tax-2026"
+  ]
+ },
+ {
+  "id": "quant-finance.backtesting-discipline",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://rpc.cfainstitute.org/research/financial-analysts-journal/2002/the-statistics-of-sharpe-ratios",
+   "https://www.federalreserve.gov/monetarypolicy/openmarket.htm"
+  ]
+ },
+ {
+  "id": "quant-finance.options-strategy-research",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.statistics-for-finance",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://rpc.cfainstitute.org/research/financial-analysts-journal/2002/the-statistics-of-sharpe-ratios"
+  ]
+ },
+ {
+  "id": "quant-finance.stochastic-calculus-study",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.overfitting-and-multiple-testing",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.quant-research-log",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.paper-replication",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.quant-research-competitions",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.machine-learning-for-finance",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.financial-time-series-econometrics",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.derivatives-pricing-models",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.backtesting-engine-build",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.broker-exchange-api-integration",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.market-data-sourcing",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.tick-data-storage-and-cleaning",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.quant-development-cpp-python",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.quant-research-code-quality",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.alpha-research-process",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.factor-models",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.portfolio-construction-optimisation",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.portfolio-risk-models",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.strategy-stress-testing",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.live-strategy-monitoring",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.systematic-strategy-retirement",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.transaction-cost-analysis",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.trend-following-research",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.statistical-arbitrage-research",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://web.mit.edu/Alo/www/Papers/august07.html"
+  ]
+ },
+ {
+  "id": "quant-finance.volatility-modelling",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.rates-and-credit-modelling",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.market-microstructure-study",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.market-making-strategy-research",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.non-competes-and-garden-leave",
+  "status": "publish",
+  "reason": "Organisational and method only; every limit, sizing or tax step routes to written rules or a qualified adviser; money notice present and plans repeatedly warn strategies fail and losses happen; no picks or promised returns; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.multi-family-office-selection",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.adviser-and-manager-oversight",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.consolidated-wealth-reporting",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-investment-policy-statement",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.bank-and-custodian-relationships",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-liquidity-planning",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.donor-advised-funds",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.irs.gov/charities-non-profits/charitable-organizations/donor-advised-funds",
+   "https://www.irs.gov/individuals/Art-Appraisal-Services"
+  ]
+ },
+ {
+  "id": "family-office.family-grant-making-strategy",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.caribbean-family-philanthropy",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.trustee-selection-and-oversight",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-risk-and-insurance-review",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; specific claims web-verified",
+  "changes": [],
+  "sources": [
+   "https://www.captiveinternational.com/bermuda-cayman-islands-and-barbados-captives-resilient-amid-competitive-conditions"
+  ]
+ },
+ {
+  "id": "family-office.family-records-and-archives",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-privacy-and-public-profile",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-security-assessment",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.household-staff-employment",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.staff-vetting-and-background-checks",
+  "status": "fixed",
+  "reason": "Corrected or localised a jurisdiction-specific claim; otherwise organisational with adviser routing and no promised outcomes",
+  "changes": [
+   "Yearly criminal record re-check task now says 'where the law allows' (repeat checks are restricted in several jurisdictions)"
+  ],
+  "sources": [
+   "https://www.gov.uk/government/organisations/disclosure-and-barring-service",
+   "https://www.ftc.gov/legal-library/browse/statutes/fair-credit-reporting-act"
+  ]
+ },
+ {
+  "id": "family-office.estate-manager-and-house-manager",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.multiple-residences-management",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.art-and-collection-management",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.concierge-and-lifestyle-management",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ },
+ {
+  "id": "family-office.aircraft-and-yacht-ownership",
+  "status": "publish",
+  "reason": "Household and office administration plan; legal, tax and employment points routed to the family's lawyer or adviser; no investment picks; note for notices owner: pillar is not in add-notices subject map, so no 'Before you start' notice; no specific checkable fact beyond process guidance",
+  "changes": [],
+  "sources": []
+ }
+]

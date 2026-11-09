@@ -4,7 +4,7 @@ name: Product-Led Sales Motion
 description: "Product usage signals in the CRM, a clear product qualified lead definition, helpful outreach to trial and free users, and the rules and tests that turn self-serve accounts into paid and larger contracts."
 category: business
 version: 1.0.0
-tags: [sales-revenue, product-led-sales-motion, team, founder, enterprise, product-qualified-leads, free-trial, self-serve]
+tags: [sales-revenue, product-led-sales-motion, team, founder, enterprise, product-qualified-leads, free-trial, self-serve, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Product usage data audit for the sales team
               description: |-
                 ## Purpose
-                Before anyone can call a user about their usage, someone has to know which product events are tracked, where they live and how fresh they are. Most teams discover their tracking plan has gaps, renamed events and no link between a user and a company. An honest inventory of what exists today stops the sales motion being designed around data nobody can actually get.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before anyone can call a user about their usage, someone has to know which product events are tracked, where they live and how fresh they are. Most teams discover their tracking plan has gaps, renamed events and no link between a user and a company. An honest inventory of what exists today stops the sales motion being designed around data nobody can actually get.
 
                 ## Milestones
                 1. A list of the tracked product events that matter for buying, each with a name, a definition and an owner.

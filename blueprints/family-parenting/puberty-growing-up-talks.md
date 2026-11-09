@@ -34,6 +34,9 @@ starter_structure:
                 2. Three things you wish an adult had explained to you at eleven, written down.
                 3. The topics and words you find hardest to say aloud, ranked.
                 4. One sentence on the tone you want your own child to remember from these talks.
+
+                ## Notes
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -616,7 +619,7 @@ starter_structure:
                 4. Relatives asked not to remark on your child's body.
 
                 ## Notes
-                If you notice food restriction, secret eating or real distress about their body, talk to your child's doctor.
+                If you notice food restriction, secret eating or real distress about their body, talk to your child's doctor. Your national eating disorder charity (such as Beat in the UK) also supports parents.
               priority: medium
               frontmatter:
                 mode: building
@@ -1151,7 +1154,7 @@ starter_structure:
                 4. A note-taking habit agreed: write down the child's exact words, the date and the time.
 
                 ## Notes
-                If a child is in immediate danger, call your emergency number. Children's helplines and child protection services advise parents too.
+                If a child is in immediate danger, call your emergency number. Children's helplines and child protection services advise parents too, for example the NSPCC on 0808 800 5000 in the UK or Childhelp on 1-800-422-4453 in the US; children can call Childline on 0800 1111 in the UK.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

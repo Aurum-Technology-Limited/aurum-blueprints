@@ -4,7 +4,7 @@ name: Welcoming Spouses into the Family
 description: "A planned welcome for every new spouse: a sponsor, an orientation pack, clear rules on forums and information, governance education, privacy expectations and a one-year review with the couple."
 category: personal
 version: 1.0.0
-tags: [family-office, welcoming-spouses-into-the-family, parent, in-laws, spouse-onboarding, family-governance, orientation, inclusion]
+tags: [family-office, welcoming-spouses-into-the-family, parent, in-laws, spouse-onboarding, family-governance, orientation, inclusion, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Family stance on welcoming spouses
               description: |-
                 ## Purpose
-                Most wealthy families have an unspoken rule about in-laws, and new spouses usually discover it by stepping on it: a question about money at dinner, an uninvited appearance at a council meeting. Writing a short statement of how the family wants to treat spouses, and why, turns those unspoken rules into something a parent can share warmly before the wedding rather than explain awkwardly after it.
+                Most wealthy families have an unspoken rule about in-laws, and new spouses usually discover it by stepping on it: a question about money at dinner, an uninvited appearance at a council meeting. Writing a short statement of how the family wants to treat spouses, and why, turns those unspoken rules into something a parent can share warmly before the wedding rather than explain awkwardly after it. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page statement of how the family sees spouses: as members, guests or something in between.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Write it for the spouse who will read it, not for the lawyers. If a sentence would make a new spouse feel suspected, rewrite it.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -45,7 +47,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "Write down the unspoken rules about in-laws you have seen in the family"
+                - "Ask council members to note the unspoken rules about in-laws they have seen in the family"
                 - "Draft three to five principles for how spouses should be treated"
                 - "Ask two in-law spouses to read the draft and say what is missing"
                 - "Bring the final statement to the senior generation for agreement"

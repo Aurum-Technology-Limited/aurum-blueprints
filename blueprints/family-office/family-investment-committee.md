@@ -4,7 +4,7 @@ name: Family Investment Committee
 description: "A family investment committee that works like a proper board: clear terms of reference, the right mix of family and independent members, packs and minutes on time, and a written path from recommendation to approval."
 category: personal
 version: 1.0.0
-tags: [family-office, family-investment-committee, parent, retiree, investment-governance, committee, independent-members, minutes]
+tags: [family-office, family-investment-committee, parent, retiree, investment-governance, committee, independent-members, minutes, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Investment committee terms of reference
               description: |-
                 ## Purpose
-                Without a written remit, a family investment committee either rubber-stamps whatever the office brings or tries to run the portfolio line by line. Three pages setting out what the committee approves, what it only reviews, who sits on it and how it reports give every later meeting a boundary, and they are far easier to agree before the first disputed decision than after it.
+                Without a written remit, a family investment committee either rubber-stamps whatever the office brings or tries to run the portfolio line by line. Three pages setting out what the committee approves, what it only reviews, who sits on it and how it reports give every later meeting a boundary, and they are far easier to agree before the first disputed decision than after it. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A draft covering purpose, membership, quorum, meeting frequency, matters reserved to the committee and reporting lines.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Keep the terms about how the committee works. Investment objectives and ranges belong in the investment policy statement, which the committee follows rather than rewrites.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:

@@ -4,7 +4,7 @@ name: Product Operations
 description: "The machinery behind a growing product org: a charter and operating model, tool stack and templates, intake, review and planning rhythms, trustworthy product data and the specialist work of scaling product ops."
 category: business
 version: 1.0.0
-tags: [product-management, product-operations, enterprise, manager, team, product-ops, tooling, operating-model]
+tags: [product-management, product-operations, enterprise, manager, team, product-ops, tooling, operating-model, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Product operations charter and remit
               description: |-
                 ## Purpose
-                Nothing sinks product ops faster than nobody agreeing what it is for, so the role drifts into note-taking, tool admin and whatever the loudest product manager asks. A one-page charter that names the problems product ops owns, the ones it does not, who it serves and how success will be judged gives the function a remit leadership has signed and a polite way to say no.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Nothing sinks product ops faster than nobody agreeing what it is for, so the role drifts into note-taking, tool admin and whatever the loudest product manager asks. A one-page charter that names the problems product ops owns, the ones it does not, who it serves and how success will be judged gives the function a remit leadership has signed and a polite way to say no.
 
                 ## Milestones
                 1. Three to five problems product ops owns written as outcomes, such as faster planning or usage data people trust.

@@ -800,6 +800,8 @@ starter_structure:
 
                 ## Notes
                 If the relationship involves control, threats or fear, this is not an attachment mismatch. Contact a domestic abuse support service and use the area on leaving an unhealthy relationship.
+
+                If you feel afraid of a partner or family member, or someone is controlling, threatening or hurting you, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233).
               priority: high
               deadlineOffsetDays: 90
               frontmatter:
@@ -1011,6 +1013,8 @@ starter_structure:
 
                 ## Notes
                 If you are in crisis or feel unsafe, contact emergency services or a crisis line in your country straight away.
+
+                If you are thinking of harming yourself or feel unable to keep yourself safe, call your local emergency number or a crisis line, such as Samaritans on 116 123 in the UK and Ireland or 988 in the US.
               priority: high
               frontmatter:
                 mode: building

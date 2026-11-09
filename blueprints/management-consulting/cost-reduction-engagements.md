@@ -4,7 +4,7 @@ name: Cost Reduction Engagements
 description: "A delivery system for client cost work: a savings definition finance accepts, a reconciled baseline and spend cube, sized levers, an initiative register with gates, and savings traced into the accounts and next year's budget."
 category: business
 version: 1.0.0
-tags: [management-consulting, cost-reduction-engagements, knowledge-worker, cost-reduction, spend-cube, zero-based-budgeting, procurement, savings-tracking]
+tags: [management-consulting, cost-reduction-engagements, knowledge-worker, cost-reduction, spend-cube, zero-based-budgeting, procurement, savings-tracking, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Savings definition agreed with the client CFO
               description: |-
                 ## Purpose
-                Arguments in month six about whether a saving is real nearly always come from a definition nobody wrote down in week one. Agreeing with the CFO whether you count run-rate or in-year savings, gross or net of costs to achieve, and whether cost avoidance and volume effects count at all, gives every later number a rule to be tested against.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Arguments in month six about whether a saving is real nearly always come from a definition nobody wrote down in week one. Agreeing with the CFO whether you count run-rate or in-year savings, gross or net of costs to achieve, and whether cost avoidance and volume effects count at all, gives every later number a rule to be tested against.
 
                 ## Milestones
                 1. A one-page savings definition covering run-rate versus in-year, gross versus net, cost avoidance and volume adjustments.

@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Good questions: who handled money at home, was it discussed, what happened when it ran short, what did you get pocket money for, what did your parents argue about, and what did you promise yourself you would do differently. Listen first; save the solving for later projects.
+
+                Before you start: this plan is general information to help you organise decisions about money. It is not financial, investment, tax or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with a qualified, licensed adviser in yours. Investing and trading can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -1176,6 +1178,8 @@ starter_structure:
 
                 ## Notes
                 Controlling a partner's access to money can be a form of abuse. If that is happening, a domestic abuse service can help you plan safely.
+
+                If you feel afraid of a partner or family member, or someone is controlling, threatening or hurting you, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233).
               priority: high
               frontmatter:
                 mode: building

@@ -4,7 +4,7 @@ name: Data Quality Monitoring
 description: "Critical tables tiered and owned, tests for freshness, volume, duplicates and validity, alerts that reach the right owner, and a data incident process that ends in a fixed root cause."
 category: business
 version: 1.0.0
-tags: [data-analytics, data-quality-monitoring, engineer, team, data-observability, data-testing, data-incidents, freshness]
+tags: [data-analytics, data-quality-monitoring, engineer, team, data-observability, data-testing, data-incidents, freshness, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Critical dataset inventory for quality monitoring
               description: |-
                 ## Purpose
-                You cannot monitor everything, and teams that try end up with thousands of checks and no idea which failures matter. Listing the tables and files that feed revenue reporting, customer-facing features, regulatory returns and the most used dashboards gives a short, defensible list to protect first. Expect thirty to eighty candidates in a mid-sized warehouse, not five hundred.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. You cannot monitor everything, and teams that try end up with thousands of checks and no idea which failures matter. Listing the tables and files that feed revenue reporting, customer-facing features, regulatory returns and the most used dashboards gives a short, defensible list to protect first. Expect thirty to eighty candidates in a mid-sized warehouse, not five hundred.
 
                 ## Milestones
                 1. An inventory of candidate datasets with schema, table name, the job that builds it and its main consumers.

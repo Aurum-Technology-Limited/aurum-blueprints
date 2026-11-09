@@ -4,7 +4,7 @@ name: Model Drift Monitoring
 description: "A register of every live model, baselines and prediction logs, drift and performance checks that reach the right person, a response runbook and the evidence to retrain, recalibrate or retire a model on time."
 category: business
 version: 1.0.0
-tags: [data-analytics, model-drift-monitoring, engineer, researcher, data-drift, concept-drift, model-monitoring, retraining]
+tags: [data-analytics, model-drift-monitoring, engineer, researcher, data-drift, concept-drift, model-monitoring, retraining, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Production model inventory and owner register
               description: |-
                 ## Purpose
-                Most teams cannot say, without asking around, how many models are scoring live data today, who owns each one and what decision it feeds. Drift monitoring starts with that list, because a model nobody knows is running is the one that will quietly decay for a year. Building the register first also shows which models matter enough to watch closely and which are candidates for switching off.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most teams cannot say, without asking around, how many models are scoring live data today, who owns each one and what decision it feeds. Drift monitoring starts with that list, because a model nobody knows is running is the one that will quietly decay for a year. Building the register first also shows which models matter enough to watch closely and which are candidates for switching off.
 
                 ## Milestones
                 1. Every model scoring production data listed with its name, version, serving location and the decision or process it feeds.

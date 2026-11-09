@@ -4,7 +4,7 @@ name: Beta & Early Access Programmes
 description: "Running betas that answer real questions: goals and exit criteria, recruiting and agreements, feedback and bug channels, weekly review rhythms, and a clear evidence-based call on when a feature is ready for general release."
 category: business
 version: 1.0.0
-tags: [product-management, beta-early-access-programmes, team, founder, beta-testing, early-access, waitlist, release-readiness]
+tags: [product-management, beta-early-access-programmes, team, founder, beta-testing, early-access, waitlist, release-readiness, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Beta goals and the decisions they inform
               description: |-
                 ## Purpose
-                Most betas fail quietly because nobody wrote down what they were meant to prove, so they run for months and end when someone gets impatient. Naming two to four questions the beta must answer, each tied to a decision such as pricing, scope or launch date, turns it from a soft launch into an experiment with a finish line.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most betas fail quietly because nobody wrote down what they were meant to prove, so they run for months and end when someone gets impatient. Naming two to four questions the beta must answer, each tied to a decision such as pricing, scope or launch date, turns it from a soft launch into an experiment with a finish line.
 
                 ## Milestones
                 1. Two to four beta questions written down, each linked to a named product decision.

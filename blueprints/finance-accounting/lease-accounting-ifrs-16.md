@@ -4,7 +4,7 @@ name: Lease Accounting Under IFRS 16
 description: "A complete lease inventory, defensible judgements on term, discount rate and exemptions, schedules that post every month, controls the auditor can test and a disclosure note that reconciles first time."
 category: business
 version: 1.0.0
-tags: [finance-accounting, lease-accounting-ifrs-16, enterprise, manager, ifrs, leases, right-of-use-assets, lease-liabilities]
+tags: [finance-accounting, lease-accounting-ifrs-16, enterprise, manager, ifrs, leases, right-of-use-assets, lease-liabilities, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Complete lease inventory across every entity
               description: |-
                 ## Purpose
-                Leases hide in property files, fleet agreements, IT contracts and purchase orders signed at site level, and an inventory built only from the rent ledger usually misses a third of them. One list of every arrangement that might contain a lease, by entity and asset class, is the starting point for every schedule, judgement and disclosure in this area.
+                Leases hide in property files, fleet agreements, IT contracts and purchase orders signed at site level, and an inventory built only from the rent ledger usually misses a third of them. One list of every arrangement that might contain a lease, by entity and asset class, is the starting point for every schedule, judgement and disclosure in this area. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every entity's rent, hire, fleet and equipment payments for the last twelve months extracted from the ledger and matched to a contract.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Search the payables ledger by supplier as well as by account code. Equipment hire and vehicle rentals are often coded to repairs, travel or cost of sales.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
@@ -1162,4 +1162,4 @@ starter_structure:
 
 This area is for finance managers, group reporting teams and lease accountants in larger businesses who have to keep every property, vehicle and equipment lease on the balance sheet correctly under IFRS 16. It starts with the foundations (a complete inventory, an embedded lease review, abstracted contract data, the exemption, discount rate and lease term judgements, opening schedules and a written policy), then the monthly and quarterly machinery that keeps journals, remeasurements and modifications flowing, the technical skills behind measurement, lessor accounting and presentation, decisions about software, portfolios and budgeting, the dated events such as year-end disclosures, a sale and leaseback or an early exit, situations for a new lease accountant, a first-time adopter or a group roll-out, and finally specialist work on US GAAP reconciliation, intercompany leases and audit committee reporting.
 
-What repeats is the monthly lease journal run, a weekly check of the contract intake log, the liability roll-forward and modification log each month, quarterly index remeasurements, term reassessments, controls testing and discount rate refreshes, and the yearly impairment, restoration provision and policy reviews. The Month-end close, Compliance control, Purchase decision, Remediation plan and Onboarding 30/60/90 templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is the monthly lease journal run, a weekly check of the contract intake log, the liability roll-forward and modification log each month, quarterly index remeasurements, term reassessments, controls testing and discount rate refreshes, and the yearly impairment, restoration provision and policy reviews. The Month-end close, Compliance control, Purchase decision, Remediation plan and Onboarding 30/60/90 templates pair with the projects that name them. In a shared workspace, the lease accountant keeps the schedules, property and procurement teams feed in contracts and changes, and the group financial controller and the auditors agree the judgements. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

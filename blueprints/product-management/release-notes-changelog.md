@@ -4,7 +4,7 @@ name: Release Notes & Changelog
 description: "A public changelog people actually read, a style guide and entry template, a weekly publishing routine with accuracy checks, and the notices, digests and developer feeds that tell customers what changed and what to do."
 category: business
 version: 1.0.0
-tags: [product-management, release-notes-changelog, team, founder, small-business, changelog, release-notes, product-communication]
+tags: [product-management, release-notes-changelog, team, founder, small-business, changelog, release-notes, product-communication, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Audit of the last six months of release notes
               description: |-
                 ## Purpose
-                Most teams discover their release notes are scattered across a help centre page, a few emails, some in-app pop-ups and a Slack channel only staff can see. Pulling six months of them into one list shows what was announced, what shipped silently and where the same change was described three different ways. That list is the baseline every later decision in this area is measured against.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most teams discover their release notes are scattered across a help centre page, a few emails, some in-app pop-ups and a Slack channel only staff can see. Pulling six months of them into one list shows what was announced, what shipped silently and where the same change was described three different ways. That list is the baseline every later decision in this area is measured against.
 
                 ## Milestones
                 1. Every place a release note was published in the last six months listed, with a link to each.

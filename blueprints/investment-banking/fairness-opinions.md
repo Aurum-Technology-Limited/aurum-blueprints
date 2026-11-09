@@ -4,7 +4,7 @@ name: Fairness Opinions
 description: "Fairness opinions from the banker's seat: scope and conflicts, the analyses behind the fairness book, internal committee review, the opinion letter, shareholder disclosure and the deals where independence is tested hardest."
 category: business
 version: 1.0.0
-tags: [investment-banking, fairness-opinions, knowledge-worker, fairness-opinion, special-committee, fairness-committee, proxy-disclosure, independence]
+tags: [investment-banking, fairness-opinions, knowledge-worker, fairness-opinion, special-committee, fairness-committee, proxy-disclosure, independence, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Scope and limits of a fairness opinion
               description: |-
                 ## Purpose
-                A fairness opinion says that the consideration in a deal is fair, from a financial point of view, to a defined group of holders as of a stated date, and nothing more. It is not a recommendation on how to vote, a valuation report or a view on whether a higher price was available, and juniors who blur those lines write pages the committee strikes out. Getting the boundaries straight in your first week saves rework on every engagement that follows.
+                A fairness opinion says that the consideration in a deal is fair, from a financial point of view, to a defined group of holders as of a stated date, and nothing more. It is not a recommendation on how to vote, a valuation report or a view on whether a higher price was available, and juniors who blur those lines write pages the committee strikes out. Getting the boundaries straight in your first week saves rework on every engagement that follows. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page note naming the four elements of a standard opinion: the consideration, the holders addressed, the financial point of view and the opinion date.
@@ -113,7 +113,7 @@ starter_structure:
                 4. A draft relationship disclosure paragraph sent to counsel for review.
 
                 ## Notes
-                Answers come from conflicts and finance records, never from memory. If the bank is also financing the buyer, tell the MD on day one, not the week of signing.
+                Answers come from conflicts and finance records, never from memory. If the bank is also financing the buyer, tell the MD on day one, not the week of signing. In the US, FINRA Rule 5150 sets the disclosures a member firm's opinion must carry when public shareholders will see it, including contingent fees, material relationships in the past two years and whether a fairness committee approved it; elsewhere, compliance confirms the local rule.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -126,7 +126,8 @@ starter_structure:
                 - "Ask compliance which look-back period and fee thresholds the firm uses"
                 - "List every party and affiliate to run through the conflicts search"
                 - "Collect prior fees and current roles from the bank's finance records"
-                - "Draft the relationship disclosure paragraph for counsel to review"
+                - "Associate drafts the relationship disclosure paragraph for counsel to review"
+                - "Compliance confirms the disclosure meets FINRA Rule 5150 or the local rule"
             - name: Information request list for a fairness engagement
               description: |-
                 ## Purpose
@@ -1193,4 +1194,4 @@ starter_structure:
 
 This area is for bankers who prepare and deliver fairness opinions: the analysts building the book, the associates and VPs running the workstream, the MDs who stand up in the boardroom and the senior bankers who sit on the fairness committee. It starts with foundations (the scope and limits of an opinion, the engagement letter, conflict disclosure, the projections you rely on and a workplan that hits the board date), moves to the routines that keep an engagement and your precedent knowledge current, then the analytical and drafting skills, the judgement calls on fees, second opinions and opinion dates, the dated events from committee to signing night to the shareholder vote, variants for each seat on the deal team, and finally specialist work on going-private deals, solvency opinions, cross-border independent adviser rules and SPAC mergers.
 
-What repeats is a weekly status note and data refresh during a live engagement, a monthly read of new public fairness disclosures, a monthly committee calendar check, a quarterly watch on court decisions and fairness litigation, and yearly refreshes of your precedent library and drafting clauses. The Reading queue, Feedback themes, Risk register, Meeting notes, Operational checklist and Development plan templates pair with the projects that name them. Client data and the bank's internal fairness books stay on the bank's systems; these projects hold your own method, checklists and public material, and legal or regulatory questions go to counsel and compliance. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a weekly status note and data refresh during a live engagement, a monthly read of new public fairness disclosures, a monthly committee calendar check, a quarterly watch on court decisions and fairness litigation, and yearly refreshes of your precedent library and drafting clauses. The Reading queue, Feedback themes, Risk register, Meeting notes, Operational checklist and Development plan templates pair with the projects that name them. Client data and the bank's internal fairness books stay on the bank's systems; these projects hold the team's method, checklists and public material, and legal or regulatory questions go to counsel and compliance. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

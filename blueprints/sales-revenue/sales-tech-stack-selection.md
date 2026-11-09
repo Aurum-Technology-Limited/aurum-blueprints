@@ -4,7 +4,7 @@ name: Sales Tech Stack Selection
 description: "An inventory, renewal calendar, overlap map and requirements, then structured choices of CRM, dialer, sequencing and recording tools, with routines that keep seats, spend and integrations in check."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-tech-stack-selection, manager, small-business, founder, saas-procurement, integrations, software-renewals]
+tags: [sales-revenue, sales-tech-stack-selection, manager, small-business, founder, saas-procurement, integrations, software-renewals, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Sales tool inventory and spend register
               description: |-
                 ## Purpose
-                Most sales teams cannot say, without a week of digging, how many tools they pay for, who owns each login and what the annual total is. A single register listing every tool, its owner, seat count, monthly cost and renewal date is the starting point for every later decision in this area, and it usually turns up at least one subscription nobody remembers buying.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most sales teams cannot say, without a week of digging, how many tools they pay for, who owns each login and what the annual total is. A single register listing every tool, its owner, seat count, monthly cost and renewal date is the starting point for every later decision in this area, and it usually turns up at least one subscription nobody remembers buying.
 
                 ## Milestones
                 1. Every sales tool found through card statements, expense claims and the finance system listed in one register.

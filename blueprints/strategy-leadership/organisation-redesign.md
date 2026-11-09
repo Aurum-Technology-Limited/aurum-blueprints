@@ -4,7 +4,7 @@ name: Organisation Redesign
 description: "A clear case and design criteria, an honest map of today's structure, scored options, detailed reporting lines and role profiles, fair selection, and an announcement and transition handled with care."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, organisation-redesign, manager, enterprise, org-design, restructuring, spans-and-layers, reporting-lines]
+tags: [strategy-leadership, organisation-redesign, manager, enterprise, org-design, restructuring, spans-and-layers, reporting-lines, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Case for redesign in one page
               description: |-
                 ## Purpose
-                Structure is the most expensive lever a leader can pull, and many redesigns start because a new executive wants a different chart rather than because the strategy needs one. Writing one page on the specific problems structure must solve, such as slow product decisions, duplicated customer teams or unclear ownership of a market, tells you whether a redesign is the answer or whether a process or people change would do.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Structure is the most expensive lever a leader can pull, and many redesigns start because a new executive wants a different chart rather than because the strategy needs one. Writing one page on the specific problems structure must solve, such as slow product decisions, duplicated customer teams or unclear ownership of a market, tells you whether a redesign is the answer or whether a process or people change would do.
 
                 ## Milestones
                 1. Three to five concrete symptoms written down, each with an example from the last six months.

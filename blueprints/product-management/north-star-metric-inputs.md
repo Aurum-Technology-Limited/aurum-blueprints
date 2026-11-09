@@ -4,7 +4,7 @@ name: North Star Metric & Inputs
 description: "A North Star that reflects real customer value, a tree of owned input metrics with guards, and the weekly reviews, quarterly targets and checks that keep the number honest."
 category: business
 version: 1.0.0
-tags: [product-management, north-star-metric-inputs, team, manager, founder, metrics, input-metrics, counter-metrics]
+tags: [product-management, north-star-metric-inputs, team, manager, founder, metrics, input-metrics, counter-metrics, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Value moment statement for the North Star
               description: |-
                 ## Purpose
-                Before any metric is chosen, the team needs one sentence describing the moment a customer gets real value: an invoice paid on time, a playlist finished, a report shared with a manager. Writing that sentence first stops the North Star debate collapsing into whichever number is easiest to pull, and gives every later candidate something to be tested against.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before any metric is chosen, the team needs one sentence describing the moment a customer gets real value: an invoice paid on time, a playlist finished, a report shared with a manager. Writing that sentence first stops the North Star debate collapsing into whichever number is easiest to pull, and gives every later candidate something to be tested against.
 
                 ## Milestones
                 1. Five recent customer stories gathered where the product clearly delivered value.

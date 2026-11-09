@@ -4,7 +4,7 @@ name: Sales Territory Planning
 description: "Fair, data-backed sales territories: an account universe and potential scores, balance and coverage routines, clear ownership rules, and planned redesigns that move accounts without losing deals or sellers."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-territory-planning, manager, enterprise, team, territory-design, account-assignment, coverage]
+tags: [sales-revenue, sales-territory-planning, manager, enterprise, team, territory-design, account-assignment, coverage, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Territory planning objectives and design principles
               description: |-
                 ## Purpose
-                Before anyone draws a line on a map, the leadership team needs to agree what the territories are for: faster coverage of new logos, deeper penetration of existing customers, lower travel cost or fairer earning opportunity. Writing three to five ranked objectives and a handful of design principles, such as how much customer continuity matters, gives every later trade-off a tiebreaker and stops the plan becoming a negotiation won by the loudest reps.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before anyone draws a line on a map, the leadership team needs to agree what the territories are for: faster coverage of new logos, deeper penetration of existing customers, lower travel cost or fairer earning opportunity. Writing three to five ranked objectives and a handful of design principles, such as how much customer continuity matters, gives every later trade-off a tiebreaker and stops the plan becoming a negotiation won by the loudest reps.
 
                 ## Milestones
                 1. Three to five territory objectives written and ranked by the sales leader.

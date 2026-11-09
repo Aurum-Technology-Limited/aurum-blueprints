@@ -4,7 +4,7 @@ name: Sprint Planning & Estimation
 description: "Tickets that are ready before planning, an estimation method the team trusts, sprint commitments sized to real capacity and forecasts given as ranges rather than promises."
 category: business
 version: 1.0.0
-tags: [software-engineering, sprint-planning-estimation, engineer, team, agile, estimation, backlog-refinement, forecasting]
+tags: [software-engineering, sprint-planning-estimation, engineer, team, agile, estimation, backlog-refinement, forecasting, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Sprint length and planning day decision
               description: |-
                 ## Purpose
-                Teams that drift between one, two and three week sprints never build a velocity worth reading, because every number is measured against a different yardstick. Choosing one length, one planning day and one review day, and holding them for at least six sprints, gives every later estimate and forecast in this area a stable base.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Teams that drift between one, two and three week sprints never build a velocity worth reading, because every number is measured against a different yardstick. Choosing one length, one planning day and one review day, and holding them for at least six sprints, gives every later estimate and forecast in this area a stable base.
 
                 ## Milestones
                 1. Sprint length chosen, with the reason written in two sentences.

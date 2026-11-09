@@ -4,7 +4,7 @@ name: Data Contracts & Schemas
 description: "Written contracts between the teams that produce data and the teams that use it, with compatibility rules, CI checks, versioning and deprecation, so upstream schema changes stop breaking reports."
 category: business
 version: 1.0.0
-tags: [data-analytics, data-contracts-schemas, engineer, enterprise, schema-evolution, schema-registry, breaking-changes, producer-consumer]
+tags: [data-analytics, data-contracts-schemas, engineer, enterprise, schema-evolution, schema-registry, breaking-changes, producer-consumer, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Upstream producer and consumer inventory
               description: |-
                 ## Purpose
-                Most broken reports trace back to a handful of upstream sources: an application database replicated raw, a product event stream, a finance export. Mapping which systems produce the data, which tables and reports consume it and who owns each end gives you the list of relationships a contract would actually protect. In a mid-sized company expect fifteen to forty producer and consumer pairs, not hundreds.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most broken reports trace back to a handful of upstream sources: an application database replicated raw, a product event stream, a finance export. Mapping which systems produce the data, which tables and reports consume it and who owns each end gives you the list of relationships a contract would actually protect. In a mid-sized company expect fifteen to forty producer and consumer pairs, not hundreds.
 
                 ## Milestones
                 1. A list of every upstream system feeding the warehouse, with its owning team and how the data arrives.

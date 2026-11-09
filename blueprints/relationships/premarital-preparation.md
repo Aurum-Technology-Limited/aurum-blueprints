@@ -87,6 +87,8 @@ starter_structure:
 
                 ## Notes
                 Some officiants and faith communities require a particular course. Check before you choose, so you do not pay twice.
+
+                If either of you feels afraid of or controlled by the other, joint counselling or a course is not the right setting; talk to a domestic abuse helpline confidentially first.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -841,6 +843,8 @@ starter_structure:
 
                 ## Notes
                 If you notice controlling or frightening behaviour while doing this, the Leaving an Unhealthy Relationship area and a confidential helpline are the right next step, not more premarital work.
+
+                If you feel afraid of a partner or family member, or someone is controlling, threatening or hurting you, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233).
               priority: high
               frontmatter:
                 mode: building

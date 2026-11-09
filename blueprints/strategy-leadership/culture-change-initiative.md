@@ -4,7 +4,7 @@ name: Culture Change Initiative
 description: "A business case for changing how people behave, a diagnosis built on evidence, a few named from-to shifts, leaders who model them visibly and measures that show whether the culture is really moving."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, culture-change-initiative, manager, enterprise, culture-change, role-modelling, behaviour-change, culture-measures]
+tags: [strategy-leadership, culture-change-initiative, manager, enterprise, culture-change, role-modelling, behaviour-change, culture-measures, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Business case for the culture shift
               description: |-
                 ## Purpose
-                Culture programmes that start from a slogan lose funding at the first bad quarter, while those tied to a named business problem survive it. Writing down which results the current behaviour is costing, such as slow decisions, repeat safety incidents or lost customers, and what would improve if behaviour changed, gives the whole effort a reason that finance and the front line can both repeat.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Culture programmes that start from a slogan lose funding at the first bad quarter, while those tied to a named business problem survive it. Writing down which results the current behaviour is costing, such as slow decisions, repeat safety incidents or lost customers, and what would improve if behaviour changed, gives the whole effort a reason that finance and the front line can both repeat.
 
                 ## Milestones
                 1. Three business problems linked to current behaviour, each with a number attached.

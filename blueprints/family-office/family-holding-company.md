@@ -4,7 +4,7 @@ name: Family Holding Company
 description: "A family holding company run properly: a clear map of what it holds, a working board, intercompany loans on paper, dividend flows traced, annual accounts closed and every filing made on time."
 category: personal
 version: 1.0.0
-tags: [family-office, family-holding-company, parent, founder, holding-company, corporate-governance, intercompany-loans, statutory-filings]
+tags: [family-office, family-holding-company, parent, founder, holding-company, corporate-governance, intercompany-loans, statutory-filings, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Holding company asset and entity map
               description: |-
                 ## Purpose
-                Families often discover that nobody can say exactly what the holding company owns: a trading company, two property companies, a dormant shell from an old deal and a brokerage account opened by a parent decades ago. One chart showing every entity, its percentage owned, its country and what it holds is the document every adviser asks for first, and the starting point for everything else in this area.
+                Families often discover that nobody can say exactly what the holding company owns: a trading company, two property companies, a dormant shell from an old deal and a brokerage account opened by a parent decades ago. One chart showing every entity, its percentage owned, its country and what it holds is the document every adviser asks for first, and the starting point for everything else in this area. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every subsidiary, associate and direct asset of the holding company listed with country of incorporation and registration number.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Include dormant and struck-off companies you are unsure about. A company you forgot can still have a filing obligation and a director who is personally liable for missing it.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -46,7 +48,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "List every company and account you believe the holding company owns"
+                - "List every company and account the family believes the holding company owns"
                 - "Pull the latest share register or registry extract for each subsidiary"
                 - "Draw a one-page structure chart with ownership percentages"
                 - "Send the chart to the group accountant to check against the accounts"

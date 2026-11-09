@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Schedules differ between countries and are revised from time to time, so check the current list on the regulator's or health ministry's website rather than an old textbook.
+
+                Before you start: this plan is general information to help you organise your own work. It does not replace your professional judgement, the rules of your regulator or professional body, your firm's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

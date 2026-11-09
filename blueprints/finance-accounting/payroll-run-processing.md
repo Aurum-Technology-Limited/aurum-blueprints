@@ -4,7 +4,7 @@ name: Payroll Run Processing
 description: "A pay calendar and clean employee records, a checked run each period with starters, leavers, variance review and approval, employer filings and remittances, and a calm year-end for small and growing businesses."
 category: business
 version: 1.0.0
-tags: [finance-accounting, payroll-run-processing, small-business, manager, team, payslips, employer-filings, starters-leavers]
+tags: [finance-accounting, payroll-run-processing, small-business, manager, team, payslips, employer-filings, starters-leavers, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Employer registration for payroll taxes
               description: |-
                 ## Purpose
-                Before the first wage is paid, most countries require the business to register as an employer with the tax authority and, in many places, separately with the social security or national insurance body. Registering early gives you the employer reference numbers that payroll software, payslips and every later filing depend on, and avoids a late registration penalty landing in the first month.
+                Before the first wage is paid, most countries require the business to register as an employer with the tax authority and, in many places, separately with the social security or national insurance body. Registering early gives you the employer reference numbers that payroll software, payslips and every later filing depend on, and avoids a late registration penalty landing in the first month. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every registration the business needs as an employer listed, with the body responsible for each.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Requirements differ by country and sometimes by state or province. Check the tax authority's guidance for new employers or ask your accountant which registrations apply; a workplace pension or accident insurance scheme may also need registering.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -206,7 +206,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "List every step of the last payroll run in the order you did it"
+                - "List every step of the last payroll run in the order it was done"
                 - "Add the owner, system and output report for each step"
                 - "Mark the review and approval points in the checklist"
                 - "Run the next payroll from the checklist and fix anything missing"
@@ -1004,7 +1004,7 @@ starter_structure:
                 - "Block a fixed monthly slot in your calendar for running payroll"
                 - "Ask your accountant to review the first three payrolls"
                 - "Set reminders for pay day, filing and tax payment dates"
-                - "Keep a one-page note of each step as you run the first payroll"
+                - "Note each step on one page while the first payroll is run"
             - name: Manager's pre-payroll sign-off for a team
               description: |-
                 ## Purpose
@@ -1049,7 +1049,7 @@ starter_structure:
               tasks:
                 - "Name a payroll deputy and agree it with their manager"
                 - "Set up the deputy's own payroll and bank access"
-                - "Have the deputy run a full payroll while you observe @recurring(yearly)"
+                - "Have the deputy run a full payroll while the payroll lead observes @recurring(yearly)"
                 - "Record support contacts for the payroll provider and the bank"
             - name: Seasonal and casual worker payroll
               description: |-
@@ -1218,4 +1218,4 @@ starter_structure:
 
 This area is for whoever makes sure people are paid correctly and on time: an owner running payroll for the first few employees, a manager signing off a team's hours, or a small finance team running weekly and monthly payrolls. It starts with the foundations (employer registration, a pay calendar, clean employee records, the right software, a pay element map, this year's rates and a run checklist), then the per-period machinery of starters, leavers, timesheets, change logs, variance checks, approval, payslips, filings, remittances and the payroll journal, followed by the calculation skills behind a payslip, the improvements and decisions worth making, the dated runs of the year, situations for owners, managers and teams, and finally specialist work such as tax authority tie-outs, prior period corrections, earnings orders and cross-border employees.
 
-What repeats is the pay cycle itself: a weekly timesheet chase, a change log closed around the 18th, a variance check, approval and release in the days before pay day, the employer filing, then tax, pension and journal work in the first half of the following month, with quarterly master data, minimum wage and tax authority checks and a yearly calendar, rates and year-end cycle. The dates assume a month-end pay day, so move them to fit your own calendar. The Operational checklist, Purchase decision, Metrics log, Compliance control, Remediation plan and Onboarding plan templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is the pay cycle itself: a weekly timesheet chase, a change log closed around the 18th, a variance check, approval and release in the days before pay day, the employer filing, then tax, pension and journal work in the first half of the following month, with quarterly master data, minimum wage and tax authority checks and a yearly calendar, rates and year-end cycle. The dates assume a month-end pay day, so move them to fit your own calendar. The Operational checklist, Purchase decision, Metrics log, Compliance control, Remediation plan and Onboarding plan templates pair with the projects that name them. In a shared workspace, a payroll administrator prepares each run, a second person checks and releases it, managers sign off hours, and a qualified accountant or payroll adviser confirms rates, filings and tax treatment in your country. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

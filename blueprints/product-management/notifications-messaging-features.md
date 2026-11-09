@@ -4,7 +4,7 @@ name: Notifications & Messaging Features
 description: "An inventory of every message, channel rules, sensible defaults and a preference centre, then the routines and builds that keep in-app, email and push notifications useful rather than noisy."
 category: business
 version: 1.0.0
-tags: [product-management, notifications-messaging-features, team, engineer, push-notifications, email-deliverability, in-app-messaging, preference-centre]
+tags: [product-management, notifications-messaging-features, team, engineer, push-notifications, email-deliverability, in-app-messaging, preference-centre, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Inventory of every notification the product sends
               description: |-
                 ## Purpose
-                Most products send far more messages than anyone on the team can list: welcome emails written at launch, a push someone added for a growth test, receipts from the billing system, digests nobody remembers turning on. A single inventory with each message's trigger, channel, audience, owner and monthly volume is the starting point for every decision in this area, and it usually surfaces a few messages that should have been switched off a year ago.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most products send far more messages than anyone on the team can list: welcome emails written at launch, a push someone added for a growth test, receipts from the billing system, digests nobody remembers turning on. A single inventory with each message's trigger, channel, audience, owner and monthly volume is the starting point for every decision in this area, and it usually surfaces a few messages that should have been switched off a year ago.
 
                 ## Milestones
                 1. Every email, push, in-app, SMS and system message listed with its trigger event and channel.
@@ -614,7 +614,7 @@ starter_structure:
             - name: Messaging consent and privacy rules primer
               description: |-
                 ## Purpose
-                Email marketing, SMS and push are covered by consent and privacy rules that differ by country, for example the EU's electronic communications rules or CAN-SPAM in the US. A product person does not need to be a lawyer, but does need to know which questions to ask and to keep consent records that will stand up when someone asks for them.
+                Email marketing, SMS and push are covered by consent and privacy rules that differ by country, for example the EU's electronic communications rules, or in the US the CAN-SPAM Act for commercial email and the Telephone Consumer Protection Act for texts. A product person does not need to be a lawyer, but does need to know which questions to ask and to keep consent records that will stand up when someone asks for them.
 
                 ## Milestones
                 1. The countries where most users live listed, with the messaging rules that apply in each checked with a privacy adviser.

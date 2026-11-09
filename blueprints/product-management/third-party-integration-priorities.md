@@ -4,7 +4,7 @@ name: Third-Party Integration Priorities
 description: "Which integrations to build next and why: an inventory and demand evidence, a scoring model, routines that keep the portfolio and partners healthy, and the founder, enterprise and platform calls behind them."
 category: business
 version: 1.0.0
-tags: [product-management, third-party-integration-priorities, team, founder, enterprise, integrations, partnerships, app-marketplace]
+tags: [product-management, third-party-integration-priorities, team, founder, enterprise, integrations, partnerships, app-marketplace, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Live integration inventory and health snapshot
               description: |-
                 ## Purpose
-                Most products that have shipped for a few years carry more integrations than anyone can list: the native CRM sync, a chat app built in a hackathon, partner-built connectors on someone else's marketplace and a stack of automation platform templates. A single inventory of every integration, who built it, who owns it, how many accounts use it and how often it fails is the starting point for every priority call in this area, because you cannot rank new work against a portfolio you cannot see.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most products that have shipped for a few years carry more integrations than anyone can list: the native CRM sync, a chat app built in a hackathon, partner-built connectors on someone else's marketplace and a stack of automation platform templates. A single inventory of every integration, who built it, who owns it, how many accounts use it and how often it fails is the starting point for every priority call in this area, because you cannot rank new work against a portfolio you cannot see.
 
                 ## Milestones
                 1. Every native, partner-built and automation platform integration listed in one table.

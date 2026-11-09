@@ -4,7 +4,7 @@ name: Cross-Border M&A Execution
 description: "A banker's system for deals across borders: jurisdiction maps, merger control and foreign investment trackers, currency exposure, time zone rhythms, local advisers and negotiating well in another business culture."
 category: business
 version: 1.0.0
-tags: [investment-banking, cross-border-m-and-a-execution, knowledge-worker, analyst, associate, cross-border, regulatory-approvals, foreign-investment]
+tags: [investment-banking, cross-border-m-and-a-execution, knowledge-worker, analyst, associate, cross-border, regulatory-approvals, foreign-investment, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Jurisdiction map for a cross-border deal
               description: |-
                 ## Purpose
-                Every cross-border deal touches more countries than the headline suggests: the buyer's home, the target's home, every country where either has meaningful sales or assets, and the places where holding companies sit. A one-page map of those jurisdictions, with what each one could require, is the document every later workstream hangs from, and it is far cheaper to build in week one than to discover a missing country a month before signing.
+                Every cross-border deal touches more countries than the headline suggests: the buyer's home, the target's home, every country where either has meaningful sales or assets, and the places where holding companies sit. A one-page map of those jurisdictions, with what each one could require, is the document every later workstream hangs from, and it is far cheaper to build in week one than to discover a missing country a month before signing. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every jurisdiction where the buyer, the target or their holding entities have revenue, assets, employees or listings listed on one page.

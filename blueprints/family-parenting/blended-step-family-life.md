@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Younger children cope with 'this is my friend' at first; older children usually see through it and resent being managed, so tell them plainly. Keep overnight stays out of the early meetings.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
@@ -424,7 +426,7 @@ starter_structure:
                 4. School or a professional contacted where a pattern points to more than ordinary adjustment.
 
                 ## Notes
-                Watch for changes in sleep, appetite, schoolwork and friendships. If you are worried about a child's safety or wellbeing, speak to their doctor or school promptly rather than waiting for the monthly check.
+                Watch for changes in sleep, appetite, schoolwork and friendships. If you are worried about a child's safety or wellbeing, speak to their doctor or school promptly rather than waiting for the monthly check. If you are worried about a child's safety, you can also contact your local child-protection service or a helpline such as the NSPCC (0808 800 5000) in the UK or Childhelp (1-800-422-4453) in the US, or call your local emergency number if they are in danger.
               priority: medium
               frontmatter:
                 mode: operating
@@ -682,6 +684,8 @@ starter_structure:
 
                 ## Notes
                 Where there has been abuse, or a court order limits contact, follow the professional advice you have been given and skip the introduction.
+
+                If you feel afraid of a partner, ex-partner or family member, or someone is controlling, threatening or hurting you or the children, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233).
               priority: medium
               frontmatter:
                 mode: building

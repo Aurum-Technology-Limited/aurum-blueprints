@@ -4,7 +4,7 @@ name: Company Vision and Mission
 description: "A vision and mission tested against real decisions, owned by the leadership team, approved by the board and built into hiring, investment gates and yearly reviews."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, company-vision-and-mission, manager, founder, enterprise, purpose, mission-statement, vision]
+tags: [strategy-leadership, company-vision-and-mission, manager, founder, enterprise, purpose, mission-statement, vision, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -24,7 +24,7 @@ starter_structure:
             - name: Audit of the current vision and mission statements
               description: |-
                 ## Purpose
-                Most organisations already have a mission somewhere: on the website, in the annual report, on a poster in reception, and the versions rarely match. Gathering every live version and checking which one leaders actually quote shows whether you need a light edit or a real rewrite before anyone starts wordsmithing.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most organisations already have a mission somewhere: on the website, in the annual report, on a poster in reception, and the versions rarely match. Gathering every live version and checking which one leaders actually quote shows whether you need a light edit or a real rewrite before anyone starts wordsmithing.
 
                 ## Milestones
                 1. Every published version of the vision, mission and purpose collected in one document with its source and date.

@@ -4,7 +4,7 @@ name: Independent Valuation Engagements
 description: "Valuation reports that hold up: engagement acceptance and scope, standards of value, data and fieldwork, reasoned conclusions, second review, and the transaction, dispute and financial reporting work that follows."
 category: business
 version: 1.0.0
-tags: [investment-banking, independent-valuation-engagements, knowledge-worker, valuation-reports, fair-value, purchase-price-allocation, expert-witness, impairment]
+tags: [investment-banking, independent-valuation-engagements, knowledge-worker, valuation-reports, fair-value, purchase-price-allocation, expert-witness, impairment, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Engagement acceptance and independence check
               description: |-
                 ## Purpose
-                Before any work starts, a valuer has to know whether they can be independent of the subject, the client and the likely readers, and whether the firm has the skills and time to do it properly. A written acceptance record, covering conflicts, prior relationships, fee dependence and competence, is the first document an auditor, regulator or opposing counsel will ask to see.
+                Before any work starts, a valuer has to know whether they can be independent of the subject, the client and the likely readers, and whether the firm has the skills and time to do it properly. A written acceptance record, covering conflicts, prior relationships, fee dependence and competence, is the first document an auditor, regulator or opposing counsel will ask to see. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A conflict search run against the client, the subject company, counterparties and known litigants.

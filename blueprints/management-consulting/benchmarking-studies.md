@@ -4,7 +4,7 @@ name: Benchmarking Studies
 description: "A working method for client benchmarks: the decision it serves, a defensible peer set, defined metrics, clean collection and normalisation, gaps shown honestly and false comparisons caught before the readout."
 category: business
 version: 1.0.0
-tags: [management-consulting, benchmarking-studies, knowledge-worker, benchmarking, peer-group, normalisation, kpi, gap-analysis]
+tags: [management-consulting, benchmarking-studies, knowledge-worker, benchmarking, peer-group, normalisation, kpi, gap-analysis, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: The decision a benchmark has to inform
               description: |-
                 ## Purpose
-                A benchmark commissioned because the chief executive asked how we compare will produce forty charts and no action. Writing down the one or two decisions the numbers must inform, such as whether to restructure the finance function or where to set next year's cost target, tells you which metrics matter, how precise they need to be and when the study can stop.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. A benchmark commissioned because the chief executive asked how we compare will produce forty charts and no action. Writing down the one or two decisions the numbers must inform, such as whether to restructure the finance function or where to set next year's cost target, tells you which metrics matter, how precise they need to be and when the study can stop.
 
                 ## Milestones
                 1. The sponsor's decision written in one sentence, with the date it will be taken.

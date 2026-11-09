@@ -4,7 +4,7 @@ name: Revenue Recognition Policy
 description: "A written revenue recognition policy built on the five-step model, with mapped performance obligations, selling price evidence, deal review before signature and the judgements auditors and investors will test."
 category: business
 version: 1.0.0
-tags: [finance-accounting, revenue-recognition-policy, founder, manager, enterprise, ifrs-15, asc-606, performance-obligations]
+tags: [finance-accounting, revenue-recognition-policy, founder, manager, enterprise, ifrs-15, asc-606, performance-obligations, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Revenue stream and contract type inventory
               description: |-
                 ## Purpose
-                Before any policy can be written you need a plain list of every way the business earns money: product sales, services, licences, support, implementation fees, rebated volume deals and anything sold through a partner. Most companies find two or three streams nobody has thought about, such as set-up fees or free pilots that convert. The inventory becomes the table of contents for the whole policy.
+                Before any policy can be written you need a plain list of every way the business earns money: product sales, services, licences, support, implementation fees, rebated volume deals and anything sold through a partner. Most companies find two or three streams nobody has thought about, such as set-up fees or free pilots that convert. The inventory becomes the table of contents for the whole policy. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every revenue stream listed with its share of last year's revenue.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Work from the general ledger revenue accounts and the contract folder together. A stream that exists in contracts but has no ledger account is usually the one hiding a problem.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -1189,4 +1189,4 @@ starter_structure:
 
 This area is for whoever has to answer the question every auditor and investor asks first: when, exactly, do you count a sale as revenue? It suits a founder writing the first policy before a raise, a finance manager inheriting one, and an enterprise team keeping it consistent across business units. It begins with the foundations (a map of revenue streams, the framework you report under, the five-step model applied to your main contract, a performance obligation catalogue, selling price evidence and the written policy), then the operating rhythm of deal review, schedules, roll-forwards and control tests, the technical skills behind the hard calls, the improvements and decisions that tidy contracts and models, the dated moments such as an audit walkthrough or a framework transition, situations for founders, new managers and large groups, and finally specialist work on disclosures, long-term contracts, journal analytics and dual-framework reporting.
 
-What repeats is the evidence trail: a weekly deal review, monthly schedule tie-outs, contract balance roll-forwards, cut-off sampling and modification logs, quarterly variable consideration estimates, control tests and a judgements memo, then a yearly policy refresh and board briefing. The Risk register, Meeting notes, Compliance control, Reading queue and Purchase decision templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is the evidence trail: a weekly deal review, monthly schedule tie-outs, contract balance roll-forwards, cut-off sampling and modification logs, quarterly variable consideration estimates, control tests and a judgements memo, then a yearly policy refresh and board briefing. The Risk register, Meeting notes, Compliance control, Reading queue and Purchase decision templates pair with the projects that name them. In a shared workspace, the finance manager owns the policy, sales and legal flag non-standard contract terms, and judgement calls are agreed with the auditor or a qualified accountant before they are booked. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

@@ -4,7 +4,7 @@ name: Hotel and Hospitality Property
 description: "Hotel ownership run as a business: a clear buy box, the RevPAR and P&L literacy owners need, the right operator, brand and lease terms, monthly owner oversight, FF&E reserves and the refurbishment cycles that keep a hotel saleable."
 category: business
 version: 1.0.0
-tags: [real-estate-development, hotel-and-hospitality-property, founder, small-business, hotels, revpar, management-contracts, hotel-capex]
+tags: [real-estate-development, hotel-and-hospitality-property, founder, small-business, hotels, revpar, management-contracts, hotel-capex, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Hotel investment thesis and buy box
               description: |-
                 ## Purpose
-                Hotels range from a 20-room independent inn to a 400-key full-service convention property, and an owner who has not picked a lane spends months on brochures that never fit. Writing down the segment, location type, key count, price band and ownership model you will pursue gives brokers a reason to call you first. Do it before the first site visit so every later deal has something to be tested against.
+                Hotels range from a 20-room independent inn to a 400-key full-service convention property, and an owner who has not picked a lane spends months on brochures that never fit. Writing down the segment, location type, key count, price band and ownership model you will pursue gives brokers a reason to call you first. Do it before the first site visit so every later deal has something to be tested against. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The segment, key count range and price band you will pursue written in one paragraph.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 A buy box that rejects most deals is working. Select-service hotels and full-service hotels with large food and beverage operations are different businesses, so start with one.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help your team organise its work. It is not legal advice, and following it does not make anyone your organisation's lawyer. Rules differ between countries and change often, so check decisions that matter, and anything your organisation signs, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -201,7 +201,7 @@ starter_structure:
                 - "Write who bears risk and employs staff under each of the four models"
                 - "Collect typical fee and rent terms from two industry sources"
                 - "Model your income under each structure for one sample hotel"
-                - "Discuss the comparison with your hospitality lawyer and accountant"
+                - "Asset manager reviews the comparison with the hospitality lawyer and accountant"
                 - "Record the model you will pursue first and why"
             - name: Hotel deal pipeline and broker relationships
               description: |-
@@ -386,7 +386,7 @@ starter_structure:
             - name: Hotel licences and fire safety compliance calendar
               description: |-
                 ## Purpose
-                Few buildings carry as many licences and statutory checks than most buildings: fire risk assessments, alarm and sprinkler servicing, lifts, gas, legionella control, food hygiene, alcohol and music licences, and pool safety where there is one. A lapse can close outlets or invalidate insurance, and the owner usually carries the legal exposure even when an operator runs the hotel. One calendar with every certificate and its expiry date makes the gaps visible.
+                Hotels carry more licences and statutory checks than most buildings: fire risk assessments, alarm and sprinkler servicing, lifts, gas, legionella control, food hygiene, alcohol and music licences, and pool safety where there is one. A lapse can close outlets or invalidate insurance, and the owner usually carries the legal exposure even when an operator runs the hotel. One calendar with every certificate and its expiry date makes the gaps visible.
 
                 ## Milestones
                 1. A register of every licence, certificate and statutory inspection with its expiry date and responsible person.
@@ -703,7 +703,7 @@ starter_structure:
               tasks:
                 - "Rank the owner protections you care about for your hold period"
                 - "Value any key money or guarantee against its clawback and extra term"
-                - "Agree what you will and will not trade with your lawyer"
+                - "Owner's lead negotiator agrees what to trade and what not to with the lawyer"
                 - "Record the final terms and the reasons for each concession"
             - name: Property improvement plan scoping and costing
               description: |-
@@ -864,7 +864,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "60"
               tasks:
-                - "Agree the offer terms and diligence period with your lawyer"
+                - "Acquisitions lead agrees the offer terms and diligence period with the lawyer"
                 - "Request three years of P&Ls, competitive set reports and staff lists"
                 - "Instruct building, legal and trading diligence from your adviser panel"
                 - "Record every issue with its cost in the risk register"

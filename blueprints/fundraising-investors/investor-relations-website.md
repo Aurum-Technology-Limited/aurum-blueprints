@@ -4,7 +4,7 @@ name: Investor Relations Website
 description: "A clear, compliant investor section: publishing rules and a release-day workflow, archives and share data kept current, accessible reports, results and AGM pages, and plans for listings, mergers and takeovers."
 category: business
 version: 1.0.0
-tags: [fundraising-investors, investor-relations-website, enterprise, manager, listed-company, ir-website, disclosure, accessibility]
+tags: [fundraising-investors, investor-relations-website, enterprise, manager, listed-company, ir-website, disclosure, accessibility, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -28,7 +28,7 @@ starter_structure:
             - name: Investor website ownership and sign-off matrix
               description: |-
                 ## Purpose
-                Investor pages often sit between the IR team, corporate communications, the web team and the company secretary, and when a document goes up late or wrong nobody is sure who should have caught it. A one-page matrix naming who drafts, who approves and who presses publish for each content type, with named deputies, closes the gap before the next results day.
+                Investor pages often sit between the IR team, corporate communications, the web team and the company secretary, and when a document goes up late or wrong nobody is sure who should have caught it. A one-page matrix naming who drafts, who approves and who presses publish for each content type, with named deputies, closes the gap before the next results day. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every content type on the investor section listed, from regulatory announcements to director biographies.
@@ -39,7 +39,7 @@ starter_structure:
                 ## Notes
                 Keep publishing rights to a short list of trained people. A wide pool of editors is the usual cause of an unapproved draft going live.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

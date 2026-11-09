@@ -4,7 +4,7 @@ name: Major Donor Fundraising
 description: "A planned major gifts programme for a nonprofit: a gift threshold and goal model, ethical prospect research, moves management, discovery and solicitation skills, and prompt personal thanks."
 category: business
 version: 1.0.0
-tags: [fundraising-investors, major-donor-fundraising, nonprofit, manager, major-gifts, prospect-research, moves-management, solicitation]
+tags: [fundraising-investors, major-donor-fundraising, nonprofit, manager, major-gifts, prospect-research, moves-management, solicitation, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Defining what a major gift means here
               description: |-
                 ## Purpose
-                A major gift at a regional food bank might be 5,000, while a university may not use the term below 100,000, and teams that never agree a figure end up treating every generous donor the same. Setting the threshold from your own giving data, usually near the level where the top one or two per cent of donors sit, decides who gets personal attention and who stays in the mass appeal stream.
+                A major gift at a regional food bank might be 5,000, while a university may not use the term below 100,000, and teams that never agree a figure end up treating every generous donor the same. Setting the threshold from your own giving data, usually near the level where the top one or two per cent of donors sit, decides who gets personal attention and who stays in the mass appeal stream. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Three years of gift data sorted by donor total, with the top two per cent identified.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Use cumulative giving over 12 or 24 months, not single gifts, or loyal donors who give in instalments are missed.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -124,7 +124,7 @@ starter_structure:
               tasks:
                 - "Collect two or three published gift acceptance policies from peer charities"
                 - "Draft the sections on non-cash, restricted and naming gifts"
-                - "Send the draft to your legal adviser and finance lead for comment"
+                - "Send the draft to the legal adviser and finance lead, then to trustees for approval"
                 - "Table the policy for board approval"
                 - "Review the policy against the past year's unusual gifts @recurring(yearly)"
             - name: Prospect research ethics and data protection rules
@@ -589,7 +589,7 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "Write your ask in four lines: thanks, purpose, amount, pause"
-                - "Run three role plays with your manager or a colleague"
+                - "Each gift officer runs three role plays with their manager or a colleague"
                 - "Note the phrases you use to soften the figure and drop them"
                 - "Debrief your next real ask within a day"
             - name: Responding to objections and delays
@@ -658,7 +658,7 @@ starter_structure:
                 effort_hours_estimate: "8"
               tasks:
                 - "List what your gift agreements need to cover"
-                - "Ask your legal adviser to review a standard agreement"
+                - "Director of development has the legal adviser and auditor review a standard agreement"
                 - "Set up pledge payment reminders with finance"
                 - "Check every open multi-year pledge has a signed agreement"
             - name: Reading list on philanthropy and donor motivation

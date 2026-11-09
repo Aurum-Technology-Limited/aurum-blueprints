@@ -32,6 +32,9 @@ starter_structure:
                 2. For each parcel: approximate acreage, owner or lessor, type of arrangement, start and end date and rent.
                 3. The document that proves each arrangement named, or marked as missing.
                 4. Each parcel rated secure, uncertain or at risk in one word.
+
+                ## Notes
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

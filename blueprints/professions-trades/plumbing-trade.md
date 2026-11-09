@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Ask about call-outs, hours in the van and how work dries up or floods in by season. Those answers matter more than the pay figure.
+
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: medium
               deadlineOffsetDays: 30
               frontmatter:

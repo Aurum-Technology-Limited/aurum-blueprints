@@ -4,7 +4,7 @@ name: Engineering On-Call Rotation
 description: "A fair on-call rota with clear escalation, runbooks for every page, alerts worth waking up for, handovers that stick and real support for the engineers and managers carrying the pager."
 category: business
 version: 1.0.0
-tags: [software-engineering, engineering-on-call-rotation, engineer, team, manager, on-call, paging, escalation, runbooks, alerting]
+tags: [software-engineering, engineering-on-call-rotation, engineer, team, manager, on-call, paging, escalation, runbooks, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Service ownership map for paging
               description: |-
                 ## Purpose
-                Pages go to the wrong person when nobody has written down which team owns which service, queue, cron job and third-party integration. A single table that lists every production component, its owning team and the rotation that gets paged for it ends the 3 a.m. guessing game. It is also the first thing an auditor or a new manager will ask for.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Pages go to the wrong person when nobody has written down which team owns which service, queue, cron job and third-party integration. A single table that lists every production component, its owning team and the rotation that gets paged for it ends the 3 a.m. guessing game. It is also the first thing an auditor or a new manager will ask for.
 
                 ## Milestones
                 1. Every production service, scheduled job and critical integration listed in one table.

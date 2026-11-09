@@ -4,7 +4,7 @@ name: External Audit Preparation
 description: "An agreed audit timetable, an owned PBC list, lead schedules and evidence kept ready all year, auditor requests handled fast, and adjustments, representations and findings closed out on time."
 category: business
 version: 1.0.0
-tags: [finance-accounting, external-audit-preparation, enterprise, manager, nonprofit, pbc-list, audit-committee, audit-evidence]
+tags: [finance-accounting, external-audit-preparation, enterprise, manager, nonprofit, pbc-list, audit-committee, audit-evidence, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Audit timetable from year-end to signed opinion
               description: |-
                 ## Purpose
-                Auditors plan their staff months ahead, and an audit that slips past its slot can wait weeks for the team to come back. A single timetable running from year-end through interim work, fieldwork, clearance and signing, agreed with the audit partner, tells everyone in finance when their schedules are due and protects the filing deadline the law or your funders set.
+                Auditors plan their staff months ahead, and an audit that slips past its slot can wait weeks for the team to come back. A single timetable running from year-end through interim work, fieldwork, clearance and signing, agreed with the audit partner, tells everyone in finance when their schedules are due and protects the filing deadline the law or your funders set. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The financial year-end, filing deadline and board approval date written on one page.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Work backwards from the signing date, not forwards from year-end. Leave a buffer week before the board meeting for late adjustments.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -744,7 +744,7 @@ starter_structure:
                 - "Ask the audit manager whether their approach is substantive or controls based"
                 - "List processes where controls testing could replace transaction testing"
                 - "Find out the evidence each control would need to show"
-                - "Record which processes you will prepare for reliance"
+                - "Record which processes finance will prepare for reliance"
             - name: Hard close dry run before year-end
               description: |-
                 ## Purpose
@@ -1204,4 +1204,4 @@ starter_structure:
 
 This area is for the finance manager, controller or nonprofit finance lead who has to get an organisation through its annual external audit without losing a month to it, and for the board or trustees who receive the result. It starts with the foundations (a timetable, the engagement letter, last year's findings, an owned prepared-by-client list and lead schedules), then the year-round habits that keep evidence ready, the skills behind what auditors actually test, improvements that cut adjustments and fees, the dated moments from the stock count to the signed opinion, situations such as a first audit, a grant-funded nonprofit or a group with overseas components, and finally specialist work on going concern, impairment, IT controls and auditor independence.
 
-What repeats is quiet and steady: a monthly reconciliation archive, significant transaction memos and minutes filing, quarterly substantiation, estimates, contracts and legal logs, a weekly open-request review while fieldwork runs, and a yearly debrief, fee review and related party round. The Meeting notes, Remediation plan, Vendor, Operational checklist and Board meeting templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is quiet and steady: a monthly reconciliation archive, significant transaction memos and minutes filing, quarterly substantiation, estimates, contracts and legal logs, a weekly open-request review while fieldwork runs, and a yearly debrief, fee review and related party round. The Meeting notes, Remediation plan, Vendor, Operational checklist and Board meeting templates pair with the projects that name them. In a shared workspace, the finance manager or controller runs preparation, process owners supply their schedules and the audit committee or trustees receive the findings; only the external auditor forms the audit opinion. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

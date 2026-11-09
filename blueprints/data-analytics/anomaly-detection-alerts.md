@@ -4,7 +4,7 @@ name: Anomaly Detection Alerts
 description: "A short watchlist of metrics worth interrupting people for, alerts that arrive with context and an owner, seasonal baselines that cut false alarms, and a labelling and tuning rhythm that keeps alerts trusted."
 category: business
 version: 1.0.0
-tags: [data-analytics, anomaly-detection-alerts, engineer, team, metric-alerting, alert-fatigue, seasonality, on-call]
+tags: [data-analytics, anomaly-detection-alerts, engineer, team, metric-alerting, alert-fatigue, seasonality, on-call, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Metric watchlist for anomaly alerts
               description: |-
                 ## Purpose
-                Teams that switch detection on for every metric in the warehouse get hundreds of alerts in week one and ignore all of them by week three. Starting with fifteen to thirty metrics that someone would genuinely act on, such as orders per hour, sign-ups, checkout conversion, payment failures and API error rate, keeps the first alerts rare enough to be read. Each metric on the list needs a reason it matters and a person who would care at three on a Tuesday afternoon.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Teams that switch detection on for every metric in the warehouse get hundreds of alerts in week one and ignore all of them by week three. Starting with fifteen to thirty metrics that someone would genuinely act on, such as orders per hour, sign-ups, checkout conversion, payment failures and API error rate, keeps the first alerts rare enough to be read. Each metric on the list needs a reason it matters and a person who would care at three on a Tuesday afternoon.
 
                 ## Milestones
                 1. A long list of candidate metrics gathered from the main dashboards and the last year of incident reports.

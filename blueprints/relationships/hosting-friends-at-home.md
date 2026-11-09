@@ -553,7 +553,7 @@ starter_structure:
                 4. A plan for what to do if a guest reacts, including where they keep their medication.
 
                 ## Notes
-                Ask, do not assume, and when in doubt let the guest check ingredients or bring their own dish. This is a kitchen routine, not medical advice.
+                Ask, do not assume, and when in doubt let the guest check ingredients or bring their own dish. This is a kitchen routine, not medical advice. If a guest has signs of a severe reaction, such as swelling of the throat or tongue, difficulty breathing or collapse, help them use their adrenaline auto-injector if they carry one and call your local emergency number straight away.
               priority: high
               frontmatter:
                 mode: learning

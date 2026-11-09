@@ -4,7 +4,7 @@ name: Family Office Cybersecurity
 description: "Cyber protection sized for a wealthy family and its office: locked-down accounts and devices, a payment verification rule fraudsters cannot talk past, trained staff and a rehearsed incident plan."
 category: personal
 version: 1.0.0
-tags: [family-office, family-office-cybersecurity, parent, manager, payment-fraud, phishing, incident-response, device-security]
+tags: [family-office, family-office-cybersecurity, parent, manager, payment-fraud, phishing, incident-response, device-security, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Cyber risk picture for the family and office
               description: |-
                 ## Purpose
-                Wealthy families are targeted because money moves on instructions from a small number of people, often by email or phone, with few controls in between. A one-page risk picture names what attackers would want (wire transfers, account access, private photos, travel plans), who holds the keys, and which three or four weaknesses would hurt most, so every later project starts from the real exposure rather than a vendor's sales list.
+                Wealthy families are targeted because money moves on instructions from a small number of people, often by email or phone, with few controls in between. A one-page risk picture names what attackers would want (wire transfers, account access, private photos, travel plans), who holds the keys, and which three or four weaknesses would hurt most, so every later project starts from the real exposure rather than a vendor's sales list. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The assets an attacker would want listed: money movement, accounts, private information and reputation.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Start from the **Risk register** template. Keep the finished register in the office's restricted folder, not in shared email: it is a map for an attacker too.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -73,7 +75,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "List the devices you personally use for family or office business"
+                - "Ask each family member and staff member to list the devices they use for family business"
                 - "Ask each family member and staff member to list theirs"
                 - "Record the recovery email and phone for each critical account"
                 - "Flag devices nobody uses that are still signed into accounts"
@@ -96,7 +98,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "8"
               tasks:
-                - "Turn on an authenticator app for your own main email account today"
+                - "Have each principal and staff member turn on an authenticator app for their main email"
                 - "Work through the inventory and enable a second factor on each critical account"
                 - "Store backup codes in the password manager or the safe"
                 - "List the services that only offer text codes and decide how to cover them"
@@ -226,7 +228,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Call the carrier and set a port-out lock or account PIN on your own number"
+                - "Have each principal set a port-out lock or account PIN with their mobile carrier"
                 - "Do the same for each principal and the finance lead"
                 - "Swap phone-number recovery for an app or key on critical accounts"
                 - "Turn on remote locate and wipe on every principal's phone"
@@ -300,7 +302,7 @@ starter_structure:
                 success_criteria: "A monthly patch record exists for twelve consecutive months, showing every inventoried device updated or flagged for replacement."
                 cadence: rolling
               tasks:
-                - "Switch on automatic updates on every device you can reach this week"
+                - "Ask the IT provider to switch on automatic updates on every family and office device"
                 - "List devices too old to receive security updates"
                 - "Check every device's update status and record it @recurring(monthly:9)"
                 - "Replace or retire the oldest unsupported device"
@@ -495,7 +497,7 @@ starter_structure:
                 success_criteria: "All family and office email addresses are monitored, past breached passwords have been changed and a monthly check is recorded."
                 cadence: rolling
               tasks:
-                - "Check your own email address against a breach notification service"
+                - "Check each principal and staff email address against a breach notification service"
                 - "Register every family and office address for breach alerts"
                 - "Change passwords on any account exposed in a past breach"
                 - "Review new breach notices and tell affected family members @recurring(monthly:27)"
@@ -1093,7 +1095,7 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Choose the ten controls that matter most for your office"
-                - "Name a second payment approver who is not you"
+                - "Name a second payment approver who is not the person releasing the payment"
                 - "Run the one-page security checklist @recurring(monthly:18)"
                 - "Agree out-of-hours cover with an outside provider"
             - name: Digital access during separation or divorce

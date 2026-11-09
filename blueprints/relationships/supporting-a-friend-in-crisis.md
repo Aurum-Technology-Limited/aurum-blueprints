@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Silence hurts more than clumsy words. A line saying you are sorry, you are thinking of them and they need not reply is enough for a first message.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -105,7 +107,7 @@ starter_structure:
                 4. The same numbers sent to your friend in one message.
 
                 ## Notes
-                If someone is in immediate danger, call the emergency number first. Crisis lines support you and your friend; they do not replace emergency services.
+                If someone is in immediate danger, call the emergency number first. Crisis lines support you and your friend; they do not replace emergency services. Examples: Samaritans on 116 123 in the UK and Ireland, or the 988 Suicide and Crisis Lifeline (call or text 988) in the US.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -464,7 +466,7 @@ starter_structure:
                 4. The question practised aloud, alone or with someone you trust.
 
                 ## Notes
-                If your friend says yes and has a plan or the means, stay with them if it is safe and call emergency services or a crisis line together.
+                If your friend says yes and has a plan or the means, stay with them if it is safe and call emergency services or a crisis line together. Crisis lines such as Samaritans (116 123, UK and Ireland) and 988 (US) also talk to people worried about someone else.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -1033,7 +1035,7 @@ starter_structure:
                 4. Your role kept to support, with safety planning left to specialists.
 
                 ## Notes
-                Do not confront the abusive partner; it can raise the risk to your friend. In immediate danger, call emergency services.
+                Do not confront the abusive partner; it can raise the risk to your friend. In immediate danger, call emergency services. Examples: the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233. Both take calls from worried friends.
               priority: high
               frontmatter:
                 mode: service
@@ -1122,6 +1124,9 @@ starter_structure:
                 2. Your part in the plan written down if you are named.
                 3. Regular contact kept through the weeks after discharge.
                 4. Your own support in place, through a confidant or support line.
+
+                ## Notes
+                If your friend says they feel unable to keep themselves safe, call your local emergency number or a crisis line such as Samaritans (116 123, UK and Ireland) or 988 (US). The clinical team, not you, leads their care.
               priority: high
               frontmatter:
                 mode: service

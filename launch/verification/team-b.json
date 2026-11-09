@@ -1,0 +1,1656 @@
+[
+ {
+  "id": "engineering-practice.asset-integrity-and-inspection",
+  "status": "fixed",
+  "reason": "Inspection programme workflow for an integrity team; safety-critical numbers (retirement thickness, FFS acceptance, tank and relief intervals) now set and signed by authorised inspectors or qualified engineers under the code, practice calculations labelled as learning only",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Minimum thickness project: practice figures labelled learning only; controlled retirement thicknesses set and signed by the authorised inspector or responsible engineer",
+   "Fitness-for-service project reframed as supervised practice; any relied-on assessment checked, signed and owned by a qualified FFS engineer; national pressure equipment rules still apply",
+   "Tank inspection: next internal interval set by the authorised inspector under API 653, not calculated by the user",
+   "Relief device intervals set by the inspection engineer",
+   "Handover task now transfers items to the incoming engineer (role, not 'your name')"
+  ],
+  "sources": [
+   "https://www.api.org/products-and-services/standards/important-standards-announcements/standard653",
+   "https://www.hse.gov.uk/pubns/books/l122.htm"
+  ]
+ },
+ {
+  "id": "engineering-practice.commissioning-and-start-up",
+  "status": "fixed",
+  "reason": "Commissioning management workflow; hazardous tests (pressure and leak tests, energisation) already routed to authorised persons; leak test plan now approved by the commissioning lead and pressure systems competent person",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Leak test plan milestone and task now require approval by the commissioning lead and the pressure systems competent person",
+   "Pressure test witnessed with the authorised inspector"
+  ],
+  "sources": []
+ },
+ {
+  "id": "engineering-practice.engineering-design-reviews",
+  "status": "fixed",
+  "reason": "Design review procedure workflow for a project team; roles (chair, reviewers, discipline leads) already named; no regulated how-to or safety calculations; ISO 11064 reference correct and routed to a specialist",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": [
+   "https://www.iso.org/standard/53831.html"
+  ]
+ },
+ {
+  "id": "engineering-practice.engineering-drawing-and-document-control",
+  "status": "fixed",
+  "reason": "Document control procedure for a project team; ISO 9001, ISO 10007 and ISO 19650 references accurate and generic; export control classification routed to compliance or legal",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": [
+   "https://www.iso.org/standard/68465.html",
+   "https://www.iso.org/standard/70970.html"
+  ]
+ },
+ {
+  "id": "engineering-practice.engineering-tender-bids",
+  "status": "fixed",
+  "reason": "Bid management workflow for an engineering firm; contract interpretation and teaming agreements already routed to lawyers or contracts specialists; procurement law flagged as country-specific; no promised outcomes",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "engineering-practice.feed-studies",
+  "status": "fixed",
+  "reason": "FEED management workflow for owner and contractor teams; design calculations are routine engineering work with second-engineer checks and lead sign-off; codes referenced as families, not prescribed values",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "engineering-practice.hazop-studies",
+  "status": "fixed",
+  "reason": "HAZOP workflow for a study team (leader, scribe, disciplines); IEC 61882 and CCPS references accurate; relief sizing and SIL setting explicitly left to the relief engineer and IEC 61511 lifecycle team",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": [
+   "https://webstore.iec.ch/en/publication/24321"
+  ]
+ },
+ {
+  "id": "engineering-practice.local-content-in-energy-contracting",
+  "status": "fixed",
+  "reason": "Local content compliance workflow for a supplier firm; Guyana claims (Local Content Act 2021, Secretariat register, half-yearly reporting by contractors and sub-contractors) verified; Trinidad and Tobago described as ministry policy plus contract clauses; legal and tax questions routed to professionals",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": [
+   "https://parliament.gov.gy/new2/documents/notices/23869-notice_paper_no._212_-_local_content_registers.pdf",
+   "https://oilnow.gy/news/over-1300-guyanese-firms-are-now-registered-under-the-countrys-local-content-act/"
+  ]
+ },
+ {
+  "id": "engineering-practice.maintenance-planning-and-scheduling",
+  "status": "fixed",
+  "reason": "Maintenance planning workflow for planners, schedulers and supervisors; numbers are illustrative KPIs (e.g. PM compliance grace window), no safety-critical intervals prescribed",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "engineering-practice.management-of-change",
+  "status": "fixed",
+  "reason": "MOC procedure workflow for a site team; regulatory references now name their jurisdiction (US OSHA PSM, EU Seveso, UK COMAH)",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "OSHA PSM, Seveso and COMAH references now say US, EU and UK respectively"
+  ],
+  "sources": [
+   "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.119",
+   "https://www.hse.gov.uk/comah/"
+  ]
+ },
+ {
+  "id": "engineering-practice.natural-gas-curtailment-planning",
+  "status": "fixed",
+  "reason": "Gas curtailment business-continuity plan for a plant team; scenario percentages are illustrative; low-rate operating limits now confirmed by OEMs and signed off by plant engineering",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Low-rate machine study: final minimum safe rates confirmed by equipment makers and plant engineering; added task for that sign-off"
+  ],
+  "sources": []
+ },
+ {
+  "id": "engineering-practice.plant-turnarounds-and-shutdowns",
+  "status": "fixed",
+  "reason": "Turnaround management workflow for a site team; isolations, permits and statutory inspection intervals already deferred to the site permit system, integrity team and jurisdiction's pressure equipment rules",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "engineering-practice.process-safety-management",
+  "status": "fixed",
+  "reason": "PSM programme workflow for a site team; 14 OSHA elements and 20 CCPS RBPS elements correct; incident investigation timing corrected to the US OSHA rule wording (as promptly as possible, no later than 48 hours) and marked country-specific",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Incident investigation: 'typically within 48 hours' replaced with the US OSHA 1910.119(m) requirement and a prompt to check the local rule"
+  ],
+  "sources": [
+   "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.119",
+   "https://www.aiche.org/ccps/resources/overview/process-safety-pillars"
+  ]
+ },
+ {
+  "id": "family-office.caribbean-family-business-groups",
+  "status": "fixed",
+  "reason": "Family governance or office operations plan; claims are generic, sign-offs sit with the council, board, counsel or advisers, no regulated how-to or promised returns; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-bank-and-member-loans",
+  "status": "fixed",
+  "reason": "Lending, tax and licensing questions already routed to the family's lawyer and tax adviser per country; added a grounded US example; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added US example: IRS publishes Applicable Federal Rates monthly and below-AFR family loans can be part gift under IRC section 7872",
+   "Reworded loan inventory task so each branch contributes (team roles)",
+   "Task now names the family office adviser rather than 'your' adviser"
+  ],
+  "sources": [
+   "https://www.law.cornell.edu/uscode/text/26/7872",
+   "https://www.irs.gov/applicable-federal-rates"
+  ]
+ },
+ {
+  "id": "family-office.family-conflict-resolution",
+  "status": "fixed",
+  "reason": "Governance plan with mediation and specialist routes; added safety and crisis signposting; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added note that mediation is unsuitable where there is abuse, threats or coercive control, with advice and emergency-number signposting",
+   "Added crisis signposting (local emergency number, 988 US, Samaritans 116 123 UK and Ireland) to the member-in-crisis project"
+  ],
+  "sources": [
+   "https://988lifeline.org/",
+   "https://www.samaritans.org/how-we-can-help/contact-samaritan/"
+  ]
+ },
+ {
+  "id": "family-office.family-constitution-drafting",
+  "status": "fixed",
+  "reason": "Family governance or office operations plan; claims are generic, sign-offs sit with the council, board, counsel or advisers, no regulated how-to or promised returns; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-council-and-assembly",
+  "status": "fixed",
+  "reason": "Family governance or office operations plan; claims are generic, sign-offs sit with the council, board, counsel or advisers, no regulated how-to or promised returns; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-crisis-and-reputation-plan",
+  "status": "fixed",
+  "reason": "Crisis plan already routes legal steps to a crisis lawyer and the mental-health project already says call emergency services first; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Reworded scenario inventory task so the crisis team contributes (team roles)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-employment-policy",
+  "status": "fixed",
+  "reason": "Employment terms reviewed by an employment lawyer in each country of operation; no unsafe claims; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-enterprise-ownership-rules",
+  "status": "fixed",
+  "reason": "Share transfer and valuation rules framed as examples and routed to the family's lawyer and valuer; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-governance-framework",
+  "status": "fixed",
+  "reason": "Family governance or office operations plan; claims are generic, sign-offs sit with the council, board, counsel or advisers, no regulated how-to or promised returns; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-holding-company",
+  "status": "fixed",
+  "reason": "Tax, dividend and intercompany loan points are generic and routed to the tax adviser and accountant per jurisdiction; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Reworded entity map task to the family rather than one person"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-investment-committee",
+  "status": "fixed",
+  "reason": "Family governance or office operations plan; claims are generic, sign-offs sit with the council, board, counsel or advisers, no regulated how-to or promised returns; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-leadership-succession",
+  "status": "fixed",
+  "reason": "Family governance or office operations plan; claims are generic, sign-offs sit with the council, board, counsel or advisers, no regulated how-to or promised returns; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-office-budget-and-costs",
+  "status": "fixed",
+  "reason": "Family governance or office operations plan; claims are generic, sign-offs sit with the council, board, counsel or advisers, no regulated how-to or promised returns; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-office-cybersecurity",
+  "status": "fixed",
+  "reason": "Practical security hygiene, no regulated how-to; personal-device tasks reworded to apply to each principal and staff member; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Reworded six tasks so device, MFA, SIM-lock, update and breach checks apply to each principal and staff member, with the IT provider owning updates",
+   "Second payment approver task now names a role rather than 'not you'"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-office-staffing",
+  "status": "fixed",
+  "reason": "Family governance or office operations plan; claims are generic, sign-offs sit with the council, board, counsel or advisers, no regulated how-to or promised returns; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-office-systems",
+  "status": "fixed",
+  "reason": "Systems inventory and selection plan; no regulated claims; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Reworded login inventory task to each family and staff member"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.family-prenuptial-policy",
+  "status": "fixed",
+  "reason": "Marital agreement policy already requires independent lawyers for both partners, full disclosure, early signing and notes that enforceability varies by country; no drafting how-to; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.next-generation-education-programme",
+  "status": "fixed",
+  "reason": "Education programme explicitly never recommends investments and uses educators with no products to sell; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.private-foundation-set-up",
+  "status": "fixed",
+  "reason": "Foundation set-up routes registration, self-dealing and filings to lawyer and accountant; payout rule now grounded with the US example; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added grounded US example: private non-operating foundations must generally pay out about 5 percent of investment assets yearly under IRC section 4942"
+  ],
+  "sources": [
+   "https://www.law.cornell.edu/uscode/text/26/4942",
+   "https://www.irs.gov/charities-non-profits/private-foundations"
+  ]
+ },
+ {
+  "id": "family-office.private-trust-company",
+  "status": "fixed",
+  "reason": "PTC regimes (Bahamas, BVI, Cayman, Jersey, Guernsey, Bermuda) described accurately and the licensing route is confirmed by a trust lawyer and licensed administrator; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Reworded trust inventory task to the family"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.rising-generation-leadership-roles",
+  "status": "fixed",
+  "reason": "Family governance or office operations plan; claims are generic, sign-offs sit with the council, board, counsel or advisers, no regulated how-to or promised returns; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "family-office.single-family-office-set-up",
+  "status": "fixed",
+  "reason": "Regulatory treatment routed to counsel; added the US SEC family office rule as a grounded example; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added grounded example of SEC Rule 202(a)(11)(G)-1 conditions (family clients only, family owned and controlled, no holding out)",
+   "Reworded two purpose tasks so each founding family member contributes"
+  ],
+  "sources": [
+   "https://www.sec.gov/files/rules/final/2011/ia-3220-secg.htm",
+   "https://www.ecfr.gov/current/title-17/chapter-II/part-275/section-275.202(a)(11)(G)-1"
+  ]
+ },
+ {
+  "id": "family-office.welcoming-spouses-into-the-family",
+  "status": "fixed",
+  "reason": "Family culture plan; spouses pointed to their own lawyer or counsellor; no regulated claims; published as a team plan",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Reworded unspoken-rules task to council members"
+  ],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.accounts-payable-operations",
+  "status": "fixed",
+  "reason": "Generic AP operations; VAT and withholding tax already routed to official guidance and adviser; no jurisdiction-specific rates",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off",
+   "Withholding tax task now has a qualified tax adviser confirm the list and treatment"
+  ],
+  "sources": [
+   "https://www.gov.uk/reclaim-vat",
+   "https://www.irs.gov/individuals/international-taxpayers/nra-withholding"
+  ]
+ },
+ {
+  "id": "finance-accounting.annual-operating-budget-build",
+  "status": "fixed",
+  "reason": "Budget process plan; percentages are illustrative examples, no regulated claims",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off",
+   "Kick-off agenda task assigned to the finance lead"
+  ],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.budget-versus-actual-variance",
+  "status": "fixed",
+  "reason": "Management reporting plan; no regulated or jurisdiction-specific claims",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off"
+  ],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.business-cost-reduction-programme",
+  "status": "fixed",
+  "reason": "Cost programme plan; contract and employment steps already routed to a lawyer",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off",
+   "Lawyer tasks reworded to the company's lawyer and team terms"
+  ],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.capital-expenditure-planning",
+  "status": "fixed",
+  "reason": "Capex appraisal plan; contingency and tolerance figures framed as examples; tax relief routed to tax adviser",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off",
+   "Summary task reworded for the capital panel"
+  ],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.cost-centre-overhead-allocation",
+  "status": "fixed",
+  "reason": "Management accounting plan; no regulated claims",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off"
+  ],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.customer-credit-risk-assessment",
+  "status": "fixed",
+  "reason": "IFRS 9 expected-loss reference accurate; guarantees, insolvency and consumer credit checks already routed to lawyer and regulator guidance",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off",
+   "Application form and conclusions tasks assigned to credit controller and finance lead"
+  ],
+  "sources": [
+   "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-9-financial-instruments/"
+  ]
+ },
+ {
+  "id": "finance-accounting.delegation-of-financial-authority",
+  "status": "fixed",
+  "reason": "Authority matrix plan; legal effect, powers of attorney and listing rules routed to lawyer and advisers",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off"
+  ],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.employee-expense-management",
+  "status": "fixed",
+  "reason": "Expense policy plan; VAT and benefits tax routed to adviser and tax authority rules; card FX fee range indicative",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off"
+  ],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.external-audit-preparation",
+  "status": "fixed",
+  "reason": "Audit readiness plan; clearly separates preparation from the auditor's opinion",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off",
+   "Reliance task reworded to finance; body states only the external auditor forms the opinion"
+  ],
+  "sources": [
+   "https://pcaobus.org/oversight/standards/auditing-standards"
+  ]
+ },
+ {
+  "id": "finance-accounting.fixed-asset-register-depreciation",
+  "status": "fixed",
+  "reason": "Standards named correctly (IAS 16, FRS 102 section 17, ASC 360); tax treatment routed to accountant",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off"
+  ],
+  "sources": [
+   "https://www.ifrs.org/issued-standards/list-of-standards/ias-16-property-plant-and-equipment/",
+   "https://www.frc.org.uk/library/standards-codes-policy/accounting-and-reporting/uk-accounting-standards/frs-102/"
+  ]
+ },
+ {
+  "id": "finance-accounting.foreign-exchange-treasury",
+  "status": "fixed",
+  "reason": "Treasury plan; sensitivity percentages illustrative; products and hedge accounting routed to bank and accountant; no product recommendations",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off",
+   "Body states hedging products are chosen with bank and adviser and nothing recommends a product"
+  ],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.headcount-cost-planning",
+  "status": "fixed",
+  "reason": "Headcount model plan; employer rates sourced from payroll provider per country",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off"
+  ],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.internal-financial-controls",
+  "status": "fixed",
+  "reason": "Controls plan; frameworks and sample sizes taken from auditors; no specific SOX claims",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off",
+   "Reperformance task assigned to the new controller"
+  ],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.inventory-costing-valuation",
+  "status": "fixed",
+  "reason": "IAS 2 / ASC 330 references and NRV reversal difference (IFRS reverses, US GAAP new cost basis) verified",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off"
+  ],
+  "sources": [
+   "https://www.ifrs.org/issued-standards/list-of-standards/ias-2-inventories/",
+   "https://viewpoint.pwc.com/dt/us/en/fasb_financial_accou/asus_fulltext/2015/asu_201511inventory_/asu_201511inventory__US/asu_201511inventory__US.html"
+  ]
+ },
+ {
+  "id": "finance-accounting.lease-accounting-ifrs-16",
+  "status": "fixed",
+  "reason": "IFRS 16 claims verified: short-term exemption by class and excluded if purchase option; low-value lease by lease, not for subleased or dependent assets; ASC 842 straight-line operating lease cost",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off"
+  ],
+  "sources": [
+   "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-16-leases/"
+  ]
+ },
+ {
+  "id": "finance-accounting.month-end-close-process",
+  "status": "fixed",
+  "reason": "Close process plan; no regulated claims",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off",
+   "Checklist task reworded so it does not assume one person closed the month"
+  ],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.multi-entity-consolidation",
+  "status": "fixed",
+  "reason": "IFRS 10 / ASC 810 control and NCI-in-equity claims accurate; goodwill sentence made framework-accurate",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off",
+   "Goodwill note now says UK FRS 102 amortises goodwill and US private companies may elect to (ASU 2014-02), instead of implying impairment-only everywhere"
+  ],
+  "sources": [
+   "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-10-consolidated-financial-statements/",
+   "https://www.frc.org.uk/library/standards-codes-policy/accounting-and-reporting/uk-accounting-standards/frs-102/",
+   "https://www.pyapc.com/?p=1164"
+  ]
+ },
+ {
+  "id": "finance-accounting.nonprofit-fund-accounting",
+  "status": "fixed",
+  "reason": "Fund accounting plan; Charities SORP, US GAAP nonprofit standards and Form 990 named as examples; judgements routed to accountant/auditor and regulator guidance",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off"
+  ],
+  "sources": [
+   "https://www.charitysorp.org/",
+   "https://www.irs.gov/forms-pubs/about-form-990",
+   "https://www.fasb.org/page/PageContent?pageId=/standards/nfp.html"
+  ]
+ },
+ {
+  "id": "finance-accounting.payroll-run-processing",
+  "status": "fixed",
+  "reason": "Employer payroll operations, normal in-house duty; all rates and filings deferred to the tax authority 'where you operate'; P60 (UK) and W-2 (US) correct",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off",
+   "Tasks reworded so the payroll lead, deputy and owner roles are named rather than 'you'",
+   "Body names preparer, second-person release and qualified accountant or payroll adviser for rates, filings and tax treatment"
+  ],
+  "sources": [
+   "https://www.gov.uk/paye-for-employers/end-of-year",
+   "https://www.irs.gov/forms-pubs/about-form-w-2"
+  ]
+ },
+ {
+  "id": "finance-accounting.revenue-recognition-policy",
+  "status": "fixed",
+  "reason": "IFRS 15 / ASC 606 references and listed differences (licences, shipping and handling, collectability, expedients) accurate; judgements routed to auditor",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off"
+  ],
+  "sources": [
+   "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/"
+  ]
+ },
+ {
+  "id": "finance-accounting.rolling-financial-forecasts",
+  "status": "fixed",
+  "reason": "FP&A plan; no regulated claims",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off"
+  ],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.subscription-revenue-accounting",
+  "status": "fixed",
+  "reason": "SaaS revenue plan; judgement items routed to accountant/auditor",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off"
+  ],
+  "sources": []
+ },
+ {
+  "id": "finance-accounting.transfer-pricing-documentation",
+  "status": "fixed",
+  "reason": "Process plan for a group tax team with advisers; OECD TPG and Chapter X financial transactions references accurate; thresholds and deadlines deferred to adviser-built country matrix",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off",
+   "Added a qualified transfer pricing adviser review task to the annual local file project",
+   "Added group tax lead and tax adviser sign-off before filing the country-by-country report",
+   "Body states every pricing position and filing is reviewed or signed off by qualified tax advisers"
+  ],
+  "sources": [
+   "https://www.oecd.org/en/publications/oecd-transfer-pricing-guidelines-for-multinational-enterprises-and-tax-administrations-2022_0e655865-en.html",
+   "https://taxnews.ey.com/news/2022-0126-oecd-publishes-2022-transfer-pricing-guidelines"
+  ]
+ },
+ {
+  "id": "finance-accounting.working-capital-optimisation",
+  "status": "fixed",
+  "reason": "Working capital plan; trade finance and accounting questions routed to accountant and auditor; no promised outcomes",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added a team sentence to the area page naming who owns the work and who signs off"
+  ],
+  "sources": []
+ },
+ {
+  "id": "fundraising-investors.charitable-foundation-grants",
+  "status": "fixed",
+  "reason": "Grant-seeking plan for charities; restricted funds, award letters and commission-free bid writer fees match sector codes; percentages are labelled examples",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Fund code task now owned by the finance manager and names restricted funds"
+  ],
+  "sources": [
+   "https://www.fundraisingregulator.org.uk/code",
+   "https://www.gov.uk/government/publications/charities-sorp-frs-102"
+  ]
+ },
+ {
+  "id": "fundraising-investors.donor-stewardship-reporting",
+  "status": "fixed",
+  "reason": "Stewardship plan; data protection and receipting framed per country and checked by the accountant; never advises donors on wills or tax",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Receipting milestone now names HMRC Gift Aid declarations and the IRS written acknowledgment rule for single gifts of $250 or more",
+   "Receipt template task now confirmed by the accountant, owned by the finance manager"
+  ],
+  "sources": [
+   "https://www.irs.gov/publications/p1771",
+   "https://www.gov.uk/claim-gift-aid"
+  ]
+ },
+ {
+  "id": "fundraising-investors.fundraising-gala-events",
+  "status": "fixed",
+  "reason": "Event fundraising plan; licences, lotteries and gaming routed to the licensing authority or gambling regulator, ticket tax wording to the accountant; card data kept in secure payment flows",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Ticket pricing note now gives country examples: IRS quid pro quo disclosure for payments over $75 (US) and no Gift Aid on event tickets (UK)",
+   "Raffle and gaming tasks name the event lead and a named licence holder and mention the gambling regulator"
+  ],
+  "sources": [
+   "https://www.irs.gov/publications/p1771",
+   "https://www.gov.uk/claim-gift-aid/what-you-can-claim-it-on",
+   "https://www.gamblingcommission.gov.uk/public-and-players/guide/page/lotteries-and-the-law"
+  ]
+ },
+ {
+  "id": "fundraising-investors.investor-relations-website",
+  "status": "fixed",
+  "reason": "Listed company web disclosure plan already built around roles (head of IR, company secretary, web owner, counsel); disclosure rules framed per market and checked with the company secretary or counsel; pre-listing publicity routed to securities counsel",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": [
+   "https://www.sec.gov/rules/interp/2008/34-58288.pdf",
+   "https://www.fca.org.uk/markets/ukla/regulatory-disclosures"
+  ]
+ },
+ {
+  "id": "fundraising-investors.ipo-readiness-programme",
+  "status": "fixed",
+  "reason": "Company-wide readiness programme; prospectus, publicity, governance code, reorganisation tax and founder advice all routed to counsel, auditors and separate advisers; no valuation promises",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Analyst presentation task now drafted by the CFO and IR lead for counsel to clear",
+   "Founder goals task reworded so the founder owns it within the team plan"
+  ],
+  "sources": [
+   "https://www.sec.gov/resources-small-businesses/going-public",
+   "https://www.fca.org.uk/markets/primary-markets"
+  ]
+ },
+ {
+  "id": "fundraising-investors.major-donor-fundraising",
+  "status": "fixed",
+  "reason": "Major gifts programme; prospect screening tied to the privacy notice, gift acceptance and gift agreements reviewed by legal adviser and auditor; sector figures are labelled examples",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Gift acceptance policy now goes to trustees for approval after legal and finance review",
+   "Gift agreement review names the director of development, legal adviser and auditor; role plays assigned to each gift officer"
+  ],
+  "sources": [
+   "https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/",
+   "https://www.fundraisingregulator.org.uk/code"
+  ]
+ },
+ {
+  "id": "fundraising-investors.nonprofit-capital-campaign",
+  "status": "fixed",
+  "reason": "Capital campaign plan; gift chart and budget ranges presented as common patterns, not targets; naming policy and legacies routed to a lawyer and sector guidance; percentage fees discouraged per sector codes",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Named the campaign director on the legacies guidance task"
+  ],
+  "sources": [
+   "https://afpglobal.org/ethicsmain/code-ethical-standards",
+   "https://www.fundraisingregulator.org.uk/code"
+  ]
+ },
+ {
+  "id": "fundraising-investors.public-company-investor-relations",
+  "status": "fixed",
+  "reason": "Listed company IR programme built around CEO, CFO, company secretary and board roles; Regulation FD, EU/UK MAR insider lists and UK Takeover Code references are accurate and routed to counsel and the company secretary",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": [
+   "https://www.sec.gov/rules-regulations/2000/08/selective-disclosure-insider-trading",
+   "https://www.fca.org.uk/markets/market-abuse/regulation",
+   "https://www.thetakeoverpanel.org.uk/the-code"
+  ]
+ },
+ {
+  "id": "fundraising-investors.quarterly-earnings-communications",
+  "status": "fixed",
+  "reason": "Results process plan; Regulation G, ESMA APM guidelines, Regulation FD and MAR named correctly with legal and auditors owning interpretation; prompt disclosure of off-guidance results routed to an approval chain",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": [
+   "https://www.sec.gov/rules-regulations/staff-guidance/compliance-disclosure-interpretations/non-gaap-financial-measures",
+   "https://www.esma.europa.eu/sites/default/files/library/2015/10/2015-esma-1415en.pdf"
+  ]
+ },
+ {
+  "id": "fundraising-investors.sell-side-analyst-relations",
+  "status": "fixed",
+  "reason": "Analyst relations plan; draft note review limited to public factual errors, policy grounded in Regulation FD and UK/EU market abuse rules with counsel deciding; no stock views",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": [
+   "https://www.sec.gov/rules-regulations/2000/08/selective-disclosure-insider-trading",
+   "https://www.fca.org.uk/markets/market-abuse/regulation"
+  ]
+ },
+ {
+  "id": "fundraising-investors.shareholder-agm-preparation",
+  "status": "fixed",
+  "reason": "Company secretarial plan; UK 15-day special resolution filing, Delaware 10 to 60 day record date and UK Code 20 percent dissent threshold verified; thresholds labelled as examples and confirmed with counsel",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Company secretarial duties task now names the finance manager"
+  ],
+  "sources": [
+   "https://www.legislation.gov.uk/ukpga/2006/46/section/30",
+   "https://delcode.delaware.gov/title8/c001/sc07/",
+   "https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/uk-corporate-governance-code/"
+  ]
+ },
+ {
+  "id": "investment-banking.activism-and-takeover-defence",
+  "status": "fixed",
+  "reason": "Defence adviser workflow; disclosure, rights plan and wall-crossing questions routed to counsel and compliance; no country rule stated as universal",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Closing area text now says the shared workspace holds the team's method only, never client data or inside information"
+  ],
+  "sources": [
+   "https://www.thetakeoverpanel.org.uk/the-code",
+   "https://www.fca.org.uk/markets/market-abuse"
+  ]
+ },
+ {
+  "id": "investment-banking.alternative-listing-routes",
+  "status": "hold",
+  "reason": "Securities offering: de-SPAC, direct listing, PIPE and reverse takeover execution routes to public markets; held under the securities-offering rule. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main.",
+  "changes": [
+   "Reverted all edits (file left as on main). Edits a reviewer had drafted: Added team-plan tag and team-plan sentence to project 1; Renamed 'Personal precedent file' to a shared team precedent file and assigned set-up to the associate; Closing area text now says the shared workspace holds the team's method only, never client data or inside information; Closing area text adds that offering work is done only inside an authorised firm with counsel and compliance sign-off"
+  ],
+  "sources": [
+   "https://www.sec.gov/newsroom/press-releases/2024-8",
+   "https://www.sec.gov/resources-small-businesses/exempt-offerings"
+  ]
+ },
+ {
+  "id": "investment-banking.bid-rounds-and-process-letters",
+  "status": "fixed",
+  "reason": "Process letter craft plan; no regulated claims beyond counsel review of letters",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Renamed 'Your first bid round as an analyst' to 'A new analyst's first bid round' (team onboarding)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.buy-side-m-and-a-mandates",
+  "status": "fixed",
+  "reason": "Buy-side mandate workflow; regulatory and legal questions routed to counsel",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.buyer-investor-universe-mapping",
+  "status": "fixed",
+  "reason": "Buyer list craft plan using public data; conflicts and confidentiality routed to compliance",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Renamed 'Your first buyer screen as an analyst' to 'A new analyst's first buyer screen' (team onboarding)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.caribbean-corporate-finance-deals",
+  "status": "fixed",
+  "reason": "Regional exchanges, CARICOM Competition Commission role and exchange control checks are accurate and explicitly confirmed with local counsel and tax advisers per country",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": [
+   "https://caricomcompetitioncommission.com/",
+   "https://www.jamstockex.com/",
+   "https://www.stockex.co.tt/"
+  ]
+ },
+ {
+  "id": "investment-banking.carve-outs-and-divestitures",
+  "status": "fixed",
+  "reason": "Carve-out execution plan; TSA and legal terms left to counsel",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Closing area text now says the shared workspace holds the team's method only, never client data or inside information"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.coordinating-deal-advisers",
+  "status": "fixed",
+  "reason": "Adviser coordination plan; already role-based (client, counsel, adviser leads)",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.credit-ratings-advisory",
+  "status": "fixed",
+  "reason": "Agency adjustment and inside-information handling described accurately and routed to compliance",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Closing area text now says the shared workspace holds the team's method only, never client data or inside information"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.cross-border-m-and-a-execution",
+  "status": "fixed",
+  "reason": "Accounting (IFRS/US GAAP), takeover code and foreign investment review references accurate and given as examples to confirm with local counsel",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": [
+   "https://www.thetakeoverpanel.org.uk/the-code",
+   "https://home.treasury.gov/policy-issues/international/the-committee-on-foreign-investment-in-the-united-states-cfius",
+   "https://www.gov.uk/government/collections/national-security-and-investment-act"
+  ]
+ },
+ {
+  "id": "investment-banking.dcm-bond-issuance",
+  "status": "hold",
+  "reason": "Securities offering: bond issuance execution from mandate to pricing, allocation and settlement; held under the securities-offering rule. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main.",
+  "changes": [
+   "Reverted all edits (file left as on main). Edits a reviewer had drafted: Added team-plan tag and team-plan sentence to project 1; Closing area text adds that offering work is done only inside an authorised firm with counsel and compliance sign-off"
+  ],
+  "sources": [
+   "https://www.sec.gov/resources-small-businesses/exempt-offerings"
+  ]
+ },
+ {
+  "id": "investment-banking.debt-advisory-for-mid-market",
+  "status": "fixed",
+  "reason": "Covenant headroom figures are framed as market practice; personal guarantees and tax routed to the family's own lawyers and tax advisers",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Closing area text now says the shared workspace holds the team's method only, never client data or inside information"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.equity-story-development",
+  "status": "fixed",
+  "reason": "Equity story craft; publicity and inside information rules routed to compliance",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Renamed 'Your first equity story as an analyst' to 'A new analyst's first equity story' (team onboarding)"
+  ],
+  "sources": [
+   "https://www.fca.org.uk/markets/market-abuse"
+  ]
+ },
+ {
+  "id": "investment-banking.fairness-opinions",
+  "status": "fixed",
+  "reason": "Scope and committee content accurate; added the US FINRA Rule 5150 disclosure rule with a compliance sign-off task",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Added FINRA Rule 5150 (US) disclosure note to the conflict checklist project and a compliance sign-off task",
+   "Named the associate as drafter of the relationship disclosure",
+   "Closing area text now says the shared workspace holds the team's method only, never client data or inside information"
+  ],
+  "sources": [
+   "https://www.finra.org/rules-guidance/rulebooks/finra-rules/5150",
+   "https://www.thetakeoverpanel.org.uk/the-code",
+   "https://www.osc.ca/en/securities-law/instruments-rules-policies/6/61-101"
+  ]
+ },
+ {
+  "id": "investment-banking.follow-ons-and-block-trades",
+  "status": "hold",
+  "reason": "Securities offering: follow-on and overnight block execution incl. wall-crossing, sounding scripts and stabilisation; held under the securities-offering rule. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main.",
+  "changes": [
+   "Reverted all edits (file left as on main). Edits a reviewer had drafted: Added team-plan tag and team-plan sentence to project 1; Renamed 'Your first overnight bookbuild as an analyst' to 'A new analyst's first overnight bookbuild' (team onboarding); Closing area text now says the shared workspace holds the team's method only, never client data or inside information; Closing area text adds that offering work is done only inside an authorised firm with counsel and compliance sign-off"
+  ],
+  "sources": [
+   "https://www.fca.org.uk/markets/market-abuse"
+  ]
+ },
+ {
+  "id": "investment-banking.independent-valuation-engagements",
+  "status": "fixed",
+  "reason": "IFRS 13/ASC 820, IAS 36/ASC 350, IFRS 3/ASC 805, IFRS 2/ASC 718, Section 409A, IVS/USPAP/SSVS references verified as correct and country-named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": [
+   "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-13-fair-value-measurement/",
+   "https://www.irs.gov/pub/irs-drop/n-05-1.pdf",
+   "https://www.ivsc.org/standards/"
+  ]
+ },
+ {
+  "id": "investment-banking.industry-coverage-group-work",
+  "status": "fixed",
+  "reason": "Coverage group routines; no regulated how-to",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.information-memorandum-drafting",
+  "status": "fixed",
+  "reason": "IM drafting craft; verification and legal review routed to counsel",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Renamed 'Your first IM as an analyst' to 'A new analyst's first IM' (team onboarding)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.ipo-execution-ecm",
+  "status": "hold",
+  "reason": "Securities offering: the plan is an IPO execution playbook (pricing, bookbuilding, allocation, stabilisation); held under the team-plan rule to hold anything that remains a securities offering. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main.",
+  "changes": [
+   "Reverted all edits (file left as on main). Edits a reviewer had drafted: Added team-plan tag and team-plan sentence to project 1; Renamed 'Personal ECM precedent and template library' to a team library; Closing area text now says the shared workspace holds the team's method only, never client data or inside information; Closing area text adds that offering work is done only inside an authorised firm with counsel and compliance sign-off"
+  ],
+  "sources": [
+   "https://www.sec.gov/resources-small-businesses/exempt-offerings",
+   "https://www.finra.org/rules-guidance/rulebooks/finra-rules/2241",
+   "https://www.fca.org.uk/markets/market-abuse"
+  ]
+ },
+ {
+  "id": "investment-banking.league-tables-and-credentials",
+  "status": "fixed",
+  "reason": "Credentials and league table work; compliance owns claims",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Converted the personal deal list projects into a team deal list with each banker's role and a compliance policy check"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.leveraged-finance-deals",
+  "status": "fixed",
+  "reason": "Levfin market practice described as practice, not rules; no return promises",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Replaced the personal 'technical interview preparation' project with a team 'Technical interview bank for levfin hiring' reviewed with HR",
+   "Closing area text now says the shared workspace holds the team's method only, never client data or inside information"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.liability-management-exercises",
+  "status": "hold",
+  "reason": "Securities offering: tender, exchange offers and consent solicitations (exchange offers are offerings of new securities); held under the securities-offering rule. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main.",
+  "changes": [
+   "Reverted all edits (file left as on main). Edits a reviewer had drafted: Added team-plan tag and team-plan sentence to project 1; Closing area text adds that offer documents and holder contacts are signed off by counsel and compliance"
+  ],
+  "sources": [
+   "https://www.ecfr.gov/current/title-17/section-240.14e-1"
+  ]
+ },
+ {
+  "id": "investment-banking.management-presentations",
+  "status": "fixed",
+  "reason": "Management presentation logistics; competitor-sensitive information handled with counsel",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.privatisation-public-sector-advisory",
+  "status": "fixed",
+  "reason": "Public sector advisory; procurement, guarantees and scrutiny routed to counsel and the client's officials",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.project-finance-advisory",
+  "status": "fixed",
+  "reason": "Gearing and ratio figures framed as typical; tax inputs cite the tax adviser",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Renamed 'Personal project finance model template' to a team template with associate/VP testing",
+   "Closing area text now says the shared workspace holds the team's method only, never client data or inside information"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.restructuring-advisory",
+  "status": "fixed",
+  "reason": "13-week cash flow and court tools (Chapter 11, UK Part 26A plan) described accurately as examples; legal questions to counsel",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Closing area text adds that formal insolvency appointments are taken only by a licensed insolvency practitioner and duties advice comes from counsel",
+   "Closing area text now says the shared workspace holds the team's method only, never client data or inside information"
+  ],
+  "sources": [
+   "https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-11-bankruptcy-basics",
+   "https://www.legislation.gov.uk/ukpga/2006/46/part/26A"
+  ]
+ },
+ {
+  "id": "investment-banking.sell-side-data-room-and-qa",
+  "status": "fixed",
+  "reason": "Data room work; personal data in the room governed by counsel's rules",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Renamed 'Your first data room as an analyst' to 'A new analyst's first data room' (team onboarding)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.sell-side-m-and-a-process",
+  "status": "fixed",
+  "reason": "Sell-side process plan; insider list and confidentiality protocol already present",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Renamed 'Personal sell-side playbook' to a team playbook owned by the associate",
+   "Closing area text now says the shared workspace holds the team's method only, never client data or inside information"
+  ],
+  "sources": []
+ },
+ {
+  "id": "investment-banking.signing-to-closing-workstreams",
+  "status": "fixed",
+  "reason": "Closing workstreams plan; conditions and scheme mechanics run by counsel",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1"
+  ],
+  "sources": []
+ },
+ {
+  "id": "practice-ownership.admitting-new-partners",
+  "status": "fixed",
+  "reason": "Partner admission process for a professional firm; ownership limits, liability, guarantees, covenants, tax and the partnership agreement all routed to the practice lawyer, accountant and regulator; the 'guarantee' hits are lease and loan guarantees, not promised returns",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Named the managing partner on lawyer confirmation and liability tasks"
+  ],
+  "sources": [
+   "https://www.sra.org.uk/solicitors/standards-regulations/",
+   "https://www.icaew.com/regulation/practice-assurance"
+  ]
+ },
+ {
+  "id": "practice-ownership.associate-to-equity-partner-path",
+  "status": "fixed",
+  "reason": "Ownership route plan; regulator ownership rules, employment status, tax, guarantees and covenants routed to lawyers and accountants, and incoming partners told to use an independent lawyer",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Opening reasons tasks now assigned to each owner and collected by the managing partner"
+  ],
+  "sources": [
+   "https://www.sra.org.uk/solicitors/standards-regulations/",
+   "https://www.gov.uk/guidance/salaried-members-rules"
+  ]
+ },
+ {
+  "id": "practice-ownership.billable-time-and-fee-notes",
+  "status": "fixed",
+  "reason": "Time recording and billing operations plan; no regulatory pointer existed for client money and bill content, now added; percentages are internal alert thresholds",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Area overview now says client money, money on account, costs information and bill content are set by each profession's regulator (e.g. SRA in England and Wales, US state bars) and checked by the compliance or finance partner",
+   "Write-off approval threshold now agreed by the managing and finance partners"
+  ],
+  "sources": [
+   "https://www.sra.org.uk/solicitors/standards-regulations/accounts-rules/",
+   "https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_15_safekeeping_property/"
+  ]
+ },
+ {
+  "id": "private-equity-vc.100-day-plans",
+  "status": "fixed",
+  "reason": "Post-completion operating plan for a deal team and portfolio management; no regulated how-to, numeric thresholds are illustrative, no return promises.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Programme role task now assigns each person's role with the deal partner and CEO"
+  ],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.add-on-acquisitions",
+  "status": "fixed",
+  "reason": "Buy-and-build programme plan for a sponsor and platform team; legal, tax and antitrust points routed to advisers; no return promises.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Programme scoring task assigned to deal partner and portfolio ops"
+  ],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.co-investment-deals",
+  "status": "fixed",
+  "reason": "Co-investment process plan for GP and LP teams; terms, allocation and legal points routed to counsel and IR; ILPA reference is guidance only.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Ownership-mapping and diligence-split tasks now name deal team, IR, legal and finance owners"
+  ],
+  "sources": [
+   "https://ilpa.org/"
+  ]
+ },
+ {
+  "id": "private-equity-vc.commercial-due-diligence",
+  "status": "fixed",
+  "reason": "Commercial diligence method for a deal team; example growth threshold is framed as a question, not a claim; no regulated content.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Sector fact base task assigned to sector leads"
+  ],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.deal-pipeline-crm",
+  "status": "fixed",
+  "reason": "CRM and pipeline hygiene plan for a deal team; operational only, no regulated or numeric claims beyond internal targets.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Inventory and weekly update tasks assigned to the CRM owner and each deal lead"
+  ],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.financial-due-diligence-qoe",
+  "status": "fixed",
+  "reason": "Quality of earnings scoping and review for a deal team; the QoE itself is done by the accounting adviser; no regulated how-to.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Chart-of-accounts mapping and checklist-sharing tasks assigned to associate and deal VP roles"
+  ],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.follow-on-investment-decisions",
+  "status": "fixed",
+  "reason": "Follow-on policy and decision process for a VC partnership; legal readings go to fund counsel; no return promises.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Cap table reconciliation assigned to finance; annotation review now with deal partner and fund counsel"
+  ],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.fund-administration",
+  "status": "fixed",
+  "reason": "GP oversight of a fund administrator; valuation, accounting framework and tax data are confirmed with auditor, administrator and tax preparer; no regulated how-to.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Inventory and second-review tasks name CFO, administrator and a second reviewer",
+   "NAV review note states valuations are approved by the valuation committee and tested by the auditor"
+  ],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.fund-compliance-and-regulatory-filings",
+  "status": "hold",
+  "reason": "Regulated filing procedure: adviser registration/exemption, Form ADV/PF, FATCA/CRS submissions and AML programme; held under the regulated-filing rule. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main.",
+  "changes": [
+   "Reverted all edits (file left as on main). Edits a reviewer had drafted: Added team-plan tag and team-plan sentence to project 1; Named US forms (Form ADV with Part 2 brochure, Form PF, Form D) and UK/EU AIFM reporting as examples, with fund counsel or CCO confirming answers before signature; Compliance job inventory assigned to the CCO"
+  ],
+  "sources": [
+   "https://www.sec.gov/about/divisions-offices/division-investment-management/frequently-asked-questions-form-adv",
+   "https://www.sec.gov/resources-small-businesses/exempt-offerings/filing-form-d-notice"
+  ]
+ },
+ {
+  "id": "private-equity-vc.fund-terms-and-lpa-negotiation",
+  "status": "fixed",
+  "reason": "LPA negotiation preparation for GP team; every drafting and concession call sits with fund counsel; ILPA documents described accurately as guidance.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Concession authority task now a written partner decision; brief drafting assigned to managing partner"
+  ],
+  "sources": [
+   "https://ilpa.org/"
+  ]
+ },
+ {
+  "id": "private-equity-vc.gp-economics-and-management-fees",
+  "status": "fixed",
+  "reason": "Management company economics for GP partners; structuring and fee waiver tax questions routed to counsel and a licensed tax adviser; staff cost share (60 to 80 percent) is a hedged estimate.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Tax question task assigned to CFO and a licensed tax adviser"
+  ],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.growth-equity-investing",
+  "status": "fixed",
+  "reason": "Growth equity criteria and process for an investment team; metric examples framed as illustrations, not targets; no return promises.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Criteria review task assigned to the investment committee"
+  ],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.lois-and-bid-letters",
+  "status": "fixed",
+  "reason": "Bid letter preparation for a deal team; binding and non-binding clause questions go to deal counsel; no regulated how-to.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Template review task now a deal counsel sign-off"
+  ],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.lp-reporting-and-annual-meetings",
+  "status": "fixed",
+  "reason": "LP reporting and AGM operations for IR and finance; ILPA templates correctly described as voluntary guidance; valuation framework confirmed with auditors.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Annual report scoring assigned to IR lead and CFO"
+  ],
+  "sources": [
+   "https://ilpa.org/"
+  ]
+ },
+ {
+  "id": "private-equity-vc.management-incentive-plans",
+  "status": "fixed",
+  "reason": "MIP design process for a deal team; instrument tax treatment, valuation and leaver classification all routed to counsel, tax adviser and independent valuer.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Register reconciliation task assigned to portfolio finance"
+  ],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.pe-fund-lp-fundraising",
+  "status": "hold",
+  "reason": "Securities offering: fund marketing and LP solicitation through first and final close, incl. raising Fund I from individuals; held under the securities-offering rule. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main.",
+  "changes": [
+   "Reverted all edits (file left as on main). Edits a reviewer had drafted: Added team-plan tag and team-plan sentence to project 1; Added note that placement agents must be licensed (US: registered broker-dealer/FINRA member; UK: FCA-authorised) and that unlicensed finders can create rescission rights; Added task for fund counsel to confirm the agent's licence before introductions; Investor eligibility task now a written fund counsel sign-off; timeline and prospect tasks assigned to IR lead and partners"
+  ],
+  "sources": [
+   "https://www.foley.com/?p=50860",
+   "https://www.davispolk.com/insights/client-update/finra-establishes-new-limited-registration-regime-capital-acquisition"
+  ]
+ },
+ {
+  "id": "private-equity-vc.portfolio-company-exit-planning",
+  "status": "fixed",
+  "reason": "Exit readiness plan for sponsor and portfolio company teams; target multiple and return views are internal modelling inputs, not promises.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Exit workstream task lists owners rather than one person"
+  ],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.portfolio-monitoring-and-kpis",
+  "status": "fixed",
+  "reason": "Portfolio monitoring for portfolio ops and finance; covenant headroom and reforecast thresholds are labelled examples; legal questions go to fund counsel.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Definition and open-question tasks assigned to company CFOs and portfolio ops"
+  ],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.secondaries-and-continuation-funds",
+  "status": "fixed",
+  "reason": "Secondaries practice plan for a deal team; fairness opinions described as increasingly expected (not mandatory, consistent with the 2024 vacatur of the SEC private fund adviser rules); conflicts judged by counsel and LPAC.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Decision-preparation task now maps decisions to roles"
+  ],
+  "sources": [
+   "https://ilpa.org/",
+   "https://www.clearygottlieb.com/news-and-insights/publication-listing/fifth-circuit-vacates-private-fund-adviser-rules-in-entirety"
+  ]
+ },
+ {
+  "id": "private-equity-vc.value-creation-plans",
+  "status": "fixed",
+  "reason": "Value creation planning for deal team and portfolio ops; variance thresholds are internal examples; no return promises.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Support task assigned to portfolio ops"
+  ],
+  "sources": []
+ },
+ {
+  "id": "private-equity-vc.vc-portfolio-construction",
+  "status": "fixed",
+  "reason": "Portfolio construction modelling for a VC partnership; return outcomes appear only as simulated probabilities, not promises; fund expenses estimated with administrator or counsel.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Investment pace task counts the partnership's deals rather than one person's"
+  ],
+  "sources": []
+ },
+ {
+  "id": "quant-finance.alternative-data-research",
+  "status": "fixed",
+  "reason": "Data evaluation process for a research team with compliance-approved intake checklist (MNPI, consent, scraping, licence); added country-specific rules pointer.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Intake checklist note names US (SEC/FINRA) and UK (UK MAR, UK GDPR) regimes and requires compliance or counsel sign-off before trial data is loaded",
+   "Compliance question task assigned to the research lead"
+  ],
+  "sources": [
+   "https://www.fca.org.uk/markets/market-abuse/regulation",
+   "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/"
+  ]
+ },
+ {
+  "id": "quant-finance.execution-algorithms",
+  "status": "fixed",
+  "reason": "Engineering and governance plan for an execution desk; hard limits, kill switch and compliance sign-off present; algo rules now named by country; no return promises.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Named country rules in the annual self-assessment: EU MiFID II RTS 6 annual self-assessment, UK FCA equivalent, US SEC Rule 15c3-5 market access controls with annual CEO certification",
+   "Self-assessment tasks now assigned to compliance and the execution quant team"
+  ],
+  "sources": [
+   "https://eur-lex.europa.eu/eli/reg_del/2017/589/oj",
+   "https://www.sec.gov/rules-regulations/2011/06/risk-management-controls-brokers-or-dealers-market-access"
+  ]
+ },
+ {
+  "id": "quant-finance.low-latency-trading-systems",
+  "status": "fixed",
+  "reason": "Infrastructure engineering plan for a trading technology team; no regulated how-to; timestamp rule now named by country.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Clock note now cites EU MiFID II RTS 25 UTC traceability and the US Consolidated Audit Trail clock synchronisation rule",
+   "Onboarding replay task assigned to the new joiner role"
+  ],
+  "sources": [
+   "https://eur-lex.europa.eu/eli/reg_del/2017/574/oj",
+   "https://www.finra.org/rules-guidance/rulebooks/finra-rules/6820"
+  ]
+ },
+ {
+  "id": "quant-finance.model-validation-and-model-risk",
+  "status": "fixed",
+  "reason": "Model risk governance plan for a validation team; outdated US guidance reference corrected, roles named; no regulated how-to or return promises.",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Updated US guidance references: SR 11-7 was superseded by SR 26-2 (Fed/OCC/FDIC, 17 April 2026); kept PRA SS1/23 for the UK",
+   "Named desk lead and validation lead on two foundation tasks"
+  ],
+  "sources": [
+   "https://www.federalreserve.gov/supervisionreg/srletters/sr2602.htm",
+   "https://www.bankofengland.co.uk/prudential-regulation/publication/2023/may/model-risk-management-principles-for-banks-ss"
+  ]
+ },
+ {
+  "id": "real-estate-development.affordable-housing-development",
+  "status": "fixed",
+  "reason": "Country-neutral development plan; thresholds, tax credits, covenants and grant terms already routed to solicitor, tax adviser and funding agency; no promised returns",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Named roles (development director, development manager, finance lead, scheme solicitor) on ownership and sign-off tasks",
+   "Tax credit task now names the licensed tax adviser, syndicator and counsel a credit deal needs"
+  ],
+  "sources": [
+   "https://www.huduser.gov/portal/datasets/lihtc.html",
+   "https://www.gov.uk/guidance/national-planning-policy-framework"
+  ]
+ },
+ {
+  "id": "real-estate-development.build-to-rent-development",
+  "status": "fixed",
+  "reason": "Development and operations plan; yields are inputs to be sourced, not promises; tenancy law and funding agreements routed to solicitor and accountant",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Named roles (development director, development manager, asset manager, board or investment committee) on decision and sign-off tasks",
+   "Rent review policy task now checked by the solicitor"
+  ],
+  "sources": [
+   "https://www.gov.uk/private-renting",
+   "https://www.rics.org/profession-standards/rics-standards-and-guidance"
+  ]
+ },
+ {
+  "id": "real-estate-development.building-capex-reserves",
+  "status": "fixed",
+  "reason": "Capital planning plan; life safety, cladding, facade and reserve rules already routed to fire risk assessors, facade engineers, lawyers and regulators; no safety calculations",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Facade inspection cycle now set by a qualified facade engineer",
+   "Named roles (finance lead, asset manager, board chair) on policy and levy tasks"
+  ],
+  "sources": [
+   "https://www.gov.uk/government/publications/fire-safety-risk-assessment-sleeping-accommodation",
+   "https://www.nyc.gov/site/buildings/safety/facade-inspection-safety-program.page"
+  ]
+ },
+ {
+  "id": "real-estate-development.commercial-property-asset-management",
+  "status": "fixed",
+  "reason": "Asset management operating plan; client money, service charge codes, insolvency and compliance routed to regulated agents, solicitors and local codes; thresholds are internal review triggers, not legal rules",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Named roles (finance lead, asset manager) on client money, service charge and regear tasks"
+  ],
+  "sources": [
+   "https://www.rics.org/profession-standards/rics-standards-and-guidance/sector-standards/real-estate-standards/service-charges-in-commercial-property",
+   "https://www.gov.uk/guidance/domestic-private-rented-property-minimum-energy-efficiency-standard-landlord-guidance"
+  ]
+ },
+ {
+  "id": "real-estate-development.hotel-and-hospitality-property",
+  "status": "fixed",
+  "reason": "Hotel ownership plan; agreements, staff transfer, licences and off-plan branded residence sales routed to hospitality, employment lawyers and accountants; no promised returns",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Fixed a broken sentence in the licences and fire safety compliance calendar Purpose",
+   "Named roles (asset manager, acquisitions lead, lead negotiator) on decision tasks"
+  ],
+  "sources": [
+   "https://www.ahla.com/usali",
+   "https://www.gov.uk/workplace-fire-safety-your-responsibilities"
+  ]
+ },
+ {
+  "id": "real-estate-development.mixed-use-development",
+  "status": "fixed",
+  "reason": "Development plan; fire strategy left to a qualified fire engineer and building control, leases and resident rights to the solicitor; valuation maths is method, not promised values",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Named roles (development director, development manager, asset manager) on decision tasks"
+  ],
+  "sources": [
+   "https://www.gov.uk/guidance/change-of-use-planning-permission",
+   "https://www.gov.uk/government/publications/fire-safety-approved-document-b"
+  ]
+ },
+ {
+  "id": "real-estate-development.multifamily-value-add-programmes",
+  "status": "fixed",
+  "reason": "Value-add operating plan; rent increases, notices, utility recovery, fair housing and asbestos routed to lawyers, housing specialists and licensed contractors; no promised returns",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Utility charge task now requires the solicitor to confirm the law first",
+   "Named roles (asset manager) on hurdle and approval tasks"
+  ],
+  "sources": [
+   "https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview",
+   "https://www.hse.gov.uk/asbestos/"
+  ]
+ },
+ {
+  "id": "real-estate-development.off-plan-and-development-sales",
+  "status": "fixed",
+  "reason": "Sales operations plan; deposit holding, consumer codes, AML checks and contracts routed to the solicitor; deposit handling tightened so the solicitor confirms protected accounts and lawful release",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Reservation and overseas deposit tasks now have the solicitor confirm the protected holding account and payment route",
+   "Deposit release milestone now requires solicitor confirmation that release is permitted by local deposit law",
+   "AML check task names local AML law and a sales director owner"
+  ],
+  "sources": [
+   "https://www.nhqcode.org.uk/",
+   "https://www.gov.uk/guidance/money-laundering-regulations-estate-agency-business-guidance"
+  ]
+ },
+ {
+  "id": "real-estate-development.office-and-retail-leasing",
+  "status": "fixed",
+  "reason": "Leasing operations plan; leases, licences, deposits and break notices routed to the solicitor; measurement standard and deal maths are method only",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Rent deposit holding and release now confirmed by the solicitor under local law",
+   "Named roles (leasing manager, asset manager) on security policy tasks"
+  ],
+  "sources": [
+   "https://www.rics.org/profession-standards/rics-standards-and-guidance/sector-standards/real-estate-standards/code-for-leasing-business-premises",
+   "https://ipmsc.org/"
+  ]
+ },
+ {
+  "id": "real-estate-development.property-portfolio-reporting",
+  "status": "fixed",
+  "reason": "Management reporting plan; covenant interpretation, arrears action and statutory consolidation routed to lawyers and accountants",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Fixed a subject and verb agreement error in the occupancy learning project",
+   "Named roles (CFO, finance manager) on covenant breach reporting tasks"
+  ],
+  "sources": [
+   "https://www.lma.eu.com/",
+   "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-10-consolidated-financial-statements/"
+  ]
+ },
+ {
+  "id": "real-estate-development.residential-property-management-ops",
+  "status": "fixed",
+  "reason": "Letting agency operations plan; deposits, certificates, notices and possession are framed as 'where you operate' and checked with a housing solicitor or professional body; response bands are labelled examples",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Deposit rules task now checked by a housing solicitor, owned by a compliance lead",
+   "Named roles (compliance lead, lettings manager) on compliance and referencing tasks"
+  ],
+  "sources": [
+   "https://www.gov.uk/tenancy-deposit-protection",
+   "https://www.gov.uk/government/publications/how-to-rent"
+  ]
+ },
+ {
+  "id": "real-estate-development.short-let-portfolio-operations",
+  "status": "fixed",
+  "reason": "Short-let operations plan; registration, licensing, tenancy status and consumer law framed city by city and routed to a solicitor; platform guarantees correctly flagged as not insurance",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Licence and lease transfer check on sale now done by the solicitor",
+   "Named an operations manager owner on the pre-listing compliance gate"
+  ],
+  "sources": [
+   "https://www.nyc.gov/site/specialenforcement/registration-law/registration.page",
+   "https://www.gov.uk/government/consultations/introduction-of-a-use-class-for-short-term-lets-and-associated-permitted-development-rights"
+  ]
+ },
+ {
+  "id": "real-estate-development.sustainable-building-certification",
+  "status": "fixed",
+  "reason": "Certification process plan; LEED, BREEAM and EDGE descriptions match the official bodies (licensed BREEAM assessors, EDGE auditors and app, LEED via GBCI); thresholds deferred to the current official manuals",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to project 1",
+   "Named a development director on target sign-off and reworded the benefits task for a team"
+  ],
+  "sources": [
+   "https://www.usgbc.org/leed",
+   "https://bregroup.com/products/breeam",
+   "https://edgebuildings.com/certify/"
+  ]
+ },
+ {
+  "id": "real-estate-development.syndication-investor-relations",
+  "status": "hold",
+  "reason": "Securities offering: real-estate syndication (subscription documents, friends-and-family investors, capital calls, track-record marketing); syndications are on the brief's hold list. Reviewer edits (kept in this log for a future pass) were reverted; file is unchanged from main.",
+  "changes": [
+   "Reverted all edits (file left as on main). Edits a reviewer had drafted: Added team-plan tag and team-plan sentence to project 1; Compliance calendar note names the US example (Form D under Regulation D plus state notice filings) and says build the list with securities counsel; Track record pack task now requires securities counsel approval of wording and use before any sharing; Named roles (sponsor principals, IR lead, CFO, finance lead) on key tasks"
+  ],
+  "sources": [
+   "https://www.sec.gov/resources-small-businesses/exempt-offerings/filing-form-d-notice",
+   "https://www.irs.gov/forms-pubs/about-schedule-k-1-form-1065"
+  ]
+ }
+]

@@ -4,7 +4,7 @@ name: Organisation Design Engagements
 description: "A delivery method for organisation design work: the question and scope, a clean people baseline, design principles, options, spans and layers, role definitions, selection and a transition plan that holds up on day one."
 category: business
 version: 1.0.0
-tags: [management-consulting, organisation-design-engagements, knowledge-worker, organisation-design, spans-and-layers, operating-model, role-design, transition-planning]
+tags: [management-consulting, organisation-design-engagements, knowledge-worker, organisation-design, spans-and-layers, operating-model, role-design, transition-planning, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: The organisation design question and its trigger
               description: |-
                 ## Purpose
-                Clients rarely ask for an organisation design for its own sake: a new strategy, a merger, a cost target, a new chief executive or a failing matrix sits behind the request. Writing the trigger and the question in one sentence each, such as how should the commercial function be organised to sell solutions rather than products, stops the work drifting into a chart redraw that solves nothing.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Clients rarely ask for an organisation design for its own sake: a new strategy, a merger, a cost target, a new chief executive or a failing matrix sits behind the request. Writing the trigger and the question in one sentence each, such as how should the commercial function be organised to sell solutions rather than products, stops the work drifting into a chart redraw that solves nothing.
 
                 ## Milestones
                 1. The trigger for the redesign named, with the date it became urgent.

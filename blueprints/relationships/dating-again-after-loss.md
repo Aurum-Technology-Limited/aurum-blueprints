@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Wanting company does not betray the person you lost, and still grieving does not rule you out. Many people date while grieving; the check is about pace, not permission.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -233,6 +235,9 @@ starter_structure:
                 3. A check-in arrangement with a friend covering where, who, and a time to text that you are home.
                 4. Your own transport arranged both ways for every first meeting.
                 5. A polite exit line ready in case you want to leave early.
+
+                ## Notes
+                If a date becomes threatening, leave and call your local emergency number. If a new partner starts to control, frighten or hurt you, contact a domestic abuse helpline (for example 0808 2000 247 in the UK, or 1-800-799-7233 in the US).
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -304,7 +309,7 @@ starter_structure:
                 4. A professional contact noted in case the check shows grief getting heavier, not lighter.
 
                 ## Notes
-                Feeling relief, happiness or attraction while grieving is common and not a sign you loved your partner less.
+                Feeling relief, happiness or attraction while grieving is common and not a sign you loved your partner less. If you are thinking of harming yourself or feel unable to keep yourself safe, call your local emergency number or a crisis line, such as Samaritans on 116 123 (UK and Ireland) or 988 (US).
               priority: high
               frontmatter:
                 mode: operating
@@ -757,6 +762,9 @@ starter_structure:
                 2. Practical effects listed: pensions, property, inheritance and next of kin.
                 3. Family members' views heard, without handing them the decision.
                 4. A joint decision recorded, with what commitment will look like either way.
+
+                ## Notes
+                In some places, including England and Wales, marriage cancels any will you made before, and some survivor pensions and bereavement benefits change or stop on remarriage or cohabitation. Check with a lawyer and each pension provider before deciding.
               priority: low
               frontmatter:
                 mode: research
@@ -1087,7 +1095,7 @@ starter_structure:
                 4. A pace chosen for growing closeness.
 
                 ## Notes
-                If you have flashbacks, panic or thoughts of harming yourself, contact your doctor or a crisis line straight away.
+                If you have flashbacks, panic or thoughts of harming yourself, contact your doctor or a crisis line straight away, such as Samaritans on 116 123 (UK and Ireland) or 988 (US).
               priority: medium
               frontmatter:
                 mode: building

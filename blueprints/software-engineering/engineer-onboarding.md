@@ -4,7 +4,7 @@ name: Engineer Onboarding
 description: "A tested setup guide, an architecture tour, starter tasks, trained buddies and a first-month plan that get new engineers shipping real changes in days, with metrics and reviews that keep the programme improving."
 category: business
 version: 1.0.0
-tags: [software-engineering, engineer-onboarding, engineer, manager, team, onboarding, buddy, setup-guide]
+tags: [software-engineering, engineer-onboarding, engineer, manager, team, onboarding, buddy, setup-guide, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Definition of a ramped-up new engineer
               description: |-
                 ## Purpose
-                Most teams cannot say when onboarding is finished, so a new hire is either rushed into on-call in week two or treated as new for six months. Writing down the handful of observable milestones that mean someone is ramped up, such as a first merged change by day three, a first production deploy by week two and an independent feature by day sixty, gives managers, buddies and the new engineer the same finish line.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most teams cannot say when onboarding is finished, so a new hire is either rushed into on-call in week two or treated as new for six months. Writing down the handful of observable milestones that mean someone is ramped up, such as a first merged change by day three, a first production deploy by week two and an independent feature by day sixty, gives managers, buddies and the new engineer the same finish line.
 
                 ## Milestones
                 1. Five to seven observable ramp-up milestones written, each with a target day.

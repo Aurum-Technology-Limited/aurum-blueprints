@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Benchmarks move with the market and differ widely by sector. Treat published ranges as a starting point, then test them with two or three investors who lead Series A rounds in your space.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help you organise decisions about money. It is not financial, investment, tax or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with a qualified, licensed adviser in yours. Investing and trading can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -65,7 +65,7 @@ starter_structure:
                 5. The final number agreed with the board.
 
                 ## Notes
-                Many founders plan for 18 to 24 months of runway from a Series A, but the milestones should drive the number, not the other way round. Ask your finance lead to stress test the plan at 70 percent of forecast revenue.
+                Founders have long planned for 18 to 24 months of runway from a Series A, but the median gap between rounds now runs past two years, and the milestones should drive the number, not the other way round. Ask your finance lead to stress test the plan at 70 percent of forecast revenue.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

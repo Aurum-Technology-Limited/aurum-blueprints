@@ -4,7 +4,7 @@ name: Secondaries and Continuation Funds
 description: "A working secondaries practice: the market map, LP portfolio pricing, GP-led continuation vehicles, conflicts and fairness, transfer mechanics and LP communication, organised for the deal professional doing the work."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, secondaries-and-continuation-funds, knowledge-worker, secondaries, continuation-vehicles, gp-led, lp-portfolio-sales, nav-pricing]
+tags: [private-equity-vc, secondaries-and-continuation-funds, knowledge-worker, secondaries, continuation-vehicles, gp-led, lp-portfolio-sales, nav-pricing, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Map of the secondary market and its players
               description: |-
                 ## Purpose
-                Secondaries look like one market from outside but behave like several: dedicated secondary funds, pension and endowment sellers, GPs running continuation vehicles, structured capital providers and the intermediaries who run processes. A one-page map of who buys, who sells, who advises and which segments each covers tells you where your seat sits and who you will meet across the table.
+                Secondaries look like one market from outside but behave like several: dedicated secondary funds, pension and endowment sellers, GPs running continuation vehicles, structured capital providers and the intermediaries who run processes. A one-page map of who buys, who sells, who advises and which segments each covers tells you where your seat sits and who you will meet across the table. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page map grouping buyers, sellers, advisers and capital providers by segment.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Public market reviews from the larger secondary advisers are the usual starting point. Treat volume and pricing figures in them as estimates, not facts.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -115,7 +117,7 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Write down the parts of the last secondary deal you personally worked on"
-                - "List the decisions you prepare and who takes each one"
+                - "List the decisions each role prepares and who takes each one"
                 - "Note which questions always go to counsel, tax or compliance"
                 - "Agree the note with your manager in your next one-to-one"
             - name: Secondary purchase agreement anatomy

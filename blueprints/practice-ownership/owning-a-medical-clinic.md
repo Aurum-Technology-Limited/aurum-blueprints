@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Use last full year's figures from your accounts and booking system. Estimates are fine for a first version as long as you mark them.
+
+                Before you start: this plan is general information to help you organise your own work. It does not replace your professional judgement, the rules of your regulator or professional body, your firm's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

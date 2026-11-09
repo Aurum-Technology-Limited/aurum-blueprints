@@ -4,7 +4,7 @@ name: Sales Quota & Capacity Modelling
 description: "Quotas built from your own win rates, ramp curves and attrition, a capacity model that says how many sellers the revenue target really needs, and the monthly checks that keep both honest."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-quota-capacity-modelling, manager, founder, enterprise, quota-setting, sales-capacity, headcount-planning]
+tags: [sales-revenue, sales-quota-capacity-modelling, manager, founder, enterprise, quota-setting, sales-capacity, headcount-planning, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Defining what counts toward quota
               description: |-
                 ## Purpose
-                Quota arguments in month eleven usually trace back to a question nobody answered in month one: does a renewal count, is it bookings or first-year value, and what happens to a multi-year deal. Writing the crediting rules down before any number is set means the capacity model, the quota letters and the attainment report all measure the same thing.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Quota arguments in month eleven usually trace back to a question nobody answered in month one: does a renewal count, is it bookings or first-year value, and what happens to a multi-year deal. Writing the crediting rules down before any number is set means the capacity model, the quota letters and the attainment report all measure the same thing.
 
                 ## Milestones
                 1. The quota metric chosen and written in one sentence, such as new annual contract value or total bookings.

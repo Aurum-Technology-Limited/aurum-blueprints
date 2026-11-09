@@ -4,7 +4,7 @@ name: Project Finance Advisory
 description: "A project finance adviser's working method: the contract map and risk matrix, a cash flow model lenders trust, debt sizing on DSCR, lender due diligence, term sheets, and the conditions precedent that get you to financial close."
 category: business
 version: 1.0.0
-tags: [investment-banking, project-finance-advisory, knowledge-worker, project-finance, infrastructure, energy, debt-sizing, financial-close]
+tags: [investment-banking, project-finance-advisory, knowledge-worker, project-finance, infrastructure, energy, debt-sizing, financial-close, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Project finance versus corporate lending primer
               description: |-
                 ## Purpose
-                Bankers who arrive from M&A or corporate coverage often read a project financing as a big term loan, and miss that the lenders are looking only at one asset's future cash flows inside a ring-fenced company. A short written primer on non-recourse and limited-recourse lending, the special purpose vehicle and why lenders care so much about contracts gives you the frame every later model and meeting depends on.
+                Bankers who arrive from M&A or corporate coverage often read a project financing as a big term loan, and miss that the lenders are looking only at one asset's future cash flows inside a ring-fenced company. A short written primer on non-recourse and limited-recourse lending, the special purpose vehicle and why lenders care so much about contracts gives you the frame every later model and meeting depends on. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A two-page note explaining non-recourse, limited recourse and sponsor support, with one real-world style example of each.
@@ -98,10 +98,10 @@ starter_structure:
                 - "Add tail, sculpting, lock-up, cash sweep and reserve account terms"
                 - "Note the typical DSCR ranges quoted in public market commentary for two sectors"
                 - "Rename your model template rows to match the sheet"
-            - name: Personal project finance model template
+            - name: Team project finance model template
               description: |-
                 ## Purpose
-                Most project models share a skeleton: timing flags, construction costs and funding, operating revenues and costs, tax, the cash flow waterfall, debt and reserves, ratios and returns. Building your own clean template once, separate from any client file, lets you start every new mandate from a checked structure instead of an inherited spreadsheet with hidden quirks.
+                Most project models share a skeleton: timing flags, construction costs and funding, operating revenues and costs, tax, the cash flow waterfall, debt and reserves, ratios and returns. Building one clean team template, separate from any client file, lets the team start every new mandate from a checked structure instead of an inherited spreadsheet with hidden quirks.
 
                 ## Milestones
                 1. A template with separate inputs, timing, calculations, financial statements and outputs sheets.
@@ -111,20 +111,20 @@ starter_structure:
                 5. The template tested on one textbook case with known answers.
 
                 ## Notes
-                Build it on public or invented numbers only. Never copy a client model into a personal file.
+                Build it on public or invented numbers only. Never copy a client model into the template.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A personal model template built on invented data balances, passes all checks and reproduces a textbook case's DSCR and debt quantum."
+                success_criteria: "A team model template built on invented data balances, passes all checks and reproduces a textbook case's DSCR and debt quantum."
                 cadence: phased
                 effort_hours_estimate: "30"
               tasks:
                 - "Lay out the five sheets and the colour code for inputs and formulas"
                 - "Build the timing flags for construction and operations periods"
                 - "Add the cash flow waterfall, sculpted debt and reserve account"
-                - "Test the template against a textbook case with known answers"
+                - "Associate or VP tests the template against a textbook case with known answers"
                 - "Review the template against your latest mandate's lessons @recurring(yearly)"
             - name: Financial adviser mandate scope checklist
               description: |-
@@ -1194,6 +1194,6 @@ starter_structure:
 
 # Project Finance Advisory
 
-This area is for the banker or adviser working on non-recourse financings of power plants, renewables, roads, ports, water and social infrastructure, from the analyst on a first wind farm model to the vice president running a lender process. It starts with foundations (how project finance differs from corporate lending, the contract map, the ratio vocabulary, your own model template, the mandate scope, the data book and the risk matrix), moves into the weekly and monthly machinery of workstream trackers, model releases, lender Q&A and market terms, then the modelling skills of CFADS, sculpted debt sizing, reserve accounts and construction funding, the financing decisions, the dated events from the bank book to first drawdown, the seats you might sit in, and finally specialist work on development lenders, holdco debt, emerging markets, new technologies and projects in trouble.
+This area is for the banker or adviser working on non-recourse financings of power plants, renewables, roads, ports, water and social infrastructure, from the analyst on a first wind farm model to the vice president running a lender process. It starts with foundations (how project finance differs from corporate lending, the contract map, the ratio vocabulary, the team model template, the mandate scope, the data book and the risk matrix), moves into the weekly and monthly machinery of workstream trackers, model releases, lender Q&A and market terms, then the modelling skills of CFADS, sculpted debt sizing, reserve accounts and construction funding, the financing decisions, the dated events from the bank book to first drawdown, the seats you might sit in, and finally specialist work on development lenders, holdco debt, emerging markets, new technologies and projects in trouble.
 
-What repeats is a weekly workstream and conditions precedent check, a weekly model release and lender Q&A round, monthly refreshes of market terms, rate curves, the tender pipeline and the development budget, monthly construction reports after close and quarterly covenant tests in operation. The Reading queue, Risk register, Metrics log, Meeting notes, Onboarding 30/60/90 and Operational checklist templates pair with the projects that name them. Keep project names, sponsor numbers and live lender terms inside your firm's systems, and take every tax, legal and regulatory question to the right adviser; these projects hold your own working method, not a client's confidential data. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a weekly workstream and conditions precedent check, a weekly model release and lender Q&A round, monthly refreshes of market terms, rate curves, the tender pipeline and the development budget, monthly construction reports after close and quarterly covenant tests in operation. The Reading queue, Risk register, Metrics log, Meeting notes, Onboarding 30/60/90 and Operational checklist templates pair with the projects that name them. Keep project names, sponsor numbers and live lender terms inside your firm's systems, and take every tax, legal and regulatory question to the right adviser; these projects hold the team's working method, not a client's confidential data. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

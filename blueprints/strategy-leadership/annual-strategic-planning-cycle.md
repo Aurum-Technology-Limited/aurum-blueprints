@@ -4,7 +4,7 @@ name: Annual Strategic Planning Cycle
 description: "A yearly strategy process that runs on time: a back-scheduled calendar, an honest diagnosis, real options, a few clear priorities, targets and budgets that agree, and a plan every team can follow."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, annual-strategic-planning-cycle, manager, enterprise, team, strategic-planning, budgeting, planning-calendar]
+tags: [strategy-leadership, annual-strategic-planning-cycle, manager, enterprise, team, strategic-planning, budgeting, planning-calendar, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Planning calendar back-scheduled from the plan year start
               description: |-
                 ## Purpose
-                Most annual plans arrive late because the cycle starts when someone remembers it, not when the date of board approval demands it. Working backwards from the first day of the plan year, through board sign-off, budget lock, unit plan submission and kickoff, gives every leader the dates months in advance. A calendar published early is the single cheapest fix for a rushed plan.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most annual plans arrive late because the cycle starts when someone remembers it, not when the date of board approval demands it. Working backwards from the first day of the plan year, through board sign-off, budget lock, unit plan submission and kickoff, gives every leader the dates months in advance. A calendar published early is the single cheapest fix for a rushed plan.
 
                 ## Milestones
                 1. The first day of the plan year and the board meeting that approves the plan both fixed on the calendar.

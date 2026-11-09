@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Company specifications often override or tighten the public standard. Read the site specification first, then the standard it calls up.
+
+                Before you start: this plan is general information to help you organise your own work. It does not replace your professional judgement, the rules of your regulator or professional body, your firm's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: medium
               deadlineOffsetDays: 30
               frontmatter:

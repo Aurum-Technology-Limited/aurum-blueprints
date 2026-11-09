@@ -4,7 +4,7 @@ name: Organisation Data Literacy
 description: "A baseline of how well people read and question data, a competency framework by role, champions and clinics, short lessons on charts, averages and causation, and an honest measure of whether decisions actually changed."
 category: business
 version: 1.0.0
-tags: [data-analytics, organisation-data-literacy, enterprise, manager, educator, data-literacy, data-culture, training-programme]
+tags: [data-analytics, organisation-data-literacy, enterprise, manager, educator, data-literacy, data-culture, training-programme, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Organisation-wide data literacy baseline assessment
               description: |-
                 ## Purpose
-                Most literacy programmes start with a course and only later wonder whether anyone needed it. A short scenario-based assessment, sent to a sample of at least 200 people across functions and grades, shows where the real gaps are: reading a chart, telling a percentage from a percentage point, or knowing which report to trust. The baseline is also the only fair way to show improvement a year from now.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most literacy programmes start with a course and only later wonder whether anyone needed it. A short scenario-based assessment, sent to a sample of at least 200 people across functions and grades, shows where the real gaps are: reading a chart, telling a percentage from a percentage point, or knowing which report to trust. The baseline is also the only fair way to show improvement a year from now.
 
                 ## Milestones
                 1. A fifteen-question assessment built on realistic workplace scenarios rather than self-ratings.

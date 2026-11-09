@@ -4,7 +4,7 @@ name: Process Safety Management
 description: "A working process safety management system: covered processes defined, element owners named, process safety information and procedures current, actions closed, audits passed and leading indicators that warn before an incident does."
 category: business
 version: 1.0.0
-tags: [engineering-practice, process-safety-management, engineer, manager, psm, process-safety, leading-indicators, major-accident-hazards]
+tags: [engineering-practice, process-safety-management, engineer, manager, psm, process-safety, leading-indicators, major-accident-hazards, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -28,7 +28,7 @@ starter_structure:
             - name: Covered process and threshold quantity inventory
               description: |-
                 ## Purpose
-                Every PSM obligation starts with knowing which processes are in scope, and many sites have never refreshed the list since a new tank, a new chemical or a debottleneck changed the inventories. Listing each process, its highly hazardous chemicals and the largest quantity that could be involved in one release, then comparing it with the threshold quantities in the regulations that apply, gives a defensible boundary for the whole system.
+                Every PSM obligation starts with knowing which processes are in scope, and many sites have never refreshed the list since a new tank, a new chemical or a debottleneck changed the inventories. Listing each process, its highly hazardous chemicals and the largest quantity that could be involved in one release, then comparing it with the threshold quantities in the regulations that apply, gives a defensible boundary for the whole system. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The regulatory regimes that apply to the site identified, for example OSHA PSM and EPA RMP in the US or a Seveso based regime in Europe and its local equivalents.
@@ -39,6 +39,8 @@ starter_structure:
 
                 ## Notes
                 Count the largest credible inventory, not the normal operating level. A tank usually run half full is still covered at its full capacity if it can be filled.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -877,7 +879,7 @@ starter_structure:
             - name: Process safety incident investigation set-up
               description: |-
                 ## Purpose
-                When a release, fire or serious near miss happens, the PSM element requires an investigation to start promptly, typically within 48 hours, with a team that includes someone who knows the process, and a report with recommendations. Having the team roles, evidence kit, report format and sharing route ready before the event means the first hours preserve evidence instead of arguing about who leads.
+                When a release, fire or serious near miss happens, the US OSHA PSM rule requires an investigation to start as promptly as possible and no later than 48 hours after the incident (check the rule where you operate), with a team that includes someone who knows the process, and a report with recommendations. Having the team roles, evidence kit, report format and sharing route ready before the event means the first hours preserve evidence instead of arguing about who leads.
 
                 ## Milestones
                 1. An investigation procedure stating triggers, start time, team composition and report contents.

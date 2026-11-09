@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 For Eid and other moon-sighting dates, follow the announcement your community or mosque uses, and plan food that can wait a day.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -774,6 +774,8 @@ starter_structure:
 
                 ## Notes
                 Check that the kitchen sockets and circuit can take an extra appliance running alongside the oven before relying on it.
+
+                A barbecue, charcoal or gas, must only ever be used outdoors in the open air, never in a kitchen, garage, conservatory, tent or porch, even with the door open, because it gives off carbon monoxide, which can kill. Keep a lit or cooling barbecue away from buildings and children, and check meat cooked on it with the probe thermometer.
               priority: medium
               deadlineOffsetDays: 90
               frontmatter:

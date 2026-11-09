@@ -4,7 +4,7 @@ name: Microservices Decomposition
 description: "An honest decision on whether to split at all, boundaries drawn from the domain, data ownership settled, services extracted one at a time and the communication and failure patterns that keep them independent."
 category: business
 version: 1.0.0
-tags: [software-engineering, microservices-decomposition, engineer, enterprise, domain-driven-design, bounded-contexts, strangler-fig, event-driven]
+tags: [software-engineering, microservices-decomposition, engineer, enterprise, domain-driven-design, bounded-contexts, strangler-fig, event-driven, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Module and dependency map of the current system
               description: |-
                 ## Purpose
-                Before anyone argues about services, someone needs to draw what actually exists: the modules, the database tables each one touches and the calls between them. Most monoliths turn out to have three or four clean regions and one tangled core, and knowing which is which decides where any split could start.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before anyone argues about services, someone needs to draw what actually exists: the modules, the database tables each one touches and the calls between them. Most monoliths turn out to have three or four clean regions and one tangled core, and knowing which is which decides where any split could start.
 
                 ## Milestones
                 1. Every top-level module or package listed with its owning team and approximate size in lines of code.

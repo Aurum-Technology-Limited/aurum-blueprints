@@ -4,7 +4,7 @@ name: Restructuring Advisory
 description: "A restructuring adviser's working method: the debt stack and waterfall, a 13-week cash flow you trust, options and recovery analysis, creditor negotiations, court milestones and the new capital structure."
 category: business
 version: 1.0.0
-tags: [investment-banking, restructuring-advisory, knowledge-worker, restructuring, distressed-debt, liquidity, creditor-negotiations, insolvency]
+tags: [investment-banking, restructuring-advisory, knowledge-worker, restructuring, distressed-debt, liquidity, creditor-negotiations, insolvency, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Restructuring toolkit map from waiver to court process
               description: |-
                 ## Purpose
-                Bankers who arrive from M&A tend to see restructuring as one big event, when in practice it is a ladder of tools: covenant waivers, amendments, standstills, consensual debt-for-equity deals, pre-packaged sales and court-supervised processes. A one-page map of that ladder, with what each tool needs in consent levels, time and cost, gives you the frame for every options paper you will write.
+                Bankers who arrive from M&A tend to see restructuring as one big event, when in practice it is a ladder of tools: covenant waivers, amendments, standstills, consensual debt-for-equity deals, pre-packaged sales and court-supervised processes. A one-page map of that ladder, with what each tool needs in consent levels, time and cost, gives you the frame for every options paper you will write. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page map running from covenant waiver through amendment, standstill, consensual deal, pre-pack and full court process.
@@ -1213,4 +1213,4 @@ starter_structure:
 
 This area is for the banker advising a stressed or distressed company, or the creditors lending to it, from the analyst on a first restructuring to the vice president who leads the negotiation. It starts with foundations (the restructuring toolkit, the debt stack and waterfall, the credit documents, conflicts, the first 13-week cash flow and the liquidity runway), moves into the operating rhythm of cash roll-forwards, covenant headroom, creditor and supplier watches and fee budgets, then the analytical skills of recovery, liquidation and plan valuation, the decisions on options, standstills, new money, sale tracks and court venue, the dated events from cleansing to the effective date, the different seats you might sit in, and finally specialist work on cross-border cases, non-debt claims and life after emergence.
 
-What repeats is a weekly cash flow roll-forward and variance report, weekly lender, creditor and supplier watches, a weekly milestone and long-stop check, monthly covenant headroom, fee burn and watchlist reviews, and a quarterly refresh of the stakeholder map. The Metrics log, Meeting notes, Risk register, Reading queue and Board meeting templates pair with the projects that name them. Keep company names, creditor positions and live terms inside your firm's systems, and take every legal and insolvency question to counsel; these projects hold your own working method, not a client's confidential data. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a weekly cash flow roll-forward and variance report, weekly lender, creditor and supplier watches, a weekly milestone and long-stop check, monthly covenant headroom, fee burn and watchlist reviews, and a quarterly refresh of the stakeholder map. The Metrics log, Meeting notes, Risk register, Reading queue and Board meeting templates pair with the projects that name them. Keep company names, creditor positions and live terms inside your firm's systems, and take every legal and insolvency question to counsel; these projects hold the team's working method, not a client's confidential data. Formal insolvency appointments are taken only by a licensed insolvency practitioner or court officer where the law requires one, and advice to directors on their duties comes from counsel. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

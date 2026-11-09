@@ -4,7 +4,7 @@ name: Consulting Knowledge Reuse
 description: "Find, judge and adapt your firm's past work fast: a map of the knowledge sources, search habits, practice experts on call, safe reuse of client material and a steady routine of sanitised contributions back."
 category: business
 version: 1.0.0
-tags: [management-consulting, consulting-knowledge-reuse, knowledge-worker, knowledge-management, case-database, practice-experts, sanitisation, reuse]
+tags: [management-consulting, consulting-knowledge-reuse, knowledge-worker, knowledge-management, case-database, practice-experts, sanitisation, reuse, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Map of your firm's knowledge sources
               description: |-
                 ## Purpose
-                Most firms keep past work in four or five places at once: a knowledge portal, practice pages, a research or information centre, an expert directory and the old shared drives that never quite got migrated. Knowing which source holds what, and how current each one is, turns a vague two-hour search into a fifteen-minute pull you can repeat on every engagement.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most firms keep past work in four or five places at once: a knowledge portal, practice pages, a research or information centre, an expert directory and the old shared drives that never quite got migrated. Knowing which source holds what, and how current each one is, turns a vague two-hour search into a fifteen-minute pull you can repeat on every engagement.
 
                 ## Milestones
                 1. A one-page map listing each knowledge source, what it holds, who owns it and how to request access.

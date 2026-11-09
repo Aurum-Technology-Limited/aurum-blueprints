@@ -4,7 +4,7 @@ name: Product Portfolio Management
 description: "Run several products as one portfolio: an inventory with real costs and revenue, lifecycle stages, investment guardrails, quarterly reviews and rebalancing, and clear calls on which products to grow, sustain or retire."
 category: business
 version: 1.0.0
-tags: [product-management, product-portfolio-management, manager, enterprise, portfolio-strategy, investment-allocation, product-lifecycle, governance]
+tags: [product-management, product-portfolio-management, manager, enterprise, portfolio-strategy, investment-allocation, product-lifecycle, governance, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Product portfolio inventory with owners and revenue
               description: |-
                 ## Purpose
-                Most organisations with more than three products cannot produce, on demand, a single list of what they sell, who owns each product and what it earns. A one-sheet inventory with owner, customers, revenue, team size and stage for every product, add-on and white-label variant is the base every later portfolio decision stands on.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most organisations with more than three products cannot produce, on demand, a single list of what they sell, who owns each product and what it earns. A one-sheet inventory with owner, customers, revenue, team size and stage for every product, add-on and white-label variant is the base every later portfolio decision stands on.
 
                 ## Milestones
                 1. Every product, product line, add-on and white-label variant listed once, including the ones nobody talks about.

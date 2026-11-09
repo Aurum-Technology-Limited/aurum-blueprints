@@ -4,7 +4,7 @@ name: Affordable Housing Development
 description: "Affordable homes delivered with confidence: the right agency and non-profit partners, subsidy and grant terms understood, eligibility rules kept, mixed-tenure design that works and units handed over on time."
 category: business
 version: 1.0.0
-tags: [real-estate-development, affordable-housing-development, founder, small-business, nonprofit, subsidy, mixed-tenure, housing-agencies]
+tags: [real-estate-development, affordable-housing-development, founder, small-business, nonprofit, subsidy, mixed-tenure, housing-agencies, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: What counts as affordable housing where you build
               description: |-
                 ## Purpose
-                Affordable means something precise and different in every system: social rent, affordable rent set against market rent, shared ownership, rent-to-own, or rents capped against a share of area median income. Developers lose months designing a product the local authority or funder does not recognise. A one-page definitions note for your target market keeps the design team, the appraisal and every partner conversation using the same words.
+                Affordable means something precise and different in every system: social rent, affordable rent set against market rent, shared ownership, rent-to-own, or rents capped against a share of area median income. Developers lose months designing a product the local authority or funder does not recognise. A one-page definitions note for your target market keeps the design team, the appraisal and every partner conversation using the same words. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Each affordable tenure recognised in your target area listed with its legal or policy definition.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Examples help: area median income bands under a housing tax credit system, discounted market sale under a planning obligation, or a national housing corporation's income bands. Use the definition in the policy, not the one an agent remembers.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help your team organise its work. It is not legal advice, and following it does not make anyone your organisation's lawyer. Rules differ between countries and change often, so check decisions that matter, and anything your organisation signs, with a qualified lawyer or the official authority in the country concerned.
               priority: medium
               frontmatter:
                 mode: learning
@@ -124,7 +124,7 @@ starter_structure:
                 - "Write a paragraph on what each delivery route would mean for this scheme"
                 - "Compare cash flow and years of involvement for each route"
                 - "Ask two providers which route they would prefer and why"
-                - "Record the chosen route and what would make you revisit it"
+                - "Development director records the chosen route and what would trigger a revisit"
             - name: Tenure mix brief for a first affordable scheme
               description: |-
                 ## Purpose
@@ -243,7 +243,7 @@ starter_structure:
                 success_criteria: "A live risk register of at least fifteen scored risks with owners and mitigations, reviewed monthly."
                 cadence: rolling
               tasks:
-                - "List every funding, partner and compliance risk you can think of"
+                - "Development manager lists every funding, partner and compliance risk with the team"
                 - "Score each risk and give it a named owner"
                 - "Write a mitigation for every high-scoring risk"
                 - "Review and rescore the register @recurring(monthly:18)"
@@ -495,9 +495,9 @@ starter_structure:
                 effort_hours_estimate: "8"
               tasks:
                 - "Read the allocating agency's plan or guide for housing credits"
-                - "Write a one-page explainer of how credits become equity"
+                - "Write a one-page explainer of how credits become equity for the board"
                 - "Note the investor's rights and the compliance period"
-                - "List the advisers a credit deal would need"
+                - "List the licensed tax adviser, syndicator and counsel a credit deal would need"
             - name: Design standards for funded affordable homes
               description: |-
                 ## Purpose
@@ -585,7 +585,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "Ask your solicitor for every covenant affecting the affordable homes"
+                - "Have the scheme solicitor list every covenant affecting the affordable homes"
                 - "Summarise each clause's trigger, duration and consequence"
                 - "Check mortgagee protection wording with your solicitor"
                 - "List clauses to negotiate before signing"
@@ -1095,7 +1095,7 @@ starter_structure:
               tasks:
                 - "List every funding source with amount, timing and conditions"
                 - "Highlight conflicting rent caps, periods or priorities"
-                - "Agree a sources and uses table with your advisers"
+                - "Finance lead agrees a sources and uses table with the tax adviser and funder"
                 - "Record each funder's consent to the others' terms"
             - name: Mixed-income regeneration of an existing estate
               description: |-

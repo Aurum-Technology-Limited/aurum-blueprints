@@ -4,7 +4,7 @@ name: Alternative Data Research
 description: "An intake register, a standard scorecard, legal and licensing checks, fixed-length vendor trials, coverage and signal tests and a written cost against value decision for every alternative data set you consider."
 category: business
 version: 1.0.0
-tags: [quant-finance, alternative-data-research, researcher, knowledge-worker, alternative-data, data-vendors, data-licensing, nowcasting]
+tags: [quant-finance, alternative-data-research, researcher, knowledge-worker, alternative-data, data-vendors, data-licensing, nowcasting, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Alternative data research charter and scope
               description: |-
                 ## Purpose
-                Without a written scope, every vendor cold call becomes a trial and the research calendar fills with data nobody can use. A one-page charter stating which strategies and horizons you serve, which data categories are in scope, who signs off on spend and which categories are off limits for privacy or compliance reasons gives you a reason to say no quickly and a standard to say yes against.
+                Without a written scope, every vendor cold call becomes a trial and the research calendar fills with data nobody can use. A one-page charter stating which strategies and horizons you serve, which data categories are in scope, who signs off on spend and which categories are off limits for privacy or compliance reasons gives you a reason to say no quickly and a standard to say yes against. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page charter naming the strategies, holding periods and universes the data must serve.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Keep the out of scope list explicit. Precise geolocation of individuals, personal email receipts and anything scraped behind a login are common categories firms rule out entirely.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -112,7 +112,7 @@ starter_structure:
                 4. Open risks from each review logged with an owner.
 
                 ## Notes
-                Start from the **Risk register** template for open items. This checklist organises questions for compliance and counsel; it does not replace their judgement.
+                Start from the **Risk register** template for open items. This checklist organises questions for compliance and counsel; it does not replace their judgement. Insider dealing and privacy rules differ by country (for example SEC and FINRA expectations in the US, UK MAR and UK GDPR in the UK), so compliance or counsel signs off each data set before any trial data is loaded.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -122,7 +122,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Ask your compliance team which questions they need answered before a trial"
+                - "Research lead asks compliance which questions must be answered before a trial"
                 - "Draft the checklist and a matching vendor questionnaire"
                 - "Get the checklist approved by compliance or counsel"
                 - "Recheck the checklist with compliance when rules or policy change @recurring(yearly)"

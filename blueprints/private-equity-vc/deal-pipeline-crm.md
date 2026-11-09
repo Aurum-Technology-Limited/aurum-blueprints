@@ -4,7 +4,7 @@ name: Deal Pipeline CRM
 description: "Clear stages, clean intermediary and relationship records, a weekly partner pipeline pack and a hygiene routine, so the deal system you run in DealCloud, Affinity or a spreadsheet is one the team trusts."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, deal-pipeline-crm, knowledge-worker, team, dealcloud, affinity, pipeline-reporting, data-hygiene]
+tags: [private-equity-vc, deal-pipeline-crm, knowledge-worker, team, dealcloud, affinity, pipeline-reporting, data-hygiene, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Inventory of where deal data lives today
               description: |-
                 ## Purpose
-                Before changing anything, find out where the pipeline really is: a partner's spreadsheet, three inboxes, a shared drive of teasers and half a CRM nobody updates. A one-page inventory of every source, its owner and how current it is shows what the system has to replace and what it must never lose.
+                Before changing anything, find out where the pipeline really is: a partner's spreadsheet, three inboxes, a shared drive of teasers and half a CRM nobody updates. A one-page inventory of every source, its owner and how current it is shows what the system has to replace and what it must never lose. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every place deal or intermediary information is kept listed, with its owner.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Ask each deal team member to show you, not tell you, where they keep things. The private spreadsheet usually only appears when someone opens their laptop.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -45,8 +47,8 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "List the spreadsheets, inboxes and drives you know hold deal information"
-                - "Ask each deal team member to walk you through where they keep deals"
+                - "CRM owner lists the spreadsheets, inboxes and drives holding deal data"
+                - "Ask each deal team member to walk the CRM owner through their deals"
                 - "Mark each source as current, partly current or abandoned"
                 - "Note the fields that exist in only one source"
             - name: Pipeline stage definitions with entry and exit rules
@@ -275,7 +277,7 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Send the five-point update checklist to all deal leads"
-                - "Update stages, next steps and meetings on your own deals @recurring(weekly:fri)"
+                - "Each deal lead updates stages, next steps and meetings @recurring(weekly:fri)"
                 - "Check which active deals have no update this week"
                 - "Message late updaters directly before the weekend"
             - name: Monday pipeline pack for the partner meeting

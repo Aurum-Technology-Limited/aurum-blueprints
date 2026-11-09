@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Rules change most years, so note the date of the guidance you used. Fixed-term, agency and zero-hours workers can face different tests, so check those separately.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

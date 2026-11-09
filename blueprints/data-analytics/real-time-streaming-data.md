@@ -4,7 +4,7 @@ name: Real-Time Streaming Data
 description: "Topics and events designed and owned, delivery guarantees you can state, lag and latency watched, and replay, late data and failover rehearsed before production depends on them."
 category: business
 version: 1.0.0
-tags: [data-analytics, real-time-streaming-data, engineer, event-streaming, stream-processing, kafka, event-driven]
+tags: [data-analytics, real-time-streaming-data, engineer, event-streaming, stream-processing, kafka, event-driven, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Streaming use case and latency budget brief
               description: |-
                 ## Purpose
-                Plenty of teams build a streaming pipeline for a dashboard that is looked at twice a day, then pay for brokers, on-call and complexity that a fifteen-minute batch job would have avoided. Writing down the decision the data supports, how stale it can be before it costs money, and who acts on it settles whether you need seconds, minutes or hours of freshness. It is the cheapest hour you will spend in this area.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Plenty of teams build a streaming pipeline for a dashboard that is looked at twice a day, then pay for brokers, on-call and complexity that a fifteen-minute batch job would have avoided. Writing down the decision the data supports, how stale it can be before it costs money, and who acts on it settles whether you need seconds, minutes or hours of freshness. It is the cheapest hour you will spend in this area.
 
                 ## Milestones
                 1. A one-page brief naming the first use case, the decision it drives and the person who acts on it.
