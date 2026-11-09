@@ -22,6 +22,7 @@ import {
   readJson,
   summarizeStarter,
 } from "./lib/blueprint.mjs";
+import { SKILLS_PATH, loadSkillMap, skillListProblems } from "./lib/skills.mjs";
 
 const args = process.argv.slice(2);
 const maxIdx = args.indexOf("--max");
@@ -465,6 +466,30 @@ function validateRules(rel, rules) {
   }
 }
 
+// ── skills ──────────────────────────────────────────────────────────────────
+// Every published blueprint (the legacy starters plus the launch.json ids)
+// carries 2-4 of the app's core skills (gamification/skills.rs CORE_SKILLS;
+// gamification/blueprint_skills.rs MIN_SKILLS..MAX_SKILLS), and the map names
+// no blueprint that does not exist. Unpublished library files may be listed
+// ahead of launch.
+let skillMap = null;
+{
+  const where = SKILLS_PATH;
+  try {
+    skillMap = loadSkillMap();
+  } catch (e) {
+    err(where, e.message);
+  }
+  if (skillMap) {
+    const knownIds = new Set([...fileInfo.values()].map((i) => i.fm.id));
+    const live = launchIds();
+    const published = [...fileInfo].filter(([rel, i]) => !libraryPathParts(rel) || live.has(i.fm.id)).map(([, i]) => i.fm.id);
+    for (const id of Object.keys(skillMap)) if (!knownIds.has(id) && !ONLY.size) err(`${where} [${id}]`, "no blueprint has this id");
+    for (const [id, list] of Object.entries(skillMap)) for (const p of skillListProblems(list)) err(`${where} [${id}]`, p);
+    if (!ONLY.size) for (const id of published) if (!(id in skillMap)) err(`${where} [${id}]`, "published blueprint has no skills");
+  }
+}
+
 // ── catalog.json ────────────────────────────────────────────────────────────
 if (!ONLY.size) {
   const where = "catalog.json";
@@ -503,6 +528,7 @@ if (!ONLY.size) {
       for (const k of ["pillars", "totalAreas", "totalProjects"])
         if (JSON.stringify(have[k]) !== JSON.stringify(want[k])) err(w, `starterSummary.${k} is ${JSON.stringify(have[k])}, the file says ${JSON.stringify(want[k])}`);
       if (lib && have.totalTasks !== want.totalTasks) err(w, `starterSummary.totalTasks is ${have.totalTasks}, the file says ${want.totalTasks}`);
+      if (skillMap && JSON.stringify(m.skills) !== JSON.stringify(skillMap[m.id])) err(w, `skills differ from ${SKILLS_PATH} (run npm run build:catalog)`);
     }
     // Only launched library blueprints belong in the catalog (launch.json);
     // the rest are validated above and wait, ready to publish.
