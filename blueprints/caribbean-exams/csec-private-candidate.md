@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-private-candidate
 name: CSEC as a Private or Adult Candidate
-description: "A complete plan for sitting CSEC without a school: the Local Registrar and entry, Paper 032 in place of the SBA, self-study around work and family, mock week, exam day, results and using them abroad."
+description: "A complete plan for sitting CSEC without a school, for adult candidates and parents supporting a teen sitting privately: the Local Registrar, Paper 032 in place of the SBA, self-study, mock week, exam day and results."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-private-candidate, cxc, csec, private-candidate, student, knowledge-worker, parent]
@@ -16,7 +16,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Mapping the passes your goal actually requires
               description: |-
                 ## Purpose
-                Most adults do not sit CSEC for its own sake: the reason is a job advert, a promotion rule, a nursing or police entry requirement, or a university matriculation standard. Writing down exactly which subjects and grades that goal demands, taken from the employer or institution itself, stops you spending a year on a subject nobody asked for. Many programmes ask for passes at Grades I to III, often including English A and Mathematics, but the only list that counts is the one they give you in writing.
+                Most adults do not sit CSEC for its own sake: the reason is a job advert, a promotion rule, a nursing or police entry requirement, or a university matriculation standard. Writing down exactly which subjects and grades that goal demands, taken from the employer or institution itself, stops you spending a year on a subject nobody asked for. Many programmes ask for passes at Grades I to III, often including English A and Mathematics, but the only list that counts is the one they give you in writing. For a teenager sitting privately, work the list out together, since the goal is theirs.
 
                 ## Milestones
                 1. The goal written in one sentence, naming the job, course or promotion it is for.
@@ -36,6 +36,8 @@ starter_structure:
                 5. A final list of the subjects still to sit.
 
                 ## Notes
+                This plan works for an adult sitting CSEC as a private candidate, and for a parent or guardian supporting a teenager who is sitting privately; an older teenager can follow it with a parent's support.
+
                 Ask whether the institution accepts results from more than one sitting combined. Most do, but some programmes set their own rules.
               priority: high
               deadlineOffsetDays: 14
@@ -54,7 +56,7 @@ starter_structure:
             - name: Finding your Local Registrar and private candidate rules
               description: |-
                 ## Purpose
-                Every territory registers private candidates through its own Local Registrar, usually based in the Ministry of Education or a national examinations office, and the rules on eligibility, documents and closing dates are set locally. One phone call or visit early in the year tells you where to register, what proof they want and when entries close, which is the fact most late registrants wish they had found sooner.
+                Every territory registers private candidates through its own Local Registrar, usually based in the Ministry of Education or a national examinations office, and the rules on eligibility, documents and closing dates are set locally. One phone call or visit early in the year tells you where to register, what proof they want and when entries close, which is the fact most late registrants wish they had found sooner. A parent entering a teenager makes the same call, and should also ask whether any rules apply to younger candidates.
 
                 ## Milestones
                 1. The Local Registrar's office, phone number and email recorded for your country.
@@ -80,7 +82,7 @@ starter_structure:
             - name: Weekly study hours audit around work and family
               description: |-
                 ## Purpose
-                Shift rosters, school runs, church, overtime and caring duties all eat into the evenings an adult candidate thought were free. Logging one ordinary week hour by hour shows the real gaps, usually smaller and more scattered than hoped, and gives every later timetable something solid to stand on.
+                Shift rosters, school runs, church, overtime and caring duties all eat into the evenings an adult candidate thought were free. Logging one ordinary week hour by hour shows the real gaps, usually smaller and more scattered than hoped, and gives every later timetable something solid to stand on. If you are supporting a teenager studying privately, log the household week together so their study slots fit around family routines.
 
                 ## Milestones
                 1. One ordinary week logged in half-hour blocks, work and travel included.
@@ -128,7 +130,7 @@ starter_structure:
             - name: Checking each subject for Paper 032 or an SBA requirement
               description: |-
                 ## Purpose
-                Students in school complete the School-Based Assessment as Paper 031, while private candidates in many subjects sit Paper 032, a written alternative, instead. Not every subject handles this the same way, so the syllabus for each of your subjects has to be checked before you register, or you may find a practical or project component you cannot complete alone.
+                Students in school complete the School-Based Assessment as Paper 031, while private candidates in many subjects sit Paper 032, a written alternative, instead. Not every subject handles this the same way, so the syllabus for each subject has to be checked before registration, or you may find a practical or project component that cannot be completed alone. If you are supporting a teenager, check the syllabus together so they know from the start which papers they will face.
 
                 ## Milestones
                 1. The current syllabus for each chosen subject downloaded from the CXC website.
@@ -154,7 +156,7 @@ starter_structure:
             - name: Diagnostic past paper in each chosen subject
               description: |-
                 ## Purpose
-                Years away from a classroom make it hard to guess where you stand: some adults remember more than they feared, others find whole topics have gone. Sitting one recent past paper per subject, alone and without notes, then marking it against the mark scheme, gives a starting score and a list of weak sections that decides where the first months go.
+                Years away from a classroom make it hard to guess where you stand: some adults remember more than they feared, others find whole topics have gone. Sitting one recent past paper per subject, alone and without notes, then marking it against the mark scheme, gives a starting score and a list of weak sections that decides where the first months go. A teenager sitting privately can do the same, with a parent offering to keep time and help check the script against the mark scheme.
 
                 ## Milestones
                 1. One recent Paper 02 attempted in each chosen subject.
@@ -181,7 +183,7 @@ starter_structure:
             - name: Identification, photo and registration document pack
               description: |-
                 ## Purpose
-                Registrars usually want proof of identity, recent photographs to a set size, and sometimes a birth certificate or proof of residence, and a missing document is a common reason an entry is turned back at the counter. Gathering everything in one folder before registration opens means one trip instead of three.
+                Registrars usually want proof of identity, recent photographs to a set size, and sometimes a birth certificate or proof of residence, and a missing document is a common reason an entry is turned back at the counter. Gathering everything in one folder before registration opens means one trip instead of three. For a teenage candidate, a parent usually gathers these papers, so ask the registrar what they need for a younger candidate.
 
                 ## Milestones
                 1. A valid photo ID located and its expiry date checked.
@@ -207,7 +209,7 @@ starter_structure:
             - name: Private candidate registration before the closing date
               description: |-
                 ## Purpose
-                Entries for the May to June sitting close many months before the exams, and late entries, where they are allowed at all, usually cost more. Completing the entry early, checking every subject on the form and keeping the receipt is the moment the plan becomes real.
+                Entries for the May to June sitting close many months before the exams, and late entries, where they are allowed at all, usually cost more. Completing the entry early, checking every subject on the form and keeping the receipt is the moment the plan becomes real. Where a teenager is the candidate, check the form together, since they will live with every subject on it.
 
                 ## Milestones
                 1. The registration form completed with every subject and paper you intend to sit.
@@ -283,7 +285,7 @@ starter_structure:
             - name: Weekly study timetable built around shifts
               description: |-
                 ## Purpose
-                Adults who pass usually study little and often, not in heroic weekend sessions that collapse the first time work runs late. A timetable rebuilt each Sunday around the coming week's shifts and family commitments, with each session naming a subject and a syllabus objective, keeps the hours real.
+                Adults who pass usually study little and often, not in heroic weekend sessions that collapse the first time work runs late. A timetable rebuilt each Sunday around the coming week's shifts and family commitments, with each session naming a subject and a syllabus objective, keeps the hours real. A teenager studying privately can plan their own week each Sunday, with a parent checking in rather than drawing it up for them.
 
                 ## Milestones
                 1. A standard weekly template with fixed study slots drawn from the hours audit.
@@ -352,7 +354,7 @@ starter_structure:
             - name: Saturday timed past paper practice
               description: |-
                 ## Purpose
-                Knowing the content and finishing the paper are different skills, and adult candidates often run out of time on their first full attempts. A timed past paper set every Saturday, marked against the mark scheme the same day, builds speed and shows the score trend month by month.
+                Knowing the content and finishing the paper are different skills, and adult candidates often run out of time on their first full attempts. A timed past paper set every Saturday, marked against the mark scheme the same day, builds speed and shows the score trend month by month. If your teen is the candidate, offer to keep time and let them mark their own script before you look at it together.
 
                 ## Milestones
                 1. Past papers allocated to each Saturday until the sitting.
@@ -397,7 +399,7 @@ starter_structure:
             - name: Study partner or online study group check-ins
               description: |-
                 ## Purpose
-                Studying without classmates is lonely, and loneliness sits behind many quiet withdrawals in February or March. One study partner sitting the same subject, or a small online group of private candidates, gives a weekly check-in, someone to explain a topic to, and a reason to keep going in a bad week.
+                Studying without classmates is lonely, and loneliness sits behind many quiet withdrawals in February or March. One study partner sitting the same subject, or a small online group of private candidates, gives a weekly check-in, someone to explain a topic to, and a reason to keep going in a bad week. A teenager sitting privately misses classmates too, so help them find a partner or group of their own age.
 
                 ## Milestones
                 1. At least one study partner or group found who is sitting one of your subjects.
@@ -439,7 +441,7 @@ starter_structure:
             - name: Sleep, rest and burnout watch for working candidates
               description: |-
                 ## Purpose
-                Late-night study after a full workday trades sleep for hours that stick poorly, and by the second term many adult candidates are running on empty. A monthly look at sleep, energy and missed sessions catches the slide before it turns into dropping a subject.
+                Late-night study after a full workday trades sleep for hours that stick poorly, and by the second term many adult candidates are running on empty. A monthly look at sleep, energy and missed sessions catches the slide before it turns into dropping a subject. A parent supporting a teen sitting privately can run the same monthly check with them, noticing late nights and missed sessions without hovering.
 
                 ## Milestones
                 1. A latest study finishing time agreed with yourself.
@@ -460,7 +462,7 @@ starter_structure:
             - name: Family study agreement and weekly check-in
               description: |-
                 ## Purpose
-                For a parent or carer sitting exams, the household decides whether study happens: who cooks on study nights, when the television goes off, which evenings are protected. A short written agreement with the people you live with, and a ten-minute check-in each week, turns goodwill into a routine everyone can see.
+                For a parent or carer sitting exams, the household decides whether study happens: who cooks on study nights, when the television goes off, which evenings are protected. A short written agreement with the people you live with, and a ten-minute check-in each week, turns goodwill into a routine everyone can see. If the candidate is a teenager in your household, draw the agreement up with them so the whole family protects their study evenings.
 
                 ## Milestones
                 1. Study evenings and quiet hours agreed with everyone in the household.
@@ -620,7 +622,7 @@ starter_structure:
             - name: Exam nerves plan for adult candidates
               description: |-
                 ## Purpose
-                Walking into an exam hall twenty years after the last one can bring back old memories and real nerves, and anxiety in the room costs marks. Rehearsing exam conditions, a short breathing routine and a plan for the first five minutes makes the day familiar before it arrives.
+                Walking into an exam hall twenty years after the last one can bring back old memories and real nerves, and anxiety in the room costs marks. Rehearsing exam conditions, a short breathing routine and a plan for the first five minutes makes the day familiar before it arrives. If you are supporting a teenager, ask what worries them and help answer the practical questions, since an unfamiliar centre with no classmates can be just as daunting.
 
                 ## Milestones
                 1. Specific worries written down and the practical ones answered, such as where to sit or what to bring.
@@ -629,7 +631,7 @@ starter_structure:
                 4. A first-five-minutes plan for each paper written on a card.
 
                 ## Notes
-                If anxiety is severe or affects daily life, talk to your doctor or a counsellor early, and ask the registrar whether any special arrangements could apply.
+                If anxiety is severe or affects daily life, talk to a doctor or a counsellor early (a parent can arrange this for a teenager), and ask the registrar whether any special arrangements could apply.
               priority: low
               frontmatter:
                 mode: learning
@@ -645,7 +647,7 @@ starter_structure:
             - name: Self-study, evening class or tutor decision
               description: |-
                 ## Purpose
-                Self-study is cheapest but the easiest to abandon, evening classes add structure but fixed times, and a tutor fits around shifts but costs the most. Comparing the three for each subject, against your budget, hours and diagnostic scores, settles how each subject will be taught before money is spent.
+                Self-study is cheapest but the easiest to abandon, evening classes add structure but fixed times, and a tutor fits around shifts but costs the most. Comparing the three for each subject, against the budget, the hours and the diagnostic scores, settles how each subject will be taught before money is spent. For a teenager, make this decision together, since they are the one who has to turn up and do the work.
 
                 ## Milestones
                 1. Evening classes, online programmes and tutors in your area listed for each subject.
@@ -671,11 +673,11 @@ starter_structure:
             - name: Vetting a private tutor or lessons centre
               description: |-
                 ## Purpose
-                Lessons are a real expense, and a tutor who knows the current syllabus and Paper 032 is worth far more than one teaching from memory of an older one. A short trial and a few pointed questions before committing for months protect both money and time.
+                Lessons are a real expense, and a tutor who knows the current syllabus and Paper 032 is worth far more than one teaching from memory of an older one. A short trial and a few pointed questions before committing for months protect both money and time. A parent booking lessons for a teen should also ask how the tutor reports progress, and can sit in on the trial if the teen is happy with that.
 
                 ## Milestones
                 1. Two or three tutors or centres shortlisted from recommendations.
-                2. Each asked about the current syllabus, Paper 032 and experience with adult candidates.
+                2. Each asked about the current syllabus, Paper 032 and experience with adult or private candidates.
                 3. One trial lesson held with the preferred option.
                 4. Terms agreed in writing: fee, schedule, cancellation and what happens to a missed lesson.
 
@@ -811,7 +813,7 @@ starter_structure:
             - name: Special arrangements for a disability or medical condition
               description: |-
                 ## Purpose
-                Some candidates with a disability, learning difficulty, visual impairment or medical condition are eligible for special arrangements such as extra time, a reader or a separate room. Requests need evidence and are usually made at or soon after registration, so starting early leaves time to gather reports.
+                Some candidates with a disability, learning difficulty, visual impairment or medical condition are eligible for special arrangements such as extra time, a reader or a separate room. Requests need evidence and are usually made at or soon after registration, so starting early leaves time to gather reports. A parent applying for a teenager usually gathers the evidence, and the school they last attended may hold useful reports.
 
                 ## Milestones
                 1. The registrar asked how private candidates apply for special arrangements and by when.
@@ -837,7 +839,7 @@ starter_structure:
             - name: Full mock exam week under exam conditions
               description: |-
                 ## Purpose
-                Private candidates rarely get a school mock, so for many the first time they sit two long papers in one day is the real thing. Running a full mock week at home or in a library, to the timetable, with papers you have not seen, tests stamina, timing and the morning routine with time left to fix what fails.
+                Private candidates rarely get a school mock, so for many the first time they sit two long papers in one day is the real thing. Running a full mock week at home or in a library, to the timetable, with unseen papers, tests stamina, timing and the morning routine with time left to fix what fails. If your teen is the candidate, help set up the room and keep the times, then let them mark the scripts and choose their own fixes.
 
                 ## Milestones
                 1. Unseen past papers set aside for each subject.
@@ -860,7 +862,7 @@ starter_structure:
             - name: Exam centre, timetable and route check
               description: |-
                 ## Purpose
-                Private candidates are often allocated a centre they have never been to, and timetables are sometimes amended after first release. Confirming the centre, travelling there at the time of day of the exam, and checking each paper's date and session removes the avoidable disaster of arriving late or on the wrong day.
+                Private candidates are often allocated a centre they have never been to, and timetables are sometimes amended after first release. Confirming the centre, travelling there at the time of day of the exam, and checking each paper's date and session removes the avoidable disaster of arriving late or on the wrong day. A parent can travel the route with a teenage candidate and agree who takes them on each exam day.
 
                 ## Milestones
                 1. Candidate number and exam centre confirmed with the registrar.
@@ -906,7 +908,7 @@ starter_structure:
             - name: Exam day kit and morning routine
               description: |-
                 ## Purpose
-                Forgetting ID, a calculator with a flat battery or the wrong colour pen can rattle even a well-prepared candidate. A packed kit and a written morning routine for each exam day leave nothing to remember under pressure.
+                Forgetting ID, a calculator with a flat battery or the wrong colour pen can rattle even a well-prepared candidate. A packed kit and a written morning routine for each exam day leave nothing to remember under pressure. For a teenager, pack the kit together before the first paper, then let them do it themselves.
 
                 ## Milestones
                 1. A kit list checked against the rules on permitted items from CXC or the registrar.
@@ -928,7 +930,7 @@ starter_structure:
             - name: Results release, slip and certificate collection
               description: |-
                 ## Purpose
-                Results are released online and through the Local Registrar, and certificates arrive months later. Knowing in advance how to access results, what grades and profile grades mean, and where to collect certificates means you can send proof to an employer or college the day it is needed.
+                Results are released online and through the Local Registrar, and certificates arrive months later. Knowing in advance how to access results, what grades and profile grades mean, and where to collect certificates means proof can go to an employer or college the day it is needed. If you are supporting a teenager, agree beforehand who logs in on release day and how you will talk about the grades together.
 
                 ## Milestones
                 1. The way private candidates access results confirmed and the login tested.
@@ -972,7 +974,7 @@ starter_structure:
             - name: Homeschooled teenager sitting CSEC privately
               description: |-
                 ## Purpose
-                Homeschooling families take on everything a school office does: registration, the Paper 032 or SBA route, lab time and mock papers. A parent who maps those jobs early and holds a monthly progress meeting gives the teenager the same backing a school would.
+                Homeschooling families take on everything a school office does: registration, the Paper 032 or SBA route, lab time and mock papers. Mapping those jobs early and holding a monthly progress meeting gives your teenager the same backing a school would, while leaving them room to own their study.
 
                 ## Milestones
                 1. Subjects and sittings agreed with the teenager.
@@ -994,7 +996,7 @@ starter_structure:
             - name: School-day routine for a full-time private candidate
               description: |-
                 ## Purpose
-                A full-time private candidate, perhaps a teenager out of school or a young adult between jobs, has whole days free and nothing to shape them, which often means little gets done. A school-day routine with a fixed start, subject blocks and weekly targets gives the day the structure a timetable bell used to.
+                A full-time private candidate, perhaps a teenager out of school or a young adult between jobs, has whole days free and nothing to shape them, which often means little gets done. A school-day routine with a fixed start, subject blocks and weekly targets gives the day the structure a timetable bell used to. For a teenager, let them draft the routine and agree it with you, then check in weekly rather than supervising every hour.
 
                 ## Milestones
                 1. Fixed start and finishing times set for study days.
@@ -1015,7 +1017,7 @@ starter_structure:
             - name: Resitting subjects after leaving school
               description: |-
                 ## Purpose
-                School leavers who missed a grade in English A or Mathematics often resit as private candidates while working or studying something else. Using the old results profile to see where marks went, and planning around a job or college timetable, makes the second attempt different from the first.
+                School leavers who missed a grade in English A or Mathematics often resit as private candidates while working or studying something else. Using the old results profile to see where marks went, and planning around a job or college timetable, makes the second attempt different from the first. If you are supporting a teen who has just left school, let them lead the plan while you help with the registrar visit and the costs.
 
                 ## Milestones
                 1. The previous results slip and profile grades reviewed for the weakest profile.
@@ -1080,7 +1082,7 @@ starter_structure:
             - name: Sitting CSEC while living overseas or moving islands
               description: |-
                 ## Purpose
-                Caribbean families move between islands and to the UK, the US and Canada, and a candidate may start studying in one place and need to sit in another. Entry is handled by the Local Registrar of the territory where you sit, so a move during the study year needs early contact with both ends.
+                Caribbean families move between islands and to the UK, the US and Canada, and a candidate may start studying in one place and need to sit in another. Entry is handled by the Local Registrar of the territory where the candidate sits, so a move during the study year needs early contact with both ends. If a teenager in your family is the candidate, a parent usually makes these calls on their behalf.
 
                 ## Milestones
                 1. The territory where you will sit decided.
@@ -1148,7 +1150,7 @@ starter_structure:
             - name: Running a small private candidate study class
               description: |-
                 ## Purpose
-                Teachers and tutors who take on adult and private candidates face a different class: mixed starting points, shifts that clash with lesson times, and Paper 032 in place of the SBA. A scheme built around diagnostic scores, flexible catch-up and weekly marked answers fits that group far better than a school scheme of work.
+                Teachers and tutors who take on adult and private candidates face a different class: mixed starting points, shifts that clash with lesson times, and Paper 032 in place of the SBA. A scheme built around diagnostic scores, flexible catch-up and weekly marked answers fits that group far better than a school scheme of work. If you are choosing a class for yourself or a teenager rather than running one, this is the shape a good one takes.
 
                 ## Milestones
                 1. Diagnostic scores and goals recorded for every student.
@@ -1170,7 +1172,7 @@ starter_structure:
             - name: Next qualification after your CSEC passes
               description: |-
                 ## Purpose
-                Passes are a door rather than a destination: CAPE, an associate degree, a nursing or technical programme, or a promotion may now be in reach. Choosing the next step while the study habit is still alive keeps the momentum the last year built.
+                Passes are a door rather than a destination: CAPE, an associate degree, a nursing or technical programme, or a promotion may now be in reach. Choosing the next step while the study habit is still alive keeps the momentum the last year built. For a teenager, the next step might be CAPE or a college programme, so let them choose while you help check entry requirements.
 
                 ## Milestones
                 1. Two or three next options listed against your original goal.
@@ -1192,6 +1194,6 @@ starter_structure:
 
 # CSEC as a Private or Adult Candidate
 
-Everything an adult or private candidate needs to sit CSEC without a school behind them, whether you are a working adult chasing English A and Mathematics, a school leaver resitting, or a parent handling a homeschooled teenager's entries. It starts with the foundations (the passes your goal needs, the Local Registrar, how many subjects to sit, the Paper 032 check, a diagnostic paper, documents, registration, budget and books), then the weekly machinery, study skills for returning adults, the decisions about classes, leave and sittings, the dated events from mock week to results, plans for particular situations, and finally multi-sitting plans, overseas verification and a class scheme for tutors.
+Everything a private candidate needs to sit CSEC without a school behind them, whether you are a working adult chasing English A and Mathematics, a school leaver resitting, or a parent supporting a homeschooled or out-of-school teenager through their entries and study. It starts with the foundations (the passes the goal needs, the Local Registrar, how many subjects to sit, the Paper 032 check, a diagnostic paper, documents, registration, budget and books), then the weekly machinery, study skills for returning adults, the decisions about classes, leave and sittings, the dated events from mock week to results, plans for particular situations, and finally multi-sitting plans, overseas verification and a class scheme for tutors.
 
-The rhythm is built around a working week: Sunday planning, workday flashcards on the commute, a Monday Paper 032 question, a Wednesday study check-in, the error log on Friday and a timed paper on Saturday, with monthly progress, notices and energy checks on different days of the month. The Savings goal, Habit tracker, Metrics log, Vendor and Development plan templates pair with the projects that point at them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is built around a working week, and fits a teenager's study week at home just as well: Sunday planning, workday flashcards on the commute, a Monday Paper 032 question, a Wednesday study check-in, the error log on Friday and a timed paper on Saturday, with monthly progress, notices and energy checks on different days of the month. The Savings goal, Habit tracker, Metrics log, Vendor and Development plan templates pair with the projects that point at them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

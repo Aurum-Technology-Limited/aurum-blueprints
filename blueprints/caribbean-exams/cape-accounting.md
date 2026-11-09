@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.cape-accounting
 name: CAPE Accounting
-description: "CAPE Accounting Units 1 and 2 in syllabus order: control systems, partnership and company statements, cash flows and ratios, costing, budgets, variances and investment appraisal, plus the internal assessment and past papers."
+description: "CAPE Accounting Units 1 and 2 for parents and guardians backing a sixth former: control systems, company statements, cash flows and ratios, costing, budgets, variances, investment appraisal, the IA and past papers."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, cape-accounting, cxc, cape, accounting, student, parent, educator, cost-accounting, past-papers]
@@ -13,7 +13,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -23,15 +23,17 @@ starter_structure:
             - name: CAPE Accounting syllabus and paper format check
               description: |-
                 ## Purpose
-                Every topic in this area should be checked against the current CAPE Accounting syllabus from the CXC website, because it alone says what Unit 1 and Unit 2 cover, how Paper 01, Paper 02 and the internal assessment fit together, and what private candidates sit instead. Each unit is a separate examination with its own modules, so map both on one page before the first set of notes is written.
+                Every topic in this area should be checked against the current CAPE Accounting syllabus from the CXC website, because it alone says what Unit 1 and Unit 2 cover, how Paper 01, Paper 02 and the internal assessment fit together, and what private candidates sit instead. Each unit is a separate examination with its own modules, so it is worth mapping both on one page with your teen before the first set of notes is written.
 
                 ## Milestones
-                1. The current CAPE Accounting syllabus downloaded from the CXC website and saved where you study.
+                1. The current CAPE Accounting syllabus downloaded from the CXC website and saved where your teen studies.
                 2. The modules of Unit 1 and Unit 2 listed on one page, with their topics in syllabus order.
                 3. The format of Paper 01, Paper 02, the internal assessment (Paper 031) and Paper 032 noted for each unit, copied only from the official document.
-                4. The paper dates for the unit you are sitting this year taken from the current CXC timetable and written on the family calendar.
+                4. The paper dates for the unit your teen is sitting this year taken from the current CXC timetable and written on the family calendar.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CAPE Accounting, and an older student can follow it with a parent's support.
+
                 Textbooks passed down from older students often use pre-IFRS terms such as debtors, stock and balance sheet, and may follow an earlier syllabus. Tick each chapter against the current syllabus and mark anything added or dropped.
               priority: high
               deadlineOffsetDays: 7
@@ -45,15 +47,15 @@ starter_structure:
                 - "Download the current CAPE Accounting syllabus from the CXC website"
                 - "List the modules of each unit and their topics on one page in syllabus order"
                 - "Note the format of Paper 01, Paper 02, Paper 031 and Paper 032 for each unit"
-                - "Check the current CXC timetable and write your Accounting paper dates on the calendar"
+                - "Check the current CXC timetable and write the Accounting paper dates on the calendar"
                 - "Check the CXC website for Accounting syllabus amendments each September @recurring(yearly)"
             - name: Taking Unit 1, Unit 2 or both in one year
               description: |-
                 ## Purpose
-                Most schools teach Unit 1, Financial Accounting, in Lower Six and Unit 2, Cost and Management Accounting, in Upper Six, but some students sit both in one year or take only one to complete a scholarship profile or meet a programme requirement. Deciding early, with your school's offer and the entry rules for your intended degree in front of you, avoids registering for a unit you are not ready for.
+                Most schools teach Unit 1, Financial Accounting, in Lower Six and Unit 2, Cost and Management Accounting, in Upper Six, but some students sit both in one year or take only one to complete a scholarship profile or meet a programme requirement. Deciding early with your teen, with the school's offer and the entry rules for their intended degree in front of you both, avoids registering for a unit they are not ready for.
 
                 ## Milestones
-                1. The school's plan for which unit is taught in which year confirmed with your Accounting teacher.
+                1. The school's plan for which unit is taught in which year confirmed with the Accounting teacher.
                 2. The entry requirements of two intended degree programmes checked for whether they ask for one or both Accounting units.
                 3. A decision recorded in one paragraph with the reason for it.
                 4. The registration entry confirmed with the school before its deadline.
@@ -66,8 +68,8 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Ask your Accounting teacher which units the school offers in which year"
-                - "Check whether your intended degree asks for one or both Accounting units"
+                - "Ask your teen to check with their Accounting teacher which units are taught in which year"
+                - "Check whether their intended degree asks for one or both Accounting units"
                 - "Write down the decision and the reason in one paragraph"
                 - "Confirm the registration entry with the school before the deadline"
             - name: Bridging diagnostic from CSEC Principles of Accounts
@@ -78,11 +80,11 @@ starter_structure:
                 ## Milestones
                 1. Two CSEC Paper 02 questions on final accounts with adjustments answered in two hours without notes.
                 2. Both answers marked against the mark scheme, with lost marks listed by skill.
-                3. A list of three to five weak skills agreed with your teacher.
+                3. A list of three to five weak skills agreed with the teacher.
                 4. Each weak skill retaught and retested on a fresh question with an improved score.
 
                 ## Notes
-                Students who did not take CSEC Principles of Accounts should tell the teacher in week one. The double entry, adjustments and final accounts chapters of a CSEC textbook are the fastest catch-up.
+                Students who did not take CSEC Principles of Accounts should tell the teacher in week one, and you may want to mention it at the first parents' evening too. The double entry, adjustments and final accounts chapters of a CSEC textbook are the fastest catch-up.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -105,19 +107,19 @@ starter_structure:
                 1. A two-column glossary of older terms and their current IFRS equivalents.
                 2. Blank pro-forma income statements and statements of financial position for a sole trader, a partnership and a company.
                 3. Blank pro-formas for a statement of cash flows and a manufacturing account.
-                4. Every pro-forma checked by your teacher against a recent mark scheme layout.
+                4. Every pro-forma checked by the teacher against a recent mark scheme layout.
               priority: low
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A glossary and a teacher-checked pro-forma for every Unit 1 statement type sit at the front of your Accounting folder."
+                success_criteria: "A glossary and a teacher-checked pro-forma for every Unit 1 statement type sit at the front of the Accounting folder."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
                 - "Write a two-column list of older terms and the current IFRS terms"
                 - "Draw a blank pro-forma for each Unit 1 financial statement"
                 - "Compare each pro-forma with a recent mark scheme layout"
-                - "Ask your teacher to check the pro-formas and correct any heading"
+                - "Ask the teacher to check the pro-formas and correct any heading"
             - name: Two-year Accounting study timetable counted back from the sittings
               description: |-
                 ## Purpose
@@ -126,7 +128,7 @@ starter_structure:
                 ## Milestones
                 1. Each module given a block of weeks in syllabus order, counted back from the sitting.
                 2. Internal assessment deadlines, mock dates and school holidays marked on the same timetable.
-                3. Weekly Accounting study hours agreed with your parents and written on the timetable.
+                3. Weekly Accounting study hours agreed between you and your teen and written on the timetable.
                 4. The timetable compared with real progress at the start of every term.
               priority: high
               deadlineOffsetDays: 21
@@ -137,17 +139,17 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your school for the internal assessment and mock exam dates"
+                - "Ask the school for the internal assessment and mock exam dates"
                 - "Give each module a block of weeks counted back from the sitting"
-                - "Agree weekly Accounting study hours with your parents"
-                - "Review the timetable against your progress at the start of each term @recurring(quarterly)"
+                - "Agree weekly Accounting study hours together"
+                - "Review the timetable against real progress at the start of each term @recurring(quarterly)"
             - name: Past paper bank sorted by unit, module and question type
               description: |-
                 ## Purpose
-                Past papers are the closest thing to the real examination, but a folder of unsorted PDFs is hard to use for topic practice. Sorting every available Paper 01 and Paper 02 by unit and module, with mark schemes beside them, turns them into a bank you can draw on for each topic project in this area.
+                Past papers are the closest thing to the real examination, but a folder of unsorted PDFs is hard to use for topic practice. Sorting every available Paper 01 and Paper 02 by unit and module, with mark schemes beside them, turns them into a bank your teen can draw on for each topic project in this area. Buying the missing papers is an easy, practical way for you to help.
 
                 ## Milestones
-                1. Past papers gathered from the school, your teacher and the official CXC store.
+                1. Past papers gathered from the school, the teacher and the official CXC store.
                 2. Each Paper 02 question tagged with its unit, module and topic.
                 3. Mark schemes and subject reports filed beside the papers they belong to.
                 4. A tick column showing which questions have already been attempted.
@@ -158,14 +160,14 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A sorted bank lists every Paper 02 question you hold by unit, module and topic, with its mark scheme and an attempted column."
+                success_criteria: "A sorted bank lists every Paper 02 question held by unit, module and topic, with its mark scheme and an attempted column."
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "List the past papers the school library and your teacher already hold"
+                - "List the past papers the school library and the teacher already hold"
                 - "Buy any missing recent papers from the official CXC store"
                 - "Tag each Paper 02 question with its unit, module and topic"
-                - "Add a column to tick off the questions you have attempted"
+                - "Add a column to tick off the questions already attempted"
             - name: Accounting error log
               description: |-
                 ## Purpose
@@ -185,7 +187,7 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Set up an error log with columns for question, error type and the correction"
-                - "Define the five error types you will use every time"
+                - "Define the five error types to use every time"
                 - "Log every mark lost in this week's Accounting homework"
                 - "Count entries by type after a month and name the top three"
             - name: Daily fifteen-minute double-entry drill
@@ -215,7 +217,7 @@ starter_structure:
             - name: Midweek worked question from the current module
               description: |-
                 ## Purpose
-                Reading notes on partnership goodwill or process losses feels like learning but rarely survives a new question. One full Paper 02 question from the current module every Wednesday, done with notes open and then marked, turns each week's lessons into a worked example in your own hand.
+                Reading notes on partnership goodwill or process losses feels like learning but rarely survives a new question. One full Paper 02 question from the current module every Wednesday, done with notes open and then marked, turns each week's lessons into a worked example in your teen's own hand.
 
                 ## Milestones
                 1. A Wednesday study hour fixed in the timetable.
@@ -271,7 +273,7 @@ starter_structure:
                 success_criteria: "Three consecutive monthly multiple choice scores are recorded, each with its wrong answers traced to a topic."
                 cadence: rolling
               tasks:
-                - "Collect multiple choice items from past Paper 01s and your textbook"
+                - "Collect multiple choice items from past Paper 01s and the textbook"
                 - "Sit a timed multiple choice set from finished topics @recurring(monthly:9)"
                 - "Trace each wrong answer to its module and topic"
                 - "Reread the textbook section for the most missed topic"
@@ -299,13 +301,13 @@ starter_structure:
             - name: Accounting score log by module and paper
               description: |-
                 ## Purpose
-                Without numbers, it is hard to tell whether variance questions are improving or just feeling familiar. A log of every marked question and set, by module and paper, gives you, your parents and your teacher the same picture and shows where the next month's hours should go.
+                Without numbers, it is hard to tell whether variance questions are improving or just feeling familiar. A log of every marked question and set, by module and paper, gives you, your teen and their teacher the same picture and shows where the next month's hours should go.
 
                 ## Milestones
                 1. A log with columns for date, unit, module, paper, marks scored and marks available.
                 2. All marked homework, tests and timed questions entered.
                 3. A monthly average worked out for each module.
-                4. The weakest module named and shared with your teacher at each month end.
+                4. The weakest module named and shared with the teacher at each month end.
 
                 ## Notes
                 Start from the **Metrics log** template.
@@ -319,14 +321,14 @@ starter_structure:
                 - "Create a score log from the metrics log template"
                 - "Enter every marked question and test with its unit and module"
                 - "Work out the average percentage for each module @recurring(monthly:28)"
-                - "Tell your teacher which module is weakest this month"
+                - "Ask your teen to tell their teacher which module is weakest this month"
             - name: Parent monthly Accounting check-in
               description: |-
                 ## Purpose
-                Parents who never studied accounting can still help, not by teaching debits and credits but by asking the same few questions each month and noticing when the score log stalls. A fifteen-minute check-in on a fixed date keeps the student accountable and gives early warning if lessons or a word with the teacher are needed.
+                Parents who never studied accounting can still help, not by teaching debits and credits but by asking the same few questions each month and noticing when the score log stalls. A fifteen-minute check-in on a fixed date keeps your teen accountable and gives early warning if lessons or a word with the teacher are needed.
 
                 ## Milestones
-                1. A check-in date agreed with your child that avoids exam weeks.
+                1. A check-in date agreed with your teen that avoids exam weeks.
                 2. Four standard questions written down and used every month.
                 3. A short note kept of each check-in.
                 4. Any module that slips two months running raised with the teacher within two weeks.
@@ -337,7 +339,7 @@ starter_structure:
                 success_criteria: "A note exists for each monthly check-in, and any module slipping two months running has been raised with the teacher."
                 cadence: rolling
               tasks:
-                - "Agree a check-in date with your child that avoids exam weeks"
+                - "Agree a check-in date with your teen that avoids exam weeks"
                 - "Write four standard questions about scores, deadlines and stuck topics"
                 - "Hold the fifteen-minute Accounting check-in @recurring(monthly:3)"
                 - "Email the teacher if the same module slips two months running"
@@ -348,7 +350,7 @@ starter_structure:
 
                 ## Milestones
                 1. A one-page summary of each accounting concept with a local business example.
-                2. The qualitative characteristics of useful information explained in your own words.
+                2. The qualitative characteristics of useful information explained in plain words.
                 3. The roles of the international standard setter and your country's institute of chartered accountants summarised.
                 4. Three past-paper theory questions answered and marked.
               priority: medium
@@ -360,13 +362,13 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Summarise each accounting concept with a local business example"
-                - "Explain the qualitative characteristics of useful information in your own words"
+                - "Explain the qualitative characteristics of useful information in plain words"
                 - "Find out which body issues accounting standards guidance in your country"
                 - "Answer three past-paper theory questions and mark them"
             - name: Control accounts, bank reconciliations and suspense accounts
               description: |-
                 ## Purpose
-                Recording and control systems are where CAPE goes beyond CSEC: control accounts with contras and credit balances on the sales ledger, bank reconciliations that start from an adjusted cash book, and suspense accounts cleared by journal entries that also correct profit. Each is a common Paper 02 question and tests whether you understand why a figure is wrong, not just how to post it.
+                Recording and control systems are where CAPE goes beyond CSEC: control accounts with contras and credit balances on the sales ledger, bank reconciliations that start from an adjusted cash book, and suspense accounts cleared by journal entries that also correct profit. Each is a common Paper 02 question and tests whether a candidate understands why a figure is wrong, not just how to post it.
 
                 ## Milestones
                 1. Sales and purchases ledger control accounts prepared with contras and set-offs.
@@ -377,7 +379,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Three marked past-paper answers, one each on control accounts, bank reconciliation and suspense accounts, are filed in your folder."
+                success_criteria: "Three marked past-paper answers, one each on control accounts, bank reconciliation and suspense accounts, are filed in the Accounting folder."
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
@@ -505,7 +507,7 @@ starter_structure:
             - name: Partnership dissolution and realisation accounts
               description: |-
                 ## Purpose
-                When a partnership closes, the realisation account collects asset sales, liabilities paid and the costs of dissolution, and the result is shared before the partners' capital accounts are settled in cash. Questions sometimes add a partner who takes over an asset or one whose capital account ends in deficit, so follow the treatment your textbook and teacher use.
+                When a partnership closes, the realisation account collects asset sales, liabilities paid and the costs of dissolution, and the result is shared before the partners' capital accounts are settled in cash. Questions sometimes add a partner who takes over an asset or one whose capital account ends in deficit, so follow the treatment the textbook and teacher use.
 
                 ## Milestones
                 1. A realisation account prepared, including an asset taken over by a partner.
@@ -538,7 +540,7 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A complete set of company statements and a timed, marked past-paper company question are filed in your folder."
+                success_criteria: "A complete set of company statements and a timed, marked past-paper company question are filed in the Accounting folder."
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
@@ -571,11 +573,11 @@ starter_structure:
             - name: Ratio analysis across profitability, liquidity, efficiency and gearing
               description: |-
                 ## Purpose
-                Ratios are quick to calculate and easy to get wrong: a missing average, a percentage left as a decimal, or a formula from another textbook. A one-page formula sheet that matches your teacher's and the mark scheme's definitions, practised on two years of one company's figures, makes the calculations reliable before interpretation begins.
+                Ratios are quick to calculate and easy to get wrong: a missing average, a percentage left as a decimal, or a formula from another textbook. A one-page formula sheet that matches the teacher's and the mark scheme's definitions, practised on two years of one company's figures, makes the calculations reliable before interpretation begins.
 
                 ## Milestones
                 1. A formula sheet grouped into profitability, liquidity, efficiency, gearing and investor ratios.
-                2. Every formula checked against your teacher's definitions and a recent mark scheme.
+                2. Every formula checked against the teacher's definitions and a recent mark scheme.
                 3. All ratios calculated for two years of one company's statements.
                 4. A past-paper ratio question answered and marked.
               priority: medium
@@ -587,7 +589,7 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Write each ratio formula on one sheet grouped by type"
-                - "Confirm the definitions match your teacher's and the mark scheme's"
+                - "Confirm the definitions match the teacher's and the mark scheme's"
                 - "Calculate every ratio for two years of one company's statements"
                 - "Answer a past-paper ratio question and mark it"
             - name: Writing an interpretation of financial statements
@@ -708,7 +710,7 @@ starter_structure:
                 ## Milestones
                 1. Marginal and absorption costing income statements prepared for three periods.
                 2. The two profits reconciled through the fixed overhead in opening and closing inventory.
-                3. The arguments for each method listed in your own words.
+                3. The arguments for each method listed in plain words.
                 4. A past-paper marginal costing question answered and marked.
               priority: medium
               frontmatter:
@@ -840,7 +842,7 @@ starter_structure:
             - name: Standard costing and variance analysis
               description: |-
                 ## Purpose
-                Variance analysis splits the difference between budget and actual into material price and usage, labour rate and efficiency, overhead and sales variances, then asks what might have caused each. Marks come from the direction, favourable or adverse, and the explanation as much as from the arithmetic, so practise all three together.
+                Variance analysis splits the difference between budget and actual into material price and usage, labour rate and efficiency, overhead and sales variances, then asks what might have caused each. Marks come from the direction, favourable or adverse, and the explanation as much as from the arithmetic, so it pays to practise all three together.
 
                 ## Milestones
                 1. Material price and usage variances calculated from a standard cost card.
@@ -862,7 +864,7 @@ starter_structure:
             - name: Relevant costing for short-term decisions
               description: |-
                 ## Purpose
-                Decision questions test whether you can ignore sunk costs and allocated fixed overheads and keep only the cash flows that change: make or buy, accept a special order, drop a product line, or rank products under a limiting factor. Each answer also needs non-financial points, which is where weaker scripts stop short.
+                Decision questions test whether a candidate can ignore sunk costs and allocated fixed overheads and keep only the cash flows that change: make or buy, accept a special order, drop a product line, or rank products under a limiting factor. Each answer also needs non-financial points, which is where weaker scripts stop short.
 
                 ## Milestones
                 1. A make or buy case decided using relevant costs only.
@@ -906,39 +908,39 @@ starter_structure:
             - name: Accounting internal assessment requirements and dates
               description: |-
                 ## Purpose
-                Your internal assessment is a project your teacher marks and CXC moderates, and the current syllabus sets out what each unit's project must contain and how marks are allocated. Reading those requirements and the school's internal deadlines in the first month avoids choosing a business or topic that cannot meet the criteria.
+                The internal assessment is a project the teacher marks and CXC moderates, and the current syllabus sets out what each unit's project must contain and how marks are allocated. Reading those requirements and the school's internal deadlines with your teen in the first month avoids choosing a business or topic that cannot meet the criteria.
 
                 ## Milestones
-                1. The internal assessment section of the syllabus read for each unit you are sitting.
+                1. The internal assessment section of the syllabus read for each unit being sat.
                 2. The marking criteria listed exactly as the syllabus words them.
                 3. The school's draft and final submission dates written on the calendar.
-                4. Your teacher's guidance on suitable businesses and topics noted.
+                4. The teacher's guidance on suitable businesses and topics noted.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A one-page summary of the internal assessment criteria and the school's deadlines is pinned above your desk."
+                success_criteria: "A one-page summary of the internal assessment criteria and the school's deadlines is pinned above the study desk."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Read the internal assessment section of the syllabus for your unit"
+                - "Read the internal assessment section of the syllabus for the unit being sat"
                 - "List the marking criteria exactly as the syllabus words them"
                 - "Write the school's draft and final submission dates on the calendar"
-                - "Ask your teacher which businesses and topics past students used well"
+                - "Suggest your teen asks the teacher which businesses and topics past students used well"
             - name: Accounting internal assessment from business choice to submission
               description: |-
                 ## Purpose
-                A strong CAPE Accounting project rests on access to an organisation willing to share real figures, so the first decision is which business and who will provide the data. Working in stages with teacher sign-off at each, and keeping copies of every draft, stops the project collapsing in the final fortnight.
+                A strong CAPE Accounting project rests on access to an organisation willing to share real figures, so the first decision is which business and who will provide the data. Your own contacts may open a door here, but let your teen make the approach. Working in stages with teacher sign-off at each, and keeping copies of every draft, stops the project collapsing in the final fortnight.
 
                 ## Milestones
                 1. A business chosen and the owner's written permission to use its figures obtained.
                 2. The data collected and recorded in a working file.
-                3. A full draft submitted to your teacher and the feedback recorded.
+                3. A full draft submitted to the teacher and the feedback recorded.
                 4. The final project submitted by the school deadline with a copy kept.
 
                 ## Notes
-                Keep the owner's figures confidential and ask before naming the business. If you take both units in one year, plan the two projects so their drafts are not due in the same month.
+                Keep the owner's figures confidential and ask before naming the business. If your teen takes both units in one year, plan the two projects so their drafts are not due in the same month.
               priority: high
               deadlineOffsetDays: 150
               frontmatter:
@@ -948,14 +950,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "30"
               tasks:
-                - "Shortlist three businesses that could give you access to their records"
-                - "Ask the owner of your chosen business for written permission to use their figures"
-                - "Show your teacher your progress and record the feedback @recurring(monthly:22)"
+                - "Shortlist three businesses that could give access to their records"
+                - "Ask the owner of the chosen business for written permission to use their figures"
+                - "Check that progress has been shown to the teacher and the feedback recorded @recurring(monthly:22)"
                 - "Submit the final project by the school deadline and keep a copy"
             - name: Mark schemes, examiner reports and answer presentation
               description: |-
                 ## Purpose
-                CXC subject reports describe what candidates did well and where they lost marks, question by question, and mark schemes show how method marks are given for workings. Reading these alongside your own scripts, and agreeing a presentation standard of dated headings, labelled workings and ruled totals, turns them into specific changes in how you answer.
+                CXC subject reports describe what candidates did well and where they lost marks, question by question, and mark schemes show how method marks are given for workings. Reading these alongside their own scripts, and agreeing a presentation standard of dated headings, labelled workings and ruled totals, turns them into specific changes in how your teen answers.
 
                 ## Milestones
                 1. The last three CAPE Accounting subject reports read and annotated.
@@ -973,8 +975,8 @@ starter_structure:
                 - "Find the last three CAPE Accounting subject reports on the CXC website"
                 - "List the weaknesses the reports mention more than once"
                 - "Write a presentation checklist for headings, workings and totals"
-                - "Read one subject report section and compare it with your answers @recurring(monthly:12)"
-            - name: School mock exam for your Accounting unit
+                - "Read one subject report section and compare it with recent answers @recurring(monthly:12)"
+            - name: School mock exam for the Accounting unit
               description: |-
                 ## Purpose
                 The mock is the only full rehearsal before the real sitting, and its result often shapes predicted grades and where the final weeks go. Preparing for it as though it counts, then analysing every lost mark by module, gives a reliable starting point for the final revision plan.
@@ -994,8 +996,8 @@ starter_structure:
                 effort_hours_estimate: "20"
               tasks:
                 - "Confirm the mock dates and which papers are included"
-                - "Plan two weeks of revision from the weakest modules in your score log"
-                - "Ask for your marked mock script and the mark scheme"
+                - "Plan two weeks of revision from the weakest modules in the score log"
+                - "Ask for the marked mock script and the mark scheme"
                 - "List lost marks by module and pick three priorities for the final weeks"
             - name: Final eight weeks Accounting revision plan
               description: |-
@@ -1023,7 +1025,7 @@ starter_structure:
             - name: Last full past paper under exam conditions
               description: |-
                 ## Purpose
-                About two weeks before the sitting, one full Paper 01 and Paper 02 under exact timing, at a desk, with only the permitted calculator, tells you whether your pacing plan works. It also leaves enough time to fix one last issue without cramming.
+                About two weeks before the sitting, one full Paper 01 and Paper 02 under exact timing, at a desk, with only the permitted calculator, shows whether the pacing plan works. It also leaves enough time to fix one last issue without cramming, and you can help by keeping the house quiet for those hours.
 
                 ## Milestones
                 1. The most recent unattempted past paper set aside.
@@ -1039,7 +1041,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Choose the most recent past paper you have not yet attempted"
+                - "Choose the most recent past paper not yet attempted"
                 - "Sit Paper 01 and Paper 02 under exact timing at one desk"
                 - "Mark both papers strictly with the mark scheme"
                 - "Fix the single largest problem the paper showed"
@@ -1069,12 +1071,12 @@ starter_structure:
             - name: Choosing an Accounting lessons class or tutor
               description: |-
                 ## Purpose
-                Many families pay for lessons in Upper Six without checking whether the tutor teaches the current CAPE syllabus, marks written work or knows Unit 2 costing as well as Unit 1. Comparing two or three options against the student's score log and weakest modules makes the money count.
+                Many families pay for lessons in Upper Six without checking whether the tutor teaches the current CAPE syllabus, marks written work or knows Unit 2 costing as well as Unit 1. Comparing two or three options against your teen's score log and weakest modules makes the money count.
 
                 ## Milestones
                 1. The two weakest modules named from the score log before any tutor is contacted.
                 2. Two or three options shortlisted with fees, schedule and the syllabus they teach.
-                3. One trial lesson attended and the student's view recorded.
+                3. One trial lesson attended and your teen's view recorded.
                 4. A choice made and reviewed against the score log after one month.
               priority: medium
               deadlineOffsetDays: 35
@@ -1087,12 +1089,12 @@ starter_structure:
               tasks:
                 - "Name the two weakest modules from the score log before contacting tutors"
                 - "Ask each tutor which syllabus and past papers they use"
-                - "Book one trial lesson and ask the student for an honest view"
+                - "Book one trial lesson and ask your teen for an honest view"
                 - "Ask the tutor for a short progress note on those modules @recurring(monthly:25)"
             - name: Paper 032 route for private and repeat candidates
               description: |-
                 ## Purpose
-                Private candidates, including adults and students resitting after school, sit Paper 032 instead of the internal assessment and register through the local registrar or Ministry of Education office. Studying without a class means building your own structure: confirming registration, getting the syllabus and specimen papers, and sitting timed papers every month.
+                Private candidates, including adults and students resitting after school, sit Paper 032 instead of the internal assessment and register through the local registrar or Ministry of Education office. Studying without a class means the candidate, or a parent backing a teenage candidate, has to build the structure: confirming registration, getting the syllabus and specimen papers, and sitting timed papers every month.
 
                 ## Milestones
                 1. Registration dates and fees confirmed with the local registrar.
@@ -1115,7 +1117,7 @@ starter_structure:
             - name: Teacher module test bank and marking calendar
               description: |-
                 ## Purpose
-                For a CAPE Accounting teacher or lessons tutor, a bank of module tests built from past papers, with mark schemes and a fixed marking calendar, saves time every year and gives students results they can act on. Tracking class averages by module also shows which topics need reteaching before the mock.
+                For a CAPE Accounting teacher or lessons tutor, a bank of module tests built from past papers, with mark schemes and a fixed marking calendar, saves time every year and gives students results they can act on. Tracking class averages by module also shows which topics need reteaching before the mock. If your teen has a lessons tutor, this project is worth sharing with them.
 
                 ## Milestones
                 1. One test per module for each unit, built from past Paper 02 questions.
@@ -1136,13 +1138,13 @@ starter_structure:
             - name: CAPE Accounting as a route to professional qualifications
               description: |-
                 ## Purpose
-                Strong CAPE Accounting results can lead to accounting and finance degrees and to professional routes such as ACCA or a CPA qualification, and some bodies consider prior study when setting entry points. Finding out what each route requires, and talking to a qualified accountant, helps a student decide early whether to take both units and how hard to push Unit 2.
+                Strong CAPE Accounting results can lead to accounting and finance degrees and to professional routes such as ACCA or a CPA qualification, and some bodies consider prior study when setting entry points. Finding out what each route requires, and talking to a qualified accountant, helps a student decide early whether to take both units and how hard to push Unit 2. If you know an accountant, offering an introduction is a real help.
 
                 ## Milestones
                 1. The accounting degrees and professional routes open in your country listed.
                 2. Entry rules and any exemptions checked on each body's official website.
                 3. A conversation held with a qualified accountant about their route and first job.
-                4. A short note written on which route suits you and why.
+                4. A short note written on which route suits your teen and why.
               priority: low
               frontmatter:
                 mode: research
@@ -1154,11 +1156,11 @@ starter_structure:
                 - "List the accounting degrees and professional routes open in your country"
                 - "Check each body's official website for entry rules and any exemptions"
                 - "Ask a qualified accountant about their route and their first job"
-                - "Write a short note on which route suits you and why"
+                - "Ask your teen to write a short note on which route suits them and why"
 ---
 
 # CAPE Accounting
 
-This area is for a Lower Six or Upper Six student taking CAPE Accounting, and for the parents, teachers and lessons tutors behind them. It opens with the foundations (the current syllabus, a choice of units, a bridging check from CSEC Principles of Accounts, IFRS terms and pro-forma layouts, a two-year timetable, a sorted past paper bank and an error log), then the weekly practice machinery, then one project per topic in syllabus order through Unit 1 Financial Accounting and Unit 2 Cost and Management Accounting, each ending on past-paper questions. After those come the internal assessment, examiner reports, the mock, the final weeks and exam days, and projects for parents choosing lessons, private candidates, teachers and students looking ahead to the profession.
+This area is for the parent or guardian of a Lower Six or Upper Six student taking CAPE Accounting, with projects that teachers and lessons tutors can use too. It opens with the foundations (the current syllabus, a choice of units, a bridging check from CSEC Principles of Accounts, IFRS terms and pro-forma layouts, a two-year timetable, a sorted past paper bank and an error log), then the weekly practice machinery, then one project per topic in syllabus order through Unit 1 Financial Accounting and Unit 2 Cost and Management Accounting, each ending on past-paper questions. After those come the internal assessment, examiner reports, the mock, the final weeks and exam days, and projects for parents choosing lessons, private candidates, teachers and students looking ahead to the profession.
 
-What repeats is a daily double-entry drill, a Wednesday worked question, a Saturday timed Paper 02 question, a Sunday error log review, monthly multiple choice sets, score summaries, annual report reading and examiner report reading, and a monthly parent check-in. The Habit tracker and Metrics log templates pair with the drill and the score log. Deadlines assume roughly eight months to the May to June sitting, so shift them once CXC publishes the timetable and your school sets its internal assessment dates. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is your teen's daily double-entry drill, a Wednesday worked question, a Saturday timed Paper 02 question, a Sunday error log review, monthly multiple choice sets, score summaries, annual report reading and examiner report reading, and a monthly check-in between the two of you. The Habit tracker and Metrics log templates pair with the drill and the score log. Deadlines assume roughly eight months to the May to June sitting, so shift them once CXC publishes the timetable and the school sets its internal assessment dates. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-economics
 name: CSEC Economics
-description: "A complete CSEC Economics plan: the current syllabus and papers, weekly routines, every topic from scarcity and markets to money, government and Caribbean trade, the SBA, data questions, the mock, exam day and results."
+description: "A CSEC Economics plan for parents and guardians supporting a teenager: the current syllabus and papers, weekly routines, every topic from scarcity to Caribbean trade, the SBA, data questions, the mock, exam day and results."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-economics, student, parent, educator, cxc, csec, economics]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,15 +25,17 @@ starter_structure:
             - name: Current CSEC Economics syllabus and paper format check
               description: |-
                 ## Purpose
-                CSEC Economics is examined through a multiple-choice Paper 01, a written Paper 02 with structured and data questions, and either the school-based assessment as Paper 031 or an alternative paper for private candidates, but the details change between syllabus editions. One evening with the current syllabus from the CXC website means every later project aims at the exam you will actually sit, not the one in an older sibling's notes.
+                CSEC Economics is examined through a multiple-choice Paper 01, a written Paper 02 with structured and data questions, and either the school-based assessment as Paper 031 or an alternative paper for private candidates, but the details change between syllabus editions. One evening with your teen and the current syllabus from the CXC website means every later project aims at the exam they will actually sit, not the one in an older sibling's notes.
 
                 ## Milestones
                 1. The current CSEC Economics syllabus downloaded from the CXC website and its edition year noted.
                 2. The format of Paper 01, Paper 02 and Paper 031 or 032 written on one page in the syllabus's own words.
                 3. The syllabus sections and their specific objectives listed, so each topic project in this area can be matched to one.
-                4. The May to June sitting confirmed with your school and the Economics date noted once the timetable is published.
+                4. The May to June sitting confirmed with the school and the Economics date noted once the timetable is published.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CSEC Economics, and an older student can follow it with a parent's support.
+
                 Revision guides and old handouts can lag a syllabus change by years. Where they disagree with the CXC document, the CXC document wins.
               priority: high
               deadlineOffsetDays: 10
@@ -46,12 +48,12 @@ starter_structure:
               tasks:
                 - "Check the current syllabus and timetable on the CXC website and note the paper format"
                 - "List the syllabus sections and their objectives on one page"
-                - "Ask your Economics teacher which sitting and paper options the school enters you for"
+                - "Ask the Economics teacher which sitting and paper options the school enters your teen for"
                 - "Recheck the CXC Economics syllabus page for amendments @recurring(yearly)"
-            - name: Diagnostic Economics past paper to find your starting point
+            - name: Diagnostic Economics past paper to find the starting point
               description: |-
                 ## Purpose
-                Most students start CSEC Economics knowing more than they think from shopping, family businesses and the news, but with gaps in diagrams, definitions and calculations. Sitting one past Paper 01 early, untimed, and sorting every wrong answer by syllabus section shows where to spend the first term instead of guessing.
+                Most teenagers start CSEC Economics knowing more than they think from shopping, family businesses and the news, but with gaps in diagrams, definitions and calculations. Having your teen sit one past Paper 01 early, untimed, and then sorting every wrong answer by syllabus section together shows where to spend the first term instead of guessing.
 
                 ## Milestones
                 1. One past or specimen Paper 01 completed without notes.
@@ -60,7 +62,7 @@ starter_structure:
                 4. The three weakest sections named and moved to the front of the study plan.
 
                 ## Notes
-                Start from the **Skills matrix** template, with syllabus sections as rows and confidence as the score. A low first score is useful information, not a verdict.
+                Start from the **Skills matrix** template, with syllabus sections as rows and confidence as the score. A low first score is useful information, not a verdict, and it helps to tell your teen so.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -70,17 +72,17 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Get one past or specimen Paper 01 from your teacher or the CXC store"
+                - "Get one past or specimen Paper 01 from the teacher or the CXC store"
                 - "Sit the paper without notes and mark it with the answer key"
                 - "Tag each wrong answer with its syllabus section"
                 - "Rate every section from one to five in a skills matrix"
             - name: Two-year CSEC Economics study plan
               description: |-
                 ## Purpose
-                Economics is usually taught over fourth and fifth form, and the SBA, the mock and the final revision all crowd into the second year. Laying the syllabus sections across the school terms, with the SBA milestones and mock marked, shows from the start whether the pace leaves time for revision or needs extra hours.
+                Economics is usually taught over fourth and fifth form, and the SBA, the mock and the final revision all crowd into the second year. Laying the syllabus sections across the school terms with your teen, with the SBA milestones and mock marked, shows from the start whether the pace leaves time for revision or needs extra hours.
 
                 ## Milestones
-                1. Each syllabus section placed in a term, following your school's scheme of work.
+                1. Each syllabus section placed in a term, following the school's scheme of work.
                 2. SBA topic approval, data collection and submission dates marked on the plan.
                 3. The mock exam and the final eight weeks of revision blocked out.
                 4. The plan reviewed at the start of each month and adjusted for any section that slipped.
@@ -93,25 +95,25 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for the scheme of work showing which sections come each term"
+                - "Ask the teacher for the scheme of work showing which sections come each term"
                 - "Place each syllabus section in a term on a single page plan"
                 - "Mark the SBA deadlines and mock week on the plan"
                 - "Compare progress with the plan and move any slipped section @recurring(monthly:1)"
             - name: Economics notebook, glossary and diagram kit
               description: |-
                 ## Purpose
-                Economics answers lose marks to messy diagrams and fuzzy definitions far more often than to missing ideas. A notebook organised by syllabus section, a glossary at the back and a small kit of graph paper, a ruler and two colours of pen makes every later topic quicker to learn and easier to revise.
+                Economics answers lose marks to messy diagrams and fuzzy definitions far more often than to missing ideas. A notebook organised by syllabus section, a glossary at the back and a small kit of graph paper, a ruler and two colours of pen makes every later topic quicker to learn and easier to revise, and the kit is an easy, practical way for a parent to help.
 
                 ## Milestones
                 1. A notebook or folder divided by syllabus section.
                 2. A glossary section at the back with space for at least 150 terms.
                 3. A diagram kit of graph paper, a 30 cm ruler, sharp pencils and two colours ready.
-                4. The first ten definitions written in the glossary from your teacher's notes.
+                4. The first ten definitions written in the glossary from the teacher's notes.
               priority: low
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A section-divided Economics notebook with a started glossary and a complete diagram kit is in your school bag."
+                success_criteria: "A section-divided Economics notebook with a started glossary and a complete diagram kit is in your teen's school bag."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
@@ -128,7 +130,7 @@ starter_structure:
                 1. The command words used in the syllabus listed with a one-line meaning for each.
                 2. Three past mark schemes read to see how points, development and examples are credited.
                 3. One answer written for each of define, explain, distinguish and discuss.
-                4. Those answers marked by your teacher or against the scheme, with the lesson noted.
+                4. Those answers marked by the teacher or against the scheme, with the lesson noted.
               priority: medium
               deadlineOffsetDays: 45
               frontmatter:
@@ -151,10 +153,10 @@ starter_structure:
                 1. A diagram bank page listing every diagram named in the syllabus.
                 2. Each diagram drawn once from a textbook with axes, curves, equilibrium and arrows labelled.
                 3. Each diagram redrawn from memory in under two minutes.
-                4. Five diagrams checked by your teacher with any labelling habit corrected.
+                4. Five diagrams checked by the teacher with any labelling habit corrected.
 
                 ## Notes
-                Label axes with words, not just P and Q, until your teacher confirms the shorthand is acceptable. Draw shifts with a new curve and an arrow, never by rubbing out the old one.
+                Label axes with words, not just P and Q, until the teacher confirms the shorthand is acceptable. Draw shifts with a new curve and an arrow, never by rubbing out the old one.
               priority: medium
               frontmatter:
                 mode: learning
@@ -166,7 +168,7 @@ starter_structure:
                 - "List every diagram the syllabus expects on one page"
                 - "Draw each diagram once from the textbook with full labels"
                 - "Redraw three diagrams from memory against a two-minute timer"
-                - "Hand five diagrams to your teacher for a labelling check"
+                - "Hand five diagrams to the teacher for a labelling check"
             - name: Percentages, index numbers and averages for Economics
               description: |-
                 ## Purpose
@@ -192,16 +194,16 @@ starter_structure:
             - name: Weekly CSEC Economics study sessions
               description: |-
                 ## Purpose
-                Economics builds on itself: elasticity needs demand and supply, and fiscal policy needs national income. Two fixed sessions a week, one to consolidate the week's class and one to revisit an older section, keep the chain intact and stop the subject becoming a cram in fifth form.
+                Economics builds on itself: elasticity needs demand and supply, and fiscal policy needs national income. Two fixed sessions a week, agreed with your teen, one to consolidate the week's class and one to revisit an older section, keep the chain intact and stop the subject becoming a cram in fifth form.
 
                 ## Milestones
-                1. Two study sessions a week fixed in your timetable at the same times.
+                1. Two study sessions a week fixed in the family's weekly timetable at the same times.
                 2. Each session ending with a short written summary or diagram in the notebook.
                 3. One older section revisited every week alongside current classwork.
                 4. A full term of sessions kept with no more than two missed.
 
                 ## Notes
-                Forty-five focused minutes beats two distracted hours. Phone in another room.
+                Forty-five focused minutes beats two distracted hours. Agree that the phone stays in another room.
               priority: high
               frontmatter:
                 mode: operating
@@ -209,14 +211,14 @@ starter_structure:
                 success_criteria: "Two Economics study sessions a week have been logged for a full term with no more than two missed."
                 cadence: rolling
               tasks:
-                - "Choose two fixed weekly times for Economics study"
+                - "Agree two fixed weekly times for Economics study with your teen"
                 - "Hold an Economics study session with a written summary at the end @recurring(weekly:tue,sat)"
                 - "Pick one older syllabus section to revisit each week"
-                - "Write down the misconception you corrected this month and how @recurring(monthly:28)"
+                - "Ask your teen which misconception they corrected this month and how @recurring(monthly:28)"
             - name: Economics definitions and spaced recall cards
               description: |-
                 ## Purpose
-                Definitions earn quick marks in Paper 01 and open most Paper 02 answers, and examiners expect precise wording for terms like opportunity cost, price elasticity and balance of payments. Ten minutes a day with cards that come back more often when you get them wrong turns the glossary into recall you can rely on under pressure.
+                Definitions earn quick marks in Paper 01 and open most Paper 02 answers, and examiners expect precise wording for terms like opportunity cost, price elasticity and balance of payments. Ten minutes a day with cards that come back more often when they are missed turns the glossary into recall your teen can rely on under pressure. Offering to quiz them once a week is an easy way to help.
 
                 ## Milestones
                 1. A card deck, paper or app, with one term per card and the textbook definition on the back.
@@ -233,7 +235,7 @@ starter_structure:
                 success_criteria: "The definition deck covers every syllabus section and a full review scores at least 90 percent before the mock."
                 cadence: rolling
               tasks:
-                - "Make cards for the first twenty terms in your glossary"
+                - "Make cards for the first twenty terms in the glossary"
                 - "Review due definition cards for ten minutes @recurring(daily)"
                 - "Add the week's new terms to the deck @recurring(weekly:wed)"
                 - "Move any card missed three times onto a short problem list"
@@ -285,7 +287,7 @@ starter_structure:
             - name: Caribbean economy news and data file
               description: |-
                 ## Purpose
-                Examiners reward answers that use real Caribbean examples: a fuel price rise, a central bank rate decision, a budget measure, tourist arrivals after a hurricane. Clipping one economics story a week and noting the syllabus topic it fits builds a bank of examples for Paper 02 and ideas for the SBA.
+                Examiners reward answers that use real Caribbean examples: a fuel price rise, a central bank rate decision, a budget measure, tourist arrivals after a hurricane. Clipping one economics story a week, perhaps from the paper or news site the family already reads, and noting the syllabus topic it fits builds a bank of examples for Paper 02 and ideas for the SBA.
 
                 ## Milestones
                 1. A news file, paper or digital, with a column for the syllabus topic.
@@ -306,10 +308,10 @@ starter_structure:
                 - "Clip one economics news story and note its syllabus topic @recurring(weekly:sun)"
                 - "Check the central bank's latest press release or report @recurring(monthly:3)"
                 - "Mark which syllabus sections still have no example"
-            - name: Termly progress review with your Economics teacher
+            - name: Termly progress review with the Economics teacher
               description: |-
                 ## Purpose
-                Teachers see test marks, SBA progress and class answers that a student often does not, and a short conversation each term catches problems while there is still time. Bringing your Paper 01 log, a marked Paper 02 answer and two specific questions makes ten minutes far more useful.
+                Teachers see test marks, SBA progress and class answers that a parent often does not, and a short conversation each term catches problems while there is still time. Agreeing with your teen to bring their Paper 01 log, a marked Paper 02 answer and two specific questions makes ten minutes far more useful. Let your teen lead the conversation where they can, with you there to listen and follow up.
 
                 ## Milestones
                 1. One short review held each term.
@@ -326,9 +328,9 @@ starter_structure:
                 success_criteria: "A review note exists for each term with the teacher's advice and one agreed action marked done or carried over."
                 cadence: cyclic
               tasks:
-                - "Write two specific questions to ask your Economics teacher"
-                - "Book a short progress review with your Economics teacher @recurring(quarterly)"
-                - "Bring your score log and one marked answer to the review"
+                - "Help your teen write two specific questions for the Economics teacher"
+                - "Book a short progress review with the Economics teacher @recurring(quarterly)"
+                - "Bring the score log and one marked answer to the review"
                 - "Write down the one action agreed for this term"
             - name: Scarcity, choice and opportunity cost
               description: |-
@@ -348,8 +350,8 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Write definitions of scarcity, choice and opportunity cost from your textbook"
-                - "Describe one opportunity cost decision from your own week"
+                - "Write definitions of scarcity, choice and opportunity cost from the textbook"
+                - "Together, describe one opportunity cost decision from the family's week"
                 - "Write a government opportunity cost example from a recent budget"
                 - "Answer five past-paper questions on scarcity and choice"
             - name: Production possibility curves and what shifts them
@@ -377,7 +379,7 @@ starter_structure:
             - name: Economic systems and the mixed Caribbean economy
               description: |-
                 ## Purpose
-                Traditional, market, planned and mixed economies answer the questions of what, how and for whom to produce in different ways, and the syllabus expects you to compare their strengths and weaknesses. Most Caribbean countries run mixed economies, so examples of state-owned utilities beside private supermarkets and hotels make the comparison concrete.
+                Traditional, market, planned and mixed economies answer the questions of what, how and for whom to produce in different ways, and the syllabus expects candidates to compare their strengths and weaknesses. Most Caribbean countries run mixed economies, so examples of state-owned utilities beside private supermarkets and hotels, the kind you can point out on a drive through town, make the comparison concrete.
 
                 ## Milestones
                 1. The three basic economic questions written and explained.
@@ -399,7 +401,7 @@ starter_structure:
             - name: Factors of production and their rewards
               description: |-
                 ## Purpose
-                Land, labour, capital and entrepreneurship each earn a reward, and questions often ask you to classify a resource, name its reward or explain why labour moves between jobs and countries. Tying the factors to Caribbean industries, from bauxite and oil to tourism and agriculture, gives you examples that examiners recognise immediately.
+                Land, labour, capital and entrepreneurship each earn a reward, and questions often ask candidates to classify a resource, name its reward or explain why labour moves between jobs and countries. Tying the factors to Caribbean industries, from bauxite and oil to tourism and agriculture, gives your teen examples that examiners recognise immediately.
 
                 ## Milestones
                 1. Each factor of production defined with its reward of rent, wages, interest or profit.
@@ -421,7 +423,7 @@ starter_structure:
             - name: Division of labour, specialisation and economies of scale
               description: |-
                 ## Purpose
-                Why a garment factory splits work into small tasks, why a large supermarket chain can undercut a corner shop, and why small island firms struggle to reach the same scale all come from this topic. Understanding internal and external economies of scale, and the diseconomies that follow, also prepares you for the costs topic that comes next.
+                Why a garment factory splits work into small tasks, why a large supermarket chain can undercut a corner shop, and why small island firms struggle to reach the same scale all come from this topic. Understanding internal and external economies of scale, and the diseconomies that follow, also prepares your teen for the costs topic that comes next.
 
                 ## Milestones
                 1. Division of labour and specialisation defined with advantages and disadvantages.
@@ -443,7 +445,7 @@ starter_structure:
             - name: Costs, revenue and profit of the firm
               description: |-
                 ## Purpose
-                Fixed, variable, total, average and marginal costs, together with total and average revenue, are where Economics becomes numerical, and questions often hand you a table to complete. Practising the formulas on small tables until they are automatic makes these some of the safest marks on the paper.
+                Fixed, variable, total, average and marginal costs, together with total and average revenue, are where Economics becomes numerical, and questions often hand candidates a table to complete. Practising the formulas on small tables until they are automatic makes these some of the safest marks on the paper.
 
                 ## Milestones
                 1. Each cost and revenue term defined with its formula on one page.
@@ -559,7 +561,7 @@ starter_structure:
             - name: Market structures from perfect competition to monopoly
               description: |-
                 ## Purpose
-                Perfect competition, monopolistic competition, oligopoly and monopoly differ in the number of firms, barriers to entry and control over price, and questions often ask you to classify a real market. The Caribbean has clear examples of each, from vendors in a public market to a single electricity company or a small group of mobile phone providers.
+                Perfect competition, monopolistic competition, oligopoly and monopoly differ in the number of firms, barriers to entry and control over price, and questions often ask candidates to classify a real market. The Caribbean has clear examples of each, from vendors in a public market to a single electricity company or a small group of mobile phone providers.
 
                 ## Milestones
                 1. A table comparing the four structures by number of firms, product, barriers and price control.
@@ -581,7 +583,7 @@ starter_structure:
             - name: Market failure, externalities and public goods
               description: |-
                 ## Purpose
-                Markets do not always produce the right amount of everything: a quarry dusts a village, nobody can charge for a street light, and too few people pay for vaccinations on their own. Learning externalities, public goods, merit and demerit goods and the ways governments respond gives you material for evaluation answers and often for the SBA.
+                Markets do not always produce the right amount of everything: a quarry dusts a village, nobody can charge for a street light, and too few people pay for vaccinations on their own. Learning externalities, public goods, merit and demerit goods and the ways governments respond gives your teen material for evaluation answers and often for the SBA.
 
                 ## Milestones
                 1. Market failure, negative and positive externalities defined with Caribbean examples.
@@ -596,7 +598,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Write two negative and two positive externalities from your community"
+                - "Write two negative and two positive externalities from the local community"
                 - "Explain why street lighting is a public good"
                 - "List three government responses to market failure with an example each"
                 - "Answer four past-paper questions on market failure"
@@ -625,7 +627,7 @@ starter_structure:
             - name: Commercial banks, credit unions and other financial institutions
               description: |-
                 ## Purpose
-                Commercial banks, credit unions, insurance companies, building societies and the stock exchange all move savings to borrowers, and the syllabus expects you to compare their roles. Understanding how commercial banks create credit, and why credit unions are so widespread in the region, gives you clear explanations and local examples.
+                Commercial banks, credit unions, insurance companies, building societies and the stock exchange all move savings to borrowers, and the syllabus expects candidates to compare their roles. Understanding how commercial banks create credit, and why credit unions are so widespread in the region, gives your teen clear explanations and local examples. If the family belongs to a credit union, a short chat about how it works is a ready-made example.
 
                 ## Milestones
                 1. The functions of commercial banks listed and explained.
@@ -647,12 +649,12 @@ starter_structure:
             - name: The central bank and monetary policy
               description: |-
                 ## Purpose
-                Every Caribbean country has a central bank or shares one, as the Eastern Caribbean currency union does, and its decisions on interest rates and reserves affect prices, borrowing and the exchange rate. Learning the functions of a central bank and the tools of monetary policy, with a recent decision from your own central bank, makes this topic concrete.
+                Every Caribbean country has a central bank or shares one, as the Eastern Caribbean currency union does, and its decisions on interest rates and reserves affect prices, borrowing and the exchange rate. Learning the functions of a central bank and the tools of monetary policy, with a recent decision from the local central bank, makes this topic concrete.
 
                 ## Milestones
                 1. The functions of a central bank listed and explained.
                 2. The main monetary policy tools explained with the effect of each on lending.
-                3. A recent decision by your central bank summarised in three sentences.
+                3. A recent decision by the local central bank summarised in three sentences.
                 4. Four past-paper questions on central banking answered and marked.
               priority: medium
               frontmatter:
@@ -664,7 +666,7 @@ starter_structure:
               tasks:
                 - "List the functions of a central bank"
                 - "Explain how a reserve requirement change affects bank lending"
-                - "Summarise a recent press release from your central bank"
+                - "Summarise a recent press release from the local central bank"
                 - "Answer four past-paper questions on central banking"
             - name: National income, GDP and per capita measures
               description: |-
@@ -716,7 +718,7 @@ starter_structure:
             - name: Unemployment types, measurement and causes
               description: |-
                 ## Purpose
-                Frictional, structural, seasonal and cyclical unemployment all have clear Caribbean examples: tourism workers laid off in the slow season, sugar workers after a factory closes, graduates searching for a first job. Knowing how the unemployment rate is calculated, its costs and the policies that reduce it prepares you for both calculation and discussion questions.
+                Frictional, structural, seasonal and cyclical unemployment all have clear Caribbean examples: tourism workers laid off in the slow season, sugar workers after a factory closes, graduates searching for a first job. Knowing how the unemployment rate is calculated, its costs and the policies that reduce it prepares your teen for both calculation and discussion questions.
 
                 ## Milestones
                 1. The labour force and the unemployment rate defined with the formula.
@@ -739,7 +741,7 @@ starter_structure:
             - name: Taxation, government spending and fiscal policy
               description: |-
                 ## Purpose
-                Budget day in your country is a live lesson in this topic: new taxes, spending plans, the deficit and the debt. Learning direct and indirect taxes, progressive and regressive systems, the reasons for government spending and how fiscal policy is used against inflation and unemployment links several syllabus sections together.
+                Budget day is a live lesson in this topic: new taxes, spending plans, the deficit and the debt, and following the coverage together is time well spent. Learning direct and indirect taxes, progressive and regressive systems, the reasons for government spending and how fiscal policy is used against inflation and unemployment links several syllabus sections together.
 
                 ## Milestones
                 1. Direct and indirect taxes distinguished with local examples such as income tax and VAT.
@@ -762,7 +764,7 @@ starter_structure:
             - name: Economic growth, development and sustainability
               description: |-
                 ## Purpose
-                Growth is a rise in output, while development is about health, education and choices, and examiners expect you to keep them apart. Small island states add their own challenges, from hurricanes and climate change to dependence on a few exports, so this topic rewards answers that use indicators such as the Human Development Index alongside real Caribbean conditions.
+                Growth is a rise in output, while development is about health, education and choices, and examiners expect candidates to keep them apart. Small island states add their own challenges, from hurricanes and climate change to dependence on a few exports, so this topic rewards answers that use indicators such as the Human Development Index alongside real Caribbean conditions.
 
                 ## Milestones
                 1. Economic growth and economic development distinguished in writing.
@@ -785,7 +787,7 @@ starter_structure:
             - name: International trade, comparative advantage and protection
               description: |-
                 ## Purpose
-                Small economies cannot produce everything, which makes trade central to Caribbean life, from oil and gas exports to imported flour and cars. Learning absolute and comparative advantage with a worked example, the terms of trade, and the tools of protection such as tariffs, quotas and embargoes gives you both calculation and argument marks.
+                Small economies cannot produce everything, which makes trade central to Caribbean life, from oil and gas exports to imported flour and cars. Learning absolute and comparative advantage with a worked example, the terms of trade, and the tools of protection such as tariffs, quotas and embargoes gives your teen both calculation and argument marks.
 
                 ## Milestones
                 1. Absolute and comparative advantage shown with a two-country worked example.
@@ -831,7 +833,7 @@ starter_structure:
             - name: CARICOM, the CSME and regional integration
               description: |-
                 ## Purpose
-                Regional integration is the most Caribbean part of the syllabus, from CARIFTA to CARICOM, the Caribbean Single Market and Economy and the OECS. Knowing the stages of integration, the benefits and the obstacles that have slowed progress lets you write balanced answers with real names and examples.
+                Regional integration is the most Caribbean part of the syllabus, from CARIFTA to CARICOM, the Caribbean Single Market and Economy and the OECS. Knowing the stages of integration, the benefits and the obstacles that have slowed progress lets your teen write balanced answers with real names and examples.
 
                 ## Milestones
                 1. The stages of integration, from free trade area to economic union, explained in order.
@@ -854,7 +856,7 @@ starter_structure:
             - name: Tourism, remittances, debt and globalisation in the Caribbean
               description: |-
                 ## Purpose
-                Questions on the Caribbean in the global economy ask about dependence on tourism, the role of remittances from the diaspora, borrowing from international institutions and the effects of globalisation on small producers. Gathering current figures and one case study for each lets you write answers that sound informed rather than general.
+                Questions on the Caribbean in the global economy ask about dependence on tourism, the role of remittances from the diaspora, borrowing from international institutions and the effects of globalisation on small producers. Gathering current figures and one case study for each lets your teen write answers that sound informed rather than general.
 
                 ## Milestones
                 1. The roles of the WTO, IMF and World Bank summarised in a sentence each.
@@ -877,42 +879,42 @@ starter_structure:
             - name: Choosing an Economics SBA topic and research question
               description: |-
                 ## Purpose
-                The SBA rewards a focused question about a real economic issue you can actually collect data on, such as the effect of rising food prices on households in your village or why vendors in a market charge similar prices. Picking a narrow, testable question early, and getting it approved, saves weeks of rework later.
+                The SBA rewards a focused question about a real economic issue your teen can actually collect data on, such as the effect of rising food prices on households in the village or why vendors in a market charge similar prices. Helping them pick a narrow, testable question early, and get it approved, saves weeks of rework later. The topic and the work must stay their own.
 
                 ## Milestones
                 1. The SBA guidelines and marking criteria in the current syllabus read and summarised.
                 2. Three possible topics written, each linked to a syllabus section.
                 3. One topic chosen with a clear research question and a data source.
-                4. The topic and question approved by your teacher in writing.
+                4. The topic and question approved by the teacher in writing.
 
                 ## Notes
-                Your teacher decides whether the SBA is individual or group work and sets the school deadlines, which come well before the CXC date. Check the requirements in the syllabus rather than relying on an older student's SBA.
+                The teacher decides whether the SBA is individual or group work and sets the school deadlines, which come well before the CXC date. Check the requirements in the syllabus rather than relying on an older student's SBA.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "An SBA research question linked to a syllabus section has been approved by your teacher in writing."
+                success_criteria: "An SBA research question linked to a syllabus section has been approved by the Economics teacher in writing."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
                 - "Read the SBA section of the syllabus and note the marking criteria"
                 - "Write three possible SBA topics, each linked to a syllabus section"
                 - "Turn the strongest topic into one clear research question"
-                - "Get written approval of your topic from your Economics teacher"
+                - "Check that the topic has written approval from the Economics teacher"
             - name: Economics SBA data collection and fieldwork
               description: |-
                 ## Purpose
-                Data you collected yourself, from a questionnaire, interviews with vendors or a price survey across shops, gives the SBA its strength, but it takes longer than students expect. Designing the instrument carefully, testing it on two people and collecting data on a fixed schedule leaves time for analysis before the draft is due.
+                Data collected first hand, from a questionnaire, interviews with vendors or a price survey across shops, gives the SBA its strength, but it takes longer than most teenagers expect. Designing the instrument carefully, testing it on two people and collecting data on a fixed schedule leaves time for analysis before the draft is due. A parent can help with lifts or introductions to shopkeepers, while the questions stay your teen's own.
 
                 ## Milestones
-                1. A questionnaire or interview guide drafted and checked by your teacher.
+                1. A questionnaire or interview guide drafted and checked by the teacher.
                 2. The instrument tested on two people and corrected.
                 3. All primary data collected and stored with dates and locations.
                 4. Supporting secondary data, such as official price or employment figures, gathered with sources.
 
                 ## Notes
-                Ask permission before interviewing anyone at work, and do not collect names unless your teacher says it is needed. Keep raw data safe in two places.
+                Ask permission before interviewing anyone at work, and do not collect names unless the teacher says it is needed. Keep raw data safe in two places.
               priority: medium
               deadlineOffsetDays: 120
               frontmatter:
@@ -922,14 +924,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
-                - "Draft a questionnaire or interview guide for your research question"
+                - "Draft a questionnaire or interview guide for the research question"
                 - "Test the questionnaire on two people and fix unclear questions"
                 - "Collect and date all responses, keeping a backup copy"
-                - "Gather official figures that support your topic and note each source"
+                - "Gather official figures that support the topic and note each source"
             - name: Economics SBA analysis, write-up and submission
               description: |-
                 ## Purpose
-                Marks in the SBA come from presenting data clearly, analysing it with the right economic concepts and drawing conclusions and recommendations that follow from the evidence. Writing a full draft early enough to get teacher feedback, then fixing it before the school deadline, is the difference between a rushed SBA and a strong one.
+                Marks in the SBA come from presenting data clearly, analysing it with the right economic concepts and drawing conclusions and recommendations that follow from the evidence. Writing a full draft early enough to get teacher feedback, then fixing it before the school deadline, is the difference between a rushed SBA and a strong one. Agreeing an early personal draft date with your teen is one of the most useful things a parent can do here.
 
                 ## Milestones
                 1. Data presented in tables and charts with titles and labels.
@@ -938,7 +940,7 @@ starter_structure:
                 4. The final SBA checked against the marking criteria and submitted before the school deadline.
 
                 ## Notes
-                Keep a dated copy of every draft. Write conclusions from your own data, not from the textbook.
+                Keep a dated copy of every draft. Conclusions must come from your teen's own data, not from the textbook.
               priority: high
               deadlineOffsetDays: 180
               frontmatter:
@@ -948,14 +950,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "20"
               tasks:
-                - "Turn your raw data into labelled tables and charts"
+                - "Turn the raw data into labelled tables and charts"
                 - "Write the analysis, naming the economic concept behind each finding"
                 - "Hand in a full draft and note every point of teacher feedback"
                 - "Check the final SBA against the marking criteria before submitting"
             - name: Data response and graph interpretation questions
               description: |-
                 ## Purpose
-                Paper 02 questions often begin with a table, chart or short extract and ask you to read a figure, describe a trend, calculate a change and then explain it with economics. Practising the order of work, quote the data, calculate, then explain, turns these questions from a source of panic into some of the easiest marks.
+                Paper 02 questions often begin with a table, chart or short extract and ask candidates to read a figure, describe a trend, calculate a change and then explain it with economics. Practising the order of work, quote the data, calculate, then explain, turns these questions from a source of panic into some of the easiest marks.
 
                 ## Milestones
                 1. A method card written for answering data questions step by step.
@@ -983,7 +985,7 @@ starter_structure:
                 1. A structure for evaluation answers written on one card.
                 2. Five discuss or evaluate questions answered using the structure.
                 3. Each answer ending in a clear judgement with a reason.
-                4. Two answers marked by your teacher with the feedback noted.
+                4. Two answers marked by the teacher with the feedback noted.
               priority: medium
               frontmatter:
                 mode: learning
@@ -995,7 +997,7 @@ starter_structure:
                 - "Write an evaluation structure on a revision card"
                 - "Plan three discuss questions in ten minutes each"
                 - "Write one full evaluation answer on price controls"
-                - "Ask your teacher to mark two evaluation answers"
+                - "Ask the teacher to mark two evaluation answers"
             - name: Mark schemes and examiner reports for Economics
               description: |-
                 ## Purpose
@@ -1005,23 +1007,23 @@ starter_structure:
                 1. The most recent available Economics subject reports collected.
                 2. Recurring weaknesses noted in a single list.
                 3. Each weakness matched to the project in this area that fixes it.
-                4. One past answer of your own rewritten to avoid a listed weakness.
+                4. One of your teen's past answers rewritten to avoid a listed weakness.
               priority: medium
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A list of recurring weaknesses from recent Economics subject reports exists and one of your answers has been rewritten to avoid them."
+                success_criteria: "A list of recurring weaknesses from recent Economics subject reports exists and one of your teen's answers has been rewritten to avoid them."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Collect the latest Economics subject reports from CXC or your teacher"
+                - "Collect the latest Economics subject reports from CXC or the teacher"
                 - "List the weaknesses examiners mention more than once"
-                - "Rewrite one of your own answers to avoid a listed weakness"
+                - "Rewrite one past answer to avoid a listed weakness"
                 - "Read one section of a subject report alongside its mark scheme @recurring(monthly:25)"
             - name: Full Economics mock exam under exam conditions
               description: |-
                 ## Purpose
-                A full mock with Paper 01 and Paper 02 back to back, timed and in silence, tests stamina and timing as well as knowledge. Treating it seriously gives the most accurate picture of where you stand with enough time left to fix the weakest sections.
+                A full mock with Paper 01 and Paper 02 back to back, timed and in silence, tests stamina and timing as well as knowledge. Treating it seriously gives the most accurate picture of where your teen stands with enough time left to fix the weakest sections, and a quiet house for the afternoon is something you can arrange.
 
                 ## Milestones
                 1. A full past paper or the school mock sat under timed conditions.
@@ -1040,11 +1042,11 @@ starter_structure:
                 - "Choose a past paper or confirm the date of the school mock"
                 - "Sit both papers in silence with the current time allowances"
                 - "Mark both papers and record scores by syllabus section"
-                - "Write the three weakest sections into your revision timetable"
+                - "Write the three weakest sections into the revision timetable"
             - name: Final eight weeks CSEC Economics revision timetable
               description: |-
                 ## Purpose
-                Eight weeks before the exam, the work shifts to retrieval and timed practice, not new notes. A timetable that cycles through every syllabus section, puts the weakest first and includes a timed paper every week means no topic is left untouched when the exam arrives.
+                Eight weeks before the exam, the work shifts to retrieval and timed practice, not new notes. A timetable that cycles through every syllabus section, puts the weakest first and includes a timed paper every week means no topic is left untouched when the exam arrives. Pinning it where the family can see it helps everyone protect the time.
 
                 ## Milestones
                 1. Every syllabus section assigned to at least two revision slots.
@@ -1067,7 +1069,7 @@ starter_structure:
             - name: Last week and CSEC Economics exam day plan
               description: |-
                 ## Purpose
-                Calm is the aim for the final week: light review of definitions and diagrams, one last timed paper, and every practical detail sorted. Knowing the start time, the centre, the equipment allowed and your timing plan for each paper means exam morning holds no surprises.
+                Calm is the aim for the final week: light review of definitions and diagrams, one last timed paper, and every practical detail sorted. Knowing the start time, the centre, the equipment allowed and your teen's timing plan for each paper means exam morning holds no surprises.
 
                 ## Milestones
                 1. The last full past paper sat and reviewed at least four days before the exam.
@@ -1076,7 +1078,7 @@ starter_structure:
                 4. A timing plan for each paper written on a card.
 
                 ## Notes
-                Check on the CXC timetable and with your school whether a calculator is permitted for Economics. Sleep the night before matters more than a late cram.
+                Check on the CXC timetable and with the school whether a calculator is permitted for Economics. Sleep the night before matters more than a late cram.
               priority: high
               deadlineOffsetDays: 265
               frontmatter:
@@ -1093,13 +1095,13 @@ starter_structure:
             - name: Parent support for a CSEC Economics student
               description: |-
                 ## Purpose
-                Parents do not need to have studied economics to help, and everyday family life is full of it: bills, prices at the market, the exchange rate before a trip, the news after the budget. A weekly check-in and the occasional conversation about prices or the news gives your child examples and makes the subject feel real.
+                Parents do not need to have studied economics to help, and everyday family life is full of it: bills, prices at the market, the exchange rate before a trip, the news after the budget. A weekly check-in and the occasional conversation about prices or the news gives your teen examples and makes the subject feel real.
 
                 ## Milestones
                 1. A quiet study space with a table and good light set up.
                 2. SBA deadlines and the mock date copied into the family calendar.
                 3. A weekly check-in kept for a full term.
-                4. One family conversation a month about a price change or news story your child can use in Economics.
+                4. One family conversation a month about a price change or news story your teen can use in Economics.
               priority: medium
               frontmatter:
                 mode: service
@@ -1108,13 +1110,13 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Copy SBA deadlines and the mock date into the family calendar"
-                - "Hold a ten-minute Economics check-in with your child @recurring(weekly:sun)"
+                - "Hold a ten-minute Economics check-in with your teen @recurring(weekly:sun)"
                 - "Talk about one price change or news story at dinner @recurring(monthly:15)"
                 - "Ask the Economics teacher how the SBA is going at the next parents' evening"
             - name: Teacher or tutor tracker for a CSEC Economics class
               description: |-
                 ## Purpose
-                An Economics teacher or lessons tutor has to cover the whole syllabus, supervise SBA research and spot struggling students in time. One tracker with topics covered, test scores, SBA stages and mock results for each student shows who needs help and which sections need reteaching before the school deadline.
+                An Economics teacher or lessons tutor has to cover the whole syllabus, supervise SBA research and spot struggling students in time. One tracker with topics covered, test scores, SBA stages and mock results for each student shows who needs help and which sections need reteaching before the school deadline. If your teen has a tutor, share this project with them and ask to see the tracker each month.
 
                 ## Milestones
                 1. A class tracker with topics, test scores and SBA stages for each student.
@@ -1135,17 +1137,17 @@ starter_structure:
             - name: Paper 032 alternative for private Economics candidates
               description: |-
                 ## Purpose
-                Private and adult candidates without a school SBA usually sit an alternative paper instead, which tests the same research skills in written form. Studying without a teacher also means finding past papers, a study group or tutor, and a steady schedule on your own, so a clear plan matters more.
+                Private and adult candidates without a school SBA usually sit an alternative paper instead, which tests the same research skills in written form. When a teenager studies outside school, finding past papers, a study group or tutor, and a steady schedule falls more on the family, so a clear plan matters more.
 
                 ## Milestones
-                1. Your entry and paper option confirmed with the local registrar.
+                1. Your teen's entry and paper option confirmed with the local registrar.
                 2. The current syllabus description of the alternative paper read and summarised.
                 3. Past or specimen alternative papers gathered.
                 4. Five practice questions on research method and data answered and marked.
                 5. A monthly self check of progress against the study plan kept.
 
                 ## Notes
-                This project applies only if you are a private candidate. Registration and fees are handled through your country's local registrar, so check the details with them.
+                This project applies only if your teen is a private candidate. Registration and fees are handled through your country's local registrar, so check the details with them.
               priority: low
               frontmatter:
                 mode: building
@@ -1154,20 +1156,20 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "12"
               tasks:
-                - "Confirm your entry and paper option with the local registrar"
+                - "Confirm your teen's entry and paper option with the local registrar"
                 - "Read the syllabus description of the alternative paper"
                 - "Answer one research method question and mark it against the scheme"
-                - "Check progress against your private study plan @recurring(monthly:18)"
+                - "Check progress against the private study plan together @recurring(monthly:18)"
             - name: Results, review requests and the next step after CSEC Economics
               description: |-
                 ## Purpose
-                Results arrive some weeks after the sitting, and a grade that looks wrong can be queried through your school within a set window. Knowing beforehand how to read the result slip and its profile grades, how a review works and what grade CAPE Economics or your next course asks for avoids a rushed decision on results day.
+                Results arrive some weeks after the sitting, and a grade that looks wrong can be queried through the school within a set window. Knowing beforehand how to read the result slip and its profile grades, how a review works and what grade CAPE Economics or your teen's next course asks for avoids a rushed decision on results day.
 
                 ## Milestones
                 1. The result slip read, with the overall grade and profile grades understood.
                 2. The school's process and deadline for a review request confirmed.
                 3. A decision recorded on whether to query the result.
-                4. Entry requirements for CAPE Economics or your next course checked against the result.
+                4. Entry requirements for CAPE Economics or the next course checked against the result.
               priority: medium
               deadlineOffsetDays: 330
               frontmatter:
@@ -1179,12 +1181,12 @@ starter_structure:
               tasks:
                 - "Ask the school how results are released and how profiles are shown"
                 - "Note the deadline for requesting a review of results"
-                - "Compare your result with the entry requirement for your next course"
-                - "Record your decision on whether to query the result or move on"
+                - "Compare the result with the entry requirement for the next course"
+                - "Agree with your teen whether to query the result or move on, and record it"
 ---
 
 # CSEC Economics
 
-This area takes a CSEC Economics student from the first syllabus check to results day, in roughly the order the subject is taught and examined. It opens with the foundations (the current syllabus, a diagnostic paper, a two-year plan, command words, diagrams and the arithmetic Economics needs), sets up the weekly routines, then works through the topics: scarcity and economic systems, production and costs, demand, supply and markets, money and banking, national income, inflation and unemployment, government, trade and the Caribbean in the world economy. After that come the SBA, data and evaluation technique, the mock, the final weeks and exam day, with projects for parents, teachers and private candidates at the end.
+This area helps a parent or guardian support a CSEC Economics student from the first syllabus check to results day, in roughly the order the subject is taught and examined. It opens with the foundations (the current syllabus, a diagnostic paper, a two-year plan, command words, diagrams and the arithmetic Economics needs), sets up the weekly routines, then works through the topics: scarcity and economic systems, production and costs, demand, supply and markets, money and banking, national income, inflation and unemployment, government, trade and the Caribbean in the world economy. After that come the SBA, data and evaluation technique, the mock, the final weeks and exam day, with projects for family support, for teachers and tutors, and for private candidates at the end.
 
-The rhythm is two weekly study sessions, daily definition cards, a weekly news clipping, a monthly timed Paper 01 and Paper 02 question, and a termly talk with your teacher. The Skills matrix, Habit tracker, Metrics log and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is two weekly study sessions, daily definition cards, a weekly news clipping, a monthly timed Paper 01 and Paper 02 question, and a termly talk with the Economics teacher. The Skills matrix, Habit tracker, Metrics log and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

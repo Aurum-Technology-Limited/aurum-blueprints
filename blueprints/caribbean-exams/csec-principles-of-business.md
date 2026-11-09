@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-principles-of-business
 name: CSEC Principles of Business
-description: "A complete CSEC Principles of Business plan: the current syllabus and papers, weekly routines, every section from business organisation to the Caribbean economy, the SBA research project, timed past papers, the mock and exam day."
+description: "A CSEC Principles of Business plan for parents and guardians of a teen: the syllabus and papers, weekly routines, every section from business organisation to the Caribbean economy, the SBA research, past papers, the mock and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-principles-of-business, student, parent, educator, cxc, csec, principles-of-business, sba]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,15 +25,17 @@ starter_structure:
             - name: Current CSEC Principles of Business syllabus and paper check
               description: |-
                 ## Purpose
-                Principles of Business is examined through a multiple-choice Paper 01, a written Paper 02 and either the school-based assessment as Paper 031 or the alternative Paper 032 for private candidates, and CXC revises the syllabus from time to time. An hour with the current syllabus and the published timetable means every later project is aimed at the exam you will actually sit, not the one in an older sibling's revision book.
+                Principles of Business is examined through a multiple-choice Paper 01, a written Paper 02 and either the school-based assessment as Paper 031 or the alternative Paper 032 for private candidates, and CXC revises the syllabus from time to time. An hour with the current syllabus and the published timetable means every later project is aimed at the exam your teen will actually sit, not the one in an older sibling's revision book.
 
                 ## Milestones
                 1. The current CSEC Principles of Business syllabus downloaded from the CXC website, with its edition year noted.
                 2. The format of Paper 01, Paper 02 and Paper 031 or 032 written on one page in the syllabus's own words.
                 3. Every syllabus section listed in order with its main topics, so each topic project here can be matched to one.
-                4. The May to June sitting confirmed with your school and the subject's date noted once the timetable is out.
+                4. The May to June sitting confirmed with the school and the subject's date noted once the timetable is out.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CSEC Principles of Business, and an older student can follow it with a parent's support.
+
                 Textbooks and photocopied notes often lag a syllabus revision by years. Where they disagree with the CXC document, the CXC document wins.
               priority: high
               deadlineOffsetDays: 10
@@ -45,13 +47,13 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Check the current syllabus and timetable on the CXC website and note the paper format"
-                - "Write the syllabus edition year on the cover of your Principles of Business folder"
+                - "Write the syllabus edition year on the cover of the Principles of Business folder"
                 - "List the syllabus sections in order with their main topics on one page"
-                - "Ask your teacher which sitting and paper options the school enters you for"
-            - name: Diagnostic Paper 01 to find your weak sections
+                - "Ask the teacher which sitting and paper options the school enters your teen for"
+            - name: Diagnostic Paper 01 to find the weak sections
               description: |-
                 ## Purpose
-                Plenty of business vocabulary sounds familiar from home and the news, which hides how much is really understood. Sitting one multiple-choice paper early, without notes, and sorting the wrong answers by syllabus section shows exactly where to begin instead of starting at page one of the textbook.
+                Plenty of business vocabulary sounds familiar from home and the news, which hides how much is really understood. Having your teen sit one multiple-choice paper early, without notes, and sorting the wrong answers by syllabus section shows exactly where to begin instead of starting at page one of the textbook.
 
                 ## Milestones
                 1. One past or specimen Paper 01 completed in one sitting without notes.
@@ -67,8 +69,8 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Get one past or specimen Paper 01 from your teacher or the CXC store"
-                - "Sit the paper in one go with your phone in another room"
+                - "Get one past or specimen Paper 01 from the teacher or the CXC store"
+                - "Sit the paper in one go with the phone in another room"
                 - "Mark it and tally the wrong answers by syllabus section"
                 - "Circle the three sections with the most errors"
             - name: Two-year Principles of Business study plan
@@ -77,7 +79,7 @@ starter_structure:
                 Most schools spread CSEC Principles of Business over Forms Four and Five, with the SBA research running through the second year and the exam in May or June. Placing every syllabus section in a month, with SBA deadlines and revision weeks marked, stops the familiar squeeze where social accounting and regional integration are still untouched at Easter.
 
                 ## Milestones
-                1. Every syllabus section placed in a month, following your school's teaching order.
+                1. Every syllabus section placed in a month, following the school's teaching order.
                 2. SBA milestones and the submission deadline marked from the school calendar.
                 3. The final eight weeks before the exam kept free for revision and timed papers.
                 4. A topic confidence grid made, with each topic rated and rerated each month.
@@ -94,14 +96,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for the scheme of work for Forms Four and Five"
+                - "Ask the teacher for the scheme of work for Forms Four and Five"
                 - "Place each syllabus section in the month it will be taught"
                 - "Mark the SBA deadlines and mock exam dates on the plan"
                 - "Rerate every topic on the confidence grid and adjust the plan @recurring(monthly:24)"
             - name: Principles of Business notebook and topic dividers
               description: |-
                 ## Purpose
-                Loose handouts, class notes on three different exercise books and screenshots of the board are how most students lose the one diagram they need in May. A single binder or notebook split by syllabus section, with a definitions page at the front of each, keeps revision material in the order it will be examined.
+                Loose handouts, class notes on three different exercise books and screenshots of the board are how most students lose the one diagram they need in May. A single binder or notebook split by syllabus section, with a definitions page at the front of each, keeps revision material in the order it will be examined, and providing one is an easy practical way to help.
 
                 ## Milestones
                 1. One binder or notebook chosen and divided by syllabus section.
@@ -142,11 +144,11 @@ starter_structure:
                 - "Copy the command words and their meanings from the syllabus glossary"
                 - "Find three past Paper 02 questions that use state, explain and discuss"
                 - "Answer each one and mark it against the published scheme"
-                - "Note in one line what each command word cost or earned you"
-            - name: Case file of five businesses in your community
+                - "Note in one line what each command word cost or earned"
+            - name: Case file of five businesses in the community
               description: |-
                 ## Purpose
-                Examiners reward answers that apply a point to a real situation, and the best examples are the businesses you walk past every day: the parlour, the hardware, the credit union, the bakery that supplies the school, a hotel or a state utility. A short profile of five of them gives you ready examples for almost every section, from forms of ownership to channels of distribution.
+                Examiners reward answers that apply a point to a real situation, and the best examples are the businesses your teen walks past every day: the parlour, the hardware, the credit union, the bakery that supplies the school, a hotel or a state utility. A short profile of five of them gives ready examples for almost every section, from forms of ownership to channels of distribution, and you may know an owner who would chat for ten minutes.
 
                 ## Milestones
                 1. Five local businesses chosen across sole traders, a partnership or company, a cooperative and a state enterprise.
@@ -167,33 +169,33 @@ starter_structure:
                 - "List ten businesses within walking distance of home or school"
                 - "Pick five that cover different forms of ownership"
                 - "Write a half-page profile of each from observation or a short chat"
-                - "Add one new local business example from the news or your area @recurring(monthly:12)"
+                - "Add one new local business example from the news or the neighbourhood @recurring(monthly:12)"
             - name: SBA guidelines, business topic and teacher approval
               description: |-
                 ## Purpose
-                The SBA is the one part of Principles of Business you control before exam day, and a weak topic choice in Form Four drags on every later section of the write-up. Reading the current SBA guidelines and choosing a business you can actually reach for interviews and data, then getting it approved in writing, sets the whole research project up to succeed.
+                The SBA is the one part of Principles of Business your teen controls before exam day, and a weak topic choice in Form Four drags on every later section of the write-up. Reading the current SBA guidelines together and choosing a business they can actually reach for interviews and data, then getting it approved in writing, sets the whole research project up to succeed.
 
                 ## Milestones
-                1. The current SBA guidelines and mark scheme read from the syllabus or your teacher's handout.
+                1. The current SBA guidelines and mark scheme read from the syllabus or the teacher's handout.
                 2. Two possible businesses or topics compared on access, data available and fit with the guidelines.
-                3. A topic and research question approved by your teacher in writing.
-                4. The SBA deadlines from your school copied into the study plan.
+                3. A topic and research question approved by the teacher in writing.
+                4. The SBA deadlines from the school copied into the study plan.
 
                 ## Notes
-                Choose a business where you know someone who will answer questions. A brilliant topic with no access to data scores lower than a plain one you can research properly.
+                Encourage a business where your teen knows someone who will answer questions; family contacts help here. A brilliant topic with no access to data scores lower than a plain one they can research properly.
               priority: high
               deadlineOffsetDays: 40
               frontmatter:
                 mode: building
                 output_kind: decision
-                success_criteria: "An SBA topic and research question are approved in writing by your teacher, with every school deadline in the plan."
+                success_criteria: "An SBA topic and research question are approved in writing by the teacher, with every school deadline in the plan."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
                 - "Read the SBA section of the current syllabus and its marking criteria"
-                - "Write down two businesses you could visit and question"
-                - "Ask your teacher to approve one topic and research question in writing"
-                - "Send your teacher a short SBA progress note @recurring(monthly:5)"
+                - "Write down two businesses your teen could visit and question"
+                - "Ask the teacher to approve one topic and research question in writing"
+                - "Send the teacher a short SBA progress note @recurring(monthly:5)"
             - name: Weekly Principles of Business study sessions
               description: |-
                 ## Purpose
@@ -214,13 +216,13 @@ starter_structure:
                 success_criteria: "Two study sessions a week are ticked off for at least ten of the next twelve weeks."
                 cadence: rolling
               tasks:
-                - "Choose two fixed weekly slots for Principles of Business"
+                - "Agree two fixed weekly slots for Principles of Business with your teen"
                 - "Rewrite the week's notes and answer one question on them @recurring(weekly:tue,sat)"
                 - "Write next week's two topics into the plan @recurring(weekly:sun)"
             - name: Business definitions cards and daily recall
               description: |-
                 ## Purpose
-                Paper 01 and the opening parts of Paper 02 reward precise definitions: a partnership deed, limited liability, a debenture, gross domestic product, a tariff. Ten minutes a day with question-and-answer cards, sorted by how well you know them, makes those definitions automatic long before the exam.
+                Paper 01 and the opening parts of Paper 02 reward precise definitions: a partnership deed, limited liability, a debenture, gross domestic product, a tariff. Ten minutes a day with question-and-answer cards, sorted by how well they are known, makes those definitions automatic long before the exam.
 
                 ## Milestones
                 1. A card set started with one term per card and the textbook definition on the back.
@@ -257,7 +259,7 @@ starter_structure:
                 success_criteria: "A log shows at least six monthly Paper 01 scores, broken down by syllabus section."
                 cadence: rolling
               tasks:
-                - "Collect every past and specimen Paper 01 your teacher can share"
+                - "Collect every past and specimen Paper 01 the teacher can share"
                 - "Sit a full Paper 01 under the time allowed and log the score @recurring(monthly:9)"
                 - "Add each wrong answer to the mistakes log"
             - name: Monthly Paper 02 structured question practice
@@ -277,13 +279,13 @@ starter_structure:
                 success_criteria: "At least eight timed Paper 02 questions, each marked against its scheme, cover every syllabus section before the mock."
                 cadence: rolling
               tasks:
-                - "Sort the past Paper 02 questions you have by syllabus section"
+                - "Sort the available past Paper 02 questions by syllabus section"
                 - "Answer one full Paper 02 question under time and mark it @recurring(monthly:19)"
                 - "Rewrite the weakest part of each answer the same week"
             - name: Weekly business news note for exam examples
               description: |-
                 ## Purpose
-                Interest rate changes, a new CARICOM trade decision, a factory closing, a bank merger or a price rise at the pump are live examples of what the syllabus describes. One short note a week from the local newspaper, radio or a business news site keeps your answers current and gives Paper 02 a Caribbean example that examiners notice.
+                Interest rate changes, a new CARICOM trade decision, a factory closing, a bank merger or a price rise at the pump are live examples of what the syllabus describes. One short note a week from the local newspaper, radio or a business news site keeps your teen's answers current and gives Paper 02 a Caribbean example that examiners notice. A story you mention over dinner counts too.
 
                 ## Milestones
                 1. A news page started in the binder with date, story and syllabus section.
@@ -297,13 +299,13 @@ starter_structure:
                 success_criteria: "A dated news page holds at least twelve business stories, each linked to a syllabus section."
                 cadence: rolling
               tasks:
-                - "Pick one business news source you can read for free each week"
+                - "Pick one free business news source to read each week"
                 - "Note one business story and the syllabus section it shows @recurring(weekly:wed)"
-                - "Use one news example in your next Paper 02 practice answer"
+                - "Use one news example in the next Paper 02 practice answer"
             - name: Principles of Business mistakes log
               description: |-
                 ## Purpose
-                Most lost marks repeat: confusing a cooperative with a partnership, mixing up visible and invisible trade, or writing two lines where the question asked for a discussion. Recording every mistake from tests and practice papers, and reviewing the log monthly, turns each lost mark into one you will not lose twice.
+                Most lost marks repeat: confusing a cooperative with a partnership, mixing up visible and invisible trade, or writing two lines where the question asked for a discussion. Recording every mistake from tests and practice papers, and reviewing the log monthly, turns each lost mark into one your teen will not lose twice.
 
                 ## Milestones
                 1. A log with columns for date, question, what went wrong and the correct point.
@@ -317,13 +319,13 @@ starter_structure:
                 success_criteria: "A mistakes log with entries from every practice paper is reviewed monthly, with one pattern chosen for fixing each time."
                 cadence: rolling
               tasks:
-                - "Set up a mistakes log at the back of your binder"
+                - "Set up a mistakes log at the back of the binder"
                 - "Enter every wrong answer from this week's class test"
                 - "Review the log and choose one repeated mistake to fix @recurring(monthly:28)"
-            - name: Termly progress review with your business teacher
+            - name: Termly progress review with the business teacher
               description: |-
                 ## Purpose
-                Teachers see patterns in your work that you cannot, and a short planned conversation each term catches problems with the SBA or a weak section while there is still time to act. Bringing your mock or test scores, the confidence grid and two questions makes the conversation worth the ten minutes.
+                Teachers see patterns in your teen's work that neither of you can, and a short planned conversation each term catches problems with the SBA or a weak section while there is still time to act. Bringing the mock or test scores, the confidence grid and two questions makes the conversation worth the ten minutes.
 
                 ## Milestones
                 1. A ten-minute meeting requested near the end of each term.
@@ -340,8 +342,8 @@ starter_structure:
                 success_criteria: "A written note exists from a teacher review in each term, each with one change made to the plan."
                 cadence: cyclic
               tasks:
-                - "Ask your teacher for ten minutes near the end of term @recurring(quarterly)"
-                - "Bring your latest scores, confidence grid and two questions"
+                - "Ask the teacher for ten minutes near the end of term @recurring(quarterly)"
+                - "Bring the latest scores, confidence grid and two questions"
                 - "Write down the advice and change one thing in the plan"
             - name: Economic activity, wants and economic systems
               description: |-
@@ -351,7 +353,7 @@ starter_structure:
                 ## Milestones
                 1. Notes on needs, wants, scarcity, choice and opportunity cost, each with an example.
                 2. A comparison table of traditional, command, free market and mixed economies.
-                3. Your own country placed on the table with a reason.
+                3. The home country placed on the table with a reason.
                 4. Five past-paper questions on this section answered and marked.
               priority: medium
               frontmatter:
@@ -361,7 +363,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Write a definition and an example of opportunity cost from your own week"
+                - "Write a definition and an example of opportunity cost from everyday family life"
                 - "Draw a table comparing the four economic systems"
                 - "Explain in three sentences why your country has a mixed economy"
                 - "Answer five past-paper questions on economic systems and mark them"
@@ -390,12 +392,12 @@ starter_structure:
             - name: Organisational structure, charts and span of control
               description: |-
                 ## Purpose
-                Questions on structure ask you to draw or interpret an organisational chart and explain chain of command, span of control, delegation and line versus staff relationships. Drawing the chart for a business you know, such as your school or a local supermarket, makes the terms concrete and easy to recall under time.
+                Questions on structure ask candidates to draw or interpret an organisational chart and explain chain of command, span of control, delegation and line versus staff relationships. Drawing the chart for a business your teen knows, such as their school or a local supermarket, makes the terms concrete and easy to recall under time.
 
                 ## Milestones
                 1. Definitions of chain of command, span of control, delegation and centralisation written down.
                 2. Line, line and staff, functional and matrix structures compared.
-                3. An organisational chart drawn for a business or school you know.
+                3. An organisational chart drawn for a familiar business or school.
                 4. Four past-paper questions on structure answered and marked.
               priority: medium
               frontmatter:
@@ -406,13 +408,13 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Define chain of command, span of control and delegation"
-                - "Draw your school's structure from principal to classroom teachers"
+                - "Draw the school's structure from principal to classroom teachers"
                 - "Label a narrow and a wide span of control on the chart"
                 - "Answer four past-paper questions on structure and mark them"
             - name: Management functions and leadership styles
               description: |-
                 ## Purpose
-                Planning, organising, directing, coordinating and controlling are the backbone of the management topic, and questions often ask which leadership style suits a given situation. Matching each function and style to a manager you have watched, a coach, a shift supervisor or a principal, gives you examples that go beyond the textbook.
+                Planning, organising, directing, coordinating and controlling are the backbone of the management topic, and questions often ask which leadership style suits a given situation. Matching each function and style to a manager they have watched, a coach, a shift supervisor, a principal or you at work, gives your teen examples that go beyond the textbook.
 
                 ## Milestones
                 1. The functions of management listed with one action a manager takes for each.
@@ -434,7 +436,7 @@ starter_structure:
             - name: Business communication inside and outside the firm
               description: |-
                 ## Purpose
-                Communication questions cover the process, channels, barriers and the right method for a given message, whether a memo to staff, a notice to customers or a meeting with suppliers. Practising with real situations, such as announcing a price change or a product recall, prepares you for the applied parts of Paper 02.
+                Communication questions cover the process, channels, barriers and the right method for a given message, whether a memo to staff, a notice to customers or a meeting with suppliers. Practising with real situations, such as announcing a price change or a product recall, prepares your teen for the applied parts of Paper 02.
 
                 ## Milestones
                 1. The communication process drawn with sender, message, channel, receiver and feedback.
@@ -482,7 +484,7 @@ starter_structure:
 
                 ## Milestones
                 1. The essential elements of a valid contract listed with a simple example of each.
-                2. The difference between a void and a voidable contract explained in your own words.
+                2. The difference between a void and a voidable contract explained in plain words.
                 3. The registration and licensing steps for a small business in your country noted from an official source.
                 4. Four past-paper questions on legal aspects answered and marked.
 
@@ -503,7 +505,7 @@ starter_structure:
             - name: Factors of production, specialisation and types of production
               description: |-
                 ## Purpose
-                Land, labour, capital and entrepreneurship, with their rewards, are a near-certain Paper 01 topic, and Paper 02 often asks you to classify production as primary, secondary or tertiary or to weigh up the division of labour. Tracing one Caribbean product, such as cocoa, bauxite or a bottle of rum, from extraction to sale ties the whole section together.
+                Land, labour, capital and entrepreneurship, with their rewards, are a near-certain Paper 01 topic, and Paper 02 often asks candidates to classify production as primary, secondary or tertiary or to weigh up the division of labour. Tracing one Caribbean product, such as cocoa, bauxite or a bottle of rum, from extraction to sale ties the whole section together.
 
                 ## Milestones
                 1. Each factor of production and its reward written with an example.
@@ -526,7 +528,7 @@ starter_structure:
             - name: Location, productivity and technology in production
               description: |-
                 ## Purpose
-                Why a cement plant sits near limestone and a call centre sits near a university, how productivity is measured and raised, and what technology and automation do to jobs and quality are recurring Paper 02 themes. Linking each factor to a firm in your country turns a list to memorise into an argument you can write.
+                Why a cement plant sits near limestone and a call centre sits near a university, how productivity is measured and raised, and what technology and automation do to jobs and quality are recurring Paper 02 themes. Linking each factor to a firm in your country turns a list to memorise into an argument your teen can write.
 
                 ## Milestones
                 1. The factors that affect the location of a business listed with a local example for each.
@@ -548,7 +550,7 @@ starter_structure:
             - name: Entrepreneurship and the small business in the Caribbean
               description: |-
                 ## Purpose
-                Small businesses employ a large share of Caribbean workers, and the syllabus asks what makes an entrepreneur, why small firms survive beside large ones and what holds them back. Interviewing one local entrepreneur, a caterer, a barber or a market vendor, gives you a first-hand case to use in answers on this section.
+                Small businesses employ a large share of Caribbean workers, and the syllabus asks what makes an entrepreneur, why small firms survive beside large ones and what holds them back. Interviewing one local entrepreneur, a caterer, a barber or a market vendor, gives your teen a first-hand case to use in answers on this section.
 
                 ## Milestones
                 1. The qualities and functions of an entrepreneur listed.
@@ -570,12 +572,12 @@ starter_structure:
             - name: Mini business plan for a Caribbean start-up
               description: |-
                 ## Purpose
-                Writing a short business plan for an idea you could actually run, a snow cone cart at sports day, a phone case stall or a lawn service, makes the parts of a plan stick far better than reading the list. It also gives you a ready example for questions on why plans are needed and who reads them.
+                Writing a short business plan for an idea your teen could actually run, a snow cone cart at sports day, a phone case stall or a lawn service, makes the parts of a plan stick far better than reading the list. It also gives them a ready example for questions on why plans are needed and who reads them.
 
                 ## Milestones
                 1. The main parts of a business plan listed and explained.
-                2. A two-page plan written for your own idea, covering product, market, costs and finance.
-                3. The plan read by a parent, teacher or business owner, with their comments noted.
+                2. A two-page plan written for their own idea, covering product, market, costs and finance.
+                3. The plan read by you, a teacher or a business owner, with comments noted.
                 4. Three past-paper questions on business plans answered and marked.
 
                 ## Notes
@@ -584,14 +586,14 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A two-page business plan for your own idea, with written feedback from one adult, is filed beside three marked past-paper answers."
+                success_criteria: "A two-page business plan for your teen's own idea, with written feedback from one adult, is filed beside three marked past-paper answers."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
                 - "List the parts of a business plan from the textbook"
                 - "Ask the agent to suggest headings for a two-page student business plan"
-                - "Write a two-page plan for one idea you could really run"
-                - "Ask one adult to read it and note their three biggest questions"
+                - "Write a two-page plan for one idea that could really be run"
+                - "Read the plan yourself or ask another adult, and note three big questions"
             - name: Sources of finance for a new or growing business
               description: |-
                 ## Purpose
@@ -639,7 +641,7 @@ starter_structure:
             - name: The marketing mix applied to a Caribbean product
               description: |-
                 ## Purpose
-                Product, price, place and promotion appear in almost every sitting, often as a case where a firm launches or relaunches something. Building a full marketing mix for one real product, a local hot sauce, a carnival costume band or a mobile data plan, shows you can apply the four Ps rather than recite them.
+                Product, price, place and promotion appear in almost every sitting, often as a case where a firm launches or relaunches something. Building a full marketing mix for one real product, a local hot sauce, a carnival costume band or a mobile data plan, shows your teen can apply the four Ps rather than recite them.
 
                 ## Milestones
                 1. Each element of the marketing mix defined, with pricing strategies and the product life cycle.
@@ -654,14 +656,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Pick one locally made product you can buy this week"
+                - "Pick one locally made product to buy this week"
                 - "Write its product, price, place and promotion on one page"
                 - "Sketch the product life cycle and mark where it sits"
                 - "Answer five past-paper questions on the marketing mix and mark them"
             - name: Channels of distribution, retailing and e-commerce
               description: |-
                 ## Purpose
-                Getting goods from producer to consumer runs through wholesalers, retailers, agents and, more and more, online stores and delivery apps. The syllabus expects you to compare channels, explain what middlemen add, and weigh the gains and risks of selling online for a Caribbean business shipping across water.
+                Getting goods from producer to consumer runs through wholesalers, retailers, agents and, more and more, online stores and delivery apps. The syllabus expects candidates to compare channels, explain what middlemen add, and weigh the gains and risks of selling online for a Caribbean business shipping across water.
 
                 ## Milestones
                 1. The main channels of distribution drawn as simple diagrams.
@@ -683,7 +685,7 @@ starter_structure:
             - name: Advertising, sales promotion and consumer protection
               description: |-
                 ## Purpose
-                Informative and persuasive advertising, the choice of media, sales promotions, and the rules and bodies that protect consumers from misleading claims and unsafe goods often come as one connected question. Collecting real adverts from local radio, billboards and social media gives you examples to analyse instead of invent.
+                Informative and persuasive advertising, the choice of media, sales promotions, and the rules and bodies that protect consumers from misleading claims and unsafe goods often come as one connected question. Collecting real adverts from local radio, billboards and social media gives your teen examples to analyse instead of invent.
 
                 ## Milestones
                 1. Types of advertising and media compared, with their costs and reach.
@@ -749,7 +751,7 @@ starter_structure:
             - name: National income, living standards and social accounting
               description: |-
                 ## Purpose
-                Social accounting looks at the whole economy: gross domestic product, gross national product, per capita income and why these figures do not tell the full story of living standards. Looking up your own country's latest figures from the central bank or statistics office gives you real numbers to explain rather than abstract ones.
+                Social accounting looks at the whole economy: gross domestic product, gross national product, per capita income and why these figures do not tell the full story of living standards. Looking up your own country's latest figures from the central bank or statistics office gives your teen real numbers to explain rather than abstract ones.
 
                 ## Milestones
                 1. GDP, GNP and per capita income defined, with the methods of measuring national income named.
@@ -764,7 +766,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Define GDP, GNP and per capita income in your own words"
+                - "Define GDP, GNP and per capita income in plain words"
                 - "Look up your country's latest GDP on the central bank or statistics website"
                 - "List four reasons GDP per head can mislead about living standards"
                 - "Answer four past-paper questions on national income and mark them"
@@ -808,7 +810,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "List the aims of CARICOM from your textbook"
+                - "List the aims of CARICOM from the textbook"
                 - "Write what the four freedoms of the CSME mean for a local business"
                 - "Find two products on a supermarket shelf made in another CARICOM state"
                 - "Answer four past-paper questions on regional integration and mark them"
@@ -837,11 +839,11 @@ starter_structure:
             - name: SBA research instruments and data collection
               description: |-
                 ## Purpose
-                Once the topic is approved, the SBA lives or dies on the quality of the data you gather. Designing a questionnaire and interview guide that answer your research question, getting them checked, then collecting responses in a fixed window leaves enough time to analyse and write up before the school deadline.
+                Once the topic is approved, the SBA lives or dies on the quality of the data your teen gathers. Designing a questionnaire and interview guide that answer the research question, getting them checked, then collecting responses in a fixed window leaves enough time to analyse and write up before the school deadline.
 
                 ## Milestones
                 1. A questionnaire and interview guide drafted that map to the research question.
-                2. Both instruments checked by your teacher and revised.
+                2. Both instruments checked by the teacher and revised.
                 3. The planned number of responses collected and stored safely.
                 4. Raw data entered into a table ready for charts and analysis.
 
@@ -857,25 +859,25 @@ starter_structure:
                 effort_hours_estimate: "10"
               tasks:
                 - "Draft the questionnaire with every question tied to the research question"
-                - "Ask your teacher to check the questionnaire and interview guide"
+                - "Ask the teacher to check the questionnaire and interview guide"
                 - "Collect all responses within a fixed two-week window"
-                - "Enter the raw responses into a table the same day you collect them"
+                - "Enter the raw responses into a table the same day they are collected"
             - name: SBA write-up, charts and final submission
               description: |-
                 ## Purpose
-                A strong SBA write-up follows the structure in the current guidelines, presents data in clear charts, analyses it rather than describing it, and ends with conclusions and recommendations that follow from the findings. Writing section by section against the mark scheme, with one teacher check on the draft, avoids the all-night final week many students regret.
+                A strong SBA write-up follows the structure in the current guidelines, presents data in clear charts, analyses it rather than describing it, and ends with conclusions and recommendations that follow from the findings. Writing section by section against the mark scheme, with one teacher check on the draft, avoids the all-night final week many students regret. Asking which section is done this week keeps it moving without taking it over.
 
                 ## Milestones
                 1. Each section of the write-up drafted in the order the guidelines give.
                 2. Data presented in labelled charts and tables with written analysis beneath each.
-                3. A full draft returned by your teacher with comments addressed.
+                3. A full draft returned by the teacher with comments addressed.
                 4. Sources listed in the required format and the final copy submitted before the deadline.
               priority: high
               deadlineOffsetDays: 170
               frontmatter:
                 mode: building
                 output_kind: deliverable
-                success_criteria: "The final SBA is submitted to your teacher before the school deadline, with every section the guidelines require."
+                success_criteria: "The final SBA is submitted to the teacher before the school deadline, with every section the guidelines require."
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
@@ -883,7 +885,7 @@ starter_structure:
                 - "Draft one section a week in the order the guidelines give"
                 - "Turn the data table into labelled charts with analysis under each"
                 - "Hand in a full draft for comments three weeks before the deadline"
-                - "Submit the final copy and keep a dated copy of your own"
+                - "Submit the final copy and keep a dated copy at home"
             - name: Case study and scenario answers for Paper 02
               description: |-
                 ## Purpose
@@ -915,7 +917,7 @@ starter_structure:
                 1. A four-step structure for discussion answers written on a card.
                 2. Six discuss or recommend questions answered using the structure.
                 3. Each answer marked, with the judgement checked for a clear reason.
-                4. One answer rewritten after feedback from your teacher.
+                4. One answer rewritten after feedback from the teacher.
               priority: medium
               frontmatter:
                 mode: learning
@@ -925,13 +927,13 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Write the point, explain, example, judgement structure on a card"
-                - "Find six past questions that ask you to discuss or recommend"
+                - "Find six past questions that ask for a discussion or recommendation"
                 - "Answer two a week using the structure and mark each one"
-                - "Ask your teacher to comment on your weakest discussion answer"
+                - "Ask the teacher to comment on the weakest discussion answer"
             - name: Examiner reports and mark schemes for Principles of Business
               description: |-
                 ## Purpose
-                CXC subject reports describe what candidates did well and badly on each question, and the same weaknesses come up year after year: vague definitions, no examples, missing the command word. Reading the last few reports for this subject and turning them into a checklist gives you the examiners' own advice in one page.
+                CXC subject reports describe what candidates did well and badly on each question, and the same weaknesses come up year after year: vague definitions, no examples, missing the command word. Reading the last few reports for this subject and turning them into a checklist gives your teen the examiners' own advice in one page.
 
                 ## Milestones
                 1. The last three or more subject reports for Principles of Business obtained.
@@ -946,19 +948,19 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher or check the CXC website for recent subject reports"
+                - "Ask the teacher or check the CXC website for recent subject reports"
                 - "Highlight every weakness mentioned more than once"
                 - "Write a one-page examiner advice checklist"
-                - "Mark two of your past answers against the checklist"
+                - "Mark two past answers against the checklist"
             - name: Full Principles of Business mock exam
               description: |-
                 ## Purpose
                 Sitting Paper 01 and Paper 02 back to back under exam conditions is the only way to test stamina, timing and recall across every section at once. A mock taken two to three months before the sitting leaves time to rework the weak sections it exposes.
 
                 ## Milestones
-                1. A full set of papers chosen that you have not seen before.
+                1. A full set of papers chosen that has not been seen before.
                 2. Both papers sat under the time allowed with no notes.
-                3. The papers marked by you or your teacher against the scheme.
+                3. The papers marked by your teen or the teacher against the scheme.
                 4. A list of the five weakest topics turned into revision slots.
               priority: high
               deadlineOffsetDays: 190
@@ -971,12 +973,12 @@ starter_structure:
               tasks:
                 - "Set aside a morning and a full unseen set of papers"
                 - "Sit both papers under the time allowed in a quiet room"
-                - "Mark the papers or hand them to your teacher"
+                - "Mark the papers or hand them to the teacher"
                 - "Book the five weakest topics into the revision timetable"
             - name: Final eight weeks revision timetable
               description: |-
                 ## Purpose
-                In the final eight weeks, Principles of Business competes with every other subject on the CSEC timetable. A revision timetable that cycles through all syllabus sections twice, with timed past papers each week and your mock weaknesses first, makes sure nothing is left unrevised.
+                In the final eight weeks, Principles of Business competes with every other subject on the CSEC timetable. A revision timetable that cycles through all syllabus sections twice, with timed past papers each week and the mock weaknesses first, makes sure nothing is left unrevised.
 
                 ## Milestones
                 1. Every syllabus section placed in the first four weeks, weakest first.
@@ -992,14 +994,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "3"
               tasks:
-                - "Count back eight weeks from your exam date"
-                - "List all sections with your mock weaknesses at the top"
+                - "Count back eight weeks from the exam date"
+                - "List all sections with the mock weaknesses at the top"
                 - "Fill in two full passes and one timed paper per week"
-                - "Share the timetable with a parent so they know your study times"
+                - "Ask your teen to share the timetable so you know their study times"
             - name: Last full past paper and the final week
               description: |-
                 ## Purpose
-                The final week is for confidence and recall, not new material. One last full past paper about a week before the exam, followed by light review of definitions, the mistakes log and the examiner checklist, lets you walk in rested and sure of the format.
+                The final week is for confidence and recall, not new material. One last full past paper about a week before the exam, followed by light review of definitions, the mistakes log and the examiner checklist, lets your teen walk in rested and sure of the format.
 
                 ## Milestones
                 1. A final full past paper sat about a week before the exam.
@@ -1022,7 +1024,7 @@ starter_structure:
             - name: CSEC Principles of Business exam day plan
               description: |-
                 ## Purpose
-                Exam day goes wrong over small things: a missing candidate slip, a dead pen, arriving flustered after traffic. Deciding the night before what to bring, when to leave and how you will use the reading and writing time removes avoidable stress from the morning.
+                Exam day goes wrong over small things: a missing candidate slip, a dead pen, arriving flustered after traffic. Deciding the night before what to bring, when to leave and how they will use the reading and writing time removes avoidable stress from the morning for both of you.
 
                 ## Milestones
                 1. The exam date, start time and centre confirmed from the official timetable.
@@ -1031,19 +1033,19 @@ starter_structure:
                 4. A time plan for each paper written on a card.
 
                 ## Notes
-                Check your timetable and candidate details against what the school or local registrar gives you, not a friend's copy.
+                Check the timetable and candidate details against what the school or local registrar gives, not a friend's copy.
               priority: high
               deadlineOffsetDays: 265
               frontmatter:
                 mode: event
                 output_kind: event-completion
-                success_criteria: "On the day you arrive on time with everything required, and both papers are completed with all questions attempted."
+                success_criteria: "On the day your teen arrives on time with everything required, and both papers are completed with all questions attempted."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Confirm the date, time and centre from your official timetable"
-                - "Pack your candidate details and pens the night before"
-                - "Plan when you will leave home with a thirty-minute buffer"
+                - "Confirm the date, time and centre from the official timetable"
+                - "Pack the candidate details and pens the night before"
+                - "Plan when to leave home with a thirty-minute buffer"
                 - "Write a time plan for each paper on a small card"
             - name: Parent support for a Principles of Business student
               description: |-
@@ -1052,7 +1054,7 @@ starter_structure:
 
                 ## Milestones
                 1. The exam date and SBA deadline written on the family calendar.
-                2. A quiet study time and place agreed with your child.
+                2. A quiet study time and place agreed with your teen.
                 3. A monthly check-in on the plan, scores and SBA held.
                 4. Weekly conversations about a real business decision at home or in the news.
 
@@ -1072,7 +1074,7 @@ starter_structure:
             - name: Teacher or tutor tracker for a Principles of Business class
               description: |-
                 ## Purpose
-                A teacher or lessons tutor with a class of POB students needs to know at a glance who is behind on the SBA, which sections the class keeps getting wrong and who has not attempted a timed paper. A simple tracker updated weekly, with one shared past question set each week, keeps the whole group moving.
+                A teacher or lessons tutor with a class of POB students needs to know at a glance who is behind on the SBA, which sections the class keeps getting wrong and who has not attempted a timed paper. A simple tracker updated weekly, with one shared past question set each week, keeps the whole group moving. If your teen has a lessons tutor, this is a useful project to share with them.
 
                 ## Milestones
                 1. A class list with columns for SBA stage, Paper 01 scores and Paper 02 practice.
@@ -1093,7 +1095,7 @@ starter_structure:
             - name: Paper 032 alternative for private Principles of Business candidates
               description: |-
                 ## Purpose
-                Private candidates who are not at a school that supervises the SBA sit Paper 032 instead. Finding out its current format from the syllabus and preparing for it with the same research skills the SBA develops means private candidates lose nothing to school-based students.
+                Private candidates who are not at a school that supervises the SBA sit Paper 032 instead. Finding out its current format from the syllabus and preparing for it with the same research skills the SBA develops means private candidates lose nothing to school-based students. If your teen is sitting privately, this project takes the place of the SBA projects above.
 
                 ## Milestones
                 1. The current Paper 032 format confirmed from the syllabus.
@@ -1118,12 +1120,12 @@ starter_structure:
             - name: Grade I answers on unfamiliar business scenarios
               description: |-
                 ## Purpose
-                Top grades go to students who can apply the syllabus to a business they have never studied, such as a drone delivery start-up or a fishing cooperative facing new regulations. Practising on unusual scenarios, set by your teacher or found in recent papers, trains you to reach for the right concept quickly.
+                Top grades go to students who can apply the syllabus to a business they have never studied, such as a drone delivery start-up or a fishing cooperative facing new regulations. Practising on unusual scenarios, set by the teacher or found in recent papers, trains your teen to reach for the right concept quickly.
 
                 ## Milestones
-                1. Five unusual business scenarios collected from recent papers or your teacher.
+                1. Five unusual business scenarios collected from recent papers or the teacher.
                 2. Each one answered in full under time.
-                3. Each answer marked and the concept you missed noted.
+                3. Each answer marked and the missed concept noted.
                 4. A short list of concepts that fit most unfamiliar cases written down.
               priority: low
               frontmatter:
@@ -1133,14 +1135,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Ask your teacher for two unusual business scenarios"
+                - "Ask the teacher for two unusual business scenarios"
                 - "Answer one scenario under time without notes"
                 - "Mark it and note which concept would have earned more"
                 - "Write a list of concepts that fit most new business cases"
             - name: Results, reviews and the next step after CSEC Principles of Business
               description: |-
                 ## Purpose
-                Results arrive in the summer and lead straight into choices: CAPE Management of Business or Accounting, a business course at a community college, or work. Knowing how to read the result slip, when a review of marks makes sense and what each grade opens up lets you decide calmly rather than in a rush.
+                Results arrive in the summer and lead straight into choices: CAPE Management of Business or Accounting, a business course at a community college, or work. Knowing how to read the result slip, when a review of marks makes sense and what each grade opens up lets you and your teen decide calmly rather than in a rush.
 
                 ## Milestones
                 1. The result slip read, including the profile grades.
@@ -1158,12 +1160,12 @@ starter_structure:
               tasks:
                 - "Read the result slip and note the overall and profile grades"
                 - "Check the review of marks deadline with the local registrar"
-                - "List the courses or jobs your grade makes available"
-                - "Start the application or registration for your chosen next step"
+                - "List the courses or jobs the grade makes available"
+                - "Start the application or registration for the chosen next step"
 ---
 
 # CSEC Principles of Business
 
-This area takes a CSEC Principles of Business student from the first syllabus check to results day, in the order the subject is taught and examined. It opens with the foundations (the current syllabus, a diagnostic paper, a two-year plan, command words, a file of real local businesses and the SBA topic), sets up the weekly routines, then works through the syllabus from economic systems and business organisation, through production, starting a business and marketing, to finance, social accounting and the Caribbean in world trade, before the SBA research, exam technique, the mock and exam day, with projects for parents, teachers and private candidates at the end.
+This area helps a parent or guardian support a CSEC Principles of Business student from the first syllabus check to results day, in the order the subject is taught and examined. It opens with the foundations (the current syllabus, a diagnostic paper, a two-year plan, command words, a file of real local businesses and the SBA topic), sets up the weekly routines, then works through the syllabus from economic systems and business organisation, through production, starting a business and marketing, to finance, social accounting and the Caribbean in world trade, before the SBA research, exam technique, the mock and exam day, with a parent support project and projects for teachers and private candidates at the end.
 
-The rhythm is two weekly study sessions, daily definition cards, a weekly business news note, a monthly timed Paper 01 and Paper 02 question, a monthly mistakes review and a termly talk with your teacher. The Skills matrix, Habit tracker, Metrics log and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is two weekly study sessions, daily definition cards, a weekly business news note, a monthly timed Paper 01 and Paper 02 question, a monthly mistakes review and a termly talk with the teacher. The Skills matrix, Habit tracker, Metrics log and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

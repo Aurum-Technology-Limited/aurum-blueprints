@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-integrated-science
 name: CSEC Integrated Science
-description: "A full CSEC Integrated Science plan: the current paper format, every syllabus topic from cells to circuits to hurricanes, the SBA lab book, Paper 032 for private candidates, timed past papers and exam day."
+description: "A CSEC Integrated Science plan for parents and guardians: the current paper format, every topic from cells to circuits to hurricanes, the SBA lab book, Paper 032, timed past papers and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-integrated-science, cxc, csec, integrated-science, student, parent, educator]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,16 +25,18 @@ starter_structure:
             - name: Current Integrated Science syllabus and paper format check
               description: |-
                 ## Purpose
-                Before any revision starts, you need the syllabus your sitting will actually use, because CXC revises syllabuses and the papers can change with them. Ten minutes on the CXC website, or one question to your teacher, tells you which sections are examined, what Paper 01, Paper 02 and the SBA each look like and when the sitting falls, so nothing later is planned from an old photocopy.
+                Before any revision starts, you need the syllabus your teen's sitting will actually use, because CXC revises syllabuses and the papers can change with them. Ten minutes on the CXC website together, or one question to the science teacher, tells you which sections are examined, what Paper 01, Paper 02 and the SBA each look like and when the sitting falls, so nothing later is planned from an old photocopy.
 
                 ## Milestones
                 1. The current CSEC Integrated Science syllabus downloaded, with its effective year noted.
-                2. The format of Paper 01, Paper 02 and Paper 031 (the SBA) written on one page in your own words, taken from the syllabus.
+                2. The format of Paper 01, Paper 02 and Paper 031 (the SBA) written on one page in plain words, taken from the syllabus.
                 3. The syllabus sections and their topic lists copied onto a single checklist.
                 4. The likely sitting window and the school's SBA deadline written in the study notebook.
 
                 ## Notes
-                The main CSEC sitting runs from May to June, and a January sitting exists for some subjects; check whether Integrated Science is one of them before planning around it. Copy mark splits and timings only from the current syllabus or your teacher, never from an old revision book.
+                This plan is for a parent or guardian supporting a teenager through CSEC Integrated Science, and an older student can follow it with a parent's support.
+
+                The main CSEC sitting runs from May to June, and a January sitting exists for some subjects; confirm with the school which sitting your teen is entered for before planning around it. Copy mark splits and timings only from the current syllabus or the teacher, never from an old revision book.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -46,12 +48,12 @@ starter_structure:
               tasks:
                 - "Download the current CSEC Integrated Science syllabus from the CXC website"
                 - "Write the format of each paper on one page from the syllabus"
-                - "Ask your teacher for the school's SBA deadline and the sitting dates"
+                - "Ask the science teacher for the school's SBA deadline and the sitting dates"
                 - "Check the CXC website for a revised Integrated Science syllabus each September @recurring(yearly)"
             - name: Diagnostic past paper and three-section starting profile
               description: |-
                 ## Purpose
-                Most students guess where their weak spots are, and guess wrong. Sitting one recent past paper without notes, then sorting every lost mark into the organism, the home and workplace, or the earth section, gives a starting profile that decides where the first month of study goes.
+                Most students guess where their weak spots are, and guess wrong. Having your teen sit one recent past paper without notes, then sorting every lost mark together into the organism, the home and workplace, or the earth section, gives a starting profile that decides where the first month of study goes.
 
                 ## Milestones
                 1. One recent Paper 02 and a set of multiple choice items attempted without notes.
@@ -67,7 +69,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Get a recent past paper and its mark scheme from your teacher or the CXC store"
+                - "Get a recent past paper and its mark scheme from the teacher or the CXC store"
                 - "Sit the paper at a desk without notes or a phone"
                 - "Mark it and sort each lost mark by section and topic"
                 - "Circle the three topics that lost the most marks"
@@ -83,7 +85,7 @@ starter_structure:
                 4. Old class notes sorted into the new notebook sections or the past-paper folder.
 
                 ## Notes
-                Check with your teacher which calculators are allowed in the exam room before buying one. Diagrams are drawn in pencil, so the HB pencil matters more than it looks.
+                Check with the science teacher which calculators are allowed in the exam room before buying one. Diagrams are drawn in pencil, so the HB pencil matters more than it looks.
               priority: medium
               frontmatter:
                 mode: building
@@ -94,7 +96,7 @@ starter_structure:
               tasks:
                 - "Divide a thick notebook into tabbed sections, one per syllabus section"
                 - "Buy graph paper, HB pencils, a sharpener, a ruler and an eraser"
-                - "Ask your teacher which calculators are allowed in the exam room"
+                - "Ask the teacher which calculators are allowed in the exam room"
                 - "Sort last year's class notes into the new sections"
             - name: Integrated Science study timetable to the sitting
               description: |-
@@ -106,7 +108,7 @@ starter_structure:
                 2. Every syllabus topic placed in a week, weakest topics first.
                 3. SBA practical dates and school deadlines marked so study weeks do not clash with them.
                 4. The last six weeks kept clear for timed papers and revision.
-                5. A copy pinned where the student and a parent can both see it.
+                5. A copy pinned where your teen and you can both see it.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -118,12 +120,12 @@ starter_structure:
               tasks:
                 - "Count the weeks left until the sitting window"
                 - "Place each syllabus topic in a week, weakest topics first"
-                - "Mark the SBA practical dates from your teacher on the plan"
+                - "Mark the SBA practical dates from the teacher on the plan"
                 - "Compare the plan with the score chart and move topics that slipped @recurring(monthly:5)"
             - name: Target grade agreed with the science teacher
               description: |-
                 ## Purpose
-                A target set with the teacher who marks your lab book is more useful than one picked alone, because the teacher can see SBA marks and class tests you cannot. A ten-minute conversation, written down, gives the student a grade to aim for, the two changes most likely to raise it and a date to check again.
+                A target set with the teacher who marks the lab book is more useful than one your teen picks alone, because the teacher can see SBA marks and class tests that you and your teen cannot. A ten-minute conversation between them, written down, gives a grade to aim for, the two changes most likely to raise it and a date to check again.
 
                 ## Milestones
                 1. A short meeting held with the Integrated Science teacher.
@@ -132,7 +134,7 @@ starter_structure:
                 4. A date for the next progress conversation agreed.
 
                 ## Notes
-                Start from the **Meeting notes** template. Bring the diagnostic profile so the conversation starts from evidence rather than impressions.
+                Start from the **Meeting notes** template. Ask your teen to bring the diagnostic profile so the conversation starts from evidence rather than impressions.
               priority: medium
               deadlineOffsetDays: 30
               frontmatter:
@@ -166,14 +168,14 @@ starter_structure:
                 success_criteria: "Both banks cover every topic studied so far, and weekly recall scores are recorded for at least eight weeks in a row."
                 cadence: rolling
               tasks:
-                - "List the key terms and diagrams from the first syllabus section you study"
+                - "List the key terms and diagrams from the first syllabus section studied"
                 - "Write a definition for each term and check it against a mark scheme"
                 - "Write ten definitions from memory with the answers covered @recurring(weekly:tue)"
                 - "Redraw three diagrams from memory and check the labels @recurring(weekly:mon)"
             - name: Laboratory safety rules and apparatus names
               description: |-
                 ## Purpose
-                Practical questions and the SBA both assume you know a Bunsen burner from a spirit lamp and a measuring cylinder from a beaker, and that you can say why goggles go on before heating. Learning the apparatus, the lab rules and how to read scales properly in the first weeks makes every later practical faster and safer.
+                Practical questions and the SBA both assume a student knows a Bunsen burner from a spirit lamp and a measuring cylinder from a beaker, and can say why goggles go on before heating. Learning the apparatus, the lab rules and how to read scales properly in the first weeks makes every later practical faster and safer.
 
                 ## Milestones
                 1. The names and uses of common apparatus learned, with a sketch of each.
@@ -237,9 +239,9 @@ starter_structure:
                 success_criteria: "The habit tracker shows retrieval practice on at least twenty days in each of two consecutive months."
                 cadence: rolling
               tasks:
-                - "Write ten flashcards for the topic you studied last"
-                - "Choose a fixed fifteen-minute slot and set a phone reminder"
-                - "Quiz yourself from the cards without notes for fifteen minutes @recurring(daily)"
+                - "Write ten flashcards for the most recent topic"
+                - "Agree a fixed fifteen-minute slot with your teen and set a phone reminder"
+                - "Fifteen minutes of flashcard recall without notes @recurring(daily)"
                 - "Move each card to the know, unsure or not known pile after each session"
             - name: Saturday timed multiple choice set
               description: |-
@@ -310,7 +312,7 @@ starter_structure:
             - name: Science around the house observation log
               description: |-
                 ## Purpose
-                Integrated Science is written around everyday life, and examiners like questions about a rusting gate, a refrigerator, a solar water heater or bleach in the laundry. Noting a few pieces of science you saw at home each month, each linked to a syllabus objective, makes the home and workplace topics stick and gives ready examples for longer answers.
+                Integrated Science is written around everyday life, and examiners like questions about a rusting gate, a refrigerator, a solar water heater or bleach in the laundry. Spotting a few pieces of science around the house each month with your teen, each linked to a syllabus objective, makes the home and workplace topics stick and gives ready examples for longer answers.
 
                 ## Milestones
                 1. A page at the back of the notebook set aside for home observations.
@@ -326,7 +328,7 @@ starter_structure:
               tasks:
                 - "Start an observations page at the back of the notebook"
                 - "Note three pieces of science seen at home and their syllabus topics @recurring(monthly:16)"
-                - "Use a home example in your next structured answer"
+                - "Use a home example in the next structured answer"
                 - "Sort the examples by topic at the end of each term"
             - name: Sunday science check-in for parents
               description: |-
@@ -334,13 +336,13 @@ starter_structure:
                 Parents do not need to know what osmosis is to help. A fifteen-minute Sunday conversation about what was studied, what the score chart shows and what is due in the lab book catches missed SBA write-ups and slipping topics weeks before a report card would.
 
                 ## Milestones
-                1. A fixed Sunday time agreed between parent and student.
+                1. A fixed Sunday time agreed between you and your teen.
                 2. The timetable, score chart and SBA lab book looked at together each week.
                 3. Any missing lab write-up or request for help noted with an agreed fix.
                 4. Concerns passed to the science teacher within a week.
 
                 ## Notes
-                Ask, do not test. A question like which practical is due next works better than quizzing your child on facts.
+                Ask, do not test. A question like which practical is due next works better than quizzing your teen on facts.
               priority: low
               frontmatter:
                 mode: operating
@@ -348,7 +350,7 @@ starter_structure:
                 success_criteria: "A Sunday check-in happens at least three weeks in four, with any missing lab write-up followed up the same week."
                 cadence: rolling
               tasks:
-                - "Pick a fifteen-minute Sunday time with your son or daughter"
+                - "Pick a fifteen-minute Sunday time with your teen"
                 - "Look at the timetable, score chart and lab book together @recurring(weekly:sun)"
                 - "Note any missing write-up and agree when it will be done"
                 - "Message the science teacher about any concern that same week"
@@ -361,7 +363,7 @@ starter_structure:
                 1. Recent Integrated Science subject reports obtained from the teacher or the CXC website.
                 2. One report read each month beside its paper.
                 3. The common errors listed in the notebook with the correct approach.
-                4. Each listed error checked against your own error log.
+                4. Each listed error checked against your teen's own error log.
               priority: low
               frontmatter:
                 mode: operating
@@ -369,14 +371,14 @@ starter_structure:
                 success_criteria: "At least five subject reports have been read, with their common errors and correct approaches listed in the notebook."
                 cadence: rolling
               tasks:
-                - "Ask your teacher for recent Integrated Science subject reports"
+                - "Ask the teacher for recent Integrated Science subject reports"
                 - "Read one subject report beside its paper and list the common errors @recurring(monthly:22)"
-                - "Tick any listed error that also appears in your own log"
+                - "Tick any listed error that also appears in the error log"
                 - "Write the correct approach beside each error"
             - name: Cells, diffusion and osmosis
               description: |-
                 ## Purpose
-                Everything in the organism section builds on the cell, so this topic comes first. Learn plant and animal cell structure, what each part does, how cells form tissues and organs, and how diffusion and osmosis move substances, using a potato strip practical like the ones practical questions describe.
+                Everything in the organism section builds on the cell, so this topic comes first. It covers plant and animal cell structure, what each part does, how cells form tissues and organs, and how diffusion and osmosis move substances, using a potato strip practical like the ones practical questions describe.
 
                 ## Milestones
                 1. Labelled plant and animal cells drawn from memory with the function of each part.
@@ -393,7 +395,7 @@ starter_structure:
               tasks:
                 - "Draw and label a plant cell and an animal cell"
                 - "List three differences between plant and animal cells"
-                - "Set up a potato strip osmosis practical with your teacher or at home"
+                - "Set up a potato strip osmosis practical at school or together at home"
                 - "Answer the past-paper questions on cells and mark them"
             - name: Photosynthesis, leaf structure and plant nutrition
               description: |-
@@ -466,7 +468,7 @@ starter_structure:
             - name: Heart, blood and transport in plants
               description: |-
                 ## Purpose
-                Transport questions ask students to trace blood through the heart, explain what each part of blood does and compare that with how water moves up a plant. Building a single summary page for both lets you answer the comparison questions that examiners like to set across the two.
+                Transport questions ask students to trace blood through the heart, explain what each part of blood does and compare that with how water moves up a plant. Building a single summary page for both prepares your teen for the comparison questions that examiners like to set across the two.
 
                 ## Milestones
                 1. A labelled heart drawn with the path of blood through all four chambers.
@@ -511,7 +513,7 @@ starter_structure:
             - name: Eye, ear, nerves and hormones
               description: |-
                 ## Purpose
-                Coordination questions combine diagrams with everyday situations: why you squint in bright sun, what happens when you touch a hot pot, or how glasses correct short sight. Learning the eye and ear, the reflex arc and a few key hormones prepares students for both the drawing and the explaining marks in this topic.
+                Coordination questions combine diagrams with everyday situations: why people squint in bright sun, what happens when a hand touches a hot pot, or how glasses correct short sight. Learning the eye and ear, the reflex arc and a few key hormones prepares students for both the drawing and the explaining marks in this topic.
 
                 ## Milestones
                 1. Labelled diagrams of the eye and ear drawn from memory.
@@ -534,7 +536,7 @@ starter_structure:
             - name: Human reproduction, growth and family planning
               description: |-
                 ## Purpose
-                Reproduction questions cover the male and female systems, the menstrual cycle, pregnancy, birth control methods and sexually transmitted infections, often with a health message attached. Learning the science plainly and accurately, with labelled diagrams, lets the student answer factually without embarrassment, and gives parents a useful opening for conversations at home.
+                Reproduction questions cover the male and female systems, the menstrual cycle, pregnancy, birth control methods and sexually transmitted infections, often with a health message attached. Learning the science plainly and accurately, with labelled diagrams, lets your teen answer factually without embarrassment, and gives you a useful opening for conversations at home.
 
                 ## Milestones
                 1. Labelled male and female reproductive systems drawn from memory.
@@ -580,7 +582,7 @@ starter_structure:
             - name: Disease, vectors, sanitation and drug abuse
               description: |-
                 ## Purpose
-                Health questions in Integrated Science are firmly Caribbean: the Aedes aegypti mosquito and dengue, rats and leptospirosis, safe water and waste disposal, and the effects of alcohol and other drugs. Learning disease types, vector life cycles and control methods turns news stories you already know into exam answers.
+                Health questions in Integrated Science are firmly Caribbean: the Aedes aegypti mosquito and dengue, rats and leptospirosis, safe water and waste disposal, and the effects of alcohol and other drugs. Learning disease types, vector life cycles and control methods turns news stories the family already knows into exam answers.
 
                 ## Milestones
                 1. Diseases grouped as infectious, deficiency, inherited and lifestyle, with examples.
@@ -625,7 +627,7 @@ starter_structure:
             - name: Heat transfer, ventilation and keeping cool
               description: |-
                 ## Purpose
-                Conduction, convection and radiation explain why a galvanise roof heats a house, why louvres and roof vents help, and how a cooler or refrigerator keeps food cold. Learning the three methods with household examples, plus how thermometers work, prepares you for this part of the home and workplace section.
+                Conduction, convection and radiation explain why a galvanise roof heats a house, why louvres and roof vents help, and how a cooler or refrigerator keeps food cold. Learning the three methods with household examples, plus how thermometers work, prepares your teen for this part of the home and workplace section.
 
                 ## Milestones
                 1. Conduction, convection and radiation explained with a household example of each.
@@ -743,7 +745,7 @@ starter_structure:
             - name: Acids, alkalis, cleaning agents and hard water
               description: |-
                 ## Purpose
-                Household chemicals make a chemistry topic you can see under the kitchen sink: vinegar, baking soda, bleach, drain cleaner and soap. Learning the pH scale, neutralisation, how soaps and detergents work and why hard water forms scum covers this part of the syllabus and teaches the rules for storing chemicals safely at home.
+                Household chemicals make a chemistry topic the family can see under the kitchen sink: vinegar, baking soda, bleach, drain cleaner and soap. Learning the pH scale, neutralisation, how soaps and detergents work and why hard water forms scum covers this part of the syllabus and teaches the rules for storing chemicals safely at home.
 
                 ## Milestones
                 1. Household substances sorted as acidic, neutral or alkaline using an indicator or pH paper.
@@ -753,7 +755,7 @@ starter_structure:
                 5. Past-paper questions on household chemicals answered and marked.
 
                 ## Notes
-                Never mix bleach with other cleaners when testing, and keep the tests to small amounts of mild substances like vinegar, lime juice and baking soda.
+                Never mix bleach with other cleaners when testing, and keep any home tests to small amounts of mild substances like vinegar, lime juice and baking soda, with an adult nearby.
               priority: medium
               frontmatter:
                 mode: building
@@ -939,7 +941,7 @@ starter_structure:
                 Planning and designing labs ask students to write a hypothesis, choose variables and describe a method for an experiment nobody has given them, and vague aims lose marks fast. Practising with everyday questions, such as which paper towel absorbs most water or whether salt water speeds up rusting, builds the habit of a testable hypothesis and a fair test.
 
                 ## Milestones
-                1. Hypothesis, independent variable, dependent variable and controlled variables explained clearly in your notes.
+                1. Hypothesis, independent variable, dependent variable and controlled variables explained clearly in the notes.
                 2. Two practice plans written for everyday questions and marked by the teacher.
                 3. The assessed planning and designing lab written up with every required heading.
                 4. Teacher feedback on the plan recorded and acted on.
@@ -1023,8 +1025,8 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "Choose a past paper you have not seen before"
-                - "Ask a parent to time both papers and hold on to the phone"
+                - "Choose a past paper your teen has not seen before"
+                - "Offer to time both papers and hold on to the phone"
                 - "Mark both papers against the scheme"
                 - "Write a pace plan based on where time ran short"
             - name: School mock exam and script review
@@ -1076,7 +1078,7 @@ starter_structure:
                 effort_hours_estimate: "40"
               tasks:
                 - "Write a six-week countdown that rotates the syllabus sections"
-                - "Revise one topic from the countdown list and test yourself on it @recurring(daily)"
+                - "Revise one topic from the countdown list, then a short self-test on it @recurring(daily)"
                 - "Sit one full timed paper each weekend"
                 - "Sit the last full past paper about a week before the exam"
             - name: Exam morning plan for Integrated Science
@@ -1101,17 +1103,17 @@ starter_structure:
                 - "Check the exam dates and venue on the official timetable"
                 - "Pack the exam kit the night before each paper"
                 - "Arrange transport and a back-up ride"
-                - "Decide how you will use the first few minutes of each paper"
+                - "Ask your teen how they will use the first few minutes of each paper"
             - name: Integrated Science or the separate sciences in Form Three
               description: |-
                 ## Purpose
-                In Form Three, students and parents often choose between Integrated Science and some mix of Biology, Chemistry and Physics, and the choice can affect later study and career routes. Checking the entry requirements for the courses and jobs being considered, and talking to the science teachers, lets the family decide on evidence rather than on what friends are taking.
+                In Form Three, students and parents often choose between Integrated Science and some mix of Biology, Chemistry and Physics, and the choice can affect later study and career routes. Checking the entry requirements for the courses and jobs your teen is considering, and talking to the science teachers, lets the family decide on evidence rather than on what friends are taking.
 
                 ## Milestones
-                1. Two or three possible study or career routes listed for the student.
+                1. Two or three possible study or career routes listed with your teen.
                 2. The science requirements for each route checked with the institution or a careers adviser.
                 3. The school's subject options and any limits on combinations confirmed.
-                4. A decision recorded with the reasons, agreed by student and parent.
+                4. A decision recorded with the reasons, agreed by you and your teen.
 
                 ## Notes
                 Some programmes accept Integrated Science and others ask for a single science such as Biology. Check each one directly rather than relying on what someone remembers.
@@ -1120,11 +1122,11 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A written subject decision, with the science requirements of each route the student is considering checked and noted, is agreed by student and parent."
+                success_criteria: "A written subject decision, with the science requirements of each route your teen is considering checked and noted, is agreed by parent and teen."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "List two or three study or career routes the student is considering"
+                - "List two or three study or career routes your teen is considering"
                 - "Check the science entry requirements for each route"
                 - "Ask the school which subject combinations are allowed"
                 - "Write down the decision and the reasons together"
@@ -1140,7 +1142,7 @@ starter_structure:
                 4. Past Paper 032 questions answered and marked.
 
                 ## Notes
-                Registration itself goes through your local registrar; this project covers the science. Use only safe household materials and do any heating in the kitchen with another adult present.
+                Registration itself goes through the local registrar; this project covers the science. If your teen is sitting privately, use only safe household materials and do any heating in the kitchen with an adult present.
               priority: medium
               frontmatter:
                 mode: building
@@ -1149,14 +1151,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "20"
               tasks:
-                - "Confirm with the local registrar that your entry shows Paper 032"
+                - "Confirm with the local registrar that the entry shows Paper 032"
                 - "Get past Paper 032 papers from the CXC store or a tutor"
                 - "Do one home practical and write it up in report format @recurring(weekly:sat)"
                 - "Answer a past Paper 032 and mark it against the scheme"
             - name: SBA practical schedule and moderation sample for teachers
               description: |-
                 ## Purpose
-                Teachers carrying several Integrated Science classes need every student to complete the required practicals, marked consistently, before the school's SBA deadline. A year plan of labs mapped to the assessed skills, a weekly marking routine and a carefully chosen moderation sample make the SBA a steady process rather than a final-term rush.
+                Teachers carrying several Integrated Science classes need every student to complete the required practicals, marked consistently, before the school's SBA deadline. A year plan of labs mapped to the assessed skills, a weekly marking routine and a carefully chosen moderation sample make the SBA a steady process rather than a final-term rush. If the science teacher is open to it, share this outline, or use it to ask how your teen's class is tracking.
 
                 ## Milestones
                 1. Every required practical scheduled across the year with the skill each assesses.
@@ -1191,14 +1193,14 @@ starter_structure:
                 success_criteria: "At least six monthly stretch sets are attempted and marked, with the average of the last three higher than the first three."
                 cadence: rolling
               tasks:
-                - "Ask your teacher for the hardest Paper 02 questions from recent years"
+                - "Ask the teacher for the hardest Paper 02 questions from recent years"
                 - "Attempt one stretch set unaided and mark it strictly @recurring(monthly:18)"
-                - "Compare your answers with a model answer and note what was missing"
-                - "Add each cross-topic link you find to a list in the notebook"
+                - "Compare each answer with a model answer and note what was missing"
+                - "Add each cross-topic link found to a list in the notebook"
 ---
 
 # CSEC Integrated Science
 
-Everything a Form Four or Form Five student, a parent or a science teacher needs to take CSEC Integrated Science from a first diagnostic paper to the exam room. It opens with set-up (the syllabus and paper format check, a diagnostic paper, the study kit, a timetable, a target grade, definition and diagram banks and lab safety), then the weekly routines, then the syllabus in order through the organism and its environment, the home and workplace, and the earth, each topic ending with past-paper questions. After that come the SBA lab book, Paper 02 technique, timed papers, the mock and exam day, then projects for the Form Three subject choice, private candidates sitting Paper 032, teachers running the SBA and students chasing a Grade I.
+Everything a parent or guardian needs to support a Form Four or Form Five student through CSEC Integrated Science, from a first diagnostic paper to the exam room. It opens with set-up (the syllabus and paper format check, a diagnostic paper, the study kit, a timetable, a target grade, definition and diagram banks and lab safety), then the weekly routines, then the syllabus in order through the organism and its environment, the home and workplace, and the earth, each topic ending with past-paper questions. After that come the SBA lab book, Paper 02 technique, timed papers, the mock and exam day, then projects for the Form Three subject choice, private candidates sitting Paper 032, teachers running the SBA and a teenager chasing a Grade I.
 
-The rhythm is light but steady: fifteen minutes of retrieval most days, diagrams on Monday, definitions on Tuesday, a structured question on Wednesday, the lab book on Thursday, the error log on Friday, a multiple choice set on Saturday and a short parent check-in on Sunday, with a monthly score chart, retest and examiner report. The Meeting notes, Remediation plan, Habit tracker and Metrics log templates pair with the projects that point at them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is light but steady: fifteen minutes of retrieval on most days, diagrams on Monday, definitions on Tuesday, a structured question on Wednesday, the lab book on Thursday, the error log on Friday, a multiple choice set on Saturday and a short family check-in on Sunday, with a monthly score chart, retest and examiner report. The Meeting notes, Remediation plan, Habit tracker and Metrics log templates pair with the projects that point at them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-human-social-biology
 name: CSEC Human and Social Biology
-description: "A full CSEC Human and Social Biology plan: the paper format check, every syllabus section from cells to disease and the environment, the SBA lab book, timed past papers and exam day."
+description: "A CSEC Human and Social Biology plan for parents and guardians: the paper format check, every section from cells to disease and the environment, the SBA lab book, timed past papers and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-human-social-biology, cxc, csec, hsb, biology, student, parent]
@@ -17,7 +17,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -27,17 +27,19 @@ starter_structure:
             - name: Current CSEC Human and Social Biology syllabus and paper check
               description: |-
                 ## Purpose
-                Human and Social Biology is examined from a syllabus that CXC revises from time to time, and old revision books still circulate with sections in a different order or topics that have since moved. One evening with the current syllabus from the CXC website settles which sections are examined, what Paper 01, Paper 02, the SBA (Paper 031) and the alternative Paper 032 each involve, and which practical skills are marked, before any timetable is built on guesswork.
+                Human and Social Biology is examined from a syllabus that CXC revises from time to time, and old revision books still circulate with sections in a different order or topics that have since moved. One evening with the current syllabus from the CXC website, ideally with your teen, settles which sections are examined, what Paper 01, Paper 02, the SBA (Paper 031) and the alternative Paper 032 each involve, and which practical skills are marked, before any timetable is built on guesswork.
 
                 ## Milestones
-                1. The current CSEC Human and Social Biology syllabus downloaded from the CXC website and saved where the student studies.
+                1. The current CSEC Human and Social Biology syllabus downloaded from the CXC website and saved where your teen studies.
                 2. Every syllabus section and its specific objectives listed in the syllabus's own order on one page.
                 3. The format of Paper 01, Paper 02, Paper 031 and Paper 032 written in plain words, exactly as the syllabus states it.
                 4. The practical skills the SBA assesses copied from the syllabus onto the same page.
                 5. This year's HSB exam dates noted from the published CXC timetable once it is released.
 
                 ## Notes
-                Take weightings, timings and question counts only from the current syllabus or the school's copy of it. CSEC's main sitting runs from May to June and a January sitting exists for some subjects, so confirm with the school or the local registrar which sitting you are entered for.
+                This plan is for a parent or guardian supporting a teenager through CSEC Human and Social Biology, and an older student can follow it with a parent's support.
+
+                Take weightings, timings and question counts only from the current syllabus or the school's copy of it. CSEC's main sitting runs from May to June and a January sitting exists for some subjects, so confirm with the school or the local registrar which sitting your teen is entered for.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -50,12 +52,12 @@ starter_structure:
                 - "Check the current syllabus and timetable on the CXC website and note the paper format"
                 - "List the HSB syllabus sections in their published order on one page"
                 - "Copy the SBA skills the syllabus names onto the same page"
-                - "Show the summary page to your HSB teacher and ask what the school adds"
+                - "Your teen shows the summary page to the HSB teacher and asks what the school adds"
                 - "Check the CXC website for a revised HSB syllabus each September @recurring(yearly)"
             - name: Diagnostic HSB past paper and topic profile
               description: |-
                 ## Purpose
-                Most Form Four students guess they are weakest in genetics and strongest in nutrition, and a diagnostic paper usually tells a different story. Sitting one recent Paper 01 and two Paper 02 questions without notes, then marking them against the mark scheme, gives a section-by-section picture that decides where the first months of study go.
+                Most Form Four students guess they are weakest in genetics and strongest in nutrition, and a diagnostic paper usually tells a different story. Having your teen sit one recent Paper 01 and two Paper 02 questions without notes, then marking them together against the mark scheme, gives a section-by-section picture that decides where the first months of study go.
 
                 ## Milestones
                 1. One recent Paper 01 and two Paper 02 questions attempted without notes.
@@ -79,11 +81,11 @@ starter_structure:
                 - "Sit the multiple choice paper without notes in one sitting"
                 - "Answer two structured Paper 02 questions and mark them with the mark scheme"
                 - "Tag every lost mark with its syllabus section"
-                - "Rank your three weakest sections and show your teacher"
+                - "Rank the three weakest sections and share them with the teacher"
             - name: Checking HSB against CAPE, nursing and college entry plans
               description: |-
                 ## Purpose
-                HSB is widely accepted as a science pass, but some CAPE science units, nursing schools, allied health programmes and overseas colleges ask specifically for Biology, Chemistry or a second science. Checking the entry rules of two or three places you might apply to, before subject choices are locked, avoids discovering in Form Six that HSB alone does not open the door you wanted.
+                HSB is widely accepted as a science pass, but some CAPE science units, nursing schools, allied health programmes and overseas colleges ask specifically for Biology, Chemistry or a second science. Checking the entry rules of two or three places your teen might apply to, before subject choices are locked, avoids discovering in Form Six that HSB alone does not open the door they wanted.
 
                 ## Milestones
                 1. Two or three likely next steps named: a CAPE subject, a nursing or allied health programme, a college or an overseas course.
@@ -102,24 +104,24 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Write down two or three courses or careers you might apply for after CSEC"
+                - "Ask your teen for two or three courses or careers they might apply for after CSEC"
                 - "Find each one's published science entry requirement on its admissions page"
                 - "Note whether HSB alone meets each requirement"
                 - "Book a short meeting with the guidance counsellor about any gap"
-                - "Record the decision and the reason in your study folder"
+                - "Record the decision and the reason in the study folder"
             - name: Drawing kit, lab notebook and home study corner
               description: |-
                 ## Purpose
-                Biological drawings lose marks to thick lines, shading and smudged labels long before they lose marks to wrong content. A small kit of sharp HB pencils, a clear ruler, a good eraser and a hard-backed lab notebook, kept in a quiet corner with a lamp and a box for past papers, removes the excuses on evenings when a parent is not home to check.
+                Biological drawings lose marks to thick lines, shading and smudged labels long before they lose marks to wrong content. A small kit of sharp HB pencils, a clear ruler, a good eraser and a hard-backed lab notebook, kept in a quiet corner with a lamp and a box for past papers, removes the excuses on evenings when you are not home to check.
 
                 ## Milestones
                 1. Two HB pencils, a sharpener, a clear 30 cm ruler and a soft eraser kept in one pencil case.
                 2. A hard-backed notebook bought or set aside only for HSB lab write-ups.
                 3. A study corner with a flat surface, a light and a shelf or box for HSB papers.
-                4. Phones charging outside the corner during study time, agreed by student and parent.
+                4. Phones charging outside the corner during study time, agreed between you and your teen.
 
                 ## Notes
-                Parents do not need to know any biology to set this up. A cheap desk lamp and a box file often matter more than a new textbook.
+                You do not need to know any biology to set this up. A cheap desk lamp and a box file often matter more than a new textbook.
               priority: medium
               frontmatter:
                 mode: building
@@ -136,14 +138,14 @@ starter_structure:
             - name: HSB study timetable to the exam sitting
               description: |-
                 ## Purpose
-                Twenty syllabus topics, a lab book and a mock exam all compete with eight or nine other subjects for the same evenings. A timetable that counts back from the HSB exam date, places the weakest sections from the diagnostic first and protects a buffer before the mock turns the syllabus into a plan the student can actually follow.
+                Twenty syllabus topics, a lab book and a mock exam all compete with eight or nine other subjects for the same evenings. A timetable that counts back from the HSB exam date, places the weakest sections from the diagnostic first and protects a buffer before the mock turns the syllabus into a plan your teen can actually follow, and one you can glance at too.
 
                 ## Milestones
                 1. The number of school weeks to the sitting counted and written at the top.
                 2. Every syllabus section given at least one week, with the weakest sections from the diagnostic placed early.
                 3. SBA lab deadlines and the school mock marked on the same calendar.
                 4. Two or three fixed weekly HSB slots chosen around other subjects and activities.
-                5. A copy pinned in the study corner and one shared with a parent.
+                5. A copy pinned in the study corner and one kept by you.
 
                 ## Notes
                 Leave two empty weeks before the mock. Every timetable slips, and a buffer stops one bad fortnight from wrecking the plan.
@@ -152,19 +154,19 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A dated timetable covering every syllabus section, SBA deadline and the mock, pinned in the study corner and shared with a parent."
+                success_criteria: "A dated timetable covering every syllabus section, SBA deadline and the mock, pinned in the study corner and shared with you."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
                 - "Count the school weeks between today and the HSB exam"
                 - "Place each syllabus section into a week, weakest first"
                 - "Mark the SBA deadlines and mock dates on the same calendar"
-                - "Pin the timetable in the study corner and give a copy to a parent"
+                - "Pin the timetable in the study corner and keep a copy yourself"
                 - "Move any missed topic into a buffer week at month end @recurring(monthly:28)"
             - name: Agreeing a target grade with the HSB teacher
               description: |-
                 ## Purpose
-                A target grade is useful only if the teacher agrees it is reachable and the student knows what it means week to week. A short conversation after the diagnostic, written up the same day, sets an honest goal, names the two habits that would move the grade and gives the teacher a reason to check in.
+                A target grade is useful only if the teacher agrees it is reachable and your teen knows what it means week to week. A short conversation between them after the diagnostic, written up the same day, sets an honest goal, names the two habits that would move the grade and gives the teacher a reason to check in.
 
                 ## Milestones
                 1. A ten-minute meeting with the HSB teacher held after the diagnostic.
@@ -173,7 +175,7 @@ starter_structure:
                 4. A date agreed to revisit the target after the next term test.
 
                 ## Notes
-                Start from the **Meeting notes** template. Bring the diagnostic profile so the conversation is about evidence, not hope.
+                Start from the **Meeting notes** template. Ask your teen to bring the diagnostic profile so the conversation is about evidence, not hope. You can join, but let them lead.
               priority: medium
               frontmatter:
                 mode: building
@@ -182,14 +184,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "1"
               tasks:
-                - "Ask the HSB teacher for ten minutes after class this week"
-                - "Bring the diagnostic profile and your weakest sections to the meeting"
+                - "Your teen asks the HSB teacher for ten minutes after class this week"
+                - "Bring the diagnostic profile and the weakest sections to the meeting"
                 - "Write down the agreed target grade and the two habits"
                 - "Revisit the target with the teacher after each term test @recurring(quarterly)"
             - name: HSB key terms and definitions glossary
               description: |-
                 ## Purpose
-                HSB mark schemes often give the mark only for the precise wording: osmosis needs a partially permeable membrane, an enzyme is a biological catalyst, a vector carries a pathogen from one host to another. A personal glossary built section by section, in the student's own handwriting and checked against the textbook, turns those definitions into marks that do not depend on luck.
+                HSB mark schemes often give the mark only for the precise wording: osmosis needs a partially permeable membrane, an enzyme is a biological catalyst, a vector carries a pathogen from one host to another. A personal glossary built section by section, in your teen's own handwriting and checked against the textbook, turns those definitions into marks that do not depend on luck.
 
                 ## Milestones
                 1. A glossary notebook or document divided by syllabus section.
@@ -229,7 +231,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "List every diagram the syllabus asks you to draw or label"
+                - "List every diagram the syllabus asks students to draw or label"
                 - "Draw the heart and the alimentary canal neatly from the textbook"
                 - "Make unlabelled copies of each diagram for self-testing"
                 - "Redraw one diagram from memory and check the labels @recurring(weekly:thu)"
@@ -254,7 +256,7 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Set up a card box with new, shaky and known sections"
-                - "Write twenty cards from the topic you finished most recently"
+                - "Write twenty cards from the most recently finished topic"
                 - "Go through fifteen minutes of recall cards before dinner @recurring(daily)"
                 - "Move cards between sections based on today's answers"
             - name: HSB misconception and error log
@@ -275,7 +277,7 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Set up an error log with section, wrong answer, correct answer and reason columns"
-                - "Enter the mistakes from your diagnostic paper"
+                - "Enter the mistakes from the diagnostic paper"
                 - "Add this week's wrong answers to the error log @recurring(weekly:fri)"
                 - "Retest ten old errors from the log without notes @recurring(monthly:12)"
             - name: Saturday Paper 01 multiple choice set and score log
@@ -301,7 +303,7 @@ starter_structure:
                 - "Gather past Paper 01 questions sorted by syllabus section"
                 - "Set up a score log with date, section and score columns"
                 - "Do a timed set of multiple choice questions on finished topics @recurring(weekly:sat)"
-                - "Flag any section scoring below your average for next week"
+                - "Flag any section scoring below the running average for next week"
             - name: Midweek structured question against the mark scheme
               description: |-
                 ## Purpose
@@ -343,11 +345,11 @@ starter_structure:
                 - "List past extended questions on disease, health and the environment"
                 - "Plan and write one extended answer in full paragraphs @recurring(monthly:18)"
                 - "Check each paragraph has a point, an explanation and a community example"
-                - "Hand three answers to your teacher for written feedback"
+                - "Hand three answers to the teacher for written feedback"
             - name: Caribbean public health news file
               description: |-
                 ## Purpose
-                Examiners like answers that use real examples, and the region supplies plenty: dengue alerts after heavy rain, boil-water notices after floods, campaigns on diabetes and hypertension, vaccination drives. Keeping a short file of these stories, each tied to a syllabus topic, gives the student fresh examples for extended answers and makes the subject feel like it is about their own island.
+                Examiners like answers that use real examples, and the region supplies plenty: dengue alerts after heavy rain, boil-water notices after floods, campaigns on diabetes and hypertension, vaccination drives. Keeping a short file of these stories with your teen, each tied to a syllabus topic, gives fresh examples for extended answers and makes the subject feel like it is about their own island.
 
                 ## Milestones
                 1. A folder or notebook for health and environment stories from local news and the Ministry of Health.
@@ -374,13 +376,13 @@ starter_structure:
                 A parent who left biology behind years ago can still help, by asking the same short questions each week rather than by teaching. Ten minutes on Sunday looking at the score log, the error log and the lab book shows whether practice is happening and whether any SBA write-up is falling behind, while there is still time to fix it.
 
                 ## Milestones
-                1. A fixed Sunday time agreed between parent and student.
+                1. A fixed Sunday time agreed between you and your teen.
                 2. The Saturday score, the error log and the lab book looked at together each week.
-                3. One question asked each time: what help do you need this week.
+                3. One question asked each time: what help do they need this week.
                 4. Any concern about the lab book or marks passed to the teacher within the week.
 
                 ## Notes
-                Keep it short and calm. Topics such as reproduction and sexually transmitted infections are easier to talk about if the parent has glanced at the syllabus section list first.
+                Keep it short and calm. Topics such as reproduction and sexually transmitted infections are easier to talk about if you have glanced at the syllabus section list first.
               priority: low
               frontmatter:
                 mode: operating
@@ -388,7 +390,7 @@ starter_structure:
                 success_criteria: "A Sunday check-in held on at least three Sundays a month for a term, with any lab book concern raised with the teacher that week."
                 cadence: rolling
               tasks:
-                - "Agree a ten-minute Sunday slot with your child"
+                - "Agree a ten-minute Sunday slot with your teen"
                 - "Read the HSB syllabus section list so you know the topics"
                 - "Look at the score log and lab book together @recurring(weekly:sun)"
                 - "Message the teacher about any lab write-up that is behind"
@@ -409,10 +411,10 @@ starter_structure:
                 success_criteria: "A one-page examiner comments checklist built from at least three subject reports and used in practice marking."
                 cadence: rolling
               tasks:
-                - "Find the most recent HSB subject reports from CXC or your teacher"
+                - "Find the most recent HSB subject reports from CXC or the teacher"
                 - "Read one subject report and note where candidates lost marks @recurring(monthly:24)"
                 - "Build a one-page checklist of repeated examiner comments"
-                - "Keep the checklist beside you when marking practice answers"
+                - "Keep the checklist nearby when marking practice answers"
             - name: Living things, cells, diffusion and osmosis
               description: |-
                 ## Purpose
@@ -434,7 +436,7 @@ starter_structure:
               tasks:
                 - "Draw and label a plant cell and an animal cell from the textbook"
                 - "Make a table comparing diffusion, osmosis and active transport"
-                - "Carry out the potato strip osmosis practical with your teacher's method"
+                - "Carry out the potato strip osmosis practical with the teacher's method"
                 - "Answer this section's past-paper questions and mark them"
             - name: Photosynthesis, food chains and nutrient cycles
               description: |-
@@ -551,7 +553,7 @@ starter_structure:
                 - "Draw the heart and trace the path of blood with arrows"
                 - "Compare arteries, veins and capillaries in a three-column table"
                 - "Explain why blood groups matter in a transfusion"
-                - "Take and record your pulse at rest and after two minutes of exercise"
+                - "Take and record a resting pulse and again after two minutes of exercise"
                 - "Finish two past-paper circulation questions and mark them"
             - name: Skeleton, joints and muscles in movement
               description: |-
@@ -597,7 +599,7 @@ starter_structure:
                 - "Write the difference between excretion and egestion in one sentence"
                 - "Draw a nephron and mark where filtration and reabsorption happen"
                 - "Explain how sweating and skin blood vessels cool the body"
-                - "Mark your answers to two past-paper excretion questions"
+                - "Mark the answers to two past-paper excretion questions"
             - name: Nervous system, reflexes and hormones
               description: |-
                 ## Purpose
@@ -648,7 +650,7 @@ starter_structure:
             - name: Reproductive systems, menstrual cycle and fertilisation
               description: |-
                 ## Purpose
-                Reproduction is examined in detail, and some students lose marks simply because they feel awkward writing the correct terms. Learning the male and female systems, the menstrual cycle and fertilisation with proper vocabulary, as calmly as any other body system, makes these some of the most reliable marks in the paper.
+                Reproduction is examined in detail, and some students lose marks simply because they feel awkward writing the correct terms. Learning the male and female systems, the menstrual cycle and fertilisation with proper vocabulary, as calmly as any other body system, makes these some of the most reliable marks in the paper, and a matter-of-fact tone at home helps.
 
                 ## Milestones
                 1. The male and female reproductive systems drawn and labelled with each part's function.
@@ -666,7 +668,7 @@ starter_structure:
                 - "Label the male and female reproductive systems with functions"
                 - "Draw the menstrual cycle as a timeline marking ovulation"
                 - "Describe in order the steps from ovulation to implantation"
-                - "Mark your answers to reproduction questions from two past papers"
+                - "Mark the answers to reproduction questions from two past papers"
             - name: Pregnancy, birth, prenatal care and birth control
               description: |-
                 ## Purpose
@@ -787,7 +789,7 @@ starter_structure:
               tasks:
                 - "Draw the mosquito life cycle and mark where each control method acts"
                 - "Make a table of the mosquito, the rat and the housefly with diseases and control"
-                - "Walk round your yard and list any mosquito breeding sites"
+                - "Walk round the yard together and list any mosquito breeding sites"
                 - "Answer and mark the vector questions from two past papers"
             - name: Immunity, vaccines and antibiotics
               description: |-
@@ -811,7 +813,7 @@ starter_structure:
                 - "Explain how phagocytes and lymphocytes protect the body"
                 - "Sort the four types of immunity into a table with examples"
                 - "Explain in four steps how a vaccine gives protection"
-                - "Mark your answers to past-paper questions on immunity"
+                - "Mark the answers to past-paper questions on immunity"
             - name: Sexually transmitted infections, HIV and substance misuse
               description: |-
                 ## Purpose
@@ -841,7 +843,7 @@ starter_structure:
             - name: Water treatment, sewage and solid waste
               description: |-
                 ## Purpose
-                Safe water and proper waste disposal prevent more disease than any medicine, and HSB asks how a treatment plant makes water safe, how sewage systems and septic tanks deal with waste, and how solid waste is collected, landfilled or recycled. Tracing where your own household's water comes from and where its rubbish goes gives concrete examples that make these answers stand out.
+                Safe water and proper waste disposal prevent more disease than any medicine, and HSB asks how a treatment plant makes water safe, how sewage systems and septic tanks deal with waste, and how solid waste is collected, landfilled or recycled. Tracing where your household's water comes from and where its rubbish goes, with your teen, gives concrete examples that make these answers stand out.
 
                 ## Milestones
                 1. The stages of water treatment, from storage and screening to chlorination, described in order.
@@ -857,7 +859,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Find out where your household water comes from and how it is treated"
+                - "Find out together where the household water comes from and how it is treated"
                 - "Draw the stages of a water treatment plant in order"
                 - "Compare a septic tank and a pit latrine in a short table"
                 - "List three problems caused by open dumping or burning rubbish"
@@ -906,7 +908,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Ask your teacher for the school's SBA lab format and marking sheet"
+                - "Ask the teacher for the school's SBA lab format and marking sheet"
                 - "Set up a contents page listing practicals, dates and skills assessed"
                 - "Write up the first practical within two days using the agreed layout"
                 - "Photograph each marked lab write-up and store the photos in one folder"
@@ -932,12 +934,12 @@ starter_structure:
               tasks:
                 - "Write a planning checklist from the teacher's marking sheet"
                 - "Plan a practice investigation on how temperature affects an enzyme"
-                - "Ask your teacher to mark both practice plans before the assessed one"
+                - "Ask the teacher to mark both practice plans before the assessed one"
                 - "Hand in the assessed planning and designing lab by the school deadline"
             - name: SBA lab book completion and submission
               description: |-
                 ## Purpose
-                Schools send SBA marks to CXC by a fixed date, and every year some students discover gaps in their lab book a week before the internal deadline. Auditing the lab book against the list of required practicals, chasing missing marks and finishing corrections a full month early makes the final submission a formality.
+                Schools send SBA marks to CXC by a fixed date, and every year some students discover gaps in their lab book a week before the internal deadline. Checking with your teen that the lab book matches the list of required practicals, chasing missing marks and finishing corrections a full month early makes the final submission a formality.
 
                 ## Milestones
                 1. Every required practical listed and ticked against the lab book.
@@ -956,7 +958,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "Tick every required practical against your lab book contents page"
+                - "Tick every required practical against the lab book contents page"
                 - "List any missing or unmarked labs and ask how to complete them"
                 - "Finish all corrections the teacher has asked for"
                 - "Hand in the lab book by the school deadline and keep photos of every page"
@@ -978,7 +980,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Write a checklist for biological drawings and stick it in your lab book"
+                - "Write a checklist for biological drawings and stick it in the lab book"
                 - "Write a checklist for tables and graphs with units and axis rules"
                 - "Plot three graphs from past-paper data and check them"
                 - "Describe the trend in two data questions using figures from the graph"
@@ -1001,8 +1003,8 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "Write four multiple choice techniques on a card"
-                - "Practise covering the options and answering before you look"
-                - "Mark misreads separately from knowledge gaps in your next set"
+                - "Practise covering the options and answering before looking"
+                - "Mark misreads separately from knowledge gaps in the next set"
                 - "Test a pacing plan on a full timed Paper 01"
             - name: Paper 02 time plan and command words
               description: |-
@@ -1029,7 +1031,7 @@ starter_structure:
             - name: First full timed HSB past paper at home
               description: |-
                 ## Purpose
-                Knowing the content is not the same as doing a whole paper in exam conditions, and the first full sitting is usually a shock. Doing it at home a few months before the mock, with a parent keeping time and the phone in another room, shows where stamina and timing fail while there is still time to fix them.
+                Knowing the content is not the same as doing a whole paper in exam conditions, and the first full sitting is usually a shock. Doing it at home a few months before the mock, with you keeping time and the phone in another room, shows where stamina and timing fail while there is still time to fix them.
 
                 ## Milestones
                 1. A recent full past paper chosen that the student has not seen.
@@ -1046,7 +1048,7 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Choose an unseen recent past paper and its mark scheme"
-                - "Ask a parent to keep time and hold the phone"
+                - "Offer to keep time and hold the phone"
                 - "Sit both papers under the timing stated in the syllabus"
                 - "Mark both papers and record the score by section"
                 - "Change three things in the timetable based on the result"
@@ -1072,8 +1074,8 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "Confirm the mock dates and topics with your HSB teacher"
-                - "Collect your marked script and sort lost marks by cause"
+                - "Confirm the mock dates and topics with the HSB teacher"
+                - "Collect the marked script and sort lost marks by cause"
                 - "Write a remediation plan of the five biggest fixes"
                 - "Go through the plan with the teacher before the next term"
             - name: Final six weeks of HSB revision
@@ -1118,7 +1120,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Check the HSB exam dates and times on your candidate slip"
+                - "Check the HSB exam dates and times on the candidate slip"
                 - "Pack the exam kit the night before"
                 - "Plan travel to the centre with a backup option"
                 - "Choose five diagrams to glance at on the morning"
@@ -1150,7 +1152,7 @@ starter_structure:
             - name: Sitting or resitting HSB privately with Paper 032
               description: |-
                 ## Purpose
-                Adults returning to study, students resitting after a disappointing grade and candidates whose school does not offer HSB can sit it privately, usually taking Paper 032 instead of the SBA. Registering early through the local registrar, building a self-study plan around work or family and practising Paper 032 style questions makes the private route as manageable as the school one.
+                Adults returning to study, teenagers resitting after a disappointing grade and candidates whose school does not offer HSB can sit it privately, usually taking Paper 032 instead of the SBA. If your teen is going this route, registering early through the local registrar, building a self-study plan around school, work or family and practising Paper 032 style questions makes the private route as manageable as the school one.
 
                 ## Milestones
                 1. The registration route and deadlines confirmed with the local registrar or the Ministry of Education.
@@ -1167,13 +1169,13 @@ starter_structure:
                 effort_hours_estimate: "10"
               tasks:
                 - "Contact the local registrar about private HSB registration and deadlines"
-                - "Review your previous result slip for the weakest papers"
-                - "Build a self-study plan around work and family time"
+                - "Review the previous result slip for the weakest papers"
+                - "Build a self-study plan around school, work and family time"
                 - "Practise three past Paper 032 questions and mark them"
             - name: HSB scheme of work for a teacher or tutor
               description: |-
                 ## Purpose
-                Teachers and lesson tutors taking on a new HSB group need a scheme of work that follows the syllabus order, schedules the SBA practicals and leaves time for past papers. Building it once from the current syllabus, with practical skills mapped to labs and a checkpoint after each section, saves planning time for every group that follows.
+                Teachers and lesson tutors taking on a new HSB group need a scheme of work that follows the syllabus order, schedules the SBA practicals and leaves time for past papers. Building it once from the current syllabus, with practical skills mapped to labs and a checkpoint after each section, saves planning time for every group that follows. If your teen has a tutor, share this outline as a checklist for what good lessons should cover.
 
                 ## Milestones
                 1. Every syllabus section mapped to teaching weeks across Forms Four and Five.
@@ -1198,7 +1200,7 @@ starter_structure:
             - name: Linking body systems for Grade I extended answers
               description: |-
                 ## Purpose
-                Students aiming for a Grade I need answers that connect topics: how diabetes affects the kidneys, eyes and circulation, or how smoking damages the lungs, the heart and a family's finances. Practising linked answers across sections, and studying how strong answers are described in examiner reports, builds the breadth that separates a good grade from the top one.
+                Teenagers aiming for a Grade I need answers that connect topics: how diabetes affects the kidneys, eyes and circulation, or how smoking damages the lungs, the heart and a family's finances. Practising linked answers across sections, and studying how strong answers are described in examiner reports, builds the breadth that separates a good grade from the top one.
 
                 ## Milestones
                 1. A list of five cross-topic links, such as diabetes and the kidneys or smoking and the heart.
@@ -1215,11 +1217,11 @@ starter_structure:
                 - "List five links between body systems and diseases"
                 - "Write a linked answer on diabetes, the kidneys and the eyes"
                 - "Study how two examiner reports describe strong answers"
-                - "Write one new cross-topic answer and compare it with your notes @recurring(monthly:21)"
+                - "Write one new cross-topic answer and compare it with the notes @recurring(monthly:21)"
 ---
 
 # CSEC Human and Social Biology
 
-Everything a Form Four or Form Five student, a parent or an HSB teacher needs to take CSEC Human and Social Biology from a first diagnostic paper to the exam room. It starts with set-up (the syllabus and paper check, a diagnostic, an entry-requirements check, the drawing kit, a timetable, a target grade, a glossary and a diagram bank), then the weekly routines, then the syllabus in order from cells and the environment through the body systems, heredity and disease to water, waste and population, each topic ending in past-paper questions. After that come the SBA lab book, drawing and paper technique, timed papers, the mock and exam day, and projects for parents, private candidates, teachers and students chasing a Grade I.
+Everything a parent or guardian needs to support a Form Four or Form Five student through CSEC Human and Social Biology, from a first diagnostic paper to the exam room. It starts with set-up (the syllabus and paper check, a diagnostic, an entry-requirements check, the drawing kit, a timetable, a target grade, a glossary and a diagram bank), then the weekly routines, then the syllabus in order from cells and the environment through the body systems, heredity and disease to water, waste and population, each topic ending in past-paper questions. After that come the SBA lab book, drawing and paper technique, timed papers, the mock and exam day, and projects for parents, private candidates, teachers and a teenager chasing a Grade I.
 
-The rhythm is light but steady: fifteen minutes of recall cards a day, a glossary test on Tuesday, a structured question on Wednesday, a diagram redraw on Thursday, the error log on Friday, a multiple choice set on Saturday and a parent check-in on Sunday, plus a monthly extended answer, examiner report and news story. The Meeting notes, Habit tracker, Metrics log, Remediation plan, Purchase decision and Course templates pair with the projects that point at them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is light but steady: fifteen minutes of recall cards a day, a glossary test on Tuesday, a structured question on Wednesday, a diagram redraw on Thursday, the error log on Friday, a multiple choice set on Saturday and a family check-in on Sunday, plus a monthly extended answer, examiner report and news story. The Meeting notes, Habit tracker, Metrics log, Remediation plan, Purchase decision and Course templates pair with the projects that point at them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

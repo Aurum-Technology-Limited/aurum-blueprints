@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.cape-sociology
 name: CAPE Sociology
-description: "A full CAPE Sociology plan for Units 1 and 2: theory and methods, family, religion, stratification, education and development, the research project from question to submission, timed past papers, the mock and exam day."
+description: "A full CAPE Sociology plan for parents supporting a sixth former through Units 1 and 2: theory and methods, family, religion, stratification, education, development, the research project, past papers and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, cape-sociology, student, parent, educator, cxc, cape, sociology]
@@ -16,7 +16,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -26,15 +26,17 @@ starter_structure:
             - name: Current CAPE Sociology syllabus and paper format check
               description: |-
                 ## Purpose
-                CAPE Sociology is examined as two units, each with three modules, and each unit has a multiple-choice Paper 01, an essay Paper 02, and either the internal assessment as Paper 031 or the alternative Paper 032 for private candidates. Revision guides and handed-down notes often trail a syllabus revision, so one evening with the current CXC document means every later project here is aimed at the exam you will actually sit.
+                CAPE Sociology is examined as two units, each with three modules, and each unit has a multiple-choice Paper 01, an essay Paper 02, and either the internal assessment as Paper 031 or the alternative Paper 032 for private candidates. Revision guides and handed-down notes often trail a syllabus revision, so one evening with your teen and the current CXC document means every later project here is aimed at the exam they will actually sit.
 
                 ## Milestones
-                1. The current CAPE Sociology syllabus downloaded from the CXC website, with its edition year written on the front of your folder.
+                1. The current CAPE Sociology syllabus downloaded from the CXC website, with its edition year written on the front of the subject folder.
                 2. The format of Paper 01, Paper 02 and Paper 031 or 032 for each unit written on one page in the syllabus's own words.
                 3. The specific objectives of all six modules listed in syllabus order, ready to match against the topic projects in this area.
-                4. The May to June sitting confirmed with your school, along with the school's internal deadlines for each unit's research project.
+                4. The May to June sitting confirmed with the school, along with the school's internal deadlines for each unit's research project.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CAPE Sociology, and an older student can follow it with a parent's support.
+
                 Where a textbook and the CXC syllabus disagree on content or format, the syllabus wins. Do not rely on a classmate's memory of last year's paper format.
               priority: high
               deadlineOffsetDays: 10
@@ -45,45 +47,45 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Check the current syllabus and timetable on the CXC website and note the paper format"
+                - "Together, check the current syllabus and timetable on the CXC website and note the paper format"
                 - "List the specific objectives of each Sociology module in syllabus order"
-                - "Ask your teacher for the school's internal research project deadlines for Unit 1 and Unit 2"
+                - "Ask the teacher for the school's internal research project deadlines for Unit 1 and Unit 2"
                 - "Recheck the Sociology syllabus edition at the start of each school year @recurring(yearly)"
             - name: Deciding when to sit Sociology Unit 1 and Unit 2
               description: |-
                 ## Purpose
-                Most schools teach Unit 1 in lower sixth and Unit 2 in upper sixth, but some students sit both units in one year, and private candidates choose freely. The choice changes how much time you have for two research projects, how your timetable looks beside your other CAPE subjects, and what results you can show a university or scholarship panel in which year.
+                Most schools teach Unit 1 in lower sixth and Unit 2 in upper sixth, but some students sit both units in one year, and private candidates choose freely. The choice changes how much time your teen has for two research projects, how their timetable looks beside other CAPE subjects, and what results they can show a university or scholarship panel in which year. Talk it through together, and let them make the call with the teacher's advice.
 
                 ## Milestones
-                1. Your school's usual pattern for Sociology Unit 1 and Unit 2 confirmed with the subject teacher.
-                2. Your other CAPE subjects and their units written on one timeline beside Sociology.
+                1. The school's usual pattern for Sociology Unit 1 and Unit 2 confirmed with the subject teacher.
+                2. Your teen's other CAPE subjects and their units written on one timeline beside Sociology.
                 3. Each option's research project load and exam clash risk compared in a short table.
-                4. A decision recorded, with the year you will sit each unit and the reason.
+                4. A decision recorded, with the year each unit will be sat and the reason.
 
                 ## Notes
-                If you are aiming for a national scholarship, check its unit requirements before deciding. The scholarship rules belong to the results and university area; here, simply note what they ask of Sociology.
+                If your teen is aiming for a national scholarship, check its unit requirements before deciding. The scholarship rules belong to the results and university area; here, simply note what they ask of Sociology.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A written decision names the sitting year for Sociology Unit 1 and Unit 2, with the reasons and your teacher's agreement noted."
+                success_criteria: "A written decision names the sitting year for Sociology Unit 1 and Unit 2, with the reasons and the teacher's agreement noted."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Ask your Sociology teacher how the school normally schedules the two units"
-                - "Draw a two-year timeline of every CAPE unit you plan to sit"
+                - "Ask the Sociology teacher how the school normally schedules the two units"
+                - "Draw a two-year timeline of every CAPE unit your teen plans to sit"
                 - "Compare the research project load of each option in a short table"
-                - "Write your decision and the reason at the front of your Sociology folder"
+                - "Write the decision and the reason at the front of the Sociology folder"
             - name: Diagnostic Sociology essay and Paper 01 baseline
               description: |-
                 ## Purpose
-                Before planning revision you need to know whether your weakness is knowledge, essay structure or timing. One untimed multiple-choice set and one timed essay from a past paper in the first fortnight, marked against the mark scheme, show where the next six months of effort should go and give a starting score to beat.
+                Before planning revision, it helps to know whether the weakness is knowledge, essay structure or timing. One untimed multiple-choice set and one timed essay from a past paper in the first fortnight, marked against the mark scheme, show where the next six months of effort should go and give your teen a starting score to beat.
 
                 ## Milestones
                 1. One Paper 01 style multiple-choice set completed and scored.
                 2. One Paper 02 essay from a past paper written under timed conditions.
-                3. The essay marked by your teacher or against the published mark scheme.
+                3. The essay marked by the teacher or against the published mark scheme.
                 4. Three specific weaknesses written down, each tagged as knowledge, structure or timing.
               priority: high
               deadlineOffsetDays: 21
@@ -94,10 +96,10 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Pick one Paper 02 essay question on a topic you have already covered in class"
+                - "Pick one Paper 02 essay question on a topic already covered in class"
                 - "Write the essay under timed conditions without notes"
                 - "Score a Paper 01 style practice set and note which modules lost marks"
-                - "List your three biggest weaknesses and tag each one"
+                - "List the three biggest weaknesses and tag each one"
             - name: Two-year Sociology study plan across six modules
               description: |-
                 ## Purpose
@@ -107,17 +109,17 @@ starter_structure:
                 1. Each of the six modules placed in the school term when it is taught.
                 2. The stages of each unit's research project placed on the same calendar.
                 3. Revision blocks before each sitting set aside, with no new content planned for them.
-                4. The plan checked by your teacher and pinned where you study.
+                4. The plan checked by the teacher and pinned where your teen studies.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A written two-year plan shows all six modules, both research projects and the revision blocks, and your teacher has seen it."
+                success_criteria: "A written two-year plan shows all six modules, both research projects and the revision blocks, and the teacher has seen it."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher for the order in which the modules will be taught"
+                - "Your teen asks the teacher for the order in which the modules will be taught"
                 - "Map each module and research project stage onto a term calendar"
                 - "Block out the revision weeks before each sitting"
                 - "Review the plan against what has actually been covered @recurring(quarterly)"
@@ -140,8 +142,8 @@ starter_structure:
                 effort_hours_estimate: "15"
               tasks:
                 - "Set up the glossary with term, definition, theorist, module and example columns"
-                - "Enter the first twenty terms from your Module 1 notes"
-                - "Check your definitions against the textbook and the syllabus wording"
+                - "Enter the first twenty terms from the Module 1 notes"
+                - "Check the definitions against the textbook and the syllabus wording"
                 - "Add every new term from this week's classes to the glossary @recurring(weekly:fri)"
             - name: Command words and the Sociology essay structure
               description: |-
@@ -149,10 +151,10 @@ starter_structure:
                 Examiners reward answers that do what the command word asks: describe is not explain, and explain is not assess or evaluate. Learning how a CAPE Sociology essay is built, with a defined concept, a theoretical position, Caribbean evidence and a weighed conclusion, lifts marks across all six modules at once.
 
                 ## Milestones
-                1. The command words used in CAPE Sociology papers listed with what each one asks you to do.
+                1. The command words used in CAPE Sociology papers listed with what each one asks a candidate to do.
                 2. A paragraph pattern written out: point, theory, Caribbean evidence, evaluation, link to the question.
                 3. Three past essay questions planned using that pattern.
-                4. One full essay written with the pattern and marked by your teacher.
+                4. One full essay written with the pattern and marked by the teacher.
 
                 ## Notes
                 The most common lost marks are for description where the question asks for evaluation. Every essay should say which view is stronger and why.
@@ -161,18 +163,18 @@ starter_structure:
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A written command word list and paragraph pattern exist, and one essay built on them has been marked by your teacher."
+                success_criteria: "A written command word list and paragraph pattern exist, and one essay built on them has been marked by the teacher."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
                 - "List the command words from the syllabus glossary and past Paper 02 questions"
                 - "Write one model paragraph using point, theory, evidence and evaluation"
                 - "Plan three past essay questions with the paragraph pattern"
-                - "Hand one full essay to your teacher for marking"
+                - "Your teen hands one full essay to the teacher for marking"
             - name: Caribbean sociology reading shelf
               description: |-
                 ## Purpose
-                Reading a few pages of the Caribbean scholars your syllabus names, such as Edith Clarke, R.T. Smith, M.G. Smith, Lloyd Braithwaite, George Beckford, Christine Barrow and Errol Miller, gives your essays authority a textbook summary cannot. A short, managed reading list, kept to what your school or national library actually holds, is enough.
+                Reading a few pages of the Caribbean scholars the syllabus names, such as Edith Clarke, R.T. Smith, M.G. Smith, Lloyd Braithwaite, George Beckford, Christine Barrow and Errol Miller, gives your teen's essays authority a textbook summary cannot. A short, managed reading list, kept to what the school or national library actually holds, is enough, and a lift to the library now and then is an easy way to help.
 
                 ## Milestones
                 1. A reading list of eight to twelve Caribbean and classic texts or chapters drawn from the syllabus resource list.
@@ -181,7 +183,7 @@ starter_structure:
                 4. At least six items read and noted before final revision.
 
                 ## Notes
-                Start from the **Reading queue** template. Extracts and textbook chapters count; you do not need to read whole monographs.
+                Start from the **Reading queue** template. Extracts and textbook chapters count; nobody needs to read whole monographs.
               priority: low
               frontmatter:
                 mode: research
@@ -192,12 +194,12 @@ starter_structure:
               tasks:
                 - "Copy the suggested reading list from the syllabus into a reading queue"
                 - "Ask the school librarian which titles or extracts the library holds"
-                - "Write one page of notes on the first chapter you read"
+                - "Write one page of notes on the first chapter read"
                 - "Read and note one chapter or article from the queue @recurring(monthly:20)"
             - name: Caribbean statistics and case evidence bank
               description: |-
                 ## Purpose
-                Strong answers back claims with a real figure or case: a census finding on household headship, a poverty rate, a school results gap, a migration trend. Keeping one evidence bank, sorted by module and drawn from your national statistics office, regional bodies and recent studies, saves hours of searching later and stops every essay leaning on the same tired example.
+                Strong answers back claims with a real figure or case: a census finding on household headship, a poverty rate, a school results gap, a migration trend. Keeping one evidence bank, sorted by module and drawn from the national statistics office, regional bodies and recent studies, saves hours of searching later and stops every essay leaning on the same tired example.
 
                 ## Milestones
                 1. An evidence bank set up with columns for module, claim, figure or case, country, year and source.
@@ -206,7 +208,7 @@ starter_structure:
                 4. Every figure checked against its original source and dated.
 
                 ## Notes
-                Statistics age quickly. Always write the year beside a figure, and say "in the most recent census I found" rather than presenting an old number as current.
+                Statistics age quickly. Encourage your teen to write the year beside every figure, and to say "in the most recent census I found" rather than presenting an old number as current.
               priority: medium
               frontmatter:
                 mode: building
@@ -216,17 +218,17 @@ starter_structure:
                 effort_hours_estimate: "8"
               tasks:
                 - "Set up the evidence bank with module, claim, figure, country, year and source columns"
-                - "Find your country's latest census report on the national statistics office website"
-                - "Ask the agent to suggest regional sources on poverty, education and migration to check yourself"
+                - "Find the latest census report on your country's national statistics office website"
+                - "Ask the agent to suggest regional sources on poverty, education and migration for your teen to check"
                 - "Add one new dated Caribbean figure or case to the bank @recurring(monthly:3)"
             - name: Twice-weekly Sociology study sessions
               description: |-
                 ## Purpose
-                Two fixed sessions a week, outside class, are what turn class notes into essays you can write under pressure. Each session has the same shape: review the week's notes, add to the glossary and evidence bank, then write one plan or paragraph, so the subject keeps moving even in heavy weeks for your other CAPE subjects.
+                Two fixed sessions a week, outside class, are what turn class notes into essays that hold up under pressure. Each session has the same shape: review the week's notes, add to the glossary and evidence bank, then write one plan or paragraph, so the subject keeps moving even in heavy weeks for your teen's other CAPE subjects.
 
                 ## Milestones
                 1. Two session slots chosen that do not clash with other subjects or commitments.
-                2. A fixed three-part session pattern written on the first page of your folder.
+                2. A fixed three-part session pattern written on the first page of the subject folder.
                 3. Four consecutive weeks with both sessions completed.
                 4. Sessions continued through each term, with missed ones moved rather than dropped.
 
@@ -239,14 +241,14 @@ starter_structure:
                 success_criteria: "Two Sociology sessions a week are logged for at least ten of the first twelve weeks after installing."
                 cadence: rolling
               tasks:
-                - "Choose two weekly slots for Sociology and put them in your calendar"
-                - "Write the three-part session pattern on the first page of your folder"
-                - "Do your scheduled Sociology study session @recurring(weekly:tue,sat)"
+                - "Agree two weekly slots for Sociology and put them on the family calendar"
+                - "Write the three-part session pattern on the first page of the folder"
+                - "Sociology study session, following the three-part pattern @recurring(weekly:tue,sat)"
                 - "Move any missed session to another day in the same week"
             - name: Daily ten-minute theorist and concept recall
               description: |-
                 ## Purpose
-                Names, dates and positions slip: was it Murdock or Parsons who argued for functional fit, Rist or Becker who studied labelling in a kindergarten class? Ten minutes of self-testing each morning, from cards built out of your glossary and theorist notes, keeps the material of six modules ready without long cramming sessions.
+                Names, dates and positions slip: was it Murdock or Parsons who argued for functional fit, Rist or Becker who studied labelling in a kindergarten class? Ten minutes of self-testing each morning, from cards built out of the glossary and theorist notes, keeps the material of six modules ready without long cramming sessions.
 
                 ## Milestones
                 1. A card set made with a theorist or concept on one side and the idea, study and module on the other.
@@ -260,20 +262,20 @@ starter_structure:
                 success_criteria: "Recall is logged on five or more mornings a week, and the still-learning pile is under twenty cards before the mock exam."
                 cadence: rolling
               tasks:
-                - "Make the first thirty recall cards from your Module 1 notes"
+                - "Make the first thirty recall cards from the Module 1 notes"
                 - "Sort the cards into known and still-learning piles"
-                - "Test yourself on the still-learning cards for ten minutes @recurring(daily)"
+                - "Ten minutes of self-testing on the still-learning cards @recurring(daily)"
                 - "Add cards for each new theorist as the class reaches them"
             - name: Weekly Caribbean society news log
               description: |-
                 ## Purpose
-                Every week the news gives you a Sociology example: a report on school violence, a church taking a stand on a law, a remittance figure, a tourism job dispute, a debate about family or gender. Logging two items a week with the module and theory they illustrate builds a stock of current, regional evidence that examiners notice.
+                Every week the news offers a Sociology example: a report on school violence, a church taking a stand on a law, a remittance figure, a tourism job dispute, a debate about family or gender. Logging two items a week with the module and theory they illustrate builds a stock of current, regional evidence that examiners notice, and the stories make good conversation at home.
 
                 ## Milestones
                 1. A news log set up with date, headline, country, module and the theory it supports or challenges.
                 2. Two items logged a week for the first month.
                 3. Items from at least five Caribbean countries in the log by the end of the first term.
-                4. The best examples copied into the evidence bank and your essay plans.
+                4. The best examples copied into the evidence bank and the essay plans.
               priority: medium
               frontmatter:
                 mode: operating
@@ -281,20 +283,20 @@ starter_structure:
                 success_criteria: "The news log holds at least two dated items a week for twelve weeks, covering all six modules and five countries."
                 cadence: rolling
               tasks:
-                - "Pick two regional news sources you can read without a paywall"
+                - "Pick two regional news sources your teen can read without a paywall"
                 - "Set up the log with date, headline, country, module and theory columns"
                 - "Log two Caribbean news items and the module each one fits @recurring(weekly:sun)"
-                - "Move the strongest example of the month into your evidence bank"
+                - "Move the strongest example of the month into the evidence bank"
             - name: Monthly timed Paper 01 practice set
               description: |-
                 ## Purpose
                 Multiple-choice questions test precise knowledge of terms, theorists and methods, and they punish half-remembered notes. A timed set each month, scored and logged by module, shows which areas are slipping long before a mock does and turns Paper 01 into dependable marks.
 
                 ## Milestones
-                1. A source of Paper 01 style questions for each unit identified from past papers, your teacher or a practice book.
+                1. A source of Paper 01 style questions for each unit identified from past papers, the teacher or a practice book.
                 2. One timed set completed and scored each month.
                 3. Scores logged by module, with each wrong answer traced to a glossary entry.
-                4. Three months in a row with your weakest module improving.
+                4. Three months in a row with the weakest module improving.
 
                 ## Notes
                 Start from the **Metrics log** template to keep scores by module and month.
@@ -305,10 +307,10 @@ starter_structure:
                 success_criteria: "A metrics log shows a scored, timed Paper 01 set every month, broken down by module, for at least six months."
                 cadence: rolling
               tasks:
-                - "Ask your teacher for Paper 01 practice questions for the unit you are sitting"
+                - "Ask the teacher for Paper 01 practice questions for the unit being sat"
                 - "Set up a scores log with a column for each module"
                 - "Do one timed Paper 01 practice set and log the score by module @recurring(monthly:9)"
-                - "Look up every wrong answer in your glossary and fix the entry"
+                - "Look up every wrong answer in the glossary and fix the entry"
             - name: Monthly timed Paper 02 essay
               description: |-
                 ## Purpose
@@ -317,7 +319,7 @@ starter_structure:
                 ## Milestones
                 1. A rotation of past Paper 02 questions chosen so each module comes up at least twice before the mock.
                 2. One essay written under timed conditions each month.
-                3. Each essay marked by your teacher or against the mark scheme, with the mark recorded.
+                3. Each essay marked by the teacher or against the mark scheme, with the mark recorded.
                 4. An improving mark across three consecutive essays.
               priority: high
               frontmatter:
@@ -326,7 +328,7 @@ starter_structure:
                 success_criteria: "At least eight timed Paper 02 essays are written and marked before the mock exam, with every module covered twice."
                 cadence: rolling
               tasks:
-                - "Collect past Paper 02 questions for your unit and sort them by module"
+                - "Collect past Paper 02 questions for the unit and sort them by module"
                 - "Plan the rotation so each module is practised twice before the mock"
                 - "Write one timed Paper 02 essay from the rotation @recurring(monthly:18)"
                 - "Mark the essay against the mark scheme and record the score"
@@ -347,18 +349,18 @@ starter_structure:
                 success_criteria: "A feedback log covers every marked essay, names the three most frequent mistakes, and shows one of them gone from a later essay."
                 cadence: rolling
               tasks:
-                - "Gather every marked Sociology essay and test you have"
+                - "Gather every marked Sociology essay and test so far"
                 - "Enter each teacher comment into the log with its mistake type"
                 - "Count the mistake types and write the top three at the top of the log"
                 - "Review the log and pick one mistake to fix in the next essay @recurring(monthly:26)"
-            - name: Termly progress talk with your Sociology teacher
+            - name: Termly progress talk with the Sociology teacher
               description: |-
                 ## Purpose
-                Once a term, a ten-minute conversation with your teacher about marks, the research project and the topics ahead catches problems while there is still time to act. Arriving with your scores log and feedback log makes the talk specific instead of a vague question about how you are doing.
+                Once a term, a ten-minute conversation with the teacher about marks, the research project and the topics ahead catches problems while there is still time to act. When your teen arrives with the scores log and feedback log, the talk is specific instead of a vague question about how they are doing. Let them lead it, and ask afterwards what was agreed.
 
                 ## Milestones
-                1. A short talk booked with your teacher in the first half of each term.
-                2. Your latest Paper 01 scores, essay marks and research project stage brought to the talk.
+                1. A short talk booked with the teacher in the first half of each term.
+                2. The latest Paper 01 scores, essay marks and research project stage brought to the talk.
                 3. Two agreed actions written down after each talk.
                 4. The actions from the previous talk checked at the next one.
 
@@ -371,14 +373,14 @@ starter_structure:
                 success_criteria: "Notes from at least one talk per term exist, each with two agreed actions and a check on the previous term's actions."
                 cadence: cyclic
               tasks:
-                - "Ask your teacher for ten minutes in the first half of this term"
-                - "Bring your scores log, feedback log and project progress to the talk"
-                - "Write the two agreed actions in your meeting notes"
-                - "Book the next termly progress talk with your Sociology teacher @recurring(quarterly)"
+                - "Your teen asks the teacher for ten minutes in the first half of this term"
+                - "Bring the scores log, feedback log and project progress to the talk"
+                - "Write the two agreed actions in the meeting notes"
+                - "Book the next termly progress talk with the Sociology teacher @recurring(quarterly)"
             - name: Essay plan bank for every specific objective
               description: |-
                 ## Purpose
-                A bank of ready plans, one for each specific objective in the syllabus, means no Paper 02 question arrives cold. Each plan is half a page: a definition, two or three theoretical positions, Caribbean evidence and the line of argument for a conclusion, which is exactly what you will want in the final weeks.
+                A bank of ready plans, one for each specific objective in the syllabus, means no Paper 02 question arrives cold. Each plan is half a page: a definition, two or three theoretical positions, Caribbean evidence and the line of argument for a conclusion, which is exactly what your teen will want in the final weeks.
 
                 ## Milestones
                 1. The specific objectives of both units listed as headings in the plan bank.
@@ -389,12 +391,12 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "The plan bank has a half-page plan for every specific objective in the unit or units you are sitting."
+                success_criteria: "The plan bank has a half-page plan for every specific objective in the unit or units being sat."
                 cadence: phased
                 effort_hours_estimate: "20"
               tasks:
-                - "Copy the specific objectives of your unit into the plan bank as headings"
-                - "Write the first plan for the objective you find hardest"
+                - "Copy the specific objectives of the unit into the plan bank as headings"
+                - "Write the first plan for the hardest objective"
                 - "Write one new half-page essay plan for an objective @recurring(weekly:wed)"
                 - "Mark plans that have been tested in a timed essay"
             - name: Origins of sociology and the sociological imagination
@@ -422,7 +424,7 @@ starter_structure:
             - name: Functionalism, conflict theory and interactionism compared
               description: |-
                 ## Purpose
-                Functionalism sees society as a system of parts working for stability, Marxist and other conflict theories see it as a struggle over power and resources, and interactionism looks at how people create meaning in everyday encounters. Every later module asks you to apply these perspectives, so a clear comparison now pays off in all six.
+                Functionalism sees society as a system of parts working for stability, Marxist and other conflict theories see it as a struggle over power and resources, and interactionism looks at how people create meaning in everyday encounters. Every later module asks candidates to apply these perspectives, so a clear comparison now pays off in all six.
 
                 ## Milestones
                 1. A one-page summary of each perspective with its key thinkers, concepts and view of society.
@@ -444,12 +446,12 @@ starter_structure:
             - name: Feminist, postmodern and Caribbean theoretical perspectives
               description: |-
                 ## Purpose
-                Caribbean societies were shaped by conquest, slavery, indentureship and the plantation, and the region's own theorists built models to explain them: the plantation society, M.G. Smith's plural society, and the creole society associated with Kamau Brathwaite. Alongside feminist and postmodern views, these perspectives let you argue about the region in its own terms rather than only through European theory.
+                Caribbean societies were shaped by conquest, slavery, indentureship and the plantation, and the region's own theorists built models to explain them: the plantation society, M.G. Smith's plural society, and the creole society associated with Kamau Brathwaite. Alongside feminist and postmodern views, these perspectives let your teen argue about the region in its own terms rather than only through European theory.
 
                 ## Milestones
                 1. Notes on liberal, Marxist and radical feminism, and on the main claims of postmodernism.
                 2. A summary of the plantation, plural and creole society models with one named scholar each.
-                3. A short evaluation of how well each Caribbean model fits your own country today.
+                3. A short evaluation of how well each Caribbean model fits your country today.
                 4. One past-paper question on Caribbean perspectives answered under timed conditions.
 
                 ## Notes
@@ -469,11 +471,11 @@ starter_structure:
             - name: Positivism, interpretivism and research ethics
               description: |-
                 ## Purpose
-                Positivists want sociology to measure social facts like a natural science, while interpretivists want to understand meanings from the inside. The debate decides which methods a researcher chooses, and it sits beside the ethics of informed consent, confidentiality and protecting participants, all of which reappear in your research project.
+                Positivists want sociology to measure social facts like a natural science, while interpretivists want to understand meanings from the inside. The debate decides which methods a researcher chooses, and it sits beside the ethics of informed consent, confidentiality and protecting participants, all of which reappear in your teen's research project.
 
                 ## Milestones
                 1. Notes contrasting positivism and interpretivism, with Durkheim's study of suicide and Weber's verstehen as examples.
-                2. Definitions of validity, reliability, representativeness and generalisability in your own words.
+                2. Definitions of validity, reliability, representativeness and generalisability in your teen's own words.
                 3. A checklist of ethical principles for research with young people and vulnerable groups.
                 4. Two past-paper questions on research philosophy or ethics answered and checked.
               priority: medium
@@ -485,13 +487,13 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Contrast positivism and interpretivism in a two-column table"
-                - "Define validity, reliability, representativeness and generalisability in your own words"
+                - "Define validity, reliability, representativeness and generalisability in their own words"
                 - "Write an ethics checklist covering consent, confidentiality and harm"
                 - "Answer two past-paper questions on research philosophy or ethics"
             - name: Research methods and their strengths and limits
               description: |-
                 ## Purpose
-                Questionnaires, structured and unstructured interviews, participant and non-participant observation, case studies and secondary data each suit some questions and fail at others. Knowing the practical, ethical and theoretical strengths and limits of each method is examined directly, and it is exactly what you need to defend your own research design.
+                Questionnaires, structured and unstructured interviews, participant and non-participant observation, case studies and secondary data each suit some questions and fail at others. Knowing the practical, ethical and theoretical strengths and limits of each method is examined directly, and it is exactly what your teen needs to defend their own research design.
 
                 ## Milestones
                 1. A table of at least six methods with practical, ethical and theoretical strengths and limitations.
@@ -513,7 +515,7 @@ starter_structure:
             - name: Caribbean family forms and conjugal unions
               description: |-
                 ## Purpose
-                Household structures in the region include the nuclear family, extended and three-generation homes, female-headed households, and conjugal unions from visiting relationships to common-law and legal marriage. Edith Clarke, R.T. Smith, Fernando Henriques and Christine Barrow studied these forms, and the syllabus expects you to describe them accurately across ethnic groups, including Indo-Caribbean family patterns.
+                Household structures in the region include the nuclear family, extended and three-generation homes, female-headed households, and conjugal unions from visiting relationships to common-law and legal marriage. Edith Clarke, R.T. Smith, Fernando Henriques and Christine Barrow studied these forms, and the syllabus expects candidates to describe them accurately across ethnic groups, including Indo-Caribbean family patterns.
 
                 ## Milestones
                 1. Definitions of each family form and conjugal union with a Caribbean example.
@@ -522,7 +524,7 @@ starter_structure:
                 4. One past-paper essay on Caribbean family forms written and marked.
 
                 ## Notes
-                Avoid describing any family form as broken or deviant in your own voice. Present that view as a position some theorists held, then evaluate it.
+                Essays should not describe any family form as broken or deviant in the writer's own voice. That view is presented as a position some theorists held, then evaluated, which is worth mentioning if this topic comes up at home.
               priority: medium
               frontmatter:
                 mode: building
@@ -560,7 +562,7 @@ starter_structure:
             - name: Family change, migration and barrel children
               description: |-
                 ## Purpose
-                Migration has reshaped Caribbean families for generations: parents working in the UK, US, Canada or a neighbouring island, children raised by grandparents, and the barrel children who receive goods shipped in large drums instead of daily care. Together with divorce, later marriage, smaller families and new legal debates, these changes give you some of the richest evidence in the whole syllabus.
+                Migration has reshaped Caribbean families for generations: parents working in the UK, US, Canada or a neighbouring island, children raised by grandparents, and the barrel children who receive goods shipped in large drums instead of daily care. Together with divorce, later marriage, smaller families and new legal debates, these changes give your teen some of the richest evidence in the whole syllabus.
 
                 ## Milestones
                 1. Notes on trends in marriage, divorce, family size and household headship, with dated figures.
@@ -582,7 +584,7 @@ starter_structure:
             - name: Conjugal roles, gender and power in the household
               description: |-
                 ## Purpose
-                Who cooks, who earns, who decides and who disciplines the children are sociological questions about power. Studies of conjugal roles, the dual burden on working women, male marginalisation and domestic violence let you analyse the household as a place of both care and inequality, which many Paper 02 questions ask you to do.
+                Who cooks, who earns, who decides and who disciplines the children are sociological questions about power. Studies of conjugal roles, the dual burden on working women, male marginalisation and domestic violence let a candidate analyse the household as a place of both care and inequality, which many Paper 02 questions ask for.
 
                 ## Milestones
                 1. Notes on joint and segregated conjugal roles, the dual burden and decision-making studies.
@@ -591,7 +593,7 @@ starter_structure:
                 4. One timed past-paper essay on gender roles in the family written.
 
                 ## Notes
-                If studying domestic violence raises something personal, speak to your school counsellor or another adult you trust.
+                If studying domestic violence raises something personal, make sure your teen knows they can speak to the school counsellor, to you or to another adult they trust.
               priority: low
               frontmatter:
                 mode: building
@@ -629,7 +631,7 @@ starter_structure:
             - name: Religion in the Caribbean from Orisha to Pentecostalism
               description: |-
                 ## Purpose
-                Few regions hold so many faiths in so small a space: Anglican, Catholic and Methodist churches, the rapid growth of Pentecostal and evangelical groups, Hinduism and Islam brought by indentured labourers, and African-derived and syncretic faiths such as Orisha, the Spiritual Baptists, Revival, Vodou and Rastafari. Knowing their origins, beliefs and social roles, and how colonial law once suppressed some of them, gives you evidence no textbook from elsewhere can.
+                Few regions hold so many faiths in so small a space: Anglican, Catholic and Methodist churches, the rapid growth of Pentecostal and evangelical groups, Hinduism and Islam brought by indentured labourers, and African-derived and syncretic faiths such as Orisha, the Spiritual Baptists, Revival, Vodou and Rastafari. Knowing their origins, beliefs and social roles, and how colonial law once suppressed some of them, gives your teen evidence no textbook from elsewhere can.
 
                 ## Milestones
                 1. A table of at least eight Caribbean religions with origin, main beliefs and social role.
@@ -638,7 +640,7 @@ starter_structure:
                 4. One past-paper question on religion in Caribbean society answered and marked.
 
                 ## Notes
-                Write about every faith respectfully and accurately, including your own and those you do not share.
+                Every faith should be written about respectfully and accurately, including the family's own and those your teen does not share.
               priority: medium
               frontmatter:
                 mode: building
@@ -691,14 +693,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "7"
               tasks:
-                - "Define stratification, inequality and life chances in your own words"
+                - "Define stratification, inequality and life chances in their own words"
                 - "Compare slavery, caste, estate and class systems in one table"
                 - "Summarise Davis and Moore, Tumin, Marx and Weber with a criticism each"
                 - "Write one timed past-paper essay on theories of stratification"
             - name: Race, colour, ethnicity and class in the Caribbean
               description: |-
                 ## Purpose
-                Colour and class were tied together in plantation society, producing a pyramid with a white elite, a brown middle and a Black majority, later complicated by Indian, Chinese, Portuguese and Syrian-Lebanese arrivals. Lloyd Braithwaite's study of Trinidad, M.G. Smith's plural society and later work on ethnic politics let you ask how much that structure has really changed since independence.
+                Colour and class were tied together in plantation society, producing a pyramid with a white elite, a brown middle and a Black majority, later complicated by Indian, Chinese, Portuguese and Syrian-Lebanese arrivals. Lloyd Braithwaite's study of Trinidad, M.G. Smith's plural society and later work on ethnic politics let a student ask how much that structure has really changed since independence.
 
                 ## Milestones
                 1. Notes on the colour-class structure of plantation society and how it changed after emancipation.
@@ -742,7 +744,7 @@ starter_structure:
             - name: Theories of education and the hidden curriculum
               description: |-
                 ## Purpose
-                Schools teach more than subjects. Durkheim and Parsons saw education passing on shared values and sorting people by merit, Bowles and Gintis argued it reproduces class through a hidden curriculum, and interactionists such as Becker and Rist showed how teacher labelling shapes results. These theories open the education module and give you a lens for every Caribbean example that follows.
+                Schools teach more than subjects. Durkheim and Parsons saw education passing on shared values and sorting people by merit, Bowles and Gintis argued it reproduces class through a hidden curriculum, and interactionists such as Becker and Rist showed how teacher labelling shapes results. These theories open the education module and give your teen a lens for every Caribbean example that follows.
 
                 ## Milestones
                 1. Functionalist, Marxist, interactionist and feminist views of education summarised.
@@ -758,7 +760,7 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Summarise four theoretical views of education in a comparison table"
-                - "Write three examples of the hidden curriculum from your own school"
+                - "Write three examples of the hidden curriculum from their own school"
                 - "Note the studies of Becker and Rist on teacher labelling"
                 - "Write one timed past-paper essay on the role of education"
             - name: Caribbean schooling, achievement gaps and male underachievement
@@ -801,7 +803,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Define growth, development and sustainable development in your own words"
+                - "Define growth, development and sustainable development in their own words"
                 - "List five development indicators with a limitation of each"
                 - "Compare three Caribbean countries on three indicators using a recent report"
                 - "Answer one past-paper question on measuring development"
@@ -852,13 +854,13 @@ starter_structure:
             - name: Choosing the Sociology research project topic and question
               description: |-
                 ## Purpose
-                The internal assessment is a piece of your own sociological research, and the topic decides how hard every later stage will be. A good topic sits inside the unit's modules, can be studied with people you can reach safely, and is narrow enough to answer, such as attitudes to visiting relationships among young adults in one community, rather than the whole of Caribbean family life.
+                The internal assessment is a piece of your teen's own sociological research, and the topic decides how hard every later stage will be. A good topic sits inside the unit's modules, can be studied with people they can reach safely, and is narrow enough to answer, such as attitudes to visiting relationships among young adults in one community, rather than the whole of Caribbean family life. Offer to talk ideas through, and let them choose.
 
                 ## Milestones
                 1. Three possible topics written down, each linked to a specific objective in the unit.
                 2. Each topic checked for access to participants, ethics and the time it will take.
                 3. One topic chosen and turned into a clear research question and two or three objectives.
-                4. The topic and question approved by your teacher in writing or by email.
+                4. The topic and question approved by the teacher in writing or by email.
 
                 ## Notes
                 Each unit has its own research project. Repeat this and the four projects that follow for Unit 2, choosing a topic from the Unit 2 modules.
@@ -867,24 +869,24 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A research question with two or three objectives, linked to a syllabus module, has been approved by your teacher by the deadline."
+                success_criteria: "A research question with two or three objectives, linked to a syllabus module, has been approved by the teacher by the deadline."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
                 - "Read the research project guidelines and mark scheme in the syllabus"
                 - "Write three possible topics and link each to a specific objective"
                 - "Check each topic for access, ethics and time, and choose one"
-                - "Send your research question and objectives to your teacher for approval"
+                - "Your teen sends the research question and objectives to the teacher for approval"
             - name: Literature review and theoretical framing for the research project
               description: |-
                 ## Purpose
-                An internal assessment that never mentions a theory or an earlier study reads as a survey, not sociology. A short literature review, built from three to six sources and at least one theoretical perspective, shows the examiner where your question fits and gives you something to compare your findings against at the end.
+                An internal assessment that never mentions a theory or an earlier study reads as a survey, not sociology. A short literature review, built from three to six sources and at least one theoretical perspective, shows the examiner where the research question fits and gives your teen something to compare their findings against at the end.
 
                 ## Milestones
                 1. Three to six relevant sources found, including at least one Caribbean study.
                 2. Each source noted with its main finding and full reference.
                 3. One or two theoretical perspectives chosen to frame the study, with reasons.
-                4. A literature review drafted within the length your syllabus allows.
+                4. A literature review drafted within the length the syllabus allows.
               priority: medium
               deadlineOffsetDays: 100
               frontmatter:
@@ -894,40 +896,40 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "Search the library and an academic database for studies on your topic"
-                - "Note the finding and full reference of each source you use"
-                - "Choose the perspective that frames your study and write why"
-                - "Ask the agent to check your literature review draft for unclear sentences"
+                - "Search the library and an academic database for studies on the topic"
+                - "Note the finding and full reference of each source used"
+                - "Choose the perspective that frames the study and write why"
+                - "Ask the agent to check the literature review draft for unclear sentences"
             - name: Designing the research instrument and sample
               description: |-
                 ## Purpose
-                Your questionnaire, interview guide or observation schedule decides the quality of your data, and a poorly worded question cannot be fixed after it has been answered. Designing the instrument, choosing a sample you can justify, writing a consent statement and piloting with three or four people before the real fieldwork saves the whole project.
+                The questionnaire, interview guide or observation schedule decides the quality of the data, and a poorly worded question cannot be fixed after it has been answered. Designing the instrument, choosing a sample that can be justified, writing a consent statement and piloting with three or four people before the real fieldwork saves the whole project. You might be one of the pilot participants.
 
                 ## Milestones
-                1. A method chosen and justified against your research question and theory.
+                1. A method chosen and justified against the research question and theory.
                 2. A draft instrument written, with every question linked to an objective.
                 3. A sample size and sampling method chosen and justified, with a consent statement.
                 4. The instrument piloted on three or four people and revised after the pilot.
 
                 ## Notes
-                Keep questions short and neutral, avoid double questions, and never collect names unless you truly need them.
+                Questions should be short and neutral, with no double questions, and names should never be collected unless truly needed.
               priority: medium
               deadlineOffsetDays: 120
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A piloted and revised instrument, a justified sample and a consent statement exist and have been shown to your teacher."
+                success_criteria: "A piloted and revised instrument, a justified sample and a consent statement exist and have been shown to the teacher."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Write a draft questionnaire or interview guide linked to your objectives"
-                - "Choose and justify your sample size and sampling method"
+                - "Write a draft questionnaire or interview guide linked to the objectives"
+                - "Choose and justify the sample size and sampling method"
                 - "Write a short consent and confidentiality statement for participants"
                 - "Pilot the instrument on three or four people and revise it"
             - name: Fieldwork, data collection and analysis for the research project
               description: |-
                 ## Purpose
-                Fieldwork always takes longer than planned: participants do not return forms, interviews get rescheduled, data needs entering and coding. Setting a collection window, logging responses as they arrive, then turning them into tables, charts and themes keeps the project on schedule and gives you findings ready to interpret.
+                Fieldwork always takes longer than planned: participants do not return forms, interviews get rescheduled, data needs entering and coding. Setting a collection window, logging responses as they arrive, then turning them into tables, charts and themes keeps the project on schedule and leaves findings ready to interpret. Check in on progress and on safety while it runs.
 
                 ## Milestones
                 1. A collection window set, with the target number of responses or interviews.
@@ -943,19 +945,19 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "12"
               tasks:
-                - "Set your collection window and target number of responses"
+                - "Set the collection window and target number of responses"
                 - "Hand out or conduct the first batch of questionnaires or interviews"
-                - "Enter new responses into your spreadsheet @recurring(weekly:mon)"
+                - "Enter new responses into the spreadsheet @recurring(weekly:mon)"
                 - "Produce the tables and charts and code the open responses into themes"
             - name: Writing up and submitting the Sociology research project
               description: |-
                 ## Purpose
-                Submission marks come from following the structure the syllabus sets out, which typically asks for an introduction, literature review, methodology, presentation and interpretation of findings, conclusion and references. Writing each section against the mark scheme, getting a draft read by your teacher, then submitting on time protects marks that are entirely within your control.
+                Submission marks come from following the structure the syllabus sets out, which typically asks for an introduction, literature review, methodology, presentation and interpretation of findings, conclusion and references. Writing each section against the mark scheme, getting a draft read by the teacher, then submitting on time protects marks that are entirely within your teen's control.
 
                 ## Milestones
                 1. Each section drafted under the headings the current syllabus requires.
-                2. Findings interpreted against your literature review and chosen theory.
-                3. A full draft returned by your teacher with comments, and the comments addressed.
+                2. Findings interpreted against the literature review and chosen theory.
+                3. A full draft returned by the teacher with comments, and the comments addressed.
                 4. The final project submitted by the school deadline, with references formatted and a copy kept.
 
                 ## Notes
@@ -971,7 +973,7 @@ starter_structure:
               tasks:
                 - "List the required sections and word limit from the current syllabus"
                 - "Draft the methodology and findings sections first"
-                - "Hand the full draft to your teacher and act on every comment"
+                - "Your teen hands the full draft to the teacher and acts on every comment"
                 - "Submit the final project and save a backup copy in two places"
             - name: Sociology examiner reports and mark schemes study
               description: |-
@@ -979,21 +981,21 @@ starter_structure:
                 Each year CXC publishes subject reports that say what strong and weak Sociology candidates did on each question. Reading several years of reports beside the mark schemes shows how marks are actually awarded and which mistakes cost students most, usually missing definitions, theory without application and no evaluation.
 
                 ## Milestones
-                1. Subject reports for the last three to five years obtained from CXC or your teacher.
+                1. Subject reports for the last three to five years obtained from CXC or the teacher.
                 2. Recurring examiner comments listed by module and paper.
-                3. The mark scheme for two past essays compared with your own answers.
-                4. A one-page list of what examiners reward written and kept with your plan bank.
+                3. The mark scheme for two past essays compared with your teen's own answers.
+                4. A one-page list of what examiners reward written and kept with the plan bank.
               priority: medium
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A one-page list of examiner expectations, drawn from at least three years of subject reports, is kept with your plan bank."
+                success_criteria: "A one-page list of examiner expectations, drawn from at least three years of subject reports, is kept with the plan bank."
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
                 - "Download or borrow three to five years of CAPE Sociology subject reports"
                 - "List the comments examiners repeat about Paper 02 essays"
-                - "Compare two of your past essays with the published mark scheme"
+                - "Compare two of their past essays with the published mark scheme"
                 - "Write a one-page list of what Sociology examiners reward"
             - name: Full CAPE Sociology mock exam
               description: |-
@@ -1001,7 +1003,7 @@ starter_structure:
                 A full mock, with Paper 01 and Paper 02 sat back to back in exam conditions, tests stamina and time management as well as knowledge. Sitting it six to eight weeks before the real exam leaves time to act on what it shows, and a written review afterwards turns a disappointing score into a revision list.
 
                 ## Milestones
-                1. A mock date set with your school or at home with a quiet room and timer.
+                1. A mock date set with the school or at home with a quiet room and timer.
                 2. Paper 01 and Paper 02 from a past year sat in full exam conditions.
                 3. Both papers marked against the mark scheme, with scores logged.
                 4. A written review listing the three modules to prioritise in final revision.
@@ -1014,14 +1016,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Confirm the mock date with your school or set one at home"
+                - "Confirm the mock date with the school or offer a quiet morning at home"
                 - "Sit Paper 01 and Paper 02 from one past year under exam conditions"
                 - "Mark both papers against the mark scheme and log the scores"
                 - "Write a review naming the three modules to prioritise next"
             - name: Final eight weeks Sociology revision timetable
               description: |-
                 ## Purpose
-                In the last eight weeks, new reading stops and revision becomes retrieval and timed practice. A timetable that gives each module a turn, schedules at least one full past paper a week and builds in rest days around your other CAPE subjects keeps revision steady rather than panicked.
+                In the last eight weeks, new reading stops and revision becomes retrieval and timed practice. A timetable that gives each module a turn, schedules at least one full past paper a week and builds in rest days around your teen's other CAPE subjects keeps revision steady rather than panicked.
 
                 ## Milestones
                 1. A day-by-day timetable for the final eight weeks, with every module scheduled at least twice.
@@ -1044,10 +1046,10 @@ starter_structure:
             - name: CAPE Sociology exam day plan
               description: |-
                 ## Purpose
-                On the morning of the exam, small things go wrong: a forgotten ID slip, a late taxi, no spare pen, a blank on the first question. A written plan for the night before and the morning, with the timetable checked, items packed and a first-five-minutes routine for reading and planning, lets you spend your energy on the paper.
+                On the morning of the exam, small things go wrong: a forgotten ID slip, a late taxi, no spare pen, a blank on the first question. A written plan for the night before and the morning, with the timetable checked, items packed and a first-five-minutes routine for reading and planning, lets your teen spend their energy on the paper.
 
                 ## Milestones
-                1. The exam date, time and centre confirmed from the official timetable and your school.
+                1. The exam date, time and centre confirmed from the official timetable and the school.
                 2. Transport and arrival time planned, with a backup option.
                 3. A packing list with candidate details, pens and anything the centre allows.
                 4. A routine for the first minutes: read every question, choose, plan, then write.
@@ -1060,7 +1062,7 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Confirm the Sociology exam dates and centre from the official timetable"
-                - "Plan transport with a backup and set your arrival time"
+                - "Plan transport with a backup and agree the arrival time"
                 - "Write and pack the exam day items list the night before"
                 - "Rehearse reading and planning one past paper in the first ten minutes"
             - name: Parent support for a CAPE Sociology student
@@ -1090,7 +1092,7 @@ starter_structure:
             - name: Teacher or tutor tracker for a CAPE Sociology class
               description: |-
                 ## Purpose
-                Teachers juggling two units, a class of research projects and mock marking need a clear view of who is behind. A class tracker with research project stages, essay marks and module confidence for every student makes intervention early and specific, and it gives parents and heads of department a clear answer when they ask.
+                Teachers juggling two units, a class of research projects and mock marking need a clear view of who is behind. If your teen has a tutor, or a teacher who would welcome it, this is a project to share with them. A class tracker with research project stages, essay marks and module confidence for every student makes intervention early and specific, and it gives parents and heads of department a clear answer when they ask.
 
                 ## Milestones
                 1. A tracker set up with a row for each student and columns for project stages, essay marks and modules.
@@ -1114,16 +1116,16 @@ starter_structure:
             - name: Paper 032 route for private Sociology candidates
               description: |-
                 ## Purpose
-                Private candidates without a school to supervise the internal assessment usually sit Paper 032 instead, a written paper that tests the research skills the project would have shown. Studying alone also means building your own structure, finding past papers and getting essays marked by a tutor or study partner.
+                Private candidates without a school to supervise the internal assessment usually sit Paper 032 instead, a written paper that tests the research skills the project would have shown. If your teen is studying this way, they will need help building their own structure, finding past papers and getting essays marked by a tutor or study partner.
 
                 ## Milestones
-                1. Registration as a private candidate completed through your local registrar, with the units and paper options confirmed.
+                1. Registration as a private candidate completed through the local registrar, with the units and paper options confirmed.
                 2. The current syllabus description of Paper 032 read and summarised.
                 3. Research methods and design practised through past Paper 032 questions.
                 4. A tutor, retired teacher or study partner arranged to mark essays monthly.
 
                 ## Notes
-                Confirm with the local registrar whether Paper 032 applies to you before you start; rules on private candidates can change.
+                Confirm with the local registrar whether Paper 032 applies to your teen before starting; rules on private candidates can change.
               priority: medium
               frontmatter:
                 mode: building
@@ -1132,10 +1134,10 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
-                - "Contact your local registrar to confirm private candidate registration"
+                - "Contact the local registrar to confirm private candidate registration"
                 - "Read and summarise the Paper 032 section of the current syllabus"
                 - "Answer one past Paper 032 question on research design @recurring(weekly:sat)"
-                - "Arrange a tutor or study partner to mark your essays"
+                - "Arrange a tutor or study partner to mark their essays"
             - name: Cross-module essay links and synoptic arguments
               description: |-
                 ## Purpose
@@ -1145,7 +1147,7 @@ starter_structure:
                 1. A grid of the six modules with at least two links written between each pair taught so far.
                 2. Ten cross-module examples, each with a theorist and Caribbean evidence.
                 3. Three essay plans rewritten to include one cross-module link each.
-                4. One timed essay with a cross-module link marked by your teacher.
+                4. One timed essay with a cross-module link marked by the teacher.
               priority: low
               frontmatter:
                 mode: building
@@ -1161,13 +1163,13 @@ starter_structure:
             - name: Grade I essays with evaluation and Caribbean scholarship
               description: |-
                 ## Purpose
-                Top-grade Sociology essays define terms precisely, apply theory rather than describe it, use dated Caribbean evidence and reach a judgement that weighs one view against another. Rewriting a few of your best essays to that standard, and comparing them with model answers, teaches the difference between a good answer and an outstanding one.
+                Top-grade Sociology essays define terms precisely, apply theory rather than describe it, use dated Caribbean evidence and reach a judgement that weighs one view against another. Rewriting a few of their best essays to that standard, and comparing them with model answers, teaches your teen the difference between a good answer and an outstanding one. This is work they can lead.
 
                 ## Milestones
-                1. Three of your strongest essays chosen from different modules.
+                1. Three of your teen's strongest essays chosen from different modules.
                 2. Each essay annotated for definition, application, evidence and evaluation.
                 3. Each essay rewritten with sharper evaluation and at least two Caribbean scholars cited.
-                4. One rewritten essay marked by your teacher at the top band.
+                4. One rewritten essay marked by the teacher at the top band.
               priority: low
               frontmatter:
                 mode: building
@@ -1176,14 +1178,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "Choose three of your best essays from different modules"
+                - "Choose three of their best essays from different modules"
                 - "Annotate each for definition, application, evidence and evaluation"
-                - "Ask the agent to point out where your evaluation could be sharper"
-                - "Rewrite each essay and hand one to your teacher to mark"
+                - "Ask the agent to point out where the evaluation could be sharper"
+                - "Rewrite each essay and hand one to the teacher to mark"
 ---
 
 # CAPE Sociology
 
-This area takes a CAPE Sociology student from the first look at the syllabus to the last exam, in the order the CXC syllabus sets the modules. It opens with the foundations (the current syllabus, choosing when to sit each unit, a diagnostic essay, a two-year plan, a glossary, essay technique, a Caribbean reading shelf and an evidence bank), sets up the study, recall, news and timed practice routines, then works through sociological perspectives and methods, the family and religion in Unit 1, and stratification, education and development in Unit 2. The internal assessment research project follows stage by stage, then the mock, the final weeks and exam day, with projects for parents, teachers, private candidates and students aiming for a Grade I at the end.
+This area helps a parent or guardian back a CAPE Sociology student from the first look at the syllabus to the last exam, in the order the CXC syllabus sets the modules. It opens with the foundations (the current syllabus, choosing when to sit each unit, a diagnostic essay, a two-year plan, a glossary, essay technique, a Caribbean reading shelf and an evidence bank), sets up the study, recall, news and timed practice routines, then works through sociological perspectives and methods, the family and religion in Unit 1, and stratification, education and development in Unit 2. The internal assessment research project follows stage by stage, then the mock, the final weeks and exam day, with projects for parents, teachers, private candidates and teens aiming for a Grade I at the end.
 
-The rhythm is two study sessions a week, ten minutes of theorist recall each morning, a weekly Caribbean news log and essay plan, a monthly timed Paper 01 set and Paper 02 essay, a monthly feedback review and a termly talk with your teacher. The Reading queue, Habit tracker, Metrics log, Meeting notes and Skills matrix templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is two study sessions a week, ten minutes of theorist recall each morning, a weekly Caribbean news log and essay plan, a monthly timed Paper 01 set and Paper 02 essay, a monthly feedback review and a termly talk with the teacher, with your teen leading and you checking in. The Reading queue, Habit tracker, Metrics log, Meeting notes and Skills matrix templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

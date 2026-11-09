@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.cape-physics
 name: CAPE Physics
-description: "A full CAPE Physics plan for Units 1 and 2: the current paper format, a diagnostic, weekly question routines, every module in syllabus order, the lab book and internal assessment, past papers, the mock and exam day."
+description: "A CAPE Physics plan for parents backing a sixth former through Units 1 and 2: paper format, a diagnostic, weekly routines, every module, the lab book and internal assessment, past papers, the mock and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, cape-physics, cxc, cape, physics, student, parent, educator]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,40 +25,42 @@ starter_structure:
             - name: CAPE Physics syllabus and paper format check
               description: |-
                 ## Purpose
-                CXC revises its syllabuses, and the CAPE Physics described in a borrowed revision guide or by last year's class may not match the one you will sit. An hour with the current syllabus shows the six modules across the two units, what Paper 01, Paper 02 and the internal assessment each test, and how private candidates are assessed instead, so all the practice that follows rehearses the real exam.
+                CXC revises its syllabuses, and the CAPE Physics described in a borrowed revision guide or by last year's class may not match the one your teen will sit. An hour with the current syllabus shows the six modules across the two units, what Paper 01, Paper 02 and the internal assessment each test, and how private candidates are assessed instead, so all the practice that follows rehearses the real exam.
 
                 ## Milestones
-                1. The current CAPE Physics syllabus downloaded from the CXC website and saved where you study.
-                2. Paper 01, Paper 02, Paper 031 (the internal assessment) and Paper 032 (the alternative for private candidates) each summarised in a line, in your own words.
+                1. The current CAPE Physics syllabus downloaded from the CXC website and saved where your teen studies.
+                2. Paper 01, Paper 02, Paper 031 (the internal assessment) and Paper 032 (the alternative for private candidates) each summarised in a line, in your teen's own words.
                 3. The three modules of Unit 1 and the three modules of Unit 2 listed with their main topics.
-                4. Your sitting confirmed from the published CXC timetable, with the date written on the summary.
-                5. The one-page summary checked by your physics teacher.
+                4. The sitting confirmed from the published CXC timetable, with the date written on the summary.
+                5. The one-page summary checked by the physics teacher.
 
                 ## Notes
-                Take paper durations, numbers of questions and mark weightings only from the current syllabus or your school, never from an old revision book. Keep the syllabus open while studying: its specific objectives are the list examiners write questions from.
+                This plan is for a parent or guardian supporting a teenager through CAPE Physics, and an older student can follow it with a parent's support.
+
+                Take paper durations, numbers of questions and mark weightings only from the current syllabus or the school, never from an old revision book. Encourage your teen to keep the syllabus open while studying: its specific objectives are the list examiners write questions from.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A one-page summary of the current papers, the six modules and your exam date, taken from the CXC syllabus and timetable, is saved and checked by your teacher."
+                success_criteria: "A one-page summary of the current papers, the six modules and your teen's exam date, taken from the CXC syllabus and timetable, is saved and checked by the teacher."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
                 - "Check the current syllabus and timetable on the CXC website and note the paper format"
                 - "List the modules of both units and their main topics on one page"
                 - "Write what Paper 01, Paper 02 and the internal assessment each test"
-                - "Ask your teacher to confirm the summary is right"
+                - "Your teen asks the physics teacher to confirm the summary is right"
             - name: Deciding between Unit 1 alone and both units
               description: |-
                 ## Purpose
-                CAPE units are certified separately, so some students sit Unit 1 in Lower Six and Unit 2 in Upper Six, while others take a different path because of their subject combination or university plans. Settling the route early, with your teacher and a parent, decides how fast the timetable runs and which modules matter this year.
+                CAPE units are certified separately, so some students sit Unit 1 in Lower Six and Unit 2 in Upper Six, while others take a different path because of their subject combination or university plans. Settling the route early, with your teen leading and the physics teacher advising, decides how fast the timetable runs and which modules matter this year.
 
                 ## Milestones
-                1. The entry requirements of two or three university programmes you are considering checked for how many physics units they ask for.
-                2. Your school's usual pattern for sitting Unit 1 and Unit 2 confirmed with your physics teacher.
-                3. A decision recorded on which units you will sit and in which year.
-                4. The decision shared with a parent and written at the top of your study timetable.
+                1. The entry requirements of two or three university programmes your teen is considering checked for how many physics units they ask for.
+                2. The school's usual pattern for sitting Unit 1 and Unit 2 confirmed with the physics teacher.
+                3. A decision recorded on which units your teen will sit and in which year.
+                4. The decision talked through together and written at the top of the study timetable.
 
                 ## Notes
                 Engineering, medicine and the physical sciences often expect both units, but requirements change, so read them on the university's own pages rather than trusting a friend's account.
@@ -67,39 +69,39 @@ starter_structure:
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A written decision naming which CAPE Physics units you will sit and when, agreed with your teacher and a parent."
+                success_criteria: "A written decision naming which CAPE Physics units your teen will sit and when, agreed with the teacher and with you."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Ask your physics teacher how students at your school usually sit the two units"
+                - "Your teen asks the physics teacher how students at the school usually sit the two units"
                 - "Look up how many physics units two target programmes ask for"
-                - "Talk the options through with a parent for twenty minutes"
-                - "Write the decision and the sitting year at the top of your timetable"
+                - "Talk the options through together for twenty minutes"
+                - "Write the decision and the sitting year at the top of the timetable"
             - name: Diagnostic CAPE Physics paper and starting profile
               description: |-
                 ## Purpose
-                Knowing where marks are leaking stops you spending the term on topics you already handle. A recent past paper written at home and marked against the mark scheme shows whether the weakness is the physics, the mathematics, the definitions or the time, and gives a starting score to measure every later paper against.
+                Knowing where marks are leaking stops your teen spending the term on topics they already handle. A recent past paper written at home and marked against the mark scheme shows whether the weakness is the physics, the mathematics, the definitions or the time, and gives a starting score to measure every later paper against.
 
                 ## Milestones
-                1. One recent Paper 01 and one Paper 02 for your unit written at home, each in a single sitting.
-                2. Both papers marked against the mark scheme or by your teacher.
+                1. One recent Paper 01 and one Paper 02 for the unit written at home, each in a single sitting.
+                2. Both papers marked against the mark scheme or by the teacher.
                 3. Lost marks sorted by module and by cause: concept, algebra, units, definitions, graph work or time.
-                4. A starting score and the three weakest areas written at the front of your notes.
+                4. A starting score and the three weakest areas written at the front of the physics notes.
 
                 ## Notes
-                Expect a low first score if most of the unit has not been taught yet. The pattern of lost marks matters more than the total.
+                Expect a low first score if most of the unit has not been taught yet, and tell your teen so. The pattern of lost marks matters more than the total.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A marked diagnostic paper with lost marks sorted by module and cause, and three named weak areas, is filed at the front of your physics notes."
+                success_criteria: "A marked diagnostic paper with lost marks sorted by module and cause, and three named weak areas, is filed at the front of the physics notes."
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
                 - "Pick a recent Paper 01 and Paper 02 that match the current format"
-                - "Write both papers at home in single timed sittings"
-                - "Mark them against the mark scheme or hand them to your teacher"
+                - "Sit both papers at home in single timed sittings, phone in another room"
+                - "Mark them against the mark scheme or hand them to the teacher"
                 - "Sort every lost mark by module and by cause"
             - name: Mathematics toolkit for CAPE Physics
               description: |-
@@ -114,7 +116,7 @@ starter_structure:
                 5. A short toolkit quiz retaken one week later with a higher score.
 
                 ## Notes
-                If you also take CAPE Pure Mathematics, line this up with what your maths class has covered. Calculus helps you understand the physics, but most exam answers are expected through algebra and graphs.
+                If your teen also takes CAPE Pure Mathematics, line this up with what the maths class has covered. Calculus helps with understanding the physics, but most exam answers are expected through algebra and graphs.
               priority: medium
               frontmatter:
                 mode: learning
@@ -133,10 +135,10 @@ starter_structure:
                 Six modules, a lab book and timed practice will not fit into the last term, and most students who run out of time lose it in the second term of Lower Six or Upper Six. A timetable that counts back from the sitting, with each module given its weeks and the internal assessment dates fixed, shows early whether the plan is slipping.
 
                 ## Milestones
-                1. The exam date and every internal assessment date your teacher has given written on one calendar.
-                2. Each module of your unit given a block of weeks in syllabus order, with revision weeks reserved at the end.
+                1. The exam date and every internal assessment date the teacher has given written on one calendar.
+                2. Each module of the unit given a block of weeks in syllabus order, with revision weeks reserved at the end.
                 3. Three or four study sessions a week fixed around school, lessons and family commitments.
-                4. The timetable shared with a parent and pinned where you study.
+                4. The timetable shared with you and pinned where your teen studies.
 
                 ## Notes
                 Leave at least six weeks at the end for full timed papers. A timetable that has never been compared with reality is only a wish, so the monthly check matters more than the first draft.
@@ -145,21 +147,21 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A dated timetable covering every module, the internal assessment dates and six weeks of final revision is pinned up and shared with a parent."
+                success_criteria: "A dated timetable covering every module, the internal assessment dates and six weeks of final revision is pinned up and shared with you."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
                 - "Write the exam date and every internal assessment date on one calendar"
                 - "Block out weeks for each module in syllabus order"
                 - "Fix three or four weekly study sessions around school and home"
-                - "Compare the timetable with what you have actually covered @recurring(monthly:3)"
+                - "Compare the timetable with what has actually been covered @recurring(monthly:3)"
             - name: Past papers, mark schemes and subject reports pack
               description: |-
                 ## Purpose
-                Past papers are only useful if you can find them quickly and mark them honestly. Collecting the recent papers for your unit, the matching mark schemes and the CXC subject reports into one organised folder turns every later practice session into a ten-minute set-up rather than an evening's search.
+                Past papers are only useful if they can be found quickly and marked honestly. Collecting the recent papers for your teen's unit, the matching mark schemes and the CXC subject reports into one organised folder turns every later practice session into a ten-minute set-up rather than an evening's search.
 
                 ## Milestones
-                1. Past Paper 01 and Paper 02 for your unit gathered for as many recent years as you can get, from CXC's official store, your school or your teacher.
+                1. Past Paper 01 and Paper 02 for the unit gathered for as many recent years as possible, from CXC's official store, the school or the teacher.
                 2. A mark scheme or worked solution matched to each paper, with any gaps listed.
                 3. The recent subject reports for CAPE Physics saved in the same folder.
                 4. A contents sheet listing each paper by year, unit and whether it has been attempted.
@@ -170,23 +172,23 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "One folder holds recent past papers, matching mark schemes and subject reports for your unit, with a contents sheet showing which have been attempted."
+                success_criteria: "One folder holds recent past papers, matching mark schemes and subject reports for the unit, with a contents sheet showing which have been attempted."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher which past papers and mark schemes the school already holds"
-                - "Buy or download the official past papers you are missing"
+                - "Ask the teacher which past papers and mark schemes the school already holds"
+                - "Buy or download the official past papers still missing"
                 - "Build a contents sheet listing each paper by year and unit"
                 - "Add the newest past paper and subject report once they are released @recurring(yearly)"
             - name: Definitions, data and units sheet
               description: |-
                 ## Purpose
-                Many CAPE Physics questions open with a one-mark definition or ask for the base units of a quantity, and those marks are lost through vague wording rather than ignorance. A single sheet of precise definitions, SI base units and the constants given in the data list, built as each topic is taught, becomes the last thing you read before every paper.
+                Many CAPE Physics questions open with a one-mark definition or ask for the base units of a quantity, and those marks are lost through vague wording rather than ignorance. A single sheet of precise definitions, SI base units and the constants given in the data list, built as each topic is taught, becomes the last thing your teen reads before every paper.
 
                 ## Milestones
                 1. The SI base quantities and units listed, with derived units for force, energy, power, charge and potential difference expressed in base units.
                 2. Definitions for each module written in exam wording, checked against mark schemes.
-                3. The constants and formulae printed on the exam data sheet marked so you know which you do not need to memorise.
+                3. The constants and formulae printed on the exam data sheet marked so your teen knows which do not need memorising.
                 4. The sheet updated after each module and kept to two sides.
 
                 ## Notes
@@ -200,16 +202,16 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "List the SI base units and express five derived units in base units"
-                - "Copy the data sheet from a recent past paper into your notes folder"
+                - "Copy the data sheet from a recent past paper into the notes folder"
                 - "Write each new definition in mark-scheme wording as the topic ends"
                 - "Trim the sheet back to two sides when a module is finished"
             - name: Topic confidence matrix for both units
               description: |-
                 ## Purpose
-                With around thirty topics across two units, it is easy to keep revising the comfortable ones. A matrix that rates every syllabus topic on understanding, problem solving and past-paper performance shows at a glance where the next study hour should go, and gives your teacher something specific to respond to.
+                With around thirty topics across two units, it is easy to keep revising the comfortable ones. A matrix that rates every syllabus topic on understanding, problem solving and past-paper performance shows at a glance where the next study hour should go, and gives the teacher something specific to respond to.
 
                 ## Milestones
-                1. Every topic in your unit listed in syllabus order down the side of a grid.
+                1. Every topic in the unit listed in syllabus order down the side of a grid.
                 2. Each topic rated from one to four on understanding, problem solving and past-paper marks.
                 3. The four lowest-rated topics highlighted and booked into the timetable.
                 4. The matrix re-rated each month, with changes visible.
@@ -220,42 +222,42 @@ starter_structure:
               frontmatter:
                 mode: operating
                 output_kind: artifact
-                success_criteria: "A topic matrix covering every syllabus topic, rated on three measures and updated at least monthly, sits at the front of your physics folder."
+                success_criteria: "A topic matrix covering every syllabus topic, rated on three measures and updated at least monthly, sits at the front of the physics folder."
                 cadence: rolling
               tasks:
-                - "List every topic in your unit down the side of a grid"
+                - "List every topic in the unit down the side of a grid"
                 - "Rate each topic on understanding, problem solving and past-paper marks"
                 - "Book the four weakest topics into next month's timetable"
-                - "Re-rate the matrix from your latest marked work @recurring(monthly:20)"
-            - name: Agreeing targets and lab dates with your physics teacher
+                - "Re-rate the matrix from the latest marked work @recurring(monthly:20)"
+            - name: Agreeing targets and lab dates with the physics teacher
               description: |-
                 ## Purpose
-                Teachers hold information that no syllabus contains: when each practical for the internal assessment will run, what the school's mock covers, and which of your habits cost marks. A short meeting at the start of the year, followed up each term, turns that knowledge into dates and targets you can plan around.
+                Teachers hold information that no syllabus contains: when each practical for the internal assessment will run, what the school's mock covers, and which of your teen's habits cost marks. A short meeting at the start of the year, led by your teen and followed up each term, turns that knowledge into dates and targets they can plan around.
 
                 ## Milestones
-                1. A meeting held with your physics teacher, with your diagnostic results in hand.
-                2. A target grade agreed for each unit you are sitting.
+                1. A meeting held with the physics teacher, with the diagnostic results in hand.
+                2. A target grade agreed for each unit your teen is sitting.
                 3. Dates for the assessed practicals, the planning and design task and the lab book submission written down.
                 4. Notes from each termly follow-up kept in one place.
 
                 ## Notes
-                Start from the **Meeting notes** template. Bring your topic matrix and ask one direct question: what single change would gain you the most marks?
+                Start from the **Meeting notes** template. Your teen brings the topic matrix and asks one direct question: what single change would gain the most marks? Offer to come along if the school welcomes parents at these meetings.
               priority: high
               frontmatter:
                 mode: building
                 output_kind: decision
-                success_criteria: "Target grades and all internal assessment dates agreed with your teacher are written down, with notes from each termly follow-up."
+                success_criteria: "Target grades and all internal assessment dates agreed with the teacher are written down, with notes from each termly follow-up."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Ask your physics teacher for a fifteen-minute meeting this week"
+                - "Your teen asks the physics teacher for a fifteen-minute meeting this week"
                 - "Bring the diagnostic results and the topic matrix to the meeting"
                 - "Write down the agreed targets and every practical and lab book date"
-                - "Review your targets and progress with your teacher @recurring(quarterly)"
+                - "Review targets and progress with the teacher @recurring(quarterly)"
             - name: CAPE Physics practice score log
               description: |-
                 ## Purpose
-                Without a record, a run of good practice sessions can hide a module that never improves. Logging every marked paper, drill and question by module and by type of mark lost turns scattered results into a trend you and your teacher can act on before the mock.
+                Without a record, a run of good practice sessions can hide a module that never improves. Logging every marked paper, drill and question by module and by type of mark lost turns scattered results into a trend your teen and their teacher can act on before the mock, and one you can read at a glance.
 
                 ## Milestones
                 1. A log set up with columns for date, paper or question, module, score, percentage and main cause of lost marks.
@@ -301,13 +303,13 @@ starter_structure:
             - name: Paper 01 multiple choice drills
               description: |-
                 ## Purpose
-                Multiple choice questions in physics test quick reasoning with units, proportion and graphs, and a wrong option is usually built from a common mistake. A short weekly drill, with every wrong answer traced to its cause, raises accuracy and teaches you to spot the trap options.
+                Multiple choice questions in physics test quick reasoning with units, proportion and graphs, and a wrong option is usually built from a common mistake. A short weekly drill, with every wrong answer traced to its cause, raises accuracy and teaches your teen to spot the trap options.
 
                 ## Milestones
                 1. A bank of past Paper 01 questions sorted by module.
                 2. A twenty-question timed drill done each week from the modules taught so far.
                 3. Every wrong answer traced to its cause: concept, arithmetic, units or misreading.
-                4. Paper 01 accuracy above your starting score for four weeks in a row.
+                4. Paper 01 accuracy above the starting score for four weeks in a row.
 
                 ## Notes
                 Practise estimating and checking units before calculating: many options can be ruled out in seconds.
@@ -324,30 +326,30 @@ starter_structure:
             - name: Derivations and definitions flashcard deck
               description: |-
                 ## Purpose
-                CAPE Physics asks you to state laws precisely and to derive standard results, such as the equations of motion, the expression for pressure from kinetic theory or the period of a mass on a spring. A deck of cards with the definition or derivation on the back, reviewed weekly, turns these into reliable marks.
+                CAPE Physics asks candidates to state laws precisely and to derive standard results, such as the equations of motion, the expression for pressure from kinetic theory or the period of a mass on a spring. A deck of cards with the definition or derivation on the back, reviewed weekly, turns these into reliable marks.
 
                 ## Milestones
-                1. A card made for every definition and every derivation named in the syllabus objectives for your unit.
+                1. A card made for every definition and every derivation named in the syllabus objectives for the unit.
                 2. Derivations written out with each step justified in a few words.
                 3. The deck reviewed weekly, with known cards moved to a less frequent pile.
                 4. Every derivation reproduced from memory once before the mock.
 
                 ## Notes
-                A derivation earns marks for the starting principle and the logical steps, not just the final line, so practise writing the reasons as well as the algebra.
+                A derivation earns marks for the starting principle and the logical steps, not just the final line, so encourage your teen to write the reasons as well as the algebra.
               priority: medium
               frontmatter:
                 mode: operating
                 output_kind: habit
-                success_criteria: "A flashcard deck covers every syllabus definition and derivation for your unit, and each derivation has been reproduced from memory before the mock."
+                success_criteria: "A flashcard deck covers every syllabus definition and derivation for the unit, and each derivation has been reproduced from memory before the mock."
                 cadence: rolling
               tasks:
                 - "Mark every derive, define and state objective in the syllabus"
-                - "Make cards for the module you are studying now"
+                - "Make cards for the module being studied now"
                 - "Review the deck and move known cards to the slow pile @recurring(weekly:tue)"
             - name: Physics error and misconception notebook
               description: |-
                 ## Purpose
-                Physics answers lose marks to the same mistakes again and again: forgetting to square a velocity, mixing up mass and weight, using diameter for radius, quoting an answer without units. A notebook that collects every marked error with its correction, reread before each paper, stops you losing the same mark twice.
+                Physics answers lose marks to the same mistakes again and again: forgetting to square a velocity, mixing up mass and weight, using diameter for radius, quoting an answer without units. A notebook that collects every marked error with its correction, reread before each paper, stops your teen losing the same mark twice.
 
                 ## Milestones
                 1. A notebook with sections for each module and one for units and arithmetic.
@@ -366,11 +368,11 @@ starter_structure:
               tasks:
                 - "Set up the notebook with a section for each module"
                 - "Copy the week's marked errors and corrections into the notebook @recurring(weekly:fri)"
-                - "Reread the notebook and quiz yourself on the top five errors @recurring(monthly:16)"
+                - "Ask your teen to talk you through the top five errors in the notebook @recurring(monthly:16)"
             - name: Lab book kept up after every practical
               description: |-
                 ## Purpose
-                Practical skills in CAPE Physics are assessed through the work you do across the year, and a lab book written up weeks late is thin, inaccurate and hard to defend. Writing up each practical within a few days, with raw data, uncertainties and a proper graph, keeps the internal assessment on track and doubles as revision for data questions.
+                Practical skills in CAPE Physics are assessed through the work done across the year, and a lab book written up weeks late is thin, inaccurate and hard to defend. Writing up each practical within a few days, with raw data, uncertainties and a proper graph, keeps the internal assessment on track and doubles as revision for data questions.
 
                 ## Milestones
                 1. The school's required lab report layout copied into the front of the lab book.
@@ -393,7 +395,7 @@ starter_structure:
             - name: Study group problem swap
               description: |-
                 ## Purpose
-                Explaining a solution to someone else is the fastest way to find the step you did not really understand. A small group of two to four classmates who each bring one hard problem a week, solve each other's and talk through the methods, covers more ground than anyone studying alone.
+                Explaining a solution to someone else is the fastest way to find the step that was never really understood. A small group of two to four classmates who each bring one hard problem a week, solve each other's and talk through the methods, covers more ground than anyone studying alone.
 
                 ## Milestones
                 1. A group of two to four classmates agreed, with a fixed weekly time.
@@ -410,7 +412,7 @@ starter_structure:
                 success_criteria: "A study group has met for eight weeks, each member bringing and solving one past-paper problem per meeting."
                 cadence: rolling
               tasks:
-                - "Ask two or three classmates to join a weekly problem swap"
+                - "Your teen asks two or three classmates to join a weekly problem swap"
                 - "Agree a fixed forty-five-minute slot and a place to meet"
                 - "Bring one hard past-paper problem and swap solutions @recurring(weekly:mon)"
             - name: Sunday physics check-in for parents
@@ -449,7 +451,7 @@ starter_structure:
                 5. A set of past-paper questions on this topic answered and marked.
 
                 ## Notes
-                Uncertainty rules come up again in every assessed practical, so keep a worked example of each rule on your definitions sheet.
+                Uncertainty rules come up again in every assessed practical, so keep a worked example of each rule on the definitions sheet.
               priority: medium
               frontmatter:
                 mode: building
@@ -484,14 +486,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "Write the plotting rules on the inside cover of your lab book"
+                - "Write the plotting rules on the inside cover of the lab book"
                 - "Rearrange five physics relationships into straight-line form"
                 - "Plot one log graph and extract both constants with units"
                 - "Plot one linearised graph from a past-paper data table @recurring(monthly:11)"
             - name: Statics, moments and equilibrium
               description: |-
                 ## Purpose
-                Ladders against walls, beams on supports and objects hanging from two strings are classic CAPE structured questions, and they reward a clean free-body diagram more than clever algebra. Working through the conditions for equilibrium, moments and the triangle of forces gives you a reliable method for every version of the question.
+                Ladders against walls, beams on supports and objects hanging from two strings are classic CAPE structured questions, and they reward a clean free-body diagram more than clever algebra. Working through the conditions for equilibrium, moments and the triangle of forces gives your teen a reliable method for every version of the question.
 
                 ## Milestones
                 1. The two conditions for equilibrium stated and applied to a beam problem.
@@ -510,7 +512,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Write the two conditions for equilibrium on your definitions sheet"
+                - "Write the two conditions for equilibrium on the definitions sheet"
                 - "Solve a uniform beam problem using the principle of moments"
                 - "Solve a three-force problem by resolving and by a triangle of forces"
                 - "Answer and mark two past-paper statics questions"
@@ -543,7 +545,7 @@ starter_structure:
             - name: Dynamics, Newton's laws and momentum
               description: |-
                 ## Purpose
-                Newton's laws, linear momentum and collisions are where Unit 1 starts testing understanding rather than recall, often through explanations of everyday situations. Practising elastic and inelastic collisions, impulse from force-time graphs and terminal velocity prepares you for both the calculations and the written explanations.
+                Newton's laws, linear momentum and collisions are where Unit 1 starts testing understanding rather than recall, often through explanations of everyday situations. Practising elastic and inelastic collisions, impulse from force-time graphs and terminal velocity prepares them for both the calculations and the written explanations.
 
                 ## Milestones
                 1. Newton's three laws stated in exam wording, with the second law expressed as rate of change of momentum.
@@ -654,7 +656,7 @@ starter_structure:
                 5. Past-paper wave questions answered and marked.
 
                 ## Notes
-                Measuring the speed of sound with a resonance tube or the wavelength of laser light with a grating are common practicals worth linking to your lab book.
+                Measuring the speed of sound with a resonance tube or the wavelength of laser light with a grating are common practicals worth linking to the lab book.
               priority: medium
               frontmatter:
                 mode: learning
@@ -680,7 +682,7 @@ starter_structure:
                 5. Past-paper questions on hearing and sight answered and marked.
 
                 ## Notes
-                Check the sign convention your syllabus and teacher use for the lens formula and stick to it in every answer.
+                Check the sign convention the syllabus and teacher use for the lens formula, and stick to it in every answer.
               priority: low
               frontmatter:
                 mode: building
@@ -689,14 +691,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Check which sign convention your teacher uses for lenses"
+                - "Check which sign convention the teacher uses for lenses"
                 - "Work three sound intensity level calculations in decibels"
                 - "Draw ray diagrams for short and long sight with corrective lenses"
                 - "Answer and mark past-paper questions on hearing and sight"
             - name: Thermometers, specific heat capacity and latent heat
               description: |-
                 ## Purpose
-                How temperature is measured, and how much energy it takes to change temperature or state, is where Unit 1 Module 3 begins. Comparing thermometer types by range, sensitivity and response, then practising specific heat capacity and latent heat methods, prepares you for calculation questions and for describing an experiment step by step.
+                How temperature is measured, and how much energy it takes to change temperature or state, is where Unit 1 Module 3 begins. Comparing thermometer types by range, sensitivity and response, then practising specific heat capacity and latent heat methods, prepares your teen for calculation questions and for describing an experiment step by step.
 
                 ## Milestones
                 1. Thermometric properties and the features of liquid-in-glass, thermocouple and resistance thermometers compared in a table.
@@ -742,17 +744,17 @@ starter_structure:
             - name: First law of thermodynamics and p-V diagrams
               description: |-
                 ## Purpose
-                Questions on the first law test whether you can keep track of signs for heat supplied, work done on or by a gas and internal energy. A consistent convention, applied to labelled pressure-volume diagrams for a few standard processes, clears up most of the confusion and links the gas laws to engines and refrigerators.
+                Questions on the first law test whether a candidate can keep track of signs for heat supplied, work done on or by a gas and internal energy. A consistent convention, applied to labelled pressure-volume diagrams for a few standard processes, clears up most of the confusion and links the gas laws to engines and refrigerators.
 
                 ## Milestones
-                1. The first law written in the sign convention your syllabus uses, with each term defined.
+                1. The first law written in the sign convention the syllabus uses, with each term defined.
                 2. Work done by a gas found as the area under a p-V graph.
                 3. Isothermal, adiabatic, isobaric and isovolumetric changes identified on p-V diagrams.
                 4. A full cycle analysed for net work done and heat exchanged.
                 5. Past-paper thermodynamics questions answered and marked.
 
                 ## Notes
-                Textbooks use different sign conventions. Use the one in the current syllabus, and say which you are using in an answer if there is any doubt.
+                Textbooks use different sign conventions. Use the one in the current syllabus, and say which is being used in an answer if there is any doubt.
               priority: low
               frontmatter:
                 mode: building
@@ -780,7 +782,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Stress-strain graphs for three materials, a Young modulus method and marked past-paper materials questions are filed in your notes."
+                success_criteria: "Stress-strain graphs for three materials, a Young modulus method and marked past-paper materials questions are filed in the physics notes."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
@@ -886,7 +888,7 @@ starter_structure:
             - name: Alternating current, rectification and smoothing
               description: |-
                 ## Purpose
-                Alternating current opens Unit 2 Module 2, and the questions combine graph reading with circuit diagrams. Understanding peak and root mean square values, then how diodes rectify and a capacitor smooths the output, gives you the base for the electronics that follows.
+                Alternating current opens Unit 2 Module 2, and the questions combine graph reading with circuit diagrams. Understanding peak and root mean square values, then how diodes rectify and a capacitor smooths the output, gives your teen the base for the electronics that follows.
 
                 ## Milestones
                 1. Period, frequency, peak and root mean square values read from an a.c. waveform.
@@ -935,7 +937,7 @@ starter_structure:
             - name: Logic gates, transducers and electronic systems
               description: |-
                 ## Purpose
-                Logic gates and simple electronic systems bring the module together: a sensor, a processing stage and an output that controls something real. Practising truth tables, combinations of gates and sensor circuits built around a thermistor or light-dependent resistor prepares you for design-style questions as well as straight recall.
+                Logic gates and simple electronic systems bring the module together: a sensor, a processing stage and an output that controls something real. Practising truth tables, combinations of gates and sensor circuits built around a thermistor or light-dependent resistor prepares them for design-style questions as well as straight recall.
 
                 ## Milestones
                 1. Symbols and truth tables learned for AND, OR, NOT, NAND, NOR and XOR.
@@ -958,7 +960,7 @@ starter_structure:
             - name: Photoelectric effect and wave-particle duality
               description: |-
                 ## Purpose
-                Unit 2 Module 3 starts with evidence that light behaves as particles and electrons as waves, and examiners expect you to explain why the photoelectric effect cannot be explained by wave theory. Pairing Einstein's equation with clear explanations of threshold frequency and intensity makes this topic high-scoring.
+                Unit 2 Module 3 starts with evidence that light behaves as particles and electrons as waves, and examiners expect candidates to explain why the photoelectric effect cannot be explained by wave theory. Pairing Einstein's equation with clear explanations of threshold frequency and intensity makes this topic high-scoring.
 
                 ## Milestones
                 1. Photon energy calculated in joules and electronvolts.
@@ -993,7 +995,7 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Energy level calculations, a labelled X-ray spectrum and marked past-paper questions on atomic structure are filed in your notes."
+                success_criteria: "Energy level calculations, a labelled X-ray spectrum and marked past-paper questions on atomic structure are filed in the physics notes."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
@@ -1030,16 +1032,16 @@ starter_structure:
             - name: Internal assessment practical skills plan
               description: |-
                 ## Purpose
-                Practical skills such as manipulation, observation and recording, analysis and interpretation, and planning and design are assessed across the year rather than in one sitting. Knowing which practicals your teacher will assess, and what each skill looks like at the top level, lets you aim for full marks deliberately instead of hoping.
+                Practical skills such as manipulation, observation and recording, analysis and interpretation, and planning and design are assessed across the year rather than in one sitting. Knowing which practicals the teacher will assess, and what each skill looks like at the top level, lets your teen aim for full marks deliberately instead of hoping.
 
                 ## Milestones
-                1. The internal assessment section of the current syllabus read, with the assessed skills listed in your own words.
-                2. The school's schedule of assessed practicals and any investigation the syllabus requires written into your timetable.
-                3. A checklist made for each skill from the syllabus criteria and your teacher's marking guide.
+                1. The internal assessment section of the current syllabus read, with the assessed skills listed in your teen's own words.
+                2. The school's schedule of assessed practicals and any investigation the syllabus requires written into the timetable.
+                3. A checklist made for each skill from the syllabus criteria and the teacher's marking guide.
                 4. The first assessed practical completed and its feedback recorded.
 
                 ## Notes
-                Ask your teacher to show you an anonymised strong lab report from a previous year. Seeing the standard is worth more than any description of it.
+                Suggest your teen asks the teacher to show an anonymised strong lab report from a previous year. Seeing the standard is worth more than any description of it.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
@@ -1050,20 +1052,20 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "Read the internal assessment section of the current syllabus"
-                - "Ask your teacher for the dates of every assessed practical"
+                - "Ask the teacher for the dates of every assessed practical"
                 - "Turn the assessment criteria into a checklist for each skill"
-                - "Record the feedback from your first assessed practical"
+                - "Record the feedback from the first assessed practical"
             - name: Planning and design investigation write-up
               description: |-
                 ## Purpose
-                Planning and design asks you to turn a hypothesis into a workable experiment before doing it, and it is the skill students find hardest because there is no worked method to copy. A full practice plan, from a Caribbean-flavoured question such as how the temperature of a solar panel affects its output, builds the habits examiners and teachers look for.
+                Planning and design asks a student to turn a hypothesis into a workable experiment before doing it, and it is the skill students find hardest because there is no worked method to copy. A full practice plan, from a Caribbean-flavoured question such as how the temperature of a solar panel affects its output, builds the habits examiners and teachers look for.
 
                 ## Milestones
                 1. A testable hypothesis written, with independent, dependent and controlled variables named.
                 2. Apparatus, method, precautions and how each variable is measured and controlled set out.
                 3. The expected results, a sketch graph and the way the data will be analysed described.
                 4. Limitations and sources of error stated with a sensible improvement for each.
-                5. The plan marked by your teacher against the planning and design criteria.
+                5. The plan marked by the teacher against the planning and design criteria.
 
                 ## Notes
                 Write the plan so that someone else could carry it out with no extra information. Vague words like "measure carefully" earn nothing.
@@ -1072,19 +1074,19 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: deliverable
-                success_criteria: "A complete planning and design write-up with hypothesis, variables, method, expected results and limitations is marked by your teacher."
+                success_criteria: "A complete planning and design write-up with hypothesis, variables, method, expected results and limitations is marked by the teacher."
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
                 - "Choose an investigation question and write a testable hypothesis"
                 - "Name the independent, dependent and controlled variables"
                 - "Write the method, precautions and expected sketch graph"
-                - "Ask the agent to check the plan against the planning and design criteria you paste in"
-                - "Hand the plan to your teacher for marking"
+                - "Ask the agent to check the plan against the planning and design criteria pasted in"
+                - "Your teen hands the plan to the teacher for marking"
             - name: Final lab book check and submission
               description: |-
                 ## Purpose
-                The lab book is your internal assessment, and missing write-ups, unsigned pages or graphs without units cost marks that cannot be recovered after submission. A full check against the assessment checklist two to three weeks before the school's deadline leaves time to fix what is missing.
+                The lab book is your teen's internal assessment, and missing write-ups, unsigned pages or graphs without units cost marks that cannot be recovered after submission. A full check against the assessment checklist two to three weeks before the school's deadline leaves time to fix what is missing.
 
                 ## Milestones
                 1. Every assessed practical present, dated and signed by the teacher where required.
@@ -1103,24 +1105,24 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Ask your teacher for the school's internal lab book deadline"
+                - "Ask the teacher for the school's internal lab book deadline"
                 - "List any missing or unsigned practicals and book time to fix them"
                 - "Check every graph, table and unit page by page"
                 - "Photograph or scan every page before handing the lab book in"
             - name: Paper 032 preparation for private candidates
               description: |-
                 ## Purpose
-                Private candidates who cannot complete a school-assessed lab book usually sit the alternative written paper instead, which tests practical skills on paper. Without regular lab access, you need to practise reading instruments, tabulating data, plotting graphs and planning experiments from past alternative papers and descriptions of real practicals.
+                Private candidates who cannot complete a school-assessed lab book usually sit the alternative written paper instead, which tests practical skills on paper. If your teen is sitting privately without regular lab access, they need to practise reading instruments, tabulating data, plotting graphs and planning experiments from past alternative papers and descriptions of real practicals.
 
                 ## Milestones
-                1. Your entry route and the alternative paper confirmed with the local CXC registrar.
+                1. The entry route and the alternative paper confirmed with the local CXC registrar.
                 2. Past alternative papers and their mark schemes gathered.
                 3. Data table, graph, uncertainty and planning questions practised from those papers.
                 4. At least two hands-on lab sessions arranged through a school, tutor or evening class, if available.
                 5. A full timed alternative paper written and marked before the exam.
 
                 ## Notes
-                Videos of standard practicals, such as a pendulum or a resistivity experiment, help you picture apparatus you have never handled.
+                Videos of standard practicals, such as a pendulum or a resistivity experiment, help a private candidate picture apparatus they have never handled.
               priority: high
               frontmatter:
                 mode: building
@@ -1129,17 +1131,17 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
-                - "Confirm your entry and the alternative paper with the local CXC registrar"
+                - "Confirm the entry and the alternative paper with the local CXC registrar"
                 - "Gather past alternative papers and mark schemes"
                 - "Practise one data table and graph question each week"
                 - "Write and mark one full timed alternative paper"
             - name: School mock exam and marked script review
               description: |-
                 ## Purpose
-                Only the mock gives you a full rehearsal under exam conditions, and its real value comes after the marks are returned. Reviewing every lost mark by module and cause, then rebuilding the last stretch of the timetable around what the mock revealed, turns a disappointing result into a plan.
+                Only the mock gives your teen a full rehearsal under exam conditions, and its real value comes after the marks are returned. Reviewing every lost mark by module and cause, then rebuilding the last stretch of the timetable around what the mock revealed, turns a disappointing result into a plan.
 
                 ## Milestones
-                1. The mock dates and the modules it covers confirmed with your teacher.
+                1. The mock dates and the modules it covers confirmed with the teacher.
                 2. A full past paper written at home under time two weeks before the mock.
                 3. The marked mock script reviewed question by question, with every lost mark logged by cause.
                 4. A remediation plan written for the three weakest topics and booked into the timetable.
@@ -1155,14 +1157,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "10"
               tasks:
-                - "Confirm the mock dates and modules covered with your teacher"
+                - "Confirm the mock dates and modules covered with the teacher"
                 - "Write one full past paper at home two weeks before the mock"
                 - "Log every lost mark from the marked script by module and cause"
                 - "Write a remediation plan for the three weakest topics"
             - name: Final four weeks of CAPE Physics revision
               description: |-
                 ## Purpose
-                The last month is for timed practice and fixing known weaknesses, not for learning new topics from scratch. A short daily timed question, full papers on fixed days and a final pass through the error notebook and definitions sheet keep you sharp without burning out alongside other subjects.
+                The last month is for timed practice and fixing known weaknesses, not for learning new topics from scratch. A short daily timed question, full papers on fixed days and a final pass through the error notebook and definitions sheet keep your teen sharp without burning out alongside other subjects.
 
                 ## Milestones
                 1. A four-week plan with full papers on fixed days and the weakest topics spread through it.
@@ -1171,7 +1173,7 @@ starter_structure:
                 4. The error notebook and definitions sheet reread in the final week.
 
                 ## Notes
-                Stop new full papers two days before the exam and switch to reading your definitions sheet and error notebook.
+                Stop new full papers two days before the exam and switch to reading the definitions sheet and error notebook.
               priority: high
               deadlineOffsetDays: 220
               frontmatter:
@@ -1188,16 +1190,16 @@ starter_structure:
             - name: CAPE Physics exam day plan
               description: |-
                 ## Purpose
-                Lost calculators, flat batteries and a rushed final question cost marks that months of study earned. A written plan for the day, the night before and how to manage time inside each paper removes avoidable stress and keeps your attention on the physics.
+                Lost calculators, flat batteries and a rushed final question cost marks that months of study earned. A written plan for the day, the night before and how to manage time inside each paper removes avoidable stress and keeps your teen's attention on the physics.
 
                 ## Milestones
-                1. Exam dates, times and venue confirmed from the timetable and your school.
+                1. Exam dates, times and venue confirmed from the timetable and the school.
                 2. An approved calculator with fresh batteries, spare pens, pencils, ruler and other permitted equipment packed the night before.
                 3. A timing plan for each paper written, including when to move on from a stuck question.
-                4. Transport and arrival time agreed with a parent.
+                4. Transport and arrival time agreed together.
 
                 ## Notes
-                Check that your calculator model is permitted. Writing units on every final answer is a last-minute habit worth rehearsing.
+                Check that the calculator model your teen practises with is permitted, and that it is the one going into the exam. Writing units on every final answer is a last-minute habit worth rehearsing.
               priority: high
               deadlineOffsetDays: 240
               frontmatter:
@@ -1210,11 +1212,11 @@ starter_structure:
                 - "Confirm exam dates, times and venue for each paper"
                 - "Pack an approved calculator, spare batteries and drawing equipment"
                 - "Write a timing plan for each paper"
-                - "Agree transport and arrival time with a parent"
+                - "Agree transport and arrival time together"
             - name: Teacher's practical and question bank
               description: |-
                 ## Purpose
-                Physics teachers and lessons tutors spend hours each year rebuilding worksheets and practical briefs. A shared bank of past-paper questions sorted by syllabus objective, annotated model answers and tested practical sheets with apparatus lists saves that time and keeps marking consistent across classes.
+                Physics teachers and lessons tutors spend hours each year rebuilding worksheets and practical briefs. A shared bank of past-paper questions sorted by syllabus objective, annotated model answers and tested practical sheets with apparatus lists saves that time and keeps marking consistent across classes. If your teen works with a tutor or a teacher open to ideas, this is a project to share with them.
 
                 ## Milestones
                 1. A folder structure set up by unit, module and syllabus objective.
@@ -1239,18 +1241,18 @@ starter_structure:
             - name: Subject report patterns and grade I answers
               description: |-
                 ## Purpose
-                For candidates aiming at a grade I, the CXC subject reports are the closest thing to the examiners' own commentary. Reading several years together shows which definitions, derivations and explanations are repeatedly done badly, and what the strongest answers do differently, so you can set your own standard above the average candidate.
+                For candidates aiming at a grade I, the CXC subject reports are the closest thing to the examiners' own commentary. Reading several years together shows which definitions, derivations and explanations are repeatedly done badly, and what the strongest answers do differently, so your teen can set their own standard above the average candidate.
 
                 ## Milestones
                 1. Subject reports for at least four recent sittings read and annotated.
-                2. Recurring weaknesses listed by module, with the examiners' comments in your own words.
+                2. Recurring weaknesses listed by module, with the examiners' comments in your teen's own words.
                 3. Three extended-response answers rewritten to the standard the reports describe.
-                4. The findings shared with your teacher or study group.
+                4. The findings shared with the teacher or study group.
               priority: low
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A summary of recurring weaknesses from at least four subject reports, and three rewritten answers, are filed and shared with your teacher."
+                success_criteria: "A summary of recurring weaknesses from at least four subject reports, and three rewritten answers, are filed and shared with the teacher."
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
@@ -1262,6 +1264,6 @@ starter_structure:
 
 # CAPE Physics
 
-Everything a sixth former, a parent or a physics teacher needs to take CAPE Physics from the first lesson to the last paper, whether you sit Unit 1 alone or both units. It opens with set-up (the format check, the unit decision, a diagnostic, a maths toolkit, a timetable and a past-paper pack), moves through the weekly routines, then follows the syllabus in order: Unit 1 on mechanics, oscillations and waves, and thermal and mechanical properties of matter, and Unit 2 on electricity and magnetism, a.c. theory and electronics, and atomic and nuclear physics. It finishes with the lab book and internal assessment, planning and design, the private candidate route, the mock, the final weeks, exam day and projects for teachers and candidates chasing a grade I.
+Everything a parent or guardian needs to back a sixth former through CAPE Physics from the first lesson to the last paper, whether your teen sits Unit 1 alone or both units, with projects for physics teachers too. It opens with set-up (the format check, the unit decision, a diagnostic, a maths toolkit, a timetable and a past-paper pack), moves through the weekly routines, then follows the syllabus in order: Unit 1 on mechanics, oscillations and waves, and thermal and mechanical properties of matter, and Unit 2 on electricity and magnetism, a.c. theory and electronics, and atomic and nuclear physics. It finishes with the lab book and internal assessment, planning and design, the private candidate route, the mock, the final weeks, exam day and projects for teachers and candidates chasing a grade I.
 
-The rhythm is mostly weekly: a problem swap on Monday, definitions and derivations on Tuesday, a Paper 01 drill on Wednesday, the lab book on Thursday, the error notebook on Friday, a timed Paper 02 question on Saturday and a parent check-in on Sunday, with monthly checks on the timetable, the topic matrix, the score log and a linearised graph, and one timed question a day in the final four weeks. The Meeting notes, Metrics log, Skills matrix and Remediation plan templates pair with the projects that point at them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is mostly weekly, with your teen leading: a problem swap on Monday, definitions and derivations on Tuesday, a Paper 01 drill on Wednesday, the lab book on Thursday, the error notebook on Friday, a timed Paper 02 question on Saturday and your check-in together on Sunday, with monthly checks on the timetable, the topic matrix, the score log and a linearised graph, and one timed question a day in the final four weeks. The Meeting notes, Metrics log, Skills matrix and Remediation plan templates pair with the projects that point at them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

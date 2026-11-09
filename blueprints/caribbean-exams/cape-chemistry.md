@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.cape-chemistry
 name: CAPE Chemistry
-description: "CAPE Chemistry Units 1 and 2 module by module, from atomic structure and equilibria to organic synthesis, spectroscopy and industry, with the internal assessment, timed past papers and an exam-day plan."
+description: "A CAPE Chemistry plan for parents and guardians backing a sixth former through Units 1 and 2: every module, the internal assessment, timed past papers and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, cape-chemistry, student, parent, educator, cxc, cape, chemistry]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,91 +25,93 @@ starter_structure:
             - name: CAPE Chemistry syllabus, units and paper format check
               description: |-
                 ## Purpose
-                Sixth form chemistry is examined as two separate units, each with three modules, its own papers and its own internal assessment, and older revision books often describe a syllabus that CXC has since revised. Download the current CAPE Chemistry syllabus before the first lesson, note how Paper 01, Paper 02 and the internal assessment work for each unit, and keep the module list in front of you for two years. One evening spent here stops you studying topics that have moved or dropped out.
+                Sixth form chemistry is examined as two separate units, each with three modules, its own papers and its own internal assessment, and older revision books often describe a syllabus that CXC has since revised. Before the first lesson, your teen should download the current CAPE Chemistry syllabus, note how Paper 01, Paper 02 and the internal assessment work for each unit, and keep the module list to hand for two years. One evening spent here stops them studying topics that have moved or dropped out, and gives you a clear picture of what the next two years involve.
 
                 ## Milestones
-                1. The current CAPE Chemistry syllabus saved in your chemistry folder, with its effective date and the date you downloaded it.
+                1. The current CAPE Chemistry syllabus saved in the chemistry folder, with its effective date and the date it was downloaded.
                 2. The three modules of Unit 1 and of Unit 2 listed in syllabus order, with their main topics under each.
-                3. A one-page note in your own words on what Paper 01, Paper 02, Paper 031 and Paper 032 each involve.
-                4. Your planned sitting year for each unit written down, with a reminder to check the timetable when CXC publishes it.
+                3. A one-page note in your teen's own words on what Paper 01, Paper 02, Paper 031 and Paper 032 each involve.
+                4. The planned sitting year for each unit written down, with a reminder to check the timetable when CXC publishes it.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CAPE Chemistry, and an older student can follow it with a parent's support.
+
                 Take paper durations, numbers of questions and weightings from the syllabus or from CXC, never from a website summary or an old textbook. CAPE's main sitting runs from May to June.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
                 mode: research
                 output_kind: knowledge
-                success_criteria: "A dated one-page summary of the current paper format and both units' module lists is filed at the front of your chemistry folder."
+                success_criteria: "A dated one-page summary of the current paper format and both units' module lists is filed at the front of the chemistry folder."
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
                 - "Download the current CAPE Chemistry syllabus from the CXC website"
                 - "List the Unit 1 and Unit 2 modules with their topics on one page"
-                - "Write what each paper involves in your own words and check it with your teacher"
+                - "Note what each paper involves in their own words, then check it with the teacher"
                 - "Check the CXC website for syllabus amendments at the start of each school year @recurring(yearly)"
             - name: Deciding when to sit Unit 1 and Unit 2
               description: |-
                 ## Purpose
-                Most schools teach Unit 1 in lower sixth and Unit 2 in upper sixth, but some students sit both units in one year, resit a unit, or take only Unit 1 alongside other subjects. Each unit is a separate CAPE result, so the choice affects your workload, the subjects you can pair with chemistry and how much organic chemistry you meet before your first exam. Make the decision deliberately with your teacher and a parent, rather than finding out from the registration form.
+                Most schools teach Unit 1 in lower sixth and Unit 2 in upper sixth, but some students sit both units in one year, resit a unit, or take only Unit 1 alongside other subjects. Each unit is a separate CAPE result, so the choice affects your teen's workload, the subjects they can pair with chemistry and how much organic chemistry they meet before their first exam. Make the decision deliberately together with the teacher, rather than finding out from the registration form.
 
                 ## Milestones
-                1. Your school's usual pattern for teaching and entering the two units confirmed with the chemistry teacher.
-                2. The entry requirements of the programme you are aiming at checked for one or both chemistry units.
-                3. A written decision on which unit you will sit in which year, agreed with a parent or guardian.
-                4. The registration deadline for your chosen sitting noted with the school's exams officer.
+                1. The school's usual pattern for teaching and entering the two units confirmed with the chemistry teacher.
+                2. The entry requirements of the programme your teen is aiming at checked for one or both chemistry units.
+                3. A written decision on which unit they will sit in which year, agreed between your teen and you.
+                4. The registration deadline for the chosen sitting noted with the school's exams officer.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
                 mode: research
                 output_kind: decision
-                success_criteria: "A written decision on the sitting year for each unit, agreed with your teacher and a parent, with the registration deadline noted."
+                success_criteria: "A written decision on the sitting year for each unit, agreed with the teacher and with you, with the registration deadline noted."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your chemistry teacher how the school normally enters students for each unit"
-                - "Check whether your target programme asks for Unit 1, Unit 2 or both"
-                - "Talk through the workload of each option with a parent or guardian"
+                - "Your teen asks the chemistry teacher how the school normally enters students for each unit"
+                - "Check whether their target programme asks for Unit 1, Unit 2 or both"
+                - "Together, talk through the workload of each option"
                 - "Confirm the registration deadline with the school's exams officer"
             - name: Bridging from CSEC Chemistry to sixth form level
               description: |-
                 ## Purpose
-                CAPE assumes you can already balance equations, write ionic formulae and handle mole calculations without hesitating, then moves straight on to orbitals, rate equations and equilibrium constants. Students who scraped through CSEC Chemistry, or who sat it two years ago, usually lose marks in the first term because of gaps underneath the new work. Three to five weeks of targeted refreshing at the start makes the whole of Unit 1 easier.
+                CAPE assumes students can already balance equations, write ionic formulae and handle mole calculations without hesitating, then moves straight on to orbitals, rate equations and equilibrium constants. Students who scraped through CSEC Chemistry, or who sat it two years ago, usually lose marks in the first term because of gaps underneath the new work. Three to five weeks of targeted refreshing at the start, led by your teen with you checking in, makes the whole of Unit 1 easier.
 
                 ## Milestones
-                1. A list of the CSEC topics you feel weakest in, from formulae and equations to the mole and redox.
+                1. A list of the CSEC topics your teen feels weakest in, from formulae and equations to the mole and redox.
                 2. Thirty CSEC-level questions answered across those topics, with every wrong answer corrected.
                 3. Ionic formulae, state symbols and balancing written correctly in a ten-question check.
                 4. A short mole and titration calculation set completed with better than 80 percent correct.
 
                 ## Notes
-                If you did not take CSEC Chemistry at all, tell your teacher in the first week. A bridging plan of six to eight weeks is more realistic than three.
+                If your teen did not take CSEC Chemistry at all, they should tell the teacher in the first week. A bridging plan of six to eight weeks is more realistic than three.
               priority: high
               deadlineOffsetDays: 35
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Thirty corrected CSEC-level questions are in your folder and a bridging calculation set is scored above 80 percent within five weeks."
+                success_criteria: "Thirty corrected CSEC-level questions are in the folder and a bridging calculation set is scored above 80 percent within five weeks."
                 cadence: phased
                 effort_hours_estimate: "12"
               tasks:
-                - "Write down the three CSEC chemistry topics you trust least"
+                - "Your teen writes down the three CSEC chemistry topics they trust least"
                 - "Work through ten CSEC past-paper questions on each weak topic"
-                - "Redo a balancing and ionic formula check until you score ten out of ten"
-                - "Ask your teacher for a short bridging test in the second week"
+                - "Redo a balancing and ionic formula check until it scores ten out of ten"
+                - "Ask the teacher for a short bridging test in the second week"
             - name: Sixth form chemistry kit and reference sheets
               description: |-
                 ## Purpose
-                Chemistry at this level needs a scientific calculator that handles logs, powers of ten and standard form quickly, because pH, Ka and rate constant questions use them constantly. Add a hardbound practical notebook, a ring binder for each unit with dividers by module, and a periodic table you can annotate, and the work has somewhere to live from the first week.
+                Chemistry at this level needs a scientific calculator that handles logs, powers of ten and standard form quickly, because pH, Ka and rate constant questions use them constantly. Add a hardbound practical notebook, a ring binder for each unit with dividers by module, and a periodic table they can annotate, and the work has somewhere to live from the first week. Buying the calculator early matters, because the one your teen practises with should be the one going into the exam.
 
                 ## Milestones
-                1. A silent, non-programmable scientific calculator chosen that meets CXC's exam rules, with log, power and standard form functions you know how to use.
+                1. A silent, non-programmable scientific calculator chosen that meets CXC's exam rules, with log, power and standard form functions your teen knows how to use.
                 2. One ring binder per unit, with a divider for each module and one for past papers.
                 3. A hardbound practical notebook used only for lab work.
                 4. An annotated periodic table and a sheet of constants kept at the front of the Unit 1 binder.
 
                 ## Notes
-                Start from the **Purchase decision** template if you are choosing between calculators. Practise all year with the same calculator you will take into the exam room.
+                Start from the **Purchase decision** template if you are choosing between calculators together. Make sure the calculator your teen practises with all year is the same one going into the exam room.
               priority: low
               deadlineOffsetDays: 14
               frontmatter:
@@ -126,32 +128,32 @@ starter_structure:
             - name: Lab safety and risk assessment for sixth form practicals
               description: |-
                 ## Purpose
-                Sixth form practicals use concentrated acids, potassium dichromate, organic solvents and heating under reflux, which carry more risk than most fourth form work. Learning to read hazard pictograms and safety information, and writing a short risk assessment before each practical, keeps you safe and also feeds the planning and design skills marked in the internal assessment.
+                Sixth form practicals use concentrated acids, potassium dichromate, organic solvents and heating under reflux, which carry more risk than most fourth form work. Learning to read hazard pictograms and safety information, and writing a short risk assessment before each practical, keeps your teen safe and also feeds the planning and design skills marked in the internal assessment.
 
                 ## Milestones
                 1. The school laboratory rules read and signed, with the eyewash, fire blanket and spill kit located.
                 2. The hazard pictograms learned well enough to name each one from memory.
                 3. A one-paragraph risk assessment written for each of the first three practicals.
-                4. Safe methods for heating flammable organic liquids and diluting concentrated acids written in your notebook.
+                4. Safe methods for heating flammable organic liquids and diluting concentrated acids written in the practical notebook.
 
                 ## Notes
-                Never repeat a practical at home. Follow your teacher's method and your school's safety rules over anything in a textbook or video.
+                Agree with your teen that practicals are never repeated at home. They should follow the teacher's method and the school's safety rules over anything in a textbook or video.
               priority: high
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "Signed lab rules and written risk assessments for your first three practicals are in your practical notebook, checked by your teacher."
+                success_criteria: "Signed lab rules and written risk assessments for the first three practicals are in the practical notebook, checked by the teacher."
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
                 - "Read the school lab rules and find the eyewash station and spill kit"
-                - "Learn the hazard pictograms and test yourself on them"
-                - "Write a short risk assessment before your next practical"
-                - "Ask your teacher how reflux and distillation are set up safely in your lab"
+                - "Learn the hazard pictograms well enough to name each from memory"
+                - "Write a short risk assessment before the next practical"
+                - "Your teen asks the teacher how reflux and distillation are set up safely in the school lab"
             - name: Syllabus objectives checklist with confidence ratings
               description: |-
                 ## Purpose
-                Every CAPE syllabus lists specific objectives under each module, and examiners write questions straight from them. Turning those objectives into a checklist you rate red, amber or green gives you an honest map of both units, shows where revision time should go and makes every later review faster.
+                Every CAPE syllabus lists specific objectives under each module, and examiners write questions straight from them. Turning those objectives into a checklist your teen rates red, amber or green gives an honest map of both units, shows where revision time should go and gives you a quick way to see progress without needing the chemistry.
 
                 ## Milestones
                 1. Each specific objective for Unit 1 copied into a checklist, grouped by module.
@@ -163,24 +165,24 @@ starter_structure:
               frontmatter:
                 mode: building
                 output_kind: artifact
-                success_criteria: "A checklist of every Unit 1 specific objective, each rated, is in your folder within three weeks, with ratings updated after each module."
+                success_criteria: "A checklist of every Unit 1 specific objective, each rated, is in the folder within three weeks, with ratings updated after each module."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
                 - "Copy the Unit 1 specific objectives into a checklist grouped by module"
                 - "Rate each objective red, amber or green after the lesson that covers it"
-                - "Ask the agent to turn your checklist into a printable one-page tracker"
-                - "Update the ratings for the module you are working through @recurring(monthly:8)"
+                - "Ask the agent to turn the checklist into a printable one-page tracker"
+                - "Update the ratings for the module they are working through @recurring(monthly:8)"
             - name: Two-year CAPE Chemistry study timetable
               description: |-
                 ## Purpose
-                Between lessons, labs, other CAPE subjects and the internal assessment, chemistry study gets squeezed unless it has fixed slots. A timetable that runs from now to the last paper, with each module's teaching weeks, the IA deadlines, mock dates and revision blocks marked, shows when you can afford a light week and when you cannot.
+                Between lessons, labs, other CAPE subjects and the internal assessment, chemistry study gets squeezed unless it has fixed slots. A timetable that runs from now to the last paper, with each module's teaching weeks, the IA deadlines, mock dates and revision blocks marked, shows when your teen can afford a light week and when they cannot.
 
                 ## Milestones
-                1. Weekly chemistry study slots fixed around lessons and other subjects, totalling a number of hours you can keep.
+                1. Weekly chemistry study slots fixed around lessons and other subjects, totalling a number of hours your teen can keep.
                 2. Each module's teaching weeks, the internal assessment deadlines and mock dates marked on one calendar.
                 3. Revision blocks for each unit placed in the final term before its sitting.
-                4. The timetable checked with a parent or teacher and adjusted each month.
+                4. The timetable checked with you or the teacher and adjusted each month.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -191,13 +193,13 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Mark the school's term dates and mock exam weeks on a calendar"
-                - "Block four or five weekly chemistry study slots around your other subjects"
-                - "Add the internal assessment deadlines your teacher gives you"
-                - "Adjust next month's timetable against what actually happened @recurring(monthly:2)"
+                - "Block four or five weekly chemistry study slots around other subjects"
+                - "Add the internal assessment deadlines the teacher gives out"
+                - "Together, adjust next month's timetable against what actually happened @recurring(monthly:2)"
             - name: Daily reagent and conditions flashcards
               description: |-
                 ## Purpose
-                Organic and inorganic questions lose most marks on details: the reagent, the solvent, whether it is heated under reflux, the colour change. Ten minutes a day on flashcards, adding new cards after each lesson, turns those details into recall you can rely on under exam pressure.
+                Organic and inorganic questions lose most marks on details: the reagent, the solvent, whether it is heated under reflux, the colour change. Ten minutes a day on flashcards, adding new cards after each lesson, turns those details into recall your teen can rely on under exam pressure.
 
                 ## Milestones
                 1. A flashcard set started with one card per reaction, test or observation met in class.
@@ -215,8 +217,8 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Make cards for every reagent and condition from this week's lessons"
-                - "Review ten minutes of flashcards and set aside the ones you missed @recurring(daily)"
-                - "Shuffle the whole deck and test yourself before each module test"
+                - "Review ten minutes of flashcards and set aside the missed ones @recurring(daily)"
+                - "Offer to quiz them from the shuffled deck before each module test"
             - name: Wednesday chemistry calculation drill
               description: |-
                 ## Purpose
@@ -236,7 +238,7 @@ starter_structure:
               tasks:
                 - "Collect past-paper calculation questions and sort them by type"
                 - "Do a mixed set of six calculations with full working and units @recurring(weekly:wed)"
-                - "Note the calculation types you get wrong twice in a row"
+                - "Note the calculation types that go wrong twice in a row"
             - name: Saturday CAPE past-paper question block
               description: |-
                 ## Purpose
@@ -297,9 +299,9 @@ starter_structure:
                 success_criteria: "Six months of timed Paper 02 practice logged, with lost marks classified and the weakest question type named."
                 cadence: cyclic
               tasks:
-                - "Pick three Paper 02 questions on modules you have finished"
+                - "Pick three Paper 02 questions on finished modules"
                 - "Write the Paper 02 questions at exam pace without notes @recurring(monthly:24)"
-                - "Ask your teacher to mark one extended answer each term"
+                - "Your teen asks the teacher to mark one extended answer each term"
                 - "Sort lost marks into content, explanation, working or misreading"
             - name: Chemistry error log with Friday review
               description: |-
@@ -324,12 +326,12 @@ starter_structure:
             - name: Practical notebook write-ups within two days
               description: |-
                 ## Purpose
-                Practical reports written straight after the lab are accurate; ones written three weeks later from scraps are not, and some of them feed your internal assessment marks. Writing up each practical within two days, with raw data in the notebook, tables with units and a conclusion, keeps your lab book ready for inspection at any time.
+                Practical reports written straight after the lab are accurate; ones written three weeks later from scraps are not, and some of them feed the internal assessment marks. Writing up each practical within two days, with raw data in the notebook, tables with units and a conclusion, keeps the lab book ready for inspection at any time.
 
                 ## Milestones
                 1. Raw data recorded directly in the practical notebook during every lab.
                 2. Each practical written up within two days with aim, method, results, treatment of data and conclusion.
-                3. Tables headed with quantities and units, and graphs drawn to the standard your teacher sets.
+                3. Tables headed with quantities and units, and graphs drawn to the standard the teacher sets.
                 4. An index at the front listing every practical, its date and whether it is assessed.
               priority: medium
               frontmatter:
@@ -338,16 +340,16 @@ starter_structure:
                 success_criteria: "Every practical done this term is written up in the notebook and listed in its index, with none outstanding more than two days."
                 cadence: rolling
               tasks:
-                - "Start an index page at the front of your practical notebook"
+                - "Start an index page at the front of the practical notebook"
                 - "Check that last week's practicals are fully written up @recurring(weekly:mon)"
-                - "Ask your teacher which practicals so far count towards the internal assessment"
+                - "Your teen asks the teacher which practicals so far count towards the internal assessment"
             - name: Sunday chemistry check-in for parents
               description: |-
                 ## Purpose
                 Parents without a chemistry background can still help a sixth former keep pace, simply by asking the same few questions each week and noticing early when things slip. A fifteen-minute Sunday conversation about what was covered, what is due and what felt hard is enough, without needing to follow a single equation.
 
                 ## Milestones
-                1. A regular Sunday time agreed with your child.
+                1. A regular Sunday time agreed with your teen.
                 2. Three standard questions written down: what was covered, what is due, what was hard.
                 3. Upcoming internal assessment deadlines and test dates noted on the family calendar.
                 4. Any topic flagged as hard for two weeks running raised with the teacher.
@@ -358,7 +360,7 @@ starter_structure:
                 success_criteria: "Eight Sunday check-ins held, with chemistry deadlines on the family calendar and any persistent difficulty raised with the teacher."
                 cadence: rolling
               tasks:
-                - "Agree a Sunday check-in time with your child"
+                - "Agree a Sunday check-in time with your teen"
                 - "Ask what was covered, what is due and what felt hard this week @recurring(weekly:sun)"
                 - "Add chemistry test and IA dates to the family calendar"
                 - "Contact the chemistry teacher if one topic stays hard for two weeks"
@@ -388,7 +390,7 @@ starter_structure:
             - name: Bonding, molecular shapes and intermolecular forces
               description: |-
                 ## Purpose
-                Questions on boiling points, solubility and molecular shape all come back to the type of bonding and the forces between particles. Learning VSEPR shapes with bond angles, sigma and pi bonds, hybridisation, hydrogen bonding and van der Waals forces lets you explain physical properties instead of memorising them.
+                Questions on boiling points, solubility and molecular shape all come back to the type of bonding and the forces between particles. Learning VSEPR shapes with bond angles, sigma and pi bonds, hybridisation, hydrogen bonding and van der Waals forces lets your teen explain physical properties instead of memorising them.
 
                 ## Milestones
                 1. Shapes and bond angles predicted from electron pairs for at least ten molecules and ions.
@@ -411,7 +413,7 @@ starter_structure:
             - name: Gas laws, kinetic theory and states of matter
               description: |-
                 ## Purpose
-                The ideal gas equation is one of the most dependable calculation marks in Unit 1, provided you convert units correctly, and why real gases deviate at high pressure and low temperature is a favourite short answer. This topic also covers the kinetic theory and the structures of solids, which tie back to bonding.
+                The ideal gas equation is one of the most dependable calculation marks in Unit 1, provided the units are converted correctly, and why real gases deviate at high pressure and low temperature is a favourite short answer. This topic also covers the kinetic theory and the structures of solids, which tie back to bonding.
 
                 ## Milestones
                 1. Ideal gas calculations done with every quantity converted to SI units.
@@ -439,7 +441,7 @@ starter_structure:
                 1. Empirical and molecular formula questions done from percentage composition and combustion data.
                 2. Reacting mass and gas volume calculations completed with correct significant figures.
                 3. Three titration calculations done, including one back titration.
-                4. A titration carried out in the lab to concordant results within the tolerance your teacher sets.
+                4. A titration carried out in the lab to concordant results within the tolerance the teacher sets.
                 5. Past-paper mole questions answered with at least 75 percent of marks earned.
               priority: medium
               frontmatter:
@@ -450,7 +452,7 @@ starter_structure:
                 effort_hours_estimate: "10"
               tasks:
                 - "Work ten empirical and molecular formula problems with full working"
-                - "Set out a back titration calculation step by step in your notes"
+                - "Set out a back titration calculation step by step in the notes"
                 - "Practise reading a burette to two decimal places in the next practical"
                 - "Do the mole questions from three past Unit 1 papers"
             - name: Redox reactions, oxidation numbers and half-equations
@@ -474,11 +476,11 @@ starter_structure:
                 - "Assign oxidation numbers in twenty species and check the answers"
                 - "Balance the manganate(VII) and dichromate(VI) half-equations in acid"
                 - "Combine half-equations into five full ionic equations"
-                - "Mark yourself on the redox questions from two past papers"
+                - "Self-mark the redox questions from two past papers"
             - name: Energetics, Hess's law and Born-Haber cycles
               description: |-
                 ## Purpose
-                Energy cycles reward careful drawing: one arrow the wrong way and the answer flips sign. Learning the standard enthalpy definitions word for word, then practising Hess's law, bond energy and Born-Haber calculations, gives you reliable marks and the background for lattice energy and solubility arguments.
+                Energy cycles reward careful drawing: one arrow the wrong way and the answer flips sign. Learning the standard enthalpy definitions word for word, then practising Hess's law, bond energy and Born-Haber calculations, gives reliable marks and the background for lattice energy and solubility arguments.
 
                 ## Milestones
                 1. Standard enthalpy changes of formation, combustion, neutralisation, atomisation and lattice energy defined word for word.
@@ -494,14 +496,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "8"
               tasks:
-                - "Write out the standard enthalpy definitions and test yourself on them"
+                - "Write out the standard enthalpy definitions and test them from memory"
                 - "Draw and solve six Hess's law cycles"
                 - "Build Born-Haber cycles for sodium chloride and magnesium oxide"
                 - "Answer the energetics questions from three past papers"
             - name: Rates of reaction, rate equations and orders
               description: |-
                 ## Purpose
-                Kinetics at this level moves from describing what speeds a reaction up to measuring it: rate equations, orders, rate constants, half-lives and the link between a mechanism and its slow step. Data questions are common, so practise deducing orders from initial rates tables and from concentration against time graphs.
+                Kinetics at this level moves from describing what speeds a reaction up to measuring it: rate equations, orders, rate constants, half-lives and the link between a mechanism and its slow step. Data questions are common, so your teen should practise deducing orders from initial rates tables and from concentration against time graphs.
 
                 ## Milestones
                 1. Orders deduced from initial rates tables and from concentration against time graphs.
@@ -565,7 +567,7 @@ starter_structure:
                 - "Calculate the pH of ten strong and weak acid solutions"
                 - "Sketch the four titration curves and choose an indicator for each"
                 - "Explain how a buffer resists change in pH with two equations"
-                - "Mark your answers to the acid-base questions from three past papers"
+                - "Mark the answers to the acid-base questions from three past papers"
             - name: Solubility product and the common ion effect
               description: |-
                 ## Purpose
@@ -591,7 +593,7 @@ starter_structure:
             - name: Electrode potentials and electrochemical cells
               description: |-
                 ## Purpose
-                Standard electrode potentials let you predict whether a redox reaction will happen and calculate the e.m.f. of a cell, and examiners pair them with diagrams of the standard hydrogen electrode. Learning to draw a cell correctly, use the electrochemical series and explain the limits of these predictions finishes Module 2.
+                Standard electrode potentials make it possible to predict whether a redox reaction will happen and to calculate the e.m.f. of a cell, and examiners pair them with diagrams of the standard hydrogen electrode. Learning to draw a cell correctly, use the electrochemical series and explain the limits of these predictions finishes Module 2.
 
                 ## Milestones
                 1. The standard hydrogen electrode drawn and labelled with its standard conditions.
@@ -614,7 +616,7 @@ starter_structure:
             - name: Period 3 elements, their oxides and chlorides
               description: |-
                 ## Purpose
-                Period 3 from sodium to argon is where Unit 1 asks you to explain trends rather than recall facts: melting points, electrical conductivity, and how the oxides and chlorides behave in water. A single summary table, with equations and the approximate pH for each oxide and chloride, holds most of what the questions need.
+                Period 3 from sodium to argon is where Unit 1 asks students to explain trends rather than recall facts: melting points, electrical conductivity, and how the oxides and chlorides behave in water. A single summary table, with equations and the approximate pH for each oxide and chloride, holds most of what the questions need.
 
                 ## Milestones
                 1. Trends in atomic radius, ionisation energy, melting point and conductivity across Period 3 explained.
@@ -636,7 +638,7 @@ starter_structure:
             - name: Group II, Group IV and Group VII trends
               description: |-
                 ## Purpose
-                Group chemistry questions test whether you can explain a trend, not just state it: the thermal stability of Group II carbonates and nitrates, the shift from the +4 to the +2 oxidation state down Group IV, and the falling oxidising power of the halogens. Learn each trend with its reason and one supporting equation, and the questions become predictable.
+                Group chemistry questions test whether a student can explain a trend, not just state it: the thermal stability of Group II carbonates and nitrates, the shift from the +4 to the +2 oxidation state down Group IV, and the falling oxidising power of the halogens. Once each trend is learned with its reason and one supporting equation, the questions become predictable.
 
                 ## Milestones
                 1. Group II reactions with water and oxygen, and thermal decomposition of carbonates and nitrates, explained with equations.
@@ -659,7 +661,7 @@ starter_structure:
             - name: Transition elements and complex ions
               description: |-
                 ## Purpose
-                Variable oxidation states, coloured complexes, ligand exchange and catalysis set the first row transition elements apart, and questions often hinge on the colour you would see. Linking d-orbital electron configurations to these properties, and learning the key colours with the reagents that produce them, prepares you for both written and practical questions.
+                Variable oxidation states, coloured complexes, ligand exchange and catalysis set the first row transition elements apart, and questions often hinge on the colour that would be seen. Linking d-orbital electron configurations to these properties, and learning the key colours with the reagents that produce them, prepares your teen for both written and practical questions.
 
                 ## Milestones
                 1. Electronic configurations of titanium to copper and their common ions written correctly.
@@ -701,7 +703,7 @@ starter_structure:
                 - "Make a cation, anion and gas test table from the syllabus"
                 - "Practise two unknown salt analyses in the school lab"
                 - "Rewrite the test table from memory and correct it @recurring(monthly:28)"
-                - "Check your observation wording against three mark schemes"
+                - "Check the observation wording against three mark schemes"
             - name: Organic formulae, naming and isomerism
               description: |-
                 ## Purpose
@@ -710,7 +712,7 @@ starter_structure:
                 ## Milestones
                 1. Twenty compounds named from structures and drawn from names across the main homologous series.
                 2. Displayed, structural and skeletal formulae drawn for the same five compounds.
-                3. Geometric isomers identified and labelled in the convention your syllabus uses.
+                3. Geometric isomers identified and labelled in the convention the syllabus uses.
                 4. Chiral centres marked and optical isomers drawn as mirror images.
                 5. Past-paper naming and isomerism questions answered and marked.
               priority: medium
@@ -745,13 +747,13 @@ starter_structure:
                 effort_hours_estimate: "10"
               tasks:
                 - "List every mechanism named in the Unit 2 syllabus"
-                - "Draw each mechanism from memory, then check it against your notes"
+                - "Draw each mechanism from memory, then check it against the notes"
                 - "Compare SN1 and SN2 in a two-column table"
                 - "Practise one unseen mechanism question @recurring(weekly:thu)"
             - name: Hydrocarbons, arenes and halogenoalkanes
               description: |-
                 ## Purpose
-                Alkanes, alkenes, benzene and the halogenoalkanes supply many of the reactions in organic synthesis questions. For each, know the typical reactions with reagents and conditions, why benzene resists addition, and how halogenoalkane reactivity depends on the carbon to halogen bond.
+                Alkanes, alkenes, benzene and the halogenoalkanes supply many of the reactions in organic synthesis questions. For each, your teen needs the typical reactions with reagents and conditions, why benzene resists addition, and how halogenoalkane reactivity depends on the carbon to halogen bond.
 
                 ## Milestones
                 1. Reactions of alkanes, alkenes and benzene summarised with reagents, conditions and products.
@@ -774,7 +776,7 @@ starter_structure:
             - name: Alcohols, carbonyl compounds, acids and esters
               description: |-
                 ## Purpose
-                Oxygen-containing compounds produce the classic test-tube questions: oxidation of primary, secondary and tertiary alcohols, the iodoform test, 2,4-DNPH, Tollens' and Fehling's reagents, and ester formation. Learning the reactions together with their observations lets you answer both the theory and the practical versions.
+                Oxygen-containing compounds produce the classic test-tube questions: oxidation of primary, secondary and tertiary alcohols, the iodoform test, 2,4-DNPH, Tollens' and Fehling's reagents, and ester formation. Learning the reactions together with their observations lets your teen answer both the theory and the practical versions.
 
                 ## Milestones
                 1. Oxidation products of primary, secondary and tertiary alcohols written with the reagent and colour change.
@@ -797,7 +799,7 @@ starter_structure:
             - name: Amines, amino acids, amides and polymers
               description: |-
                 ## Purpose
-                Nitrogen compounds and polymers close the organic module and link chemistry to biology and industry: the basicity of amines, zwitterions in amino acids, the peptide link, and addition and condensation polymers such as nylon and polyesters. Questions often ask you to draw a repeat unit or work back to the monomers, so practise both directions.
+                Nitrogen compounds and polymers close the organic module and link chemistry to biology and industry: the basicity of amines, zwitterions in amino acids, the peptide link, and addition and condensation polymers such as nylon and polyesters. Questions often ask for a repeat unit to be drawn or for the monomers to be worked out, so it pays to practise both directions.
 
                 ## Milestones
                 1. The basicity of ammonia, ethylamine and phenylamine compared and explained.
@@ -819,7 +821,7 @@ starter_structure:
             - name: Organic synthesis routes and functional group map
               description: |-
                 ## Purpose
-                Once the individual reactions are learned, the harder Paper 02 questions ask you to connect them: turn one compound into another in two or three steps, or identify an unknown from a series of test results. A single map linking every functional group by reagent and conditions is the tool that makes those questions manageable.
+                Once the individual reactions are learned, the harder Paper 02 questions ask students to connect them: turn one compound into another in two or three steps, or identify an unknown from a series of test results. A single map linking every functional group by reagent and conditions is the tool that makes those questions manageable.
 
                 ## Milestones
                 1. A one-page map linking each functional group in the syllabus by reagent and conditions.
@@ -836,34 +838,34 @@ starter_structure:
               tasks:
                 - "Draw a functional group map on one large sheet"
                 - "Write ten two-step conversions with reagents and conditions"
-                - "Ask the agent to set five unseen synthesis problems and check them against your map"
+                - "Ask the agent to set five unseen synthesis problems and check them against the map"
                 - "Redraw the full synthesis map from memory @recurring(monthly:20)"
             - name: Measurement uncertainty, titrimetric and gravimetric analysis
               description: |-
                 ## Purpose
-                Module 2 of Unit 2 turns to analysis, starting with how sure you can be of a measurement. Calculating percentage uncertainty for apparatus, telling accuracy from precision, and carrying out titrimetric and gravimetric methods carefully are skills you use in the internal assessment as well as the exam.
+                Module 2 of Unit 2 turns to analysis, starting with how sure anyone can be of a measurement. Calculating percentage uncertainty for apparatus, telling accuracy from precision, and carrying out titrimetric and gravimetric methods carefully are skills used in the internal assessment as well as the exam.
 
                 ## Milestones
                 1. Percentage uncertainty calculated for a burette, a pipette and a balance reading.
-                2. Accuracy, precision, and systematic and random error defined with examples from your own practicals.
+                2. Accuracy, precision, and systematic and random error defined with examples from your teen's own practicals.
                 3. A gravimetric determination planned or carried out with every mass recorded.
                 4. Past-paper questions on uncertainty and quantitative analysis answered and marked.
               priority: low
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Percentage uncertainties for three pieces of apparatus calculated correctly and a gravimetric method written up in your notebook."
+                success_criteria: "Percentage uncertainties for three pieces of apparatus calculated correctly and a gravimetric method written up in the notebook."
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
                 - "Calculate the percentage uncertainty for three pieces of apparatus"
                 - "Write definitions of accuracy, precision and the two error types"
-                - "Ask your teacher for a gravimetric practical or a past one to plan"
+                - "Ask the teacher for a gravimetric practical or a past one to plan"
                 - "Do the analysis questions from two past Unit 2 papers"
             - name: Spectroscopic methods and interpreting spectra
               description: |-
                 ## Purpose
-                Spectroscopy questions hand you a spectrum and ask what molecule produced it, so practice with real spectra matters more than reading about them. Work through the methods your current syllabus names, typically ultraviolet and visible absorption with the Beer-Lambert law, infrared, mass spectrometry and nuclear magnetic resonance, and interpret one unseen spectrum each week.
+                Spectroscopy questions hand over a spectrum and ask what molecule produced it, so practice with real spectra matters more than reading about them. Your teen should work through the methods the current syllabus names, typically ultraviolet and visible absorption with the Beer-Lambert law, infrared, mass spectrometry and nuclear magnetic resonance, and interpret one unseen spectrum each week.
 
                 ## Milestones
                 1. The spectroscopic methods in the current syllabus listed with the principle of each.
@@ -881,12 +883,12 @@ starter_structure:
               tasks:
                 - "Check which spectroscopic methods the current syllabus lists"
                 - "Make a table of key infrared absorption ranges from the data sheet"
-                - "Interpret one unseen spectrum and check your answer @recurring(weekly:tue)"
+                - "Interpret one unseen spectrum and check the answer @recurring(weekly:tue)"
                 - "Answer the spectroscopy questions from three Unit 2 papers"
             - name: Chromatography, distillation and solvent extraction
               description: |-
                 ## Purpose
-                Separation techniques connect theory to the lab: Rf values in paper and thin layer chromatography, retention times in gas chromatography, Raoult's law behind fractional distillation, and partition coefficients in solvent extraction. Expect questions that give you data and ask for both a calculation and a reason.
+                Separation techniques connect theory to the lab: Rf values in paper and thin layer chromatography, retention times in gas chromatography, Raoult's law behind fractional distillation, and partition coefficients in solvent extraction. Expect questions that give data and ask for both a calculation and a reason.
 
                 ## Milestones
                 1. Rf values calculated from chromatograms, with the stationary and mobile phase named for each method.
@@ -934,7 +936,7 @@ starter_structure:
                 Environmental chemistry closes the syllabus: water treatment and pollution, the ozone layer, the greenhouse effect, acid rain, photochemical smog and solid waste. Answers score when they include the actual chemistry, such as the reactions that break down ozone or the equations for acid rain, rather than general concern.
 
                 ## Milestones
-                1. Water treatment stages and common pollutants summarised, with an example from your national water authority.
+                1. Water treatment stages and common pollutants summarised, with an example from the national water authority.
                 2. Ozone depletion, the greenhouse effect, acid rain and smog explained with equations.
                 3. Landfill, incineration and recycling compared with the chemistry of each.
                 4. Past-paper environmental chemistry questions answered and marked.
@@ -946,20 +948,20 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Find out how your national water authority treats drinking water"
+                - "Find out how the national water authority treats drinking water"
                 - "Write the equations for ozone breakdown and acid rain formation"
                 - "Compare landfill, incineration and recycling in a short table"
                 - "Do the environmental questions from two Unit 2 papers"
             - name: Mark schemes and CXC subject reports for Chemistry
               description: |-
                 ## Purpose
-                CXC publishes subject reports after each sitting that describe where candidates lost marks, and mark schemes show the exact wording that earns credit. Reading them module by module, and collecting the repeated complaints in one place, tells you what examiners want far more precisely than a textbook can.
+                CXC publishes subject reports after each sitting that describe where candidates lost marks, and mark schemes show the exact wording that earns credit. Reading them module by module, and collecting the repeated complaints in one place, tells your teen what examiners want far more precisely than a textbook can.
 
                 ## Milestones
                 1. Subject reports for recent sittings collected for both units.
                 2. Repeated examiner comments grouped by module in one document.
-                3. Mark scheme wording for common definitions and observations copied into your notes.
-                4. Three changes to how you write answers made and tested in the next timed practice.
+                3. Mark scheme wording for common definitions and observations copied into the notes.
+                4. Three changes to how answers are written made and tested in the next timed practice.
 
                 ## Notes
                 Start from the **Feedback themes** template.
@@ -973,21 +975,21 @@ starter_structure:
               tasks:
                 - "Download the most recent CAPE Chemistry subject reports"
                 - "Group repeated examiner comments by module"
-                - "Read the subject report section for the module you are studying @recurring(monthly:16)"
-                - "Pick three changes to how you write answers and try them"
+                - "Read the subject report section for the module being studied @recurring(monthly:16)"
+                - "Pick three changes to answer writing and try them"
             - name: Internal assessment practicals and lab book
               description: |-
                 ## Purpose
-                The internal assessment for each unit is built from practicals your teacher marks across the year, and the lab book is the evidence CXC may ask to see. Knowing which skills are being marked, keeping every assessed practical complete and planning the design investigation carefully protects marks you can secure before the exam.
+                The internal assessment for each unit is built from practicals the teacher marks across the year, and the lab book is the evidence CXC may ask to see. Knowing which skills are being marked, keeping every assessed practical complete and planning the design investigation carefully protects marks your teen can secure before the exam.
 
                 ## Milestones
-                1. The skills assessed and the list of assessed practicals confirmed with your teacher.
+                1. The skills assessed and the list of assessed practicals confirmed with the teacher.
                 2. Every assessed practical complete in the lab book, with the teacher's mark recorded.
                 3. A planning and design investigation written with hypothesis, variables, method, expected results and limitations.
                 4. The lab book checked against the teacher's list and handed in by the school deadline.
 
                 ## Notes
-                Your school's deadlines come well before CXC's own. Private candidates take Paper 032 instead of the internal assessment.
+                The school's deadlines come well before CXC's own, so note them on the family calendar. Private candidates take Paper 032 instead of the internal assessment.
               priority: high
               deadlineOffsetDays: 120
               frontmatter:
@@ -997,18 +999,18 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "25"
               tasks:
-                - "Ask your teacher which skills each assessed practical will mark"
+                - "Your teen asks the teacher which skills each assessed practical will mark"
                 - "Write a planning and design investigation with a testable hypothesis"
-                - "Check your lab book against the list of assessed practicals @recurring(monthly:6)"
+                - "Ask them to show you the lab book against the list of assessed practicals @recurring(monthly:6)"
                 - "Hand the completed lab book in by the school deadline"
             - name: School mock exam in CAPE Chemistry
               description: |-
                 ## Purpose
-                A full mock under exam conditions shows how your knowledge holds up across three modules at once, and its result usually shapes your teacher's advice for the final term. Preparing for it as if it were the real sitting, then analysing every lost mark, gives you the clearest picture you will get beforehand.
+                A full mock under exam conditions shows how your teen's knowledge holds up across three modules at once, and its result usually shapes the teacher's advice for the final term. Preparing for it as if it were the real sitting, then analysing every lost mark, gives you both the clearest picture available beforehand.
 
                 ## Milestones
                 1. The mock dates and papers confirmed with the school.
-                2. Two weeks of mock revision based on your red and amber syllabus objectives.
+                2. Two weeks of mock revision based on the red and amber syllabus objectives.
                 3. Every mock paper reviewed, with lost marks sorted by module and cause.
                 4. A revised plan for the final term written from the mock analysis.
               priority: high
@@ -1021,7 +1023,7 @@ starter_structure:
                 effort_hours_estimate: "20"
               tasks:
                 - "Confirm the chemistry mock dates and which papers will be set"
-                - "Revise your red and amber objectives in the two weeks before"
+                - "Revise the red and amber objectives in the two weeks before"
                 - "Sort every lost mark by module and cause once papers come back"
                 - "Rewrite the final-term plan around the mock analysis"
             - name: Final six weeks of chemistry revision
@@ -1031,7 +1033,7 @@ starter_structure:
 
                 ## Milestones
                 1. A six-week plan listing which modules get attention in each week.
-                2. At least two full timed papers for each unit you are sitting, sat and marked.
+                2. At least two full timed papers for each unit being sat, attempted and marked.
                 3. All red objectives on the checklist moved to amber or green.
                 4. The final week kept light, with flashcards, definitions and the synthesis map.
               priority: medium
@@ -1043,14 +1045,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "40"
               tasks:
-                - "Write a six-week revision plan from your checklist and error log"
-                - "Do one timed question from your weakest module @recurring(daily)"
+                - "Write a six-week revision plan from the checklist and error log"
+                - "Do one timed question from the weakest module @recurring(daily)"
                 - "Sit and mark two full timed papers for each unit"
                 - "Plan a lighter final week of recall only"
             - name: Chemistry exam day plan and kit
               description: |-
                 ## Purpose
-                Exam mornings go wrong over small things: a calculator with a flat battery, the wrong venue or a missing candidate number. Packing the kit the night before, confirming the timetable and venue and deciding how you will work through each paper leaves your head free for the chemistry.
+                Exam mornings go wrong over small things: a calculator with a flat battery, the wrong venue or a missing candidate number. Packing the kit the night before, confirming the timetable and venue and deciding how they will work through each paper leaves your teen's head free for the chemistry.
 
                 ## Milestones
                 1. Each chemistry paper's date, time and venue confirmed from the official timetable.
@@ -1068,12 +1070,12 @@ starter_structure:
               tasks:
                 - "Confirm the date, time and venue for each chemistry paper"
                 - "Pack calculator, spare battery, pens, pencil and ruler the night before"
-                - "Decide which question types you will answer first on Paper 02"
+                - "Decide which question types to answer first on Paper 02"
                 - "Arrange transport to arrive at least thirty minutes early"
             - name: Catch-up plan after falling behind in chemistry
               description: |-
                 ## Purpose
-                Illness, a family move, a heavy subject load or a weak CSEC base can leave a student several topics behind by mid-year, and the gap grows quickly in a two-unit subject. A short catch-up plan agreed with the teacher, covering the essential objectives of the missed topics first, gets you back to where the class is.
+                Illness, a family move, a heavy subject load or a weak CSEC base can leave a student several topics behind by mid-year, and the gap grows quickly in a two-unit subject. A short catch-up plan agreed with the teacher, covering the essential objectives of the missed topics first, gets your teen back to where the class is.
 
                 ## Milestones
                 1. The missed or weak topics listed with the teacher's help.
@@ -1089,14 +1091,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
-                - "Ask your teacher which topics you most need to catch up"
+                - "Ask the teacher which topics your teen most needs to catch up"
                 - "Pick the essential objectives from each missed topic"
-                - "Fit two catch-up sessions a week into your timetable"
+                - "Fit two catch-up sessions a week into the timetable"
                 - "Sit a short test on the missed topics at the end of the plan"
             - name: Private candidate route through Paper 032
               description: |-
                 ## Purpose
-                Adults returning to study, repeat candidates and students without a school place can sit CAPE Chemistry privately, registering through the local CXC registrar and taking Paper 032 instead of the school-based internal assessment. Practical skills are still examined in writing, so you need a way to see real experiments and practise planning and data questions.
+                Adults returning to study, repeat candidates and students without a school place can sit CAPE Chemistry privately, registering through the local CXC registrar and taking Paper 032 instead of the school-based internal assessment. Practical skills are still examined in writing, so the candidate needs a way to see real experiments and practise planning and data questions. If your teen is sitting privately, you will likely be the one arranging registration and that practical access.
 
                 ## Milestones
                 1. Registration rules and deadlines confirmed with the local registrar or Ministry of Education.
@@ -1118,7 +1120,7 @@ starter_structure:
             - name: Teacher's practical schedule and IA moderation sample
               description: |-
                 ## Purpose
-                For teachers and lessons tutors, the internal assessment runs smoothly when assessed practicals are planned at the start of the year, mapped to the skills and spread across the modules. Keeping marks, lab book checks and the moderation sample organised as you go avoids a scramble when CXC asks for samples.
+                Teachers and lessons tutors run the internal assessment most smoothly when assessed practicals are planned at the start of the year, mapped to the skills and spread across the modules. If your teen has a tutor, or you are in touch with the chemistry teacher, share this checklist: keeping marks, lab book checks and the moderation sample organised as the year goes avoids a scramble when CXC asks for samples.
 
                 ## Milestones
                 1. A year plan of practicals for each unit, each mapped to the skills being assessed.
@@ -1132,14 +1134,14 @@ starter_structure:
                 success_criteria: "A mapped practical plan for both units, marks recorded within a week, and the moderation sample sent on time."
                 cadence: cyclic
               tasks:
-                - "Map each planned practical to the skill it assesses"
-                - "Record assessed practical marks within a week of each lab"
-                - "Check student lab books for missing practicals @recurring(quarterly)"
-                - "Read CXC's current moderation instructions before selecting the sample"
+                - "Ask the teacher or tutor how each planned practical maps to the skill it assesses"
+                - "Check that assessed practical marks are recorded within a week of each lab"
+                - "Ask your teen to show you their lab book against the practical list @recurring(quarterly)"
+                - "Ask the teacher how CXC's current moderation instructions shape the sample"
             - name: Top-grade extended answers in CAPE Chemistry
               description: |-
                 ## Purpose
-                Students aiming for the top grades usually know the content; what separates them is the precision of their extended answers, with explanations that link cause to effect, mechanisms without a stray arrow and calculations that carry units throughout. Studying model answers and rewriting your own until they match the mark scheme closely is the final polish.
+                Students aiming for the top grades usually know the content; what separates them is the precision of their extended answers, with explanations that link cause to effect, mechanisms without a stray arrow and calculations that carry units throughout. Studying model answers and rewriting their own until they match the mark scheme closely is the final polish, and one your teen can lead with you simply keeping the time free.
 
                 ## Milestones
                 1. Five extended answers rewritten after comparison with the mark scheme.
@@ -1154,7 +1156,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "12"
               tasks:
-                - "Compare five of your extended answers with the mark scheme"
+                - "Compare five of their extended answers with the mark scheme"
                 - "Write what each command word asks for in one line"
                 - "Ask a teacher to grade two full Paper 02s strictly"
                 - "Rewrite every answer that lost marks for lack of precision"
@@ -1162,6 +1164,6 @@ starter_structure:
 
 # CAPE Chemistry
 
-This area is for lower and upper sixth students taking CAPE Chemistry, and for the parents, teachers and lessons tutors working with them. It begins with the foundations (the current syllabus and paper format, when to sit each unit, bridging from CSEC, kit, lab safety, an objectives checklist and a two-year timetable), then the weekly routines, then every topic in syllabus order through the three modules of Unit 1 and the three modules of Unit 2, then mark schemes, the internal assessment, the mock, the final weeks and exam day, and finally plans for catching up, private candidates, teachers and students chasing the top grades.
+This area is for parents and guardians supporting a lower or upper sixth student taking CAPE Chemistry, with projects for teachers and lessons tutors too. It begins with the foundations (the current syllabus and paper format, when to sit each unit, bridging from CSEC, kit, lab safety, an objectives checklist and a two-year timetable), then the weekly routines, then every topic in syllabus order through the three modules of Unit 1 and the three modules of Unit 2, then mark schemes, the internal assessment, the mock, the final weeks and exam day, and finally plans for catching up, private candidates, teachers and students chasing the top grades.
 
 What repeats is a daily round of reagent flashcards, an unseen spectrum on Tuesdays, a calculation drill on Wednesdays, a mechanism on Thursdays, the error log on Fridays, a past-paper block every Saturday, a parent check-in on Sundays, and timed Paper 01 and Paper 02 practice on the 11th and 24th of each month. The Purchase decision, Habit tracker, Metrics log and Feedback themes templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

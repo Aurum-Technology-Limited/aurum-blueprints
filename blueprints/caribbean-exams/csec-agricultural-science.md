@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-agricultural-science
 name: CSEC Agricultural Science
-description: "A complete CSEC Agricultural Science plan: the current syllabus and award choice, weekly routines, every topic from soil to crops, livestock and agribusiness, the practical SBA, timed past papers, the mock, exam day and results."
+description: "A CSEC Agricultural Science plan for parents and guardians of a teen: the syllabus and award choice, weekly routines, every topic from soil to livestock and agribusiness, the practical SBA, past papers, the mock, exam day and results."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-agricultural-science, student, parent, educator, cxc, csec, agricultural-science, sba]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,15 +25,17 @@ starter_structure:
             - name: Current CSEC Agricultural Science syllabus and paper format check
               description: |-
                 ## Purpose
-                Agricultural Science at CSEC is examined through a multiple-choice Paper 01, a written Paper 02 and a practical school-based assessment, and the single and double award versions differ in how much content and SBA work they carry. An hour with the current CXC syllabus and timetable means every later project in this area is aimed at the exam you will actually sit, not the one described in an older textbook.
+                Agricultural Science at CSEC is examined through a multiple-choice Paper 01, a written Paper 02 and a practical school-based assessment, and the single and double award versions differ in how much content and SBA work they carry. An hour with the current CXC syllabus and timetable means every later project in this area is aimed at the exam your teen will actually sit, not the one described in an older textbook.
 
                 ## Milestones
                 1. The current CSEC Agricultural Science syllabus downloaded from the CXC website and its edition year noted.
                 2. The format of each paper, including the SBA, written on one page in the syllabus's own words.
                 3. The syllabus sections and their topics listed, with the double award extras marked separately.
-                4. The May to June sitting confirmed with your school and the Agricultural Science date noted once the timetable is published.
+                4. The May to June sitting confirmed with the school and the Agricultural Science date noted once the timetable is published.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CSEC Agricultural Science, and an older student can follow it with a parent's support.
+
                 Revision guides and farm handouts can lag a syllabus change by years. Where they disagree with the CXC document, the CXC document wins.
               priority: high
               deadlineOffsetDays: 10
@@ -46,18 +48,18 @@ starter_structure:
               tasks:
                 - "Check the current syllabus and timetable on the CXC website and note the paper format"
                 - "List the syllabus sections and topics on one page, marking double award content"
-                - "Write the syllabus edition year on the front of your Agricultural Science folder"
+                - "Ask your teen to write the syllabus edition year on their Agricultural Science folder"
                 - "Re-check the CXC website for syllabus amendments at the start of each school year @recurring(yearly)"
             - name: Single award or double award decision
               description: |-
                 ## Purpose
-                Some schools offer Agricultural Science as a single award and others as a double award, which covers more content, asks for more practical work and is counted differently on your certificate. Deciding in Form Three or early Form Four, with the facts from your school and the syllabus in front of you, avoids switching halfway through when SBA projects are already planted.
+                Some schools offer Agricultural Science as a single award and others as a double award, which covers more content, asks for more practical work and is counted differently on the certificate. Deciding with your teen in Form Three or early Form Four, with the facts from the school and the syllabus in front of you both, avoids switching halfway through when SBA projects are already planted.
 
                 ## Milestones
-                1. The award options your school actually offers confirmed with the Agricultural Science teacher.
+                1. The award options the school actually offers confirmed with the Agricultural Science teacher.
                 2. The extra content and SBA work in the double award listed from the syllabus.
-                3. How each award counts for the sixth form, college or scholarship route you are aiming at checked and written down.
-                4. A decision recorded with the reasons, agreed with a parent and the teacher.
+                3. How each award counts for the sixth form, college or scholarship route your teen is aiming at checked and written down.
+                4. A decision recorded with the reasons, agreed between your teen, you and the teacher.
 
                 ## Notes
                 A double award is a heavier timetable commitment. It makes most sense for students who enjoy the practical side and are heading towards agriculture, food science, veterinary or environmental studies.
@@ -70,14 +72,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Ask your teacher which award options the school enters candidates for"
+                - "Ask the teacher which award options the school enters candidates for"
                 - "List the double award extras from the current syllabus"
-                - "Check how each award counts for the next course you are aiming at"
-                - "Agree the choice with a parent and write down the reasons"
-            - name: Diagnostic Agricultural Science paper to find your starting point
+                - "Check how each award counts for the next course your teen is aiming at"
+                - "Agree the choice with your teen and write down the reasons"
+            - name: Diagnostic Agricultural Science paper to find the starting point
               description: |-
                 ## Purpose
-                Students arrive at CSEC Agricultural Science with very different backgrounds: some have kept goats or helped in a family garden for years, others have never planted a seed. Sitting one past Paper 01 early, without notes, and sorting the wrong answers by section shows whether soil, crops, livestock or agribusiness needs the most work first.
+                Teenagers arrive at CSEC Agricultural Science with very different backgrounds: some have kept goats or helped in a family garden for years, others have never planted a seed. Having your teen sit one past Paper 01 early, without notes, and sorting the wrong answers by section together shows whether soil, crops, livestock or agribusiness needs the most work first.
 
                 ## Milestones
                 1. One past or specimen Paper 01 completed without notes in a single sitting.
@@ -86,7 +88,7 @@ starter_structure:
                 4. The three weakest topics written at the top of the study plan.
 
                 ## Notes
-                Start from the **Skills matrix** template, with syllabus sections as rows and a confidence score that you update after each topic project.
+                Start from the **Skills matrix** template, with syllabus sections as rows and a confidence score your teen updates after each topic project.
               priority: high
               deadlineOffsetDays: 28
               frontmatter:
@@ -96,17 +98,17 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Get one past or specimen Paper 01 from your teacher or the CXC store"
-                - "Sit the paper in one go without notes or a phone"
+                - "Get one past or specimen Paper 01 from the teacher or the CXC store"
+                - "Sit the paper in one go without notes, phone in another room"
                 - "Mark it and tally the wrong answers by syllabus section"
                 - "Set up a skills matrix with a confidence score for each section"
             - name: Two-year CSEC Agricultural Science study plan
               description: |-
                 ## Purpose
-                Unlike most subjects, Agricultural Science has a timing problem: crops and animals for the SBA run on their own biological clock, and a cabbage planted late in the rainy season or a batch of broilers started in exam month cannot be rushed. A month-by-month plan that places each topic, each SBA enterprise and the revision blocks across Forms Four and Five keeps theory, practicals and the farming calendar in step.
+                Unlike most subjects, Agricultural Science has a timing problem: crops and animals for the SBA run on their own biological clock, and a cabbage planted late in the rainy season or a batch of broilers started in exam month cannot be rushed. A month-by-month plan that places each topic, each SBA enterprise and the revision blocks across Forms Four and Five keeps theory, practicals and the farming calendar in step. Seeing it on one page also shows you which weekends and holidays will need lifts or plot visits.
 
                 ## Milestones
-                1. Every syllabus topic placed in a month, following your school's teaching order.
+                1. Every syllabus topic placed in a month, following the school's teaching order.
                 2. SBA crop and livestock enterprises placed in the months they will run, with planting and stocking dates.
                 3. SBA deadlines, the mock exam and the final eight revision weeks marked from the school calendar.
                 4. The plan printed or pinned where it is seen every day.
@@ -119,23 +121,23 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for the scheme of work and the SBA calendar for both years"
+                - "Ask the teacher for the scheme of work and the SBA calendar for both years"
                 - "Place each syllabus topic in the month it will be taught"
                 - "Mark the SBA planting, stocking and submission dates on the plan"
-                - "Compare your progress against the plan @recurring(monthly:26)"
+                - "Check in with your teen on progress against the plan @recurring(monthly:26)"
             - name: School farm safety, protective clothing and tool care
               description: |-
                 ## Purpose
-                Practical periods on the school farm involve cutlasses, forks, hoes, knapsack sprayers, fertiliser and animals that kick or bite, and most injuries come from a tool left in the grass or a chemical handled without gloves. Learning the farm rules, the right protective clothing and how to clean and store each hand tool before the first practical protects you and gives you material Paper 02 asks about.
+                Practical periods on the school farm involve cutlasses, forks, hoes, knapsack sprayers, fertiliser and animals that kick or bite, and most injuries come from a tool left in the grass or a chemical handled without gloves. Making sure your teen knows the farm rules, has the right protective clothing and can clean and store each hand tool before the first practical protects them and gives them material Paper 02 asks about.
 
                 ## Milestones
                 1. The school farm's safety rules read and signed, with the first aid kit and wash point located.
-                2. Your own boots, gloves and work clothes ready for every practical period.
+                2. Their own boots, gloves and work clothes ready for every practical period.
                 3. The common hand tools named, with their use and how each is cleaned, sharpened and stored.
-                4. The safety symbols on a pesticide or fertiliser label explained in your notes.
+                4. The safety symbols on a pesticide or fertiliser label explained in their notes.
 
                 ## Notes
-                Never mix, spray or decant agrochemicals without your teacher present, even if you have done it at home.
+                Agree with your teen that they never mix, spray or decant agrochemicals without the teacher present, even if they have done it at home.
               priority: medium
               frontmatter:
                 mode: learning
@@ -144,7 +146,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask your teacher for the school farm safety rules and sign them"
+                - "Read and sign the school farm safety rules from the teacher"
                 - "Get boots, gloves and a set of old clothes for practical periods"
                 - "Make a table of hand tools with their use, care and storage"
                 - "Copy and explain the safety symbols from one real agrochemical label"
@@ -154,9 +156,9 @@ starter_structure:
                 Many lost marks in Paper 02 come from answering the wrong question: describing when the question said explain, or naming one factor when it asked for two with reasons. Learning what each command word demands, and how a mark scheme splits marks between a point and its farm example, changes how every later answer is written.
 
                 ## Milestones
-                1. The command words in the current syllabus listed with what each one asks you to do.
+                1. The command words in the current syllabus listed with what each one asks for.
                 2. Two past Paper 02 questions answered and marked against the official mark scheme.
-                3. The difference between a point and a developed point with a farm example written in your own words.
+                3. The difference between a point and a developed point with a farm example written in their own words.
                 4. A one-page answer checklist kept at the front of the folder.
               priority: medium
               deadlineOffsetDays: 45
@@ -170,17 +172,17 @@ starter_structure:
                 - "Copy the command words and their meanings from the syllabus glossary"
                 - "Answer two past Paper 02 questions without notes"
                 - "Mark both answers against the official mark scheme"
-                - "Write a one-page answer checklist for the front of your folder"
+                - "Write a one-page answer checklist for the front of the folder"
             - name: SBA brief, plot allocation and field record book set-up
               description: |-
                 ## Purpose
-                The Agricultural Science SBA is built from what you actually grow, rear and record, so a lost week of records at the start cannot be invented later. Getting the brief, your plot or pen allocation and a field record book with dated columns in place before anything is planted makes the write-up a matter of copying from evidence rather than reconstructing from memory.
+                The Agricultural Science SBA is built from what your teen actually grows, rears and records, so a lost week of records at the start cannot be invented later. Getting the brief, their plot or pen allocation and a field record book with dated columns in place before anything is planted makes the write-up a matter of copying from evidence rather than reconstructing from memory.
 
                 ## Milestones
-                1. The SBA requirements for your award copied from the syllabus and the teacher's brief, including what records are needed.
-                2. Your plot, bed or animal unit allocated and its location and size written down.
+                1. The SBA requirements for their award copied from the syllabus and the teacher's brief, including what records are needed.
+                2. Their plot, bed or animal unit allocated and its location and size written down.
                 3. A field record book with pages for the daily diary, inputs, labour, costs, sales and measurements.
-                4. A pocket field notebook and pencil kept in your farm bag for notes on the plot.
+                4. A pocket field notebook and pencil kept in the farm bag for notes on the plot.
 
                 ## Notes
                 Start from the **Metrics log** template for measurements such as plant height, yield or bird weight, and keep the paper record book as the original.
@@ -193,17 +195,17 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Copy the SBA requirements for your award from the syllabus and teacher's brief"
-                - "Ask your teacher for your plot or animal unit and note its size"
+                - "Copy the SBA requirements for the award from the syllabus and teacher's brief"
+                - "Ask the teacher for the plot or animal unit and note its size"
                 - "Rule up a record book with diary, inputs, costs, sales and measurement pages"
-                - "Set up a metrics log for the measurements your SBA needs"
+                - "Set up a metrics log for the measurements the SBA needs"
             - name: Weekly CSEC Agricultural Science study sessions
               description: |-
                 ## Purpose
-                Two fixed sessions a week, one on theory and one on questions, keep the syllabus moving even in the weeks when practical periods are rained out or the SBA plot takes all your energy. Students who study only after a farm practical tend to know crops well and livestock or agribusiness poorly.
+                Two fixed sessions a week, one on theory and one on questions, keep the syllabus moving even in the weeks when practical periods are rained out or the SBA plot takes all your teen's energy. Students who study only after a farm practical tend to know crops well and livestock or agribusiness poorly, so it is worth agreeing the two times together.
 
                 ## Milestones
-                1. Two study sessions a week fixed on your timetable at times that do not clash with farm duties.
+                1. Two study sessions a week fixed on the family timetable at times that do not clash with farm duties.
                 2. Each session planned in advance with one topic and one set of questions.
                 3. Eight consecutive weeks of sessions completed and ticked off.
                 4. Each syllabus section visited at least once a term.
@@ -217,7 +219,7 @@ starter_structure:
                 success_criteria: "Two study sessions a week have been completed for eight consecutive weeks, with every section visited at least once a term."
                 cadence: rolling
               tasks:
-                - "Choose two fixed study times that do not clash with farm duties"
+                - "Agree two fixed study times with your teen that do not clash with farm duties"
                 - "Set up a habit tracker for the two weekly sessions"
                 - "Run a theory session and a question session each week @recurring(weekly:mon,thu)"
                 - "Rotate the syllabus sections so none goes a term without a visit"
@@ -229,7 +231,7 @@ starter_structure:
                 ## Milestones
                 1. A card set started with at least 50 terms from the topics covered so far.
                 2. New terms added after each topic project.
-                3. Cards sorted into boxes by how well you know them, with weak cards seen most often.
+                3. Cards sorted into boxes by how well they are known, with weak cards seen most often.
                 4. A month of daily recall rounds completed.
               priority: medium
               frontmatter:
@@ -238,18 +240,18 @@ starter_structure:
                 success_criteria: "A recall card set of at least 50 terms exists and has been used for a month of daily rounds."
                 cadence: rolling
               tasks:
-                - "Write 20 cards from the topics you have covered so far"
+                - "Write 20 cards from the topics covered so far"
                 - "Add the new terms after finishing each topic project"
-                - "Run a ten-minute recall round with your cards @recurring(daily)"
-                - "Move cards between boxes based on whether you recalled them"
+                - "Run a ten-minute recall round with the cards @recurring(daily)"
+                - "Move cards between boxes based on whether they were recalled"
             - name: Daily plot and livestock care rota for the SBA
               description: |-
                 ## Purpose
-                Seedlings die in two dry days and broilers suffer in an afternoon without water, so an SBA enterprise needs someone checking it every day, including weekends and public holidays. A written care rota, shared with classmates or family where the project allows, plus a weekly measurement day, keeps the crop or animals alive and the records complete.
+                Seedlings die in two dry days and broilers suffer in an afternoon without water, so an SBA enterprise needs someone checking it every day, including weekends and public holidays. A written care rota, shared with classmates or family where the project allows, plus a weekly measurement day, keeps the crop or animals alive and the records complete. Weekend and holiday cover is where a parent's lift or spare hour often makes the difference.
 
                 ## Milestones
-                1. A daily checklist for your enterprise: water, feed, pests, weeds, animal health and anything unusual.
-                2. Cover arranged for weekends and holidays, approved by your teacher.
+                1. A daily checklist for the enterprise: water, feed, pests, weeds, animal health and anything unusual.
+                2. Cover arranged for weekends and holidays, approved by the teacher.
                 3. A fixed weekly day for measurements such as plant height, leaf count or bird weight.
                 4. A full month of daily checks recorded without a gap.
 
@@ -262,10 +264,10 @@ starter_structure:
                 success_criteria: "A month of daily care checks and four weekly measurement entries are recorded in the field record book without a gap."
                 cadence: rolling
               tasks:
-                - "Write a daily checklist for your crop or livestock enterprise"
-                - "Agree weekend and holiday cover with your teacher and classmates"
+                - "Write a daily checklist for the crop or livestock enterprise"
+                - "Agree weekend and holiday cover with the teacher, classmates and family"
                 - "Check the plot or pen and note anything unusual in the diary @recurring(daily)"
-                - "Take and record the weekly measurements for your enterprise @recurring(weekly:sat)"
+                - "Take and record the weekly measurements for the enterprise @recurring(weekly:sat)"
             - name: Monthly timed Paper 01 practice
               description: |-
                 ## Purpose
@@ -284,7 +286,7 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Gather past and specimen Paper 01s and number them by year"
-                - "Note the timing for Paper 01 from the current syllabus or your teacher"
+                - "Note the timing for Paper 01 from the current syllabus or the teacher"
                 - "Sit one timed Paper 01 and log the score @recurring(monthly:9)"
                 - "Tally wrong answers by section and add the weak topics to next week's sessions"
             - name: Monthly Paper 02 structured question practice
@@ -328,15 +330,15 @@ starter_structure:
                 - "Start a mistakes log with date, question, mistake and correction columns"
                 - "Add every error from marked tests and practice papers"
                 - "Review the log and retest the repeated mistakes @recurring(weekly:sun)"
-                - "Cross off mistakes you have now answered correctly twice"
-            - name: Termly progress review with your Agricultural Science teacher
+                - "Cross off mistakes now answered correctly twice"
+            - name: Termly progress review with the Agricultural Science teacher
               description: |-
                 ## Purpose
-                Teachers see your practical work, SBA records and test scores in one view, and a short conversation each term turns that into a clear next step. Arriving with your skills matrix, latest scores and record book makes the ten minutes count, and gives a parent something concrete to support.
+                Teachers see your teen's practical work, SBA records and test scores in one view, and a short conversation each term turns that into a clear next step. Going in with the skills matrix, latest scores and record book makes the ten minutes count, whether your teen goes alone or you go together, and gives you something concrete to support at home.
 
                 ## Milestones
-                1. A short review requested with your teacher once a term.
-                2. Your skills matrix, latest Paper 01 scores and record book brought to the review.
+                1. A short review requested with the teacher once a term.
+                2. The skills matrix, latest Paper 01 scores and record book brought to the review.
                 3. The teacher's two or three priorities written down.
                 4. Those priorities added to the next month of study sessions.
 
@@ -349,10 +351,10 @@ starter_structure:
                 success_criteria: "A written note from a teacher review exists for each term, with priorities added to the study plan."
                 cadence: cyclic
               tasks:
-                - "Ask your teacher for ten minutes for a progress review"
-                - "Bring your skills matrix, scores and SBA record book to the review"
+                - "Ask the teacher for ten minutes for a progress review"
+                - "Bring the skills matrix, scores and SBA record book to the review"
                 - "Write down the teacher's priorities in meeting notes"
-                - "Book the next termly review with your teacher @recurring(quarterly)"
+                - "Book the next termly review with the teacher @recurring(quarterly)"
             - name: Agriculture in Caribbean development and food security
               description: |-
                 ## Purpose
@@ -378,7 +380,7 @@ starter_structure:
             - name: Climate, hurricanes and sustainable farming
               description: |-
                 ## Purpose
-                Caribbean farmers deal with a wet and dry season, hurricanes, drought, flooding and rising temperatures, and the syllabus expects you to link these to farming decisions. Mapping how your local climate shapes what is planted and when, and listing practices that protect soil and water, prepares you for questions on the environment and sustainable agriculture.
+                Caribbean farmers deal with a wet and dry season, hurricanes, drought, flooding and rising temperatures, and the syllabus expects candidates to link these to farming decisions. Mapping how the local climate shapes what is planted and when, and listing practices that protect soil and water, prepares your teen for questions on the environment and sustainable agriculture.
 
                 ## Milestones
                 1. The wet and dry seasons in your country described with the crops planted in each.
@@ -400,12 +402,12 @@ starter_structure:
             - name: Farm records, accounts and enterprise budgets
               description: |-
                 ## Purpose
-                Agribusiness questions ask you to keep records, prepare a simple profit and loss account and work out a gross margin, and your SBA will need the same skills with your own figures. Practising on a worked example, then keeping a running account for your SBA enterprise, makes the calculations familiar and the records real.
+                Agribusiness questions ask candidates to keep records, prepare a simple profit and loss account and work out a gross margin, and the SBA will need the same skills with your teen's own figures. Practising on a worked example, then keeping a running account for the SBA enterprise, makes the calculations familiar and the records real.
 
                 ## Milestones
                 1. The main types of farm records named with what each is used for.
                 2. A gross margin and a simple profit and loss account worked from textbook figures.
-                3. A running account for your SBA enterprise with every input cost and sale recorded.
+                3. A running account for the SBA enterprise with every input cost and sale recorded.
                 4. Farm records and budgeting questions from three past papers answered and marked.
               priority: medium
               frontmatter:
@@ -417,12 +419,12 @@ starter_structure:
               tasks:
                 - "List the types of farm records and what each one is for"
                 - "Work a gross margin and profit and loss account from a textbook example"
-                - "Update your SBA enterprise account with costs and sales @recurring(monthly:28)"
+                - "Update the SBA enterprise account with costs and sales @recurring(monthly:28)"
                 - "Answer the farm records and budgeting questions from three past papers"
             - name: Marketing produce, cooperatives and agricultural credit
               description: |-
                 ## Purpose
-                Growing a crop is half the business; the other half is selling it at a fair price and paying for the inputs. Visiting a local market, comparing prices over a few months and learning how cooperatives, marketing boards and agricultural credit work gives you real figures for agribusiness answers and your SBA sales section.
+                Growing a crop is half the business; the other half is selling it at a fair price and paying for the inputs. Visiting a local market, comparing prices over a few months and learning how cooperatives, marketing boards and agricultural credit work gives your teen real figures for agribusiness answers and the SBA sales section. A market trip is also an easy one to do together.
 
                 ## Milestones
                 1. The marketing chain for one local crop drawn from farm to consumer.
@@ -438,19 +440,19 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "Draw the marketing chain for one crop from farm to consumer"
-                - "Note the prices of three crops at your local market @recurring(monthly:5)"
+                - "Note the prices of three crops at the local market @recurring(monthly:5)"
                 - "Explain how a cooperative and a farm credit scheme help a small farmer"
                 - "Answer the marketing and credit questions from three past papers"
             - name: Protected agriculture, hydroponics and aquaponics
               description: |-
                 ## Purpose
-                Shade houses, drip lines, hydroponic lettuce and tilapia aquaponics units are now common on Caribbean farms and school compounds, and they appear in questions on modern technology and food security. Visiting or studying one working system and explaining its costs and benefits gives you an up-to-date example examiners do not see often.
+                Shade houses, drip lines, hydroponic lettuce and tilapia aquaponics units are now common on Caribbean farms and school compounds, and they appear in questions on modern technology and food security. Visiting or studying one working system and explaining its costs and benefits gives your teen an up-to-date example examiners do not see often.
 
                 ## Milestones
                 1. A shade house, greenhouse or hydroponic unit visited or studied from a local example.
                 2. The parts of the system labelled in a diagram with the job of each.
                 3. Advantages and disadvantages for a small Caribbean farmer listed.
-                4. The role of research and extension bodies such as CARDI or your Ministry's extension service noted.
+                4. The role of research and extension bodies such as CARDI or the Ministry's extension service noted.
               priority: low
               frontmatter:
                 mode: research
@@ -459,14 +461,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Find a shade house, hydroponic or aquaponic system you can visit or study"
+                - "Together, find a shade house, hydroponic or aquaponic system to visit or study"
                 - "Draw and label the system with the job of each part"
                 - "List its advantages and disadvantages for a small farmer"
-                - "Note how your Ministry's extension officers support farmers"
+                - "Note how the Ministry's extension officers support farmers"
             - name: Soil formation, texture and the soil profile
               description: |-
                 ## Purpose
-                Soil questions start with how soil forms from rock, what it is made of and how sand, silt and clay change drainage and fertility. Digging a small profile pit, running a ribbon test by hand and settling a soil sample in a jar of water gives you the evidence to draw a profile and explain texture in your own words.
+                Soil questions start with how soil forms from rock, what it is made of and how sand, silt and clay change drainage and fertility. Digging a small profile pit, running a ribbon test by hand and settling a soil sample in a jar of water gives your teen the evidence to draw a profile and explain texture in their own words.
 
                 ## Milestones
                 1. The factors in soil formation and the components of soil explained.
@@ -488,11 +490,11 @@ starter_structure:
             - name: Soil fertility, pH, fertilisers and compost
               description: |-
                 ## Purpose
-                Crops show what the soil lacks: yellow older leaves, purple tinges, scorched margins. Testing the pH of the school plot, matching deficiency symptoms to nutrients and building a small compost heap teaches the difference between organic and inorganic fertilisers, and gives you a practical example for both the exam and the SBA.
+                Crops show what the soil lacks: yellow older leaves, purple tinges, scorched margins. Testing the pH of the school plot, matching deficiency symptoms to nutrients and building a small compost heap teaches the difference between organic and inorganic fertilisers, and gives your teen a practical example for both the exam and the SBA.
 
                 ## Milestones
                 1. The major and minor plant nutrients listed with a deficiency symptom for each.
-                2. The pH of your SBA plot tested and the effect of liming explained.
+                2. The pH of the SBA plot tested and the effect of liming explained.
                 3. A fertiliser rate calculation from a bag label worked correctly.
                 4. A compost heap or bin started and its layers recorded.
                 5. Soil fertility questions from three past papers answered and marked.
@@ -505,19 +507,19 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Make a table of plant nutrients and their deficiency symptoms"
-                - "Test the pH of your plot with a kit or indicator and record it"
+                - "Test the pH of the plot with a kit or indicator and record it"
                 - "Work out a fertiliser rate from the figures on a real bag label"
                 - "Start a compost heap and record what goes into each layer"
             - name: Soil conservation, erosion control and land preparation
               description: |-
                 ## Purpose
-                Heavy tropical rain on hillside farms strips topsoil quickly, which is why contour drains, terraces, grass barriers and mulch matter so much in the region. Walking a sloping plot after rain, sketching where water runs, and comparing tillage methods for land preparation links the theory to the ground you will prepare for your own SBA crop.
+                Heavy tropical rain on hillside farms strips topsoil quickly, which is why contour drains, terraces, grass barriers and mulch matter so much in the region. Walking a sloping plot after rain, sketching where water runs, and comparing tillage methods for land preparation links the theory to the ground your teen will prepare for their own SBA crop.
 
                 ## Milestones
                 1. The causes and types of soil erosion explained with a local example.
                 2. A sloping site sketched showing water flow and suitable conservation measures.
                 3. Primary and secondary tillage compared, with the tools or machines used for each.
-                4. Your SBA plot prepared and the method recorded in the field book.
+                4. The SBA plot prepared and the method recorded in the field book.
                 5. Conservation and land preparation questions from three past papers answered and marked.
               priority: medium
               frontmatter:
@@ -529,12 +531,12 @@ starter_structure:
               tasks:
                 - "Walk a sloping plot after rain and sketch where the water runs"
                 - "Mark suitable conservation measures on the sketch"
-                - "Record how you prepared your SBA plot and which tools you used"
+                - "Record how the SBA plot was prepared and which tools were used"
                 - "Answer the erosion and land preparation questions from three past papers"
             - name: Irrigation and drainage systems
               description: |-
                 ## Purpose
-                Dry-season crops depend on irrigation and waterlogged clay soils depend on drainage, and the syllabus expects you to compare methods and choose one for a given farm. Setting up or studying a simple drip line on the school farm, and measuring how much water it delivers, makes the comparison concrete.
+                Dry-season crops depend on irrigation and waterlogged clay soils depend on drainage, and the syllabus expects candidates to compare methods and choose one for a given farm. Setting up or studying a simple drip line on the school farm, and measuring how much water it delivers, makes the comparison concrete.
 
                 ## Milestones
                 1. Surface, sprinkler and drip irrigation compared in a table of advantages and disadvantages.
@@ -556,7 +558,7 @@ starter_structure:
             - name: Plant propagation by seeds, cuttings, grafting and layering
               description: |-
                 ## Purpose
-                Sexual and asexual propagation are tested in theory and often done as practicals: a germination test, sweet potato slips, a hibiscus cutting, a budded citrus or a grafted mango. Carrying out at least two methods yourself, and recording success rates, gives you the examples and the reasoning for why a farmer chooses one over another.
+                Sexual and asexual propagation are tested in theory and often done as practicals: a germination test, sweet potato slips, a hibiscus cutting, a budded citrus or a grafted mango. Carrying out at least two methods themselves, perhaps with a cutting from a plant at home, and recording success rates gives your teen the examples and the reasoning for why a farmer chooses one over another.
 
                 ## Milestones
                 1. Sexual and asexual propagation compared with advantages of each.
@@ -579,7 +581,7 @@ starter_structure:
             - name: Nursery management and transplanting
               description: |-
                 ## Purpose
-                Most vegetable crops on Caribbean farms start in seed trays or a nursery bed, and many SBA crops fail at this stage from damping off, poor hardening off or transplanting in the midday sun. Running a small nursery for your SBA crop, with sowing, pricking out and hardening off recorded, protects the project and answers the nursery questions in Paper 02.
+                Most vegetable crops on Caribbean farms start in seed trays or a nursery bed, and many SBA crops fail at this stage from damping off, poor hardening off or transplanting in the midday sun. Running a small nursery for the SBA crop, with sowing, pricking out and hardening off recorded, protects the project and answers the nursery questions in Paper 02.
 
                 ## Milestones
                 1. A nursery site and growing medium chosen with reasons.
@@ -595,17 +597,17 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "Choose a nursery site and growing medium and write down why"
-                - "Sow your SBA crop in trays and record the date and variety"
+                - "Sow the SBA crop in trays and record the date and variety"
                 - "Harden off the seedlings and transplant them in the late afternoon"
                 - "Answer the nursery and transplanting questions from three past papers"
             - name: Vegetable crop husbandry from planting to harvest
               description: |-
                 ## Purpose
-                Questions on crop husbandry follow one crop through spacing, fertilising, weeding, staking, pest control and harvest, often using tomato, sweet pepper, cabbage or pak choi. Writing a complete production guide for your own SBA crop, from the variety you chose to signs of maturity, gives you a model answer and the backbone of your crop write-up.
+                Questions on crop husbandry follow one crop through spacing, fertilising, weeding, staking, pest control and harvest, often using tomato, sweet pepper, cabbage or pak choi. Writing a complete production guide for their own SBA crop, from the variety chosen to signs of maturity, gives your teen a model answer and the backbone of the crop write-up.
 
                 ## Milestones
                 1. A production guide for one vegetable crop covering variety, spacing, fertiliser, weeding and harvest.
-                2. A planting plan of your SBA plot drawn to scale.
+                2. A planting plan of the SBA plot drawn to scale.
                 3. Signs of maturity and the harvesting method described.
                 4. Crop husbandry questions from three past papers answered and marked.
               priority: medium
@@ -617,13 +619,13 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "Choose one vegetable crop and outline its production steps"
-                - "Draw a planting plan of your SBA plot to scale"
-                - "Ask the agent to turn your notes into a one-page production guide"
+                - "Draw a planting plan of the SBA plot to scale"
+                - "Ask the agent to turn the notes into a one-page production guide"
                 - "Answer the crop husbandry questions from three past papers"
             - name: Root, tree and plantation crops of the Caribbean
               description: |-
                 ## Purpose
-                Beyond vegetables, the syllabus draws on crops the region depends on: cassava, sweet potato, yam, dasheen, banana and plantain, citrus, cocoa and sugar cane. Classifying them and writing a short husbandry note on one root crop and one tree crop prepares you for questions that ask you to compare short-term and long-term crops.
+                Beyond vegetables, the syllabus draws on crops the region depends on: cassava, sweet potato, yam, dasheen, banana and plantain, citrus, cocoa and sugar cane. Classifying them and writing a short husbandry note on one root crop and one tree crop prepares your teen for questions that ask them to compare short-term and long-term crops.
 
                 ## Milestones
                 1. Local crops classified by use and by life cycle, with examples of each group.
@@ -645,7 +647,7 @@ starter_structure:
             - name: Weeds, pests and crop diseases identification
               description: |-
                 ## Purpose
-                Identifying the problem comes before treating it, and examiners often show a description or picture and ask what is wrong and what to do. Building a field guide of common weeds, insect pests such as aphids, whitefly and diamondback moth, and diseases such as damping off and black sigatoka, with your own photos or drawings, makes the names stick.
+                Identifying the problem comes before treating it, and examiners often show a description or picture and ask what is wrong and what to do. Building a field guide of common weeds, insect pests such as aphids, whitefly and diamondback moth, and diseases such as damping off and black sigatoka, with photos or drawings your teen makes themselves, makes the names stick.
 
                 ## Milestones
                 1. Weeds classified and five common local weeds identified with drawings or photos.
@@ -667,16 +669,16 @@ starter_structure:
             - name: Integrated pest management and safe agrochemical use
               description: |-
                 ## Purpose
-                Spraying on a fixed calendar wastes money, breeds resistance and leaves residues on food, which is why integrated pest management combines cultural, biological, mechanical and chemical control. Scouting your SBA plot weekly, reading a pesticide label properly and knowing what a pre-harvest interval means covers a favourite Paper 02 theme and keeps you safe.
+                Spraying on a fixed calendar wastes money, breeds resistance and leaves residues on food, which is why integrated pest management combines cultural, biological, mechanical and chemical control. Scouting the SBA plot weekly, reading a pesticide label properly and knowing what a pre-harvest interval means covers a favourite Paper 02 theme and keeps your teen safe.
 
                 ## Milestones
                 1. Cultural, biological, mechanical and chemical controls explained with an example each.
                 2. A real pesticide label read and its active ingredient, rate, protective clothing and pre-harvest interval recorded.
-                3. Weekly scouting records kept for your SBA plot.
+                3. Weekly scouting records kept for the SBA plot.
                 4. IPM and pesticide safety questions from three past papers answered and marked.
 
                 ## Notes
-                Never handle or spray pesticides without your teacher present and the protective clothing the label requires.
+                Agree with your teen that they never handle or spray pesticides without the teacher present and the protective clothing the label requires.
               priority: medium
               frontmatter:
                 mode: learning
@@ -687,16 +689,16 @@ starter_structure:
               tasks:
                 - "Write one example each of cultural, biological, mechanical and chemical control"
                 - "Record the key safety details from one real pesticide label"
-                - "Scout your plot and record pests and damage found @recurring(weekly:wed)"
+                - "Scout the plot and record pests and damage found @recurring(weekly:wed)"
                 - "Answer the IPM and pesticide safety questions from three past papers"
             - name: Harvesting, post-harvest handling and agro-processing
               description: |-
                 ## Purpose
-                Much of the region's produce is lost after harvest through bruising, heat and poor storage, and processing into pepper sauce, cassava bread, plantain chips or sorrel drink adds value and shelf life. Following your SBA harvest through grading and storage, and processing one product at home or school, turns a short syllabus section into strong applied answers.
+                Much of the region's produce is lost after harvest through bruising, heat and poor storage, and processing into pepper sauce, cassava bread, plantain chips or sorrel drink adds value and shelf life. Following the SBA harvest through grading and storage, and processing one product together at home or at school, turns a short syllabus section into strong applied answers.
 
                 ## Milestones
                 1. Causes of post-harvest loss and ways to reduce them listed.
-                2. Your SBA harvest graded and stored, with method and losses recorded.
+                2. The SBA harvest graded and stored, with method and losses recorded.
                 3. One product processed from a local crop and its steps written up.
                 4. Post-harvest and processing questions from three past papers answered and marked.
               priority: low
@@ -708,13 +710,13 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "List five causes of post-harvest loss and a fix for each"
-                - "Grade and store your SBA harvest and record any losses"
-                - "Process one local crop into a product and write up the steps"
+                - "Grade and store the SBA harvest and record any losses"
+                - "Together, process one local crop into a product and write up the steps"
                 - "Answer the post-harvest questions from three past papers"
             - name: Ruminant and non-ruminant digestion and feeding
               description: |-
                 ## Purpose
-                Animal production questions often begin with the gut: why a cow or goat can live on grass and a pig or chicken cannot. Drawing both digestive systems, learning the feed classes and working a ration with the Pearson square gives you the reasoning behind every feeding decision in the livestock topics that follow.
+                Animal production questions often begin with the gut: why a cow or goat can live on grass and a pig or chicken cannot. Drawing both digestive systems, learning the feed classes and working a ration with the Pearson square gives your teen the reasoning behind every feeding decision in the livestock topics that follow.
 
                 ## Milestones
                 1. The digestive systems of a ruminant and a non-ruminant drawn and labelled with the function of each part.
@@ -736,7 +738,7 @@ starter_structure:
             - name: Animal reproduction, breeding and tropical breeds
               description: |-
                 ## Purpose
-                Livestock improvement depends on choosing breeds suited to heat and humidity, recognising heat signs and planning matings. Learning the reproductive cycle, the main breeding systems and breeds developed or widely kept in the region, such as Barbados Blackbelly sheep, Jamaica Hope cattle and Anglo-Nubian goats, prepares you for breeding questions with Caribbean examples.
+                Livestock improvement depends on choosing breeds suited to heat and humidity, recognising heat signs and planning matings. Learning the reproductive cycle, the main breeding systems and breeds developed or widely kept in the region, such as Barbados Blackbelly sheep, Jamaica Hope cattle and Anglo-Nubian goats, prepares them for breeding questions with Caribbean examples.
 
                 ## Milestones
                 1. The reproductive systems and oestrous cycle of one farm animal explained.
@@ -758,12 +760,12 @@ starter_structure:
             - name: Poultry production for broilers and layers
               description: |-
                 ## Purpose
-                Broilers are the most common livestock SBA enterprise because a batch fits inside a school term, and poultry questions appear often in Paper 02. Learning brooding, housing, feeding, vaccination and record keeping, then calculating the feed conversion ratio from real or textbook figures, prepares you for both.
+                Broilers are the most common livestock SBA enterprise because a batch fits inside a school term, and poultry questions appear often in Paper 02. Learning brooding, housing, feeding, vaccination and record keeping, then calculating the feed conversion ratio from real or textbook figures, prepares your teen for both.
 
                 ## Milestones
                 1. Brooding, housing and equipment requirements for broilers described with a labelled diagram.
                 2. Broiler and layer management compared from day old to market or end of lay.
-                3. Common poultry diseases and the vaccination programme your teacher uses noted.
+                3. Common poultry diseases and the vaccination programme the teacher uses noted.
                 4. A feed conversion ratio calculated from a batch's feed and weight records.
                 5. Poultry questions from three past papers answered and marked.
               priority: medium
@@ -781,7 +783,7 @@ starter_structure:
             - name: Pig production from farrowing to finishing
               description: |-
                 ## Purpose
-                Pig rearing is a common small-farm enterprise in the region and a frequent exam topic, covering housing, the care of the sow and litter, weaning and feeding to market weight. Visiting a piggery or the school unit and recording the management routine gives your answers the detail examiners look for.
+                Pig rearing is a common small-farm enterprise in the region and a frequent exam topic, covering housing, the care of the sow and litter, weaning and feeding to market weight. Visiting a piggery or the school unit and recording the management routine gives their answers the detail examiners look for.
 
                 ## Milestones
                 1. Pig housing and the farrowing pen described with a labelled diagram.
@@ -803,7 +805,7 @@ starter_structure:
             - name: Goats, sheep, rabbits and cattle management
               description: |-
                 ## Purpose
-                Small ruminants and rabbits suit Caribbean smallholdings because they need little land and use local forage, while cattle remain important for milk and beef. Comparing the management of each, including housing, feeding, parasite control and products, prepares you for questions that ask which animal suits a given farm.
+                Small ruminants and rabbits suit Caribbean smallholdings because they need little land and use local forage, while cattle remain important for milk and beef. Comparing the management of each, including housing, feeding, parasite control and products, prepares your teen for questions that ask which animal suits a given farm.
 
                 ## Milestones
                 1. Housing, feeding and products of goats and sheep compared.
@@ -825,7 +827,7 @@ starter_structure:
             - name: Animal health, parasites and farm biosecurity
               description: |-
                 ## Purpose
-                Sick animals cost money long before they die, so the syllabus asks you to recognise signs of ill health, control parasites and stop disease getting onto the farm. Keeping a short weekly health check on your SBA animals or the school unit, and learning the common internal and external parasites, makes the theory practical.
+                Sick animals cost money long before they die, so the syllabus asks candidates to recognise signs of ill health, control parasites and stop disease getting onto the farm. Keeping a short weekly health check on the SBA animals or the school unit, and learning the common internal and external parasites, makes the theory practical.
 
                 ## Milestones
                 1. Signs of good and poor health in farm animals listed.
@@ -835,7 +837,7 @@ starter_structure:
                 5. Animal health questions from three past papers answered and marked.
 
                 ## Notes
-                Report a sick animal to your teacher straight away. Treatment and medicines are the teacher's or a veterinarian's decision.
+                A sick animal should be reported to the teacher straight away. Treatment and medicines are the teacher's or a veterinarian's decision.
               priority: medium
               frontmatter:
                 mode: learning
@@ -874,10 +876,10 @@ starter_structure:
             - name: SBA crop project analysis and write-up
               description: |-
                 ## Purpose
-                Your crop project becomes marks only when the records are turned into a clear write-up: aim, materials, method, observations, results with graphs, discussion of what went right and wrong, and the costs and returns. Drafting it section by section as the crop grows, rather than after harvest, avoids the familiar scramble to remember planting dates and fertiliser rates.
+                Records from the crop project become marks only when they are turned into a clear write-up: aim, materials, method, observations, results with graphs, discussion of what went right and wrong, and the costs and returns. Drafting it section by section as the crop grows, rather than after harvest, avoids the familiar scramble to remember planting dates and fertiliser rates. Asking each fortnight which section is drafted is a light way to keep it moving.
 
                 ## Milestones
-                1. The write-up headings for the crop project confirmed with your teacher.
+                1. The write-up headings for the crop project confirmed with the teacher.
                 2. Method and observations drafted from the field record book while the crop is growing.
                 3. Yield and growth results presented in tables and at least one graph.
                 4. Discussion, costs and returns written and a full draft handed to the teacher for feedback.
@@ -890,10 +892,10 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Confirm the crop write-up headings with your teacher"
-                - "Draft the method and observations from your field record book"
-                - "Draw tables and a graph of your growth and yield results"
-                - "Hand the full draft to your teacher and note the feedback"
+                - "Confirm the crop write-up headings with the teacher"
+                - "Draft the method and observations from the field record book"
+                - "Draw tables and a graph of the growth and yield results"
+                - "Hand the full draft to the teacher and note the feedback"
             - name: SBA livestock project records and write-up
               description: |-
                 ## Purpose
@@ -901,7 +903,7 @@ starter_structure:
 
                 ## Milestones
                 1. Daily feed, weight and mortality records complete for the whole batch.
-                2. A growth curve and a feed conversion ratio calculated from your own figures.
+                2. A growth curve and a feed conversion ratio calculated from their own figures.
                 3. A profit or loss statement for the enterprise prepared.
                 4. A full draft write-up handed to the teacher for feedback.
               priority: medium
@@ -913,23 +915,23 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "10"
               tasks:
-                - "Check your feed, weight and mortality records for gaps"
-                - "Plot a growth curve from your weekly weights"
+                - "Check the feed, weight and mortality records for gaps"
+                - "Plot a growth curve from the weekly weights"
                 - "Calculate the feed conversion ratio and the profit or loss"
-                - "Hand the full draft to your teacher and note the feedback"
+                - "Hand the full draft to the teacher and note the feedback"
             - name: Final SBA record book check and submission
               description: |-
                 ## Purpose
-                SBA marks are lost at the end through missing pages, unsigned records, absent graphs or a write-up that does not match the field book. A final check against the syllabus requirements, two weeks before the school deadline, leaves time to fix gaps and get the teacher's signature without panic.
+                SBA marks are lost at the end through missing pages, unsigned records, absent graphs or a write-up that does not match the field book. A final check against the syllabus requirements, two weeks before the school deadline, leaves time to fix gaps and get the teacher's signature without panic. Offering to photograph or copy the pages is a way to help without touching the content.
 
                 ## Milestones
-                1. Every SBA requirement in the syllabus ticked off against your record book and write-ups.
+                1. Every SBA requirement in the syllabus ticked off against the record book and write-ups.
                 2. Missing records, graphs or signatures fixed.
                 3. Teacher feedback on both drafts acted on.
-                4. The final SBA submitted to your teacher before the school deadline, with a copy kept.
+                4. The final SBA submitted to the teacher before the school deadline, with a copy kept.
 
                 ## Notes
-                Keep photographs or copies of every page you hand in. Schools forward SBA samples for moderation and work can go astray.
+                Keep photographs or copies of every page your teen hands in. Schools forward SBA samples for moderation and work can go astray.
               priority: high
               deadlineOffsetDays: 200
               frontmatter:
@@ -939,10 +941,10 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Tick every syllabus SBA requirement against your record book"
+                - "Tick every syllabus SBA requirement against the record book"
                 - "Fix missing records, graphs and teacher signatures"
-                - "Photograph or copy every page before you hand it in"
-                - "Submit the SBA to your teacher before the school deadline"
+                - "Photograph or copy every page before it is handed in"
+                - "Submit the SBA to the teacher before the school deadline"
             - name: Agricultural calculations, graphs and data questions
               description: |-
                 ## Purpose
@@ -968,7 +970,7 @@ starter_structure:
             - name: Examiner reports and mark schemes for Agricultural Science
               description: |-
                 ## Purpose
-                CXC publishes subject reports after each sitting describing where candidates lost marks, and in Agricultural Science the same weaknesses recur: vague farm examples, wrong units, and confusing management practices between animals. Reading three years of reports and turning them into a short checklist gives you the examiners' view of a good answer.
+                CXC publishes subject reports after each sitting describing where candidates lost marks, and in Agricultural Science the same weaknesses recur: vague farm examples, wrong units, and confusing management practices between animals. Reading three years of reports and turning them into a short checklist gives your teen the examiners' view of a good answer.
 
                 ## Milestones
                 1. Subject reports for the last three available sittings obtained.
@@ -986,14 +988,14 @@ starter_structure:
                 - "Find the last three Agricultural Science subject reports on the CXC website"
                 - "Ask the agent to summarise the repeated weaknesses into a list"
                 - "Write a one-page checklist of examiner warnings"
-                - "Rewrite two of your Paper 02 answers using the checklist"
+                - "Rewrite two Paper 02 answers using the checklist"
             - name: Full Agricultural Science mock exam under exam conditions
               description: |-
                 ## Purpose
-                A full mock, sat in one go with the real timings, shows whether you can keep up accuracy across the whole syllabus and how long the calculations and diagrams really take. Marking it against the mark scheme and listing the gaps gives the final revision weeks their priorities.
+                A full mock, sat in one go with the real timings, shows whether your teen can keep up accuracy across the whole syllabus and how long the calculations and diagrams really take. Marking it against the mark scheme and listing the gaps gives the final revision weeks their priorities.
 
                 ## Milestones
-                1. The paper timings confirmed from the current syllabus or your teacher.
+                1. The paper timings confirmed from the current syllabus or the teacher.
                 2. A full Paper 01 and Paper 02 sat under exam conditions.
                 3. Both papers marked against the mark scheme.
                 4. The five biggest gaps listed and added to the revision timetable.
@@ -1006,10 +1008,10 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Confirm the mock date and paper timings with your teacher"
+                - "Confirm the mock date and paper timings with the teacher"
                 - "Sit Paper 01 and Paper 02 under exam conditions"
                 - "Mark both papers against the mark scheme"
-                - "List your five biggest gaps and add them to the revision timetable"
+                - "List the five biggest gaps and add them to the revision timetable"
             - name: Final eight weeks Agricultural Science revision timetable
               description: |-
                 ## Purpose
@@ -1036,7 +1038,7 @@ starter_structure:
             - name: Last full past paper and CSEC Agricultural Science exam day
               description: |-
                 ## Purpose
-                A final full past paper about two weeks out confirms timing, and a written plan for exam day removes the avoidable problems: the wrong room, no spare pens, a calculator with flat batteries. Knowing what to bring and how to spend the first minutes of each paper lets you start writing calmly.
+                A final full past paper about two weeks out confirms timing, and a written plan for exam day removes the avoidable problems: the wrong room, no spare pens, a calculator with flat batteries. Knowing what to bring and how to spend the first minutes of each paper lets your teen start writing calmly. Checking the bag together the night before takes five minutes and settles nerves.
 
                 ## Milestones
                 1. One final full past paper sat and marked about two weeks before the exam.
@@ -1065,7 +1067,7 @@ starter_structure:
                 1. Ten scenario-style questions collected from past papers and textbooks.
                 2. Each answered with a diagnosis, a reason and a recommendation.
                 3. Answers compared with the mark scheme and a model answer written for two.
-                4. One scenario question written and answered by you for a classmate to try.
+                4. One scenario question written by your teen for a classmate to try.
               priority: low
               frontmatter:
                 mode: learning
@@ -1076,7 +1078,7 @@ starter_structure:
               tasks:
                 - "Collect ten scenario-style questions from past papers and textbooks"
                 - "Answer each with a diagnosis, a reason and a recommendation"
-                - "Write model answers for the two you found hardest"
+                - "Write model answers for the two that felt hardest"
                 - "Write one scenario question for a classmate and mark their answer"
             - name: Parent support for a CSEC Agricultural Science student
               description: |-
@@ -1095,14 +1097,14 @@ starter_structure:
                 success_criteria: "Weekly parent check-ins held for at least eight weeks, with the SBA calendar and costs agreed."
                 cadence: rolling
               tasks:
-                - "Ask your child to show you the SBA calendar and weekend care needs"
+                - "Ask your teen to show you the SBA calendar and weekend care needs"
                 - "Agree the practical kit and any SBA costs you will cover"
                 - "Hold a ten-minute check-in on records and deadlines @recurring(weekly:fri)"
                 - "Set up a container or backyard bed for one crop at home"
             - name: Teacher or tutor tracker for an Agricultural Science class
               description: |-
                 ## Purpose
-                A teacher running SBA plots, livestock units and theory for a whole class needs one view of who is behind on records, whose crop has failed and who has not handed in a draft. A simple class tracker updated weekly, with a monthly look at mock and test scores, makes early intervention possible before moderation samples are due.
+                A teacher running SBA plots, livestock units and theory for a whole class needs one view of who is behind on records, whose crop has failed and who has not handed in a draft. A simple class tracker updated weekly, with a monthly look at mock and test scores, makes early intervention possible before moderation samples are due. If your teen's teacher or tutor would find it useful, share this project with them.
 
                 ## Milestones
                 1. A tracker listing each student with their enterprise, record status and draft dates.
@@ -1123,7 +1125,7 @@ starter_structure:
             - name: Private candidate route for CSEC Agricultural Science
               description: |-
                 ## Purpose
-                Adults and private candidates who want Agricultural Science face a particular hurdle: the SBA needs a plot or animals and a supervisor. Checking what the current syllabus allows for private candidates, and finding a school, farm school or approved tutor who can supervise practical work, settles whether this subject is realistic before you register.
+                Adults and private candidates who want Agricultural Science face a particular hurdle: the SBA needs a plot or animals and a supervisor. Checking what the current syllabus allows for private candidates, and finding a school, farm school or approved tutor who can supervise practical work, settles whether this subject is realistic before registering. If your teen is sitting privately, the supervisor question usually decides it.
 
                 ## Milestones
                 1. What the current syllabus offers private candidates in place of a school SBA confirmed.
@@ -1142,15 +1144,15 @@ starter_structure:
                 - "Check what the current syllabus offers private candidates instead of the school SBA"
                 - "Ask the local registrar about registration requirements and deadlines"
                 - "Find a school, farm or tutor who could supervise practical work"
-                - "Write down whether you will register this sitting and why"
+                - "Write down whether to register this sitting and why"
             - name: Results, review requests and the next step after Agricultural Science
               description: |-
                 ## Purpose
-                Results day brings a decision: accept the grade, ask about a review, or plan a resit, and a good grade opens doors to CAPE subjects, agricultural colleges and university programmes in agriculture, food science or veterinary studies. Knowing the options in advance makes results day a short decision rather than a scramble.
+                Results day brings a decision: accept the grade, ask about a review, or plan a resit, and a good grade opens doors to CAPE subjects, agricultural colleges and university programmes in agriculture, food science or veterinary studies. Knowing the options in advance, and talking them through with your teen before the day, makes results day a short decision rather than a scramble.
 
                 ## Milestones
                 1. The results release and review request process checked on the CXC website.
-                2. Your grade and profile grades recorded.
+                2. The grade and profile grades recorded.
                 3. A decision made on accepting, reviewing or resitting.
                 4. The next course or college option chosen and its entry requirements checked.
               priority: medium
@@ -1163,13 +1165,13 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Check how results are released and how to request a review"
-                - "Record your grade and profile grades when they arrive"
-                - "Decide whether to accept, request a review or resit"
-                - "Check entry requirements for the next course or college you want"
+                - "Record the grade and profile grades when they arrive"
+                - "Decide together whether to accept, request a review or resit"
+                - "Check entry requirements for the next course or college your teen wants"
 ---
 
 # CSEC Agricultural Science
 
-This area takes a CSEC Agricultural Science student, single or double award, from the first syllabus check to results day, in the order the subject is taught and examined. It starts with the foundations (the current syllabus, the award decision, a diagnostic paper, a two-year plan, practical safety and the SBA record book), sets up the weekly and daily routines, then works through the topics: agriculture in the Caribbean and agribusiness, soil, crop production, livestock production and farm machinery, before the SBA write-ups and submission, exam technique, the mock and exam day, with projects for parents, teachers and private candidates at the end.
+This area helps a parent or guardian support a CSEC Agricultural Science student, single or double award, from the first syllabus check to results day, in the order the subject is taught and examined. It starts with the foundations (the current syllabus, the award decision, a diagnostic paper, a two-year plan, practical safety and the SBA record book), sets up the weekly and daily routines, then works through the topics: agriculture in the Caribbean and agribusiness, soil, crop production, livestock production and farm machinery, before the SBA write-ups and submission, exam technique, the mock and exam day, with a parent support project and projects for teachers and private candidates at the end.
 
-The rhythm is two weekly study sessions, daily recall cards and plot or animal care while the SBA is running, a weekly mistakes review and field record entry, a monthly timed Paper 01 and Paper 02 question, a monthly market price check and a termly talk with your teacher. The Skills matrix, Habit tracker, Metrics log and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is two weekly study sessions, daily recall cards and plot or animal care while the SBA is running, a weekly mistakes review and field record entry, a monthly timed Paper 01 and Paper 02 question, a monthly market price check and a termly talk with the teacher. The Skills matrix, Habit tracker, Metrics log and Meeting notes templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

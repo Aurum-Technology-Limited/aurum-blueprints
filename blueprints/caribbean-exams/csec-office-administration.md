@@ -1,7 +1,7 @@
 ---
 id: caribbean-exams.csec-office-administration
 name: CSEC Office Administration
-description: "A full CSEC Office Administration plan: the current syllabus and papers, weekly routines, every topic from reception and mail to records, meetings and purchasing, the SBA, timed past papers, the mock and exam day."
+description: "A CSEC Office Administration plan for parents and guardians supporting a teenager: the syllabus and papers, weekly routines, every topic from reception and mail to records, meetings and purchasing, the SBA, the mock and exam day."
 category: personal
 version: 1.0.0
 tags: [caribbean-exams, csec-office-administration, student, parent, educator, cxc, csec, office-administration, sba]
@@ -15,7 +15,7 @@ starter_structure:
   pillars:
     - name: Caribbean School Exams
       emoji: "📝"
-      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a student can search for a subject and start."
+      description: "Caribbean school exams taken one subject at a time: SEA and the other primary exit exams, every major CSEC subject, the core CAPE units, school-based assessments, past-paper practice, revision plans and exam-day logistics, so a family can search for a subject and start."
       pillarFrontmatter:
         review_cadence: monthly
       areas:
@@ -25,15 +25,17 @@ starter_structure:
             - name: Current CSEC Office Administration syllabus and paper format check
               description: |-
                 ## Purpose
-                Office Administration at CSEC is examined through a multiple-choice Paper 01, a written Paper 02 built around office situations, and either the school-based assessment as Paper 031 or the alternative Paper 032 for private candidates. Syllabus editions change section names, topic order and SBA guidelines, so an hour with the current document means every later project is aimed at the exam you will actually sit.
+                Office Administration at CSEC is examined through a multiple-choice Paper 01, a written Paper 02 built around office situations, and either the school-based assessment as Paper 031 or the alternative Paper 032 for private candidates. Syllabus editions change section names, topic order and SBA guidelines, so an hour with your teen and the current document means every later project is aimed at the exam they will actually sit.
 
                 ## Milestones
                 1. The current CSEC Office Administration syllabus downloaded from the CXC website and its edition year noted.
                 2. The format of Paper 01, Paper 02 and Paper 031 or 032 written on one page in the syllabus's own words.
-                3. The syllabus sections listed in order, with each topic project in this area matched to one and reordered if your edition differs.
-                4. The May to June sitting confirmed with your school and the Office Administration date noted once the timetable is published.
+                3. The syllabus sections listed in order, with each topic project in this area matched to one and reordered if the current edition differs.
+                4. The May to June sitting confirmed with the school and the Office Administration date noted once the timetable is published.
 
                 ## Notes
+                This plan is for a parent or guardian supporting a teenager through CSEC Office Administration, and an older student can follow it with a parent's support.
+
                 Older revision guides can describe equipment and procedures the syllabus has since replaced. Where a book and the CXC document disagree, the CXC document wins.
               priority: high
               deadlineOffsetDays: 10
@@ -45,22 +47,22 @@ starter_structure:
                 effort_hours_estimate: "2"
               tasks:
                 - "Check the current syllabus and timetable on the CXC website and note the paper format"
-                - "Write the syllabus edition year on the front of your Office Administration binder"
+                - "Write the syllabus edition year on the front of the Office Administration binder"
                 - "List the syllabus sections in order and match each to a topic project"
-                - "Ask your teacher which sitting and paper options the school enters you for"
-            - name: Diagnostic multiple-choice paper to find your starting point
+                - "Ask the teacher which sitting and paper options the school enters your teen for"
+            - name: Diagnostic multiple-choice paper to find the starting point
               description: |-
                 ## Purpose
-                Most students arrive at Office Administration knowing more than they think from watching banks, clinics and the school office at work, and less of the vocabulary examiners expect. Sitting one past Paper 01 cold, before revising anything, shows which sections are already solid and which need the most hours, so the study plan starts from evidence rather than guesswork.
+                Most teenagers arrive at Office Administration knowing more than they think from watching banks, clinics and the school office at work, and less of the vocabulary examiners expect. Having your teen sit one past Paper 01 cold, before revising anything, shows which sections are already solid and which need the most hours, so the study plan starts from evidence rather than guesswork.
 
                 ## Milestones
                 1. One past or specimen Paper 01 completed under timed conditions without notes.
                 2. The paper marked against the answer key and the score recorded.
                 3. Every wrong answer tagged with its syllabus section.
-                4. The three weakest sections named at the top of your study plan.
+                4. The three weakest sections named at the top of the study plan.
 
                 ## Notes
-                A low first score is normal and useful. The pattern of wrong answers matters far more than the number.
+                A low first score is normal and useful, and worth saying so to your teen. The pattern of wrong answers matters far more than the number.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -70,20 +72,20 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Get one past or specimen Paper 01 from your teacher or the official CXC booklets"
+                - "Get one past or specimen Paper 01 from the teacher or the official CXC booklets"
                 - "Sit the paper in one timed session with no notes"
                 - "Mark it and tag each wrong answer with its syllabus section"
-                - "Write your three weakest sections at the top of your study plan"
+                - "Write the three weakest sections at the top of the study plan"
             - name: Two-year Office Administration study plan
               description: |-
                 ## Purpose
                 Office Administration is usually taught over two years alongside SBAs in several other subjects, and topics like records management and purchasing need more than one pass to stick. A plan that spreads the syllabus sections over the terms, gives the SBA its own weeks and protects the final revision months stops the last term turning into a cram.
 
                 ## Milestones
-                1. Every syllabus section placed in a term, in your school's teaching order.
-                2. SBA research, write-up and submission weeks blocked out from your teacher's dates.
+                1. Every syllabus section placed in a term, in the school's teaching order.
+                2. SBA research, write-up and submission weeks blocked out from the teacher's dates.
                 3. The final eight weeks before the exam kept free for revision and past papers.
-                4. The plan on one page where you and a parent can both see it.
+                4. The plan on one page where you and your teen can both see it.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -93,14 +95,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "4"
               tasks:
-                - "Ask your teacher for the order the class will cover the sections"
+                - "Ask the teacher for the order the class will cover the sections"
                 - "Map each syllabus section to a school term on one page"
-                - "Block out the SBA weeks your teacher has set"
-                - "Tick off finished sections and adjust the plan @recurring(monthly:28)"
+                - "Block out the SBA weeks the teacher has set"
+                - "Together, tick off finished sections and adjust the plan @recurring(monthly:28)"
             - name: Office Administration binder and running glossary
               description: |-
                 ## Purpose
-                Fittingly for a subject about records, a well-filed binder is half the revision. Dividers that follow the syllabus sections, a running glossary of terms such as requisition, itinerary and cross-reference, and a proper home for handouts mean nothing is lost when revision starts in earnest.
+                Fittingly for a subject about records, a well-filed binder is half the revision. Dividers that follow the syllabus sections, a running glossary of terms such as requisition, itinerary and cross-reference, and a proper home for handouts mean nothing is lost when revision starts in earnest. Buying the binder and dividers is a simple, early way for a parent to help.
 
                 ## Milestones
                 1. A binder or digital folder with one divider per syllabus section.
@@ -125,7 +127,7 @@ starter_structure:
                 Examiners ask candidates to list, describe, explain, distinguish or suggest, and each word expects a different length and depth of answer. Students who write a definition when the question says explain, or a paragraph when it says list, lose marks they knew. Learning the command words with real examples from past Paper 02 questions fixes that before bad habits set.
 
                 ## Milestones
-                1. The command words in the syllabus glossary copied into your binder with a one-line meaning each.
+                1. The command words in the syllabus glossary copied into the binder with a one-line meaning each.
                 2. One past Paper 02 question answered for each of five different command words.
                 3. Those answers compared with a mark scheme and the differences noted.
                 4. A short rule of thumb written for how much to write per mark.
@@ -141,23 +143,23 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Copy the command words from the syllabus glossary into your binder"
+                - "Copy the command words from the syllabus glossary into the binder"
                 - "Find past Paper 02 questions that use five different command words"
                 - "Answer each one and compare it with the mark scheme"
-                - "Write your own rule for how much to write per mark"
+                - "Write a personal rule for how much to write per mark"
             - name: SBA brief, deadlines and organisation shortlist
               description: |-
                 ## Purpose
-                The Office Administration SBA follows guidelines in the syllabus that your teacher turns into a brief, and many projects depend on studying how a real office works, so getting access to a business, ministry or school office is often the slowest step. Reading the brief, writing down every internal deadline and lining up two or three organisations early gives the project room to breathe.
+                The Office Administration SBA follows guidelines in the syllabus that the teacher turns into a brief, and many projects depend on studying how a real office works, so getting access to a business, ministry or school office is often the slowest step. Reading the brief, writing down every internal deadline and lining up two or three organisations early gives the project room to breathe. Family contacts can open doors here, while the choice of topic stays your teen's.
 
                 ## Milestones
-                1. Your teacher's SBA brief read and the syllabus SBA guidelines checked against it.
-                2. Every internal SBA deadline written into your study plan.
+                1. The teacher's SBA brief read and the syllabus SBA guidelines checked against it.
+                2. Every internal SBA deadline written into the study plan.
                 3. Two or three organisations shortlisted, with a contact person at each.
-                4. One organisation confirmed and your teacher's approval of the topic recorded.
+                4. One organisation confirmed and the teacher's approval of the topic recorded.
 
                 ## Notes
-                Family businesses, credit unions, doctors' surgeries and your own school office all count as real offices. Ask a parent or teacher to make the first call if you are nervous about it.
+                Family businesses, credit unions, doctors' surgeries and the school office all count as real offices. Offer to make the first call if your teen is nervous about it.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
@@ -167,14 +169,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Read your teacher's SBA brief and the SBA section of the syllabus"
-                - "Write every internal SBA deadline into your study plan"
-                - "List three organisations with offices you could study and a contact at each"
-                - "Get your teacher's approval for your topic and organisation"
+                - "Read the teacher's SBA brief and the SBA section of the syllabus"
+                - "Write every internal SBA deadline into the study plan"
+                - "List three organisations with offices your teen could study and a contact at each"
+                - "Check that the teacher has approved the topic and organisation"
             - name: Real business document sample collection
               description: |-
                 ## Purpose
-                Exam questions often show a memo, invoice, agenda or requisition and ask what it is for or what is missing. Holding real versions in your hands, with personal details blacked out, makes the layouts and purposes stick far better than a textbook diagram. A parent's workplace, the corner shop and your own household bills are all good sources.
+                Exam questions often show a memo, invoice, agenda or requisition and ask what it is for or what is missing. Holding real versions, with personal details blacked out, makes the layouts and purposes stick far better than a textbook diagram. Your workplace, the corner shop and the household bills are all good sources.
 
                 ## Milestones
                 1. At least ten different business documents collected, with personal and account details removed.
@@ -192,14 +194,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask family for old receipts, statements and letters you may keep"
+                - "Offer your teen old receipts, statements and letters they may keep"
                 - "Black out personal details and account numbers on every document"
                 - "Label each document with its name and purpose"
                 - "File each document behind its syllabus section"
             - name: Textbook, past paper booklets and resource kit
               description: |-
                 ## Purpose
-                Schools differ in which Office Administration textbook they use, and past paper booklets, specimen papers and the syllabus come separately. Deciding once what you will study from, and borrowing or buying it early, avoids the scramble the first time a teacher sets past paper homework.
+                Schools differ in which Office Administration textbook they use, and past paper booklets, specimen papers and the syllabus come separately. Agreeing once with your teen what they will study from, and borrowing or buying it early, avoids the scramble the first time a teacher sets past paper homework.
 
                 ## Milestones
                 1. The school's textbook and edition confirmed and a copy in hand.
@@ -214,17 +216,17 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Ask your teacher which textbook and edition the class uses"
+                - "Ask the teacher which textbook and edition the class uses"
                 - "Borrow or buy recent CSEC Office Administration past paper booklets"
                 - "Check any revision guide's publication date against the syllabus edition"
-                - "List your resources on the binder's contents page"
+                - "List the resources on the binder's contents page"
             - name: Weekly Office Administration study sessions
               description: |-
                 ## Purpose
-                Two short, regular sessions a week beat a long weekend cram for a subject full of procedures and terms. Each session follows the same pattern, rewriting the week's class notes, learning five glossary terms and answering one past question, so revision months later is review rather than first learning.
+                Two short, regular sessions a week beat a long weekend cram for a subject full of procedures and terms. Each session follows the same pattern, rewriting the week's class notes, learning five glossary terms and answering one past question, so revision months later is review rather than first learning. Agreeing the times with your teen, rather than setting them, makes them far more likely to stick.
 
                 ## Milestones
-                1. Two fixed study slots a week written into your timetable.
+                1. Two fixed study slots a week written into the family's weekly timetable.
                 2. Each session ending with one past question answered.
                 3. Eight consecutive weeks of sessions recorded.
                 4. The routine still running in the final term.
@@ -238,18 +240,18 @@ starter_structure:
                 success_criteria: "The habit tracker shows two Office Administration sessions a week for at least eight weeks in a row."
                 cadence: rolling
               tasks:
-                - "Choose two fixed weekly slots for Office Administration study"
+                - "Agree two fixed weekly slots for Office Administration study with your teen"
                 - "Hold a 40-minute Office Administration study session @recurring(weekly:tue,sat)"
                 - "Answer one past question at the end of each session"
-                - "Count how many weeks in a row you kept both sessions @recurring(monthly:2)"
+                - "Count together how many weeks in a row both sessions were kept @recurring(monthly:2)"
             - name: Office Administration flashcards and spaced recall
               description: |-
                 ## Purpose
-                Many Paper 01 items turn on the exact meaning of one term: imprest, tickler file, itinerary, collator, franking machine, quorum. Flashcards reviewed for ten minutes a day, with the cards you miss coming back sooner, make those terms automatic by exam time.
+                Many Paper 01 items turn on the exact meaning of one term: imprest, tickler file, itinerary, collator, franking machine, quorum. Flashcards reviewed for ten minutes a day, with the missed cards coming back sooner, make those terms automatic by exam time, and quizzing your teen now and then is an easy way to join in.
 
                 ## Milestones
                 1. A card for every term in the binder glossary.
-                2. Cards sorted into boxes by how well you know them.
+                2. Cards sorted into boxes by how well each term is known.
                 3. Ten minutes of review done on most school days.
                 4. Fewer than ten cards left in the hardest box before the mock.
               priority: medium
@@ -260,7 +262,7 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Make cards for the first twenty glossary terms"
-                - "Review your Office Administration flashcards for ten minutes @recurring(daily)"
+                - "Review the Office Administration flashcards for ten minutes @recurring(daily)"
                 - "Move any missed card back to the first box"
                 - "Add new cards each time a topic is finished in class"
             - name: Monthly timed Paper 01 practice
@@ -272,7 +274,7 @@ starter_structure:
                 1. One timed Paper 01 sat each month.
                 2. Each score recorded with the date and the weakest section.
                 3. A rising trend visible across at least four months.
-                4. Every section scoring at least your overall average by the final term.
+                4. Every section scoring at least the overall average by the final term.
 
                 ## Notes
                 Start from the **Metrics log** template. Use the timing printed on the current paper, not one remembered from an older edition.
@@ -285,12 +287,12 @@ starter_structure:
               tasks:
                 - "Set aside one past Paper 01 for each month until the exam"
                 - "Sit a timed Office Administration Paper 01 @recurring(monthly:9)"
-                - "Record the score and weakest section in your score log"
+                - "Record the score and weakest section in the score log"
                 - "Revisit the weakest section's notes the same week"
             - name: Monthly Paper 02 structured question practice
               description: |-
                 ## Purpose
-                Paper 02 questions typically ask you to apply procedures to an office situation: a receptionist with an angry visitor, a clerk setting up a filing system, a secretary preparing for a board meeting. Answering one full structured question a month, then marking it with the official mark scheme, builds the habit of writing in clear points that match how marks are given.
+                Paper 02 questions typically ask candidates to apply procedures to an office situation: a receptionist with an angry visitor, a clerk setting up a filing system, a secretary preparing for a board meeting. Answering one full structured question a month, then marking it with the official mark scheme, builds the habit of writing in clear points that match how marks are given.
 
                 ## Milestones
                 1. One full Paper 02 question answered each month in the suggested time.
@@ -306,12 +308,12 @@ starter_structure:
               tasks:
                 - "List past Paper 02 questions by syllabus section"
                 - "Answer one timed Paper 02 question @recurring(monthly:23)"
-                - "Mark your answer against the official mark scheme"
+                - "Mark the answer against the official mark scheme"
                 - "Note each lost mark and its reason"
             - name: Office Administration mistakes log
               description: |-
                 ## Purpose
-                Students tend to repeat the same errors: confusing a requisition with a purchase order, mixing up centralised and departmental filing, leaving the date off a memo. Logging every mistake from practice and tests with the correct version beside it, and rereading the log weekly, is the quickest way to stop losing the same mark twice.
+                Teenagers tend to repeat the same errors: confusing a requisition with a purchase order, mixing up centralised and departmental filing, leaving the date off a memo. Logging every mistake from practice and tests with the correct version beside it, and rereading the log weekly, is the quickest way to stop losing the same mark twice.
 
                 ## Milestones
                 1. A mistakes log started, with columns for the error, the correct version and the section.
@@ -326,13 +328,13 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Set up a mistakes log with error, correction and section columns"
-                - "Add every error from your latest marked work"
-                - "Reread your Office Administration mistakes log @recurring(weekly:sun)"
+                - "Add every error from the latest marked work"
+                - "Reread the Office Administration mistakes log @recurring(weekly:sun)"
                 - "Highlight any mistake that appears twice"
-            - name: Termly progress review with your Office Administration teacher
+            - name: Termly progress review with the Office Administration teacher
               description: |-
                 ## Purpose
-                Your teacher sees class tests, SBA progress and participation that you may not, and a ten-minute conversation each term catches problems while there is still time to fix them. Going in with your score log, mistakes log and SBA progress turns it into a plan rather than a general chat.
+                Teachers see class tests, SBA progress and participation that a parent may not, and a ten-minute conversation each term catches problems while there is still time to fix them. Agreeing with your teen to bring the score log, mistakes log and SBA progress turns it into a plan rather than a general chat, and they can lead the conversation with you there to support.
 
                 ## Milestones
                 1. One short review held each term.
@@ -349,14 +351,14 @@ starter_structure:
                 success_criteria: "A review note exists for each term with the teacher's advice and one agreed action marked done or carried over."
                 cadence: cyclic
               tasks:
-                - "Write two specific questions for your Office Administration teacher"
-                - "Book a short progress review with your teacher @recurring(quarterly)"
-                - "Bring your score log and SBA progress to the review"
+                - "Help your teen write two specific questions for the Office Administration teacher"
+                - "Book a short progress review with the teacher @recurring(quarterly)"
+                - "Bring the score log and SBA progress to the review"
                 - "Record the one action agreed for the term"
             - name: Real office examples notebook
               description: |-
                 ## Purpose
-                Examiners reward answers that sound like real offices, and the Caribbean is full of them: the numbered ticket queue at the bank, the government registry, the hotel front desk, the clinic appointment book. Noting one real example a week with the procedure it shows gives you specific detail to use in Paper 02 and the SBA.
+                Examiners reward answers that sound like real offices, and the Caribbean is full of them: the numbered ticket queue at the bank, the government registry, the hotel front desk, the clinic appointment book. Noting one real example a week with the procedure it shows gives your teen specific detail to use in Paper 02 and the SBA, and family errands are a good source.
 
                 ## Milestones
                 1. A notebook or phone note set up for office examples.
@@ -371,9 +373,9 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Set up a note titled Real office examples"
-                - "Write down one office procedure you saw this week @recurring(weekly:fri)"
+                - "Note one office procedure seen this week, perhaps on a family errand @recurring(weekly:fri)"
                 - "Tag each example with its syllabus section"
-                - "Copy the strongest examples into your binder before the mock"
+                - "Copy the strongest examples into the binder before the mock"
             - name: Office functions, departments and organisation charts
               description: |-
                 ## Purpose
@@ -393,13 +395,13 @@ starter_structure:
                 effort_hours_estimate: "6"
               tasks:
                 - "List the functions of an office with a local example of each"
-                - "Draw an organisation chart for your school or a parent's workplace"
+                - "Draw an organisation chart for the school or a family member's workplace"
                 - "Compare centralised and decentralised services in a table"
                 - "Answer five past questions on the office and mark them"
             - name: Office layout, open-plan design and ergonomics
               description: |-
                 ## Purpose
-                Questions on layout ask you to compare open-plan and cellular offices, recommend a layout for a given business, and explain how furniture, lighting, ventilation and noise affect staff. Sketching the layout of a real office and judging it against ergonomic principles makes the advantages and disadvantages concrete rather than memorised.
+                Questions on layout ask candidates to compare open-plan and cellular offices, recommend a layout for a given business, and explain how furniture, lighting, ventilation and noise affect staff. Sketching the layout of a real office and judging it against ergonomic principles makes the advantages and disadvantages concrete rather than memorised.
 
                 ## Milestones
                 1. Open-plan, cellular and landscaped layouts compared, with two advantages and disadvantages each.
@@ -414,14 +416,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
-                - "Sketch the layout of your school office or a bank branch"
+                - "Sketch the layout of the school office or a bank branch"
                 - "List two advantages and disadvantages of each layout type"
-                - "Check your own study desk against ergonomic principles"
+                - "Together, check the home study desk against ergonomic principles"
                 - "Try a past Paper 02 layout question and mark it"
             - name: Health, safety and security in the office
               description: |-
                 ## Purpose
-                Trailing cables, blocked fire exits, an unattended reception desk and shared passwords are all exam material, and all common in real offices. Learning the hazards, the responsibilities of employer and employee, and the physical and information security measures, then spotting them on a walk round a real office, grounds your answers in what you have actually seen.
+                Trailing cables, blocked fire exits, an unattended reception desk and shared passwords are all exam material, and all common in real offices. Learning the hazards, the responsibilities of employer and employee, and the physical and information security measures, then spotting them on a walk round a real office, grounds your teen's answers in what they have actually seen.
 
                 ## Milestones
                 1. Common office hazards listed with a prevention measure for each.
@@ -438,12 +440,12 @@ starter_structure:
               tasks:
                 - "List ten office hazards with one prevention measure each"
                 - "Find the name of your country's occupational safety and health law"
-                - "Walk through a real office and note any hazards you see"
+                - "Walk through a real office and note any hazards seen"
                 - "Work through five past safety and security questions"
             - name: Qualities, duties and ethics of the administrative professional
               description: |-
                 ## Purpose
-                Employers hiring receptionists, clerks and administrative assistants look for discretion, initiative, punctuality and good grooming, and the syllabus expects you to explain why each matters. Reading real job advertisements and codes of conduct shows how qualities and duties are worded in practice, and why confidentiality comes up in so many questions.
+                Employers hiring receptionists, clerks and administrative assistants look for discretion, initiative, punctuality and good grooming, and the syllabus expects candidates to explain why each matters. Reading real job advertisements and codes of conduct shows how qualities and duties are worded in practice, and why confidentiality comes up in so many questions.
 
                 ## Milestones
                 1. Personal qualities and duties of office staff listed with a reason for each.
@@ -460,12 +462,12 @@ starter_structure:
               tasks:
                 - "Collect three administrative job adverts from newspapers or job sites"
                 - "Highlight the qualities each advert asks for"
-                - "Write how you would handle a request to see confidential records"
+                - "Write how a clerk should handle a request to see confidential records"
                 - "Attempt a past question on office staff qualities"
             - name: Office equipment and technology choices
               description: |-
                 ## Purpose
-                From shredders and franking machines to cloud storage and video conferencing, the syllabus expects you to name equipment, describe its use and weigh up the cost and training it needs. A table of each item with its purpose, advantages and limitations turns a long list into something you can apply to a question about equipping a new office.
+                From shredders and franking machines to cloud storage and video conferencing, the syllabus expects candidates to name equipment, describe its use and weigh up the cost and training it needs. A table of each item with its purpose, advantages and limitations turns a long list into something they can apply to a question about equipping a new office.
 
                 ## Milestones
                 1. A table of office equipment with purpose, advantages and limitations for each item.
@@ -487,7 +489,7 @@ starter_structure:
             - name: Reception duties and receiving visitors
               description: |-
                 ## Purpose
-                Reception is the first impression an organisation makes, and questions often describe a busy receptionist faced with a visitor who has no appointment or a courier who needs a signature. Learning the duties, the visitors' register, the appointments diary, visitor badges and how to deal with difficult callers, then role playing them at home, makes the procedures second nature.
+                Reception is the first impression an organisation makes, and questions often describe a busy receptionist faced with a visitor who has no appointment or a courier who needs a signature. Learning the duties, the visitors' register, the appointments diary, visitor badges and how to deal with difficult callers, then role playing them at home with you as the visitor, makes the procedures second nature.
 
                 ## Milestones
                 1. Receptionist duties and qualities listed.
@@ -504,7 +506,7 @@ starter_structure:
               tasks:
                 - "Draw up a visitors' register with the correct columns"
                 - "Write a page of a reception appointments diary"
-                - "Role play a visitor with no appointment with a family member"
+                - "Role play a visitor with no appointment together at home"
                 - "Answer a past Paper 02 reception question and mark it"
             - name: Telephone technique and complete message taking
               description: |-
@@ -553,24 +555,24 @@ starter_structure:
             - name: Purpose and parts of business letters, memos and reports
               description: |-
                 ## Purpose
-                Office Administration examines what a business document is for and what it must contain, while keyboarding and layout belong to EDPM. Knowing the parts of a business letter, a memo, a notice and a short report, and when each is used, lets you spot the missing reference or subject line in a question and write a clear example of your own.
+                Office Administration examines what a business document is for and what it must contain, while keyboarding and layout belong to EDPM. Knowing the parts of a business letter, a memo, a notice and a short report, and when each is used, lets your teen spot the missing reference or subject line in a question and write a clear example of their own.
 
                 ## Milestones
                 1. The parts of a business letter, memo, notice and short report listed for each.
                 2. One real example of each document annotated with its parts.
-                3. A memo and a notice written for an office scenario your teacher sets.
+                3. A memo and a notice written for an office scenario the teacher sets.
                 4. A past question on business correspondence answered and marked.
               priority: medium
               frontmatter:
                 mode: building
                 output_kind: knowledge
-                success_criteria: "Four annotated real documents, two of your own written for a scenario and a marked past correspondence question are filed in the binder."
+                success_criteria: "Four annotated real documents, two original documents written for a scenario and a marked past correspondence question are filed in the binder."
                 cadence: phased
                 effort_hours_estimate: "5"
               tasks:
                 - "List the parts of a business letter, memo, notice and report"
-                - "Annotate one real example of each from your document collection"
-                - "Write a memo and a notice for a scenario your teacher sets"
+                - "Annotate one real example of each from the document collection"
+                - "Write a memo and a notice for a scenario the teacher sets"
                 - "Complete a past correspondence question and mark it"
             - name: Incoming and outgoing mail procedures
               description: |-
@@ -597,7 +599,7 @@ starter_structure:
             - name: Filing systems and methods of classification
               description: |-
                 ## Purpose
-                Records management is one of the subject's central topics, and classification questions are reliable marks once the rules are learned: alphabetical by name with its indexing rules, numerical, alphanumerical, geographical, subject and chronological. Sorting real lists of names and files by each method, until tricky cases such as Mc and Mac or names with prefixes are routine, is the heart of this project.
+                Records management is one of the subject's central topics, and classification questions are reliable marks once the rules are learned: alphabetical by name with its indexing rules, numerical, alphanumerical, geographical, subject and chronological. Sorting real lists of names and files by each method, until tricky cases such as Mc and Mac or names with prefixes are routine, is the heart of this project, and the family's own contacts list makes good practice material.
 
                 ## Milestones
                 1. Each method of classification described with an advantage, a disadvantage and a typical user.
@@ -619,7 +621,7 @@ starter_structure:
             - name: Records life cycle, retention and retrieval
               description: |-
                 ## Purpose
-                Records are created, used, stored, retained and finally destroyed or archived, and an office that skips a stage loses documents or keeps far too many. Learning cross-referencing, out cards, follow-up or tickler systems, retention schedules and secure disposal lets you answer questions about why a file went missing and how to stop it happening again.
+                Records are created, used, stored, retained and finally destroyed or archived, and an office that skips a stage loses documents or keeps far too many. Learning cross-referencing, out cards, follow-up or tickler systems, retention schedules and secure disposal lets candidates answer questions about why a file went missing and how to stop it happening again.
 
                 ## Milestones
                 1. The records life cycle drawn with each stage explained.
@@ -641,12 +643,12 @@ starter_structure:
             - name: Electronic records, databases and data protection
               description: |-
                 ## Purpose
-                Most offices in the region now keep at least part of their records electronically, and the syllabus expects you to compare manual and electronic systems, explain backups and access controls, and say why personal data must be protected. Several Caribbean countries have passed data protection laws in recent years, which gives you real examples to use.
+                Most offices in the region now keep at least part of their records electronically, and the syllabus expects candidates to compare manual and electronic systems, explain backups and access controls, and say why personal data must be protected. Several Caribbean countries have passed data protection laws in recent years, which gives your teen real examples to use.
 
                 ## Milestones
                 1. Manual and electronic records systems compared in a table.
                 2. Backup, password and access level procedures for an office written as a short policy.
-                3. Your country's data protection law, if one exists, named and its purpose noted.
+                3. The country's data protection law, if one exists, named and its purpose noted.
                 4. A past question on electronic records answered and marked.
               priority: medium
               frontmatter:
@@ -658,7 +660,7 @@ starter_structure:
               tasks:
                 - "Compare manual and electronic records in a table"
                 - "Write a short backup and access policy for a small office"
-                - "Look up whether your country has a data protection law"
+                - "Look up whether the country has a data protection law"
                 - "Try a past electronic records question and mark it"
             - name: Reprography choices for copying, printing and binding
               description: |-
@@ -672,7 +674,7 @@ starter_structure:
                 4. A past reprography question answered and marked.
 
                 ## Notes
-                If your syllabus edition folds reprography into office equipment, combine this project with that one.
+                If the current syllabus edition folds reprography into office equipment, combine this project with that one.
               priority: low
               frontmatter:
                 mode: building
@@ -693,7 +695,7 @@ starter_structure:
                 ## Milestones
                 1. Formal and informal meetings described, with meeting terms added to the glossary.
                 2. A notice and agenda drafted in the correct order of business.
-                3. Minutes written for a real school club or class meeting you attended.
+                3. Minutes written for a real school club or class meeting your teen attended.
                 4. Conference planning duties listed and a past meetings question answered and marked.
               priority: medium
               frontmatter:
@@ -703,9 +705,9 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Add twelve meeting terms such as quorum and motion to your glossary"
+                - "Add twelve meeting terms such as quorum and motion to the glossary"
                 - "Draft a notice and agenda for a school club meeting"
-                - "Write minutes for a real meeting you attend"
+                - "Write minutes for a real club or class meeting"
                 - "Try a past meetings question and compare it with the mark scheme"
             - name: Business travel itineraries and travel documents
               description: |-
@@ -732,7 +734,7 @@ starter_structure:
             - name: Purchasing procedures and their business documents
               description: |-
                 ## Purpose
-                The purchasing cycle is a chain of documents, and questions often hand you one and ask what comes next: requisition, enquiry, quotation, purchase order, delivery note, invoice, credit note, statement and receipt. Tracing a single purchase through every document, using real examples from your collection where you can, makes the order and purpose of each one clear.
+                The purchasing cycle is a chain of documents, and questions often hand candidates one and ask what comes next: requisition, enquiry, quotation, purchase order, delivery note, invoice, credit note, statement and receipt. Tracing a single purchase through every document, using real examples from the document collection where possible, makes the order and purpose of each one clear.
 
                 ## Milestones
                 1. The purchasing documents listed in order with who issues each one.
@@ -776,7 +778,7 @@ starter_structure:
             - name: Petty cash, banking services and methods of payment
               description: |-
                 ## Purpose
-                Someone in every office keeps the petty cash, banks the takings and processes payments, so the syllabus covers the imprest system, petty cash vouchers, banking services and payment methods from cheques to online transfers. Writing up a short petty cash book and comparing payment methods for a given situation turns a topic students often skip into dependable marks.
+                Someone in every office keeps the petty cash, banks the takings and processes payments, so the syllabus covers the imprest system, petty cash vouchers, banking services and payment methods from cheques to online transfers. Writing up a short petty cash book and comparing payment methods for a given situation turns a topic students often skip into dependable marks, and a household float or kitty makes a handy example.
 
                 ## Milestones
                 1. The imprest system explained and a two-week petty cash book written up.
@@ -843,7 +845,7 @@ starter_structure:
             - name: Customer service and handling complaints
               description: |-
                 ## Purpose
-                Whether at a utility company's payment counter or a school office, customer service is where office procedure meets people. Learning how to receive a complaint calmly, record it, follow it up and use the feedback, then practising with real scenarios, gives you a structured answer to the common question of how a clerk should respond to an unhappy customer.
+                Whether at a utility company's payment counter or a school office, customer service is where office procedure meets people. Learning how to receive a complaint calmly, record it, follow it up and use the feedback, then practising with real scenarios, gives a structured answer to the common question of how a clerk should respond to an unhappy customer.
 
                 ## Milestones
                 1. Principles of good customer service listed with an office example each.
@@ -865,16 +867,16 @@ starter_structure:
             - name: SBA research on an organisation's office procedures
               description: |-
                 ## Purpose
-                Once your organisation and topic are approved, the work is gathering evidence through interviews, observation and sample forms, then analysing it in the structure your teacher's brief and the syllabus guidelines set out. Working through it section by section, with a fixed weekly writing slot, keeps it from colliding with every other subject's SBA in the same term.
+                Once the organisation and topic are approved, the work is gathering evidence through interviews, observation and sample forms, then analysing it in the structure the teacher's brief and the syllabus guidelines set out. Working through it section by section, with a fixed weekly writing slot, keeps it from colliding with every other subject's SBA in the same term. A lift to the visit is often the most useful help a parent can give.
 
                 ## Milestones
-                1. Interview questions or an observation checklist approved by your teacher.
+                1. Interview questions or an observation checklist approved by the teacher.
                 2. The visit or interviews completed and notes written up within a week.
                 3. Each required section drafted in the order the brief sets.
-                4. A full draft handed to your teacher for comment by the internal deadline.
+                4. A full draft handed to the teacher for comment by the internal deadline.
 
                 ## Notes
-                Ask permission before photographing any document, and remove personal details from any sample you include. If your school's brief differs from this outline, the brief wins.
+                Ask permission before photographing any document, and remove personal details from any sample included. If the school's brief differs from this outline, the brief wins.
               priority: high
               deadlineOffsetDays: 150
               frontmatter:
@@ -885,13 +887,13 @@ starter_structure:
                 effort_hours_estimate: "25"
               tasks:
                 - "Draft interview questions or an observation checklist for teacher approval"
-                - "Book the visit or interview with your contact at the organisation"
+                - "Book the visit or interview with the contact at the organisation"
                 - "Write up one section of the SBA @recurring(weekly:wed)"
-                - "Hand your full draft to your teacher by the internal deadline"
+                - "Check the full draft reaches the teacher by the internal deadline"
             - name: Final SBA check and submission
               description: |-
                 ## Purpose
-                Teacher feedback on the draft is only worth something if it is acted on before the final deadline. Working through every comment, checking the finished SBA against the marking criteria in the syllabus and keeping a copy before handing it in protects the marks you have already earned.
+                Teacher feedback on the draft is only worth something if it is acted on before the final deadline. Working through every comment, checking the finished SBA against the marking criteria in the syllabus and keeping a copy before handing it in protects the marks your teen has already earned.
 
                 ## Milestones
                 1. Every teacher comment on the draft acted on or discussed.
@@ -907,10 +909,10 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "8"
               tasks:
-                - "List every teacher comment from your draft"
+                - "List every teacher comment from the draft"
                 - "Check the SBA against each syllabus marking criterion"
-                - "Ask a parent or classmate to proofread the final version"
-                - "Submit the SBA and keep a copy in your binder"
+                - "Offer to proofread the final version, or ask a classmate to"
+                - "Submit the SBA and keep a copy in the binder"
             - name: Applying procedures to Paper 02 scenarios
               description: |-
                 ## Purpose
@@ -936,13 +938,13 @@ starter_structure:
             - name: Examiner reports and mark schemes for Office Administration
               description: |-
                 ## Purpose
-                CXC publishes subject reports after each sitting that describe where candidates lost marks, and they are some of the most useful pages a student can read. Going through the last few Office Administration reports and summarising the repeated weaknesses gives you a list of traps that no textbook provides.
+                CXC publishes subject reports after each sitting that describe where candidates lost marks, and they are some of the most useful pages a student can read. Going through the last few Office Administration reports and summarising the repeated weaknesses gives them a list of traps that no textbook provides.
 
                 ## Milestones
                 1. The most recent Office Administration subject reports found.
                 2. Recurring weaknesses noted across at least three years.
                 3. A one-page list of traps and how to avoid them.
-                4. Each trap checked against your own mistakes log.
+                4. Each trap checked against your teen's own mistakes log.
               priority: medium
               frontmatter:
                 mode: research
@@ -954,16 +956,16 @@ starter_structure:
                 - "Find the latest Office Administration subject reports from CXC"
                 - "Note the weaknesses examiners mention in each year"
                 - "Ask the agent to summarise the repeated weaknesses on one page"
-                - "Compare the traps list with your own mistakes log"
+                - "Compare the traps list with the mistakes log"
             - name: Full Office Administration mock exam
               description: |-
                 ## Purpose
-                A full mock under exam conditions shows whether you can keep accuracy and timing across both papers in one sitting, which monthly practice cannot. Treating it like the real thing, with a quiet room and nothing on the desk but pens, gives you a realistic grade and a short list of what to fix.
+                A full mock under exam conditions shows whether your teen can keep accuracy and timing across both papers in one sitting, which monthly practice cannot. Treating it like the real thing, with a quiet room and nothing on the desk but pens, gives a realistic grade and a short list of what to fix, and keeping the house quiet for it is your part.
 
                 ## Milestones
                 1. Paper 01 and Paper 02 sat under timed conditions on the same day, or as the school mock.
                 2. Both papers marked against the official mark schemes.
-                3. The marks for each section recorded in your score log.
+                3. The marks for each section recorded in the score log.
                 4. The five weakest areas written into the revision timetable.
               priority: high
               deadlineOffsetDays: 180
@@ -974,10 +976,10 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Choose a recent full paper set you have not seen"
+                - "Choose a recent full paper set your teen has not seen"
                 - "Sit Paper 01 and Paper 02 under timed conditions"
                 - "Mark both papers with the official mark schemes"
-                - "Add the five weakest areas to your revision timetable"
+                - "Add the five weakest areas to the revision timetable"
             - name: Final eight weeks Office Administration revision timetable
               description: |-
                 ## Purpose
@@ -987,7 +989,7 @@ starter_structure:
                 1. Every syllabus section given at least one revision session in the timetable.
                 2. The weakest sections from the mock given double time.
                 3. A timed paper or full question scheduled every week.
-                4. The timetable on the wall and shared with a parent.
+                4. The timetable on the wall and shared with the family.
               priority: high
               deadlineOffsetDays: 215
               frontmatter:
@@ -997,14 +999,14 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "30"
               tasks:
-                - "List every syllabus section with your latest score for each"
+                - "List every syllabus section with the latest score for each"
                 - "Give the weakest sections twice the revision time"
                 - "Do one timed revision block from the timetable @recurring(weekly:mon,wed,fri)"
-                - "Pin the timetable where a parent can see it"
+                - "Pin the timetable where the family can see it"
             - name: Last full past paper and the final week
               description: |-
                 ## Purpose
-                Aim to sit the last full paper about ten days before the exam: close enough to be a real rehearsal, far enough away to fix what it shows. The final week is then for the glossary, the mistakes log and proper sleep, not new material.
+                Aim for the last full paper about ten days before the exam: close enough to be a real rehearsal, far enough away to fix what it shows. The final week is then for the glossary, the mistakes log and proper sleep, not new material, and a calm house helps more than extra hours.
 
                 ## Milestones
                 1. One last full past paper sat under timed conditions.
@@ -1021,16 +1023,16 @@ starter_structure:
                 effort_hours_estimate: "8"
               tasks:
                 - "Sit the last full Office Administration past paper under timed conditions"
-                - "Correct every error and add it to your mistakes log"
+                - "Correct every error and add it to the mistakes log"
                 - "Reread the glossary and mistakes log twice in the final week"
-                - "Set a fixed bedtime for the last five nights before the exam"
+                - "Agree a fixed bedtime for the last five nights before the exam"
             - name: CSEC Office Administration exam day plan
               description: |-
                 ## Purpose
-                Candidates lose marks on exam day to things that have nothing to do with Office Administration: a forgotten candidate number, a late taxi, an instruction read too quickly. A checklist covering documents, equipment, transport and how to divide time between questions means your attention goes on the paper.
+                Candidates lose marks on exam day to things that have nothing to do with Office Administration: a forgotten candidate number, a late taxi, an instruction read too quickly. A checklist covering documents, equipment, transport and how to divide time between questions means your teen's attention goes on the paper.
 
                 ## Milestones
-                1. Your candidate number, centre and paper times confirmed from the official timetable.
+                1. The candidate number, centre and paper times confirmed from the official timetable.
                 2. An exam bag of documents, pens and permitted items packed the night before.
                 3. Transport arranged with time to spare, and a backup plan.
                 4. A time plan for each paper written from the current paper format.
@@ -1046,8 +1048,8 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "2"
               tasks:
-                - "Confirm your candidate number and the paper times from the timetable"
-                - "Pack your exam bag with ID, candidate slip and pens"
+                - "Confirm the candidate number and the paper times from the timetable"
+                - "Check the exam bag holds ID, candidate slip and pens"
                 - "Arrange transport to arrive early, with a backup option"
                 - "Write a time plan for each paper from the current format"
             - name: Parent support for a CSEC Office Administration student
@@ -1056,7 +1058,7 @@ starter_structure:
                 Parents often work in or deal with offices every day, which makes this one of the easier CSEC subjects to support at home. Lending old business documents, playing the visitor in a reception role play, helping arrange an SBA visit and holding a short weekly check-in on the plan help far more than standing over homework.
 
                 ## Milestones
-                1. A quiet study space and fixed study times agreed with your child.
+                1. A quiet study space and fixed study times agreed with your teen.
                 2. Old business documents and workplace examples offered for the collection.
                 3. Help given to arrange an SBA organisation visit where needed.
                 4. A short weekly check-in held on the study plan and upcoming deadlines.
@@ -1067,14 +1069,14 @@ starter_structure:
                 success_criteria: "A weekly check-in has happened for at least eight weeks and the SBA deadlines are on the family calendar."
                 cadence: rolling
               tasks:
-                - "Agree study times and a quiet study space with your child"
+                - "Agree study times and a quiet study space with your teen"
                 - "Hold a ten-minute check-in on the study plan @recurring(weekly:mon)"
                 - "Offer to play a visitor or caller in a reception role play"
                 - "Check the SBA deadlines against the family calendar @recurring(monthly:5)"
             - name: Teacher or tutor tracker for an Office Administration class
               description: |-
                 ## Purpose
-                A teacher or lessons tutor with a class of twenty-five needs to see quickly which students are behind on the SBA and which sections the whole class keeps losing marks on. A simple tracker of SBA milestones, monthly scores by section and agreed actions makes termly reviews and parent conversations faster and fairer.
+                A teacher or lessons tutor with a class of twenty-five needs to see quickly which students are behind on the SBA and which sections the whole class keeps losing marks on. A simple tracker of SBA milestones, monthly scores by section and agreed actions makes termly reviews and parent conversations faster and fairer. If your teen has a tutor, share this project with them and ask what the tracker shows each month.
 
                 ## Milestones
                 1. A class tracker set up with SBA milestones and section scores.
@@ -1095,7 +1097,7 @@ starter_structure:
             - name: Paper 032 for private Office Administration candidates
               description: |-
                 ## Purpose
-                Private candidates who are not attached to a school sit Paper 032 in place of the SBA, and adults returning to study often take Office Administration for work or promotion. Confirming the details with the local registrar, practising past Paper 032 questions and building a self-study plan around a working week covers what a school would normally provide.
+                Private candidates who are not attached to a school sit Paper 032 in place of the SBA, and adults returning to study often take Office Administration for work or promotion. If your teen is sitting privately, confirming the details with the local registrar, practising past Paper 032 questions and building a self-study plan covers what a school would normally provide.
 
                 ## Milestones
                 1. Registration confirmed with the local registrar and the Paper 032 format noted from the current syllabus.
@@ -1112,15 +1114,15 @@ starter_structure:
               tasks:
                 - "Contact the local registrar to confirm registration and paper options"
                 - "Note the Paper 032 format from the current syllabus"
-                - "Write a self-study plan that fits around your working week"
+                - "Write a self-study plan that fits around school, work or family commitments"
                 - "Sit one timed past Paper 032 and mark it"
             - name: Office job shadowing or work experience day
               description: |-
                 ## Purpose
-                Spending a day beside a receptionist, records clerk or executive assistant shows the syllabus in action: the switchboard, the filing room, the boardroom set up for a meeting. It also gives you SBA evidence, exam examples and a first sense of whether administrative work suits you as a career.
+                Spending a day beside a receptionist, records clerk or executive assistant shows the syllabus in action: the switchboard, the filing room, the boardroom set up for a meeting. It also gives your teen SBA evidence, exam examples and a first sense of whether administrative work suits them as a career, and family contacts are often the easiest way in.
 
                 ## Milestones
-                1. An office willing to host you for a day or half day found through school, family or a holiday programme.
+                1. An office willing to host your teen for a day or half day found through school, family or a holiday programme.
                 2. Five questions prepared about procedures from the syllabus.
                 3. Notes written up the same evening and matched to syllabus sections.
                 4. A thank-you note sent to the host.
@@ -1133,18 +1135,18 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "10"
               tasks:
-                - "Ask your teacher or a parent about offices that host students"
-                - "Prepare five questions about the procedures you will see"
-                - "Write up your notes the evening after the visit"
-                - "Send a thank-you note to the person who hosted you"
+                - "Ask the teacher, friends and colleagues about offices that host students"
+                - "Prepare five questions about the procedures to be seen"
+                - "Write up notes the evening after the visit"
+                - "Send a thank-you note to the person who hosted the day"
             - name: Results, review requests and next steps after Office Administration
               description: |-
                 ## Purpose
                 Results bring decisions: whether to request a review of a grade, and what to do with the subject next. Office Administration leads naturally to CAPE subjects such as Management of Business, to vocational office qualifications such as a CVQ, and to administrative roles in banks, ministries, hotels and firms at home or abroad, so mapping the options before results day makes them easier to act on.
 
                 ## Milestones
-                1. Your overall grade and profile grades recorded when released.
-                2. A decision made on any review request within the deadline your school or the registrar gives.
+                1. The overall grade and profile grades recorded when released.
+                2. A decision made on any review request within the deadline the school or the registrar gives.
                 3. Two or three next steps listed, from CAPE subjects to office qualifications or work.
                 4. One next step started, with an application or enquiry sent.
               priority: medium
@@ -1156,14 +1158,14 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Note the date your school expects results to be released"
-                - "Record your overall grade and profile grades when released"
-                - "Ask your teacher whether a review request is worth making"
+                - "Note the date the school expects results to be released"
+                - "Record the overall grade and profile grades when released"
+                - "Ask the teacher whether a review request is worth making"
                 - "List next steps such as CAPE subjects, office qualifications or work"
 ---
 
 # CSEC Office Administration
 
-This area takes a CSEC Office Administration student from the first syllabus check to results day, in the order the subject is taught and examined. It starts with the foundations (the current syllabus, a diagnostic paper, a two-year plan, the binder and the SBA brief), sets up the weekly routines, then works through the topics from the office and its layout, through reception, communication, mail and records management, to meetings, travel, purchasing, payments and human resources, before the SBA, exam technique, the mock and exam day, with projects for parents, teachers and private candidates at the end.
+This area helps a parent or guardian support a CSEC Office Administration student from the first syllabus check to results day, in the order the subject is taught and examined. It starts with the foundations (the current syllabus, a diagnostic paper, a two-year plan, the binder and the SBA brief), sets up the weekly routines, then works through the topics from the office and its layout, through reception, communication, mail and records management, to meetings, travel, purchasing, payments and human resources, before the SBA, exam technique, the mock and exam day, with projects for family support, for teachers and tutors, and for private candidates at the end.
 
-The rhythm is two weekly study sessions, daily glossary flashcards, a weekly mistakes log and real office examples, a monthly timed Paper 01 and Paper 02 question, and a termly review with your teacher. The Habit tracker, Metrics log, Meeting notes and Operational checklist templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is two weekly study sessions, daily glossary flashcards, a weekly mistakes log and real office examples, a monthly timed Paper 01 and Paper 02 question, and a termly review with the teacher. The Habit tracker, Metrics log, Meeting notes and Operational checklist templates pair with it. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
