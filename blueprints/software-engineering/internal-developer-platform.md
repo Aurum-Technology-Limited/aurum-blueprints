@@ -4,7 +4,7 @@ name: Internal Developer Platform
 description: "A platform run as a product: a service catalogue with owners, golden paths for new services, self-service environments and guardrails, and the adoption routines that let product teams ship without filing tickets."
 category: business
 version: 1.0.0
-tags: [software-engineering, internal-developer-platform, engineer, enterprise, platform-engineering, golden-paths, developer-portal, self-service]
+tags: [software-engineering, internal-developer-platform, engineer, enterprise, platform-engineering, golden-paths, developer-portal, self-service, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Platform team charter and named customers
               description: |-
                 ## Purpose
-                A platform team without a charter becomes the place every unowned infrastructure job lands, and within a year it is a ticket queue rather than a product. Writing down who the customers are, which problems the platform solves first and what it will refuse to own gives the team a basis for saying no and gives leadership something to fund against.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. A platform team without a charter becomes the place every unowned infrastructure job lands, and within a year it is a ticket queue rather than a product. Writing down who the customers are, which problems the platform solves first and what it will refuse to own gives the team a basis for saying no and gives leadership something to fund against.
 
                 ## Milestones
                 1. A one-page charter naming the customer teams, the problems in scope and the explicit non-goals.

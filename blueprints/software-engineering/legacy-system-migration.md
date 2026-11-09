@@ -4,7 +4,7 @@ name: Legacy System Migration
 description: "An honest inventory of what the old system really does, a chosen migration strategy, reconciled data, rehearsed cutovers, a safe parallel run and a switch-off date that actually arrives."
 category: business
 version: 1.0.0
-tags: [software-engineering, legacy-system-migration, engineer, enterprise, team, cutover, data-migration, decommissioning]
+tags: [software-engineering, legacy-system-migration, engineer, enterprise, team, cutover, data-migration, decommissioning, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Inventory of what the legacy system actually does
               description: |-
                 ## Purpose
-                Old systems quietly do far more than their documentation admits: nightly batch jobs, month-end reports, emails to suppliers, a stored procedure that recalculates prices at midnight. Before anyone estimates a migration, list every capability the system performs today, found from code, schedulers and logs rather than from memory, because the capability you miss is the one that breaks on cutover day.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Old systems quietly do far more than their documentation admits: nightly batch jobs, month-end reports, emails to suppliers, a stored procedure that recalculates prices at midnight. Before anyone estimates a migration, list every capability the system performs today, found from code, schedulers and logs rather than from memory, because the capability you miss is the one that breaks on cutover day.
 
                 ## Milestones
                 1. A capability list covering screens, APIs, batch jobs, scheduled reports, outbound files and emails.

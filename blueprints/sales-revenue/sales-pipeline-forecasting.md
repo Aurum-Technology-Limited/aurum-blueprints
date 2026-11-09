@@ -4,7 +4,7 @@ name: Sales Pipeline Forecasting
 description: "Clear forecast categories, a weekly submission rhythm, stage win rates from your own history and an accuracy scorecard, so leadership gets a revenue number it can plan around."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-pipeline-forecasting, manager, team, enterprise, forecast-accuracy, win-rates, revenue-planning]
+tags: [sales-revenue, sales-pipeline-forecasting, manager, team, enterprise, forecast-accuracy, win-rates, revenue-planning, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Forecast category definitions
               description: |-
                 ## Purpose
-                Ask five sellers what commit means and you will get five answers, which is why so many forecast calls are an argument about words before they are about numbers. Writing one definition for each category, commit, best case, pipeline and omitted, with the evidence a deal needs to sit in it, makes every seller's call comparable and every roll-up honest.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Ask five sellers what commit means and you will get five answers, which is why so many forecast calls are an argument about words before they are about numbers. Writing one definition for each category, commit, best case, pipeline and omitted, with the evidence a deal needs to sit in it, makes every seller's call comparable and every roll-up honest.
 
                 ## Milestones
                 1. Four forecast categories defined in one sentence each.

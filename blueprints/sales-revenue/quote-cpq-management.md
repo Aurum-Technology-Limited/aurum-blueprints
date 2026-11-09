@@ -4,7 +4,7 @@ name: Quotes & CPQ Management
 description: "A clean product catalogue and approved price books, one quote template, the weekly and monthly routines that keep quotes accurate, and the CPQ choice, migration and go-live that end spreadsheet quoting."
 category: business
 version: 1.0.0
-tags: [sales-revenue, quote-cpq-management, team, enterprise, small-business, cpq, price-books, quote-to-cash]
+tags: [sales-revenue, quote-cpq-management, team, enterprise, small-business, cpq, price-books, quote-to-cash, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Audit of fifty recent quotes
               description: |-
                 ## Purpose
-                Before changing tools or templates, find out what is going wrong with quotes today. Pulling the last fifty quotes sent and checking each against the price list, the signed order and the first invoice usually shows a small set of repeat errors: stale prices, missing items, the wrong currency or terms nobody approved. Those findings decide what to fix first.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before changing tools or templates, find out what is going wrong with quotes today. Pulling the last fifty quotes sent and checking each against the price list, the signed order and the first invoice usually shows a small set of repeat errors: stale prices, missing items, the wrong currency or terms nobody approved. Those findings decide what to fix first.
 
                 ## Milestones
                 1. Fifty recent quotes gathered with the matching order form and first invoice where one exists.

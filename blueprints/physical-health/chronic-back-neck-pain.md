@@ -26,7 +26,7 @@ starter_structure:
             - name: Red flag symptoms card for back and neck pain
               description: |-
                 ## Purpose
-                Almost all persistent back and neck pain is not dangerous, but a small set of symptoms needs same-day medical attention, such as new numbness around the saddle area, changes in bladder or bowel control, or weakness that is getting worse. Having the list written down, with the number to call, means you act quickly on the rare day it matters and stop worrying on all the others.
+                Almost all persistent back and neck pain is not dangerous, but a small set of symptoms needs emergency care straight away, such as new numbness around the genitals, buttocks or inner thighs, new difficulty peeing or loss of bladder or bowel control, or numbness or weakness in both legs that is getting worse (signs of cauda equina syndrome; UK NHS advice is to go to A&E or call 999). Having the list written down, with the number to call, means you act quickly on the rare day it matters and stop worrying on all the others.
 
                 ## Milestones
                 1. The urgent warning signs for your back or neck confirmed with your doctor or physiotherapist.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Ask your clinician which signs apply to you. The card is a prompt to seek help, not a way to diagnose yourself.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -1090,7 +1090,7 @@ starter_structure:
                 4. Any support offered, such as talking therapy, started or a decision recorded.
 
                 ## Notes
-                If low mood includes thoughts of harming yourself, contact your doctor or an urgent helpline the same day.
+                If low mood includes thoughts of harming yourself, contact your doctor or an urgent helpline the same day, such as Samaritans on 116 123 in the UK and Ireland or 988 in the US. If you feel unable to keep yourself safe, call your local emergency number.
               priority: medium
               frontmatter:
                 mode: building

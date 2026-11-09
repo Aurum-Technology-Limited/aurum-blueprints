@@ -4,7 +4,7 @@ name: Industry Coverage Group Work
 description: "Sector knowledge built on purpose: a coverage universe map, company profiles, earnings and deal trackers, a weekly market update, an idea log and the habits that make you the person who knows the sector."
 category: business
 version: 1.0.0
-tags: [investment-banking, industry-coverage-group-work, knowledge-worker, analyst, associate, sector-coverage, market-updates, idea-generation]
+tags: [investment-banking, industry-coverage-group-work, knowledge-worker, analyst, associate, sector-coverage, market-updates, idea-generation, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -24,7 +24,7 @@ starter_structure:
             - name: Coverage universe map for your sector
               description: |-
                 ## Purpose
-                Most new joiners can name the ten largest companies in their sector and almost nothing below them, which is where much of the mid-market deal flow sits. A single map of every company your group covers or could cover, split by subsector, listed or private, size band and owner type, becomes the base for every profile, screen and idea that follows.
+                Most new joiners can name the ten largest companies in their sector and almost nothing below them, which is where much of the mid-market deal flow sits. A single map of every company your group covers or could cover, split by subsector, listed or private, size band and owner type, becomes the base for every profile, screen and idea that follows. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A spreadsheet listing every company in the coverage universe with subsector, country, listing status and owner type.

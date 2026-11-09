@@ -75,8 +75,11 @@ integrity check accepts). Line endings are pinned to LF so the hash is stable.
 
 ## Professional-advice notices
 
-Blueprints about health, wellbeing, money or law carry a notice that they are
-general information, not medical, psychological, financial or legal advice. It is
+Blueprints about health, fitness, wellbeing, money, law, hands-on physical work or
+a regulated profession carry a notice that they are general information, not
+professional advice (kinds: medical, fitness, mental, financial, legal, safety,
+professional). Team plans (tag `team-plan`) get team wordings of the financial,
+legal and professional notices. It is
 added to the end of the first project's description (so it is installed into the
 user's files beside the plan) by `node scripts/add-notices.mjs`, which decides the
 notice from the pillar or, for single areas in other pillars, from a short list in

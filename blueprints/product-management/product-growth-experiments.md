@@ -4,7 +4,7 @@ name: Product Growth Experiments
 description: "A disciplined experiment programme for sign-up, onboarding, sharing and upgrade flows: trustworthy assignment and metrics, a scored backlog, sound statistics and a decision log the team learns from."
 category: business
 version: 1.0.0
-tags: [product-management, product-growth-experiments, team, engineer, ab-testing, experimentation, growth, conversion]
+tags: [product-management, product-growth-experiments, team, engineer, ab-testing, experimentation, growth, conversion, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Growth experiment charter and decision rights
               description: |-
                 ## Purpose
-                Growth teams that start testing without agreed rules end up arguing after every result about who can launch a test, what counts as a win and who makes the ship call. A one-page charter settles those questions once: what an experiment is, which flows are in scope, who approves risky tests and who decides when results are mixed. Writing it before the first live test means the first disagreement is about evidence, not authority.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Growth teams that start testing without agreed rules end up arguing after every result about who can launch a test, what counts as a win and who makes the ship call. A one-page charter settles those questions once: what an experiment is, which flows are in scope, who approves risky tests and who decides when results are mixed. Writing it before the first live test means the first disagreement is about evidence, not authority.
 
                 ## Milestones
                 1. A one-page charter naming the in-scope flows: sign-up, onboarding, sharing and upgrade.

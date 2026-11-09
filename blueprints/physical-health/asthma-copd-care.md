@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Many asthma and lung charities publish blank action plan forms that clinicians are happy to fill in. Bring one to the appointment if your practice does not have its own.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -211,7 +211,7 @@ starter_structure:
             - name: Spacer for every pressurised inhaler
               description: |-
                 ## Purpose
-                A spacer can roughly double the medicine that reaches the lungs from a pressurised inhaler and cuts the mouth and throat side effects of steroid inhalers, yet many adults have never been offered one. Getting the right spacer, with a mask for young children, for every aerosol inhaler in the house is a quick, cheap win.
+                A spacer can substantially increase the medicine that reaches the lungs from a pressurised inhaler and cuts the mouth and throat side effects of steroid inhalers, yet many adults have never been offered one. Getting the right spacer, with a mask for young children, for every aerosol inhaler in the house is a quick, cheap win.
 
                 ## Milestones
                 1. Every pressurised aerosol inhaler in the house matched to a compatible spacer.

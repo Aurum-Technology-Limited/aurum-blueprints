@@ -4,7 +4,7 @@ name: Sales Pitch Deck
 description: "One core sales deck that opens on the buyer's problem, with cleared proof, a single master file, monthly releases, talk tracks and variants for each segment and buyer."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-pitch-deck, team, founder, small-business, sales-narrative, slide-design, messaging]
+tags: [sales-revenue, sales-pitch-deck, team, founder, small-business, sales-narrative, slide-design, messaging, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Inventory of every sales deck in circulation
               description: |-
                 ## Purpose
-                Most teams believe they have one sales deck and actually have a dozen: the official one, three regional edits, a founder's favourite and whatever each rep saved to their desktop last year. Collecting every version in one folder shows how far the story has drifted and which slides reps actually trust, which is the raw material for everything else in this area.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most teams believe they have one sales deck and actually have a dozen: the official one, three regional edits, a founder's favourite and whatever each rep saved to their desktop last year. Collecting every version in one folder shows how far the story has drifted and which slides reps actually trust, which is the raw material for everything else in this area.
 
                 ## Milestones
                 1. Every deck currently shown to prospects collected in one folder, with the name of the person who uses it.

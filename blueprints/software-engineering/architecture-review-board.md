@@ -4,7 +4,7 @@ name: Architecture Review Board
 description: "A chartered review board with clear thresholds, a fast intake and outcome process, a waiver register with expiry dates, and the rhythms that keep big technical decisions consistent without becoming a bottleneck."
 category: business
 version: 1.0.0
-tags: [software-engineering, architecture-review-board, engineer, enterprise, architecture-governance, design-review, technical-decisions, waivers]
+tags: [software-engineering, architecture-review-board, engineer, enterprise, architecture-governance, design-review, technical-decisions, waivers, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Problem statement for an architecture review board
               description: |-
                 ## Purpose
-                Boards set up because a senior leader wants oversight tend to become approval queues nobody respects. Writing down the three or four concrete failures the board should prevent, such as two teams buying overlapping observability tools or a service launched without a data retention plan, gives every later design choice a test: does this help prevent those failures, or is it ceremony?
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Boards set up because a senior leader wants oversight tend to become approval queues nobody respects. Writing down the three or four concrete failures the board should prevent, such as two teams buying overlapping observability tools or a service launched without a data retention plan, gives every later design choice a test: does this help prevent those failures, or is it ceremony?
 
                 ## Milestones
                 1. Five to ten past decisions from the last two years listed where a second look would have changed the outcome.

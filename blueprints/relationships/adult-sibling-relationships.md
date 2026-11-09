@@ -1020,7 +1020,7 @@ starter_structure:
                 4. Your own limits on time and money set and kept.
 
                 ## Notes
-                If you are worried about your sibling's safety or mental health, encourage them to see their doctor or a crisis service and call emergency services if there is immediate danger.
+                If you are worried about your sibling's safety or mental health, encourage them to see their doctor or a crisis service, such as Samaritans on 116 123 (UK and Ireland) or 988 (US), and call emergency services if there is immediate danger.
               priority: medium
               frontmatter:
                 mode: service
@@ -1120,7 +1120,7 @@ starter_structure:
                 4. A plan for family events and what to say to parents and other siblings.
 
                 ## Notes
-                Your safety comes first. If the sibling has been violent or abusive, take advice from a support service before any contact, and do not meet alone.
+                Your safety comes first. If the sibling has been violent or abusive, take advice from a support service before any contact, and do not meet alone. If you feel afraid of a family member, or someone is controlling, threatening or hurting you, call your local emergency number if you are in danger, or a domestic abuse helpline (for example 0808 2000 247 in the UK, or 1-800-799-7233 in the US).
               priority: high
               frontmatter:
                 mode: research

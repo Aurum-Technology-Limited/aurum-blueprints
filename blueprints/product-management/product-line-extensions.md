@@ -4,7 +4,7 @@ name: Product Line Extensions
 description: "Deciding when and how to extend a product line: the line map and extension thesis, cannibalisation and fence checks, new editions, tiers and add-ons, pilots and launch readiness, and the reviews that scale or stop them."
 category: business
 version: 1.0.0
-tags: [product-management, product-line-extensions, manager, founder, team, editions, add-ons, product-line]
+tags: [product-management, product-line-extensions, manager, founder, team, editions, add-ons, product-line, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Current product line map with revenue by edition
               description: |-
                 ## Purpose
-                Before adding anything to a product line, write down what the line already is: every edition, tier, add-on and standalone product, who buys each one and what share of revenue it brings. Most teams discover at least one plan nobody can explain and one add-on that sells only because sales bundles it in for free. A single map makes every later extension debate start from the same facts.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before adding anything to a product line, write down what the line already is: every edition, tier, add-on and standalone product, who buys each one and what share of revenue it brings. Most teams discover at least one plan nobody can explain and one add-on that sells only because sales bundles it in for free. A single map makes every later extension debate start from the same facts.
 
                 ## Milestones
                 1. Every edition, tier, add-on and standalone product listed with its launch year and owner.

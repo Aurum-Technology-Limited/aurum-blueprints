@@ -4,7 +4,7 @@ name: Product Launch Management
 description: "Launch tiers, a checklist and a single owner, sales and support made ready, a go or no-go call with written criteria, a planned launch day and an honest review afterwards, for product teams, managers and enterprise launches."
 category: business
 version: 1.0.0
-tags: [product-management, product-launch-management, team, manager, enterprise, go-to-market, launch-readiness, go-no-go]
+tags: [product-management, product-launch-management, team, manager, enterprise, go-to-market, launch-readiness, go-no-go, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Launch tier definitions for your product
               description: |-
                 ## Purpose
-                Without agreed tiers, every release gets either a press push it does not deserve or no announcement at all, and marketing, sales and support cannot plan their own work. Defining three tiers by customer impact, revenue at stake and how much behaviour changes lets anyone classify a launch in five minutes and know what each team owes it.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Without agreed tiers, every release gets either a press push it does not deserve or no announcement at all, and marketing, sales and support cannot plan their own work. Defining three tiers by customer impact, revenue at stake and how much behaviour changes lets anyone classify a launch in five minutes and know what each team owes it.
 
                 ## Milestones
                 1. Three tiers written down, each with two or three plain criteria such as new paid capability, changed workflow for existing users or internal improvement.

@@ -4,7 +4,7 @@ name: Natural Gas Curtailment Planning
 description: "A plant that knows its gas position, has rate cut and restart plans ready before the supplier calls, and runs efficiency work that makes every MMscf go further in a gas-short economy."
 category: business
 version: 1.0.0
-tags: [engineering-practice, natural-gas-curtailment-planning, engineer, manager, gas-supply, curtailment, restart-planning, energy-efficiency]
+tags: [engineering-practice, natural-gas-curtailment-planning, engineer, manager, gas-supply, curtailment, restart-planning, energy-efficiency, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -28,7 +28,7 @@ starter_structure:
             - name: Gas supply contract position summary
               description: |-
                 ## Purpose
-                Most rate cut arguments start because nobody on site can say quickly what the plant is entitled to, what it must pay for whether it takes it or not, and what the supplier may cut without penalty. A two-page summary of contracted daily quantities, take-or-pay terms, interruptibility and force majeure wording, prepared with the commercial team, gives engineers and managers the same starting point when supply tightens.
+                Most rate cut arguments start because nobody on site can say quickly what the plant is entitled to, what it must pay for whether it takes it or not, and what the supplier may cut without penalty. A two-page summary of contracted daily quantities, take-or-pay terms, interruptibility and force majeure wording, prepared with the commercial team, gives engineers and managers the same starting point when supply tightens. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The current gas sales agreement and any amendments located and their reference numbers recorded.
@@ -38,6 +38,8 @@ starter_structure:
 
                 ## Notes
                 This is an organisational summary, not a legal reading. Any interpretation of a clause that drives a decision goes to the company's commercial and legal advisers.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -519,7 +521,7 @@ starter_structure:
             - name: Low-rate behaviour of compressors, turbines and fired equipment
               description: |-
                 ## Purpose
-                Running at 60 percent is not just less of normal: compressors move towards surge, gas turbines run hotter per unit of output, burners can become unstable and heat exchangers foul faster. Studying how the plant's main machines behave at low rates, from their maps and past data, prepares the engineer to advise on how deep a cut is safe.
+                Running at 60 percent is not just less of normal: compressors move towards surge, gas turbines run hotter per unit of output, burners can become unstable and heat exchangers foul faster. Studying how the plant's main machines behave at low rates, from their maps and past data, prepares the engineer to advise on how deep a cut is safe, with the final limits confirmed by the equipment makers and signed off by plant engineering.
 
                 ## Milestones
                 1. Performance maps for the main compressors marked with normal and reduced operating points.
@@ -538,6 +540,7 @@ starter_structure:
                 - "Plot normal and reduced operating points on each map"
                 - "Check burner turndown limits in vendor manuals"
                 - "Write a one-page low-rate risk summary per machine"
+                - "Have the OEMs and plant engineering manager confirm minimum safe rates"
             - name: Reading field decline and supply forecast data
               description: |-
                 ## Purpose

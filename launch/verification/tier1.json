@@ -1,0 +1,2118 @@
+[
+  {
+    "id": "relationships.making-friends-as-an-adult",
+    "status": "publish",
+    "reason": "Low-risk social plan; public-place first meetings and doctor/therapist pointer for social anxiety already present",
+    "changes": [],
+    "sources": [
+      "https://journals.sagepub.com/doi/10.1177/0956797618783714"
+    ]
+  },
+  {
+    "id": "relationships.online-dating-search",
+    "status": "fixed",
+    "reason": "Good safety plan and romance-scam no-money rule (matches FTC advice); lacked a route for threats/harassment",
+    "changes": [
+      "Added note to 'Personal dating safety plan': block, report, keep messages, call emergency number/police if in danger"
+    ],
+    "sources": [
+      "https://consumer.ftc.gov/articles/what-know-about-romance-scams",
+      "https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2023/02/romance-scammers-favorite-lies-exposed"
+    ]
+  },
+  {
+    "id": "relationships.early-dating-new-relationships",
+    "status": "fixed",
+    "reason": "Coercive-control project said 'contact a service' without naming one",
+    "changes": [
+      "Added domestic abuse signpost with UK (0808 2000 247) and US (1-800-799-7233) helplines to 'Recognising love bombing and early control' Notes"
+    ],
+    "sources": [
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "relationships.getting-over-a-breakup",
+    "status": "fixed",
+    "reason": "Crisis and abuse pointers present but no named lines",
+    "changes": [
+      "Added Samaritans 116 123 / 988 and domestic abuse helpline numbers to 'Wellbeing and safety check in the first fortnight' Notes"
+    ],
+    "sources": [
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/",
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "relationships.couple-conflict-repair",
+    "status": "fixed",
+    "reason": "Strong abuse screen and couples-counselling caveat already; lacked named helplines",
+    "changes": [
+      "Added domestic abuse signpost with UK (0808 2000 247) and US (1-800-799-7233) helplines to 'Checking that conflict is ordinary and safe' Notes"
+    ],
+    "sources": [
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/",
+      "https://www.thehotline.org/resources/should-i-go-to-couples-therapy-with-my-abusive-partner/"
+    ]
+  },
+  {
+    "id": "relationships.date-night-planning",
+    "status": "publish",
+    "reason": "Low-risk planning; no claims needing correction",
+    "changes": [],
+    "sources": [
+      "https://www.gottman.com/blog/the-magic-relationship-ratio-according-science/"
+    ]
+  },
+  {
+    "id": "relationships.deepening-close-friendships",
+    "status": "fixed",
+    "reason": "Friend-in-crisis project lacked crisis signpost; friendship-hours figures (about 50/200 hours) match Hall 2018",
+    "changes": [
+      "Added emergency number and Samaritans 116 123 / 988 note to 'Showing-up plan for when a friend hits trouble'"
+    ],
+    "sources": [
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/",
+      "https://journals.sagepub.com/doi/10.1177/0265407518761225"
+    ]
+  },
+  {
+    "id": "relationships.long-distance-relationship",
+    "status": "publish",
+    "reason": "Visa/immigration and tax items already deferred to official sources and regulated advisers; never-send-money and crisis-line notes present",
+    "changes": [],
+    "sources": [
+      "https://www.gov.uk/uk-family-visa",
+      "https://consumer.ftc.gov/articles/what-know-about-romance-scams",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "relationships.money-conversations-as-couple",
+    "status": "fixed",
+    "reason": "Money claims generalised to 'your country' with regulated adviser/lawyer referrals; financial-abuse note lacked named helpline",
+    "changes": [
+      "Added domestic abuse signpost with UK (0808 2000 247) and US (1-800-799-7233) helplines to 'Financial independence safeguards for both partners' Notes"
+    ],
+    "sources": [
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/",
+      "https://www.moneyhelper.org.uk/en/money-troubles/dealing-with-debt/how-to-get-free-debt-advice"
+    ]
+  },
+  {
+    "id": "relationships.difficult-conversations-loved-ones",
+    "status": "fixed",
+    "reason": "Intimidation note lacked a named route",
+    "changes": [
+      "Added domestic abuse signpost with UK (0808 2000 247) and US (1-800-799-7233) helplines to 'Staying steady when they cry, shout or go quiet' Notes"
+    ],
+    "sources": [
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "relationships.fair-division-of-household-labour",
+    "status": "publish",
+    "reason": "Organisational plan, no risky claims",
+    "changes": [],
+    "sources": [
+      "https://www.gottman.com/blog/the-magic-relationship-ratio-according-science/"
+    ]
+  },
+  {
+    "id": "relationships.long-term-partnership-check-ins",
+    "status": "fixed",
+    "reason": "Recommends couples counselling without abuse caveat; stop-rule note lacked named helpline",
+    "changes": [
+      "Added domestic abuse signpost with UK (0808 2000 247) and US (1-800-799-7233) helplines to 'Pause signal and stop rules for check-ins' Notes",
+      "Added couples-counselling-not-advised-where-abuse caveat to 'Deciding when a theme needs outside help'",
+      "Added same caveat (new Notes) to 'One-off relationship check-up with a counsellor'"
+    ],
+    "sources": [
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/",
+      "https://www.thehotline.org/resources/should-i-go-to-couples-therapy-with-my-abusive-partner/"
+    ]
+  },
+  {
+    "id": "relationships.love-languages-appreciation",
+    "status": "fixed",
+    "reason": "Control-pattern note lacked named helpline; Gottman 5:1 ratio claim checked",
+    "changes": [
+      "Added domestic abuse signpost with UK (0808 2000 247) and US (1-800-799-7233) helplines to 'Ending an appreciation drought after resentment' Notes"
+    ],
+    "sources": [
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/",
+      "https://www.gottman.com/blog/the-magic-relationship-ratio-according-science/"
+    ]
+  },
+  {
+    "id": "relationships.birthday-gift-tracker",
+    "status": "publish",
+    "reason": "Low-risk organisational plan",
+    "changes": [],
+    "sources": [
+      "https://www.ftc.gov/business-guidance/resources/gift-cards"
+    ]
+  },
+  {
+    "id": "relationships.conversation-small-talk-skills",
+    "status": "publish",
+    "reason": "Low-risk skills plan; social-anxiety project already points to doctor/therapist",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/mental-health/conditions/social-anxiety/"
+    ]
+  },
+  {
+    "id": "relationships.attachment-styles-relationships",
+    "status": "fixed",
+    "reason": "Abuse and crisis notes present but unnamed",
+    "changes": [
+      "Added domestic abuse signpost with UK (0808 2000 247) and US (1-800-799-7233) helplines to 'Deciding whether this relationship can meet your attachment needs' Notes",
+      "Added Samaritans 116 123 / 988 crisis line note to 'Working with a fearful-avoidant pattern and trauma history'"
+    ],
+    "sources": [
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "relationships.couples-shared-life-vision",
+    "status": "fixed",
+    "reason": "Couples-therapy referral lacked abuse caveat; visa/estate items already deferred to official sources/solicitor",
+    "changes": [
+      "Added couples-therapy-not-advised-where-abuse caveat and helpline numbers to 'Finding the dream behind a stuck disagreement'"
+    ],
+    "sources": [
+      "https://www.thehotline.org/resources/should-i-go-to-couples-therapy-with-my-abusive-partner/",
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "relationships.premarital-preparation",
+    "status": "fixed",
+    "reason": "Legal items (marriage effects, prenups, wills) correctly jurisdiction-neutral with separate lawyers; counselling choice lacked abuse caveat",
+    "changes": [
+      "Added domestic abuse signpost with UK (0808 2000 247) and US (1-800-799-7233) helplines to 'Dealbreakers and non-negotiables named honestly' Notes",
+      "Added note to 'Course, counsellor or self-guided preparation decision' that joint counselling is not the setting where one partner is afraid/controlled"
+    ],
+    "sources": [
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/",
+      "https://www.thehotline.org/resources/should-i-go-to-couples-therapy-with-my-abusive-partner/",
+      "https://www.gov.uk/government/publications/marital-property-agreements"
+    ]
+  },
+  {
+    "id": "relationships.best-man-bridesmaid-duties",
+    "status": "publish",
+    "reason": "Low-risk event plan; register-witness legal requirements left to officiant/local rules",
+    "changes": [],
+    "sources": [
+      "https://www.gov.uk/marriages-civil-partnerships"
+    ]
+  },
+  {
+    "id": "relationships.friendships-through-life-changes",
+    "status": "fixed",
+    "reason": "Abuse mention in separating-couple project lacked named helpline",
+    "changes": [
+      "Added domestic abuse signpost with UK (0808 2000 247) and US (1-800-799-7233) helplines to 'Staying friends with both halves of a separating couple' Notes"
+    ],
+    "sources": [
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "relationships.reconnecting-with-old-friends",
+    "status": "publish",
+    "reason": "Low-risk plan, no risky claims",
+    "changes": [],
+    "sources": [
+      "https://journals.sagepub.com/doi/10.1177/0265407518761225"
+    ]
+  },
+  {
+    "id": "relationships.staying-in-touch-across-time-zones",
+    "status": "publish",
+    "reason": "Low-risk organisational plan",
+    "changes": [],
+    "sources": [
+      "https://www.timeanddate.com/worldclock/meeting.html"
+    ]
+  },
+  {
+    "id": "relationships.social-calendar-balance",
+    "status": "publish",
+    "reason": "Purely organisational calendar plan; no health, legal or money claims needing correction",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/"
+    ]
+  },
+  {
+    "id": "relationships.introvert-social-energy-pacing",
+    "status": "publish",
+    "reason": "Energy-pacing plan correctly separates introversion from social anxiety and routes persistent low mood, burnout and anxiety to a doctor or therapist",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/mental-health/conditions/social-anxiety/",
+      "https://www.nhs.uk/mental-health/conditions/depression-in-adults/symptoms/"
+    ]
+  },
+  {
+    "id": "relationships.hosting-friends-at-home",
+    "status": "fixed",
+    "reason": "Hosting plan defers food-safety limits to the national agency and has a drunk-guest emergency plan; added anaphylaxis emergency step to allergy routine",
+    "changes": [
+      "Allergy routine: added NHS-style anaphylaxis steps (auto-injector, call emergency number)"
+    ],
+    "sources": [
+      "https://www.nhs.uk/conditions/anaphylaxis/",
+      "https://www.food.gov.uk/safety-hygiene/the-2-hour-4-hour-rule",
+      "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart"
+    ]
+  },
+  {
+    "id": "relationships.friend-group-gatherings-reunions",
+    "status": "publish",
+    "reason": "Organisational group-events plan; allergy handling says confirm with venue in writing, travel insurance/passport checks present",
+    "changes": [],
+    "sources": [
+      "https://www.food.gov.uk/safety-hygiene/food-allergy-and-intolerance",
+      "https://www.gov.uk/foreign-travel-insurance"
+    ]
+  },
+  {
+    "id": "relationships.anniversaries-milestone-celebrations",
+    "status": "publish",
+    "reason": "Celebration-planning plan with no risky claims; bereavement anniversary routes overwhelming grief to a doctor or bereavement service",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/"
+    ]
+  },
+  {
+    "id": "relationships.thoughtful-gestures-surprises",
+    "status": "publish",
+    "reason": "Low-risk gestures and gift plan; records allergies and dislikes, no health/legal/money claims beyond personal budgeting",
+    "changes": [],
+    "sources": [
+      "https://www.food.gov.uk/safety-hygiene/food-allergy-and-intolerance"
+    ]
+  },
+  {
+    "id": "relationships.couple-rituals-routines",
+    "status": "publish",
+    "reason": "Low-risk couple-ritual plan; reading pointers to family therapists/researchers, no outcome promises or risky instructions",
+    "changes": [],
+    "sources": [
+      "https://www.gottman.com/blog/the-importance-of-rituals-of-connection/"
+    ]
+  },
+  {
+    "id": "relationships.getting-on-with-in-laws",
+    "status": "fixed",
+    "reason": "Organisational family-relations plan with sensible notes; strengthened the safety signpost in the limiting-contact project",
+    "changes": [
+      "Limiting contact project: replaced generic safety line with emergency number plus UK 0808 2000 247 / US 1-800-799-7233 domestic abuse helplines (these cover family members, not only partners)"
+    ],
+    "sources": [
+      "https://www.gov.uk/guidance/domestic-abuse-how-to-get-help",
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "relationships.supporting-a-friend-in-crisis",
+    "status": "fixed",
+    "reason": "Well-structured peer-support plan with emergency-first notes; added named example crisis and domestic-abuse lines",
+    "changes": [
+      "Crisis numbers project: added Samaritans 116 123 (UK/IE) and 988 (US) examples",
+      "Safe contact in abusive relationship: added UK 0808 2000 247 and US 1-800-799-7233 helplines, both take calls from friends",
+      "After a suicide attempt: added note to call emergency/crisis line if friend cannot keep safe; clinical team leads",
+      "Asking about suicide: noted crisis lines also support worried friends"
+    ],
+    "sources": [
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/talk-us-phone/",
+      "https://www.fcc.gov/988-suicide-and-crisis-lifeline",
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "relationships.workplace-friendships",
+    "status": "publish",
+    "reason": "Defers to employer policy and HR in writing; routes bullying/harassment/discrimination to formal company routes and notes confidentiality limits",
+    "changes": [],
+    "sources": [
+      "https://www.acas.org.uk/handling-a-bullying-harassment-discrimination-complaint-at-work",
+      "https://www.eeoc.gov/harassment"
+    ]
+  },
+  {
+    "id": "relationships.friendship-fallouts-endings",
+    "status": "fixed",
+    "reason": "Already has a harassment safety project and crisis note; added named UK stalking helpline and crisis line examples",
+    "changes": [
+      "Harassment safety check: added National Stalking Helpline 0808 802 0300 (UK)",
+      "Stepping back from a friend in long crisis: added Samaritans 116 123 / 988 examples"
+    ],
+    "sources": [
+      "https://www.suzylamplugh.org/pages/category/national-stalking-helpline",
+      "https://assets.publishing.service.gov.uk/media/5a78965640f0b62b22cbb2ef/nsh-stalking-leaflet.pdf",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/talk-us-phone/"
+    ]
+  },
+  {
+    "id": "relationships.couples-counselling",
+    "status": "fixed",
+    "reason": "Already has a safety-check project saying couples work is not advised where there is fear or control; added named helplines and emergency steps",
+    "changes": [
+      "Safety check: added UK 0808 2000 247 and US 1-800-799-7233 example helplines",
+      "Flare-up plan: added get safe / call emergency number / helpline step to existing threats note",
+      "Reluctant partner: flagged anger, threats or control as a safety question first"
+    ],
+    "sources": [
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/",
+      "https://discernmentcounseling.com/",
+      "https://www.gottman.com/blog/what-is-flooding-and-how-to-cope/"
+    ]
+  },
+  {
+    "id": "relationships.intimacy-sex-life",
+    "status": "fixed",
+    "reason": "Sexual-health claims are cautious and route medical questions to clinicians (ED, pain, menopause, medicines, contraception); added coercion/abuse and trauma-support signposts",
+    "changes": [
+      "Consent project: added note that pressure/force/control is abuse, with emergency number and UK/US domestic abuse helplines",
+      "Sexual trauma project: added Samaritans, 988, Rape Crisis England and Wales 0808 500 2222 and RAINN 1-800-656-4673 examples"
+    ],
+    "sources": [
+      "https://www.nhs.uk/conditions/erectile-dysfunction/",
+      "https://www.bhf.org.uk/heart-matters-magazine/wellbeing/erectile-dysfunction",
+      "https://rapecrisis.org.uk/get-help/want-to-talk/",
+      "https://rapecrisis.org.uk/get-help/support-outside-of-england-wales/",
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "relationships.adult-sibling-relationships",
+    "status": "fixed",
+    "reason": "Already flags abuse/estrangement and crisis; added named helplines and crisis lines",
+    "changes": [
+      "Estranged sibling: added full domestic abuse signpost with UK/US helplines",
+      "Supporting a sibling through hard times: added Samaritans 116 123 / 988 examples"
+    ],
+    "sources": [
+      "https://www.gov.uk/guidance/domestic-abuse-how-to-get-help",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/talk-us-phone/",
+      "https://www.fcc.gov/988-suicide-and-crisis-lifeline"
+    ]
+  },
+  {
+    "id": "relationships.online-friendships-communities",
+    "status": "fixed",
+    "reason": "Strong online-safety content (scams, verification, public daytime meetups, under-18s with a parent, doxxing plan); added child-protection reporting route",
+    "changes": [
+      "Teenager online friends: added emergency number plus UK police/CEOP/NSPCC 0808 800 5000 and US police/NCMEC CyberTipline/Childhelp 1-800-422-4453 reporting routes"
+    ],
+    "sources": [
+      "https://www.nspcc.org.uk/keeping-children-safe/our-services/nspcc-helpline/",
+      "https://www.ceop.police.uk/Safety-Centre/",
+      "https://report.cybertip.org/",
+      "https://www.childhelp.org/hotline/",
+      "https://www.actionfraud.police.uk/a-z-of-fraud/romance-scams"
+    ]
+  },
+  {
+    "id": "relationships.lgbtq-relationships-chosen-family",
+    "status": "fixed",
+    "reason": "Legal topics (partnership recognition, wills, proxies, travel) are jurisdiction-neutral with lawyer referral; added partner/family abuse and crisis signpost",
+    "changes": [
+      "Affirming support contacts: added Galop UK LGBT+ domestic abuse helpline 0800 999 5428, US 1-800-799-7233, Samaritans 116 123 and 988"
+    ],
+    "sources": [
+      "https://galop.org.uk/get-help/helplines/",
+      "https://www.switchboard.org.uk/",
+      "https://www.thetrevorproject.org/get-help/",
+      "https://www.thehotline.org/",
+      "https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice"
+    ]
+  },
+  {
+    "id": "relationships.rebuilding-trust-after-infidelity",
+    "status": "fixed",
+    "reason": "Therapist-led, cautious plan with existing safety notes and clinic-led STI testing; added named crisis and abuse lines and the abuse caveat on joint therapy",
+    "changes": [
+      "First fortnight note: added Samaritans 116 123 / 988 and UK/US domestic abuse helplines",
+      "Interim household rules: added call emergency number if in danger",
+      "Affair recovery therapist: noted joint therapy generally not advised where there is fear, threats or violence"
+    ],
+    "sources": [
+      "https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/",
+      "https://discernmentcounseling.com/",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/talk-us-phone/",
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "relationships.divorce-separation-process",
+    "status": "fixed",
+    "reason": "Legal content is jurisdiction-neutral with a legal-information notice; the one country rule (England and Wales MIAM before court) is named and correct; added named helplines",
+    "changes": [
+      "Safety and coercion check: added UK 0808 2000 247 and US 1-800-799-7233 helplines",
+      "Support rhythm note: crisis wording expanded to emergency number plus Samaritans 116 123 / 988"
+    ],
+    "sources": [
+      "https://www.gov.uk/looking-after-children-divorce/mediation",
+      "https://www.familymediationcouncil.org.uk/family-mediation/assessment-meeting-miam/",
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "relationships.dating-as-a-single-parent",
+    "status": "fixed",
+    "reason": "Good child-safety foundations (no solo care early, child-protection guidance, court order checks via lawyer); added named child-protection and abuse routes",
+    "changes": [
+      "Partners who could be a risk to children: added NSPCC 0808 800 5000 / Childhelp 1-800-422-4453 and emergency number",
+      "Telling your ex: added domestic abuse safety signpost with UK/US helplines",
+      "First-date safety plan: added leave-and-call-emergency line and Clare's Law (England and Wales) right to ask"
+    ],
+    "sources": [
+      "https://www.gov.uk/government/publications/domestic-violence-disclosure-scheme-pilot-guidance/domestic-violence-disclosure-scheme-accessible",
+      "https://www.nspcc.org.uk/keeping-children-safe/our-services/nspcc-helpline/",
+      "https://www.childhelp.org/hotline/",
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/"
+    ]
+  },
+  {
+    "id": "relationships.dating-again-after-loss",
+    "status": "fixed",
+    "reason": "Thoughtful widowed-dating plan with scam safeguards and legal referral; added remarriage legal caveat, dating-safety and crisis signposts",
+    "changes": [
+      "Remarriage project: added note that in England and Wales marriage cancels an existing will and some survivor pensions/benefits change on remarriage; check with lawyer and providers",
+      "First-meeting safety plan: added emergency number and domestic abuse helplines",
+      "Sudden loss and monthly grief check-in: added Samaritans 116 123 / 988 crisis examples"
+    ],
+    "sources": [
+      "https://www.gov.uk/make-will/updating-your-will",
+      "https://www.actionfraud.police.uk/a-z-of-fraud/romance-scams",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/talk-us-phone/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "relationships.empty-nest-couple-reconnection",
+    "status": "fixed",
+    "reason": "Low-risk organisational couple plan with adviser referrals for money/property and a doctor check before harder exercise; named helplines added to existing safety and mood notes",
+    "changes": [
+      "Outside-help project: added UK/US domestic abuse helplines and emergency number to existing unsafe/controlled note",
+      "Missing the busy years: added Samaritans 116 123 / 988 to low-mood note"
+    ],
+    "sources": [
+      "https://refuge.org.uk/i-need-help-now/how-we-can-help-you/national-domestic-abuse-helpline/",
+      "https://www.thehotline.org/",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/talk-us-phone/",
+      "https://www.nhs.uk/mental-health/conditions/depression-in-adults/symptoms/"
+    ]
+  },
+  {
+    "id": "relationships.vow-renewal-planning",
+    "status": "publish",
+    "reason": "Correctly states a renewal usually has no legal effect and refers legal-status doubts to the registration office or a family lawyer; travel insurance caveat present",
+    "changes": [],
+    "sources": [
+      "https://www.gov.uk/marriages-civil-partnerships",
+      "https://www.humanists.uk/ceremonies/renewal-of-vows/"
+    ]
+  },
+  {
+    "id": "family-parenting.working-parent-juggle",
+    "status": "publish",
+    "reason": "Organisational plan; legal rights (flexible working, leave) already generalised to 'check where you work'; sickness exclusion deferred to setting rules.",
+    "changes": [],
+    "sources": [
+      "https://www.gov.uk/flexible-working",
+      "https://www.gov.uk/government/publications/health-protection-in-schools-and-other-childcare-facilities"
+    ]
+  },
+  {
+    "id": "family-parenting.parental-leave-planning",
+    "status": "publish",
+    "reason": "All entitlements (weeks, pay, notice, shared leave, unpaid leave, neonatal) generalised to official guidance where you live; disputes route to employment adviser/union with claim-deadline warning.",
+    "changes": [],
+    "sources": [
+      "https://www.gov.uk/maternity-pay-leave",
+      "https://www.gov.uk/shared-parental-leave-and-pay",
+      "https://www.gov.uk/parental-leave"
+    ]
+  },
+  {
+    "id": "family-parenting.childcare-nursery-arrangements",
+    "status": "fixed",
+    "reason": "UK funding and exclusion examples tightened to match gov.uk/UKHSA wording.",
+    "changes": [
+      "Reconfirmation note now names Tax-Free Childcare (UK) and England's free childcare for working parents, both every 3 months",
+      "Exclusion line corrected to 48 hours after the last bout of vomiting or diarrhoea"
+    ],
+    "sources": [
+      "https://www.gov.uk/tax-free-childcare",
+      "https://www.gov.uk/government/publications/health-protection-in-schools-and-other-childcare-facilities"
+    ]
+  },
+  {
+    "id": "family-parenting.baby-toddler-sleep",
+    "status": "publish",
+    "reason": "Safe sleep (back, firm flat cot clear of pillows/bumpers, room-share 6 months, no sofa sleeping, overheating) matches Lullaby Trust/NHS/AAP; settling methods under 6 months routed to health visitor; medicines to doctor/pharmacist; carries notice and shaking-baby safety line.",
+    "changes": [],
+    "sources": [
+      "https://www.lullabytrust.org.uk/baby-safety/safer-sleep-information/",
+      "https://www.nhs.uk/baby/caring-for-a-newborn/reduce-the-risk-of-sudden-infant-death-syndrome/",
+      "https://www.aap.org/en/patient-care/safe-sleep/"
+    ]
+  },
+  {
+    "id": "family-parenting.family-calendar-logistics",
+    "status": "publish",
+    "reason": "Purely organisational (shared calendar, mental load, logistics); no health, legal or money claims needing correction.",
+    "changes": [],
+    "sources": [
+      "https://www.gov.uk/school-term-holiday-dates"
+    ]
+  },
+  {
+    "id": "family-parenting.toddler-behaviour-tantrums",
+    "status": "publish",
+    "reason": "Calm, non-physical responses; 'never hit back'; time-out kept short and non-isolating; red flags (breath-holding with fainting, self-injury, skill loss) routed to health visitor/doctor; parent-at-limit line points to helpline/emergency services.",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/baby/babys-development/behaviour/temper-tantrums/",
+      "https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/Disciplining-Your-Child.aspx"
+    ]
+  },
+  {
+    "id": "family-parenting.potty-training",
+    "status": "publish",
+    "reason": "Readiness 18 months-3 years, no punishment/shaming, constipation and laxatives deferred to doctor, UTI warning signs, bedwetting after about five to doctor/continence service: all consistent with NHS guidance.",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/baby/babys-development/potty-training-and-bedwetting/how-to-potty-train/",
+      "https://www.nhs.uk/conditions/bedwetting/",
+      "https://www.nhs.uk/conditions/constipation/"
+    ]
+  },
+  {
+    "id": "family-parenting.childrens-health-appointments",
+    "status": "publish",
+    "reason": "Vaccinations checked against 'your country's current schedule' (no hard-coded schedule, so recent UK schedule changes don't date it); medicine doses follow label/pharmacist; carries health notice.",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/",
+      "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-age.html",
+      "https://www.nhs.uk/live-well/healthy-teeth-and-gums/taking-care-of-childrens-teeth/"
+    ]
+  },
+  {
+    "id": "family-parenting.school-holiday-childcare",
+    "status": "fixed",
+    "reason": "Funding schemes generalised with correct UK example; exclusion wording corrected; home-alone defers to local guidance.",
+    "changes": [
+      "Exclusion line corrected to 48 hours after the last bout of vomiting or diarrhoea"
+    ],
+    "sources": [
+      "https://www.gov.uk/tax-free-childcare",
+      "https://www.gov.uk/law-on-leaving-your-child-home-alone",
+      "https://www.gov.uk/government/publications/health-protection-in-schools-and-other-childcare-facilities"
+    ]
+  },
+  {
+    "id": "family-parenting.school-run-carpools",
+    "status": "publish",
+    "reason": "Car seat rules deferred to current local road safety authority; insurance/cost-sharing caveat present; vetting of paid helpers; organisational otherwise.",
+    "changes": [],
+    "sources": [
+      "https://www.gov.uk/child-car-seats-the-rules",
+      "https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats"
+    ]
+  },
+  {
+    "id": "family-parenting.positive-discipline-strategies",
+    "status": "publish",
+    "reason": "Explicit no-physical-punishment commitment (smacking unlawful in a growing number of countries is accurate, e.g. Scotland 2020, Wales 2022); persistent aggression and self-harm routed to doctor/urgent services same day.",
+    "changes": [],
+    "sources": [
+      "https://www.gov.wales/ending-physical-punishment-children",
+      "https://www.gov.scot/publications/children-equal-protection-assault-scotland-act-2019-guidance/",
+      "https://publications.aap.org/pediatrics/article/142/6/e20183112/37562/Effective-Discipline-to-Raise-Healthy-Children"
+    ]
+  },
+  {
+    "id": "family-parenting.parenting-approach-agreement",
+    "status": "fixed",
+    "reason": "Couples/family therapy project lacked a domestic-abuse caveat.",
+    "changes": [
+      "Added Notes to 'Family therapist for a persistent disagreement': joint sessions not advised where a partner is afraid, plus UK/US domestic abuse helplines and emergency number"
+    ],
+    "sources": [
+      "https://www.nationaldahelpline.org.uk/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "family-parenting.childrens-online-safety",
+    "status": "fixed",
+    "reason": "Grooming and sextortion plans said 'note the reporting route' without naming one; evidence step risked screenshotting sexual images.",
+    "changes": [
+      "Grooming response Notes: named UK (999/101, CEOP, NSPCC 0808 800 5000) and US (911, NCMEC CyberTipline 1-800-843-5678, Childhelp 1-800-422-4453) routes",
+      "Added rule: screenshot messages but never screenshot, save or forward a sexual image of a child",
+      "Sextortion Notes: named Report Remove (Childline/IWF, UK) and Take It Down (NCMEC, US) and advised reporting to police"
+    ],
+    "sources": [
+      "https://www.ceop.police.uk/Safety-Centre/",
+      "https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/remove-nude-image-shared-online/",
+      "https://takeitdown.ncmec.org/",
+      "https://www.missingkids.org/gethelpnow/cybertipline",
+      "https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/"
+    ]
+  },
+  {
+    "id": "family-parenting.kids-clubs-activities-schedule",
+    "status": "publish",
+    "reason": "Safeguarding questions (background checks, safeguarding lead, ratios), concussion requires medical assessment with no same-day return, open-water caveat; otherwise organisational.",
+    "changes": [],
+    "sources": [
+      "https://www.nspcc.org.uk/keeping-children-safe/sports-and-activities/",
+      "https://www.nhs.uk/conditions/head-injury-and-concussion/"
+    ]
+  },
+  {
+    "id": "family-parenting.childrens-birthday-parties",
+    "status": "publish",
+    "reason": "Allergy handling defers to parents and the child's allergy action plan; choking hazards (whole nuts, grapes cut lengthways) consistent with NHS; inflatable hire checks; alcohol rules deferred to local law.",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/baby/first-aid-and-safety/first-aid/how-to-stop-a-child-from-choking/",
+      "https://www.food.gov.uk/safety-hygiene/food-allergy-and-intolerance"
+    ]
+  },
+  {
+    "id": "family-parenting.sibling-rivalry-sharing",
+    "status": "fixed",
+    "reason": "Sibling bullying project lacked a named child-protection route.",
+    "changes": [
+      "Sibling bullying Notes: added emergency number and NSPCC (0808 800 5000, UK) / Childhelp (1-800-422-4453, US) for danger or worrying sexual behaviour between siblings"
+    ],
+    "sources": [
+      "https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/",
+      "https://www.childhelphotline.org/"
+    ]
+  },
+  {
+    "id": "family-parenting.family-emergency-plan",
+    "status": "publish",
+    "reason": "Guardianship routed to a lawyer with jurisdiction caveat; fire 'get out, stay out'; smoke/CO alarms; paediatric first aid via certified course; water storage and home-alone age deferred to official local authorities.",
+    "changes": [],
+    "sources": [
+      "https://www.gov.uk/government/publications/fire-safety-in-the-home",
+      "https://www.ready.gov/kit",
+      "https://www.gov.uk/law-on-leaving-your-child-home-alone",
+      "https://www.gov.uk/make-will/who-can-be-a-guardian"
+    ]
+  },
+  {
+    "id": "family-parenting.kids-household-jobs-chart",
+    "status": "publish",
+    "reason": "Adult-only jobs for blades/chemicals, cleaning products locked away with poisons-service signpost, supervised knife skills; no wage or legal claims.",
+    "changes": [],
+    "sources": [
+      "https://www.rospa.com/home-safety/advice/chemicals-poisons",
+      "https://www.nhs.uk/conditions/poisoning/"
+    ]
+  },
+  {
+    "id": "family-parenting.pocket-money-kids-money-lessons",
+    "status": "fixed",
+    "reason": "No fixed amounts or jurisdiction rules stated; child-work and tax rules deferred to government guidance; investing note already non-advice; added capital-at-risk sentence",
+    "changes": [
+      "Junior investment project: added that investments can fall as well as rise"
+    ],
+    "sources": [
+      "https://www.moneyhelper.org.uk/en/family-and-care/talking-money/teaching-children-about-money",
+      "https://www.gov.uk/child-employment",
+      "https://www.consumerfinance.gov/consumer-tools/money-as-you-grow/"
+    ]
+  },
+  {
+    "id": "family-parenting.family-traditions-rituals",
+    "status": "publish",
+    "reason": "Organisational plan about family rituals; no health, legal or money claims beyond generic co-parent courtesy",
+    "changes": [],
+    "sources": [
+      "https://www.unicef.org/parenting/child-development/importance-family-routines"
+    ]
+  },
+  {
+    "id": "family-parenting.family-meetings-decisions",
+    "status": "publish",
+    "reason": "Organisational family-meeting plan with no risky claims; private teen issues kept one-to-one",
+    "changes": [],
+    "sources": [
+      "https://www.cdc.gov/parenting-toddlers/communication/index.html"
+    ]
+  },
+  {
+    "id": "family-parenting.childhood-memories-keeping",
+    "status": "publish",
+    "reason": "Photo/keepsake organisation; sensible privacy (no passwords in notes, photo-sharing rules); no regulated claims",
+    "changes": [],
+    "sources": [
+      "https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/always-back-up-your-most-important-data"
+    ]
+  },
+  {
+    "id": "family-parenting.kids-time-with-grandparents",
+    "status": "fixed",
+    "reason": "Safety content (medicines, car seats, safe sleep, honey under one, first aid) correct and deferred to local guidance; added child-protection helplines to limited-contact project",
+    "changes": [
+      "Limited or supervised contact: added emergency number and NSPCC/Childhelp helplines"
+    ],
+    "sources": [
+      "https://www.nhs.uk/conditions/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/",
+      "https://www.rospa.com/home-safety/advice/child-safety/",
+      "https://www.gov.uk/child-car-seats-the-rules",
+      "https://www.gov.uk/national-insurance-credits/eligibility"
+    ]
+  },
+  {
+    "id": "family-parenting.extended-family-gatherings",
+    "status": "fixed",
+    "reason": "Food safety and allergies deferred to national agency; added abuse and child-protection signpost to the estranged-relatives project",
+    "changes": [
+      "Difficult relationships at gatherings: added domestic abuse helplines and NSPCC/Childhelp child-protection signpost"
+    ],
+    "sources": [
+      "https://www.food.gov.uk/safety-hygiene/cooking-for-groups",
+      "https://www.foodsafety.gov/",
+      "https://www.nationaldahelpline.org.uk/"
+    ]
+  },
+  {
+    "id": "family-parenting.dealing-with-bullying",
+    "status": "fixed",
+    "reason": "Sound school-process plan; added child-protection, crisis-line and image-removal signposting",
+    "changes": [
+      "Monthly wellbeing snapshot: added emergency number, Samaritans 116 123 / 988 and Childline 0800 1111",
+      "Police project: added child-protection signpost (NSPCC 0808 800 5000, Childhelp 1-800-422-4453)",
+      "Image sharing: named Report Remove (UK) and Take It Down (US), police for adult/sextortion, child-protection signpost",
+      "Adult bullying your child: added child-protection signpost"
+    ],
+    "sources": [
+      "https://www.nspcc.org.uk/keeping-children-safe/online-safety/online-reporting/",
+      "https://takeitdown.ncmec.org/resources-and-support/",
+      "https://childhelphotline.org/other-hotlines",
+      "https://www.gov.uk/report-child-abuse"
+    ]
+  },
+  {
+    "id": "family-parenting.puberty-growing-up-talks",
+    "status": "fixed",
+    "reason": "Puberty age ranges and see-a-doctor thresholds match NHS/NICE ranges and defer to local health service; added child-protection and eating-disorder signposts",
+    "changes": [
+      "Disclosure plan: named NSPCC 0808 800 5000, Childhelp 1-800-422-4453 and Childline 0800 1111",
+      "Body image project: added eating disorder charity signpost (Beat in the UK)"
+    ],
+    "sources": [
+      "https://www.nhs.uk/conditions/early-or-delayed-puberty/",
+      "https://www.nhs.uk/live-well/sexual-health/stages-of-puberty-what-happens-to-boys-and-girls/",
+      "https://www.nhs.uk/conditions/heavy-periods/",
+      "https://www.nspcc.org.uk/keeping-children-safe/online-safety/online-reporting/"
+    ]
+  },
+  {
+    "id": "family-parenting.co-parenting-after-separation",
+    "status": "fixed",
+    "reason": "Legal content already generic with 'ask a family law adviser where you live'; added travel-consent law note, abuse and crisis signposts",
+    "changes": [
+      "Taking children abroad: added note that travel without consent can be child abduction (England and Wales example incl. 28-day lives-with exception), check local rule",
+      "Safe handovers: added domestic abuse helplines (UK 0808 2000 247, US 1-800-799-7233) and that safety plans should be made with a specialist service",
+      "Mediation: added domestic abuse signpost alongside existing 'may not be suitable where there has been abuse'",
+      "Child refusing contact: added NSPCC/Childhelp numbers",
+      "Age effects and self-care projects: added crisis lines (Samaritans 116 123, 988)"
+    ],
+    "sources": [
+      "https://www.gov.uk/permission-take-child-abroad",
+      "https://www.nationaldahelpline.org.uk/",
+      "https://www.thehotline.org/",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "family-parenting.single-parent-juggling",
+    "status": "fixed",
+    "reason": "Benefits, leave, lodger and home-alone rules already generic ('rules differ by country'); added crisis-line numbers and domestic abuse signpost in the post-separation project",
+    "changes": [
+      "Monthly burnout check: added Samaritans 116 123 / 988 and emergency number",
+      "First six months after separation: added domestic abuse helplines (UK 0808 2000 247, US 1-800-799-7233)"
+    ],
+    "sources": [
+      "https://www.gov.uk/time-off-for-dependants",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://www.nationaldahelpline.org.uk/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "family-parenting.blended-step-family-life",
+    "status": "fixed",
+    "reason": "Step-parent legal status, name change, adoption and wills framed as jurisdiction-dependent with family lawyer; added child-protection and domestic abuse signposts",
+    "changes": [
+      "Monthly check-in: added child-protection helplines (NSPCC, Childhelp) and emergency number",
+      "Other-parent project: added domestic abuse helplines next to existing abuse/court-order note"
+    ],
+    "sources": [
+      "https://www.gov.uk/parental-rights-responsibilities",
+      "https://www.gov.uk/change-name-deed-poll/change-a-childs-name",
+      "https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/report/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "family-parenting.raising-neurodivergent-child",
+    "status": "publish",
+    "reason": "Assessment routes generic and clinician-led; no treatment claims; medicines, melatonin, weighted blankets and unproven therapies all deferred to clinicians; crisis notice present",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/conditions/autism/getting-diagnosed/how-to-get-diagnosed/",
+      "https://www.england.nhs.uk/personalisedcare/legal-rights-to-choice/",
+      "https://www.nhs.uk/conditions/attention-deficit-hyperactivity-disorder-adhd/treatment/"
+    ]
+  },
+  {
+    "id": "family-parenting.twins-multiples-parenting",
+    "status": "publish",
+    "reason": "Preterm figures (about 6 in 10 twins before 37 weeks; most triplets) and one-third of identical twins with separate placentas consistent with NHS/Twins Trust; safe sleep on back and cot-sharing deferred to health visitor; benefits generic",
+    "changes": [],
+    "sources": [
+      "https://twinstrust.org/information/pregnancy-and-birth/preparing-for-birth/prematurity.html",
+      "https://www.nhs.uk/pregnancy/your-pregnancy-care/antenatal-care-with-twins/",
+      "https://www.lullabytrust.org.uk/safer-sleep-advice/twins/",
+      "https://www.nhs.uk/pregnancy/finding-out/pregnant-with-twins/"
+    ]
+  },
+  {
+    "id": "family-parenting.child-leaving-home",
+    "status": "publish",
+    "reason": "Practical independence plan; tenancy, tax, credit and guarantor items framed as organisational with independent advice; health registration and consent-at-18 points accurate",
+    "changes": [],
+    "sources": [
+      "https://www.moneyhelper.org.uk/en/everyday-money/budgeting/beginners-guide-to-managing-your-money",
+      "https://www.gov.uk/register-with-a-gp",
+      "https://www.citizensadvice.org.uk/housing/renting-privately/"
+    ]
+  },
+  {
+    "id": "family-parenting.parenting-adult-children",
+    "status": "fixed",
+    "reason": "Money, gifts, loans, wills and guarantor items already defer to legal/tax advisers; added crisis line and abuse signpost to the addiction/mental illness project",
+    "changes": [
+      "Supporting a child with addiction or mental illness: added Samaritans 116 123 / 988 and domestic abuse helplines for parents afraid of an adult child"
+    ],
+    "sources": [
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/",
+      "https://www.gov.uk/inheritance-tax/gifts",
+      "https://www.nationaldahelpline.org.uk/"
+    ]
+  },
+  {
+    "id": "family-parenting.adoption-journey",
+    "status": "publish",
+    "reason": "Process described generically (agency, panel, court) with 'your country requires' wording, legal points deferred to agency/solicitor, accredited-agency rule for intercountry, emergency services for placement violence",
+    "changes": [],
+    "sources": [
+      "https://www.gov.uk/child-adoption",
+      "https://www.childwelfare.gov/topics/adoption/",
+      "https://www.hcch.net/en/instruments/conventions/specialised-sections/intercountry-adoption"
+    ]
+  },
+  {
+    "id": "family-parenting.foster-caring",
+    "status": "fixed",
+    "reason": "Fostering process, tax, allowances, staying-on and travel framed as 'where you live / ask your service'; one England-specific review timetable made explicit and corrected",
+    "changes": [
+      "Care plan reviews: timetable attributed to England and corrected to 20 working days / within 3 months / every 6 months, with 'set by law where you live'"
+    ],
+    "sources": [
+      "https://www.gov.uk/government/publications/children-act-1989-care-planning-placement-and-case-review",
+      "https://www.gov.uk/foster-carers/help-with-the-cost-of-fostering",
+      "https://www.gov.uk/government/publications/staying-put-arrangements-for-care-leavers-aged-18-years-and-above"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.generalised-anxiety-management",
+    "status": "fixed",
+    "reason": "Well grounded; GAD-7 used as measure not diagnosis; stepped-care wording tightened to NICE CG113",
+    "changes": [
+      "Crisis line numbers (Samaritans 116 123 UK/IE, 988 US) added to the existing crisis notes (doctor's appointment and high-anxiety-day projects)",
+      "Stepped care: medication now described as usually an SSRI offered as alternative to high-intensity therapy at step 3 or later, per NICE CG113 (was 'at several points')",
+      "Worry exposure milestone changed from 'ratings shown to fall' to 'ratings tracked and reviewed with your therapist' (no outcome promise)"
+    ],
+    "sources": [
+      "https://www.nice.org.uk/guidance/cg113/chapter/1-guidance",
+      "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder/overview/",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.low-mood-depression-support",
+    "status": "fixed",
+    "reason": "Two-week threshold matches NHS; antidepressants never changed without prescriber; PHQ use correct",
+    "changes": [
+      "Crisis line numbers (Samaritans 116 123 UK/IE, 988 US) added to the existing crisis note in the crisis-numbers project"
+    ],
+    "sources": [
+      "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/",
+      "https://www.nice.org.uk/guidance/ng222",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.therapy-counselling-journey",
+    "status": "fixed",
+    "reason": "Organisational plan; couples work already excluded where abuse",
+    "changes": [
+      "Crisis line numbers (Samaritans 116 123 UK/IE, 988 US) added to the existing crisis note (therapy agreement project)",
+      "Domestic abuse helplines (UK 0808 2000 247, US 1-800-799-7233) added to couples counselling notes"
+    ],
+    "sources": [
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/",
+      "https://www.nationaldahelpline.org.uk/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.emotional-regulation-skills",
+    "status": "fixed",
+    "reason": "Already has help thresholds and crisis project",
+    "changes": [
+      "Crisis line numbers (Samaritans 116 123 UK/IE, 988 US) added to the existing crisis note in the when-to-get-help project"
+    ],
+    "sources": [
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.worry-time-rumination-control",
+    "status": "fixed",
+    "reason": "Sound CBT worry-time content; written exposure has therapist/stop guidance",
+    "changes": [
+      "Crisis line numbers (Samaritans 116 123 UK/IE, 988 US) added to the existing crisis note in the professional-help threshold project"
+    ],
+    "sources": [
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/",
+      "https://www.nhs.uk/every-mind-matters/mental-health-issues/anxiety/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.mood-tracking-patterns",
+    "status": "fixed",
+    "reason": "PHQ-9/GAD-7 described as supporting clinician judgement, not diagnosis; self-experiments exclude medicines",
+    "changes": [
+      "Crisis line numbers (Samaritans 116 123 UK/IE, 988 US) added to the existing crisis note in the low-score rule project"
+    ],
+    "sources": [
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/",
+      "https://www.nhs.uk/mental-health/conditions/depression-in-adults/overview/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.breathwork-nervous-system",
+    "status": "fixed",
+    "reason": "Strong safety screening already (epilepsy, pregnancy, psychosis, breath holds, water); minor additions",
+    "changes": [
+      "Crisis line numbers (Samaritans 116 123 UK/IE, 988 US) added to the existing crisis note in the personal playbook project",
+      "Workshop/retreat notes: skip fast, forceful or breath-hold styles with epilepsy, heart condition, psychosis history or pregnancy unless doctor agrees"
+    ],
+    "sources": [
+      "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+      "https://www.epilepsy.org.uk/info/triggers",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.cbt-thought-record-practice",
+    "status": "fixed",
+    "reason": "First project already screens for severe depression/suicidality",
+    "changes": [
+      "Explicit crisis paragraph with Samaritans 116 123 / 988 added to first project's Notes"
+    ],
+    "sources": [
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/",
+      "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/cognitive-behavioural-therapy-cbt/overview/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.body-image-self-esteem",
+    "status": "fixed",
+    "reason": "Has red-flags project and weighing caution; named ED helplines added",
+    "changes": [
+      "Red flags project: Beat UK 0808 801 0677, ANAD US 1-888-375-7767 and crisis lines added",
+      "Mirror exposure: do it with a therapist if you may have an eating disorder or BDD"
+    ],
+    "sources": [
+      "https://www.beateatingdisorders.org.uk/get-information-and-support/get-help-for-myself/i-need-support-now/helplines/",
+      "https://anad.org/",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.social-anxiety-exposure-work",
+    "status": "fixed",
+    "reason": "Exposure framed with doctor/therapy routes; medication left to prescriber",
+    "changes": [
+      "Crisis line numbers (Samaritans 116 123 UK/IE, 988 US) added to the existing crisis note (doctor's appointment project)"
+    ],
+    "sources": [
+      "https://www.nice.org.uk/guidance/cg159",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.panic-attack-coping-plan",
+    "status": "fixed",
+    "reason": "Medical check first, benzodiazepine dependence flagged, interoceptive drills cleared for heart/lung/seizure/pregnancy",
+    "changes": [
+      "Crisis paragraph with Samaritans/988 added to medical check project",
+      "Deliberate over-breathing milestone now excludes epilepsy, heart/lung condition and pregnancy unless doctor agrees"
+    ],
+    "sources": [
+      "https://www.nice.org.uk/guidance/cg113/chapter/1-guidance",
+      "https://www.nhs.uk/mental-health/conditions/panic-disorder/",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.grief-bereavement-support",
+    "status": "fixed",
+    "reason": "Includes suicide-bereavement safety plan; no clinical claims of concern",
+    "changes": [
+      "Crisis line numbers (Samaritans 116 123 UK/IE, 988 US) added to the existing crisis notes (night helplines project and suicide bereavement project)"
+    ],
+    "sources": [
+      "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/grief-bereavement-loss/",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.loneliness-isolation-support",
+    "status": "fixed",
+    "reason": "Social prescribing claim correct; crisis note present",
+    "changes": [
+      "Crisis line numbers (Samaritans 116 123 UK/IE, 988 US) added to the existing crisis note (support numbers project)",
+      "'guaranteed small contact' changed to 'reliable small contact'"
+    ],
+    "sources": [
+      "https://www.england.nhs.uk/personalisedcare/social-prescribing/",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.anger-management",
+    "status": "fixed",
+    "reason": "Safety commitments project already advises against couples work where someone is afraid",
+    "changes": [
+      "Respect Phoneline 0808 802 4040 (UK) and DA helplines (UK/US) added to safety project",
+      "Domestic abuse signpost Notes added to co-parenting project",
+      "'guaranteed to provoke you' reworded"
+    ],
+    "sources": [
+      "https://respectphoneline.org.uk/",
+      "https://www.nationaldahelpline.org.uk/",
+      "https://www.thehotline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.health-anxiety-management",
+    "status": "fixed",
+    "reason": "Sound CBT-based plan; doctor-led throughout; added specific crisis signposting and emergency-symptom exception to wait rule",
+    "changes": [
+      "Added crisis line note (Samaritans 116 123 UK/Ireland, 988 US) to first project Notes",
+      "Wait-and-note rule: added exception for sudden/severe symptoms (chest pain, breathing difficulty, stroke signs, heavy bleeding) -> emergency number"
+    ],
+    "sources": [
+      "https://www.nhs.uk/mental-health/conditions/health-anxiety/",
+      "https://988lifeline.org/",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.life-transition-adjustment",
+    "status": "fixed",
+    "reason": "Organisational plan with a when-to-get-help project already; added specific crisis numbers",
+    "changes": [
+      "Added crisis line note (Samaritans 116 123, 988) to first project Notes"
+    ],
+    "sources": [
+      "https://988lifeline.org/",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.workplace-mental-health-adjustments",
+    "status": "fixed",
+    "reason": "Laws were generalised only; now names Equality Act 2010 (GB) and ADA (US) by country with correct thresholds, plus claim time-limit examples",
+    "changes": [
+      "Employment protections project: added Equality Act 2010 definition (substantial, long-term 12+ months; GB only, NI separate) and ADA (15+ employees, reasonable accommodation, EEOC)",
+      "Early conciliation project: added Acas early conciliation (GB) and EEOC 180/300-day charge limits (US), with check-current-limits instruction",
+      "Added crisis line note to first project Notes"
+    ],
+    "sources": [
+      "https://www.gov.uk/rights-disabled-person/employment",
+      "https://www.gov.uk/definition-of-disability-under-equality-act-2010",
+      "https://www.eeoc.gov/publications/depression-ptsd-other-mental-health-conditions-workplace-your-legal-rights",
+      "https://www.eeoc.gov/time-limits-filing-charge",
+      "https://www.acas.org.uk/early-conciliation"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.progressive-relaxation-body-scans",
+    "status": "fixed",
+    "reason": "Already has health check, trauma-sensitive and anxiety-on-relaxing cautions, no-driving rule; added crisis numbers",
+    "changes": [
+      "Added crisis line note to first project Notes"
+    ],
+    "sources": [
+      "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.mens-mental-health-check-ins",
+    "status": "fixed",
+    "reason": "Strong suicide-risk content (asking directly, crisis numbers project); made numbers concrete",
+    "changes": [
+      "Crisis numbers project: added Samaritans 116 123, Shout text 85258 (UK), 988 call/text (US)",
+      "Added crisis line note to first project Notes"
+    ],
+    "sources": [
+      "https://giveusashout.org/get-help/",
+      "https://988lifeline.org/",
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.seasonal-affective-disorder",
+    "status": "fixed",
+    "reason": "Already had clinician safety check for eyes/medicines/mania and medication handled by prescriber; added lux standard and bipolar caution at point of purchase",
+    "changes": [
+      "Choosing a lamp: added UK NHS 10,000 lux standard at maker's stated distance, UV-free, UKCA/CE mark; consult doctor first for eye conditions, photosensitising medicines, bipolar/mania history",
+      "Added crisis line note to first project Notes"
+    ],
+    "sources": [
+      "https://www.nhs.uk/mental-health/conditions/seasonal-affective-disorder-sad/treatment/",
+      "https://www.mayoclinic.org/tests-procedures/light-therapy/about/pac-20384604"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.phobia-exposure-therapy",
+    "status": "fixed",
+    "reason": "Good exposure plan with medical check, fainting/applied tension, prescriber-led medication; added when-to-get-professional-help and ED signpost",
+    "changes": [
+      "First project: added when to get professional help (comorbid panic/low mood/trauma, trauma-origin fear, no progress after weeks)",
+      "Emetophobia project: added Beat (UK) eating disorder charity signpost",
+      "Added crisis line note to first project Notes"
+    ],
+    "sources": [
+      "https://www.nhs.uk/mental-health/conditions/phobias/treatment/",
+      "https://www.beateatingdisorders.org.uk/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.attachment-inner-child-work",
+    "status": "fixed",
+    "reason": "Has pacing/grounding project and therapist-led exile work; added early trauma caution",
+    "changes": [
+      "First project: added caution to do the work with a therapist if childhood involved abuse/neglect/trauma or flashbacks/dissociation appear",
+      "Added crisis line note to first project Notes"
+    ],
+    "sources": [
+      "https://www.nhs.uk/mental-health/conditions/post-traumatic-stress-disorder-ptsd/treatment/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.peer-support-groups",
+    "status": "fixed",
+    "reason": "Thorough: crisis route separate from group, warns against groups discouraging medication, safe messaging; added specific numbers",
+    "changes": [
+      "Added crisis line note to first project Notes"
+    ],
+    "sources": [
+      "https://www.mind.org.uk/information-support/drugs-and-treatments/peer-support/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.climate-eco-anxiety",
+    "status": "fixed",
+    "reason": "Has when-to-get-help project with crisis line; added specific numbers",
+    "changes": [
+      "Added crisis line note to first project Notes"
+    ],
+    "sources": [
+      "https://www.samaritans.org/how-we-can-help/contact-samaritan/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.somatic-therapy-body-awareness",
+    "status": "fixed",
+    "reason": "Opens with a readiness check for trauma/dissociation/panic, titration limits, practitioner vetting and anti-hype warnings; added specific crisis numbers",
+    "changes": [
+      "Added crisis line note to first project Notes"
+    ],
+    "sources": [
+      "https://www.nice.org.uk/guidance/ng116",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.chronic-illness-emotional-coping",
+    "status": "fixed",
+    "reason": "Organisational coping plan; legal documents generalised by country; added specific crisis numbers",
+    "changes": [
+      "Added crisis line note to first project Notes"
+    ],
+    "sources": [
+      "https://www.nhs.uk/mental-health/conditions/depression-in-adults/",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "mental-wellbeing.autistic-wellbeing-sensory-needs",
+    "status": "fixed",
+    "reason": "Neuro-affirming, disclosure law generalised to advice service, restricted-diet and meltdown-safety cautions present; added specific crisis numbers",
+    "changes": [
+      "Added crisis line note to first project Notes"
+    ],
+    "sources": [
+      "https://www.autism.org.uk/advice-and-guidance/topics/mental-health",
+      "https://988lifeline.org/"
+    ]
+  },
+  {
+    "id": "physical-health.sexual-health-sti-testing",
+    "status": "fixed",
+    "reason": "Claims deferred to clinic/health service; PEP 72-hour limit correct; one outcome claim softened",
+    "changes": [
+      "HIV care routine: 'keeps your viral load undetectable' softened to 'helps keep'"
+    ],
+    "sources": [
+      "https://hivinfo.nih.gov/understanding-hiv/fact-sheets/post-exposure-prophylaxis-pep",
+      "https://findsexualhealth.org.uk/sexual-health-information/hiv-post-exposure-prophylaxis-pep",
+      "https://www.mtw.nhs.uk/wp-content/uploads/2018/08/HIV-PEP-info-sheet.pdf"
+    ]
+  },
+  {
+    "id": "physical-health.menstrual-health-endometriosis",
+    "status": "publish",
+    "reason": "Organisational plan; pain relief and missed doses deferred to pharmacist/leaflet; red-flag card from health service; PCOS 2-of-3 criteria (incl. AMH in adults, no ultrasound in early years) and 'seven years or more' diagnosis delay are accurate and hedged",
+    "changes": [],
+    "sources": [
+      "https://www.endometriosis-uk.org/",
+      "https://www.nhs.uk/conditions/endometriosis/",
+      "https://www.monash.edu/medicine/mchri/pcos/guideline"
+    ]
+  },
+  {
+    "id": "physical-health.medical-test-results-records",
+    "status": "publish",
+    "reason": "Records-organisation plan; no clinical instructions; interpretation deferred to ordering clinician; jurisdiction hedged (UK SAR example, 'rules differ by country')",
+    "changes": [],
+    "sources": [
+      "https://ico.org.uk/for-the-public/getting-copies-of-your-information-subject-access-request/",
+      "https://www.nhs.uk/using-the-nhs/about-the-nhs/how-to-access-your-health-records/"
+    ]
+  },
+  {
+    "id": "physical-health.prescription-medication-management",
+    "status": "publish",
+    "reason": "No dose changes anywhere; missed-dose rules taken from leaflet/pharmacist; stopping/deprescribing framed as clinician conversation with 'some must be reduced gradually' warnings; disposal via pharmacy",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/common-health-questions/medicines/what-should-i-do-if-i-miss-a-dose-of-my-medicine/",
+      "https://www.nhs.uk/common-health-questions/medicines/how-should-i-dispose-of-old-medicines/"
+    ]
+  },
+  {
+    "id": "physical-health.eye-health-vision-care",
+    "status": "fixed",
+    "reason": "Urgent eye red flags correct and deferred to local guidance; supplements and drops deferred to optometrist; recall interval wording made accurate and attributed",
+    "changes": [
+      "First project: 'every two years, more often after sixty' replaced with 'every two years (UK NHS advice), or more often if the optometrist recommends it, e.g. from about 70 or from 40 with a close relative who has glaucoma'"
+    ],
+    "sources": [
+      "https://www.ageuk.org.uk/information-advice/health-wellbeing/conditions-illnesses/eye-health/",
+      "https://www.aop.org.uk/advice-and-support/for-patients/sight-tests/nhs-funded-eye-sight-test-eligibility-and-voucher-guide",
+      "https://www.abdo.org.uk/eyecarefaq/at-the-eye-test/"
+    ]
+  },
+  {
+    "id": "physical-health.vaccination-schedule-tracking",
+    "status": "fixed",
+    "reason": "Jurisdiction-neutral throughout (always 'your country's current schedule', clinician decides catch-up); one baby-schedule statement made accurate across countries",
+    "changes": [
+      "First baby jabs project: added that some countries such as the US also give a hepatitis B dose at birth"
+    ],
+    "sources": [
+      "https://www.gov.uk/government/publications/the-complete-routine-immunisation-schedule",
+      "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-age.html",
+      "https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html"
+    ]
+  },
+  {
+    "id": "physical-health.chronic-back-neck-pain",
+    "status": "fixed",
+    "reason": "Exercise and medicines deferred to physio/pharmacist; red-flag card upgraded from 'same-day' to emergency care with full NHS cauda equina list; crisis line added",
+    "changes": [
+      "Red flag card: cauda equina signs (saddle/genital/buttock numbness, difficulty peeing, bladder/bowel loss, both-leg numbness/weakness) now say emergency care straight away, with UK NHS 'A&E or 999' attribution",
+      "Pain and mood project: added Samaritans 116 123 (UK/Ireland), 988 (US) and local emergency number"
+    ],
+    "sources": [
+      "https://www.nhs.uk/conditions/back-pain/",
+      "https://www.kch.nhs.uk/wp-content/uploads/2024/09/4139-Cauda-equina-syndrome-patient-Info-2024-v6_FINAL.pdf",
+      "https://www.nice.org.uk/guidance/ng59"
+    ]
+  },
+  {
+    "id": "physical-health.migraine-headache-management",
+    "status": "fixed",
+    "reason": "Doses/withdrawal/preventives all clinician-led; headache red-flag card correct (thunderclap, fever+stiff neck, neuro deficit, head injury, changed aura); added grounded MOH thresholds",
+    "changes": [
+      "Painkiller-day count project: added NICE CG150 medication-overuse thresholds (10+ days/month triptans, opioids, combination; 15+ days/month paracetamol, aspirin, NSAIDs, for 3+ months) with 'your clinician will say what applies'"
+    ],
+    "sources": [
+      "https://www.nice.org.uk/guidance/cg150/resources/could-painkillers-be-causing-your-headaches",
+      "https://www.rightdecisions.scot.nhs.uk/neurology-pathways/headache/medication-overuse-guidance/",
+      "https://www.nhs.uk/conditions/migraine/"
+    ]
+  },
+  {
+    "id": "physical-health.gut-health-ibs",
+    "status": "fixed",
+    "reason": "Red flags (blood, weight loss, nocturnal symptoms, change in habit later in life, dysphagia) align with NICE CG61; coeliac 'keep eating gluten before test' correct; FODMAP dietitian-led; medicines deferred; added eating-disorder caution earlier",
+    "changes": [
+      "First-line diet changes project: added eating-disorder caution with Beat signpost",
+      "Understanding FODMAPs project: added Notes with the same eating-disorder caution"
+    ],
+    "sources": [
+      "https://www.nice.org.uk/guidance/cg61",
+      "https://www.nhs.uk/conditions/irritable-bowel-syndrome-ibs/",
+      "https://www.nhs.uk/conditions/coeliac-disease/diagnosis/"
+    ]
+  },
+  {
+    "id": "physical-health.allergy-hay-fever-management",
+    "status": "fixed",
+    "reason": "Medicines, auto-injector need and immunotherapy all clinician/pharmacist-led; pollen seasons and decongestant short-term limits correct; added standard anaphylaxis first steps",
+    "changes": [
+      "Recognising anaphylaxis project: added Notes with NHS/Resus Council first steps (use prescribed adrenaline at first severe sign, call emergency number and say anaphylaxis, lie flat with legs raised or sit up if breathing hard)"
+    ],
+    "sources": [
+      "https://www.nhs.uk/conditions/anaphylaxis/",
+      "https://www.resus.org.uk/library/additional-guidance/guidance-anaphylaxis/emergency-treatment",
+      "https://www.nhs.uk/conditions/hay-fever/"
+    ]
+  },
+  {
+    "id": "physical-health.sun-safety-mole-monitoring",
+    "status": "publish",
+    "reason": "Claims match NHS/CDC/AAD: SPF 30+ with good UVA rating, protection at UV index 3+, reapply ~2 hours, babies under 6 months kept out of direct sun with health-visitor check, ABCDE + ugly duckling, prompt GP review of changing moles; vitamin D deferred to doctor",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/",
+      "https://www.nhs.uk/conditions/melanoma-skin-cancer/",
+      "https://www.cdc.gov/skin-cancer/prevention/index.html",
+      "https://www.aad.org/public/diseases/skin-cancer/find/at-risk/abcdes"
+    ]
+  },
+  {
+    "id": "physical-health.wearable-health-data",
+    "status": "fixed",
+    "reason": "Device data framed as trends to discuss, never diagnosis; emergency symptoms override devices; oximeter skin-tone limits and wrist sleep-staging limits accurate; health-anxiety project present; added eating-disorder caution to weight tracking",
+    "changes": [
+      "Smart scale project and weekly-average weight project: added eating-disorder caution with Beat signpost"
+    ],
+    "sources": [
+      "https://www.fda.gov/medical-devices/safety-communications/pulse-oximeter-accuracy-and-limitations-fda-safety-communication",
+      "https://www.nhs.uk/conditions/atrial-fibrillation/",
+      "https://www.beateatingdisorders.org.uk/"
+    ]
+  },
+  {
+    "id": "physical-health.home-first-aid-preparedness",
+    "status": "fixed",
+    "reason": "Skills deferred to accredited courses and official guidance; tourniquets only after training; added grounded CPR and burns figures",
+    "changes": [
+      "Hands-on CPR project: added Notes with RCUK 2025/AHA adult CPR core (call emergency number, 100-120 compressions/min, 5-6 cm, defibrillator ASAP; children/babies differ)",
+      "Burns project: added Notes with NHS advice (cool or lukewarm running water for 20 minutes, no ice/creams/butter)"
+    ],
+    "sources": [
+      "https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/adult-basic-life-support-guidelines",
+      "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines",
+      "https://www.nhs.uk/tests-and-treatments/first-aid/cpr/",
+      "https://www.nhs.uk/conditions/burns-and-scalds/treatment/"
+    ]
+  },
+  {
+    "id": "physical-health.cancer-screening-schedule",
+    "status": "fixed",
+    "reason": "Jurisdiction-neutral throughout (programme ages/intervals taken from 'your country'); stated ranges (bowel kit every 1-2 years, mammogram every 2-3 years, HPV every 3-5 years) correct across UK/US; PSA framed as shared decision; first-mammogram age corrected",
+    "changes": [
+      "First mammogram project: 'usually arrives around fifty' replaced with country examples (England NHS invites between 50 and 53; US USPSTF 2024 starts at 40)"
+    ],
+    "sources": [
+      "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening",
+      "https://www.nhs.uk/conditions/breast-screening-mammogram/",
+      "https://www.gov.uk/government/publications/cervical-screening-programme-overview",
+      "https://www.nhs.uk/conditions/bowel-cancer-screening/",
+      "https://www.nhs.uk/conditions/prostate-cancer/should-i-have-a-psa-test/"
+    ]
+  },
+  {
+    "id": "physical-health.physiotherapy-rehab-plans",
+    "status": "publish",
+    "reason": "All loads, pain limits and return-to-run criteria set by the physio; red flags (cauda equina-type signs, suspected fracture, DVT calf pain/swelling, breathlessness, chest pain) send to urgent care; tissue healing timelines accurately hedged",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/tests-and-treatments/physiotherapy/",
+      "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/",
+      "https://www.csp.org.uk/public-patient/rehabilitation-exercise"
+    ]
+  },
+  {
+    "id": "physical-health.specialist-referrals-waiting-lists",
+    "status": "publish",
+    "reason": "Organisational; rights generalised, England example (18-week RTT standard, legal right to choose) correctly labelled as England-only; worsening-symptoms plan defers to GP",
+    "changes": [],
+    "sources": [
+      "https://www.gov.uk/government/publications/the-nhs-constitution-for-england",
+      "https://www.nhs.uk/nhs-services/hospitals/guide-to-nhs-waiting-times-in-england/"
+    ]
+  },
+  {
+    "id": "physical-health.surgery-preparation",
+    "status": "publish",
+    "reason": "No fasting times or doses stated; medicines paused only per pre-op team/prescriber; clot, sepsis and complication red flags point to emergency care",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/tests-and-treatments/having-an-operation/",
+      "https://www.rcoa.ac.uk/patients/patient-information-resources/patient-information-leaflets-video-resources"
+    ]
+  },
+  {
+    "id": "physical-health.eczema-psoriasis-care",
+    "status": "publish",
+    "reason": "Steroid strength/quantity deferred to clinician and pharmacist; eczema herpeticum same-day red flag, paraffin emollient fire warning and wet-wrap caution present",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/conditions/atopic-eczema/treatment/",
+      "https://www.gov.uk/drug-safety-update/emollients-new-information-about-risk-of-severe-and-fatal-burns-with-paraffin-containing-and-paraffin-free-emollients"
+    ]
+  },
+  {
+    "id": "physical-health.hearing-health-tinnitus",
+    "status": "publish",
+    "reason": "WHO 80 dB for 40 hours/week adult guide and >25% of over-60s with hearing loss match WHO; sudden hearing loss urgent card; crisis signpost present",
+    "changes": [],
+    "sources": [
+      "https://www.who.int/news-room/fact-sheets/detail/deafness-and-hearing-loss",
+      "https://www.who.int/publications/i/item/9789241515276"
+    ]
+  },
+  {
+    "id": "physical-health.family-medical-history",
+    "status": "publish",
+    "reason": "Genetic-insurance rules generalised (GINA example correct: health insurance and employment only); medicine changes deferred to clinicians",
+    "changes": [],
+    "sources": [
+      "https://www.genome.gov/about-genomics/policy-issues/Genetic-Discrimination",
+      "https://www.abi.org.uk/data-and-resources/tools-and-resources/genetics/code-on-genetic-testing-and-insurance/"
+    ]
+  },
+  {
+    "id": "physical-health.mens-health-prostate",
+    "status": "fixed",
+    "reason": "Added country context for PSA testing and corrected urgency of testicular pain/urinary retention",
+    "changes": [
+      "PSA project Notes: UK informed-choice (no national screening, men over 50 can ask GP; 2026 UK NSC targeted BRCA2 recommendation pending government decision) and US USPSTF 2018 (55-69 individual decision, against routine screening 70+)",
+      "Urgent symptoms card: sudden severe testicular pain or inability to pass urine now 'emergency care straight away' instead of 'same-day care'"
+    ],
+    "sources": [
+      "https://www.nhs.uk/conditions/prostate-cancer/psa-testing/",
+      "https://news.cancerresearchuk.org/2026/05/28/uk-nsc-recommends-prostate-cancer-screening-for-men-with-a-brca2-gene-change-and-family-history-of-cancer/",
+      "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening",
+      "https://www.nhs.uk/conditions/testicle-pain/"
+    ]
+  },
+  {
+    "id": "physical-health.menopause-perimenopause-care",
+    "status": "fixed",
+    "reason": "Consistent with NICE NG23 (symptom-based diagnosis over 45, progestogen with oestrogen, absolute risk framing, POI); no dosing; crisis signpost strengthened",
+    "changes": [
+      "Mood check Notes: replaced generic same-day advice with emergency number and crisis lines (Samaritans 116 123 UK/IE, 988 US)"
+    ],
+    "sources": [
+      "https://www.nice.org.uk/guidance/ng23",
+      "https://www.nhs.uk/conditions/menopause/"
+    ]
+  },
+  {
+    "id": "physical-health.anaemia-iron-deficiency",
+    "status": "fixed",
+    "reason": "No iron doses stated; added explicit caution against self-starting iron without a test",
+    "changes": [
+      "Iron supplement form project Notes: do not start iron without a blood test, cause must be found, too much iron can harm; dose and course agreed with clinician/pharmacist"
+    ],
+    "sources": [
+      "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+      "https://cks.nice.org.uk/topics/anaemia-iron-deficiency/"
+    ]
+  },
+  {
+    "id": "physical-health.thyroid-condition-management",
+    "status": "publish",
+    "reason": "Levothyroxine timing and doses deferred to prescriber/pharmacist; 6-8 week retest matches NHS/NICE; antithyroid sore-throat red flag; warns against online T3/thyroid extract",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/medicines/levothyroxine/",
+      "https://www.nice.org.uk/guidance/ng145"
+    ]
+  },
+  {
+    "id": "physical-health.asthma-copd-care",
+    "status": "fixed",
+    "reason": "Action plans, technique checks, MART discussion, rescue pack and oxygen safety all clinician-led; one overstated figure softened",
+    "changes": [
+      "Spacer project: 'can roughly double the medicine' changed to 'can substantially increase the medicine' reaching the lungs"
+    ],
+    "sources": [
+      "https://www.asthmaandlung.org.uk/conditions/asthma/inhalers-medicines-treatments/spacers",
+      "https://www.nice.org.uk/guidance/ng245",
+      "https://www.nhs.uk/conditions/asthma/asthma-attack/"
+    ]
+  },
+  {
+    "id": "physical-health.foot-health-podiatry",
+    "status": "publish",
+    "reason": "Urgent foot signs card, diabetic daily check and annual risk assessment, caution on medicated corn plasters for diabetes/poor circulation all match NHS guidance",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/conditions/diabetes/complications/foot-problems/",
+      "https://www.nice.org.uk/guidance/ng19"
+    ]
+  },
+  {
+    "id": "physical-health.sleep-disorder-treatment",
+    "status": "fixed",
+    "reason": "CBT-I sleep restriction has contraindications and clinician sign-off; DVLA cited as UK example; tapering is prescriber-led; strengthened no-self-taper wording",
+    "changes": [
+      "Coming off long-term sleeping tablets Notes: added never stop or cut down on your own, sudden stopping can cause serious withdrawal, every step from prescriber"
+    ],
+    "sources": [
+      "https://www.nice.org.uk/guidance/ta922",
+      "https://www.gov.uk/guidance/excessive-sleepiness-assessing-fitness-to-drive",
+      "https://www.nhs.uk/conditions/insomnia/"
+    ]
+  },
+  {
+    "id": "physical-health.arthritis-joint-care",
+    "status": "publish",
+    "reason": "Septic joint/cauda-equina-type urgent card; painkillers and supplements reviewed with pharmacist; exercise via physiotherapist consistent with NICE NG226",
+    "changes": [],
+    "sources": [
+      "https://www.nice.org.uk/guidance/ng226",
+      "https://www.versusarthritis.org/about-arthritis/conditions/"
+    ]
+  },
+  {
+    "id": "physical-health.living-with-physical-disability",
+    "status": "fixed",
+    "reason": "Rights and funding generalised by country; added safeguarding and crisis signposts",
+    "changes": [
+      "Directing your own care: new Notes on abuse/neglect by carers with emergency number, UK council adult safeguarding team, US Adult Protective Services",
+      "First three months home: added low-mood note with emergency number and crisis lines (Samaritans 116 123, 988)"
+    ],
+    "sources": [
+      "https://www.gov.uk/report-safeguarding-issue",
+      "https://www.acl.gov/programs/elder-justice/adult-protective-services",
+      "https://www.nhs.uk/social-care-and-support/"
+    ]
+  },
+  {
+    "id": "physical-health.bone-density-osteoporosis",
+    "status": "publish",
+    "reason": "No calcium/vitamin D amounts stated (agreed with clinician/pharmacist); T-score definitions, DXA spacing, denosumab rebound, impact level per physio and safe bending match NOGG/ROS",
+    "changes": [],
+    "sources": [
+      "https://www.nogg.org.uk/full-guideline",
+      "https://theros.org.uk/information-and-support/",
+      "https://www.nhs.uk/conditions/osteoporosis/"
+    ]
+  },
+  {
+    "id": "food-nutrition.grocery-shopping-pantry-stock",
+    "status": "publish",
+    "reason": "Organisational shopping/stock plan; no health, legal or money-risk claims beyond unit-price checking.",
+    "changes": [],
+    "sources": [
+      "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely"
+    ]
+  },
+  {
+    "id": "food-nutrition.cooking-for-one",
+    "status": "fixed",
+    "reason": "Leftover-rice window said 'a day or two', longer than NHS/FSA 24-hour advice.",
+    "changes": [
+      "Rice note now says cool within about an hour, refrigerate and eat within 24 hours (UK NHS/FSA), or freeze"
+    ],
+    "sources": [
+      "https://www.foodstandards.gov.scot/consumers/food-safety/at-home/rice",
+      "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely"
+    ]
+  },
+  {
+    "id": "food-nutrition.knife-skills-kitchen-technique",
+    "status": "publish",
+    "reason": "Knife rules, cut first aid deferred to health service, chilli handling and food-safety temperatures deferred to national authority; all sound.",
+    "changes": [],
+    "sources": [
+      "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely"
+    ]
+  },
+  {
+    "id": "food-nutrition.macro-calorie-tracking",
+    "status": "fixed",
+    "reason": "Lacked an eating-disorder caution in the first project and at rapid weight-cut / physique / prolonged-deficit projects.",
+    "changes": [
+      "First project Notes: eating-disorder caution with stop rule and Beat signpost, placed before the 'Before you start' notice",
+      "Weight-class weigh-in Notes: rapid cutting can trigger disordered eating; talk to doctor, stop if distressing",
+      "Physique competition prep Notes: known disordered-eating/body-image risk; doctor first, stop and get help, Beat signpost",
+      "Diet break/reverse phase: added Notes on post-deficit bingeing/rigid rules, pause and see doctor or registered dietitian"
+    ],
+    "sources": [
+      "https://www.beateatingdisorders.org.uk/",
+      "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/"
+    ]
+  },
+  {
+    "id": "food-nutrition.plant-based-vegan-eating",
+    "status": "fixed",
+    "reason": "Strong nutrient content (B12, iodine, omega-3, iron, children, pregnancy all deferred to professionals and consistent with NHS); added ED caution as it removes food groups.",
+    "changes": [
+      "First project Notes: eating-disorder caution about cutting out food groups, with stop rule and Beat signpost"
+    ],
+    "sources": [
+      "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegan-diet/",
+      "https://www.bda.uk.com/resource/vegetarian-vegan-plant-based-diet.html",
+      "https://www.beateatingdisorders.org.uk/"
+    ]
+  },
+  {
+    "id": "food-nutrition.mediterranean-diet-transition",
+    "status": "fixed",
+    "reason": "Sound (alcohol not recommended for health, fish limits in pregnancy, clinician check for warfarin/kidney/diabetes); added brief ED mention.",
+    "changes": [
+      "Clinician conversation Notes: mention any eating-disorder history and stop if new food rules feel distressing"
+    ],
+    "sources": [
+      "https://www.gov.wales/sites/default/files/publications/2019-05/uk-chief-medical-officers-low-risk-drinking-guidelines.pdf",
+      "https://www.nhs.uk/live-well/eat-well/food-types/fish-and-shellfish-nutrition/"
+    ]
+  },
+  {
+    "id": "food-nutrition.kitchen-food-waste-reduction",
+    "status": "publish",
+    "reason": "Waste-reduction plan; rice and leftovers deferred to food safety agency advice.",
+    "changes": [],
+    "sources": [
+      "https://www.foodstandards.gov.scot/consumers/food-safety/at-home/rice",
+      "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely"
+    ]
+  },
+  {
+    "id": "food-nutrition.sugar-ultra-processed-reduction",
+    "status": "fixed",
+    "reason": "No numeric sugar limits stated (avoids error); clinician check and no-sugar-month already note disordered eating, but nothing early.",
+    "changes": [
+      "First project Notes: eating-disorder caution with stop rule and Beat signpost before the 'Before you start' notice"
+    ],
+    "sources": [
+      "https://www.who.int/news/item/04-03-2015-who-calls-on-countries-to-reduce-sugars-intake-among-adults-and-children",
+      "https://www.nhs.uk/live-well/eat-well/food-types/how-does-sugar-in-our-diet-affect-our-health/",
+      "https://www.beateatingdisorders.org.uk/"
+    ]
+  },
+  {
+    "id": "food-nutrition.bread-sourdough-baking",
+    "status": "publish",
+    "reason": "No health/digestibility claims for sourdough; raw flour/dough caution present; temperatures are baking technique only.",
+    "changes": [],
+    "sources": [
+      "https://www.food.gov.uk/safety-hygiene/raw-flour"
+    ]
+  },
+  {
+    "id": "food-nutrition.specialty-coffee-brewing",
+    "status": "publish",
+    "reason": "Caffeine project defers limits to doctor/midwife for pregnancy, heart conditions and medicines; no wrong numbers.",
+    "changes": [],
+    "sources": [
+      "https://www.tommys.org/caffeine",
+      "https://www.efsa.europa.eu/en/topics/topic/caffeine"
+    ]
+  },
+  {
+    "id": "food-nutrition.dinner-party-hosting-menus",
+    "status": "publish",
+    "reason": "Allergy handling defers to guest, food left out about two hours per food safety authority, alcohol-free options included.",
+    "changes": [],
+    "sources": [
+      "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely"
+    ]
+  },
+  {
+    "id": "food-nutrition.cooking-world-cuisines",
+    "status": "publish",
+    "reason": "Cooking technique and shopping plan; no risky claims found.",
+    "changes": [],
+    "sources": [
+      "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely"
+    ]
+  },
+  {
+    "id": "food-nutrition.spice-flavour-building",
+    "status": "publish",
+    "reason": "Botulism warning for garlic/herbs in oil present; medical restrictions deferred to clinician.",
+    "changes": [],
+    "sources": [
+      "https://www.food.gov.uk/safety-hygiene/botulism"
+    ]
+  },
+  {
+    "id": "food-nutrition.homemade-pasta-pizza",
+    "status": "publish",
+    "reason": "Carbonara egg caution for vulnerable groups, outdoor-only gas pizza ovens (CO and fire), allergen-separate peels; sound.",
+    "changes": [],
+    "sources": [
+      "https://www.food.gov.uk/safety-hygiene/eggs-and-egg-products"
+    ]
+  },
+  {
+    "id": "food-nutrition.seasonal-produce-cooking",
+    "status": "publish",
+    "reason": "Foraging restricted to guided walk with never-eat-from-app rule; otherwise organisational.",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/conditions/poisoning/"
+    ]
+  },
+  {
+    "id": "food-nutrition.intuitive-eating-practice",
+    "status": "publish",
+    "reason": "Already has a dedicated eating-disorder screen/support project, helpline saved, dietitian/therapist advised, fear-food work with professional where severe, postnatal and medical-condition caveats.",
+    "changes": [],
+    "sources": [
+      "https://www.beateatingdisorders.org.uk/"
+    ]
+  },
+  {
+    "id": "food-nutrition.food-hygiene-safe-storage",
+    "status": "publish",
+    "reason": "Fridge 5C or below with 4C variant noted, freezer -18C, danger zone 8-63C, cooling within two hours, rice within an hour and 24 hours, reheat once steaming hot, defrost methods, formula 70C; all match FSA/NHS.",
+    "changes": [],
+    "sources": [
+      "https://www.food.gov.uk/business-guidance/chilling-food-correctly-in-your-business",
+      "https://www.gov.uk/government/publications/how-to-chill-freeze-and-defrost-food-safely/how-to-chill-freeze-and-defrost-food-safely",
+      "https://www.foodstandards.gov.scot/consumers/food-safety/at-home/rice",
+      "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/bottle-feeding/making-up-baby-formula/"
+    ]
+  },
+  {
+    "id": "food-nutrition.cocktail-mocktail-making",
+    "status": "publish",
+    "reason": "Household limit uses national guideline with alcohol-free days, no alcohol in pregnancy, raw egg white swapped for pasteurised/aquafaba for vulnerable guests, dry ice and drivers covered.",
+    "changes": [],
+    "sources": [
+      "https://www.gov.wales/sites/default/files/publications/2019-05/uk-chief-medical-officers-low-risk-drinking-guidelines.pdf",
+      "https://www.nhs.uk/pregnancy/keeping-well/drinking-alcohol-while-pregnant/"
+    ]
+  },
+  {
+    "id": "food-nutrition.barbecue-live-fire-cooking",
+    "status": "publish",
+    "reason": "Never indoors/garage/tent (CO), extinguisher/blanket, gas leak soapy test, no lighter fluid, doneness by national minimum temperatures; sound.",
+    "changes": [],
+    "sources": [
+      "https://www.food.gov.uk/safety-hygiene/barbecues",
+      "https://www.gov.uk/government/publications/carbon-monoxide-poisoning"
+    ]
+  },
+  {
+    "id": "food-nutrition.cakes-pastry-desserts",
+    "status": "fixed",
+    "reason": "Low risk baking plan; hot-sugar burns routine, raw flour/egg warning for children, guest allergy checks, cream desserts chilled, home cake selling flagged as a regulated food business with local authority; raw egg in mousse for vulnerable groups not covered.",
+    "changes": [
+      "Added raw-egg note to Entremet project: for pregnant, young, older or immunocompromised guests use UK British Lion eggs or pasteurised eggs/cooked-egg method"
+    ],
+    "sources": [
+      "https://www.food.gov.uk/safety-hygiene/eggs-advice",
+      "https://www.food.gov.uk/business-guidance/starting-a-food-business",
+      "https://www.food.gov.uk/safety-hygiene/flour"
+    ]
+  },
+  {
+    "id": "food-nutrition.holiday-feast-cooking",
+    "status": "fixed",
+    "reason": "Bird thawing and probe temperature deferred to food safety agency, fridge defrosting, guest allergy survey, child plates per child health service; barbecue suggested as extra capacity without carbon monoxide warning.",
+    "changes": [
+      "Added carbon monoxide warning (barbecues outdoors only, never indoors/garage/tent) and probe check to Extra oven and hob capacity decision"
+    ],
+    "sources": [
+      "https://www.food.gov.uk/safety-hygiene/christmas-food-safety",
+      "https://www.food.gov.uk/safety-hygiene/cooking-your-food",
+      "https://www.nhs.uk/conditions/carbon-monoxide-poisoning/",
+      "https://www.rospa.com/home-safety/advice/general/barbecue-safety"
+    ]
+  },
+  {
+    "id": "food-nutrition.restaurant-wishlist-dining-out",
+    "status": "publish",
+    "reason": "Organisational dining-out plan; allergies recorded in the person own words and diners with serious allergies speak to the restaurant themselves; tipping described as varying by country (15-20 percent only as one example norm) with a check of local custom.",
+    "changes": [],
+    "sources": [
+      "https://www.food.gov.uk/safety-hygiene/food-allergy-and-intolerance",
+      "https://www.gov.uk/government/publications/tipping-gratuities-cover-and-service-charges"
+    ]
+  },
+  {
+    "id": "food-nutrition.kitchen-equipment-layout",
+    "status": "publish",
+    "reason": "Equipment/layout plan; electrical checks visual only with qualified electrician, gas and hard-wired appliances by registered engineer, product recall registers, pressure cooker safe use per manual, child-safe layout project; no portable/indoor combustion advice.",
+    "changes": [],
+    "sources": [
+      "https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/overloading-sockets/",
+      "https://www.gassaferegister.co.uk/",
+      "https://www.gov.uk/product-safety-alerts-reports-recalls"
+    ]
+  },
+  {
+    "id": "food-nutrition.shared-family-mealtimes",
+    "status": "publish",
+    "reason": "Mealtime routines plan; no weight/calorie content, health-service choking guidance and never leave a baby alone in a high chair, friends allergies checked with parents, child restricting food or losing weight referred to doctor.",
+    "changes": [],
+    "sources": [
+      "https://www.nhs.uk/baby/weaning-and-feeding/food-allergies-in-babies-and-young-children/",
+      "https://www.food.gov.uk/safety-hygiene/choking-hazards"
+    ]
+  },
+  {
+    "id": "food-nutrition.school-packed-lunches",
+    "status": "publish",
+    "reason": "School rules (nut-free sites) checked per school; grapes and cherry tomatoes cut lengthways for younger children with health-service choking guidance; ice packs and flask preheat food safety; allergy care plan from clinician shared with school; rice cooling deferred to food safety authority; no calorie targets.",
+    "changes": [],
+    "sources": [
+      "https://www.food.gov.uk/safety-hygiene/choking-hazards",
+      "https://www.nhs.uk/baby/first-aid-and-safety/first-aid/how-to-stop-a-child-from-choking/",
+      "https://www.food.gov.uk/safety-hygiene/food-allergy-and-intolerance"
+    ]
+  },
+  {
+    "id": "food-nutrition.feeding-fussy-eating-children",
+    "status": "fixed",
+    "reason": "Responsive-feeding approach (no pressure/rewards), early growth check, choking vs gagging first aid, no self-chosen vitamin doses, teen ED signpost, dietitian/OT/SLT referral and ARFID assessment projects; ARFID only named late.",
+    "changes": [
+      "Added early ARFID signpost (signs, ask your doctor, Beat guidance) to Growth and warning signs check"
+    ],
+    "sources": [
+      "https://www.nhs.uk/conditions/avoidant-restrictive-food-intake-disorder-arfid/",
+      "https://www.beateatingdisorders.org.uk/get-information-and-support/about-eating-disorders/types/arfid/",
+      "https://www.nhs.uk/conditions/baby/weaning-and-feeding/fussy-eaters/"
+    ]
+  },
+  {
+    "id": "food-nutrition.family-recipe-collection",
+    "status": "publish",
+    "reason": "Archiving plan; includes a project to flag risky old methods (raw egg for toddlers, untested bottling, poultry by eye) and says allergy/coeliac variants are records not safety promises, deferring to clinician advice.",
+    "changes": [],
+    "sources": [
+      "https://www.food.gov.uk/safety-hygiene/eggs-advice",
+      "https://nchfp.uga.edu/how/can/general-information/"
+    ]
+  },
+  {
+    "id": "food-nutrition.intermittent-fasting-schedule",
+    "status": "fixed",
+    "reason": "Eating-disorder caution already early and clear in project 1 (with pregnancy, under-18, type 1, insulin exclusions); longer fasts gated to clinician; added charity signpost to stop rules.",
+    "changes": [
+      "Added stop-if-distressing note with Beat signpost to Your reasons and stop rules for fasting"
+    ],
+    "sources": [
+      "https://www.beateatingdisorders.org.uk/",
+      "https://www.nhs.uk/live-well/healthy-weight/managing-your-weight/"
+    ]
+  },
+  {
+    "id": "food-nutrition.wine-food-pairing",
+    "status": "fixed",
+    "reason": "Pairing content is non-risky; health-service alcohol guidance referenced in later projects, non-drinking driver for winery trips, non-alcoholic option at dinner parties, alcohol retention in cooking for children, wine investment excluded; no early alcohol/pregnancy/driving guidance.",
+    "changes": [
+      "Added note to first project: UK CMO 14 units/week spread over 3+ days, no alcohol in pregnancy or when trying to conceive (alcohol-free alternative), no driving after tasting, check medicine interactions"
+    ],
+    "sources": [
+      "https://www.gov.uk/government/publications/alcohol-consumption-advice-on-low-risk-drinking",
+      "https://www.nhs.uk/live-well/alcohol-advice/the-risks-of-drinking-too-much/",
+      "https://www.nhs.uk/pregnancy/keeping-well/drinking-alcohol-while-pregnant/"
+    ]
+  },
+  {
+    "id": "food-nutrition.fermenting-preserving",
+    "status": "fixed",
+    "reason": "Botulism handling correct: tested recipes only, low-acid foods need a pressure canner (not multicookers), no invented times, altitude adjustment, 5% vinegar, no home vinegar for shelf-stable pickles, pregnancy/immunocompromised project; garlic-in-oil rule and named sources were missing.",
+    "changes": [
+      "Named USDA Complete Guide to Home Canning and National Center for Home Food Preservation as tested sources",
+      "Added garlic/herbs-in-oil botulism rule (fridge, use within days, or freeze) to the first project"
+    ],
+    "sources": [
+      "https://nchfp.uga.edu/how/can/general-information/",
+      "https://nchfp.uga.edu/resources/entry/flavored-vinegars-and-oils",
+      "https://www.cdc.gov/botulism/prevention/home-canning.html"
+    ]
+  },
+  {
+    "id": "food-nutrition.meat-fish-butchery-prep",
+    "status": "fixed",
+    "reason": "Food safety deferred to national agency (temps, fridge/freezer times), no washing raw chicken, raw fish parasites and freezing, pregnant guests and raw shellfish noted, child rules; rare meat for vulnerable groups not addressed.",
+    "changes": [
+      "Added note to Doneness temperature card: rare/pink only for healthy adults; pregnant, young children, older and immunocompromised people follow agency advice (NHS: cook thoroughly, no pink); burgers/mince always cooked through"
+    ],
+    "sources": [
+      "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/",
+      "https://www.food.gov.uk/safety-hygiene/cooking-your-food",
+      "https://www.food.gov.uk/safety-hygiene/raw-or-less-than-thoroughly-cooked-burgers"
+    ]
+  },
+  {
+    "id": "food-nutrition.coeliac-gluten-free-eating",
+    "status": "fixed",
+    "reason": "Test-before-cutting-gluten, 20 ppm gluten-free threshold, oats via dietitian, relatives testing all correct; added NICE NG20 specifics and ED caution.",
+    "changes": [
+      "Added NICE NG20 guidance (gluten in more than one meal daily for at least 6 weeks before testing; keep eating gluten until specialist confirms) to Confirming coeliac disease",
+      "Added eating-disorder/food-anxiety caution with Beat signpost to First dietitian appointment preparation"
+    ],
+    "sources": [
+      "https://www.nice.org.uk/guidance/ng20/chapter/Recommendations",
+      "https://www.nice.org.uk/guidance/qs134/chapter/Quality-statement-1-Serological-testing-for-coeliac-disease",
+      "https://www.food.gov.uk/business-guidance/packaging-and-labelling",
+      "https://www.coeliac.org.uk/information-and-support/your-gluten-free-diet/oats/"
+    ]
+  },
+  {
+    "id": "food-nutrition.low-fodmap-gut-friendly-diet",
+    "status": "fixed",
+    "reason": "Dietitian-led, coeliac testing before diet change, red flags, 2-6 week elimination, child elimination only with paediatric dietitian, garlic-oil botulism warning; ED caution was only in a late project.",
+    "changes": [
+      "Added early eating-disorder caution with Beat signpost to Goals, start date and stop rules for the elimination",
+      "Named the Monash University FODMAP Diet app as the lab-tested guide"
+    ],
+    "sources": [
+      "https://www.monashfodmap.com/about-fodmap-and-ibs/starting-the-fodmap-diet/",
+      "https://www.nice.org.uk/guidance/cg61",
+      "https://www.beateatingdisorders.org.uk/"
+    ]
+  },
+  {
+    "id": "food-nutrition.halal-kosher-kitchen",
+    "status": "fixed",
+    "reason": "Accurate and appropriately deferential: household standard set with imam/rabbi, certifier variation (stunning, machine slaughter), correct E-numbers (E441, E120, E542, E904, E920, E471), kosher label codes (D, DE, M, P = Passover not pareve), meat-dairy waiting customs 1/3/6 hours, never stop medicines over ingredients; qurbani lacked slaughter-law caution.",
+    "changes": [
+      "Added note to Qurbani project: slaughter is regulated; in the UK meat shared beyond the owner household or unstunned slaughter must go through an approved slaughterhouse; book only via a provider using one and check local rules"
+    ],
+    "sources": [
+      "https://www.food.gov.uk/safety-hygiene/home-slaughter-of-livestock-a-guide-to-the-law-in-england-and-wales-practical-examples",
+      "https://www.legislation.gov.uk/uksi/2015/1782/schedule/3",
+      "https://www.food.gov.uk/business-guidance/approved-additives-and-e-numbers",
+      "https://oukosher.org/blog/consumer-kosher/what-do-the-d-and-p-on-kosher-labels-mean/"
+    ]
+  },
+  {
+    "id": "food-nutrition.keto-low-carb-eating",
+    "status": "fixed",
+    "reason": "Strong medical framing (type 1/SGLT2 ketoacidosis, medicines, pregnancy, medical keto for children via specialist team only); eating-disorder mention was only a milestone item, made explicit.",
+    "changes": [
+      "Added explicit eating-disorder caution with stop-if-distressing and Beat signpost to the first project (Medical safety check)"
+    ],
+    "sources": [
+      "https://www.nhs.uk/conditions/type-1-diabetes/",
+      "https://www.gov.uk/drug-safety-update/sglt2-inhibitors-updated-advice-on-the-risk-of-diabetic-ketoacidosis",
+      "https://www.beateatingdisorders.org.uk/"
+    ]
+  },
+  {
+    "id": "food-nutrition.vitamins-supplements-review",
+    "status": "fixed",
+    "reason": "No individual doses; defers to health service and pharmacist; interactions, child-safe iron storage, upper limits, recalls, surgery, bariatric all handled; pregnancy guidance was missing.",
+    "changes": [
+      "Added pregnancy note to Upper limits project: NHS 400 mcg folic acid before conception to 12 weeks (higher dose only if doctor advises), avoid vitamin A/retinol and fish liver oil supplements, tell midwife about all products"
+    ],
+    "sources": [
+      "https://www.nhs.uk/pregnancy/keeping-well/vitamins-supplements-and-nutrition/",
+      "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+      "https://www.nhs.uk/conditions/vitamins-and-minerals/iron/"
+    ]
+  },
+  {
+    "id": "food-nutrition.nutrition-for-older-adults",
+    "status": "fixed",
+    "reason": "Strong: MUST screening named, protein amount via dietitian (kidney caveat), fluid target via doctor, dysphagia/thickener only after assessment, supplement drinks via professional, listeria-risk foods; added NHS vitamin D public-health advice.",
+    "changes": [
+      "Added attributed UK NHS 10 microgram vitamin D advice (autumn/winter; all year for housebound, care home, covered skin) with pharmacist check to Calcium and vitamin D food audit"
+    ],
+    "sources": [
+      "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+      "https://www.bapen.org.uk/must-and-self-screening/must-toolkit/",
+      "https://www.nhs.uk/conditions/malnutrition/"
+    ]
+  }
+]

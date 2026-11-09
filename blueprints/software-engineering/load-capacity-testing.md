@@ -4,7 +4,7 @@ name: Load & Capacity Testing
 description: "Realistic workload models, a test environment you can trust, stress, soak and spike tests, capacity forecasts with headroom, and the rehearsals that get a system through launches and peaks."
 category: business
 version: 1.0.0
-tags: [software-engineering, load-capacity-testing, engineer, team, load-testing, capacity-planning, stress-testing, autoscaling]
+tags: [software-engineering, load-capacity-testing, engineer, team, load-testing, capacity-planning, stress-testing, autoscaling, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Inventory of traffic-critical user flows
               description: |-
                 ## Purpose
-                Load tests that hit the home page and a health check prove almost nothing, because systems fall over on checkout, search, login and the report someone runs at 9am. Listing the five to ten flows that carry revenue or trust, with the endpoints each one calls, tells every later test what it must exercise.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Load tests that hit the home page and a health check prove almost nothing, because systems fall over on checkout, search, login and the report someone runs at 9am. Listing the five to ten flows that carry revenue or trust, with the endpoints each one calls, tells every later test what it must exercise.
 
                 ## Milestones
                 1. A list of five to ten flows ranked by business impact if they slowed or failed.

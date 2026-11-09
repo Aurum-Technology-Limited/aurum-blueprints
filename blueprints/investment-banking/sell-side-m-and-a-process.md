@@ -4,7 +4,7 @@ name: Sell-Side M&A Process
 description: "A sale process you can run end to end: mandate and engagement terms, readiness and timetable, buyer outreach and NDAs, client steering, price mechanics, SPA terms and a controlled path to signing."
 category: business
 version: 1.0.0
-tags: [investment-banking, sell-side-m-and-a-process, knowledge-worker, m-and-a, sell-side, auction, deal-execution, process-management]
+tags: [investment-banking, sell-side-m-and-a-process, knowledge-worker, m-and-a, sell-side, auction, deal-execution, process-management, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Sell-side process map from mandate to signing
               description: |-
                 ## Purpose
-                Most bankers learn a sale process one urgent task at a time, which is why they cannot explain to a client what happens in week nine. A one-page map of every stage, from engagement letter through teaser, NDAs, first round, management meetings, second round, SPA negotiation and signing, gives you the frame every later project hangs on and lets you answer client questions without guessing.
+                Most bankers learn a sale process one urgent task at a time, which is why they cannot explain to a client what happens in week nine. A one-page map of every stage, from engagement letter through teaser, NDAs, first round, management meetings, second round, SPA negotiation and signing, gives you the frame every later project hangs on and lets you answer client questions without guessing. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page map of the stages of a typical two-round auction, with the main document produced at each.
@@ -482,10 +482,10 @@ starter_structure:
                 - "Compare monthly actuals with the marketed forecast @recurring(monthly:12)"
                 - "Refresh the full-year outturn view with the CFO @recurring(quarterly)"
                 - "Brief the client on any material miss before it reaches buyers"
-            - name: Personal sell-side playbook and template library
+            - name: Team sell-side playbook and template library
               description: |-
                 ## Purpose
-                Each sale teaches something, and most of it is forgotten by the next mandate. A personal playbook of your working method, with clean templates for timetables, trackers, status notes and issues lists, means the next process starts from your best version rather than from a blank page or whatever the last analyst left.
+                Each sale teaches something, and most of it is forgotten by the next mandate. A team playbook of the group's working method, with clean templates for timetables, trackers, status notes and issues lists, means the next process starts from the team's best version rather than from a blank page or whatever the last analyst left.
 
                 ## Milestones
                 1. Blank templates saved for timetable, buyer tracker, status note, issues list and NDA log.
@@ -502,7 +502,7 @@ starter_structure:
                 success_criteria: "A playbook of blank sell-side templates and lessons exists, reviewed each quarter, with no client data in it."
                 cadence: rolling
               tasks:
-                - "Create blank versions of your five core process templates"
+                - "Associate creates blank versions of the five core process templates"
                 - "Write five lines on what worked on your last process"
                 - "Review the playbook and retire stale templates @recurring(quarterly)"
                 - "Check the playbook holds no client names or numbers"
@@ -1232,4 +1232,4 @@ starter_structure:
 
 This area is for the banker running a sale for a client, from the analyst on a first mandate to the vice president or boutique partner who answers for the outcome. It starts with the foundations (the process map, the client's real objectives, engagement terms, conflicts, readiness, valuation expectations, process type and timetable), moves into the operating rhythm of steering calls, buyer tracking, status notes, issues lists and current trading, then the skills of outreach calls, SPA terms, equity bridges and re-trade defence, the decisions on pre-emptive offers, staple financing, insurance and disclosure, the dated moments from kick-off to signing, situations for different seats and sellers, and finally specialist sales: distressed, minority, antitrust-heavy and public.
 
-What repeats is a weekly steering call and status note to the client, a twice-weekly buyer log update, a daily team stand-up while the process is live, a weekly leak watch and issues review, and a monthly current trading check against the forecast that buyers are pricing. The Meeting notes, Risk register, Reading queue and Operational checklist templates pair with the projects that name them. Keep client names, buyer names and live terms inside your firm's systems; these projects hold your own working method, not a client's confidential data. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a weekly steering call and status note to the client, a twice-weekly buyer log update, a daily team stand-up while the process is live, a weekly leak watch and issues review, and a monthly current trading check against the forecast that buyers are pricing. The Meeting notes, Risk register, Reading queue and Operational checklist templates pair with the projects that name them. Keep client names, buyer names and live terms inside your firm's systems; these projects hold the team's working method, not a client's confidential data. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

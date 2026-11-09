@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Include gifts in kind and sponsorship of friends' fundraisers. They count towards what you give even if they never appear on a tax return.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help you organise decisions about money. It is not financial, investment, tax or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with a qualified, licensed adviser in yours. Investing and trading can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -132,7 +132,7 @@ starter_structure:
             - name: Charitable tax relief rules where you pay tax
               description: |-
                 ## Purpose
-                Relief on donations works very differently between countries: some add basic-rate tax to the gift, such as Gift Aid in the UK, some give a deduction only if you itemise, as in the US, and some give a tax credit, as in Canada. A one-page summary of how relief works for you, what records it needs and any limits on the amount means none of it is left unclaimed through ignorance.
+                Relief on donations works very differently between countries: some add basic-rate tax to the gift, such as Gift Aid in the UK, some give a deduction mainly to those who itemise, as in the US (where, from 2026, non-itemisers can also deduct a capped amount of cash gifts), and some give a tax credit, as in Canada. A one-page summary of how relief works for you, what records it needs and any limits on the amount means none of it is left unclaimed through ignorance.
 
                 ## Milestones
                 1. The tax authority's guidance on charitable relief for individuals found and read.

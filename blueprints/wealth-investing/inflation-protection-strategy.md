@@ -34,7 +34,7 @@ starter_structure:
                 ## Notes
                 Many national statistics offices publish a personal inflation calculator that does the weighting for you. Use it as a check on your own sums, not a replacement for them.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help you organise decisions about money. It is not financial, investment, tax or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with a qualified, licensed adviser in yours. Investing and trading can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -77,7 +77,7 @@ starter_structure:
             - name: Cash erosion check on savings balances
               description: |-
                 ## Purpose
-                Cash feels safe because its number never falls, yet a balance earning 1 percent while prices rise 5 percent loses about a twentieth of its value every year. Checking every cash balance against both inflation and the best available rate tells you how much cash is doing a job and how much is simply leaking.
+                Cash feels safe because its number never falls, yet a balance earning 1 percent while prices rise 5 percent loses nearly 4 percent of its buying power every year. Checking every cash balance against both inflation and the best available rate tells you how much cash is doing a job and how much is simply leaking.
 
                 ## Milestones
                 1. Every current, savings and notice account listed with balance and interest rate.

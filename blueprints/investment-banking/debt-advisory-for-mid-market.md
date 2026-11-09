@@ -4,7 +4,7 @@ name: Debt Advisory for Mid-Market
 description: "Debt advice from the borrower's side for mid-sized companies: lender universes, credit papers, term sheet comparisons, refinancings, acquisition debt and the routines that keep advised clients ahead of their maturities."
 category: business
 version: 1.0.0
-tags: [investment-banking, debt-advisory-for-mid-market, knowledge-worker, refinancing, direct-lending, lender-process, acquisition-finance, mid-market]
+tags: [investment-banking, debt-advisory-for-mid-market, knowledge-worker, refinancing, direct-lending, lender-process, acquisition-finance, mid-market, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -28,7 +28,7 @@ starter_structure:
             - name: Mid-market debt product map for borrowers
               description: |-
                 ## Purpose
-                Finance directors with 25 million of EBITDA can be offered a bank revolver, an amortising term loan, an asset-based line, invoice finance, a unitranche, stretch senior debt, mezzanine or a private placement, often in the same month. A one-page map of how each ranks, amortises, prices and can be repaid lets you explain the options in plain language before any lender is called.
+                Finance directors with 25 million of EBITDA can be offered a bank revolver, an amortising term loan, an asset-based line, invoice finance, a unitranche, stretch senior debt, mezzanine or a private placement, often in the same month. A one-page map of how each ranks, amortises, prices and can be repaid lets you explain the options in plain language before any lender is called. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page table of nine products by ranking, security, typical tenor, amortisation and pricing basis.
@@ -1215,4 +1215,4 @@ starter_structure:
 
 This area is for analysts, associates and directors who sit on the borrower's side of the table, advising mid-sized companies, family businesses and sponsor-backed groups on how to borrow. It starts with the foundations (the product and lender maps, the engagement letter, the credit profile, the maturity ladder and a realistic debt capacity), then the operating routines that keep market knowledge and live processes current, the skills behind lender papers, term sheets, covenants and all-in cost, the structuring decisions, dated events from launch to first drawdown, variants for family owners, founders, sponsors and new joiners, and finally specialist work such as delayed draw acquisition lines, private placements and sustainability-linked terms.
 
-What repeats is a monthly market note and lender appetite update, a maturity watchlist scanned each month, a covenant calendar for retained clients, a weekly status note while a process is live, quarterly benchmark and relationship reviews and a yearly lender update. The Vendor, Risk register, Compliance control, Meeting notes, Purchase decision and Development plan templates pair with the projects that name them. Client and lender information stays in the firm's systems; personal files hold only public data and your own working notes. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a monthly market note and lender appetite update, a maturity watchlist scanned each month, a covenant calendar for retained clients, a weekly status note while a process is live, quarterly benchmark and relationship reviews and a yearly lender update. The Vendor, Risk register, Compliance control, Meeting notes, Purchase decision and Development plan templates pair with the projects that name them. Client and lender information stays in the firm's systems; this shared workspace holds only public data and the team's working notes. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

@@ -35,7 +35,7 @@ starter_structure:
                 ## Notes
                 Check the obvious hiding places: baby boxes, old passport wallets, school report folders and the glovebox of the family car.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -802,7 +802,7 @@ starter_structure:
             - name: Baby's first vaccination appointment
               description: |-
                 ## Purpose
-                The first routine vaccinations usually come at around eight weeks, at a time when parents are exhausted and the appointment can feel daunting. Preparing the record book, the questions and a plan for the evening afterwards makes the first visit straightforward and sets the pattern for the rest of the year.
+                The first routine baby vaccinations usually come at around eight weeks (some countries, such as the US, also give a hepatitis B dose at birth), at a time when parents are exhausted and the appointment can feel daunting. Preparing the record book, the questions and a plan for the evening afterwards makes the first visit straightforward and sets the pattern for the rest of the year.
 
                 ## Milestones
                 1. The appointment booked as soon as the invitation arrives.

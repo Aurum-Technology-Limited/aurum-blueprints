@@ -4,7 +4,7 @@ name: Organisational Change Management
 description: "Lead people through a major change: a clear change definition and sponsor, impact and readiness assessed, a change network and steady communication, resistance handled, training delivered and new ways of working that stick."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, organisational-change-management, manager, enterprise, team, change-management, adoption, change-communications]
+tags: [strategy-leadership, organisational-change-management, manager, enterprise, team, change-management, adoption, change-communications, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Change definition on one page
               description: |-
                 ## Purpose
-                Most change efforts stall because three senior people describe the change three different ways. Writing one page that says what is changing, what is not, who is affected, why now and what good looks like in twelve months gives every later message, plan and training session the same starting point.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most change efforts stall because three senior people describe the change three different ways. Writing one page that says what is changing, what is not, who is affected, why now and what good looks like in twelve months gives every later message, plan and training session the same starting point.
 
                 ## Milestones
                 1. A one-page statement covering what changes, what stays the same, who is affected and why now.

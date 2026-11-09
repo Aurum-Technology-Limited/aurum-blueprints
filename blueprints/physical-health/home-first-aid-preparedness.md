@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Start from the **Risk register** template. Include regular visitors such as grandparents or a child you mind, not only the people who sleep at home.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -472,6 +472,9 @@ starter_structure:
                 2. Compressions practised until the instructor is satisfied with depth and rhythm.
                 3. A training defibrillator used from switching on to delivering a shock.
                 4. A quarterly two-minute refresher in the calendar.
+
+                ## Notes
+                Current adult guidance from the Resuscitation Council UK and the American Heart Association is the same at its core: call the emergency number, then push hard and fast in the centre of the chest at 100 to 120 compressions a minute, about 5 to 6 cm deep, and use a defibrillator as soon as one arrives. The call handler will guide you; children and babies need different techniques.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
@@ -587,6 +590,9 @@ starter_structure:
                 2. The cooling routine rehearsed at the kitchen sink with each adult.
                 3. Cling film or burn dressings added to the kitchen kit.
                 4. The signs that a burn needs hospital assessment written on a kitchen card.
+
+                ## Notes
+                UK NHS advice is to cool a burn under cool or lukewarm running water for 20 minutes, remove nearby clothing or jewellery unless stuck to the skin, and not to use ice, creams or butter. Check your own health service's current wording.
               priority: medium
               frontmatter:
                 mode: learning

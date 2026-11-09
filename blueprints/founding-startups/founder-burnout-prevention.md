@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 A self-check is a prompt, not a diagnosis. If the score or how you feel worries you, take it to your doctor rather than waiting for the next retake.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

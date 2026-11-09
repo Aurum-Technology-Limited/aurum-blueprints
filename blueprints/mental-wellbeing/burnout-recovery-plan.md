@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 If you notice hopelessness, thoughts of not wanting to be here, or you cannot get through a normal day, contact your doctor or a crisis line now rather than working through this list.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:

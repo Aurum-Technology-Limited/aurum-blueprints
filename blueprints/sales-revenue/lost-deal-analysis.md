@@ -4,7 +4,7 @@ name: Lost Deal Analysis
 description: "A consistent loss reason taxonomy, honest seller debriefs, regular interviews with lost buyers and a monthly pattern review that feeds pricing, product and the sales playbook."
 category: business
 version: 1.0.0
-tags: [sales-revenue, lost-deal-analysis, manager, team, enterprise, win-loss, loss-reasons, buyer-interviews]
+tags: [sales-revenue, lost-deal-analysis, manager, team, enterprise, win-loss, loss-reasons, buyer-interviews, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Scope and entry rules for full loss reviews
               description: |-
                 ## Purpose
-                Reviewing every closed-lost deal sounds thorough but buries a team in deals that were never real. Deciding up front which losses get a full review (for example, any deal that reached proposal stage or passed a set value) and which get only a coded reason keeps the effort on the losses that can teach you something.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Reviewing every closed-lost deal sounds thorough but buries a team in deals that were never real. Deciding up front which losses get a full review (for example, any deal that reached proposal stage or passed a set value) and which get only a coded reason keeps the effort on the losses that can teach you something.
 
                 ## Milestones
                 1. A written rule naming the stage and deal value that trigger a full loss review.
@@ -1028,7 +1028,7 @@ starter_structure:
               tasks:
                 - "Agree five loss reason codes with the team in one meeting"
                 - "Hold the half-hour closed-lost review with the team @recurring(monthly:12)"
-                - "Call one lost buyer a month yourself and share what you heard"
+                - "Have the sales manager call one lost buyer a month and share what they heard"
             - name: Interviewing several members of a lost buying committee
               description: |-
                 ## Purpose

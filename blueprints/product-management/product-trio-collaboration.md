@@ -4,7 +4,7 @@ name: Product Trio Collaboration
 description: "A product, design and engineering trio that decides together: decision rights, a working agreement, shared customer contact, weekly risk reviews, honest retrospectives and the manager habits that keep trios healthy."
 category: business
 version: 1.0.0
-tags: [product-management, product-trio-collaboration, team, manager, product-trio, cross-functional, decision-making, design-engineering]
+tags: [product-management, product-trio-collaboration, team, manager, product-trio, cross-functional, decision-making, design-engineering, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Trio membership and decision rights charter
               description: |-
                 ## Purpose
-                Most trios fail quietly because nobody wrote down which calls belong to the three of them and which belong to one person. Naming the members, listing the decisions the trio makes together (problem choice, scope cuts, release readiness) and the ones each lead makes alone (interaction design, architecture, commercial input) stops the same argument recurring every sprint. One page agreed in the first fortnight is enough.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most trios fail quietly because nobody wrote down which calls belong to the three of them and which belong to one person. Naming the members, listing the decisions the trio makes together (problem choice, scope cuts, release readiness) and the ones each lead makes alone (interaction design, architecture, commercial input) stops the same argument recurring every sprint. One page agreed in the first fortnight is enough.
 
                 ## Milestones
                 1. The three trio members named, with a deputy for each when they are away.

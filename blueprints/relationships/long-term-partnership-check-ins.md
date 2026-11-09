@@ -212,6 +212,8 @@ starter_structure:
 
                 ## Notes
                 Check-ins assume two people who feel safe with each other. If either partner feels afraid, controlled or punished for what they say, stop the check-ins and talk to a domestic abuse support service or a doctor before restarting.
+
+                If you feel afraid of a partner or family member, or someone is controlling, threatening or hurting you, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233).
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -779,6 +781,8 @@ starter_structure:
 
                 ## Notes
                 Agreeing these signs is not a prediction that you will need them. Couples who see a counsellor early often need fewer sessions than those who wait.
+
+                Couples counselling is generally not advised where one partner is afraid of or controlled by the other; individual specialist support is the safer route.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
@@ -892,6 +896,9 @@ starter_structure:
                 2. Costs and formats compared, including online options.
                 3. One to three sessions attended together.
                 4. The counsellor's main observations written into the notebook as check-in topics.
+
+                ## Notes
+                Couples counselling is generally not advised where one partner is afraid of or controlled by the other; individual specialist support is the safer route.
               priority: low
               frontmatter:
                 mode: event

@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Pivot questions belong elsewhere; this memo assumes the main options have been tried. Date it and keep it, because it may matter later if anyone asks when the directors knew.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 10
               frontmatter:

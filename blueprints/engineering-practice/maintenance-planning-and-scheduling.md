@@ -4,7 +4,7 @@ name: Maintenance Planning and Scheduling
 description: "A maintenance planning system that works: clean work orders, a priority matrix, job plans with parts kitted, PM compliance, backlog in crew-weeks and a weekly schedule agreed with operations."
 category: business
 version: 1.0.0
-tags: [engineering-practice, maintenance-planning-and-scheduling, engineer, manager, work-orders, cmms, preventive-maintenance, backlog]
+tags: [engineering-practice, maintenance-planning-and-scheduling, engineer, manager, work-orders, cmms, preventive-maintenance, backlog, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Work order lifecycle and status definitions
               description: |-
                 ## Purpose
-                Most sites have a CMMS full of work orders stuck in statuses nobody can define, so backlog reports mix jobs waiting for parts with jobs nobody has looked at. Writing down eight or so statuses, from requested through approved, planned, ready, scheduled, in progress, complete and closed, with who moves a job between each, gives every later report a meaning.
+                Most sites have a CMMS full of work orders stuck in statuses nobody can define, so backlog reports mix jobs waiting for parts with jobs nobody has looked at. Writing down eight or so statuses, from requested through approved, planned, ready, scheduled, in progress, complete and closed, with who moves a job between each, gives every later report a meaning. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A written list of work order statuses, each with a one-line definition and the role allowed to set it.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Resist adding a status for every exception. If a status would hold fewer than five jobs a year, it is a note on the work order, not a status.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

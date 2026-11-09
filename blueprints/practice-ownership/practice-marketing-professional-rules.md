@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Read the guidance as well as the code. The code often says only that advertising must not be misleading, while the guidance is where the regulator says what it actually treats as misleading.
+
+                Before you start: this plan is general information to help you organise your own work. It does not replace your professional judgement, the rules of your regulator or professional body, your firm's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

@@ -4,7 +4,7 @@ name: Private Foundation Set-Up
 description: "A family foundation built properly from the first decision: purpose, legal form and jurisdiction, founding documents and registration, board and staff, the endowment, grant policies and the yearly cycle of meetings, accounts and filings."
 category: personal
 version: 1.0.0
-tags: [family-office, private-foundation-set-up, parent, retiree, nonprofit, philanthropy, charitable-foundation, endowment]
+tags: [family-office, private-foundation-set-up, parent, retiree, nonprofit, philanthropy, charitable-foundation, endowment, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Founding purpose statement for the family foundation
               description: |-
                 ## Purpose
-                Every later choice, from legal form to who sits on the board, depends on what the foundation is for, and a vague purpose is the most common reason family foundations drift or split within a decade. One page that states the cause, the people or places served, the time horizon and the values behind it gives the lawyer something to draft from and the family something to agree on.
+                Every later choice, from legal form to who sits on the board, depends on what the foundation is for, and a vague purpose is the most common reason family foundations drift or split within a decade. One page that states the cause, the people or places served, the time horizon and the values behind it gives the lawyer something to draft from and the family something to agree on. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page purpose statement naming the cause, the beneficiaries or places served and the intended lifespan.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Keep the objects broad enough to survive changes in the cause over fifty years and narrow enough that a regulator can see the charitable purpose. Your lawyer will know how the local regulator reads objects clauses.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -477,7 +479,7 @@ starter_structure:
             - name: Minimum payout and distribution tracking
               description: |-
                 ## Purpose
-                Some countries set a minimum the foundation must spend on charitable purposes each year, often a percentage of assets, as in the United States, while others expect income to be applied within a reasonable time. Tracking spending against the requirement each quarter avoids a scramble of rushed grants in the last month or a penalty for falling short.
+                Some countries set a minimum the foundation must spend on charitable purposes each year, often a percentage of assets: in the United States, for example, a private non-operating foundation must generally pay out about 5 percent of the value of its investment assets each year under section 4942 of the Internal Revenue Code, while others expect income to be applied within a reasonable time. Tracking spending against the requirement each quarter avoids a scramble of rushed grants in the last month or a penalty for falling short.
 
                 ## Milestones
                 1. The payout or application rule that applies confirmed in writing by the accountant.

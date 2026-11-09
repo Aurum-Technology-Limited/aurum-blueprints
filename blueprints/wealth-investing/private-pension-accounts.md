@@ -35,7 +35,7 @@ starter_structure:
                 ## Notes
                 If you are employed and not yet taking the full employer match, close that gap first; free employer money usually beats anything a private account can offer.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help you organise decisions about money. It is not financial, investment, tax or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with a qualified, licensed adviser in yours. Investing and trading can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -785,7 +785,7 @@ starter_structure:
             - name: Lump sum contribution from a bonus or windfall
               description: |-
                 ## Purpose
-                A bonus, inheritance or good business year can fund a large one-off contribution, but the relief, the annual limit and timing all need checking first. Getting it wrong means an excess charge or relief refused; getting it right can mean an extra 20 to 45 percent on top of the payment, depending on your tax band.
+                A bonus, inheritance or good business year can fund a large one-off contribution, but the relief, the annual limit and timing all need checking first. Getting it wrong means an excess charge or relief refused; getting it right means tax relief at your marginal rate, which in the UK runs from 20 percent at the basic rate to 45 percent or more for top-rate taxpayers, so check your own band.
 
                 ## Milestones
                 1. Room left in this year's allowance confirmed from your tracker.
@@ -1167,7 +1167,7 @@ starter_structure:
             - name: Tapered annual allowance for high earners
               description: |-
                 ## Purpose
-                High earners can find their annual allowance cut sharply by a taper; in the UK it reduces once adjusted income passes 260,000 pounds, down to a 10,000 pound minimum. The calculation includes employer contributions and some income people forget, so a mistake can produce a large surprise tax charge.
+                High earners can find their annual allowance cut sharply by a taper; in the UK it reduces once threshold income is over 200,000 pounds and adjusted income passes 260,000 pounds, down to a 10,000 pound minimum, so check the current figures on GOV.UK. The calculation includes employer contributions and some income people forget, so a mistake can produce a large surprise tax charge.
 
                 ## Milestones
                 1. Threshold and adjusted income definitions written down from official guidance.

@@ -4,7 +4,7 @@ name: Board Composition and Effectiveness
 description: "A board with the right mix of skills and independence, clear reserved matters, board packs that support decisions, meetings that use directors well and an honest yearly evaluation of how the board performs."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, board-composition-and-effectiveness, founder, enterprise, nonprofit, governance, board-evaluation, trustees]
+tags: [strategy-leadership, board-composition-and-effectiveness, founder, enterprise, nonprofit, governance, board-evaluation, trustees, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Board purpose and role statement
               description: |-
                 ## Purpose
-                Many boards cannot say in a sentence what they do that management does not, so meetings slide into either rubber stamping or second-guessing operations. A one-page statement of the board's role, covering direction, oversight of performance and risk, appointing and supporting the chief executive, and accountability to owners or members, gives every later choice about members and agendas a reference point.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Many boards cannot say in a sentence what they do that management does not, so meetings slide into either rubber stamping or second-guessing operations. A one-page statement of the board's role, covering direction, oversight of performance and risk, appointing and supporting the chief executive, and accountability to owners or members, gives every later choice about members and agendas a reference point.
 
                 ## Milestones
                 1. A list of the board's core responsibilities drawn from the governing documents and applicable law, confirmed with the company secretary or a lawyer.

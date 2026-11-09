@@ -4,7 +4,7 @@ name: Budget Versus Actual Variance Analysis
 description: "A monthly budget versus actual cycle that budget holders trust and act on: clean mapping and thresholds, named owners, explanations with causes, review meetings, action logs and the analysis skills behind them."
 category: business
 version: 1.0.0
-tags: [finance-accounting, budget-versus-actual-variance, manager, team, enterprise, variance-analysis, fpa, budget-holders]
+tags: [finance-accounting, budget-versus-actual-variance, manager, team, enterprise, variance-analysis, fpa, budget-holders, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Variance review scope across company, division and cost centre
               description: |-
                 ## Purpose
-                Ask who needs to see variances at which level before building anything: the leadership team usually wants a dozen lines at company level, while a department manager needs every account in their own cost centre. Writing down the levels, the lines and the audience for each stops one giant report from trying to serve everybody and pleasing nobody. An agreed scope also tells you how much explanation work the cycle will create each month.
+                Ask who needs to see variances at which level before building anything: the leadership team usually wants a dozen lines at company level, while a department manager needs every account in their own cost centre. Writing down the levels, the lines and the audience for each stops one giant report from trying to serve everybody and pleasing nobody. An agreed scope also tells you how much explanation work the cycle will create each month. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The reporting levels in use listed, from company total down to cost centre or project.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Start narrow. A scope that covers revenue, gross margin, the five largest cost lines and headcount at each level is enough for the first three months.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: medium
               deadlineOffsetDays: 14
               frontmatter:
@@ -1177,4 +1177,4 @@ starter_structure:
 
 This area is for the people who sit between the approved budget and what actually happened: the finance analyst who builds the variance report, the department manager who has to explain it, and the enterprise finance team rolling it up across divisions. It starts with foundations (scope, a single account mapping, sign conventions, thresholds, named owners, a layout, the comparator and reason codes), then the monthly machinery of sweeps, report runs, explanation requests, review meetings and action logs, the analysis skills of price, volume, mix, flexing and timing, improvements to tools and process, dated reviews at the half-year and year end, situations for new budget holders, analysts, small teams and groups, and finally specialist methods such as planning and operational variances, constant currency and earned value.
 
-What repeats is a monthly rhythm in the first three weeks after the close: a committed spend check and miscoding sweep around the 3rd and 4th, the report run on the 5th, explanation requests and chasers from the 6th, the leadership summary and review meeting before mid-month, then the action log, timing tracker and reforecast handover. A weekly watch covers the riskiest lines, the outturn is reviewed quarterly, and thresholds, reason codes and lessons for next year's budget come round once a year. The Purchase decision, Meeting notes, Board meeting, Metrics log and Remediation plan templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a monthly rhythm in the first three weeks after the close: a committed spend check and miscoding sweep around the 3rd and 4th, the report run on the 5th, explanation requests and chasers from the 6th, the leadership summary and review meeting before mid-month, then the action log, timing tracker and reforecast handover. A weekly watch covers the riskiest lines, the outturn is reviewed quarterly, and thresholds, reason codes and lessons for next year's budget come round once a year. The Purchase decision, Meeting notes, Board meeting, Metrics log and Remediation plan templates pair with the projects that name them. In a shared workspace, the finance analyst owns the report, each budget holder owns the explanations for their lines and the finance manager chairs the review. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

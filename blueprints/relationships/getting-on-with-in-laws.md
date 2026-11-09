@@ -1113,7 +1113,7 @@ starter_structure:
                 5. Support arranged for both of you, such as a counsellor.
 
                 ## Notes
-                If anyone is being threatened or harmed, put safety first and contact local support services or the police.
+                If you feel afraid of a family member, or someone is controlling, threatening or hurting you, call your local emergency number if you are in danger, or a domestic abuse helpline (for example 0808 2000 247 in the UK, or 1-800-799-7233 in the US).
               priority: high
               frontmatter:
                 mode: building

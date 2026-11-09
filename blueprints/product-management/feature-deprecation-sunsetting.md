@@ -4,7 +4,7 @@ name: Feature Deprecation & Sunsetting
 description: "Usage evidence, a written deprecation policy, customer notice schedules, migration paths and exports, a calm removal day and an honest review afterwards, for product teams and managers retiring features or whole products."
 category: business
 version: 1.0.0
-tags: [product-management, feature-deprecation-sunsetting, team, manager, deprecation, end-of-life, migration, customer-notice]
+tags: [product-management, feature-deprecation-sunsetting, team, manager, deprecation, end-of-life, migration, customer-notice, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Feature inventory with owners and usage
               description: |-
                 ## Purpose
-                Most products carry features nobody owns any more: a report built for one customer years ago, a legacy editor kept behind a setting, an integration with a tool that has since shut down. A single inventory listing every user-facing feature with its owner, monthly active accounts and last meaningful change is the raw material for every retirement decision that follows, and it usually turns up three or four candidates on its own.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most products carry features nobody owns any more: a report built for one customer years ago, a legacy editor kept behind a setting, an integration with a tool that has since shut down. A single inventory listing every user-facing feature with its owner, monthly active accounts and last meaningful change is the raw material for every retirement decision that follows, and it usually turns up three or four candidates on its own.
 
                 ## Milestones
                 1. Every user-facing feature listed in one sheet, including settings-only and admin-only ones.

@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Start with green leaf lettuce and one herb. They are forgiving, quick and sell everywhere, and they teach you the system before you try fussier crops.
+
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

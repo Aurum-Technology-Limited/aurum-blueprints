@@ -4,7 +4,7 @@ name: CEO and Executive Succession
 description: "Succession you can act on for the chief executive and senior team: critical roles, emergency cover, successor slates and development, board reviews, searches, announcements and handovers that keep the organisation steady."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, ceo-and-executive-succession, enterprise, manager, nonprofit, succession-planning, ceo-search, talent-review]
+tags: [strategy-leadership, ceo-and-executive-succession, enterprise, manager, nonprofit, succession-planning, ceo-search, talent-review, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Succession readiness snapshot for the senior team
               description: |-
                 ## Purpose
-                Most boards believe they have a succession plan until someone asks who would run the organisation on Monday if the chief executive resigned on Friday. Spending a fortnight recording, role by role, whether a named successor exists, how ready they are and whether the board has ever been told gives an honest starting point and shows where the real exposure sits.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most boards believe they have a succession plan until someone asks who would run the organisation on Monday if the chief executive resigned on Friday. Spending a fortnight recording, role by role, whether a named successor exists, how ready they are and whether the board has ever been told gives an honest starting point and shows where the real exposure sits.
 
                 ## Milestones
                 1. Every executive committee role listed with its incumbent, tenure and any known departure date.

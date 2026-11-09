@@ -4,7 +4,7 @@ name: Multi-Entity Consolidation
 description: "An entity register and scope memo, group policies, mapping and reporting packs, monthly intercompany matching, eliminations and currency translation, and the acquisitions, disposals and specialist cases that test a group close."
 category: business
 version: 1.0.0
-tags: [finance-accounting, multi-entity-consolidation, enterprise, manager, team, intercompany, eliminations, group-reporting]
+tags: [finance-accounting, multi-entity-consolidation, enterprise, manager, team, intercompany, eliminations, group-reporting, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Group structure chart and legal entity register
               description: |-
                 ## Purpose
-                Consolidation starts with knowing exactly which companies exist, who owns them and in what percentages, and that list is often scattered between the company secretary, the tax adviser and an old slide. A single register with each entity's legal name, registration number, country, owner, ownership percentage, year end and status gives every later project in this area one source of truth. Drawing the structure chart from the register, rather than the other way round, keeps the two consistent.
+                Consolidation starts with knowing exactly which companies exist, who owns them and in what percentages, and that list is often scattered between the company secretary, the tax adviser and an old slide. A single register with each entity's legal name, registration number, country, owner, ownership percentage, year end and status gives every later project in this area one source of truth. Drawing the structure chart from the register, rather than the other way round, keeps the two consistent. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every legal entity listed with registration number, country, incorporation date and status: trading, dormant or in liquidation.
@@ -39,7 +39,7 @@ starter_structure:
                 ## Notes
                 Effective ownership through chains of holdings is where errors creep in: 80 percent of a company that owns 60 percent of another gives the group 48 percent of the second company, not 60.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -557,7 +557,7 @@ starter_structure:
             - name: Goodwill and purchase price allocation fundamentals
               description: |-
                 ## Purpose
-                Acquiring a company means measuring its identifiable assets and liabilities at fair value, recognising intangibles such as customer relationships and brands, and treating the remainder as goodwill. Knowing the steps before the next deal, and which parts need a valuer, helps you brief advisers and set realistic timings for the first group accounts after acquisition. Goodwill is tested for impairment rather than amortised under IFRS, and other frameworks have their own rules.
+                Acquiring a company means measuring its identifiable assets and liabilities at fair value, recognising intangibles such as customer relationships and brands, and treating the remainder as goodwill. Knowing the steps before the next deal, and which parts need a valuer, helps you brief advisers and set realistic timings for the first group accounts after acquisition. Goodwill is tested for impairment rather than amortised under IFRS, while UK FRS 102 amortises it and US private companies may elect to amortise it, so confirm your framework's rule.
 
                 ## Milestones
                 1. The acquisition method summarised: acquirer, acquisition date, consideration, net assets at fair value and goodwill.
@@ -1182,4 +1182,4 @@ starter_structure:
 
 This area is for finance teams and managers who turn a set of separate company ledgers into one set of group numbers, whether that is two entities after an overseas expansion or forty across several regions. It starts with the foundations (the entity register, scope and control, functional currencies, group policies, the group chart and mapping, the reporting calendar and pack), moves to the monthly machinery of intercompany matching, eliminations, translation, pack review and equity roll-forwards, then the standards behind it, the improvements and system decisions, dated events such as acquisitions, disposals, half years and group year ends, situations for new groups, new controllers and subsidiary teams, and finally specialist cases such as ownership changes, net investment loans, hyperinflation and deferred tax on consolidation.
 
-What repeats is the group close: intercompany matching on the 2nd and 3rd, rates on the 4th, mapping checks on the 5th, queries closed on the 6th, the consolidation run on the 7th, metrics on the 10th and an ageing review on the 12th, with quarterly eliminations, non-controlling interests and equity roll-forwards on top and a yearly refresh of the calendar, scope, currencies and policies. The Month-end close, Metrics log, Purchase decision, Risk register, Onboarding 30/60/90 and Skills matrix templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is the group close: intercompany matching on the 2nd and 3rd, rates on the 4th, mapping checks on the 5th, queries closed on the 6th, the consolidation run on the 7th, metrics on the 10th and an ageing review on the 12th, with quarterly eliminations, non-controlling interests and equity roll-forwards on top and a yearly refresh of the calendar, scope, currencies and policies. The Month-end close, Metrics log, Purchase decision, Risk register, Onboarding 30/60/90 and Skills matrix templates pair with the projects that name them. In a shared workspace, local controllers own entity submissions, the group reporting team runs the consolidation, and the group financial controller and the auditors agree scope and judgements. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

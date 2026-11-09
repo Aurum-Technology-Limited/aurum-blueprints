@@ -4,7 +4,7 @@ name: Product Team OKRs
 description: "Quarterly product objectives and key results that measure customer and business outcomes, with baselines, weekly confidence check-ins, honest grading and the habits that keep targets credible."
 category: business
 version: 1.0.0
-tags: [product-management, product-team-okrs, team, manager, okrs, key-results, outcomes, quarterly-planning]
+tags: [product-management, product-team-okrs, team, manager, okrs, key-results, outcomes, quarterly-planning, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Audit of last quarter's goals and outcomes
               description: |-
                 ## Purpose
-                Before writing a single new objective, look honestly at what the team aimed for last quarter and what actually happened. Most teams new to OKRs find that two thirds of their old goals were features to ship, and that nobody can say whether customers behaved differently afterwards. An hour sorting past goals into outputs and outcomes shows exactly which habit the new OKRs have to break.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before writing a single new objective, look honestly at what the team aimed for last quarter and what actually happened. Most teams new to OKRs find that two thirds of their old goals were features to ship, and that nobody can say whether customers behaved differently afterwards. An hour sorting past goals into outputs and outcomes shows exactly which habit the new OKRs have to break.
 
                 ## Milestones
                 1. Every goal the team set last quarter listed, from roadmap commitments to targets in the planning deck.

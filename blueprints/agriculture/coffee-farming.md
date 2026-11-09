@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 A phone with GPS and a free mapping app is enough. Count a sample row of 20 trees per block and multiply, rather than counting every tree on a steep slope.
+
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

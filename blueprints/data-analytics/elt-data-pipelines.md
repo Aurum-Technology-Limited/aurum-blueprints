@@ -4,7 +4,7 @@ name: ELT Data Pipelines
 description: "Every source inventoried and owned, loads that survive reruns and backfills, schedules with real dependencies, and failure and freshness alerts that reach an owner before stakeholders notice."
 category: business
 version: 1.0.0
-tags: [data-analytics, elt-data-pipelines, engineer, team, orchestration, change-data-capture, incremental-loading, pipeline-monitoring]
+tags: [data-analytics, elt-data-pipelines, engineer, team, orchestration, change-data-capture, incremental-loading, pipeline-monitoring, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Source system and pipeline inventory
               description: |-
                 ## Purpose
-                Before changing anything, you need one list of every system that feeds the warehouse: SaaS apps, production databases, spreadsheets someone uploads by hand and vendor file drops. Recording each source with its connector, schedule, owner and the raw tables it lands turns a tangle of jobs into something you can reason about, and it is often the first time anyone sees the full count.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before changing anything, you need one list of every system that feeds the warehouse: SaaS apps, production databases, spreadsheets someone uploads by hand and vendor file drops. Recording each source with its connector, schedule, owner and the raw tables it lands turns a tangle of jobs into something you can reason about, and it is often the first time anyone sees the full count.
 
                 ## Milestones
                 1. A single inventory listing every source system, the connector or script that extracts it, and the raw schema it loads into.

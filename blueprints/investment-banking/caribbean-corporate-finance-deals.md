@@ -4,7 +4,7 @@ name: Caribbean Corporate Finance Deals
 description: "A banker's system for Caribbean deals: exchanges and regulators by island, currency and exchange control checks, the regional investor base, conglomerate M&A, local listings and bonds, state enterprise sales and making small deals pay."
 category: business
 version: 1.0.0
-tags: [investment-banking, caribbean-corporate-finance-deals, knowledge-worker, caribbean, regional-m-and-a, local-stock-exchanges, state-enterprises, small-markets]
+tags: [investment-banking, caribbean-corporate-finance-deals, knowledge-worker, caribbean, regional-m-and-a, local-stock-exchanges, state-enterprises, small-markets, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Caribbean exchanges and securities regulators map
               description: |-
                 ## Purpose
-                One regional deal can touch the Jamaica Stock Exchange, the Trinidad and Tobago Stock Exchange, the Barbados Stock Exchange, the Eastern Caribbean Securities Exchange, BISX in the Bahamas or the Guyana exchange, each with its own regulator, listing rules and settlement depository. A one-page map of who regulates what, which rulebook applies and where the filings go saves the first week of every mandate and stops the team assuming that what worked in Kingston works in Port of Spain.
+                One regional deal can touch the Jamaica Stock Exchange, the Trinidad and Tobago Stock Exchange, the Barbados Stock Exchange, the Eastern Caribbean Securities Exchange, BISX in the Bahamas or the Guyana exchange, each with its own regulator, listing rules and settlement depository. A one-page map of who regulates what, which rulebook applies and where the filings go saves the first week of every mandate and stops the team assuming that what worked in Kingston works in Port of Spain. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Each exchange in the region listed with its securities regulator, central depository and current rulebook link.

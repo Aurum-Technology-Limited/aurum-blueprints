@@ -4,7 +4,7 @@ name: Product User Segment Definitions
 description: "Segment definitions the whole product team trusts: clear assignment rules, sized and profiled groups, scheduled refreshes, segment-level metrics and the calls on which users to build for first."
 category: business
 version: 1.0.0
-tags: [product-management, product-user-segment-definitions, team, manager, segmentation, behavioural-segments, personas, product-analytics]
+tags: [product-management, product-user-segment-definitions, team, manager, segmentation, behavioural-segments, personas, product-analytics, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Inventory of segment definitions already in use
               description: |-
                 ## Purpose
-                Most product teams already live with four or five competing segmentations: sales tiers by employee count, marketing personas, finance's plan types and whatever cohort filters an analyst saved last year. Listing every one of them, with its owner, its rule and where it is used, shows where the arguments in planning meetings really come from and what any new definition has to replace or reconcile.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most product teams already live with four or five competing segmentations: sales tiers by employee count, marketing personas, finance's plan types and whatever cohort filters an analyst saved last year. Listing every one of them, with its owner, its rule and where it is used, shows where the arguments in planning meetings really come from and what any new definition has to replace or reconcile.
 
                 ## Milestones
                 1. A list of every segmentation in active use across product, sales, marketing, finance and support.

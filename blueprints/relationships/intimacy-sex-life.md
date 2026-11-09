@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Write about your own experience, not your partner's failings. A score out of ten is easier to say aloud than a paragraph.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -208,6 +210,9 @@ starter_structure:
                 2. Each partner's preferred ways of being asked and checked in with.
                 3. An agreement that saying yes earlier never commits anyone to continuing.
                 4. The signals practised at least once.
+
+                ## Notes
+                Consent applies in long-term relationships too. If you feel pressured, frightened or forced into sex, or a partner controls or hurts you, that is abuse rather than a communication problem: call your local emergency number if you are in danger, or a domestic abuse helpline (for example 0808 2000 247 in the UK, or 1-800-799-7233 in the US).
               priority: high
               frontmatter:
                 mode: building
@@ -1194,7 +1199,7 @@ starter_structure:
                 4. Support identified for the partner, such as their own counselling or reading.
 
                 ## Notes
-                If you are in immediate distress, contact a crisis line or emergency services. Specialist sexual violence support services in many countries offer free counselling.
+                If you are in immediate distress, contact a crisis line or emergency services. Specialist sexual violence support services in many countries offer free counselling. Examples include Samaritans (116 123, UK and Ireland), 988 (US), Rape Crisis in England and Wales (0808 500 2222) and RAINN in the US (1-800-656-4673).
               priority: high
               frontmatter:
                 mode: building

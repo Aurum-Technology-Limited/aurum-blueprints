@@ -955,7 +955,7 @@ starter_structure:
                 4. Your teenager clear that they can tell you about anything that worried them without losing their device.
 
                 ## Notes
-                Grooming often starts with flattery, gifts and requests for secrecy. A teenager who feels safe telling you is the strongest protection there is.
+                Grooming often starts with flattery, gifts and requests for secrecy. A teenager who feels safe telling you is the strongest protection there is. If you think a child is being groomed or is at risk, call your local emergency number if they are in danger, or report it: in the UK to the police, CEOP or the NSPCC helpline (0808 800 5000), and in the US to the police, the NCMEC CyberTipline or Childhelp (1-800-422-4453).
               priority: medium
               frontmatter:
                 mode: service

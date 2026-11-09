@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Younger students are often kept off lifts and away from some tools for insurance reasons. Ask the garage what you will be allowed to do so you are not disappointed, and wear boots with toe caps from the first day.
+
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: medium
               deadlineOffsetDays: 45
               frontmatter:

@@ -4,7 +4,7 @@ name: Equity Story Development
 description: "A method for the equity story behind a sale or listing: highlights with proof, growth drivers, competitive position, financial targets and one master page that keeps every document telling it the same way."
 category: business
 version: 1.0.0
-tags: [investment-banking, equity-story-development, knowledge-worker, analyst, associate, equity-story, sell-side, ipo]
+tags: [investment-banking, equity-story-development, knowledge-worker, analyst, associate, equity-story, sell-side, ipo, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Equity story anatomy from five past deals
               description: |-
                 ## Purpose
-                Strong equity stories share a shape: a short claim about why the business wins, four or five highlights that each carry proof, and financial targets that follow from the highlights rather than sitting beside them. Taking apart five released documents from recent sales and listings, ideally a mix of sponsor exits, trade sales and IPOs, shows that shape faster than any training deck and gives you a reference set for everything else in this area.
+                Strong equity stories share a shape: a short claim about why the business wins, four or five highlights that each carry proof, and financial targets that follow from the highlights rather than sitting beside them. Taking apart five released documents from recent sales and listings, ideally a mix of sponsor exits, trade sales and IPOs, shows that shape faster than any training deck and gives you a reference set for everything else in this area. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Five released teasers, IM summaries or prospectus summaries gathered, with archive access cleared where needed.
@@ -948,7 +948,7 @@ starter_structure:
                 - "Draft a six-page board paper on the story and targets"
                 - "Answer directors' questions and update the master page"
                 - "Confirm the approval has been minuted"
-            - name: Your first equity story as an analyst
+            - name: A new analyst's first equity story
               description: |-
                 ## Purpose
                 As an analyst on a first sale or listing, you build the fact base, the proof register and the consistency checks, and you see the story more closely than anyone. Learning what the seniors are trying to say, keeping the register clean and spotting the number that does not match turns analyst work into the story's quality control.

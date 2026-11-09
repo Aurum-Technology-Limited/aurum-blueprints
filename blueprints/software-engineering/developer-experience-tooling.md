@@ -4,7 +4,7 @@ name: Developer Experience Tooling
 description: "A one-command local setup, pinned toolchains, a doctor script, fast feedback loops and the routines that keep engineers solving problems instead of fighting their machines."
 category: business
 version: 1.0.0
-tags: [software-engineering, developer-experience-tooling, engineer, team, local-setup, dev-environment, scripts, feedback-loop]
+tags: [software-engineering, developer-experience-tooling, engineer, team, local-setup, dev-environment, scripts, feedback-loop, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Developer friction survey of the team
               description: |-
                 ## Purpose
-                Before changing any tooling, find out where the time actually goes, because the loudest complaint is rarely the most expensive one. A short survey asking each engineer for their three worst daily annoyances and a rough minutes-lost estimate produces a ranked list that every later project in this area can be judged against.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before changing any tooling, find out where the time actually goes, because the loudest complaint is rarely the most expensive one. A short survey asking each engineer for their three worst daily annoyances and a rough minutes-lost estimate produces a ranked list that every later project in this area can be judged against.
 
                 ## Milestones
                 1. A survey of no more than eight questions sent to every engineer, including minutes lost per week to each named problem.

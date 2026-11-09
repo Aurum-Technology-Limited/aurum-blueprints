@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Present counselling as looking after the relationship, not as proof that one person is the problem. Proposing it in the middle of a row almost always gets a no.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -62,7 +64,7 @@ starter_structure:
                 4. Any safety concern mentioned to the therapist in an individual call before joint sessions begin.
 
                 ## Notes
-                This is a planning step, not a diagnosis. If you are in danger now, call your local emergency number. Recognising controlling patterns and planning to leave belongs with specialist support services rather than couples counselling.
+                This is a planning step, not a diagnosis. If you are in danger now, call your local emergency number. Recognising controlling patterns and planning to leave belongs with specialist support services rather than couples counselling. Example helplines: the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -423,7 +425,7 @@ starter_structure:
                 5. The plan reviewed with the therapist and adjusted.
 
                 ## Notes
-                If a flare-up ever involves threats, damage to property or physical harm, stop joint sessions and contact the therapist individually and a support service.
+                If a flare-up ever involves threats, damage to property or physical harm, stop joint sessions and contact the therapist individually and a support service. If you are in danger, get somewhere safe and call your local emergency number; a domestic abuse helpline can help you plan next steps.
               priority: high
               frontmatter:
                 mode: building
@@ -966,7 +968,7 @@ starter_structure:
                 4. A date to revisit the question if the answer is still no.
 
                 ## Notes
-                Going alone is not a failure. Individual sessions focused on the relationship can change the dynamic, and many partners join later.
+                Going alone is not a failure. Individual sessions focused on the relationship can change the dynamic, and many partners join later. If the reluctance comes with anger, threats or control over whether you may go, treat that as a safety question first and see the safety check project.
               priority: medium
               frontmatter:
                 mode: building

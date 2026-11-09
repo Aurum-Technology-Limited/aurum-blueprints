@@ -4,7 +4,7 @@ name: Family Crisis and Reputation Plan
 description: "A family crisis plan that works at 2am: a named crisis team, advisers already engaged, rules on who speaks, holding statements, playbooks for illness, scandal and lawsuits, and a practice run."
 category: personal
 version: 1.0.0
-tags: [family-office, family-crisis-and-reputation-plan, parent, crisis-management, reputation, crisis-communications, tabletop-exercise]
+tags: [family-office, family-crisis-and-reputation-plan, parent, crisis-management, reputation, crisis-communications, tabletop-exercise, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Family crisis scenario inventory
               description: |-
                 ## Purpose
-                Families who cope well with a crisis have usually named it in advance, so the first hour is spent acting rather than arguing about what is happening. Listing the twelve to fifteen events that could realistically hit this family, from the founder's stroke to a cousin's arrest or a class action against the family company, and scoring each for likelihood and impact, tells you which playbooks to write first.
+                Families who cope well with a crisis have usually named it in advance, so the first hour is spent acting rather than arguing about what is happening. Listing the twelve to fifteen events that could realistically hit this family, from the founder's stroke to a cousin's arrest or a class action against the family company, and scoring each for likelihood and impact, tells you which playbooks to write first. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A list of at least twelve plausible crisis scenarios covering health, legal, conduct, business, disaster and exposure events.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Ask each adult branch privately what keeps them awake. The scenario a family is most embarrassed to name is often the one most worth planning for.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -45,7 +47,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Write down every crisis that has hit this family or a family you know in the last twenty years"
+                - "Ask the crisis team to list every crisis that hit this family or families they know in twenty years"
                 - "Ask each adult branch head privately which events worry them most"
                 - "Score every scenario for likelihood and impact on a one to five scale"
                 - "Agree the top five scenarios with the family lead and record the reasons"

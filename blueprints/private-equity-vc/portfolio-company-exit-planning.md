@@ -4,7 +4,7 @@ name: Portfolio Company Exit Planning
 description: "Prepare a portfolio company for sale from early in the hold: exit routes and timing, buyer maps, vendor due diligence, the equity story, adviser choice and a sale run with management."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, portfolio-company-exit-planning, knowledge-worker, private-equity, exit-planning, sale-process, vendor-due-diligence, equity-story]
+tags: [private-equity-vc, portfolio-company-exit-planning, knowledge-worker, private-equity, exit-planning, sale-process, vendor-due-diligence, equity-story, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Exit readiness baseline early in the hold
               description: |-
                 ## Purpose
-                Most of what decides an exit price is fixed or broken years before the sale: the quality of the numbers, the depth of the team, customer concentration and how clean the legal record is. Scoring the company against what a buyer will test, within the first year of ownership, turns exit preparation into a list of things to fix rather than a scramble in the final six months.
+                Most of what decides an exit price is fixed or broken years before the sale: the quality of the numbers, the depth of the team, customer concentration and how clean the legal record is. Scoring the company against what a buyer will test, within the first year of ownership, turns exit preparation into a list of things to fix rather than a scramble in the final six months. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A readiness checklist covering financial reporting, KPIs, team, customers, legal, tax, technology and ESG agreed with the deal lead.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Score as a sceptical buyer would, not as the deal team that wrote the thesis. Ask a colleague who did not work on the deal to challenge the greens.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
@@ -1009,7 +1011,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "20"
               tasks:
-                - "List every exit workstream you will own and estimate the hours"
+                - "List every exit workstream with its owner and estimated hours"
                 - "Agree a deputy or interim for the monthly close"
                 - "Set up a Q and A tracker with a two-day response target"
                 - "Review readiness and workload with the deal team @recurring(monthly:6)"

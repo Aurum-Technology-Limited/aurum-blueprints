@@ -4,7 +4,7 @@ name: Data Warehouse Build
 description: "A charter, source inventory and bus matrix, a layered architecture with standards and environments, star schemas with honest grain and history, and the reviews, migration and cutover work that make a warehouse trusted."
 category: business
 version: 1.0.0
-tags: [data-analytics, data-warehouse-build, engineer, team, enterprise, dimensional-modelling, star-schema, warehouse-migration]
+tags: [data-analytics, data-warehouse-build, engineer, team, enterprise, dimensional-modelling, star-schema, warehouse-migration, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Warehouse charter tied to twenty business questions
               description: |-
                 ## Purpose
-                Warehouses that start from a list of source systems end up as expensive copies of those systems that nobody queries. Writing a one-page charter around the twenty questions leaders cannot answer today, who asks them and what decision each one feeds gives every later design choice a test: does it help answer one of these?
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Warehouses that start from a list of source systems end up as expensive copies of those systems that nobody queries. Writing a one-page charter around the twenty questions leaders cannot answer today, who asks them and what decision each one feeds gives every later design choice a test: does it help answer one of these?
 
                 ## Milestones
                 1. Twenty business questions collected from at least five teams, each with the person who asks it and the decision it informs.

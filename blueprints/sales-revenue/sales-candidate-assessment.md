@@ -4,7 +4,7 @@ name: Sales Candidate Assessment
 description: "A sales hiring process that predicts success: a scorecard built from your best sellers, role plays and mock calls with anchored scoring, disciplined debriefs and reference checks, and reviews that show which hires worked."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-candidate-assessment, manager, founder, enterprise, sales-hiring, role-play, reference-checks]
+tags: [sales-revenue, sales-candidate-assessment, manager, founder, enterprise, sales-hiring, role-play, reference-checks, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Lessons from past sales hires who left early
               description: |-
                 ## Purpose
-                Before designing anything new, look at the last eight to twelve sellers you hired and sort them into those who hit plan, those who scraped by and those who left or were let go inside eighteen months. The pattern in the misses, such as hiring for confidence over preparation or skipping references, tells you which part of the current process is failing and where the new assessment must be strongest.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before designing anything new, look at the last eight to twelve sellers you hired and sort them into those who hit plan, those who scraped by and those who left or were let go inside eighteen months. The pattern in the misses, such as hiring for confidence over preparation or skipping references, tells you which part of the current process is failing and where the new assessment must be strongest.
 
                 ## Milestones
                 1. A list of every seller hired in the last two or three years, with start date, leaving date if any and attainment in their first full year.

@@ -4,7 +4,7 @@ name: Shareholder AGM Preparation
 description: "Shareholder meetings run to the rules: AGM obligations, notices, proxies and resolutions, routines for filings and registers, and plans for votes on deals, pay and new articles."
 category: business
 version: 1.0.0
-tags: [fundraising-investors, shareholder-agm-preparation, founder, manager, enterprise, company-secretarial, proxy-voting, resolutions]
+tags: [fundraising-investors, shareholder-agm-preparation, founder, manager, enterprise, company-secretarial, proxy-voting, resolutions, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Annual general meeting obligation check
               description: |-
                 ## Purpose
-                Whether the company must hold an AGM at all depends on the law where it is incorporated, its articles and any shareholders' agreement, and the answers differ more than founders expect. Some private companies need not hold one unless their articles say so, while public and listed companies almost always must. Settling the question in writing, with counsel, decides whether everything else in this area is a legal duty or a good habit.
+                Whether the company must hold an AGM at all depends on the law where it is incorporated, its articles and any shareholders' agreement, and the answers differ more than founders expect. Some private companies need not hold one unless their articles say so, while public and listed companies almost always must. Settling the question in writing, with counsel, decides whether everything else in this area is a legal duty or a good habit. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The country of incorporation and company type confirmed from the certificate of incorporation.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 In the UK, for example, a private company need not hold an AGM unless its articles require one, but a public company must. Treat that as an illustration and confirm your own position with counsel.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -958,7 +958,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "12"
               tasks:
-                - "List every company secretarial duty you now hold with its deadline"
+                - "Finance manager lists every company secretarial duty they now hold with its deadline"
                 - "Name an adviser or counsel for questions beyond your experience"
                 - "Complete a short course or guide on company secretarial practice"
                 - "Block two hours for company secretarial work @recurring(monthly:8)"

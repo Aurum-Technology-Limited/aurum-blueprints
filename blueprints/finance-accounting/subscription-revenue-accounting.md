@@ -4,7 +4,7 @@ name: Subscription Revenue Accounting
 description: "A deferred revenue ledger you can prove, written MRR, ARR and churn definitions, a monthly waterfall and MRR bridge, contract change rules and the audit and investor work that recurring revenue attracts."
 category: business
 version: 1.0.0
-tags: [finance-accounting, subscription-revenue-accounting, founder, manager, team, saas, deferred-revenue, mrr, churn]
+tags: [finance-accounting, subscription-revenue-accounting, founder, manager, team, saas, deferred-revenue, mrr, churn, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Subscription contract and plan inventory
               description: |-
                 ## Purpose
-                Every number in subscription accounting starts from knowing exactly what each customer bought: the plan, the price, the term, the billing frequency and the start and end dates. Most young SaaS companies have this split across a billing tool, a CRM and a folder of signed order forms that disagree with each other. Building one inventory, reconciled to what is actually billed, is the first job before any waterfall or MRR figure can be trusted.
+                Every number in subscription accounting starts from knowing exactly what each customer bought: the plan, the price, the term, the billing frequency and the start and end dates. Most young SaaS companies have this split across a billing tool, a CRM and a folder of signed order forms that disagree with each other. Building one inventory, reconciled to what is actually billed, is the first job before any waterfall or MRR figure can be trusted. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. One list of every active subscription with customer, plan, price, currency, term, billing frequency and service dates.
@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 Include customers on free trials and paused accounts in a separate tab. They are not revenue, but they are the most common source of miscounted MRR.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -1184,4 +1184,4 @@ starter_structure:
 
 This area is for SaaS founders keeping their own books, finance managers who have inherited a subscription business and the small teams who share the work between sales, billing and finance. It starts with the foundations (a contract inventory, written MRR, ARR and churn definitions, a deferred revenue account structure and a rebuilt opening balance), moves through the monthly machinery of waterfalls, MRR bridges and billing to ledger reconciliations, then the skills behind proration, upgrades, setup fees and discounts, the decisions about billing platforms and automation, dated moments such as a first audit or investor due diligence, situations for founders and new finance leads, and finally specialist work on contract costs, remaining performance obligations and acquired customer books.
 
-What repeats is the subscription close: usage accruals on the 2nd, the billing to ledger reconciliation on the 4th, the deferred revenue waterfall and MRR bridge in the first week, unbilled and credit reviews in the middle of the month, a weekly contract changes log, a renewals look-ahead on the 20th and a quarterly board pack, with yearly reviews of definitions, price changes and year-end cut-off. The Metrics log, Board meeting, Purchase decision and Operational checklist templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is the subscription close: usage accruals on the 2nd, the billing to ledger reconciliation on the 4th, the deferred revenue waterfall and MRR bridge in the first week, unbilled and credit reviews in the middle of the month, a weekly contract changes log, a renewals look-ahead on the 20th and a quarterly board pack, with yearly reviews of definitions, price changes and year-end cut-off. The Metrics log, Board meeting, Purchase decision and Operational checklist templates pair with the projects that name them. In a shared workspace, billing owns contract data, finance owns deferred revenue and metrics, and judgement calls are agreed with the auditor or a qualified accountant. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

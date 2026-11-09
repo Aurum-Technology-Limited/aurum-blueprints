@@ -4,7 +4,7 @@ name: Deliverable Quality Control
 description: "A checking routine for consulting work before the client sees it: numbers tied to sources, consistent pages, fact checks, confidentiality sweeps, a final read-through and a recorded sign-off."
 category: business
 version: 1.0.0
-tags: [management-consulting, deliverable-quality-control, knowledge-worker, team, quality-control, proofreading, fact-checking, sign-off]
+tags: [management-consulting, deliverable-quality-control, knowledge-worker, team, quality-control, proofreading, fact-checking, sign-off, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Error baseline from your last three deliverables
               description: |-
                 ## Purpose
-                Before building a checking routine, find out which mistakes you actually make. Going back through the comments, redlines and client corrections on your last three decks or reports usually shows that most errors fall into four or five repeat types, such as totals that do not add, inconsistent units or titles that no longer match the chart.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before building a checking routine, find out which mistakes you actually make. Going back through the comments, redlines and client corrections on your last three decks or reports usually shows that most errors fall into four or five repeat types, such as totals that do not add, inconsistent units or titles that no longer match the chart.
 
                 ## Milestones
                 1. Comments and corrections from three recent deliverables gathered in one place, with client details removed.

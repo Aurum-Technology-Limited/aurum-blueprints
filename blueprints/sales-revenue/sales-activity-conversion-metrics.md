@@ -4,7 +4,7 @@ name: Sales Activity & Conversion Metrics
 description: "Clear activity definitions, stage conversion and cycle length baselines, weekly and monthly leak reviews, and the analysis skills that show which selling activities really produce revenue."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-activity-conversion-metrics, manager, team, small-business, conversion-rates, sales-cycle, sales-metrics]
+tags: [sales-revenue, sales-activity-conversion-metrics, manager, team, small-business, conversion-rates, sales-cycle, sales-metrics, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Decisions your sales metrics must inform
               description: |-
                 ## Purpose
-                Most sales reports grow by accretion: someone asks for a number once and it stays forever, while the questions that really matter go unanswered. Writing down the five or six decisions the metrics must support, such as where to add a seller, which segment to prioritise or which stage needs coaching, gives every later report a test it has to pass.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most sales reports grow by accretion: someone asks for a number once and it stays forever, while the questions that really matter go unanswered. Writing down the five or six decisions the metrics must support, such as where to add a seller, which segment to prioritise or which stage needs coaching, gives every later report a test it has to pass.
 
                 ## Milestones
                 1. A list of five or six recurring sales decisions agreed with the sales leader or owner.

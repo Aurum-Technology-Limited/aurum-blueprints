@@ -4,7 +4,7 @@ name: Financial Due Diligence (QoE)
 description: "A scoped request list, an EBITDA bridge you can defend, a working capital peg, a net debt schedule and a findings log that turns every diligence issue into a price, structure or protection decision."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, financial-due-diligence-qoe, knowledge-worker, quality-of-earnings, normalised-ebitda, working-capital, net-debt, buyouts]
+tags: [private-equity-vc, financial-due-diligence-qoe, knowledge-worker, quality-of-earnings, normalised-ebitda, working-capital, net-debt, buyouts, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Financial diligence scope and request list
               description: |-
                 ## Purpose
-                Most diligence overruns start with a request list copied from the last deal, which asks for forty things the target does not have and misses the three that matter. A scope written around this deal's thesis and its likely weak points, turned into a numbered request list, tells management what to prepare and tells advisers what to price.
+                Most diligence overruns start with a request list copied from the last deal, which asks for forty things the target does not have and misses the three that matter. A scope written around this deal's thesis and its likely weak points, turned into a numbered request list, tells management what to prepare and tells advisers what to price. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The three to five questions the financial work must answer written down, each tied to the thesis or a known concern.
@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Ask for monthly data from the start. Annual numbers hide seasonality, one-off months and the run-rate you will be pricing on.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 10
               frontmatter:
@@ -93,7 +95,7 @@ starter_structure:
                 effort_hours_estimate: "12"
               tasks:
                 - "Load the raw monthly trial balances onto a separate untouched tab"
-                - "Map the target's chart of accounts to your standard layout"
+                - "Associate maps the target's chart of accounts to the fund's standard layout"
                 - "Build the trailing twelve months column for each line"
                 - "Tie each month's totals back to the management accounts"
             - name: Management accounts to audited accounts reconciliation
@@ -417,7 +419,7 @@ starter_structure:
                 - "Write the checklist by area from your current request list"
                 - "Tag each item always, if relevant or specialist"
                 - "Refresh the checklist with the year's lessons and standard changes @recurring(yearly)"
-                - "Share the dated version with the associates you work with"
+                - "Deal VP shares the dated version with the associates on the team"
             - name: QoE adviser panel scorecard
               description: |-
                 ## Purpose

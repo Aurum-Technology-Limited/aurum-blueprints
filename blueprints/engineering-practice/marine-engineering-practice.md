@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Many publications are now held electronically under a fleet licence. Check the licence covers the vessel you are on, since inspectors do ask for current editions.
+
+                Before you start: this plan is general information to help you organise your own work. It does not replace your professional judgement, the rules of your regulator or professional body, your firm's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               frontmatter:
                 mode: building

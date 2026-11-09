@@ -1,0 +1,1735 @@
+[
+ {
+  "id": "data-analytics.algorithmic-bias-review",
+  "status": "publish",
+  "reason": "Team plan. Four-fifths rule correctly framed as a screening heuristic, not a legal test; protected characteristics, threshold changes and hiring use all routed to counsel and HR; no promised outcomes",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": [
+   "https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1607/section-1607.4"
+  ]
+ },
+ {
+  "id": "data-analytics.analytics-request-intake",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.anomaly-detection-alerts",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.churn-prediction-models",
+  "status": "publish",
+  "reason": "Team plan. Data protection review before using ticket text or contact data; numbers are illustrative modelling choices",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.cloud-data-platform-selection",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.customer-data-platform",
+  "status": "publish",
+  "reason": "Team plan. Consent, lawful basis and statutory deadlines for data requests left to the privacy lead or DPO; covert fingerprinting ruled out; no jurisdiction-specific claims",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": [
+   "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/"
+  ]
+ },
+ {
+  "id": "data-analytics.data-anonymisation-privacy",
+  "status": "publish",
+  "reason": "Team plan. Claims accurate: pseudonymised data stays personal data in the key holder's hands; HIPAA safe harbour and expert determination named correctly; every legal call goes to the privacy team",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": [
+   "https://www.hhs.gov/hipaa/for-professionals/special-topics/de-identification/index.html",
+   "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-sharing/anonymisation/"
+  ]
+ },
+ {
+  "id": "data-analytics.data-catalogue-lineage",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.data-contracts-schemas",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.data-governance-ownership",
+  "status": "publish",
+  "reason": "Team plan. Retention periods explicitly left to legal and records management; GDPR given only as an example; legal-hold check included",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.data-quality-monitoring",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.data-warehouse-build",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.data-warehouse-cost-control",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.elt-data-pipelines",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.kpi-metric-definitions",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.master-data-management",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.model-drift-monitoring",
+  "status": "publish",
+  "reason": "Team plan. Sector model-risk rules and use of protected-group data routed to privacy, legal and compliance; operational only",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.operations-analytics",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.organisation-data-literacy",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.real-time-streaming-data",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.reverse-etl-data-activation",
+  "status": "publish",
+  "reason": "Team plan. Erasure and opt-out propagation explicitly deferred to the privacy lead or DPO; operational thresholds only",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.self-serve-analytics-enablement",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.sql-training-for-teams",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "data-analytics.weekly-metrics-review-meeting",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "it-security.single-sign-on-identity",
+  "status": "publish",
+  "reason": "Team plan. Matches vendor best practice (two cloud-only break-glass accounts with phishing-resistant sign-in, monitored and tested; small super-admin group; certificate expiry calendar); no regulatory claims",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": [
+   "https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/security-emergency-access"
+  ]
+ },
+ {
+  "id": "management-consulting.benchmarking-studies",
+  "status": "publish",
+  "reason": "Team plan. Includes a competition-law briefing and aggregated-only sharing for competitor cost and price data; public-sector statutory duties compared before metrics are chosen",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.consulting-firm-partnership-model",
+  "status": "publish",
+  "reason": "Team plan. Legal vehicle, partner tax and buy-in terms all routed to legal and tax advisers and the accountant, with no jurisdiction-specific rules stated",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.consulting-knowledge-reuse",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.cost-reduction-engagements",
+  "status": "publish",
+  "reason": "Team plan. Role reductions, severance and consultation are left to the client's HR and employment lawyers; competition-law clean-team rules defer to the lawyers; savings are not promised",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.deliverable-quality-control",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.engagement-kickoff",
+  "status": "publish",
+  "reason": "Team plan. Insider-list and disclosure rules are left to the client's legal team",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.final-recommendations-readout",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.hiring-consultants-for-a-boutique",
+  "status": "publish",
+  "reason": "Team plan. Employment status, right-to-work, discrimination, permits and payroll routed to official guidance in the user's country and an accountant; the 60% utilisation figure is labelled a rule of thumb",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.implementation-support-phases",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.operations-improvement-engagements",
+  "status": "publish",
+  "reason": "Team plan. Union and collective-agreement consultation decided by the client's employee relations or legal team; queueing heuristics standard",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.organisation-design-engagements",
+  "status": "publish",
+  "reason": "Team plan. Duties to consult works councils and unions about job changes are left to the client's employment counsel in writing, with the consultant told never to advise on employment law",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.pricing-strategy-engagements",
+  "status": "publish",
+  "reason": "Team plan. The client's counsel sets written competition-law guardrails before any competitor data is collected",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.proprietary-frameworks-and-tools",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.public-sector-consulting-engagements",
+  "status": "publish",
+  "reason": "Team plan. Procurement thresholds left to current published rules plus an adviser check; UK Green Book and Magenta Book correctly labelled as HM Treasury examples; contractor tax status and post-government business-appointment rules routed to advisers",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": [
+   "https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government",
+   "https://www.gov.uk/government/publications/the-magenta-book"
+  ]
+ },
+ {
+  "id": "management-consulting.steering-committee-meetings",
+  "status": "publish",
+  "reason": "Team plan. No regulated claims; numbers are illustrative operating targets and heuristics; no outcome promises; roles already named; not a duplicate of a live blueprint",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "management-consulting.transformation-office-support",
+  "status": "publish",
+  "reason": "Team plan. Clean-team and competition-law limits before a deal completes are confirmed with counsel; savings evidence rules are sound",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with a one-sentence team-plan note recommending a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.api-platform-products",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.beta-early-access-programmes",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.build-vs-buy-decisions",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.consumer-app-engagement-loops",
+  "status": "publish",
+  "reason": "Ethics charter and children/age-appropriate design project route the law to a legal adviser",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.customer-advisory-board",
+  "status": "publish",
+  "reason": "Anti-bribery/gift policy checked with compliance and competition-law safeguards agreed with legal are already included",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.customer-feedback-triage",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.enterprise-feature-readiness",
+  "status": "publish",
+  "reason": "VPAT/WCAG conformance report done honestly from an audit; contract commitments routed through legal",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.feature-adoption-tracking",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.feature-deprecation-sunsetting",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.feature-request-voting-board",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.freemium-trial-design",
+  "status": "publish",
+  "reason": "Card-upfront project requires pre-charge reminder, easy cancellation and checking auto-renewal rules per country; app-store intro offers checked against current store rules",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.hardware-product-development",
+  "status": "fixed",
+  "reason": "Certification map corrected for GB CE recognition; already says confirm with an accredited lab or compliance consultant, and accountant/adviser notes are present",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence",
+   "Approvals example now says CE in the EU, UKCA or (for many product types) CE in Great Britain, FCC in the US, ISED in Canada"
+  ],
+  "sources": [
+   "https://www.trade.gov/market-intelligence/united-kingdom-extends-ce-mark-recognition",
+   "https://legislation.gov.uk/ukia/2024/78/pdfs/ukia_20240078_en.pdf"
+  ]
+ },
+ {
+  "id": "product-management.in-app-monetisation",
+  "status": "publish",
+  "reason": "No hard-coded commission rates (tells reader to confirm in each store's developer terms); external payment links, children's apps, loot-box odds and creator payouts all route to counsel/accountant",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.internal-tools-product-ownership",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.mvp-scoping",
+  "status": "hold",
+  "reason": "Substantial duplicate of live founding-startups.mvp-scoping-and-build: same riskiest-assumption, pass/fail threshold, time box, concierge/Wizard-of-Oz, story map, cut list, sign-up wall, taking money, part-time/technical-founder projects; still founder-oriented, not a distinct team plan",
+  "changes": [
+   "Reverted to original (no team-plan tag)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.new-user-activation-flows",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.north-star-metric-inputs",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.notifications-messaging-features",
+  "status": "fixed",
+  "reason": "US messaging rules named precisely; consent primer already defers to a privacy adviser",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence",
+   "Consent primer now names CAN-SPAM for commercial email and the TCPA for texts in the US (was CAN-SPAM alone for email, SMS and push)"
+  ],
+  "sources": [
+   "https://www.govinfo.gov/content/pkg/FR-2024-03-05/html/2024-04587.htm",
+   "https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business"
+  ]
+ },
+ {
+  "id": "product-management.pricing-packaging-design",
+  "status": "publish",
+  "reason": "Pricing risk register routes auto-renewal, price display, tax and revenue recognition to qualified advisers; no promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-analytics-instrumentation",
+  "status": "publish",
+  "reason": "Analytics consent/personal data work deferred to privacy/legal/data protection lead",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-backlog-grooming",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-growth-experiments",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-launch-management",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-led-retention",
+  "status": "publish",
+  "reason": "Deceptive-pattern audit routes auto-renewal/consumer rules to a qualified adviser; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-line-extensions",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-localisation",
+  "status": "publish",
+  "reason": "Market legal questions (language rules e.g. Quebec French, data protection, consumer law, invoicing, accessibility) routed to qualified advisers; text-expansion figures are standard localisation guidance",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-operations",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-portfolio-management",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-team-okrs",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-trio-collaboration",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.product-user-segment-definitions",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.regulated-product-requirements",
+  "status": "publish",
+  "reason": "Named standards checked (IEC 62304 software lifecycle, ISO 14971 risk management, PCI DSS, ISO 27001, SOC 2, FERPA/COPPA as US examples); everything is framed as briefing questions for counsel/regulatory affairs, no legal conclusions",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": [
+   "https://www.iso.org/standard/72704.html",
+   "https://www.iso.org/standard/38421.html",
+   "https://studentprivacy.ed.gov/ferpa",
+   "https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa"
+  ]
+ },
+ {
+  "id": "product-management.release-notes-changelog",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.search-discovery-features",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.staged-feature-rollouts",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.third-party-integration-priorities",
+  "status": "publish",
+  "reason": "Team process plan; claims are generic operating practice (cadences, thresholds as examples), legal/privacy/security points already deferred to the relevant specialist; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.two-sided-marketplace-products",
+  "status": "publish",
+  "reason": "Not a duplicate: live founding-startups.two-sided-marketplace-launch covers pre-launch and cold start; this is the scale-stage operating plan for a marketplace product team (health reviews, fraud/dispute queues, policy reviews, fee-change rollout, transparency report, power-seller risk, switchback experiments). Regulation map, payments licensing, buyer protection and licensed-provider projects all defer to a qualified lawyer/adviser",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "product-management.usage-based-billing-design",
+  "status": "publish",
+  "reason": "Revenue recognition and commit/shortfall terms explicitly left to accountant/auditor and lawyer; rules said to differ by country and standard",
+  "changes": [
+   "Added team-plan tag",
+   "First project Purpose now opens with the team-plan / shared-workspace sentence"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.account-based-selling",
+  "status": "fixed",
+  "reason": "Team plan; regulated points hedged to counsel/finance; small textual fix applied",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace",
+   "Gifting note now names the UK Bribery Act 2010 and US FCPA and routes gifting rules to legal/compliance"
+  ],
+  "sources": [
+   "https://www.gov.uk/government/publications/bribery-act-2010-guidance",
+   "https://www.justice.gov/criminal/criminal-fraud/foreign-corrupt-practices-act"
+  ]
+ },
+ {
+  "id": "sales-revenue.annual-sales-kickoff",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.deal-desk-discount-approvals",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.inbound-lead-response-routing",
+  "status": "fixed",
+  "reason": "Team plan; regulated points hedged to counsel/finance; small textual fix applied",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace",
+   "Consent project note names example rules by country (UK: PECR, UK GDPR; US: TCPA for calls/texts, CAN-SPAM for email) before routing to the data protection adviser"
+  ],
+  "sources": [
+   "https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/",
+   "https://www.fcc.gov/general/telemarketing-and-robocalls",
+   "https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business"
+  ]
+ },
+ {
+  "id": "sales-revenue.international-sales-expansion",
+  "status": "publish",
+  "reason": "Tax registration, taxable presence, EOR, local contracts, data transfer and export controls/sanctions all framed as questions for qualified advisers; no jurisdiction-specific rules asserted",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.lost-deal-analysis",
+  "status": "fixed",
+  "reason": "Team plan; regulated points hedged to counsel/finance; small textual fix applied",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace",
+   "Lost-buyer call task now names the sales manager instead of 'yourself'"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.product-led-sales-motion",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.quote-cpq-management",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.revenue-operations-setup",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.rfp-response-management",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-activity-conversion-metrics",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-candidate-assessment",
+  "status": "publish",
+  "reason": "Interview lawfulness, salary-history rules, references, tests and background checks routed to HR/employment adviser by country; consent recorded for recordings",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-coaching-call-review",
+  "status": "publish",
+  "reason": "Call-recording consent varies by country/state (some all-party) stated correctly and routed to legal/privacy lead",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-commission-payouts",
+  "status": "publish",
+  "reason": "Commission law hedged correctly: California written commission agreement (Lab. Code 2751) cited as example, deductions/final pay routed to employment counsel; IFRS 15/ASC 340-40 capitalisation described accurately and left to finance",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": [
+   "https://california.public.law/codes/ca_lab_code_section_2751",
+   "https://www.legislation.gov.uk/ukpga/1996/18/section/13",
+   "https://www.acas.org.uk/deductions-from-pay-and-wages",
+   "https://dart.deloitte.com/USDART/home/codification/revenue/asc606-10/roadmap-revenue-recognition/chapter-13-contract-costs/13-4-amortization-impairment-contract-costs"
+  ]
+ },
+ {
+  "id": "sales-revenue.sales-compensation-plan-design",
+  "status": "publish",
+  "reason": "Plan documents, clawbacks, leaver recovery, mid-year changes and equity all routed to employment counsel per jurisdiction; IFRS 15/ASC 340-40 statement accurate ('often capitalised')",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": [
+   "https://california.public.law/codes/ca_lab_code_section_2751",
+   "https://www.legislation.gov.uk/ukpga/1996/18/section/13",
+   "https://dart.deloitte.com/USDART/home/codification/revenue/asc606-10/roadmap-revenue-recognition/chapter-13-contract-costs/13-4-amortization-impairment-contract-costs"
+  ]
+ },
+ {
+  "id": "sales-revenue.sales-contests-spiffs",
+  "status": "publish",
+  "reason": "Prize tax treatment, clawbacks and partner-staff incentives (bribery risk) all routed to payroll/tax adviser/legal; no country-specific figures asserted",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": [
+   "https://www.gov.uk/government/publications/bribery-act-2010-guidance",
+   "https://www.legislation.gov.uk/ukpga/1996/18/section/13"
+  ]
+ },
+ {
+  "id": "sales-revenue.sales-crm-administration",
+  "status": "publish",
+  "reason": "GDPR (Europe) and CCPA (California) data-subject rights stated accurately; procedure confirmation left to data protection lead",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": [
+   "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/",
+   "https://oag.ca.gov/privacy/ccpa"
+  ]
+ },
+ {
+  "id": "sales-revenue.sales-development-team-management",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-enablement-content",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-methodology-adoption",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-pipeline-forecasting",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-pitch-deck",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-playbook-development",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-quota-capacity-modelling",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-rep-onboarding-ramp",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-tech-stack-selection",
+  "status": "publish",
+  "reason": "Recording consent, vendor privacy screening and contract review routed to legal/privacy advisers; no outcome promises",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.sales-territory-planning",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "sales-revenue.weekly-pipeline-review-cadence",
+  "status": "publish",
+  "reason": "Team process plan with roles named (sales, finance, legal, HR, RevOps); legal/tax/privacy points already routed to qualified advisers; no outcome promises or unverifiable figures",
+  "changes": [
+   "Added team-plan tag",
+   "First project now states it is a team plan best installed into a shared workspace"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.application-security-testing",
+  "status": "publish",
+  "reason": "Refers to 'current' OWASP Top 10/API Top 10 without pinning editions; CVSS/EPSS/KEV, CycloneDX/SPDX SBOM, PCI DSS framed as example with assessor check; written-permission-only testing rule, legal review of safe-harbour and licence policy present",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": [
+   "https://top10.owasp.org/",
+   "https://www.first.org/epss/",
+   "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+  ]
+ },
+ {
+  "id": "software-engineering.architecture-review-board",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.build-systems-monorepos",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.chaos-engineering-resilience",
+  "status": "publish",
+  "reason": "Safety charter with stop rules, kill switch and named halt authority before any experiment",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.cloud-cost-optimisation-finops",
+  "status": "publish",
+  "reason": "Commitment purchases require finance approval and baseline usage; no promised savings",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.code-review-practice",
+  "status": "fixed",
+  "reason": "SOC 2/ISO 27001 do not prescribe a specific control; softened 'must show' independent review to 'usually expected', compliance-owner check already present",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose",
+   "SOC 2 / ISO 27001 project: 'must show' changed to 'are usually expected to show' changes were reviewed by someone other than the author"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.coding-standards-linting",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.continuous-integration-deployment",
+  "status": "publish",
+  "reason": "SOC 2/ISO 27001 evidence framed generically; SLSA build levels referenced without wrong specifics",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": [
+   "https://slsa.dev/spec/v1.0/levels"
+  ]
+ },
+ {
+  "id": "software-engineering.dependency-upgrades-patching",
+  "status": "publish",
+  "reason": "Patch targets given as examples to agree, EOL dates to confirm on project pages, SBOM/provenance guidance generic and accurate",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.developer-experience-tooling",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.end-to-end-test-suites",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.engineer-onboarding",
+  "status": "publish",
+  "reason": "Retention/performance data group-level only with HR agreement; contractor IP terms checked with contract owner",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.engineering-delivery-metrics-dora",
+  "status": "fixed",
+  "reason": "DORA definitions accurate (lead time commit to production) but metric set outdated; updated to current dora.dev naming",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose",
+   "Definitions note now says dora.dev calls the fourth metric failed deployment recovery time and adds deployment rework rate as a fifth",
+   "Reliability project no longer says DORA 'added reliability as a fifth measure'; now 'has also measured operational reliability since 2021'"
+  ],
+  "sources": [
+   "https://dora.dev/guides/dora-metrics-four-keys/"
+  ]
+ },
+ {
+  "id": "software-engineering.engineering-documentation-adrs",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.engineering-interview-loops",
+  "status": "publish",
+  "reason": "Fair-interviewing checklist content sourced from HR/employment counsel by country; accessibility adjustments, privacy owner checks data retention, paid work samples; no jurisdiction-specific claims",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": [
+   "https://www.eeoc.gov/prohibited-practices",
+   "https://www.gov.uk/employer-preventing-discrimination/recruitment"
+  ]
+ },
+ {
+  "id": "software-engineering.engineering-mentorship-pairing",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.engineering-on-call-rotation",
+  "status": "publish",
+  "reason": "Working-time/standby rules deferred to HR and employment counsel per country; on-call pay policy agreed with HR/finance; no specific legal claims",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose",
+   "Dropped topic tag 'alerting' to stay within the 10-tag limit"
+  ],
+  "sources": [
+   "https://www.gov.uk/maximum-weekly-working-hours"
+  ]
+ },
+ {
+  "id": "software-engineering.incident-postmortems",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.internal-developer-platform",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.internal-hackathons",
+  "status": "publish",
+  "reason": "Code ownership checked with legal, prizes checked with HR/finance against gift and tax rules",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.large-scale-refactoring",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.legacy-system-migration",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.load-capacity-testing",
+  "status": "publish",
+  "reason": "Queueing claims (utilisation above ~80% raises waits steeply, Little's law) accurate; tells teams to notify cloud provider/security before large tests",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.microservices-decomposition",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.observability-monitoring",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.service-level-objectives",
+  "status": "publish",
+  "reason": "SLO/error-budget arithmetic checked (burn rate 14.4 spends 2% of a 30-day budget in one hour); contract SLA terms deferred to contract owner",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": [
+   "https://sre.google/workbook/alerting-on-slos/"
+  ]
+ },
+ {
+  "id": "software-engineering.software-release-management",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.sprint-planning-estimation",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "software-engineering.technical-debt-paydown",
+  "status": "publish",
+  "reason": "Team engineering process; claims generic engineering practice with no regulated or jurisdiction-specific facts needing correction",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to the first project's Purpose"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.acquisition-strategy",
+  "status": "publish",
+  "reason": "Insider rules, competition/regulatory review, retention terms and foreign investment all deferred to counsel and tax advisers",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.annual-strategic-planning-cycle",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.board-composition-and-effectiveness",
+  "status": "publish",
+  "reason": "Directors'/trustees' duties, conflicts, removal and pay deferred to company secretary/lawyer/regulator guidance; 'many charities cannot pay trustees without specific permission' accurate for England & Wales",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": [
+   "https://www.gov.uk/government/publications/trustee-expenses-and-payments-cc11",
+   "https://www.gov.uk/government/publications/the-essential-trustee-what-you-need-to-know-cc3"
+  ]
+ },
+ {
+  "id": "strategy-leadership.board-strategy-sessions",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.business-turnaround-leadership",
+  "status": "publish",
+  "reason": "Creditor-interest duty near insolvency stated generally and correctly, with lawyer/IP briefing; workforce reduction and personal guarantees require employment and independent personal advice",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": [
+   "https://www.gov.uk/government/publications/insolvency-information-for-directors"
+  ]
+ },
+ {
+  "id": "strategy-leadership.business-unit-portfolio-review",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.ceo-and-executive-succession",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.company-values-and-culture-definition",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.company-vision-and-mission",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.competitive-landscape-strategy-review",
+  "status": "publish",
+  "reason": "Competitor-intelligence sourcing rules and no price discussions with rivals, reviewed by legal adviser; accurate competition-law caution",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.corporate-sustainability-strategy",
+  "status": "publish",
+  "reason": "Disclosure map defers applicability to counsel/auditor with no dated regime claims; ISSB (investor financial effects), GRI (impacts) and ESRS (double materiality) descriptions accurate; green-claims sign-off control present",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": [
+   "https://www.ifrs.org/groups/international-sustainability-standards-board/",
+   "https://www.globalreporting.org/standards/",
+   "https://www.efrag.org/en/sustainability-reporting"
+  ]
+ },
+ {
+  "id": "strategy-leadership.cross-functional-strategic-alignment",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.culture-change-initiative",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.digital-transformation-leadership",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.enterprise-ai-strategy",
+  "status": "publish",
+  "reason": "EU AI Act referenced generically; obligations map, works-council consultation and data reuse all deferred to counsel/privacy advisers",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": [
+   "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+  ]
+ },
+ {
+  "id": "strategy-leadership.executive-kpi-scorecard",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.executive-team-formation",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.executive-team-meeting-rhythm",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.growth-strategy-options",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.innovation-portfolio-leadership",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.leadership-offsite-planning",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.leadership-pipeline-development",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.leading-a-post-merger-integration",
+  "status": "fixed",
+  "reason": "Integration plan with competition/clean-team, SPA, consultation and earn-out steps all deferred to counsel; corrected transferred-terms note",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)",
+   "TUPE note now matches reg 4(4): changes void where the transfer is the sole or principal reason, subject to limited exceptions, no fixed time limit"
+  ],
+  "sources": [
+   "https://nidirect.gov.uk/node/2510",
+   "https://assets.publishing.service.gov.uk/media/5a7c4bdaed915d338141ddd5/bis-09-1013-guide-to-tupe-regulations-2006.pdf",
+   "https://www.legislation.gov.uk/uksi/2006/246/regulation/4"
+  ]
+ },
+ {
+  "id": "strategy-leadership.leading-all-hands-and-town-halls",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.long-range-strategic-plan",
+  "status": "fixed",
+  "reason": "Team plan; forward-looking statements and deal questions deferred to legal/corporate finance; softened one overclaim",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)",
+   "'proven frameworks' changed to 'widely used frameworks'"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.new-market-entry-strategy",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.nonprofit-strategic-planning",
+  "status": "publish",
+  "reason": "Charitable objects, regulator consent, trustees' annual report and solvency concerns all deferred to regulator guidance/charity lawyer/accountant; no jurisdiction-specific numbers",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": [
+   "https://www.gov.uk/government/publications/the-essential-trustee-what-you-need-to-know-cc3"
+  ]
+ },
+ {
+  "id": "strategy-leadership.okr-setting-and-tracking",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.organisation-redesign",
+  "status": "publish",
+  "reason": "Consultation ground rules, selection pools and protected-characteristic checks all deferred to employment lawyer and HR per country; no hard-coded thresholds",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.organisational-change-management",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.organisational-decision-rights",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.strategic-bets-prioritisation",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.strategic-scenario-planning",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.strategic-stakeholder-management",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ },
+ {
+  "id": "strategy-leadership.strategy-execution-reviews",
+  "status": "publish",
+  "reason": "Team plan; legal touchpoints (employment, governance, disclosure, competition) already defer to counsel/HR/company secretary with jurisdiction caveats; no specific statutory numbers or outcome promises; roles named",
+  "changes": [
+   "Added team-plan tag and team-plan sentence to first project (teamify.py)"
+  ],
+  "sources": []
+ }
+]

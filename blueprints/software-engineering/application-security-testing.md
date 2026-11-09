@@ -4,7 +4,7 @@ name: Application Security Testing
 description: "Static analysis, dependency, secrets and dynamic scanning wired into your pipelines, with a triage policy, merge gates and review routines that keep findings actionable instead of ignored."
 category: business
 version: 1.0.0
-tags: [software-engineering, application-security-testing, engineer, team, sast, dast, dependency-scanning, vulnerability-triage, devsecops]
+tags: [software-engineering, application-security-testing, engineer, team, sast, dast, dependency-scanning, vulnerability-triage, devsecops, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Application inventory and security testing risk tiers
               description: |-
                 ## Purpose
-                Scanners can only cover what someone has listed, and most teams discover forgotten repositories, internal tools and public APIs only after an incident. Listing every application with its owner, exposure and the data it handles, then sorting them into three risk tiers, decides where the expensive testing goes first and where a basic scan is enough.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Scanners can only cover what someone has listed, and most teams discover forgotten repositories, internal tools and public APIs only after an incident. Listing every application with its owner, exposure and the data it handles, then sorting them into three risk tiers, decides where the expensive testing goes first and where a basic scan is enough.
 
                 ## Milestones
                 1. Every repository and deployed application listed with a named owning team.

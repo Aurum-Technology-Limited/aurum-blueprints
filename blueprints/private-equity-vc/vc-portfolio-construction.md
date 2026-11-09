@@ -4,7 +4,7 @@ name: VC Portfolio Construction
 description: "A written fund strategy, investable capital, company count, cheque sizes, ownership targets and reserves, turned into a working model of the fund's return paths that you reforecast every quarter."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, vc-portfolio-construction, knowledge-worker, founder, reserves, ownership, power-law, fund-model]
+tags: [private-equity-vc, vc-portfolio-construction, knowledge-worker, founder, reserves, ownership, power-law, fund-model, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Fund strategy one-pager for portfolio design
               description: |-
                 ## Purpose
-                Every number in a construction model follows from a few strategy choices: stage, sector, geography, whether you lead or follow, and how much you want to own at entry. Writing those choices on one page before touching a spreadsheet stops the model from quietly inventing a strategy the partners never agreed.
+                Every number in a construction model follows from a few strategy choices: stage, sector, geography, whether you lead or follow, and how much you want to own at entry. Writing those choices on one page before touching a spreadsheet stops the model from quietly inventing a strategy the partners never agreed. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page statement of target stage, sectors, geographies and lead or follow posture.
@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Keep it to things that change the maths. Brand, values and sourcing stories belong elsewhere; this page exists to drive cheque size, count and reserves.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -96,7 +98,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "5"
               tasks:
-                - "Count how many new investments you or your team made in each of the last three years"
+                - "Count how many new investments the partnership made in each of the last three years"
                 - "Note how many board or close support relationships each partner can carry"
                 - "Run the model at three portfolio sizes and compare the spread of outcomes"
                 - "Write the chosen count and range with a paragraph of reasoning"

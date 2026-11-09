@@ -4,7 +4,7 @@ name: Fund Terms and LPA Negotiation
 description: "A negotiating method for your own fund's terms: a market benchmark, a term sheet with walk-away lines, LP markups and side letters tracked, MFN rounds run cleanly and every promise kept after closing."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, fund-terms-and-lpa-negotiation, founder, emerging-manager, lpa, side-letters, ilpa, fund-terms]
+tags: [private-equity-vc, fund-terms-and-lpa-negotiation, founder, emerging-manager, lpa, side-letters, ilpa, fund-terms, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Anatomy of a limited partnership agreement
               description: |-
                 ## Purpose
-                Most first-time managers have read an LPA as an employee but never as the party who has to defend every clause. Mapping the standard sections (economics, governance, GP removal, investment limits, distributions, transfers, indemnities, reporting) on one page means you can find any clause an LP raises in under a minute and see what else it touches.
+                Most first-time managers have read an LPA as an employee but never as the party who has to defend every clause. Mapping the standard sections (economics, governance, GP removal, investment limits, distributions, transfers, indemnities, reporting) on one page means you can find any clause an LP raises in under a minute and see what else it touches. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page map of the main LPA sections with a line on what each controls.
@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Use a recent LPA from your own strategy as the worked example if counsel can share one with names removed. A public model form, such as the ILPA model LPA, is a useful second reference.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               frontmatter:
                 mode: learning
@@ -140,9 +142,9 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "4"
               tasks:
-                - "Draft the brief from your walk-away list and expected LP profile"
+                - "Managing partner drafts the brief from the walk-away list and LP profile"
                 - "Book a call with counsel to walk through the brief"
-                - "Agree in writing which points counsel can concede without you"
+                - "Partners agree in writing which points counsel may concede alone"
                 - "Set the budget check-in point against the legal fee estimate"
             - name: ILPA principles gap review of your draft terms
               description: |-

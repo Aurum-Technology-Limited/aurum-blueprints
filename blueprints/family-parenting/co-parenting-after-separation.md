@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 If being in the same room is not safe, each parent can tell the children separately using the agreed words. A family support service can help you shape the script.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -550,7 +552,7 @@ starter_structure:
                 4. Each child's teacher or key worker asked how they seem.
 
                 ## Notes
-                If a child talks about self-harm or seems persistently low, contact your doctor promptly.
+                If a child talks about self-harm or seems persistently low, contact your doctor promptly. If they are in immediate danger, call your local emergency number; crisis lines such as Samaritans (116 123 in the UK and Ireland) or 988 in the US can also advise.
               priority: low
               frontmatter:
                 mode: learning
@@ -619,7 +621,7 @@ starter_structure:
                 4. A friend, counsellor or support group named for when it gets too much.
 
                 ## Notes
-                If you are struggling to cope, talk to your doctor or a counsellor. Separation ranks among the most stressful events adults go through.
+                If you are struggling to cope, talk to your doctor or a counsellor. Separation ranks among the most stressful events adults go through. If you are thinking of harming yourself or feel unable to keep yourself safe, call your local emergency number or a crisis line, such as Samaritans on 116 123 in the UK and Ireland or 988 in the US.
               priority: low
               frontmatter:
                 mode: learning
@@ -742,6 +744,8 @@ starter_structure:
 
                 ## Notes
                 Ask whether the mediator offers child-inclusive mediation, where a trained person hears the children's views. Mediation may not be suitable where there has been abuse; tell the mediator privately at the first meeting.
+
+                If you feel afraid of the other parent, or they are controlling, threatening or hurting you or the children, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233).
               priority: medium
               deadlineOffsetDays: 90
               frontmatter:
@@ -925,6 +929,8 @@ starter_structure:
                 4. Call times from abroad agreed.
 
                 ## Notes
+                In some countries taking a child abroad without the consent of everyone with parental responsibility, or a court's permission, is child abduction; in England and Wales, for example, the only general exception is a parent named in a child arrangements order as the person the child lives with, for trips of up to 28 days. Check the rule with your government's family or travel advice service, and take legal advice if consent is refused.
+
                 Start from the **Trip** template.
               priority: low
               frontmatter:
@@ -1107,7 +1113,7 @@ starter_structure:
                 4. A family counsellor or child therapist involved if refusal lasts more than a few weeks.
 
                 ## Notes
-                If a child discloses harm, follow your local safeguarding route and contact the police or children's services.
+                If a child discloses harm, follow your local safeguarding route and contact the police or children's services. A child-protection helpline can advise you, for example the NSPCC on 0808 800 5000 in the UK or Childhelp on 1-800-422-4453 in the US.
               priority: medium
               frontmatter:
                 mode: building
@@ -1158,6 +1164,8 @@ starter_structure:
 
                 ## Notes
                 If you or the children are in immediate danger, call the emergency number. Supervised arrangements and protective orders need legal advice.
+
+                If you feel afraid of the other parent, or they are controlling, threatening or hurting you or the children, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233). A specialist service should help you write the safety plan rather than doing it alone.
               priority: high
               frontmatter:
                 mode: building

@@ -4,7 +4,7 @@ name: Proprietary Frameworks and Tools
 description: "Turn the work you repeat into firm IP: an inventory of repeats, ownership checked in contracts, diagnostics, benchmarks and playbooks built and versioned, protection in place, and tools used in proposals, pilots and licences."
 category: business
 version: 1.0.0
-tags: [management-consulting, proprietary-frameworks-and-tools, founder, small-business, freelancer, intellectual-property, diagnostics, methods]
+tags: [management-consulting, proprietary-frameworks-and-tools, founder, small-business, freelancer, intellectual-property, diagnostics, methods, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Inventory of repeated work across past engagements
               description: |-
                 ## Purpose
-                Most small firms rebuild the same three or four things on every engagement: a diagnostic interview guide, a current-state scorecard, a cost baseline model, a roadmap template. Listing what you have built more than twice across your last ten engagements, with the hours spent each time, shows where firm IP already exists in rough form and which piece would pay back first.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most small firms rebuild the same three or four things on every engagement: a diagnostic interview guide, a current-state scorecard, a cost baseline model, a roadmap template. Listing what you have built more than twice across your last ten engagements, with the hours spent each time, shows where firm IP already exists in rough form and which piece would pay back first.
 
                 ## Milestones
                 1. A list of your last ten engagements with the main work products from each.

@@ -4,7 +4,7 @@ name: Annual Operating Budget Build
 description: "A budget calendar worked back from board approval, an owner for every line, driver-based revenue and cost builds phased by month, gap-closing and contingency decisions, and a budget the board approves on time."
 category: business
 version: 1.0.0
-tags: [finance-accounting, annual-operating-budget-build, manager, founder, enterprise, budgeting, phasing, board-approval]
+tags: [finance-accounting, annual-operating-budget-build, manager, founder, enterprise, budgeting, phasing, board-approval, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Budget calendar from kick-off to board approval
               description: |-
                 ## Purpose
-                Budgets that start late end with department heads submitting numbers over a weekend and a board pack nobody has checked. Working back from the board meeting that approves the budget, a calendar with every deadline (guidelines issued, submissions due, review sessions, consolidated draft, final pack) shows whether eight to twelve weeks is enough and who sits on the critical path.
+                Budgets that start late end with department heads submitting numbers over a weekend and a board pack nobody has checked. Working back from the board meeting that approves the budget, a calendar with every deadline (guidelines issued, submissions due, review sessions, consolidated draft, final pack) shows whether eight to twelve weeks is enough and who sits on the critical path. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The board or leadership approval date for next year's budget confirmed in writing.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Leave at least two weeks between the consolidated draft and the board pack deadline. That gap is where the gap-closing conversation happens, and it always takes longer than planned.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -267,7 +267,7 @@ starter_structure:
                 success_criteria: "A kick-off held each year with every budget owner represented and a written question and answer note issued within two working days."
                 cadence: cyclic
               tasks:
-                - "Draft a standard kick-off agenda you can reuse each year"
+                - "Finance lead drafts a standard kick-off agenda to reuse each year"
                 - "Hold the budget kick-off with all department heads @recurring(yearly)"
                 - "Capture every question asked during the meeting"
                 - "Send the answers as a follow-up note within two working days"
@@ -1195,4 +1195,4 @@ starter_structure:
 
 This area is for whoever has to deliver next year's operating budget: a founder writing the first one, a manager owning a department's lines, or a finance lead running the cycle across divisions and regions. It starts with the foundations (a calendar worked back from board approval, an owner for every line, a guidelines memo, a clean baseline, top-down targets, a submission workbook and an assumptions register), then the machinery that repeats each cycle, the budgeting skills of drivers, phasing, cost behaviour and cases, the decisions on revenue, gap-closing, contingency and tools, the dated reviews and board approval, situations for founders, new managers, enterprises and new finance leads, and finally specialist work on initiatives, activity-based budgets, accuracy and incentives.
 
-What repeats is the yearly cycle of targets, kick-off, holder letters and a lessons review, with lighter rhythms through the year: a monthly run-rate snapshot, contract renewal check and change log update, and quarterly refreshes of assumptions, owners, risks, contingency and strategic initiatives. The Meeting notes, Metrics log, Risk register, Purchase decision and Board meeting templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is the yearly cycle of targets, kick-off, holder letters and a lessons review, with lighter rhythms through the year: a monthly run-rate snapshot, contract renewal check and change log update, and quarterly refreshes of assumptions, owners, risks, contingency and strategic initiatives. The Meeting notes, Metrics log, Risk register, Purchase decision and Board meeting templates pair with the projects that name them. In a shared workspace, the finance lead runs the calendar, each budget owner takes the submission projects, and the CEO and board keep final approval. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

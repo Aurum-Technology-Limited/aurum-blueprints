@@ -4,7 +4,7 @@ name: Asset Integrity and Inspection
 description: "Inspection plans built on real damage mechanisms, corrosion rates and remaining life you can defend, risk-based intervals, fitness-for-service calls and integrity records that keep pressure equipment safely in service."
 category: business
 version: 1.0.0
-tags: [engineering-practice, asset-integrity-and-inspection, engineer, mechanical-integrity, inspection, corrosion, risk-based-inspection, fitness-for-service]
+tags: [engineering-practice, asset-integrity-and-inspection, engineer, mechanical-integrity, inspection, corrosion, risk-based-inspection, fitness-for-service, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Pressure equipment register with design data
               description: |-
                 ## Purpose
-                Every integrity decision starts from a list nobody argues about: which vessels, piping circuits, tanks, exchangers and relief devices exist, what they were designed to and what they are made of. Sites that inherit a register from three different maintenance systems usually find duplicate tags, missing design pressures and items nobody owns. One clean register with design code, materials, corrosion allowance and design conditions is the base every later project in this area reads from.
+                Every integrity decision starts from a list nobody argues about: which vessels, piping circuits, tanks, exchangers and relief devices exist, what they were designed to and what they are made of. Sites that inherit a register from three different maintenance systems usually find duplicate tags, missing design pressures and items nobody owns. One clean register with design code, materials, corrosion allowance and design conditions is the base every later project in this area reads from. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every pressure-containing item in your unit listed once, with a single agreed tag number.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Include small items people forget: knock-out pots, filter housings, sample coolers and vendor skid piping. They fail as often as the big vessels.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
@@ -212,7 +214,7 @@ starter_structure:
                 ## Milestones
                 1. Every relief valve, rupture disc and pilot valve listed with its tag and protected equipment.
                 2. Set pressure, size and last test date recorded for each device.
-                3. Test intervals set and justified from the code, service and past as-received results.
+                3. Test intervals set by the inspection engineer and justified from the code, service and past as-received results.
                 4. Overdue devices listed with a plan and date for each.
                 5. As-received test results feeding back into the interval for each device.
 
@@ -577,7 +579,7 @@ starter_structure:
                 4. A calculation sheet set up with inputs, references and an independent check.
 
                 ## Notes
-                Use the code edition the item was built to for the design formula. Joint efficiency, allowable stress and temperature all matter, and data books state them.
+                Use the code edition the item was built to for the design formula. Joint efficiency, allowable stress and temperature all matter, and data books state them. These are practice figures for learning: retirement thicknesses used for decisions are set, checked and signed off by the authorised inspector or responsible engineer under the applicable code.
               priority: medium
               frontmatter:
                 mode: learning
@@ -589,7 +591,7 @@ starter_structure:
                 - "Pick one vessel and one piping circuit with complete data books"
                 - "Calculate pressure design thickness for the shell, a head and the pipe"
                 - "Compare your results with the retirement thickness in the database"
-                - "Set up a checked calculation sheet for future items"
+                - "Have the integrity lead confirm which figures stay the controlled values"
             - name: External visual inspection walk-downs
               description: |-
                 ## Purpose
@@ -968,7 +970,7 @@ starter_structure:
                 2. Cleaning, degassing and waste disposal arranged with operations and environmental staff.
                 3. Floor scan, shell, roof, nozzle and settlement inspections completed.
                 4. Repairs specified and completed, with a hydrotest or other check where required.
-                5. The next internal interval calculated and recorded.
+                5. The next internal interval set by the authorised tank inspector under API 653 and recorded.
               priority: medium
               deadlineOffsetDays: 180
               frontmatter:
@@ -981,7 +983,7 @@ starter_structure:
                 - "Summarise the tank's last inspection and floor corrosion rate"
                 - "Agree the out-of-service window and cleaning plan with operations"
                 - "Contract floor scanning and settlement survey services"
-                - "Calculate and record the next internal interval after repairs"
+                - "Have the authorised inspector set and record the next internal interval"
             - name: First ninety days as a graduate integrity engineer
               description: |-
                 ## Purpose
@@ -1105,11 +1107,11 @@ starter_structure:
                 - "Book two handover sessions with the leaving engineer before their last week"
                 - "Ask them which three items worry them most and write down why"
                 - "Ask the agent to draft a handover note from your session notes"
-                - "Transfer open recommendations and deferrals into your name"
+                - "Transfer open recommendations and deferrals to the incoming engineer"
             - name: Fitness-for-service assessment for local metal loss
               description: |-
                 ## Purpose
-                Finding wall thickness below retirement does not always mean the item must come out of service today. A fitness-for-service assessment to API 579-1 and ASME FFS-1 uses the measured thickness profile, the loading and the material to decide whether the item can run safely, at what pressure and until when. Doing Level 1 and Level 2 assessments yourself, and knowing when a Level 3 specialist is needed, turns an emergency into an engineering decision.
+                Finding wall thickness below retirement does not always mean the item must come out of service today. A fitness-for-service assessment to API 579-1 and ASME FFS-1 uses the measured thickness profile, the loading and the material to decide whether the item can run safely, at what pressure and until when. Practising Level 1 and Level 2 assessments under a qualified engineer, and knowing when a Level 3 specialist is needed, turns an emergency into an engineering decision.
 
                 ## Milestones
                 1. One real local thinning finding chosen with its full thickness data and design data.
@@ -1119,7 +1121,7 @@ starter_structure:
                 5. The assessment independently checked and signed by a qualified engineer.
 
                 ## Notes
-                Fitness-for-service is a signed engineering judgement, often with legal weight. Have every assessment checked independently, and state its limits and assumptions plainly.
+                Fitness-for-service is a signed engineering judgement, often with legal weight. A practice assessment never keeps equipment in service on its own: a qualified fitness-for-service engineer checks, signs and owns any assessment that is relied on, and national pressure equipment rules still apply.
               priority: high
               frontmatter:
                 mode: learning
@@ -1131,7 +1133,7 @@ starter_structure:
                 - "Pick a recent local thinning finding with a full corrosion map"
                 - "Work the Level 1 assessment and note what limits it"
                 - "Complete the Level 2 assessment from the critical thickness profile"
-                - "Have the assessment checked independently and signed"
+                - "Have a qualified FFS engineer check, sign and own the assessment"
             - name: High temperature hydrogen attack and sulphidation screening
               description: |-
                 ## Purpose

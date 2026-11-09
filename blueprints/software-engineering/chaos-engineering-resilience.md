@@ -4,7 +4,7 @@ name: Chaos Engineering & Resilience
 description: "Safe, hypothesis-driven failure experiments, from a first pod kill in staging to game days, failover drills and continuous chaos in production, with findings tracked until the fix is proven."
 category: business
 version: 1.0.0
-tags: [software-engineering, chaos-engineering-resilience, engineer, enterprise, fault-injection, game-days, disaster-recovery, resilience-patterns]
+tags: [software-engineering, chaos-engineering-resilience, engineer, enterprise, fault-injection, game-days, disaster-recovery, resilience-patterns, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Resilience risk inventory for one critical service
               description: |-
                 ## Purpose
-                Chaos experiments chosen at random find random things, while experiments chosen from a list of known risks find the outages you were going to have anyway. Listing every way one critical service could fail, from a dependency timing out to a zone disappearing, and scoring each by likelihood and impact gives the whole programme a ranked starting point. Pick the service whose outage would hurt most and finish this before choosing any tool.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Chaos experiments chosen at random find random things, while experiments chosen from a list of known risks find the outages you were going to have anyway. Listing every way one critical service could fail, from a dependency timing out to a zone disappearing, and scoring each by likelihood and impact gives the whole programme a ranked starting point. Pick the service whose outage would hurt most and finish this before choosing any tool.
 
                 ## Milestones
                 1. At least fifteen failure scenarios listed for the service, covering infrastructure, dependencies, data and human error.

@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Freelancers do the same with each main client: a line in the contract or an email confirming they are happy for the work to be done from the Caribbean, and in which currency they will pay.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

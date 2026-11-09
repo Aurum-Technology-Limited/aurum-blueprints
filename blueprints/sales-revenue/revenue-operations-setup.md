@@ -4,7 +4,7 @@ name: Revenue Operations Setup
 description: "A RevOps charter, one glossary of lifecycle terms, a system of record for every metric, agreed handoffs and a monthly revenue council, so sales, marketing and success work from the same numbers."
 category: business
 version: 1.0.0
-tags: [sales-revenue, revenue-operations-setup, enterprise, manager, team, revops, lifecycle-stages, data-governance]
+tags: [sales-revenue, revenue-operations-setup, enterprise, manager, team, revops, lifecycle-stages, data-governance, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Revenue operations charter and scope
               description: |-
                 ## Purpose
-                When sales ops, marketing ops and customer success ops each grew up separately, nobody owns the gaps between them: the lead nobody accepted, the renewal nobody planned for, the dashboard three teams dispute. A one-page charter naming what revenue operations owns (process, systems, data and reporting across the customer lifecycle) and what it does not stops the function becoming a ticket desk for every spreadsheet request.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. When sales ops, marketing ops and customer success ops each grew up separately, nobody owns the gaps between them: the lead nobody accepted, the renewal nobody planned for, the dashboard three teams dispute. A one-page charter naming what revenue operations owns (process, systems, data and reporting across the customer lifecycle) and what it does not stops the function becoming a ticket desk for every spreadsheet request.
 
                 ## Milestones
                 1. A one-page charter stating the mission, the teams served and the four areas owned: process, systems, data and reporting.

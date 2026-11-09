@@ -4,7 +4,7 @@ name: Family Office Systems
 description: "A family office system stack chosen on purpose: requirements, wealth reporting, document vault, bill pay, accounting and secure messaging, wired to banks and administrators and kept reconciled."
 category: personal
 version: 1.0.0
-tags: [family-office, family-office-systems, parent, manager, wealth-reporting, document-vault, bill-pay, family-office-technology]
+tags: [family-office, family-office-systems, parent, manager, wealth-reporting, document-vault, bill-pay, family-office-technology, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Inventory of every system and spreadsheet in use
               description: |-
                 ## Purpose
-                Before choosing anything new, the office needs a plain list of what already runs the family's affairs: the banking portals, the accountant's software, the shared drive, the spreadsheet the controller rebuilds every quarter and the messaging apps the family actually uses. Most offices find twenty or more tools once they count, several paid for twice and some that only one person can open.
+                Before choosing anything new, the office needs a plain list of what already runs the family's affairs: the banking portals, the accountant's software, the shared drive, the spreadsheet the controller rebuilds every quarter and the messaging apps the family actually uses. Most offices find twenty or more tools once they count, several paid for twice and some that only one person can open. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every system, portal, app and key spreadsheet listed with what it does and who uses it.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Ask staff, not only managers. The real system is often a spreadsheet on one person's laptop that nobody else knows exists.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -46,7 +48,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "List the logins and portals you personally use for family affairs"
+                - "Ask each family member and staff member to list the logins and portals they use"
                 - "Ask each staff member and adviser to list the tools they use for the family"
                 - "Pull twelve months of card and bank charges to find software subscriptions"
                 - "Mark each tool with owner, cost and whether it holds sensitive data"

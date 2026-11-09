@@ -4,7 +4,7 @@ name: Data Anonymisation & Privacy
 description: "A personal data inventory, pseudonymisation and masking that hold up, minimised pipelines, erasure that reaches the warehouse, small-number suppression and tested anonymisation, so analytics stays useful without exposing people."
 category: business
 version: 1.0.0
-tags: [data-analytics, data-anonymisation-privacy, engineer, enterprise, researcher, pseudonymisation, data-masking, re-identification]
+tags: [data-analytics, data-anonymisation-privacy, engineer, enterprise, researcher, pseudonymisation, data-masking, re-identification, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Personal data inventory of the warehouse
               description: |-
                 ## Purpose
-                Most analytics platforms hold more personal data than anyone thinks: email addresses in event payloads, phone numbers in support exports, birth dates in a CRM sync nobody uses. Before any masking or pseudonymisation can be prioritised, someone has to list which schemas, tables and columns hold personal data and where each came from. A first-pass inventory built from column names, sampled values and knowledge of the source systems usually takes a week and shapes every later decision in this area.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most analytics platforms hold more personal data than anyone thinks: email addresses in event payloads, phone numbers in support exports, birth dates in a CRM sync nobody uses. Before any masking or pseudonymisation can be prioritised, someone has to list which schemas, tables and columns hold personal data and where each came from. A first-pass inventory built from column names, sampled values and knowledge of the source systems usually takes a week and shapes every later decision in this area.
 
                 ## Milestones
                 1. Every schema in the warehouse and lake listed with its source system and owner.

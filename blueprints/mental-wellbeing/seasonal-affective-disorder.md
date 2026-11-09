@@ -38,7 +38,9 @@ starter_structure:
                 ## Notes
                 A questionnaire such as the Seasonal Pattern Assessment Questionnaire can help you describe the pattern, but it is a prompt for a conversation, not a diagnosis.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                If you are thinking of harming yourself or feel unable to keep yourself safe, call your local emergency number or a crisis line now, for example Samaritans on 116 123 in the UK and Ireland, or call or text 988 in the US.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -166,7 +168,7 @@ starter_structure:
                 4. A lamp bought or borrowed, with the receipt and warranty kept.
 
                 ## Notes
-                Start from the **Purchase decision** template. A larger panel is more forgiving of where you sit; small lamps often need to be closer than people expect.
+                Start from the **Purchase decision** template. A larger panel is more forgiving of where you sit; small lamps often need to be closer than people expect. UK NHS guidance describes 10,000 lux as the standard brightness for a SAD light box, which should be UV-free and carry a UKCA or CE mark; the lux figure only holds at the distance the maker states. Talk to your doctor before buying if you have an eye condition, take medicines that increase light sensitivity, or have bipolar disorder or a history of mania, as bright light can trigger a high.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

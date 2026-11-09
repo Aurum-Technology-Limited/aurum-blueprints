@@ -4,7 +4,7 @@ name: IPO Readiness Programme
 description: "A structured route to a stock market listing: an honest gap assessment, the venue and timeline, board and controls built to listed standards, the right advisers and a calm path from drafting to first trading day."
 category: business
 version: 1.0.0
-tags: [fundraising-investors, ipo-readiness-programme, enterprise, founder, manager, ipo, listing, corporate-governance]
+tags: [fundraising-investors, ipo-readiness-programme, enterprise, founder, manager, ipo, listing, corporate-governance, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: IPO readiness gap assessment
               description: |-
                 ## Purpose
-                Most companies that list successfully spend 18 to 24 months getting ready, and the first useful step is an honest picture of where you stand today across governance, financial reporting, controls, systems, legal housekeeping, tax and people. A gap assessment scored against what a listed company of your size must do turns a vague ambition into a costed list of work, and it tells the board whether the target window is realistic before money is spent on banks and lawyers.
+                Most companies that list successfully spend 18 to 24 months getting ready, and the first useful step is an honest picture of where you stand today across governance, financial reporting, controls, systems, legal housekeeping, tax and people. A gap assessment scored against what a listed company of your size must do turns a vague ambition into a costed list of work, and it tells the board whether the target window is realistic before money is spent on banks and lawyers. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Ten readiness workstreams defined, each with a named executive owner.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Many audit and advisory firms offer a readiness diagnostic. If you use one, keep ownership of the scoring so the result does not become a sales document for their follow-on work.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
@@ -959,7 +959,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "30"
               tasks:
-                - "Draft the analyst presentation from the prospectus business section"
+                - "CFO and IR lead draft the analyst presentation from the prospectus for counsel to clear"
                 - "Ask the agent to draft a bank of the sixty hardest analyst questions"
                 - "Rehearse twice with the CEO and CFO in front of the bankers"
                 - "Log analyst and investor feedback and decide what to change"
@@ -1053,7 +1053,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "15"
               tasks:
-                - "Write down what you want from listing in control, money and role"
+                - "Founder writes down what they want from listing in control, money and role"
                 - "Ask counsel which control structures the venue and investors accept"
                 - "Book personal tax and wealth advice separate from the company's advisers"
                 - "Arrange media and presentation training before the analyst session"

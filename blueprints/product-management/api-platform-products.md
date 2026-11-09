@@ -4,7 +4,7 @@ name: API & Platform Products
 description: "APIs run as products: an inventory and design rules, versioning and auth decisions, a developer portal people succeed with, routines that keep the platform healthy, and the partners and enterprises building on it."
 category: business
 version: 1.0.0
-tags: [product-management, api-platform-products, team, engineer, enterprise, developer-experience, api-versioning, developer-portal]
+tags: [product-management, api-platform-products, team, engineer, enterprise, developer-experience, api-versioning, developer-portal, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -28,7 +28,7 @@ starter_structure:
             - name: API product inventory and ownership map
               description: |-
                 ## Purpose
-                Most companies that have shipped APIs for a few years cannot say how many they run: the public REST API, two partner endpoints built for one deal, a webhook service and a dozen internal APIs other teams quietly depend on. A single inventory listing every API, its owner, its audience and who actually calls it is the foundation for every versioning, security and roadmap decision that follows.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most companies that have shipped APIs for a few years cannot say how many they run: the public REST API, two partner endpoints built for one deal, a webhook service and a dozen internal APIs other teams quietly depend on. A single inventory listing every API, its owner, its audience and who actually calls it is the foundation for every versioning, security and roadmap decision that follows.
 
                 ## Milestones
                 1. Every public, partner and internal API listed, taken from gateway and traffic logs rather than memory.

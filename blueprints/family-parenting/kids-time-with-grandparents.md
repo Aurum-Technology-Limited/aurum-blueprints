@@ -1202,7 +1202,7 @@ starter_structure:
                 5. Professional advice sought where safety or legal questions arise.
 
                 ## Notes
-                Where a child may be at risk of harm, contact your local child protection service or the police. Family support charities and family law professionals can advise on contact disputes; this project only organises your own decisions.
+                Where a child may be at risk of harm, contact your local child protection service or the police, or call your local emergency number if they are in danger. A child-protection helpline can also advise, for example the NSPCC on 0808 800 5000 in the UK or Childhelp on 1-800-422-4453 in the US. Family support charities and family law professionals can advise on contact disputes; this project only organises your own decisions.
               priority: high
               frontmatter:
                 mode: research

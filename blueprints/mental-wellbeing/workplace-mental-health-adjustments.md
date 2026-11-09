@@ -36,7 +36,9 @@ starter_structure:
                 ## Notes
                 Describe effects, not diagnoses. You can explain that concentration drops sharply after mid-afternoon without naming the condition behind it.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                If you are thinking of harming yourself or feel unable to keep yourself safe, call your local emergency number or a crisis line now, for example Samaritans on 116 123 in the UK and Ireland, or call or text 988 in the US.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -85,6 +87,8 @@ starter_structure:
                 4. Any time limits for raising complaints noted with their source.
 
                 ## Notes
+                Two examples of where to start: in Great Britain, the Equality Act 2010 can treat a mental health condition as a disability if it has a substantial and long-term (12 months or more) effect on day-to-day activities, and employers must then make reasonable adjustments (Northern Ireland has its own disability law). In the US, the Americans with Disabilities Act (ADA) protects people with mental health conditions and requires employers with 15 or more employees to provide reasonable accommodation, with guidance from the EEOC. Other countries have their own rules.
+
                 These notes organise official information. They are not legal advice; check anything that matters with a qualified adviser.
               priority: medium
               frontmatter:
@@ -1104,7 +1108,7 @@ starter_structure:
                 4. Advice received and the next step decided in writing.
 
                 ## Notes
-                This is preparation, not legal advice. Time limits for external claims can be very short, so book advice promptly.
+                This is preparation, not legal advice. Time limits for external claims can be very short, so book advice promptly. For example, in Great Britain most employment tribunal claims need Acas early conciliation first, and in the US a charge to the EEOC generally has to be filed within 180 days, or 300 days where a state or local agency covers the same issue. Check the current limits with the official body.
               priority: medium
               deadlineOffsetDays: 30
               frontmatter:

@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Furnishing a property to guest standard usually costs far more than first-time owners budget. Price it before you decide, not after.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help you organise decisions about money. It is not financial, investment, tax or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with a qualified, licensed adviser in yours. Investing and trading can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -654,7 +654,7 @@ starter_structure:
             - name: Self-managing or using a holiday letting agency
               description: |-
                 ## Purpose
-                Full-service holiday letting agencies commonly take 15 to 35 percent of booking income and in return handle marketing, guests, pricing and often cleaning, while self-managing keeps that margin but eats evenings and weekends. Comparing the two on your own numbers and hours makes the choice deliberate rather than something you drift into.
+                Full-service holiday letting agencies commonly take somewhere between 10 and 30 percent of booking income, sometimes more, and in return handle marketing, guests, pricing and often cleaning, while self-managing keeps that margin but eats evenings and weekends. Comparing the two on your own numbers and hours makes the choice deliberate rather than something you drift into.
 
                 ## Milestones
                 1. Your weekly hours for self-managing estimated honestly, including changeover days.

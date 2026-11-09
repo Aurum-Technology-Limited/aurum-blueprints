@@ -4,7 +4,7 @@ name: Sales Development Team Management
 description: "Fair meeting targets, daily standups and weekly one-to-ones, a clean handoff to account executives, and a written promotion path that turns prospecting reps into closers."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-development-team-management, manager, team, enterprise, sdr, meeting-targets, promotion-path]
+tags: [sales-revenue, sales-development-team-management, manager, team, enterprise, sdr, meeting-targets, promotion-path, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: SDR team charter and remit
               description: |-
                 ## Purpose
-                Prospecting teams drift into whatever is loudest that week: chasing webinar attendees one day, researching enterprise logos the next, booking calls for existing customers on Friday. A one-page charter states which segments and lead types the SDR team covers, what it hands over and when, and what it does not do, so account executives, marketing and the SDRs themselves stop arguing about it.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Prospecting teams drift into whatever is loudest that week: chasing webinar attendees one day, researching enterprise logos the next, booking calls for existing customers on Friday. A one-page charter states which segments and lead types the SDR team covers, what it hands over and when, and what it does not do, so account executives, marketing and the SDRs themselves stop arguing about it.
 
                 ## Milestones
                 1. The segments, regions and lead sources the team covers listed, with anything out of scope named.

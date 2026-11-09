@@ -4,7 +4,7 @@ name: Family Conflict Resolution
 description: "A family ready for disagreement: early warning signs, a mediator and independent advisers lined up in advance, calm routines for raising grievances, buy-out options and repair work that keeps relationships intact."
 category: personal
 version: 1.0.0
-tags: [family-office, family-conflict-resolution, parent, retiree, mediation, family-disputes, buy-outs, reconciliation]
+tags: [family-office, family-conflict-resolution, parent, retiree, mediation, family-disputes, buy-outs, reconciliation, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -24,7 +24,7 @@ starter_structure:
             - name: Mapping where tension sits in the family
               description: |-
                 ## Purpose
-                Most family disputes that reach lawyers were visible years earlier as a cool relationship, an unanswered email or a branch that stopped coming to meetings. A private, honest map of who is close, who is strained and what each strain is about gives the family leader a starting point and shows which relationships need attention first.
+                Most family disputes that reach lawyers were visible years earlier as a cool relationship, an unanswered email or a branch that stopped coming to meetings. A private, honest map of who is close, who is strained and what each strain is about gives the family leader a starting point and shows which relationships need attention first. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A family tree marked with the state of each key relationship: close, neutral, strained or broken.
@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 Start from the **Risk register** template, with one row per strained relationship. Keep the map private: a document like this, if found, can start the very argument it was meant to prevent.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -85,7 +87,7 @@ starter_structure:
                 4. Their contact details, fee basis and availability written into the family's dispute contacts.
 
                 ## Notes
-                Ask candidates how they handle a family where one member controls most of the money. Their answer tells you whether they can keep a fair process when power is unequal.
+                Ask candidates how they handle a family where one member controls most of the money. Their answer tells you whether they can keep a fair process when power is unequal. Mediation is not suitable where there is abuse, threats or coercive control; in that case the person at risk should get advice from a lawyer or a specialist support service first, and call the local emergency number if anyone is in danger.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
@@ -1104,7 +1106,7 @@ starter_structure:
                 4. Monthly check-ins with the specialist on whether the approach is working.
 
                 ## Notes
-                This is a health matter first. Follow the specialist's advice on support and boundaries, and keep the member's medical information private.
+                This is a health matter first. Follow the specialist's advice on support and boundaries, and keep the member's medical information private. If the member or anyone else is at immediate risk of harm, call the local emergency number first; crisis lines such as 988 in the US or Samaritans on 116 123 in the UK and Ireland are open day and night.
               priority: medium
               frontmatter:
                 mode: service

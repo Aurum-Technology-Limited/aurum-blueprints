@@ -4,7 +4,7 @@ name: Billable Time and Fee Notes
 description: "A written time policy, daily capture habits, narratives clients accept, monthly pro formas and fee notes, controlled write-offs and realisation figures for law, accounting and engineering firms."
 category: business
 version: 1.0.0
-tags: [practice-ownership, billable-time-and-fee-notes, small-business, team, timekeeping, fee-notes, realisation, write-offs]
+tags: [practice-ownership, billable-time-and-fee-notes, small-business, team, timekeeping, fee-notes, realisation, write-offs, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Written time recording and billing policy
               description: |-
                 ## Purpose
-                Most small firms run on unwritten habits, so one partner records every six minutes while another reconstructs a week from memory on Friday afternoon. A two-page policy covering what counts as chargeable, when time must be entered, how narratives are written and who can write off what gives every fee earner the same rules and gives clients consistent bills.
+                Most small firms run on unwritten habits, so one partner records every six minutes while another reconstructs a week from memory on Friday afternoon. A two-page policy covering what counts as chargeable, when time must be entered, how narratives are written and who can write off what gives every fee earner the same rules and gives clients consistent bills. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A two-page policy covering time units, entry deadlines, narrative standards, non-chargeable categories and write-off authority.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Keep the policy short enough to read in ten minutes. The detail belongs in the activity code list and the narrative guide, which the policy can point to.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
@@ -378,7 +380,7 @@ starter_structure:
                 cadence: rolling
               tasks:
                 - "Set up the write-off log with five to eight reason codes"
-                - "Agree the amount above which a second partner must approve"
+                - "Managing partner and finance partner agree the amount above which a second partner must approve"
                 - "Back-fill write-offs from the last three months"
                 - "Total last month's write-offs by reason for partners @recurring(monthly:3)"
             - name: Monthly realisation report
@@ -1194,4 +1196,4 @@ starter_structure:
 
 This area is for the owner or partner of a law, accounting or engineering firm whose income depends on hours being recorded honestly, described clearly and turned into fee notes that clients pay without argument. It starts with the foundations (a written time policy, a baseline of how much time leaks, activity codes, rate tables, targets and agreed definitions of realisation), then the routines that keep time flowing into bills, the skills of capture and narrative writing, the decisions about billing frequency, block billing and tools, the dated events such as year-end and rate rollover, variants for sole practitioners, accounting and engineering teams, and finally the specialist analysis of realisation, cost rates and fixed fee outcomes.
 
-What repeats is a daily time entry habit, a Friday sweep of unreleased time, a monthly cycle of pro formas, the billing run, the write-off log and the realisation report, a quarterly audit of time entries and a yearly rate rollover and clean-up. The Purchase decision, Operational checklist, Metrics log, 1:1, Remediation plan and Onboarding plan templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a daily time entry habit, a Friday sweep of unreleased time, a monthly cycle of pro formas, the billing run, the write-off log and the realisation report, a quarterly audit of time entries and a yearly rate rollover and clean-up. The Purchase decision, Operational checklist, Metrics log, 1:1, Remediation plan and Onboarding plan templates pair with the projects that name them. Rules on client money, money on account, costs information and what a bill must show are set by each profession's regulator, for example the SRA for solicitors in England and Wales or the state bar in each US state, so the compliance or finance partner checks billing practice against them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

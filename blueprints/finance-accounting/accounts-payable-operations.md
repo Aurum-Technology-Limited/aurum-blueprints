@@ -4,7 +4,7 @@ name: Accounts Payable Operations
 description: "One inbox for bills, a clean supplier file, approvals that move, a steady payment run and monthly statement checks, so suppliers are paid correctly and on the terms agreed."
 category: business
 version: 1.0.0
-tags: [finance-accounting, accounts-payable-operations, small-business, team, enterprise, supplier-invoices, payment-runs, three-way-match]
+tags: [finance-accounting, accounts-payable-operations, small-business, team, enterprise, supplier-invoices, payment-runs, three-way-match, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Map of how supplier bills arrive and move
               description: |-
                 ## Purpose
-                Bills reach most businesses through four or five routes at once: a shared mailbox, a manager's personal inbox, paper in the post, supplier portals and the occasional photo on a phone. Drawing every route and every hand a bill passes through, from arrival to payment, shows where invoices sit unseen and where nobody owns the next step.
+                Bills reach most businesses through four or five routes at once: a shared mailbox, a manager's personal inbox, paper in the post, supplier portals and the occasional photo on a phone. Drawing every route and every hand a bill passes through, from arrival to payment, shows where invoices sit unseen and where nobody owns the next step. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every route by which supplier bills arrive listed, with a rough monthly volume for each.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Ask the five suppliers you pay most often how they send bills today. Their answers usually reveal a route nobody on the finance side knew about.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -653,7 +653,7 @@ starter_structure:
               tasks:
                 - "Read the tax authority's guidance on withholding tax for payers"
                 - "List suppliers, especially overseas service providers, who may be affected"
-                - "Confirm the list and treatment with your tax adviser"
+                - "Have a qualified tax adviser confirm the withholding list and treatment"
                 - "Flag affected supplier records and write the pay-over steps"
             - name: Purchase order threshold decision
               description: |-
@@ -1209,4 +1209,4 @@ starter_structure:
 
 This area is for anyone who receives, approves and pays supplier bills, from an owner paying twenty suppliers a month to an enterprise payables team handling thousands of invoices. It starts with the foundations (how bills arrive, one invoice inbox, a clean supplier file, approval routes and a fixed payment run day), then the weekly and monthly machinery that keeps payables accurate, the matching, tax and currency skills that cause most errors, improvements such as purchase order rules, capture tools and dual authorisation, dated moments like the year-end cut-off, situations for owners, small teams and shared service centres, and finally the specialist work of duplicate recovery, metrics and supplier portals.
 
-What repeats is a twice-weekly invoice processing session, a weekly payment run and approval chase, monthly statement reconciliations, aged payables, accruals, control account and debit balance checks, quarterly direct debit and purchase order reviews, and yearly supplier file, policy and cut-off work. The Vendor, Operational checklist, Month-end close, Purchase decision, Metrics log and Remediation plan templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a twice-weekly invoice processing session, a weekly payment run and approval chase, monthly statement reconciliations, aged payables, accruals, control account and debit balance checks, quarterly direct debit and purchase order reviews, and yearly supplier file, policy and cut-off work. The Vendor, Operational checklist, Month-end close, Purchase decision, Metrics log and Remediation plan templates pair with the projects that name them. As a team plan in a shared workspace, the projects split between the AP clerk who processes bills, the budget owners who approve them and the finance manager who releases payments, with tax treatment confirmed by a qualified tax adviser. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

@@ -4,7 +4,7 @@ name: Credit Ratings Advisory
 description: "Ratings advisory from the banker's seat: agency methodologies and adjusted metrics, headroom tracking, rating presentations, pro forma deal impact and the specialist cases that decide a client's cost of debt."
 category: business
 version: 1.0.0
-tags: [investment-banking, credit-ratings-advisory, knowledge-worker, credit-ratings, rating-agencies, credit-metrics, investment-grade, rating-presentation]
+tags: [investment-banking, credit-ratings-advisory, knowledge-worker, credit-ratings, rating-agencies, credit-metrics, investment-grade, rating-presentation, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Rating scales, outlooks and watch placements reference
               description: |-
                 ## Purpose
-                Agencies use different symbols, different outlook horizons and different meanings for a watch placement, and a client CFO will ask what each one means for refinancing costs. A one-page reference you have built yourself, covering long-term and short-term scales, the investment grade line, outlooks, watches and the gap between issuer and issue ratings, stops you guessing in front of a client.
+                Agencies use different symbols, different outlook horizons and different meanings for a watch placement, and a client CFO will ask what each one means for refinancing costs. A one-page reference you have built yourself, covering long-term and short-term scales, the investment grade line, outlooks, watches and the gap between issuer and issue ratings, stops you guessing in front of a client. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Long-term and short-term scales for the main agencies set side by side, with the investment grade boundary marked.
@@ -1184,4 +1184,4 @@ starter_structure:
 
 This area is for bankers who advise companies on their credit ratings: reading agency methodologies, rebuilding adjusted metrics the way an agency analyst would, preparing management for rating meetings and telling a CFO honestly what a deal will do to the rating. It starts with foundations (rating scales, the methodology library, an adjusted metrics workbook, peer maps and engagement scoping), moves to the operating routines that keep headroom and agency publications under watch, then the technical skills behind each rating factor, the decisions clients bring you, dated events such as a first rating or an annual review, variants for analysts, associates, coverage bankers and former agency analysts, and finally specialist work on financial institutions, smaller markets, transition risk, rating triggers and downturn stress cases.
 
-What repeats is a monthly methodology watch, a weekly rating action log, quarterly headroom and post-results checks against downgrade thresholds, a monthly idea pipeline and a yearly calendar of agency reviews for each covered client. The Reading queue, Metrics log, Meeting notes, Risk register and Operational checklist templates pair with the projects that name them. Client numbers and agency correspondence belong on the bank's systems; these projects hold your own method, notes and public material. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a monthly methodology watch, a weekly rating action log, quarterly headroom and post-results checks against downgrade thresholds, a monthly idea pipeline and a yearly calendar of agency reviews for each covered client. The Reading queue, Metrics log, Meeting notes, Risk register and Operational checklist templates pair with the projects that name them. Client numbers and agency correspondence belong on the bank's systems; these projects hold the team's method, notes and public material. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

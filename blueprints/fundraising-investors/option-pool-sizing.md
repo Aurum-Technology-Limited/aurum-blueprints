@@ -35,7 +35,7 @@ starter_structure:
                 ## Notes
                 Promised grants are the commonest gap. An offer letter that mentions options is a claim on the pool even before the board approves it.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help you organise decisions about money. It is not financial, investment, tax or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with a qualified, licensed adviser in yours. Investing and trading can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -78,7 +78,7 @@ starter_structure:
             - name: Eighteen-month hiring plan by role and start quarter
               description: |-
                 ## Purpose
-                The pool exists to pay for hires, so its size can only be as good as the hiring plan behind it. Investors usually expect the pool to cover hiring until the next round, often 18 to 24 months away, and a role-by-role plan with start quarters is what turns a percentage pulled from a blog post into a number you can defend.
+                The pool exists to pay for hires, so its size can only be as good as the hiring plan behind it. Investors usually expect the pool to cover hiring until the next round, often two years or more away, and a role-by-role plan with start quarters is what turns a percentage pulled from a blog post into a number you can defend.
 
                 ## Milestones
                 1. Every planned hire listed with role, level and expected start quarter for the next 18 months.

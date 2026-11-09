@@ -4,7 +4,7 @@ name: Long-Range Strategic Plan
 description: "A three to five year plan you can steer by: a clear baseline and ambition, a few big bets, the capabilities and money behind them, dated milestones, and the rhythm that keeps the plan alive."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, long-range-strategic-plan, manager, enterprise, founder, five-year-plan, big-bets, capabilities]
+tags: [strategy-leadership, long-range-strategic-plan, manager, enterprise, founder, five-year-plan, big-bets, capabilities, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Long-range plan charter and horizon
               description: |-
                 ## Purpose
-                Most long-range plans fail before they start because nobody agreed what they are for: a five year vision, a capital plan, a fundraising story or a reset after a bad year. A one-page charter fixes the horizon (three or five years), the scope, the sponsor and the decisions the plan must settle, so everyone who works on it is answering the same question.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most long-range plans fail before they start because nobody agreed what they are for: a five year vision, a capital plan, a fundraising story or a reset after a bad year. A one-page charter fixes the horizon (three or five years), the scope, the sponsor and the decisions the plan must settle, so everyone who works on it is answering the same question.
 
                 ## Milestones
                 1. A planning horizon chosen, with the reason it fits your business's investment cycle written in a sentence.
@@ -435,7 +435,7 @@ starter_structure:
             - name: Core long-range planning frameworks
               description: |-
                 ## Purpose
-                Leaders asked to write a five year plan often reach for whatever slide format they last saw. Learning a handful of proven frameworks, such as the three horizons of growth, the where-to-play and how-to-win cascade and the diagnosis, guiding policy and coherent action kernel, gives you a vocabulary and a structure that colleagues will recognise.
+                Leaders asked to write a five year plan often reach for whatever slide format they last saw. Learning a handful of widely used frameworks, such as the three horizons of growth, the where-to-play and how-to-win cascade and the diagnosis, guiding policy and coherent action kernel, gives you a vocabulary and a structure that colleagues will recognise.
 
                 ## Milestones
                 1. Three frameworks studied from their original sources.

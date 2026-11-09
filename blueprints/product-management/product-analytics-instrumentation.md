@@ -4,7 +4,7 @@ name: Product Analytics Instrumentation
 description: "A tracking plan the whole team trusts: questions first, one naming convention, clear identity and consent rules, verified events on every platform and weekly checks that catch broken tracking early."
 category: business
 version: 1.0.0
-tags: [product-management, product-analytics-instrumentation, team, engineer, event-tracking, tracking-plan, data-quality, analytics]
+tags: [product-management, product-analytics-instrumentation, team, engineer, event-tracking, tracking-plan, data-quality, analytics, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Inventory of product questions the data must answer
               description: |-
                 ## Purpose
-                Before anyone names an event, the team needs the list of questions it expects analytics to answer: which plans convert, where new users stall, which settings large accounts change. Writing twenty to forty real questions, each with the decision it would inform, keeps the tracking plan small and prevents the common failure of tracking everything and answering nothing.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before anyone names an event, the team needs the list of questions it expects analytics to answer: which plans convert, where new users stall, which settings large accounts change. Writing twenty to forty real questions, each with the decision it would inform, keeps the tracking plan small and prevents the common failure of tracking everything and answering nothing.
 
                 ## Milestones
                 1. A list of at least twenty questions collected from product, design, engineering, support and leadership.

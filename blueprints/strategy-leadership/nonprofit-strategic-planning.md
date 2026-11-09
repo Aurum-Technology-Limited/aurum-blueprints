@@ -4,7 +4,7 @@ name: Nonprofit Strategic Planning
 description: "A charity strategy trustees, staff and the people you serve can stand behind: evidence of need, a theory of change, priorities that fit the money and capacity, and a reporting rhythm that keeps the plan alive."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, nonprofit-strategic-planning, nonprofit, manager, charity, trustees, theory-of-change, funding-strategy]
+tags: [strategy-leadership, nonprofit-strategic-planning, nonprofit, manager, charity, trustees, theory-of-change, funding-strategy, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Timing and readiness for a new strategic plan
               description: |-
                 ## Purpose
-                Charities often start a new plan because the old one has expired, not because they are ready, and a process launched during a chief executive vacancy or a funding crisis usually stalls. A short readiness check, covering leadership stability, trustee appetite, cash for the process and any decision that must come first, tells you whether to start now, start smaller or extend the current plan for a year.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Charities often start a new plan because the old one has expired, not because they are ready, and a process launched during a chief executive vacancy or a funding crisis usually stalls. A short readiness check, covering leadership stability, trustee appetite, cash for the process and any decision that must come first, tells you whether to start now, start smaller or extend the current plan for a year.
 
                 ## Milestones
                 1. A readiness checklist answered by the chair and chief executive, covering leadership, cash, trustee time and pending decisions.

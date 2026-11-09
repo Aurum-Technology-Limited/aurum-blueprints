@@ -4,7 +4,7 @@ name: Short-Let Portfolio Operations
 description: "Run a portfolio of short-let units as a real business: licences and permissions per unit, unit economics, pricing tools, cleaning teams, guest messaging, occupancy data and the systems that let you scale."
 category: business
 version: 1.0.0
-tags: [real-estate-development, short-let-portfolio-operations, small-business, founder, short-let, holiday-lets, revenue-management, guest-operations]
+tags: [real-estate-development, short-let-portfolio-operations, small-business, founder, short-let, holiday-lets, revenue-management, guest-operations, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Licence and registration register for every unit
               description: |-
                 ## Purpose
-                Short-let rules are set city by city and sometimes street by street: registration numbers, planning use, night caps, fire certificates and tourism licences all vary, and a platform can delist a unit that shows the wrong number. A single register listing each unit's permissions, numbers and renewal dates is the document every other decision rests on. Build it before adding another unit.
+                Short-let rules are set city by city and sometimes street by street: registration numbers, planning use, night caps, fire certificates and tourism licences all vary, and a platform can delist a unit that shows the wrong number. A single register listing each unit's permissions, numbers and renewal dates is the document every other decision rests on. Build it before adding another unit. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every unit listed with its address, local authority and the short-let rules that apply there.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Rules change often. Record the source and the date you checked it for each unit, so a later check knows how stale the entry is.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help your team organise its work. It is not legal advice, and following it does not make anyone your organisation's lawyer. Rules differ between countries and change often, so check decisions that matter, and anything your organisation signs, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -864,7 +864,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "30"
               tasks:
-                - "Confirm licence, consent, insurance and safety before listing"
+                - "Operations manager confirms licence, consent, insurance and safety before listing"
                 - "Furnish and stock the unit to the standard inventory"
                 - "Publish the listing with a launch rate below the comp set"
                 - "Review the first five stays and fix what guests mention"
@@ -1184,7 +1184,7 @@ starter_structure:
               tasks:
                 - "Collect every written process into one playbook"
                 - "Gather three years of unit P&Ls in one folder"
-                - "Check whether each licence and lease can transfer to a buyer"
+                - "Have the solicitor check whether each licence and lease can transfer to a buyer"
                 - "Write a two-page summary of the business and its numbers"
 ---
 

@@ -4,7 +4,7 @@ name: Sales Methodology Adoption
 description: "A selling methodology chosen against your real problems, a rollout that certifies managers first, and the deal reviews, call scoring and refreshers that keep Challenger, SPIN or Sandler habits alive past the first month."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-methodology-adoption, manager, team, enterprise, challenger, spin-selling, sandler]
+tags: [sales-revenue, sales-methodology-adoption, manager, team, enterprise, challenger, spin-selling, sandler, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Diagnosing where the current sales approach stalls
               description: |-
                 ## Purpose
-                Before choosing any methodology, find out where deals actually die: in discovery that never surfaces a real problem, in proposals that go quiet, or in late-stage price fights. Ten recorded calls and the last twelve months of stage-to-stage conversion usually show the pattern within a fortnight. A methodology bought to fix the wrong problem is the most common reason adoption fails.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before choosing any methodology, find out where deals actually die: in discovery that never surfaces a real problem, in proposals that go quiet, or in late-stage price fights. Ten recorded calls and the last twelve months of stage-to-stage conversion usually show the pattern within a fortnight. A methodology bought to fix the wrong problem is the most common reason adoption fails.
 
                 ## Milestones
                 1. Stage-to-stage conversion rates for the last twelve months pulled from the CRM.

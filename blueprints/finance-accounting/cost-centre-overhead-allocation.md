@@ -4,7 +4,7 @@ name: Cost Centre & Overhead Allocation
 description: "Cost centres with named owners, overhead pools and drivers people accept, a monthly allocation run that nets to zero, and unit results managers trust enough to act on."
 category: business
 version: 1.0.0
-tags: [finance-accounting, cost-centre-overhead-allocation, manager, enterprise, team, overheads, cost-allocation, shared-services]
+tags: [finance-accounting, cost-centre-overhead-allocation, manager, enterprise, team, overheads, cost-allocation, shared-services, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Decisions the overhead allocation must support
               description: |-
                 ## Purpose
-                Allocations often get built to fill a reporting format and then nobody uses them, because no one asked which decision they were meant to inform. Before touching a driver, write down the three to five questions leadership actually wants answered, such as whether a site earns its rent, whether a product line covers its share of support, or what an internal service really costs. Every later choice of pool, driver and level of detail is then tested against that short list.
+                Allocations often get built to fill a reporting format and then nobody uses them, because no one asked which decision they were meant to inform. Before touching a driver, write down the three to five questions leadership actually wants answered, such as whether a site earns its rent, whether a product line covers its share of support, or what an internal service really costs. Every later choice of pool, driver and level of detail is then tested against that short list. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Conversations held with the finance lead and at least three senior budget holders on what they would decide differently with fully loaded costs.
@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 If nobody can name a decision, a clean direct-cost view may be all the business needs. Let the decisions set the allocation effort, not the length of the chart of accounts.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -1168,4 +1168,4 @@ starter_structure:
 
 This area is for finance teams, budget-holding managers and larger organisations that need shared costs spread fairly enough that results by team, site or product are believed. It starts with foundations (the decisions the allocation must support, a cost centre hierarchy with owners, an inventory of overhead pools, drivers and a written policy), then the monthly machinery of driver refresh, allocation journals, zero-balance checks, owner statements and a query log, the costing skills behind it, decisions such as moving off spreadsheets or running showback before chargeback, dated moments like the annual refresh and a reorganisation, situations for new budget holders, analysts and shared service centres, and finally specialist work such as reciprocal allocation, time-driven activity-based costing and cost-plus contract rates.
 
-What repeats is the monthly cycle: driver data in on the 2nd, a misposting sweep on the 3rd, allocation journals on the 4th, the zero-balance check on the 5th, recharge, showback and owner statements in the first ten days, then recovery tracking, the query log and untagged cloud spend later in the month. Quarterly checks cover owners, dormant cost centres, driver drift, site comparisons and the model change log, while the policy, rate card, driver set and true-up come round once a year. The Purchase decision, Metrics log, Meeting notes and Onboarding 30/60/90 templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is the monthly cycle: driver data in on the 2nd, a misposting sweep on the 3rd, allocation journals on the 4th, the zero-balance check on the 5th, recharge, showback and owner statements in the first ten days, then recovery tracking, the query log and untagged cloud spend later in the month. Quarterly checks cover owners, dormant cost centres, driver drift, site comparisons and the model change log, while the policy, rate card, driver set and true-up come round once a year. The Purchase decision, Metrics log, Meeting notes and Onboarding 30/60/90 templates pair with the projects that name them. In a shared workspace, the management accountant runs the allocation, each cost centre owner reviews their statement and the finance director signs off pools and drivers. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

@@ -4,7 +4,7 @@ name: Executive Team Formation
 description: "A clear purpose and membership for the top team, written role charters, shared goals, the right executives in the right seats, and the habits that turn functional heads into a team that leads together."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, executive-team-formation, manager, enterprise, founder, executive-team, team-effectiveness, leadership-team]
+tags: [strategy-leadership, executive-team-formation, manager, enterprise, founder, executive-team, team-effectiveness, leadership-team, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Executive team purpose in one paragraph
               description: |-
                 ## Purpose
-                Most leadership groups cannot say what they do together that their members could not do alone, so their time drifts into functional updates. Writing a single paragraph on the work only this team can do, such as setting enterprise priorities, allocating capital between functions and owning the culture, gives every later decision about membership and goals something to test against.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most leadership groups cannot say what they do together that their members could not do alone, so their time drifts into functional updates. Writing a single paragraph on the work only this team can do, such as setting enterprise priorities, allocating capital between functions and owning the culture, gives every later decision about membership and goals something to test against.
 
                 ## Milestones
                 1. A list of the five to eight decisions or outcomes that genuinely need the whole team, not one function.

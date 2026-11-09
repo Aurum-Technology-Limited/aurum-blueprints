@@ -4,7 +4,7 @@ name: Building Capex Reserves
 description: "A capital plan you can defend: condition surveys, an asset register and lifecycle schedule, a funded reserve, a scoring matrix for roof, plant and facade works, and the yearly cycle that keeps it current."
 category: business
 version: 1.0.0
-tags: [real-estate-development, building-capex-reserves, small-business, knowledge-worker, capital-planning, reserve-fund, condition-survey, lifecycle]
+tags: [real-estate-development, building-capex-reserves, small-business, knowledge-worker, capital-planning, reserve-fund, condition-survey, lifecycle, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Capital asset register for each building
               description: |-
                 ## Purpose
-                A capital plan is only as good as the list of things it plans for, and most small portfolios have never written that list down. One register per building, naming every roof section, plant item, lift, facade element and life safety system with its install year and quantity, turns vague worry into a schedule you can price.
+                A capital plan is only as good as the list of things it plans for, and most small portfolios have never written that list down. One register per building, naming every roof section, plant item, lift, facade element and life safety system with its install year and quantity, turns vague worry into a schedule you can price. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. One register per building with each element listed by location, quantity and install year.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Group small items into sensible components, such as all corridor lighting on one floor, rather than listing every fitting. A register with 60 to 150 lines per building is usual.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help your team organise its work. It is not legal advice, and following it does not make anyone your organisation's lawyer. Rules differ between countries and change often, so check decisions that matter, and anything your organisation signs, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -76,7 +76,7 @@ starter_structure:
               tasks:
                 - "List the last twenty invoices over a modest value and mark each as repair or capital"
                 - "Draft a threshold and minimum useful life for capital treatment"
-                - "Send the draft policy to your accountant for comment"
+                - "Finance lead sends the draft policy to the accountant for sign-off"
                 - "Circulate the final policy to everyone who approves invoices"
             - name: Building records and warranty archive
               description: |-
@@ -355,7 +355,7 @@ starter_structure:
                 cadence: cyclic
               tasks:
                 - "Check whether local rules require periodic facade inspections for each building"
-                - "Ask a facade engineer to propose an inspection cycle per elevation"
+                - "Have a qualified facade engineer set the inspection cycle per elevation"
                 - "Book the facade and balcony inspection for this year's elevations @recurring(yearly)"
                 - "File each report and add repairs to the capital plan"
             - name: Capital works pipeline tracker
@@ -602,7 +602,7 @@ starter_structure:
               tasks:
                 - "Find which method and funding goal your current study uses"
                 - "Read a professional body's guide to reserve study methods"
-                - "Rework your plan's contribution under the other method"
+                - "Asset manager reworks the plan's contribution under the other method"
                 - "Ask the agent to draft a one-page explainer for owners from your notes"
             - name: Life safety systems in the capital plan
               description: |-
@@ -767,7 +767,7 @@ starter_structure:
               tasks:
                 - "Calculate the shortfall against the funding target for each year"
                 - "Model higher contributions, a levy, phasing and borrowing"
-                - "Ask your lawyer what the governing documents allow for levies"
+                - "Board chair asks the lawyer what the governing documents allow for levies"
                 - "Present the options and record the chosen plan"
             - name: Deferred maintenance backlog clearance
               description: |-

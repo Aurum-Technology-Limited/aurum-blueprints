@@ -4,7 +4,7 @@ name: Fundraising Gala Events
 description: "Charity galas, auctions and fundraising dinners that clear a real net target: a costed plan, sponsors and table captains, an auction and paddle raise that work, a calm night and guests who give again."
 category: business
 version: 1.0.0
-tags: [fundraising-investors, fundraising-gala-events, nonprofit, team, charity-gala, charity-auction, sponsorship, paddle-raise]
+tags: [fundraising-investors, fundraising-gala-events, nonprofit, team, charity-gala, charity-auction, sponsorship, paddle-raise, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Gala go or no-go decision with a net target
               description: |-
                 ## Purpose
-                Galas are among the most expensive ways to raise money, and many charities run one out of habit while netting less than a well-run appeal would. Deciding up front what the evening must clear after costs, and whether a gala beats the alternatives for your supporters, protects staff time and keeps the event honest.
+                Galas are among the most expensive ways to raise money, and many charities run one out of habit while netting less than a well-run appeal would. Deciding up front what the evening must clear after costs, and whether a gala beats the alternatives for your supporters, protects staff time and keeps the event honest. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Gross income, costs and staff hours from previous events, or comparable local galas, gathered in one place.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Count staff time as a cost. A gala that hits its net target but swallows three months of the fundraising team may still lose money overall.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -166,7 +166,7 @@ starter_structure:
                 5. Early-booking and young-supporter prices decided, or rejected with a reason.
 
                 ## Notes
-                Rules on how much of a ticket counts as a gift differ by country. Ask your accountant or check the tax authority's charity guidance before printing anything that mentions tax.
+                Rules on how much of a ticket counts as a gift differ by country (in the US, for example, the IRS requires a written disclosure when a payment over $75 is partly a gift and partly for goods or services; in the UK, Gift Aid generally cannot be claimed on gala tickets). Ask your accountant or check the tax authority's charity guidance before printing anything that mentions tax.
               priority: high
               deadlineOffsetDays: 40
               frontmatter:
@@ -205,7 +205,7 @@ starter_structure:
               tasks:
                 - "List every activity at the gala that might need a licence"
                 - "Ask the venue which licences it already holds"
-                - "Contact the licensing authority about raffle and gaming rules"
+                - "Event lead contacts the licensing authority or gambling regulator about raffle and gaming rules"
                 - "Collect insurance certificates from the venue and every supplier"
                 - "Check which permissions need renewing before next year's gala @recurring(yearly)"
             - name: Case for the evening and the one ask
@@ -778,7 +778,7 @@ starter_structure:
               tasks:
                 - "List the games the committee wants and what each might raise"
                 - "Check lottery and gaming rules with your licensing authority"
-                - "Apply for any licence the chosen games need"
+                - "Named licence holder applies for any licence the chosen games need"
                 - "Write the draw procedure and prize terms"
             - name: Consignment lots and reserve price policy
               description: |-

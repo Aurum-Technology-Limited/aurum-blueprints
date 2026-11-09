@@ -4,7 +4,7 @@ name: Feature Request Voting Board
 description: "A voting board customers trust: the right tool and visibility, honest status labels, weekly moderation and merging, closing the loop with voters, saying no well and reading votes without being fooled by them."
 category: business
 version: 1.0.0
-tags: [product-management, feature-request-voting-board, team, founder, small-business, feature-requests, idea-voting, closing-the-loop]
+tags: [product-management, feature-request-voting-board, team, founder, small-business, feature-requests, idea-voting, closing-the-loop, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Board purpose and scope statement
               description: |-
                 ## Purpose
-                Most voting boards fail because nobody decided what they were for, so customers read every vote as a promise and the team reads every post as noise. A short written statement of what the board is for, what it is not for (bugs, billing, urgent support) and how votes are used in decisions sets expectations before the first idea is posted.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most voting boards fail because nobody decided what they were for, so customers read every vote as a promise and the team reads every post as noise. A short written statement of what the board is for, what it is not for (bugs, billing, urgent support) and how votes are used in decisions sets expectations before the first idea is posted.
 
                 ## Milestones
                 1. A half-page statement saying what kinds of ideas belong on the board and what goes elsewhere.

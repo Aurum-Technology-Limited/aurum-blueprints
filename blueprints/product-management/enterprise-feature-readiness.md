@@ -4,7 +4,7 @@ name: Enterprise Feature Readiness
 description: "Enterprise readiness for product teams and founders: gap evidence from lost deals, single sign-on, SCIM, roles, audit logs and admin controls, plus questionnaire answers, contract commitments and renewal checks."
 category: business
 version: 1.0.0
-tags: [product-management, enterprise-feature-readiness, team, enterprise, founder, single-sign-on, audit-logs, admin-controls]
+tags: [product-management, enterprise-feature-readiness, team, enterprise, founder, single-sign-on, audit-logs, admin-controls, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Enterprise readiness gap assessment
               description: |-
                 ## Purpose
-                Before building anything for large customers, you need an honest picture of what the product lacks compared with what enterprise buyers routinely require. Scoring the product against a standard list (single sign-on, provisioning, roles, audit logs, admin console, data controls, uptime commitments, accessibility) turns a vague sense of not being ready into a ranked set of gaps that sales, engineering and leadership can all see. It also stops the loudest recent deal from setting the whole agenda.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before building anything for large customers, you need an honest picture of what the product lacks compared with what enterprise buyers routinely require. Scoring the product against a standard list (single sign-on, provisioning, roles, audit logs, admin console, data controls, uptime commitments, accessibility) turns a vague sense of not being ready into a ranked set of gaps that sales, engineering and leadership can all see. It also stops the loudest recent deal from setting the whole agenda.
 
                 ## Milestones
                 1. A checklist of around twenty enterprise capabilities, each defined in one sentence.

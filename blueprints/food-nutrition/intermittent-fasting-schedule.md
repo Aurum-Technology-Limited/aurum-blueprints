@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 If you have ever had an eating disorder, say so plainly. Fasting rules can restart restrictive patterns, and many clinicians will suggest a different approach altogether.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -60,6 +60,10 @@ starter_structure:
                 2. A measurable sign of success attached to each reason.
                 3. A list of stop signs agreed, including dizziness, fainting, obsessive thoughts about food or a clinician's advice to stop.
                 4. The page pinned to the front of your fasting log.
+
+                ## Notes
+
+                If fasting rules, the timer or the scales start to feel distressing, or food fills your thoughts, stop and talk to your doctor. Your national eating disorder charity (such as Beat in the UK) can also help.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

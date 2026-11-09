@@ -4,7 +4,7 @@ name: Coordinating Deal Advisers
 description: "The banker's control tower for a deal's other advisers: a working group list, clear scopes, a live workstream list, all-party calls that end in actions, disciplined document turns and adviser fees tracked against budget."
 category: business
 version: 1.0.0
-tags: [investment-banking, coordinating-deal-advisers, knowledge-worker, analyst, associate, workstream-list, adviser-fees, deal-management]
+tags: [investment-banking, coordinating-deal-advisers, knowledge-worker, analyst, associate, workstream-list, adviser-fees, deal-management, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Deal working group list with every adviser
               description: |-
                 ## Purpose
-                Every all-party email, call invite and document circulation on a deal is only as good as the working group list behind it, and a stale list is how a draft reaches someone who has left the deal or misses the tax partner entirely. Building one list with every firm, role, email, mobile and out-of-hours cover in the first week gives the whole deal a single source of who is who.
+                Every all-party email, call invite and document circulation on a deal is only as good as the working group list behind it, and a stale list is how a draft reaches someone who has left the deal or misses the tax partner entirely. Building one list with every firm, role, email, mobile and out-of-hours cover in the first week gives the whole deal a single source of who is who. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. One working group list covering the client, the bank, each law firm, the accountants, tax advisers and every specialist adviser.

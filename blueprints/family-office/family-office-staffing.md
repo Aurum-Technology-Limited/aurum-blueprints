@@ -4,7 +4,7 @@ name: Family Office Staffing
 description: "A family office team built on purpose: the work mapped, roles defined, the head of office and controller hired well, pay and incentives set fairly, and clear lines between staff and the family."
 category: personal
 version: 1.0.0
-tags: [family-office, family-office-staffing, parent, manager, hiring, head-of-office, compensation, executive-search]
+tags: [family-office, family-office-staffing, parent, manager, hiring, head-of-office, compensation, executive-search, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Inventory of work the family office must do
               description: |-
                 ## Purpose
-                Before hiring anyone, list every recurring job the family's affairs already generate: bill payment, bank reconciliations, tax filings, property oversight, trustee liaison, investment reporting, travel and diary management. Families that skip this step usually hire a senior generalist and then discover half the work is clerical. A written inventory with rough hours per month is the brief every later staffing decision rests on.
+                Before hiring anyone, list every recurring job the family's affairs already generate: bill payment, bank reconciliations, tax filings, property oversight, trustee liaison, investment reporting, travel and diary management. Families that skip this step usually hire a senior generalist and then discover half the work is clerical. A written inventory with rough hours per month is the brief every later staffing decision rests on. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every recurring task across entities, properties and family members listed in one table.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Ask the accountant, the private banker and whoever pays the bills today. They see work the family never notices until it stops.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

@@ -4,7 +4,7 @@ name: Reverse ETL & Data Activation
 description: "Activation-ready warehouse models, stable matching keys and clear field ownership, synced into CRM, marketing, ad and support tools with alerts, audits, consent rules and routines that keep teams trusting the data."
 category: business
 version: 1.0.0
-tags: [data-analytics, reverse-etl-data-activation, engineer, team, crm-sync, audience-sync, data-activation, revenue-operations]
+tags: [data-analytics, reverse-etl-data-activation, engineer, team, crm-sync, audience-sync, data-activation, revenue-operations, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Activation use case inventory with business owners
               description: |-
                 ## Purpose
-                Most reverse ETL programmes stall because the first sync is chosen by whoever asks loudest, not by what changes a decision. Listing every request for warehouse data inside an operational tool, with the team that will act on it, the field or audience it needs and the action it should trigger, gives you a ranked backlog and a reason to say no to the rest.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most reverse ETL programmes stall because the first sync is chosen by whoever asks loudest, not by what changes a decision. Listing every request for warehouse data inside an operational tool, with the team that will act on it, the field or audience it needs and the action it should trigger, gives you a ranked backlog and a reason to say no to the rest.
 
                 ## Milestones
                 1. A list of at least ten activation requests, each naming the destination tool, the record type and the field or audience wanted.

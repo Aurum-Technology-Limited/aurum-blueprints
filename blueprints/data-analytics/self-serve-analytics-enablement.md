@@ -4,7 +4,7 @@ name: Self-Serve Analytics Enablement
 description: "Governed datasets, user tiers and access rules, certified content, training, office hours and champions, and the adoption reviews that let non-analysts answer their own questions without queueing for the data team."
 category: business
 version: 1.0.0
-tags: [data-analytics, self-serve-analytics-enablement, team, enterprise, manager, governed-datasets, bi-adoption, analytics-training]
+tags: [data-analytics, self-serve-analytics-enablement, team, enterprise, manager, governed-datasets, bi-adoption, analytics-training, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Self-serve demand audit of the data team queue
               description: |-
                 ## Purpose
-                Before building anything, it pays to know which questions business users actually send to the data team and how many of them a well-made dataset could have answered. Classifying three months of tickets and chat requests by subject and difficulty usually shows that a handful of subject areas, often sales, customers and orders, make up most of the repeat questions. That ranked list decides where self-serve starts.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before building anything, it pays to know which questions business users actually send to the data team and how many of them a well-made dataset could have answered. Classifying three months of tickets and chat requests by subject and difficulty usually shows that a handful of subject areas, often sales, customers and orders, make up most of the repeat questions. That ranked list decides where self-serve starts.
 
                 ## Milestones
                 1. Three months of requests from the ticket system, chat channel and email gathered in one sheet.

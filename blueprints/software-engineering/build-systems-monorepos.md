@@ -4,7 +4,7 @@ name: Build Systems & Monorepos
 description: "A measured build, a dependency graph you can read, a repository layout and build tool chosen on purpose, remote caching that hits, and the routines that keep a large codebase fast to build and easy to change."
 category: business
 version: 1.0.0
-tags: [software-engineering, build-systems-monorepos, engineer, enterprise, monorepo, build-caching, dependency-graph, bazel]
+tags: [software-engineering, build-systems-monorepos, engineer, enterprise, monorepo, build-caching, dependency-graph, bazel, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Build time baseline across the repository
               description: |-
                 ## Purpose
-                Arguments about whether the build is slow go nowhere without numbers, and the numbers people quote are usually one bad afternoon. Timing a clean build, a no-op rebuild, a one-file change and the full pull request pipeline for the five most edited packages gives a baseline that every later caching, layout or tooling change can be judged against.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Arguments about whether the build is slow go nowhere without numbers, and the numbers people quote are usually one bad afternoon. Timing a clean build, a no-op rebuild, a one-file change and the full pull request pipeline for the five most edited packages gives a baseline that every later caching, layout or tooling change can be judged against.
 
                 ## Milestones
                 1. Clean, no-op and single-file incremental build times recorded for the five most edited packages, each the median of three runs.

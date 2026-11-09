@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Commonwealth Caribbean countries share a lot of law and practice. Haiti, Suriname and the Dutch and French territories run on different legal systems, so treat them as separate research.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -177,7 +179,7 @@ starter_structure:
             - name: VAT or GCT registration decision
               description: |-
                 ## Purpose
-                Professional services are taxable in much of the region, through VAT in Trinidad and Tobago, Barbados and the OECS or General Consumption Tax in Jamaica, though some health services are treated differently. Whether you must register depends on a turnover threshold and the type of service, and registering voluntarily changes your pricing. Deciding before opening keeps the first invoices right.
+                Professional services are taxable in much of the region, through VAT in Trinidad and Tobago, Barbados and most OECS states, ABST in Antigua and Barbuda or General Consumption Tax in Jamaica, though some health services are treated differently. Whether you must register depends on a turnover threshold and the type of service, and registering voluntarily changes your pricing. Deciding before opening keeps the first invoices right.
 
                 ## Milestones
                 1. The current threshold and the treatment of your type of service confirmed by the tax authority or your accountant.

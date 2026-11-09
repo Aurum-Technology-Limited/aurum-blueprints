@@ -4,7 +4,7 @@ name: Bid Rounds and Process Letters
 description: "Process letters that bidders cannot misread, bid rounds run to a clean timetable, bids compared on one basis and a preferred bidder recommendation the client and board can stand behind."
 category: business
 version: 1.0.0
-tags: [investment-banking, bid-rounds-and-process-letters, knowledge-worker, analyst, associate, m-and-a, auctions, process-letters]
+tags: [investment-banking, bid-rounds-and-process-letters, knowledge-worker, analyst, associate, m-and-a, auctions, process-letters, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Anatomy of a process letter from three past deals
               description: |-
                 ## Purpose
-                Every bank and every law firm has a house way of writing process letters, and the fastest way to learn it is to read real ones side by side. Pulling a first round letter and a final round letter from three closed deals in your group shows which clauses never change, which are argued over on every mandate and how the wording tightens between rounds.
+                Every bank and every law firm has a house way of writing process letters, and the fastest way to learn it is to read real ones side by side. Pulling a first round letter and a final round letter from three closed deals in your group shows which clauses never change, which are argued over on every mandate and how the wording tightens between rounds. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Three closed deals chosen, each with both its first round and final round process letters located.
@@ -943,7 +943,7 @@ starter_structure:
                 - "Ask the agent to draft rejection letters from the template"
                 - "Call each unsuccessful bidder before their letter goes out"
                 - "Request return or destruction of information under each NDA"
-            - name: Your first bid round as an analyst
+            - name: A new analyst's first bid round
               description: |-
                 ## Purpose
                 Analysts on their first sale process usually own the tracker, the logs and the first draft of the comparison, and often see the letters for the first time on the night they go out. Treating the first round as a planned learning stretch, with the documents read early and a check-in each week with the associate, turns it into the round you learn the most from.

@@ -4,7 +4,7 @@ name: New User Activation Flows
 description: "An activation definition that predicts retention, a measured path from sign-up to first value, weekly funnel reviews and the onboarding fixes that get more new users to the moment the product clicks."
 category: business
 version: 1.0.0
-tags: [product-management, new-user-activation-flows, team, founder, activation, onboarding, time-to-value, funnel-analysis]
+tags: [product-management, new-user-activation-flows, team, founder, activation, onboarding, time-to-value, funnel-analysis, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Activation event definition tied to week-four retention
               description: |-
                 ## Purpose
-                Most teams call a user activated when they finish a sign-up wizard, which says nothing about whether they will come back. Choosing the early action that best separates users who are still active in week four from those who are not, and writing it down with a time window, gives every onboarding decision a target that matters.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most teams call a user activated when they finish a sign-up wizard, which says nothing about whether they will come back. Choosing the early action that best separates users who are still active in week four from those who are not, and writing it down with a time window, gives every onboarding decision a target that matters.
 
                 ## Milestones
                 1. Three to five candidate actions listed, each something a new user can do in the first week.

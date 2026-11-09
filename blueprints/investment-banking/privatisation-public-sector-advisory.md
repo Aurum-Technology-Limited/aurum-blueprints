@@ -4,7 +4,7 @@ name: Privatisation and Public Sector Advisory
 description: "Advising governments and state enterprises from the banker's seat: sale methods, approvals and political timelines, transparency and probity, value for money, fiscal impact and the dated events from cabinet to completion."
 category: business
 version: 1.0.0
-tags: [investment-banking, privatisation-public-sector-advisory, knowledge-worker, privatisation, public-private-partnerships, state-owned-enterprises, government-advisory, value-for-money]
+tags: [investment-banking, privatisation-public-sector-advisory, knowledge-worker, privatisation, public-private-partnerships, state-owned-enterprises, government-advisory, value-for-money, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Privatisation methods and when each is used
               description: |-
                 ## Purpose
-                Governments sell or open up state assets in perhaps seven distinct ways: a public offering, a trade sale to a strategic buyer, a staged sell-down, a concession, a lease, a public-private partnership or a management and employee buyout. Each carries different proceeds, timelines, political optics and legal steps, and a banker who can explain the trade-offs on one page is useful in the first ministerial meeting. Building that page from real public cases fixes the vocabulary before you need it.
+                Governments sell or open up state assets in perhaps seven distinct ways: a public offering, a trade sale to a strategic buyer, a staged sell-down, a concession, a lease, a public-private partnership or a management and employee buyout. Each carries different proceeds, timelines, political optics and legal steps, and a banker who can explain the trade-offs on one page is useful in the first ministerial meeting. Building that page from real public cases fixes the vocabulary before you need it. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page table of seven sale or participation methods, each with typical proceeds, timeline and approvals needed.

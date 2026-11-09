@@ -4,7 +4,7 @@ name: Weekly Pipeline Review Cadence
 description: "A weekly pipeline meeting that inspects what changed, slipped and stalled, built on a data cut-off, rep pre-work, firm next-step rules and an action log the team actually closes."
 category: business
 version: 1.0.0
-tags: [sales-revenue, weekly-pipeline-review-cadence, manager, team, pipeline-review, deal-inspection, sales-meetings, close-dates]
+tags: [sales-revenue, weekly-pipeline-review-cadence, manager, team, pipeline-review, deal-inspection, sales-meetings, close-dates, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Audit of the pipeline meeting you run today
               description: |-
                 ## Purpose
-                Before changing anything, it pays to know what the current meeting actually does with its hour. Sitting through two reviews with a stopwatch and a tally sheet shows how much time goes on reading the CRM aloud, how many deals get discussed, and whether anything decided last week was ever checked again.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before changing anything, it pays to know what the current meeting actually does with its hour. Sitting through two reviews with a stopwatch and a tally sheet shows how much time goes on reading the CRM aloud, how many deals get discussed, and whether anything decided last week was ever checked again.
 
                 ## Milestones
                 1. Two consecutive reviews timed by segment: reading data, discussing deals, agreeing actions, off topic.

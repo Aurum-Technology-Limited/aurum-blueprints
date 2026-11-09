@@ -4,7 +4,7 @@ name: Engagement Kickoff
 description: "A first-fortnight system for consulting engagements: scope confirmed in writing, the client team mapped, governance agreed, data and interviews requested early and a day-by-day first week."
 category: business
 version: 1.0.0
-tags: [management-consulting, engagement-kickoff, knowledge-worker, freelancer, kickoff, scope, governance, first-week-plan]
+tags: [management-consulting, engagement-kickoff, knowledge-worker, freelancer, kickoff, scope, governance, first-week-plan, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Line-by-line read of the signed statement of work
               description: |-
                 ## Purpose
-                Most scope disputes three weeks in trace back to a sentence in the engagement letter that nobody on the delivery team read closely. Reading the signed statement of work before day one, and marking every deliverable, assumption, exclusion and client obligation, means you start the engagement knowing exactly what was sold and what was not.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most scope disputes three weeks in trace back to a sentence in the engagement letter that nobody on the delivery team read closely. Reading the signed statement of work before day one, and marking every deliverable, assumption, exclusion and client obligation, means you start the engagement knowing exactly what was sold and what was not.
 
                 ## Milestones
                 1. The signed statement of work and any proposal it references saved in the engagement folder.

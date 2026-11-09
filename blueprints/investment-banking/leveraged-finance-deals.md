@@ -4,7 +4,7 @@ name: Leveraged Finance Deals
 description: "Leveraged loans and high-yield bonds from the banker's seat: debt capacity, credit memos, commitment papers, covenants, syndication, lender marketing and the specialist structures seniors expect you to know."
 category: business
 version: 1.0.0
-tags: [investment-banking, leveraged-finance-deals, knowledge-worker, leveraged-loans, high-yield, covenants, syndication, lbo-financing]
+tags: [investment-banking, leveraged-finance-deals, knowledge-worker, leveraged-loans, high-yield, covenants, syndication, lbo-financing, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Leveraged finance product map for a new banker
               description: |-
                 ## Purpose
-                Revolvers, term loan A, term loan B, second lien, unitranche, senior secured notes, senior unsecured notes and holdco PIK all appear in the same week on a levfin desk, often in the same capital structure. A one-page map of who buys each instrument, how it ranks, how it is priced and how freely it can be repaid stops you mixing them up in front of a sponsor.
+                Revolvers, term loan A, term loan B, second lien, unitranche, senior secured notes, senior unsecured notes and holdco PIK all appear in the same week on a levfin desk, often in the same capital structure. A one-page map of who buys each instrument, how it ranks, how it is priced and how freely it can be repaid stops you mixing them up in front of a sponsor. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page table covering eight instruments by ranking, security, typical tenor, pricing basis and main investor type.
@@ -1007,29 +1007,29 @@ starter_structure:
                 - "Agree and record roles with the other banks"
                 - "Review team workload on long financings @recurring(monthly:3)"
                 - "Hold a post-deal review with the team"
-            - name: Leveraged finance technical interview preparation
+            - name: Technical interview bank for levfin hiring
               description: |-
                 ## Purpose
-                Lateral and graduate interviews for levfin desks test credit statistics, LBO capital structures, covenant basics and market awareness, often with a short paper case. Preparing a question bank and practising weekly before applications go out shows a desk you already speak the language.
+                Lateral and graduate interviews for levfin desks test credit statistics, LBO capital structures, covenant basics and market awareness, often with a short paper case. A shared question bank and a standard paper case let every interviewer on the desk assess candidates on the same footing, with HR setting the rules on fair and consistent hiring.
 
                 ## Milestones
-                1. A bank of 50 technical questions with model answers in your own words.
+                1. A bank of 50 technical questions with model answers agreed by the desk's VPs.
                 2. Two timed paper LBO and debt capacity cases completed.
-                3. A two-minute market view prepared and refreshed before each interview.
-                4. At least two mock interviews done with feedback recorded.
+                3. A scoring guide that every interviewer uses for each question and case.
+                4. The bank and guide reviewed with HR before the next hiring round.
               priority: low
               deadlineOffsetDays: 45
               frontmatter:
                 mode: learning
                 output_kind: knowledge
-                success_criteria: "A 50-question bank, two timed paper cases and two mock interviews with feedback are complete before applications go out."
+                success_criteria: "A 50-question bank, two timed paper cases and a scoring guide are agreed with HR and used by every interviewer in the next hiring round."
                 cadence: phased
                 effort_hours_estimate: "20"
               tasks:
-                - "Write 50 levfin technical questions with answers"
-                - "Do a timed paper debt capacity case"
-                - "Practise ten questions out loud @recurring(weekly:sat)"
-                - "Book two mock interviews with friends in credit"
+                - "Associates draft 50 levfin technical questions with model answers"
+                - "VP writes a timed paper debt capacity case with a marking scheme"
+                - "Agree a common scoring guide for every interviewer"
+                - "Review the bank and scoring guide with HR before each hiring round"
             - name: Multi-currency tranches in cross-border buyouts
               description: |-
                 ## Purpose
@@ -1174,4 +1174,4 @@ starter_structure:
 
 This area is for analysts, associates and vice presidents who arrange leveraged loans and high-yield bonds, usually for private equity sponsors buying or recapitalising companies. It starts with the foundations (the product map, sources and uses, credit metrics, adjusted EBITDA, debt capacity and the commitment committee), then the operating routines that keep market knowledge and live deals current, the technical skills behind credit memos, covenants and documentation, the structuring decisions, dated events from commitment papers to the break and funding, variants for new analysts, lateral movers and deal leads, and finally specialist structures such as holdco PIK notes, recurring revenue loans and hung deal management.
 
-What repeats is a weekly market monitor and a Friday colour page for sponsors, monthly logs of recent financings, documentation precedents and sponsor preferences, weekly book and model updates while a deal is in market, and quarterly benchmark and drill reviews. The Development plan, Metrics log, Risk register, Operational checklist and Meeting notes templates pair with the projects that name them. Everything here is built on public information, training material or the bank's own systems; client and lender data never goes into personal files. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a weekly market monitor and a Friday colour page for sponsors, monthly logs of recent financings, documentation precedents and sponsor preferences, weekly book and model updates while a deal is in market, and quarterly benchmark and drill reviews. The Development plan, Metrics log, Risk register, Operational checklist and Meeting notes templates pair with the projects that name them. Everything here is built on public information, training material or the bank's own systems; client and lender data never goes into this shared workspace. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

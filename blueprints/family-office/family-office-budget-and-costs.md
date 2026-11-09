@@ -4,7 +4,7 @@ name: Family Office Budget and Costs
 description: "A family office budget that the family trusts: a cost baseline, clear categories and approval limits, monthly actuals against budget, fair recharges to each member and a yearly review."
 category: personal
 version: 1.0.0
-tags: [family-office, family-office-budget-and-costs, parent, manager, budgeting, cost-allocation, adviser-fees, recharges]
+tags: [family-office, family-office-budget-and-costs, parent, manager, budgeting, cost-allocation, adviser-fees, recharges, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -28,7 +28,7 @@ starter_structure:
             - name: Family office cost baseline from last year's spend
               description: |-
                 ## Purpose
-                Most families asked what their office costs give a figure that is out by a third, because salaries sit in one entity, legal fees in a trust and the software bill on a personal card. Pulling twelve months of real spending from every paying entity into one sheet gives the honest number that every later budget starts from.
+                Most families asked what their office costs give a figure that is out by a third, because salaries sit in one entity, legal fees in a trust and the software bill on a personal card. Pulling twelve months of real spending from every paying entity into one sheet gives the honest number that every later budget starts from. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every entity, trust and personal account that paid an office cost in the last twelve months listed.
@@ -38,6 +38,8 @@ starter_structure:
 
                 ## Notes
                 Include costs the family pays personally for office work, such as a phone or a home study used by staff. They are the ones that vanish from every later report.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

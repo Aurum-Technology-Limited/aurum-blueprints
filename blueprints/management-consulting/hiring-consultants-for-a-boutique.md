@@ -4,7 +4,7 @@ name: Hiring Consultants for a Boutique
 description: "A hiring system for a small consulting firm: the case for each hire, role profiles and a scorecard, your own case interviews, pay bands, contractor or employee choices, offers and onboarding new consultants to your methods."
 category: business
 version: 1.0.0
-tags: [management-consulting, hiring-consultants-for-a-boutique, founder, small-business, recruiting, case-interviews, compensation, onboarding]
+tags: [management-consulting, hiring-consultants-for-a-boutique, founder, small-business, recruiting, case-interviews, compensation, onboarding, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Capacity case for the next consultant hire
               description: |-
                 ## Purpose
-                Most boutiques hire either too early, on the strength of one promising proposal, or too late, after the founders have worked six months of weekends. Setting out current utilisation, weighted pipeline and the work you are turning down gives a clear answer to whether a permanent hire, a freelancer or nobody is the right move this quarter.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most boutiques hire either too early, on the strength of one promising proposal, or too late, after the founders have worked six months of weekends. Setting out current utilisation, weighted pipeline and the work you are turning down gives a clear answer to whether a permanent hire, a freelancer or nobody is the right move this quarter.
 
                 ## Milestones
                 1. Utilisation for each current consultant over the last six months calculated from timesheets or invoices.

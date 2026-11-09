@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 Many sexual health clinics see anyone, wherever you are registered with a doctor, and most are free or low cost. Check the rules where you live.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -1083,7 +1083,7 @@ starter_structure:
             - name: HIV care and viral load monitoring routine
               description: |-
                 ## Purpose
-                Living well with HIV rests on taking treatment consistently and attending the clinic for viral load and other blood tests. A routine that ties refills, appointments and results together keeps your viral load undetectable and the clinic team aware of anything new.
+                Living well with HIV rests on taking treatment consistently and attending the clinic for viral load and other blood tests. A routine that ties refills, appointments and results together helps keep your viral load undetectable and the clinic team aware of anything new.
 
                 ## Milestones
                 1. Your clinic's monitoring schedule written down.

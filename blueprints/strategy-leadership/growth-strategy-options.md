@@ -4,7 +4,7 @@ name: Growth Strategy Options
 description: "A clear growth ambition, an honest read of where growth comes from today, a long list of routes scored against agreed criteria, cheap tests and one coherent growth path the team can fund and follow."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, growth-strategy-options, manager, founder, small-business, growth, ansoff, adjacency]
+tags: [strategy-leadership, growth-strategy-options, manager, founder, small-business, growth, ansoff, adjacency, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Growth ambition and time horizon statement
               description: |-
                 ## Purpose
-                Growth conversations go in circles when one person means doubling revenue in three years and another means a steady ten percent with better margins. Writing down how much growth, of what kind (revenue, profit, customers, reach) and by when gives every later option a test to pass and stops the team comparing ideas against different goals.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Growth conversations go in circles when one person means doubling revenue in three years and another means a steady ten percent with better margins. Writing down how much growth, of what kind (revenue, profit, customers, reach) and by when gives every later option a test to pass and stops the team comparing ideas against different goals.
 
                 ## Milestones
                 1. A one-page statement naming the growth measure that matters most, the target level and the date.

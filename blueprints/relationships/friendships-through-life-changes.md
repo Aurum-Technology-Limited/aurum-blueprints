@@ -1047,6 +1047,8 @@ starter_structure:
 
                 ## Notes
                 If there has been abuse or a safety concern, staying neutral may not be right. Support the person at risk and let them lead.
+
+                If you feel afraid of a partner or family member, or someone is controlling, threatening or hurting you, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233).
               priority: medium
               frontmatter:
                 mode: service

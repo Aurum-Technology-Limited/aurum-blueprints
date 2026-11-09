@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Do not tidy the week up for the diary. An honest low score is more useful than a flattering one.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -87,7 +87,7 @@ starter_structure:
                 4. A referral to a dietitian requested if your clinician thinks it would help.
 
                 ## Notes
-                This conversation is about safety and baselines. If nothing applies to you, it takes ten minutes.
+                This conversation is about safety and baselines. If nothing applies to you, it takes ten minutes. If you have ever had an eating disorder or disordered eating, mention it too, and stop if new food rules start to feel distressing.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

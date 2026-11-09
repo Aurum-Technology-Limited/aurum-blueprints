@@ -1,0 +1,2093 @@
+{
+ "tier1": [
+  "relationships.making-friends-as-an-adult",
+  "relationships.online-dating-search",
+  "relationships.early-dating-new-relationships",
+  "relationships.getting-over-a-breakup",
+  "relationships.couple-conflict-repair",
+  "relationships.date-night-planning",
+  "relationships.deepening-close-friendships",
+  "relationships.long-distance-relationship",
+  "relationships.money-conversations-as-couple",
+  "relationships.difficult-conversations-loved-ones",
+  "relationships.fair-division-of-household-labour",
+  "relationships.long-term-partnership-check-ins",
+  "relationships.love-languages-appreciation",
+  "relationships.birthday-gift-tracker",
+  "relationships.conversation-small-talk-skills",
+  "relationships.attachment-styles-relationships",
+  "relationships.couples-shared-life-vision",
+  "relationships.premarital-preparation",
+  "relationships.best-man-bridesmaid-duties",
+  "relationships.friendships-through-life-changes",
+  "relationships.reconnecting-with-old-friends",
+  "relationships.staying-in-touch-across-time-zones",
+  "relationships.social-calendar-balance",
+  "relationships.introvert-social-energy-pacing",
+  "relationships.hosting-friends-at-home",
+  "relationships.friend-group-gatherings-reunions",
+  "relationships.anniversaries-milestone-celebrations",
+  "relationships.thoughtful-gestures-surprises",
+  "relationships.couple-rituals-routines",
+  "relationships.getting-on-with-in-laws",
+  "relationships.supporting-a-friend-in-crisis",
+  "relationships.workplace-friendships",
+  "relationships.friendship-fallouts-endings",
+  "relationships.couples-counselling",
+  "relationships.intimacy-sex-life",
+  "relationships.adult-sibling-relationships",
+  "relationships.online-friendships-communities",
+  "relationships.lgbtq-relationships-chosen-family",
+  "relationships.rebuilding-trust-after-infidelity",
+  "relationships.divorce-separation-process",
+  "relationships.dating-as-a-single-parent",
+  "relationships.dating-again-after-loss",
+  "relationships.empty-nest-couple-reconnection",
+  "relationships.vow-renewal-planning",
+  "family-parenting.working-parent-juggle",
+  "family-parenting.parental-leave-planning",
+  "family-parenting.childcare-nursery-arrangements",
+  "family-parenting.baby-toddler-sleep",
+  "family-parenting.family-calendar-logistics",
+  "family-parenting.toddler-behaviour-tantrums",
+  "family-parenting.potty-training",
+  "family-parenting.childrens-health-appointments",
+  "family-parenting.school-holiday-childcare",
+  "family-parenting.school-run-carpools",
+  "family-parenting.positive-discipline-strategies",
+  "family-parenting.parenting-approach-agreement",
+  "family-parenting.childrens-online-safety",
+  "family-parenting.kids-clubs-activities-schedule",
+  "family-parenting.childrens-birthday-parties",
+  "family-parenting.sibling-rivalry-sharing",
+  "family-parenting.family-emergency-plan",
+  "family-parenting.kids-household-jobs-chart",
+  "family-parenting.pocket-money-kids-money-lessons",
+  "family-parenting.family-traditions-rituals",
+  "family-parenting.family-meetings-decisions",
+  "family-parenting.childhood-memories-keeping",
+  "family-parenting.kids-time-with-grandparents",
+  "family-parenting.extended-family-gatherings",
+  "family-parenting.dealing-with-bullying",
+  "family-parenting.puberty-growing-up-talks",
+  "family-parenting.co-parenting-after-separation",
+  "family-parenting.single-parent-juggling",
+  "family-parenting.blended-step-family-life",
+  "family-parenting.raising-neurodivergent-child",
+  "family-parenting.twins-multiples-parenting",
+  "family-parenting.child-leaving-home",
+  "family-parenting.parenting-adult-children",
+  "family-parenting.adoption-journey",
+  "family-parenting.foster-caring",
+  "mental-wellbeing.generalised-anxiety-management",
+  "mental-wellbeing.low-mood-depression-support",
+  "mental-wellbeing.therapy-counselling-journey",
+  "mental-wellbeing.emotional-regulation-skills",
+  "mental-wellbeing.worry-time-rumination-control",
+  "mental-wellbeing.mood-tracking-patterns",
+  "mental-wellbeing.breathwork-nervous-system",
+  "mental-wellbeing.cbt-thought-record-practice",
+  "mental-wellbeing.body-image-self-esteem",
+  "mental-wellbeing.social-anxiety-exposure-work",
+  "mental-wellbeing.panic-attack-coping-plan",
+  "mental-wellbeing.grief-bereavement-support",
+  "mental-wellbeing.loneliness-isolation-support",
+  "mental-wellbeing.anger-management",
+  "mental-wellbeing.health-anxiety-management",
+  "mental-wellbeing.life-transition-adjustment",
+  "mental-wellbeing.workplace-mental-health-adjustments",
+  "mental-wellbeing.progressive-relaxation-body-scans",
+  "mental-wellbeing.mens-mental-health-check-ins",
+  "mental-wellbeing.seasonal-affective-disorder",
+  "mental-wellbeing.phobia-exposure-therapy",
+  "mental-wellbeing.attachment-inner-child-work",
+  "mental-wellbeing.peer-support-groups",
+  "mental-wellbeing.climate-eco-anxiety",
+  "mental-wellbeing.somatic-therapy-body-awareness",
+  "mental-wellbeing.chronic-illness-emotional-coping",
+  "mental-wellbeing.autistic-wellbeing-sensory-needs",
+  "physical-health.sexual-health-sti-testing",
+  "physical-health.menstrual-health-endometriosis",
+  "physical-health.medical-test-results-records",
+  "physical-health.prescription-medication-management",
+  "physical-health.eye-health-vision-care",
+  "physical-health.vaccination-schedule-tracking",
+  "physical-health.chronic-back-neck-pain",
+  "physical-health.migraine-headache-management",
+  "physical-health.gut-health-ibs",
+  "physical-health.allergy-hay-fever-management",
+  "physical-health.sun-safety-mole-monitoring",
+  "physical-health.wearable-health-data",
+  "physical-health.home-first-aid-preparedness",
+  "physical-health.cancer-screening-schedule",
+  "physical-health.physiotherapy-rehab-plans",
+  "physical-health.specialist-referrals-waiting-lists",
+  "physical-health.surgery-preparation",
+  "physical-health.eczema-psoriasis-care",
+  "physical-health.hearing-health-tinnitus",
+  "physical-health.family-medical-history",
+  "physical-health.mens-health-prostate",
+  "physical-health.menopause-perimenopause-care",
+  "physical-health.anaemia-iron-deficiency",
+  "physical-health.thyroid-condition-management",
+  "physical-health.asthma-copd-care",
+  "physical-health.foot-health-podiatry",
+  "physical-health.sleep-disorder-treatment",
+  "physical-health.arthritis-joint-care",
+  "physical-health.living-with-physical-disability",
+  "physical-health.bone-density-osteoporosis",
+  "food-nutrition.grocery-shopping-pantry-stock",
+  "food-nutrition.cooking-for-one",
+  "food-nutrition.knife-skills-kitchen-technique",
+  "food-nutrition.macro-calorie-tracking",
+  "food-nutrition.plant-based-vegan-eating",
+  "food-nutrition.mediterranean-diet-transition",
+  "food-nutrition.kitchen-food-waste-reduction",
+  "food-nutrition.sugar-ultra-processed-reduction",
+  "food-nutrition.bread-sourdough-baking",
+  "food-nutrition.specialty-coffee-brewing",
+  "food-nutrition.dinner-party-hosting-menus",
+  "food-nutrition.cooking-world-cuisines",
+  "food-nutrition.spice-flavour-building",
+  "food-nutrition.homemade-pasta-pizza",
+  "food-nutrition.seasonal-produce-cooking",
+  "food-nutrition.intuitive-eating-practice",
+  "food-nutrition.food-hygiene-safe-storage",
+  "food-nutrition.cocktail-mocktail-making",
+  "food-nutrition.barbecue-live-fire-cooking",
+  "food-nutrition.cakes-pastry-desserts",
+  "food-nutrition.holiday-feast-cooking",
+  "food-nutrition.restaurant-wishlist-dining-out",
+  "food-nutrition.kitchen-equipment-layout",
+  "food-nutrition.shared-family-mealtimes",
+  "food-nutrition.school-packed-lunches",
+  "food-nutrition.feeding-fussy-eating-children",
+  "food-nutrition.family-recipe-collection",
+  "food-nutrition.intermittent-fasting-schedule",
+  "food-nutrition.wine-food-pairing",
+  "food-nutrition.fermenting-preserving",
+  "food-nutrition.meat-fish-butchery-prep",
+  "food-nutrition.coeliac-gluten-free-eating",
+  "food-nutrition.low-fodmap-gut-friendly-diet",
+  "food-nutrition.halal-kosher-kitchen",
+  "food-nutrition.keto-low-carb-eating",
+  "food-nutrition.vitamins-supplements-review",
+  "food-nutrition.nutrition-for-older-adults"
+ ],
+ "tier2": [
+  "wealth-investing.workplace-pension-optimisation",
+  "wealth-investing.tax-advantaged-investment-accounts",
+  "wealth-investing.employee-stock-options-rsus",
+  "wealth-investing.asset-allocation-rebalancing",
+  "wealth-investing.investment-fee-reduction",
+  "wealth-investing.investor-behaviour-panic-control",
+  "wealth-investing.personal-investment-policy",
+  "wealth-investing.annual-wealth-review",
+  "wealth-investing.pension-consolidation",
+  "wealth-investing.lost-pension-tracing",
+  "wealth-investing.mortgage-overpayment-vs-investing",
+  "wealth-investing.cryptocurrency-holdings",
+  "wealth-investing.individual-stock-research",
+  "wealth-investing.ethical-impact-investing",
+  "wealth-investing.dividend-income-investing",
+  "wealth-investing.bonds-fixed-income",
+  "wealth-investing.capital-gains-tax-planning",
+  "wealth-investing.couples-retirement-plan-alignment",
+  "wealth-investing.mini-retirement-funding",
+  "wealth-investing.self-employed-retirement-saving",
+  "wealth-investing.private-pension-accounts",
+  "wealth-investing.choosing-financial-adviser",
+  "wealth-investing.childrens-investment-accounts",
+  "wealth-investing.reit-property-fund-investing",
+  "wealth-investing.buy-to-let-property",
+  "wealth-investing.state-pension-social-security",
+  "wealth-investing.inflation-protection-strategy",
+  "wealth-investing.expat-cross-border-investing",
+  "wealth-investing.estate-planning-inheritance-tax",
+  "wealth-investing.active-trading-rules",
+  "software-engineering.system-architecture-design",
+  "software-engineering.database-schema-design",
+  "software-engineering.api-design-versioning",
+  "software-engineering.containers-kubernetes",
+  "software-engineering.cloud-infrastructure-provisioning",
+  "software-engineering.infrastructure-as-code",
+  "software-engineering.application-performance-tuning",
+  "software-engineering.secure-coding-practices",
+  "software-engineering.automated-test-strategy",
+  "software-engineering.distributed-systems-scaling",
+  "software-engineering.engineering-team-management",
+  "software-engineering.desktop-app-engineering",
+  "software-engineering.embedded-firmware-engineering",
+  "data-analytics.statistical-analysis-methods",
+  "data-analytics.online-experimentation-ab-tests",
+  "data-analytics.predictive-modelling",
+  "data-analytics.time-series-forecasting",
+  "data-analytics.cohort-retention-analysis",
+  "data-analytics.reproducible-analysis-workflows",
+  "data-analytics.analytics-data-modelling-dbt",
+  "data-analytics.business-intelligence-dashboards",
+  "data-analytics.web-app-traffic-analytics",
+  "data-analytics.survey-data-analysis",
+  "data-analytics.causal-inference-studies",
+  "data-analytics.customer-lifetime-value-analysis",
+  "data-analytics.llm-evaluation-rag-data",
+  "data-analytics.text-sentiment-analytics",
+  "data-analytics.geospatial-analysis",
+  "data-analytics.open-public-datasets",
+  "data-analytics.computer-vision-projects",
+  "product-management.product-discovery-interviews",
+  "product-management.product-requirements-documents",
+  "product-management.feature-prioritisation-frameworks",
+  "product-management.product-roadmap-planning",
+  "product-management.jobs-to-be-done-research",
+  "product-management.prototype-validation-tests",
+  "product-management.problem-framing-opportunity-mapping",
+  "product-management.product-vision-writing",
+  "product-management.product-stakeholder-alignment",
+  "product-management.ai-feature-product-management",
+  "product-management.competitor-feature-analysis",
+  "product-management.mobile-app-product-management",
+  "sales-revenue.sales-discovery-calls",
+  "sales-revenue.deal-negotiation-closing",
+  "sales-revenue.sales-objection-handling",
+  "sales-revenue.cold-email-prospecting-sequences",
+  "sales-revenue.cold-calling-phone-outreach",
+  "sales-revenue.linkedin-social-selling",
+  "sales-revenue.product-demo-delivery",
+  "sales-revenue.executive-sales-presentations",
+  "sales-revenue.sales-proposal-writing",
+  "sales-revenue.referral-warm-introduction-selling",
+  "sales-revenue.deal-qualification-meddicc-bant",
+  "sales-revenue.deal-stakeholder-mapping",
+  "sales-revenue.mutual-action-plans",
+  "sales-revenue.key-account-management",
+  "sales-revenue.account-expansion-upsell",
+  "sales-revenue.front-line-sales-management",
+  "strategy-leadership.executive-presence-development",
+  "strategy-leadership.strategy-narrative-and-memo-writing",
+  "strategy-leadership.leadership-360-feedback",
+  "strategy-leadership.executive-coaching-engagement",
+  "strategy-leadership.leading-distributed-teams",
+  "strategy-leadership.building-psychological-safety",
+  "strategy-leadership.ethical-leadership-dilemmas",
+  "strategy-leadership.first-ninety-days-as-an-executive",
+  "management-consulting.consulting-promotion-reviews",
+  "management-consulting.consulting-exit-options",
+  "management-consulting.consulting-staffing-and-project-choice",
+  "management-consulting.consulting-travel-life",
+  "management-consulting.written-and-group-case-exercises",
+  "management-consulting.issue-trees-and-problem-structuring",
+  "management-consulting.slide-storylining-and-action-titles",
+  "management-consulting.synthesis-and-executive-summaries",
+  "management-consulting.workshop-facilitation",
+  "management-consulting.consulting-excel-modelling",
+  "management-consulting.client-interviews-and-expert-calls",
+  "management-consulting.going-independent-after-a-firm",
+  "management-consulting.mba-consulting-internship"
+ ],
+ "tier3": [
+  "fundraising-investors.series-a-fundraise",
+  "fundraising-investors.safes-convertible-notes",
+  "fundraising-investors.term-sheet-negotiation",
+  "fundraising-investors.investor-target-list-building",
+  "fundraising-investors.investor-warm-introductions",
+  "fundraising-investors.monthly-investor-updates",
+  "fundraising-investors.founder-dilution-planning",
+  "fundraising-investors.cap-table-management",
+  "fundraising-investors.fundraising-financial-model",
+  "fundraising-investors.investor-data-room",
+  "fundraising-investors.angel-syndicate-raises",
+  "fundraising-investors.bridge-round-extension",
+  "fundraising-investors.option-pool-sizing",
+  "fundraising-investors.round-closing-completion",
+  "fundraising-investors.investor-reference-checks",
+  "fundraising-investors.reward-crowdfunding-launch",
+  "fundraising-investors.revenue-based-financing",
+  "fundraising-investors.equity-crowdfunding-campaign",
+  "fundraising-investors.investor-tax-relief-schemes",
+  "fundraising-investors.impact-investor-fundraising",
+  "fundraising-investors.corporate-venture-investors",
+  "fundraising-investors.family-office-relationships",
+  "fundraising-investors.post-round-board-setup",
+  "fundraising-investors.investor-board-reporting",
+  "fundraising-investors.share-valuations-409a",
+  "fundraising-investors.venture-debt-facilities",
+  "fundraising-investors.growth-equity-rounds",
+  "fundraising-investors.down-round-recapitalisation",
+  "fundraising-investors.secondary-share-sales-liquidity",
+  "fundraising-investors.company-sale-exit-process",
+  "fundraising-investors.acquisition-financing",
+  "fundraising-investors.raising-a-venture-fund",
+  "management-consulting.engagement-manager-role",
+  "management-consulting.workstream-leadership",
+  "management-consulting.partner-track-and-selling-work",
+  "management-consulting.hypothesis-driven-workplans",
+  "management-consulting.managing-client-sponsors",
+  "management-consulting.client-data-requests-and-analysis",
+  "management-consulting.ethics-and-conflicts-in-consulting",
+  "management-consulting.consulting-engagement-pricing",
+  "management-consulting.consulting-proposal-letters",
+  "management-consulting.follow-on-work-and-extensions",
+  "management-consulting.consulting-thought-leadership",
+  "management-consulting.expert-network-calls",
+  "management-consulting.subcontracting-to-larger-firms",
+  "management-consulting.multilateral-donor-funded-consultancies",
+  "management-consulting.boutique-consulting-firm-building",
+  "wealth-investing.angel-investing-in-startups",
+  "wealth-investing.holiday-let-property",
+  "wealth-investing.property-flipping",
+  "wealth-investing.property-company-structure",
+  "wealth-investing.peer-to-peer-lending",
+  "wealth-investing.precious-metals-holdings",
+  "wealth-investing.alternative-collectible-investments",
+  "wealth-investing.royalty-licensing-income",
+  "wealth-investing.business-owner-exit-wealth",
+  "wealth-investing.annuity-decisions",
+  "wealth-investing.retirement-income-drawdown",
+  "wealth-investing.family-trusts-lifetime-gifting",
+  "wealth-investing.philanthropic-legacy-giving",
+  "wealth-investing.teaching-heirs-about-wealth",
+  "data-analytics.pricing-analytics",
+  "data-analytics.recommendation-systems",
+  "data-analytics.ml-feature-engineering",
+  "data-analytics.ml-model-deployment-mlops",
+  "data-analytics.marketing-mix-modelling",
+  "data-analytics.small-business-reporting-setup",
+  "data-analytics.data-team-management",
+  "sales-revenue.ideal-customer-profile-sales",
+  "sales-revenue.enterprise-complex-deal-cycles",
+  "sales-revenue.navigating-buyer-procurement",
+  "sales-revenue.field-sales-territory-visits",
+  "sales-revenue.public-sector-selling",
+  "strategy-leadership.leading-through-managers",
+  "strategy-leadership.leading-through-a-crisis",
+  "strategy-leadership.small-business-owner-strategy-day",
+  "strategy-leadership.family-business-leadership",
+  "strategy-leadership.public-sector-leadership",
+  "finance-accounting.customer-invoicing-billing",
+  "finance-accounting.receivables-collections-management",
+  "finance-accounting.bank-card-reconciliation",
+  "finance-accounting.outsourced-accountant-management",
+  "finance-accounting.three-statement-financial-modelling",
+  "finance-accounting.year-end-statutory-accounts",
+  "finance-accounting.corporate-income-tax-returns",
+  "finance-accounting.payment-processor-payout-reconciliation",
+  "finance-accounting.management-accounts-reporting",
+  "finance-accounting.chart-of-accounts-design",
+  "finance-accounting.accounting-software-implementation",
+  "finance-accounting.product-margin-analysis",
+  "finance-accounting.project-job-costing",
+  "finance-accounting.business-banking-relationships",
+  "finance-accounting.business-debt-loan-servicing",
+  "finance-accounting.payment-fraud-prevention",
+  "finance-accounting.contractor-payment-reporting",
+  "finance-accounting.rd-tax-credit-claims",
+  "finance-accounting.finance-business-partnering",
+  "investment-banking.banking-exit-opportunities",
+  "investment-banking.analyst-to-associate-promotion",
+  "investment-banking.boutique-or-bulge-bracket-choice",
+  "investment-banking.ib-analyst-training-programme",
+  "investment-banking.excel-and-powerpoint-speed",
+  "investment-banking.health-under-banking-hours",
+  "investment-banking.ib-analyst-workflow",
+  "investment-banking.deal-staffing-and-hours",
+  "investment-banking.dcf-valuation-work",
+  "investment-banking.trading-comparables-analysis",
+  "investment-banking.precedent-transactions-analysis",
+  "investment-banking.merger-models-and-accretion-dilution",
+  "investment-banking.financial-model-checking",
+  "investment-banking.turning-comments-from-seniors",
+  "investment-banking.pitch-book-preparation",
+  "investment-banking.banking-bonus-season",
+  "investment-banking.lateral-moves-between-banks",
+  "investment-banking.associate-role-in-banking",
+  "investment-banking.vice-president-deal-leadership",
+  "investment-banking.client-coverage-and-origination",
+  "investment-banking.wall-crossing-and-compliance",
+  "private-equity-vc.breaking-into-venture-capital",
+  "private-equity-vc.lbo-modelling",
+  "private-equity-vc.pe-associate-years",
+  "private-equity-vc.vc-career-growth",
+  "private-equity-vc.pe-career-progression-to-partner",
+  "private-equity-vc.investment-committee-memos",
+  "private-equity-vc.venture-investment-memos",
+  "private-equity-vc.deal-screening-and-first-look",
+  "private-equity-vc.investment-thesis-development",
+  "private-equity-vc.early-stage-startup-diligence",
+  "private-equity-vc.management-team-assessment",
+  "private-equity-vc.carried-interest-and-waterfalls",
+  "private-equity-vc.search-fund-launch",
+  "private-equity-vc.search-fund-acquisition-phase",
+  "private-equity-vc.searcher-as-ceo",
+  "private-equity-vc.independent-sponsor-deals",
+  "private-equity-vc.venture-scout-programmes",
+  "private-equity-vc.vc-deal-flow",
+  "private-equity-vc.pe-deal-sourcing",
+  "private-equity-vc.angel-to-fund-manager",
+  "private-equity-vc.leading-an-angel-syndicate",
+  "private-equity-vc.emerging-manager-fund-launch",
+  "private-equity-vc.vc-board-seats",
+  "private-equity-vc.portfolio-company-board-work",
+  "private-equity-vc.operating-partner-role",
+  "private-equity-vc.working-in-corporate-venture-capital",
+  "private-equity-vc.vc-portfolio-support",
+  "private-equity-vc.track-record-and-attribution",
+  "private-equity-vc.caribbean-private-capital-deals",
+  "quant-finance.quant-trader-interviews",
+  "quant-finance.quant-researcher-interviews",
+  "quant-finance.quant-developer-interviews",
+  "quant-finance.choosing-a-quant-employer",
+  "quant-finance.quant-finance-masters-programmes",
+  "quant-finance.quant-careers-after-a-phd",
+  "quant-finance.trading-risk-rules-and-kill-switches",
+  "quant-finance.active-trading-tax-records",
+  "quant-finance.backtesting-discipline",
+  "quant-finance.options-strategy-research",
+  "quant-finance.statistics-for-finance",
+  "quant-finance.stochastic-calculus-study",
+  "quant-finance.overfitting-and-multiple-testing",
+  "quant-finance.quant-research-log",
+  "quant-finance.paper-replication",
+  "quant-finance.quant-research-competitions",
+  "quant-finance.machine-learning-for-finance",
+  "quant-finance.financial-time-series-econometrics",
+  "quant-finance.derivatives-pricing-models",
+  "quant-finance.backtesting-engine-build",
+  "quant-finance.broker-exchange-api-integration",
+  "quant-finance.market-data-sourcing",
+  "quant-finance.tick-data-storage-and-cleaning",
+  "quant-finance.quant-development-cpp-python",
+  "quant-finance.quant-research-code-quality",
+  "quant-finance.alpha-research-process",
+  "quant-finance.factor-models",
+  "quant-finance.portfolio-construction-optimisation",
+  "quant-finance.portfolio-risk-models",
+  "quant-finance.strategy-stress-testing",
+  "quant-finance.live-strategy-monitoring",
+  "quant-finance.systematic-strategy-retirement",
+  "quant-finance.transaction-cost-analysis",
+  "quant-finance.trend-following-research",
+  "quant-finance.statistical-arbitrage-research",
+  "quant-finance.volatility-modelling",
+  "quant-finance.rates-and-credit-modelling",
+  "quant-finance.market-microstructure-study",
+  "quant-finance.market-making-strategy-research",
+  "quant-finance.non-competes-and-garden-leave",
+  "real-estate-development.real-estate-financial-modelling",
+  "real-estate-development.cap-rates-and-property-valuation",
+  "real-estate-development.property-acquisition-due-diligence",
+  "real-estate-development.development-appraisal",
+  "real-estate-development.off-market-deal-sourcing",
+  "real-estate-development.multifamily-acquisitions",
+  "real-estate-development.distressed-property-acquisitions",
+  "real-estate-development.real-estate-club-deals",
+  "real-estate-development.site-finding-and-land-acquisition",
+  "real-estate-development.site-feasibility-and-massing",
+  "real-estate-development.appointing-a-design-team",
+  "real-estate-development.construction-finance",
+  "real-estate-development.development-cost-control",
+  "real-estate-development.practical-completion-and-handover",
+  "real-estate-development.site-utilities-and-connections",
+  "real-estate-development.option-and-conditional-land-deals",
+  "real-estate-development.land-banking-and-strategic-land",
+  "real-estate-development.development-exit-and-refinancing",
+  "real-estate-development.development-joint-ventures",
+  "real-estate-development.development-project-delivery",
+  "real-estate-development.property-development-company-setup",
+  "real-estate-development.reit-financial-analysis",
+  "real-estate-development.commercial-property-underwriting",
+  "real-estate-development.commercial-real-estate-acquisitions",
+  "real-estate-development.commercial-real-estate-debt",
+  "real-estate-development.industrial-and-logistics-property",
+  "real-estate-development.niche-property-sectors",
+  "real-estate-development.caribbean-development-approvals",
+  "real-estate-development.caribbean-land-subdivision-projects",
+  "real-estate-development.caribbean-tourism-real-estate",
+  "real-estate-development.hurricane-resilient-development",
+  "real-estate-development.property-management-company",
+  "practice-ownership.starting-a-practice-from-scratch",
+  "practice-ownership.buying-an-existing-practice",
+  "practice-ownership.owning-a-dental-practice",
+  "practice-ownership.owning-a-medical-clinic",
+  "practice-ownership.owning-a-law-firm",
+  "practice-ownership.owning-an-accounting-firm",
+  "practice-ownership.owning-a-physiotherapy-clinic",
+  "practice-ownership.owning-a-therapy-practice",
+  "practice-ownership.owning-a-pharmacy",
+  "practice-ownership.owning-a-veterinary-practice",
+  "practice-ownership.owning-an-optometry-practice",
+  "practice-ownership.owning-an-architecture-studio",
+  "practice-ownership.owning-an-engineering-consultancy",
+  "practice-ownership.practice-owner-time-management",
+  "practice-ownership.practice-fee-schedules",
+  "practice-ownership.practice-financial-dashboard",
+  "practice-ownership.practice-valuation",
+  "practice-ownership.selling-a-practice",
+  "practice-ownership.selling-to-a-practice-group",
+  "practice-ownership.practice-succession-planning",
+  "practice-ownership.partner-retirement-and-exit",
+  "practice-ownership.partner-profit-sharing-models",
+  "practice-ownership.practice-equipment-finance",
+  "practice-ownership.practice-premises-and-fit-out",
+  "practice-ownership.practice-management-software",
+  "practice-ownership.practice-manager-role",
+  "practice-ownership.practice-marketing-professional-rules",
+  "practice-ownership.professional-indemnity-for-practices",
+  "practice-ownership.professional-referral-networks",
+  "practice-ownership.setting-up-a-caribbean-practice",
+  "practice-ownership.telehealth-and-remote-services",
+  "practice-ownership.work-in-progress-and-lockup",
+  "practice-ownership.locums-and-contract-professionals",
+  "practice-ownership.hiring-associates-and-professionals",
+  "practice-ownership.hiring-front-desk-and-support-staff",
+  "practice-ownership.group-practice-and-multi-site-growth",
+  "practice-ownership.patient-billing-and-insurance-claims",
+  "engineering-practice.mechanical-engineering-practice",
+  "engineering-practice.electrical-engineering-practice",
+  "engineering-practice.structural-engineering-practice",
+  "engineering-practice.chemical-and-process-engineering",
+  "engineering-practice.controls-and-automation-engineering",
+  "engineering-practice.petroleum-engineering-practice",
+  "engineering-practice.environmental-engineering-practice",
+  "engineering-practice.biomedical-engineering-practice",
+  "engineering-practice.aerospace-engineering-practice",
+  "engineering-practice.marine-engineering-practice",
+  "engineering-practice.mining-and-minerals-engineering",
+  "engineering-practice.industrial-and-manufacturing-engineering",
+  "engineering-practice.engineering-report-writing",
+  "engineering-practice.engineering-calculation-packages",
+  "engineering-practice.cad-modelling-and-drawings",
+  "engineering-practice.engineering-ethics",
+  "engineering-practice.codes-and-standards-compliance",
+  "engineering-practice.fea-and-cfd-simulation",
+  "engineering-practice.process-simulation-modelling",
+  "engineering-practice.plc-programming",
+  "engineering-practice.scada-and-hmi-systems",
+  "engineering-practice.reliability-engineering",
+  "engineering-practice.root-cause-analysis",
+  "engineering-practice.fmea-studies",
+  "engineering-practice.engineering-cost-estimating",
+  "engineering-practice.factory-acceptance-testing",
+  "engineering-practice.engineering-project-delivery",
+  "engineering-practice.caribbean-wind-and-seismic-design",
+  "engineering-practice.energy-transition-engineering-projects",
+  "engineering-practice.trinidad-upstream-oil-and-gas",
+  "engineering-practice.point-lisas-petrochemical-plants",
+  "engineering-practice.lng-plant-operations-and-engineering",
+  "engineering-practice.offshore-platform-engineering",
+  "agriculture.open-field-vegetable-farming",
+  "agriculture.herbs-and-seasoning-crops",
+  "agriculture.farm-budgets-and-enterprise-costing",
+  "agriculture.farmers-markets-and-direct-sales",
+  "agriculture.soil-testing-and-fertility",
+  "agriculture.farm-irrigation-systems",
+  "agriculture.integrated-pest-management",
+  "agriculture.root-crop-farming",
+  "agriculture.tropical-fruit-orchards",
+  "agriculture.broiler-production",
+  "agriculture.goat-and-sheep-farming",
+  "agriculture.agro-processing-business",
+  "agriculture.farm-finance-and-loans",
+  "agriculture.farm-records-and-traceability",
+  "agriculture.post-harvest-handling-and-packing",
+  "agriculture.supplying-hotels-and-restaurants",
+  "agriculture.supermarket-supply-contracts",
+  "agriculture.hurricane-resilience-on-the-farm",
+  "agriculture.drought-and-dry-season-planning",
+  "agriculture.farm-drainage-and-flood-control",
+  "agriculture.banana-and-plantain-farming",
+  "agriculture.citrus-orchards",
+  "agriculture.cocoa-farming",
+  "agriculture.coconut-farming",
+  "agriculture.coffee-farming",
+  "agriculture.nutmeg-and-spice-crops",
+  "agriculture.aquaponics-systems",
+  "agriculture.tilapia-aquaculture",
+  "agriculture.pig-farming",
+  "agriculture.beef-cattle-farming",
+  "agriculture.dairy-farming",
+  "agriculture.livestock-feed-and-forage",
+  "agriculture.livestock-health-and-vet-care",
+  "agriculture.farm-machinery-and-equipment",
+  "agriculture.farm-land-tenure-and-leases",
+  "agriculture.farm-labour-and-workers",
+  "agriculture.contract-farming-agreements",
+  "agriculture.wholesale-market-selling",
+  "agriculture.agricultural-insurance",
+  "agriculture.agricultural-export-compliance",
+  "agriculture.food-safety-and-gap-certification",
+  "agriculture.praedial-larceny-prevention",
+  "agriculture.rice-farming-in-guyana-and-suriname",
+  "family-office.multi-family-office-selection",
+  "family-office.adviser-and-manager-oversight",
+  "family-office.consolidated-wealth-reporting",
+  "family-office.family-investment-policy-statement",
+  "family-office.bank-and-custodian-relationships",
+  "family-office.family-liquidity-planning",
+  "family-office.donor-advised-funds",
+  "family-office.family-grant-making-strategy",
+  "family-office.caribbean-family-philanthropy",
+  "family-office.trustee-selection-and-oversight",
+  "family-office.family-risk-and-insurance-review",
+  "family-office.family-records-and-archives",
+  "family-office.family-privacy-and-public-profile",
+  "family-office.family-security-assessment",
+  "family-office.household-staff-employment",
+  "family-office.staff-vetting-and-background-checks",
+  "family-office.estate-manager-and-house-manager",
+  "family-office.multiple-residences-management",
+  "family-office.art-and-collection-management",
+  "family-office.concierge-and-lifestyle-management",
+  "family-office.aircraft-and-yacht-ownership"
+ ],
+ "hold": [
+  {
+   "id": "agriculture.pesticide-safety-and-records",
+   "reason": "Chemical handling safety; needs agronomist / safety review before publishing"
+  },
+  {
+   "id": "data-analytics.algorithmic-bias-review",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.analytics-request-intake",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.anomaly-detection-alerts",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.churn-prediction-models",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.cloud-data-platform-selection",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.customer-data-platform",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.data-anonymisation-privacy",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.data-catalogue-lineage",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.data-contracts-schemas",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.data-governance-ownership",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.data-quality-monitoring",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.data-warehouse-build",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.data-warehouse-cost-control",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.elt-data-pipelines",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.kpi-metric-definitions",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.master-data-management",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.model-drift-monitoring",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.operations-analytics",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.organisation-data-literacy",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.real-time-streaming-data",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.reverse-etl-data-activation",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.self-serve-analytics-enablement",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.sql-training-for-teams",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "data-analytics.weekly-metrics-review-meeting",
+   "reason": "Organisation data-team process, not a goal one person owns"
+  },
+  {
+   "id": "engineering-practice.asset-integrity-and-inspection",
+   "reason": "Plant- or project-team process, not a personal goal"
+  },
+  {
+   "id": "engineering-practice.commissioning-and-start-up",
+   "reason": "Plant- or project-team process, not a personal goal"
+  },
+  {
+   "id": "engineering-practice.engineering-design-reviews",
+   "reason": "Plant- or project-team process, not a personal goal"
+  },
+  {
+   "id": "engineering-practice.engineering-drawing-and-document-control",
+   "reason": "Plant- or project-team process, not a personal goal"
+  },
+  {
+   "id": "engineering-practice.engineering-tender-bids",
+   "reason": "Plant- or project-team process, not a personal goal"
+  },
+  {
+   "id": "engineering-practice.feed-studies",
+   "reason": "Plant- or project-team process, not a personal goal"
+  },
+  {
+   "id": "engineering-practice.hazop-studies",
+   "reason": "A team study led by a facilitator, not a personal goal; also safety-critical"
+  },
+  {
+   "id": "engineering-practice.local-content-in-energy-contracting",
+   "reason": "Plant- or project-team process, not a personal goal"
+  },
+  {
+   "id": "engineering-practice.lopa-and-safety-integrity-levels",
+   "reason": "Safety-integrity calculations; needs a functional-safety engineer review"
+  },
+  {
+   "id": "engineering-practice.maintenance-planning-and-scheduling",
+   "reason": "Plant- or project-team process, not a personal goal"
+  },
+  {
+   "id": "engineering-practice.management-of-change",
+   "reason": "Plant- or project-team process, not a personal goal"
+  },
+  {
+   "id": "engineering-practice.natural-gas-curtailment-planning",
+   "reason": "Plant- or project-team process, not a personal goal"
+  },
+  {
+   "id": "engineering-practice.permit-to-work-and-isolations",
+   "reason": "Lockout and isolation errors can kill; needs a chartered engineer / safety review"
+  },
+  {
+   "id": "engineering-practice.plant-turnarounds-and-shutdowns",
+   "reason": "Plant- or project-team process, not a personal goal"
+  },
+  {
+   "id": "engineering-practice.process-safety-management",
+   "reason": "Plant- or project-team process, not a personal goal"
+  },
+  {
+   "id": "family-office.caribbean-family-business-groups",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.close-protection-arrangements",
+   "reason": "Personal-security arrangements for high-risk families; sensitive and very narrow"
+  },
+  {
+   "id": "family-office.crs-and-fatca-reporting",
+   "reason": "Regulatory reporting for family structures; needs legal/tax review"
+  },
+  {
+   "id": "family-office.family-bank-and-member-loans",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.family-conflict-resolution",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.family-constitution-drafting",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.family-council-and-assembly",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.family-crisis-and-reputation-plan",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.family-employment-policy",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.family-enterprise-ownership-rules",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.family-governance-framework",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.family-holding-company",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.family-investment-committee",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.family-leadership-succession",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.family-office-budget-and-costs",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.family-office-cybersecurity",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.family-office-staffing",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.family-office-systems",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.family-prenuptial-policy",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.kidnap-and-extortion-preparedness",
+   "reason": "Kidnap and extortion response; sensitive, needs specialist review"
+  },
+  {
+   "id": "family-office.next-generation-education-programme",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.pre-immigration-wealth-planning",
+   "reason": "Cross-border tax-residency structuring; needs legal/tax review"
+  },
+  {
+   "id": "family-office.private-foundation-set-up",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.private-trust-company",
+   "reason": "Regulated trust company; needs legal review and serves very few"
+  },
+  {
+   "id": "family-office.rising-generation-leadership-roles",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.single-family-office-set-up",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "family-office.trust-structures-across-jurisdictions",
+   "reason": "Multi-jurisdiction trust structuring; needs legal review"
+  },
+  {
+   "id": "family-office.wealth-structuring-jurisdictions",
+   "reason": "Offshore structuring comparisons; needs legal review"
+  },
+  {
+   "id": "family-office.welcoming-spouses-into-the-family",
+   "reason": "Run by a family collectively or its office staff, not one person; very narrow"
+  },
+  {
+   "id": "finance-accounting.accounts-payable-operations",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.annual-operating-budget-build",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.budget-versus-actual-variance",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.business-cost-reduction-programme",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.capital-expenditure-planning",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.cost-centre-overhead-allocation",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.customer-credit-risk-assessment",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.delegation-of-financial-authority",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.employee-expense-management",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.external-audit-preparation",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.fixed-asset-register-depreciation",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.foreign-exchange-treasury",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.headcount-cost-planning",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.internal-financial-controls",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.inventory-costing-valuation",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.lease-accounting-ifrs-16",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.month-end-close-process",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.multi-entity-consolidation",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.nonprofit-fund-accounting",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.payroll-run-processing",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.revenue-recognition-policy",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.rolling-financial-forecasts",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.subscription-revenue-accounting",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.tax-investigation-response",
+   "reason": "Live tax dispute with an authority; high-stakes, needs a tax adviser's review"
+  },
+  {
+   "id": "finance-accounting.transfer-pricing-documentation",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "finance-accounting.unit-economics-modelling",
+   "reason": "Duplicate of live founding-startups.early-unit-economics-modelling"
+  },
+  {
+   "id": "finance-accounting.working-capital-optimisation",
+   "reason": "Company finance-function process run by a team"
+  },
+  {
+   "id": "food-nutrition.baby-weaning-toddler-meals",
+   "reason": "Infant feeding, allergen introduction and choking risk; needs a paediatric/dietitian review"
+  },
+  {
+   "id": "food-nutrition.food-allergy-safe-kitchen",
+   "reason": "Anaphylaxis-level allergy management; needs clinical review"
+  },
+  {
+   "id": "food-nutrition.pregnancy-breastfeeding-nutrition",
+   "reason": "Foods to avoid and supplements in pregnancy; needs clinical review"
+  },
+  {
+   "id": "fundraising-investors.accelerator-incubator-applications",
+   "reason": "Duplicate of live founding-startups.accelerator-and-incubator-applications"
+  },
+  {
+   "id": "fundraising-investors.charitable-foundation-grants",
+   "reason": "Listed-company or nonprofit team process, not a personal goal"
+  },
+  {
+   "id": "fundraising-investors.donor-stewardship-reporting",
+   "reason": "Listed-company or nonprofit team process, not a personal goal"
+  },
+  {
+   "id": "fundraising-investors.fundraising-gala-events",
+   "reason": "Listed-company or nonprofit team process, not a personal goal"
+  },
+  {
+   "id": "fundraising-investors.investor-relations-website",
+   "reason": "Listed-company or nonprofit team process, not a personal goal"
+  },
+  {
+   "id": "fundraising-investors.ipo-readiness-programme",
+   "reason": "Listed-company or nonprofit team process, not a personal goal"
+  },
+  {
+   "id": "fundraising-investors.major-donor-fundraising",
+   "reason": "Listed-company or nonprofit team process, not a personal goal"
+  },
+  {
+   "id": "fundraising-investors.nonprofit-capital-campaign",
+   "reason": "Listed-company or nonprofit team process, not a personal goal"
+  },
+  {
+   "id": "fundraising-investors.public-company-investor-relations",
+   "reason": "Listed-company or nonprofit team process, not a personal goal"
+  },
+  {
+   "id": "fundraising-investors.quarterly-earnings-communications",
+   "reason": "Listed-company or nonprofit team process, not a personal goal"
+  },
+  {
+   "id": "fundraising-investors.sell-side-analyst-relations",
+   "reason": "Listed-company or nonprofit team process, not a personal goal"
+  },
+  {
+   "id": "fundraising-investors.shareholder-agm-preparation",
+   "reason": "Listed-company or nonprofit team process, not a personal goal"
+  },
+  {
+   "id": "investment-banking.activism-and-takeover-defence",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.alternative-listing-routes",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.bid-rounds-and-process-letters",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.buy-side-m-and-a-mandates",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.buyer-investor-universe-mapping",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.caribbean-corporate-finance-deals",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.carve-outs-and-divestitures",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.coordinating-deal-advisers",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.credit-ratings-advisory",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.cross-border-m-and-a-execution",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.dcm-bond-issuance",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.debt-advisory-for-mid-market",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.equity-story-development",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.fairness-opinions",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.follow-ons-and-block-trades",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.independent-valuation-engagements",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.industry-coverage-group-work",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.information-memorandum-drafting",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.ipo-execution-ecm",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.league-tables-and-credentials",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.leveraged-finance-deals",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.liability-management-exercises",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.management-presentations",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.privatisation-public-sector-advisory",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.project-finance-advisory",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.restructuring-advisory",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.sell-side-data-room-and-qa",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.sell-side-m-and-a-process",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "investment-banking.signing-to-closing-workstreams",
+   "reason": "Deal-team advisory process for a client, not a personal goal"
+  },
+  {
+   "id": "it-security.single-sign-on-identity",
+   "reason": "Organisation IT process (staff identity), not a personal goal"
+  },
+  {
+   "id": "management-consulting.benchmarking-studies",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "management-consulting.consulting-firm-partnership-model",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "management-consulting.consulting-knowledge-reuse",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "management-consulting.cost-reduction-engagements",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "management-consulting.deliverable-quality-control",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "management-consulting.engagement-kickoff",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "management-consulting.final-recommendations-readout",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "management-consulting.hiring-consultants-for-a-boutique",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "management-consulting.implementation-support-phases",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "management-consulting.operations-improvement-engagements",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "management-consulting.organisation-design-engagements",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "management-consulting.pricing-strategy-engagements",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "management-consulting.proprietary-frameworks-and-tools",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "management-consulting.public-sector-consulting-engagements",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "management-consulting.steering-committee-meetings",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "management-consulting.transformation-office-support",
+   "reason": "Client engagement or firm process delivered by a team"
+  },
+  {
+   "id": "mental-wellbeing.addiction-recovery-sobriety",
+   "reason": "Clinical recovery and relapse planning; needs clinician review (same gate as bucket B)"
+  },
+  {
+   "id": "mental-wellbeing.bipolar-stability-plan",
+   "reason": "Serious mental illness with medication and early-warning plans; needs psychiatric review"
+  },
+  {
+   "id": "mental-wellbeing.dbt-skills-practice",
+   "reason": "DBT is a clinical therapy usually delivered with a therapist, often for self-harm risk; needs clinician review"
+  },
+  {
+   "id": "mental-wellbeing.eating-disorder-recovery-support",
+   "reason": "High-risk condition with meal plans and relapse signs; needs specialist clinical review"
+  },
+  {
+   "id": "mental-wellbeing.gambling-harm-recovery",
+   "reason": "Addiction recovery with money safeguards; needs clinician review alongside addiction-recovery"
+  },
+  {
+   "id": "mental-wellbeing.mental-health-crisis-safety-plan",
+   "reason": "Suicide/crisis safety planning; highest-stakes content in the library, needs clinician sign-off"
+  },
+  {
+   "id": "mental-wellbeing.mental-health-medication-tracking",
+   "reason": "Covers psychiatric medicine side effects and tapering; needs prescriber review"
+  },
+  {
+   "id": "mental-wellbeing.ocd-management",
+   "reason": "Exposure and response prevention is clinician-led; needs clinical review"
+  },
+  {
+   "id": "mental-wellbeing.perinatal-postnatal-mental-health",
+   "reason": "Postnatal depression/anxiety (and psychosis risk) in a vulnerable period; needs clinical review"
+  },
+  {
+   "id": "mental-wellbeing.trauma-ptsd-healing",
+   "reason": "Trauma and flashback management; self-directed exposure can retraumatise, needs clinical review"
+  },
+  {
+   "id": "physical-health.autoimmune-condition-management",
+   "reason": "Infusions, immunosuppressants and blood monitoring; needs clinical review"
+  },
+  {
+   "id": "physical-health.cancer-treatment-survivorship",
+   "reason": "Active cancer treatment coordination; needs oncology/clinical review"
+  },
+  {
+   "id": "physical-health.cardiac-rehabilitation",
+   "reason": "Post-heart-attack graded activity and medication adherence; needs clinical review"
+  },
+  {
+   "id": "physical-health.chronic-fatigue-long-covid",
+   "reason": "Activity-increase advice for ME/CFS is clinically contested (content does cover PEM); needs clinical review"
+  },
+  {
+   "id": "physical-health.fertility-treatment-ivf",
+   "reason": "IVF medication schedules and costly treatment decisions; needs clinical review"
+  },
+  {
+   "id": "physical-health.kidney-liver-health-monitoring",
+   "reason": "Chronic kidney/liver disease with diet and medication advice; needs clinical review"
+  },
+  {
+   "id": "physical-health.stroke-rehabilitation",
+   "reason": "Post-stroke rehab and secondary prevention; needs clinical review"
+  },
+  {
+   "id": "physical-health.type-1-diabetes-management",
+   "reason": "Insulin, pump and hypo management; dosing errors are dangerous, needs clinical review"
+  },
+  {
+   "id": "practice-ownership.admitting-new-partners",
+   "reason": "Firm-internal partnership process, not one person's goal"
+  },
+  {
+   "id": "practice-ownership.aml-duties-law-accounting-firms",
+   "reason": "Regulated AML compliance; errors carry legal liability, needs professional review"
+  },
+  {
+   "id": "practice-ownership.associate-to-equity-partner-path",
+   "reason": "Firm-internal partnership process, not one person's goal"
+  },
+  {
+   "id": "practice-ownership.billable-time-and-fee-notes",
+   "reason": "Firm-internal partnership process, not one person's goal"
+  },
+  {
+   "id": "practice-ownership.client-trust-accounts",
+   "reason": "Client-money rules; errors carry regulatory liability, needs professional review"
+  },
+  {
+   "id": "practice-ownership.clinical-governance-and-audits",
+   "reason": "Clinical governance system run across a practice; regulated, needs professional review"
+  },
+  {
+   "id": "practice-ownership.complaints-and-professional-discipline",
+   "reason": "Regulatory discipline handling; needs professional review"
+  },
+  {
+   "id": "practice-ownership.controlled-drugs-pharmacy-registers",
+   "reason": "Controlled-drug legal registers; needs pharmacist / regulator review"
+  },
+  {
+   "id": "practice-ownership.infection-prevention-in-practice",
+   "reason": "Clinical infection control; needs clinical review"
+  },
+  {
+   "id": "practice-ownership.patient-and-client-records",
+   "reason": "Records retention and confidentiality law; needs professional review"
+  },
+  {
+   "id": "practice-ownership.practice-partnership-agreements",
+   "reason": "Legal agreement drafting; needs legal review"
+  },
+  {
+   "id": "practice-ownership.practice-regulator-compliance",
+   "reason": "Regulator rules vary by profession and country; needs professional review"
+  },
+  {
+   "id": "private-equity-vc.100-day-plans",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.add-on-acquisitions",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.co-investment-deals",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.commercial-due-diligence",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.deal-pipeline-crm",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.financial-due-diligence-qoe",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.follow-on-investment-decisions",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.fund-administration",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.fund-compliance-and-regulatory-filings",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.fund-terms-and-lpa-negotiation",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.gp-economics-and-management-fees",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.growth-equity-investing",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.lois-and-bid-letters",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.lp-reporting-and-annual-meetings",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.management-incentive-plans",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.pe-fund-lp-fundraising",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.portfolio-company-exit-planning",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.portfolio-monitoring-and-kpis",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.secondaries-and-continuation-funds",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.value-creation-plans",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "private-equity-vc.vc-portfolio-construction",
+   "reason": "Fund or portfolio-company process run by a firm"
+  },
+  {
+   "id": "product-management.api-platform-products",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.beta-early-access-programmes",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.build-vs-buy-decisions",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.consumer-app-engagement-loops",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.customer-advisory-board",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.customer-feedback-triage",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.enterprise-feature-readiness",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.feature-adoption-tracking",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.feature-deprecation-sunsetting",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.feature-request-voting-board",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.freemium-trial-design",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.hardware-product-development",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.in-app-monetisation",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.internal-tools-product-ownership",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.mvp-scoping",
+   "reason": "Duplicate of live founding-startups.mvp-scoping-and-build (and a team process)"
+  },
+  {
+   "id": "product-management.new-user-activation-flows",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.north-star-metric-inputs",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.notifications-messaging-features",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.pricing-packaging-design",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.product-analytics-instrumentation",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.product-backlog-grooming",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.product-growth-experiments",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.product-launch-management",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.product-led-retention",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.product-line-extensions",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.product-localisation",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.product-operations",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.product-portfolio-management",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.product-team-okrs",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.product-trio-collaboration",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.product-user-segment-definitions",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.regulated-product-requirements",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.release-notes-changelog",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.search-discovery-features",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.staged-feature-rollouts",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.third-party-integration-priorities",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "product-management.two-sided-marketplace-products",
+   "reason": "Overlaps live founding-startups.two-sided-marketplace-launch (and a team process)"
+  },
+  {
+   "id": "product-management.usage-based-billing-design",
+   "reason": "Product-team process, not a goal one person owns"
+  },
+  {
+   "id": "quant-finance.alternative-data-research",
+   "reason": "Firm-level trading infrastructure or function, not a personal goal"
+  },
+  {
+   "id": "quant-finance.execution-algorithms",
+   "reason": "Firm-level trading infrastructure or function, not a personal goal"
+  },
+  {
+   "id": "quant-finance.low-latency-trading-systems",
+   "reason": "Firm-level trading infrastructure or function, not a personal goal"
+  },
+  {
+   "id": "quant-finance.model-validation-and-model-risk",
+   "reason": "Firm-level trading infrastructure or function, not a personal goal"
+  },
+  {
+   "id": "real-estate-development.affordable-housing-development",
+   "reason": "Property-business operation run by a company or team"
+  },
+  {
+   "id": "real-estate-development.build-to-rent-development",
+   "reason": "Property-business operation run by a company or team"
+  },
+  {
+   "id": "real-estate-development.building-capex-reserves",
+   "reason": "Property-business operation run by a company or team"
+  },
+  {
+   "id": "real-estate-development.commercial-property-asset-management",
+   "reason": "Property-business operation run by a company or team"
+  },
+  {
+   "id": "real-estate-development.hotel-and-hospitality-property",
+   "reason": "Property-business operation run by a company or team"
+  },
+  {
+   "id": "real-estate-development.mixed-use-development",
+   "reason": "Property-business operation run by a company or team"
+  },
+  {
+   "id": "real-estate-development.multifamily-value-add-programmes",
+   "reason": "Property-business operation run by a company or team"
+  },
+  {
+   "id": "real-estate-development.off-plan-and-development-sales",
+   "reason": "Property-business operation run by a company or team"
+  },
+  {
+   "id": "real-estate-development.office-and-retail-leasing",
+   "reason": "Property-business operation run by a company or team"
+  },
+  {
+   "id": "real-estate-development.property-portfolio-reporting",
+   "reason": "Property-business operation run by a company or team"
+  },
+  {
+   "id": "real-estate-development.real-estate-syndications",
+   "reason": "Raising money from investors triggers securities law; needs legal review"
+  },
+  {
+   "id": "real-estate-development.residential-property-management-ops",
+   "reason": "Property-business operation run by a company or team"
+  },
+  {
+   "id": "real-estate-development.short-let-portfolio-operations",
+   "reason": "Property-business operation run by a company or team"
+  },
+  {
+   "id": "real-estate-development.sustainable-building-certification",
+   "reason": "Property-business operation run by a company or team"
+  },
+  {
+   "id": "real-estate-development.syndication-investor-relations",
+   "reason": "Syndicate investor reporting, an organisation's process; and securities-law exposure"
+  },
+  {
+   "id": "relationships.ethical-non-monogamy",
+   "reason": "Passes the rule; needs a founder content decision before it sits in a mainstream catalogue"
+  },
+  {
+   "id": "relationships.leaving-an-unhealthy-relationship",
+   "reason": "Domestic-abuse exit planning; content is careful, but a synced plan a partner might find is a safety risk. Needs a domestic-abuse specialist review first"
+  },
+  {
+   "id": "sales-revenue.account-based-selling",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.annual-sales-kickoff",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.deal-desk-discount-approvals",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.founder-led-sales",
+   "reason": "Duplicate of live founding-startups.founder-led-selling"
+  },
+  {
+   "id": "sales-revenue.inbound-lead-response-routing",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.international-sales-expansion",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.lost-deal-analysis",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.product-led-sales-motion",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.quote-cpq-management",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.revenue-operations-setup",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.rfp-response-management",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-activity-conversion-metrics",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-candidate-assessment",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-coaching-call-review",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-commission-payouts",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-compensation-plan-design",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-contests-spiffs",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-crm-administration",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-development-team-management",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-enablement-content",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-methodology-adoption",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-pipeline-forecasting",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-pitch-deck",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-playbook-development",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-quota-capacity-modelling",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-rep-onboarding-ramp",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-tech-stack-selection",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.sales-territory-planning",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "sales-revenue.weekly-pipeline-review-cadence",
+   "reason": "Sales-team or sales-ops process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.application-security-testing",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.architecture-review-board",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.build-systems-monorepos",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.chaos-engineering-resilience",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.cloud-cost-optimisation-finops",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.code-review-practice",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.coding-standards-linting",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.continuous-integration-deployment",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.dependency-upgrades-patching",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.developer-experience-tooling",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.end-to-end-test-suites",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.engineer-onboarding",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.engineering-delivery-metrics-dora",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.engineering-documentation-adrs",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.engineering-interview-loops",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.engineering-mentorship-pairing",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.engineering-on-call-rotation",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.incident-postmortems",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.internal-developer-platform",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.internal-hackathons",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.large-scale-refactoring",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.legacy-system-migration",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.load-capacity-testing",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.microservices-decomposition",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.observability-monitoring",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.service-level-objectives",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.software-release-management",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.sprint-planning-estimation",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "software-engineering.technical-debt-paydown",
+   "reason": "Team engineering process, not a goal one person owns"
+  },
+  {
+   "id": "strategy-leadership.acquisition-strategy",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.annual-strategic-planning-cycle",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.board-composition-and-effectiveness",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.board-strategy-sessions",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.business-turnaround-leadership",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.business-unit-portfolio-review",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.ceo-and-executive-succession",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.company-values-and-culture-definition",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.company-vision-and-mission",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.competitive-landscape-strategy-review",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.corporate-sustainability-strategy",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.cross-functional-strategic-alignment",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.culture-change-initiative",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.digital-transformation-leadership",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.enterprise-ai-strategy",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.executive-kpi-scorecard",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.executive-team-formation",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.executive-team-meeting-rhythm",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.first-time-manager-leadership",
+   "reason": "Duplicate of live career-growth.becoming-first-time-manager"
+  },
+  {
+   "id": "strategy-leadership.growth-strategy-options",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.innovation-portfolio-leadership",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.leadership-offsite-planning",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.leadership-pipeline-development",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.leading-a-post-merger-integration",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.leading-all-hands-and-town-halls",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.long-range-strategic-plan",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.new-market-entry-strategy",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.nonprofit-strategic-planning",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.okr-setting-and-tracking",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.organisation-redesign",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.organisational-change-management",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.organisational-decision-rights",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.serving-as-a-non-executive-director",
+   "reason": "Overlaps live career-growth.non-executive-board-roles"
+  },
+  {
+   "id": "strategy-leadership.strategic-bets-prioritisation",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.strategic-scenario-planning",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.strategic-stakeholder-management",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  },
+  {
+   "id": "strategy-leadership.strategy-execution-reviews",
+   "reason": "Organisation-level strategy or change process run by a leadership team"
+  }
+ ]
+}

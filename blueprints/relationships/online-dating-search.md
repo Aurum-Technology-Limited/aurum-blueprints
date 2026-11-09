@@ -114,6 +114,8 @@ starter_structure:
 
                 ## Notes
                 Do not share your home address, workplace or financial details before you have met several times. If someone pushes against any of your rules, that tells you something.
+
+                If a date becomes threatening, or someone you met keeps contacting, following or threatening you after you have said no, block and report them in the app, keep the messages, and call your local emergency number or the police if you are in danger.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

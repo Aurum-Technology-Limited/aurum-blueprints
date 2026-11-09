@@ -37,7 +37,11 @@ starter_structure:
                 ## Notes
                 If several fears share one root, such as fainting or being sick, name the root rather than each place it shows up. Working on the root usually shrinks the others too.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                Self-guided exposure suits many single phobias, but get help from your doctor or a therapist if the fear sits alongside panic attacks, low mood, trauma or another condition, if it began with a frightening event such as an assault or crash, or if a few weeks of steady practice have not moved it.
+
+                If you are thinking of harming yourself or feel unable to keep yourself safe, call your local emergency number or a crisis line now, for example Samaritans on 116 123 in the UK and Ireland, or call or text 988 in the US.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -1141,7 +1145,7 @@ starter_structure:
                 4. Food restriction reduced step by step.
 
                 ## Notes
-                If food restriction has led to weight loss, tell your doctor first, as eating-related help may be needed alongside exposure.
+                If food restriction has led to weight loss, tell your doctor first, as eating-related help may be needed alongside exposure. Your national eating disorder charity, such as Beat in the UK, can also advise.
               priority: medium
               frontmatter:
                 mode: building

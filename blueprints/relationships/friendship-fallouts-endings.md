@@ -150,7 +150,7 @@ starter_structure:
                 4. Your local police non-emergency route or a harassment support service identified, and contacted if the behaviour continues.
 
                 ## Notes
-                If you are in immediate danger, call your emergency number. Keep the evidence even if you decide not to report yet; reporting later is much harder without it.
+                If you are in immediate danger, call your emergency number. Keep the evidence even if you decide not to report yet; reporting later is much harder without it. In the UK the National Stalking Helpline (0808 802 0300) gives free advice on stalking and harassment.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -1081,7 +1081,7 @@ starter_structure:
                 4. Emergency and crisis numbers saved in case they are ever in immediate danger.
 
                 ## Notes
-                If the friend talks about harming themselves, contact emergency services or a crisis line. Stepping back from being their only support is not the same as leaving them without any.
+                If the friend talks about harming themselves, contact emergency services or a crisis line, such as Samaritans on 116 123 (UK and Ireland) or 988 (US). Stepping back from being their only support is not the same as leaving them without any.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

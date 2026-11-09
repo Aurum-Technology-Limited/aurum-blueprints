@@ -4,7 +4,7 @@ name: New Market Entry Strategy
 description: "A disciplined route into a new country or customer segment: screened options, real customer evidence, a chosen entry model, a funded pilot with kill criteria and the reviews that decide whether to scale."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, new-market-entry-strategy, manager, enterprise, founder, expansion, international, go-to-market]
+tags: [strategy-leadership, new-market-entry-strategy, manager, enterprise, founder, expansion, international, go-to-market, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Entry question, sponsor and decision owner charter
               description: |-
                 ## Purpose
-                Expansion talk drifts for months when nobody has written down the exact question, who decides and by when. A one-page charter that says, for example, "Should we sell our payroll software to mid-sized firms in Ghana within 18 months, and how?" turns a vague ambition into a piece of work with an owner and a date.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Expansion talk drifts for months when nobody has written down the exact question, who decides and by when. A one-page charter that says, for example, "Should we sell our payroll software to mid-sized firms in Ghana within 18 months, and how?" turns a vague ambition into a piece of work with an owner and a date.
 
                 ## Milestones
                 1. The entry question written in one sentence naming the market, the offer and the time frame.

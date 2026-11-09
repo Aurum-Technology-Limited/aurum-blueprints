@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Single adopters can do this with a close friend or relative acting as a sounding board. If one partner is much keener than the other, give that gap time before you call an agency; assessors notice it quickly.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:

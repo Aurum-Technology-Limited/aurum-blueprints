@@ -4,7 +4,7 @@ name: Acquisition Strategy
 description: "A reasoned case for buying, clear screening criteria, a ranked and maintained target list, fit assessed before any approach, and a board mandate that keeps every deal tied to strategy."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, acquisition-strategy, manager, enterprise, m-and-a, corporate-development, target-screening, strategic-fit]
+tags: [strategy-leadership, acquisition-strategy, manager, enterprise, m-and-a, corporate-development, target-screening, strategic-fit, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Strategic rationale for acquiring
               description: |-
                 ## Purpose
-                Acquisitions made because money was available, a banker called or a competitor just bought something are the ones that disappoint. Writing down which strategic goals cannot be reached fast enough through organic growth, and what an acquisition would have to deliver against each, gives every later screen and approach a reason to exist.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Acquisitions made because money was available, a banker called or a competitor just bought something are the ones that disappoint. Writing down which strategic goals cannot be reached fast enough through organic growth, and what an acquisition would have to deliver against each, gives every later screen and approach a reason to exist.
 
                 ## Milestones
                 1. The two to four strategic goals an acquisition could serve listed, each quoted from the current strategy.

@@ -4,7 +4,7 @@ name: Sell-Side Analyst Relations
 description: "A correct coverage register, clear rules for draft notes and model questions, a company-run consensus, callbacks after every results release and a working relationship with each analyst who covers the stock."
 category: business
 version: 1.0.0
-tags: [fundraising-investors, sell-side-analyst-relations, enterprise, manager, equity-research, consensus, analyst-coverage, disclosure]
+tags: [fundraising-investors, sell-side-analyst-relations, enterprise, manager, equity-research, consensus, analyst-coverage, disclosure, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Covering analyst map and contact register
               description: |-
                 ## Purpose
-                Before anything else, you need one accurate list of every analyst who publishes on the stock: firm, lead analyst, associate, sector team, rating, target price and how to reach each of them. Most listed companies find the list they inherited is wrong in two or three places, with an analyst who left the bank or a junior associate who now does the modelling. Every callback round, consensus collection and briefing invitation depends on this register being right.
+                Before anything else, you need one accurate list of every analyst who publishes on the stock: firm, lead analyst, associate, sector team, rating, target price and how to reach each of them. Most listed companies find the list they inherited is wrong in two or three places, with an analyst who left the bank or a junior associate who now does the modelling. Every callback round, consensus collection and briefing invitation depends on this register being right. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every firm publishing research on the company listed, with lead analyst and associate named.
@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 Check the list against both your market data terminal and your consensus provider. Each lags reality by weeks, and they rarely lag in the same places.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

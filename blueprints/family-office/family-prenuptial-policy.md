@@ -4,7 +4,7 @@ name: Family Prenuptial Policy
 description: "A family-wide marital agreement policy that protects family shares and trust interests while staying fair: who it covers, independent advice for both partners, full disclosure, good timing and a kind way to raise it."
 category: personal
 version: 1.0.0
-tags: [family-office, family-prenuptial-policy, parent, prenuptial-agreement, marital-agreements, trust-protection, disclosure, family-wealth]
+tags: [family-office, family-prenuptial-policy, parent, prenuptial-agreement, marital-agreements, trust-protection, disclosure, family-wealth, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Why the family wants a marital agreement policy
               description: |-
                 ## Purpose
-                Families usually start talking about prenuptial agreements in the worst possible month: after an engagement is announced and the wedding venue is booked. Writing down now why the family wants a shared policy, and which past or expected situations prompted it, means the first couple to meet the policy meets a family decision rather than a reaction to their relationship.
+                Families usually start talking about prenuptial agreements in the worst possible month: after an engagement is announced and the wedding venue is booked. Writing down now why the family wants a shared policy, and which past or expected situations prompted it, means the first couple to meet the policy meets a family decision rather than a reaction to their relationship. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page note of the reasons for a family-wide policy, written without naming any current partner.
@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 If a specific relationship is the real trigger, keep it out of the note. A policy that looks aimed at one partner is resented by every partner after.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

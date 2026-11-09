@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Keep the plan small enough to fit on one card. The aim is to get through the week, not to make sense of the relationship yet.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -62,6 +64,8 @@ starter_structure:
 
                 ## Notes
                 If you ever feel unsafe or think about harming yourself, contact emergency services or a crisis line straight away. If the relationship involved control, threats or fear, the Leaving an Unhealthy Relationship area is the better place to start.
+
+                Crisis lines include Samaritans on 116 123 in the UK and Ireland and 988 in the US. If you feel afraid of a partner or family member, or someone is controlling, threatening or hurting you, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233).
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

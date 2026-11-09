@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 Desktop checks never replace formal searches or a survey. They tell you which questions to ask and which advisers you will need.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               frontmatter:
                 mode: research

@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 An aura that is new, lasts much longer than usual or comes with weakness on one side should be checked urgently, even if you have had auras before. Use your own health service's wording on the card; it organises their advice and does not replace it.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -143,7 +143,7 @@ starter_structure:
                 4. That limit written at the top of your diary.
 
                 ## Notes
-                Combination products bought off the shelf often contain codeine or caffeine, so read the ingredients, not just the brand name. If you use them on most days, do not cut down suddenly on your own; ask for a plan first.
+                Combination products bought off the shelf often contain codeine or caffeine, so read the ingredients, not just the brand name. If you use them on most days, do not cut down suddenly on your own; ask for a plan first. As a general guide, UK NICE guidance links it to three months or more of triptans, opioids such as codeine or combination painkillers on 10 or more days a month, or paracetamol, aspirin or anti-inflammatories on 15 or more days a month; your clinician will say what applies to you.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

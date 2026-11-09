@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 One sign on its own often means nothing. A cluster of two or three that arrive together, or a change that lasts more than a fortnight, is worth a gentle conversation.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               frontmatter:
                 mode: building
@@ -323,7 +325,7 @@ starter_structure:
                 4. Any steady decline raised with the school or your child's doctor.
 
                 ## Notes
-                If your child talks about hurting themselves or not wanting to be alive, contact your doctor or emergency services the same day. Do not wait for the next snapshot.
+                If your child talks about hurting themselves or not wanting to be alive, contact your doctor or emergency services the same day. Do not wait for the next snapshot. If they are in immediate danger, call your local emergency number; you can also call a crisis line for advice, such as Samaritans on 116 123 in the UK and Ireland or 988 in the US, and children can call Childline on 0800 1111 in the UK.
               priority: medium
               frontmatter:
                 mode: operating
@@ -790,6 +792,8 @@ starter_structure:
 
                 ## Notes
                 In an emergency or if your child is in immediate danger, call the emergency number. Police services decide what counts as a crime; your job is to report clearly and keep the reference.
+
+                If you think a child is being abused or groomed, or is at risk of harm, call your local emergency number if they are in danger, or contact your local child-protection service or a child-protection helpline (for example the NSPCC on 0808 800 5000 in the UK, or Childhelp on 1-800-422-4453 in the US).
               priority: high
               frontmatter:
                 mode: research
@@ -1097,6 +1101,8 @@ starter_structure:
 
                 ## Notes
                 Do not screenshot, download or forward a sexual image of a child, even to show the school or police; doing so can itself be an offence. Describe where it is instead.
+
+                Removal services include Report Remove from Childline and the Internet Watch Foundation in the UK, and Take It Down from NCMEC in the US. If an adult is involved, or your child is being threatened or blackmailed, report it to the police straight away. If you think a child is being abused or groomed, or is at risk of harm, call your local emergency number if they are in danger, or contact your local child-protection service or a child-protection helpline (for example the NSPCC on 0808 800 5000 in the UK, or Childhelp on 1-800-422-4453 in the US).
               priority: high
               frontmatter:
                 mode: research
@@ -1122,6 +1128,8 @@ starter_structure:
 
                 ## Notes
                 If the head teacher is the adult involved, contact the chair of governors or the local authority's safeguarding team instead.
+
+                If you think a child is being abused or groomed, or is at risk of harm, call your local emergency number if they are in danger, or contact your local child-protection service or a child-protection helpline (for example the NSPCC on 0808 800 5000 in the UK, or Childhelp on 1-800-422-4453 in the US).
               priority: high
               frontmatter:
                 mode: building

@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Include part-time, seasonal and occasional workers such as a pool cleaner, a holiday chef or a night nurse. They are the ones most often missed.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

@@ -4,7 +4,7 @@ name: Cloud Data Platform Selection
 description: "A charter and frozen scorecard, real workload evidence, a three-year cost model, a proof of concept on your own data and a tested exit plan, so the platform you sign for still fits in year three."
 category: business
 version: 1.0.0
-tags: [data-analytics, cloud-data-platform-selection, engineer, manager, enterprise, vendor-selection, lakehouse, total-cost-of-ownership]
+tags: [data-analytics, cloud-data-platform-selection, engineer, manager, enterprise, vendor-selection, lakehouse, total-cost-of-ownership, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Platform selection charter and decision owner
               description: |-
                 ## Purpose
-                Platform choices drift for months when nobody has written down what is being chosen, who decides and by when. A one-page charter naming the scope (warehouse, lakehouse, BI or all three), the single accountable decision owner, the budget envelope and the date a contract must be signed turns a vague tooling debate into a time-boxed programme with a finish line.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Platform choices drift for months when nobody has written down what is being chosen, who decides and by when. A one-page charter naming the scope (warehouse, lakehouse, BI or all three), the single accountable decision owner, the budget envelope and the date a contract must be signed turns a vague tooling debate into a time-boxed programme with a finish line.
 
                 ## Milestones
                 1. A one-page charter stating which platform layers are in scope and which are explicitly out.

@@ -4,7 +4,7 @@ name: Engineering Mentorship & Pairing
 description: "Mentoring that has goals and a rhythm, pairing and mob sessions that actually spread knowledge, and the habits that let senior and junior engineers learn from each other on purpose."
 category: business
 version: 1.0.0
-tags: [software-engineering, engineering-mentorship-pairing, engineer, manager, mentoring, pair-programming, mob-programming, knowledge-sharing]
+tags: [software-engineering, engineering-mentorship-pairing, engineer, manager, mentoring, pair-programming, mob-programming, knowledge-sharing, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Six-month mentoring goal statement
               description: |-
                 ## Purpose
-                Most mentoring stalls because nobody can say what the mentee is trying to get better at, so every session drifts into whatever broke that week. Writing two or three goals for the next six months, each tied to work you will actually do, gives a mentor something to steer by and gives you a way to tell whether it worked.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most mentoring stalls because nobody can say what the mentee is trying to get better at, so every session drifts into whatever broke that week. Writing two or three goals for the next six months, each tied to work you will actually do, gives a mentor something to steer by and gives you a way to tell whether it worked.
 
                 ## Milestones
                 1. Two or three goals written, each naming a skill and a piece of real work that will exercise it.

@@ -4,7 +4,7 @@ name: Commercial Due Diligence
 description: "Key diligence questions, a scoped adviser, a customer call programme, market sizing you can defend and a findings log that feeds the model, so the commercial case you take to committee is tested, not assumed."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, commercial-due-diligence, knowledge-worker, cdd, customer-calls, market-sizing, competitor-review, expert-networks]
+tags: [private-equity-vc, commercial-due-diligence, knowledge-worker, cdd, customer-calls, market-sizing, competitor-review, expert-networks, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Key commercial questions for the deal
               description: |-
                 ## Purpose
-                Diligence without a written question list drifts into a tour of the market that never answers what the price depends on. Writing the five to eight commercial questions that would change your bid, each tied to a line in the model, keeps every call, survey and adviser hour pointed at something that matters.
+                Diligence without a written question list drifts into a tour of the market that never answers what the price depends on. Writing the five to eight commercial questions that would change your bid, each tied to a line in the model, keeps every call, survey and adviser hour pointed at something that matters. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Five to eight commercial questions written, each phrased so it can be answered yes, no or with a number.
@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 A good question names a threshold: "Can the core segment keep growing above 6 percent for five years?" beats "How attractive is the market?"
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -374,7 +376,7 @@ starter_structure:
                 success_criteria: "A dated, sourced fact base for each core sector, refreshed monthly for six months in a row."
                 cadence: rolling
               tasks:
-                - "Set up a fact base page for each of your core sectors"
+                - "Each sector lead sets up a fact base page for their core sector"
                 - "Refresh sector statistics and peer results @recurring(monthly:5)"
                 - "Note the source and date beside every figure"
                 - "Clip one useful trade press item per sector @recurring(monthly:19)"

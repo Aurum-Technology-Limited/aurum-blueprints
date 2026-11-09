@@ -4,7 +4,7 @@ name: Customer Credit Risk Assessment
 description: "Every credit customer vetted before the first order, with a written policy and appetite, limits set by method, holds and alerts that catch trouble early, and reviews that keep exposure inside what the business can absorb."
 category: business
 version: 1.0.0
-tags: [finance-accounting, customer-credit-risk-assessment, small-business, manager, team, credit-limits, trade-credit, credit-checks]
+tags: [finance-accounting, customer-credit-risk-assessment, small-business, manager, team, credit-limits, trade-credit, credit-checks, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Customer credit exposure baseline
               description: |-
                 ## Purpose
-                Before setting any rule, you need to know who already owes you money and how much. A single sheet of every customer on credit, with balance, current limit, terms and the oldest unpaid invoice, usually shows two or three accounts carrying far more risk than anyone realised, and gives the rest of this area its starting point.
+                Before setting any rule, you need to know who already owes you money and how much. A single sheet of every customer on credit, with balance, current limit, terms and the oldest unpaid invoice, usually shows two or three accounts carrying far more risk than anyone realised, and gives the rest of this area its starting point. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every customer with an open balance or credit terms listed with balance, limit, terms and oldest unpaid invoice date.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Pull every figure from the aged debtors report on one date and do not mix dates. A baseline is only useful if it is a true snapshot.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -124,7 +124,7 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Collect two or three credit application forms from suppliers you buy from"
-                - "Draft your form with entity, owner, reference, spend and consent fields"
+                - "Credit controller drafts the form with entity, owner, reference, spend and consent fields"
                 - "Ask your adviser to check the consent and data use wording"
                 - "Publish the form where sales staff and new customers can find it"
             - name: Standard payment terms by customer risk band
@@ -540,7 +540,7 @@ starter_structure:
                 - "List the credit ratios you will use and how each is calculated"
                 - "Build a worksheet that calculates them from a balance sheet"
                 - "Work through two customers' latest accounts with the worksheet"
-                - "Ask your accountant or finance lead to check your conclusions"
+                - "Ask the finance lead or accountant to check the conclusions"
             - name: Taking trade and bank references that mean something
               description: |-
                 ## Purpose
@@ -1193,4 +1193,4 @@ starter_structure:
 
 This area is for owners, managers and credit teams who sell on account and want to know, before the goods leave, that the customer can pay. It starts with the foundations (an exposure baseline, a written policy and appetite, the application form, terms, limits in the system and a credit file for every account), then the routines that vet, hold, monitor and review, the skills of reading credit reports, accounts and references, improvements such as a scorecard, a limit method and credit insurance, dated events like a major new customer or an insolvency notice, situations for first-time credit, sole traders, sales teams and exporters, and finally specialist work on group exposure, loss provisioning, stress testing and scorecard back-tests.
 
-What repeats is a daily look at held orders, the weekly application queue, over-limit check and alert review, the monthly risk report, watch list, payment trend and credit committee, quarterly reviews of the largest accounts, and the yearly policy, limit, insurance and stress test reviews. The Operational checklist, Risk register, Meeting notes, Vendor, Purchase decision and Onboarding plan templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a daily look at held orders, the weekly application queue, over-limit check and alert review, the monthly risk report, watch list, payment trend and credit committee, quarterly reviews of the largest accounts, and the yearly policy, limit, insurance and stress test reviews. The Operational checklist, Risk register, Meeting notes, Vendor, Purchase decision and Onboarding plan templates pair with the projects that name them. In a shared workspace, the credit controller runs applications and reviews, sales owns the customer conversation and the finance manager approves limits above policy, while guarantees, terms and debt recovery go to a qualified lawyer. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

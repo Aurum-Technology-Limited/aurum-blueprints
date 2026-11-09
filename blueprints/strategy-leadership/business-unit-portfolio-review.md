@@ -4,7 +4,7 @@ name: Business Unit Portfolio Review
 description: "Comparable numbers for every unit, agreed criteria, a clear invest, harvest, fix or exit role for each business, and the review rhythm, board papers and exit work that follow from it."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, business-unit-portfolio-review, enterprise, manager, portfolio-strategy, capital-allocation, divestment, corporate-strategy]
+tags: [strategy-leadership, business-unit-portfolio-review, enterprise, manager, portfolio-strategy, capital-allocation, divestment, corporate-strategy, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Portfolio review charter and scope
               description: |-
                 ## Purpose
-                Portfolio reviews stall when nobody agreed at the start what counts as a unit, who decides, and whether exits are genuinely on the table. A one-page charter signed off by the chief executive settles the question before the first spreadsheet is built, and stops unit heads treating the review as a budget negotiation.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Portfolio reviews stall when nobody agreed at the start what counts as a unit, who decides, and whether exits are genuinely on the table. A one-page charter signed off by the chief executive settles the question before the first spreadsheet is built, and stops unit heads treating the review as a budget negotiation.
 
                 ## Milestones
                 1. A list of what is in scope: business units, product lines, programmes or legal entities, with anything excluded named and explained.

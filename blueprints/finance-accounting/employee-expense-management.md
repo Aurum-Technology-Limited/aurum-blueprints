@@ -4,7 +4,7 @@ name: Employee Expense Management
 description: "A written expense policy, company cards with clear rules, receipts captured weekly, approvals that move and reimbursements paid on a fixed day, so staff spending is controlled and claims are paid fast."
 category: business
 version: 1.0.0
-tags: [finance-accounting, employee-expense-management, small-business, team, enterprise, company-cards, receipts, reimbursements]
+tags: [finance-accounting, employee-expense-management, small-business, team, enterprise, company-cards, receipts, reimbursements, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Map of how staff spend company money
               description: |-
                 ## Purpose
-                Before any policy or tool, someone needs to know every way money leaves the business through people rather than through supplier bills: personal cards claimed back, company cards, petty cash, fuel cards, travel booked by an assistant, subscriptions on someone's own card. Listing each route with who uses it and roughly how much passes through it in a month shows where receipts go missing and which routes nobody approves.
+                Before any policy or tool, someone needs to know every way money leaves the business through people rather than through supplier bills: personal cards claimed back, company cards, petty cash, fuel cards, travel booked by an assistant, subscriptions on someone's own card. Listing each route with who uses it and roughly how much passes through it in a month shows where receipts go missing and which routes nobody approves. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every route by which staff spend company money listed, with the people who use it.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Ask three people from different teams how they last paid for something work-related. Their answers usually include a route the finance side never counted.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -1200,4 +1200,4 @@ starter_structure:
 
 This area is for anyone who sets or runs the rules for staff spending, from an owner reimbursing five people to an enterprise finance team managing hundreds of company cards. It starts with the foundations (a map of spending routes, a one-page policy, expense types, approval routes, receipt rules, reimbursement days, rates and card decisions), then the weekly and monthly machinery, the tax, currency and fraud skills, improvements such as an app pilot and auto-approval, dated moments like the year-end cut-off and benefits reporting, situations for owners, remote and field staff and multi-country groups, and finally the specialist work of audits, investigations and analytics.
 
-What repeats is a weekly receipt slot for cardholders, a twice-weekly approval chase and a weekly reimbursement run, a monthly claims cut-off, missing receipt chase, accrual, exceptions report, advances reconciliation and audit sample, a quarterly card review and measures pack, and yearly rate checks, policy refresh, year-end cut-off and benefits reporting. The Purchase decision, Operational checklist, Metrics log, Trip and Remediation plan templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a weekly receipt slot for cardholders, a twice-weekly approval chase and a weekly reimbursement run, a monthly claims cut-off, missing receipt chase, accrual, exceptions report, advances reconciliation and audit sample, a quarterly card review and measures pack, and yearly rate checks, policy refresh, year-end cut-off and benefits reporting. The Purchase decision, Operational checklist, Metrics log, Trip and Remediation plan templates pair with the projects that name them. In a shared workspace, finance owns the policy and checks, line managers approve claims, and payroll and a qualified tax adviser confirm the tax and benefits treatment in your country. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

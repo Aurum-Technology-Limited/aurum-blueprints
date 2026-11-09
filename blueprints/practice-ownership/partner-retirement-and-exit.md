@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 If no written agreement exists, the default partnership law of your jurisdiction may apply, and it can mean the whole firm is technically dissolved when one partner leaves. Tell your lawyer at once.
+
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

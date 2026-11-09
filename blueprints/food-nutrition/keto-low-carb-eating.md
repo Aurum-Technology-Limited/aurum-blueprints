@@ -37,7 +37,9 @@ starter_structure:
                 ## Notes
                 People with type 1 diabetes, or anyone taking an SGLT2 inhibitor tablet, can develop ketoacidosis with near-normal glucose readings. Do not start without your diabetes team agreeing the plan.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                If you have ever had an eating disorder or disordered eating, talk to your doctor before you start a restrictive diet like keto, and stop if counting carbs, weighing food or the numbers start to feel distressing. Your national eating disorder charity (such as Beat in the UK) can help.
+
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

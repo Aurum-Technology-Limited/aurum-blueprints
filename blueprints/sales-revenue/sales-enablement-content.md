@@ -4,7 +4,7 @@ name: Sales Enablement Content
 description: "One findable library of battle cards, one-pagers, objection guides and talk tracks, with owners and review dates, release-day updates and the usage data that shows which content helps reps win."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-enablement-content, team, manager, enterprise, battle-cards, talk-tracks, content-governance]
+tags: [sales-revenue, sales-enablement-content, team, manager, enterprise, battle-cards, talk-tracks, content-governance, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Sales content inventory and audit
               description: |-
                 ## Purpose
-                Most sales teams already own two or three hundred pieces of content scattered across shared drives, chat threads and inboxes, and nobody knows which versions are current. Listing every asset with its owner, last update and location is the only honest starting point, and it usually shows that a fifth of the library is out of date and another fifth is duplicated. Do it before writing anything new, because new content poured into an unknown library just adds to the pile.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most sales teams already own two or three hundred pieces of content scattered across shared drives, chat threads and inboxes, and nobody knows which versions are current. Listing every asset with its owner, last update and location is the only honest starting point, and it usually shows that a fifth of the library is out of date and another fifth is duplicated. Do it before writing anything new, because new content poured into an unknown library just adds to the pile.
 
                 ## Milestones
                 1. Every sales-facing asset in shared drives, the CRM, chat channels and the intranet listed in one spreadsheet.

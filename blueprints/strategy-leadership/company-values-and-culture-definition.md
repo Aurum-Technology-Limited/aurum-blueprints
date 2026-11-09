@@ -4,7 +4,7 @@ name: Company Values and Culture Definition
 description: "Values drawn from evidence, written as observable behaviours, tested with staff, signed off by leaders and built into hiring, induction, reviews, recognition and hard decisions."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, company-values-and-culture-definition, manager, founder, enterprise, values, culture, behaviours]
+tags: [strategy-leadership, company-values-and-culture-definition, manager, founder, enterprise, values, culture, behaviours, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Inventory of stated values and what gets rewarded
               description: |-
                 ## Purpose
-                Most companies already have values somewhere: a poster, a handbook page, a slide from an old offsite. Setting those words beside who was last promoted, praised and let go shows the gap between the culture you announce and the one you pay for, which is the honest starting point for any values work.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most companies already have values somewhere: a poster, a handbook page, a slide from an old offsite. Setting those words beside who was last promoted, praised and let go shows the gap between the culture you announce and the one you pay for, which is the honest starting point for any values work.
 
                 ## Milestones
                 1. Every existing values wording collected in one document with its source and date.

@@ -4,7 +4,7 @@ name: Single-Family Office Set-Up
 description: "A single-family office set up on purpose: a written scope, a reasoned build or outsource call, the right entity and location, a first hire, a launch stack, a set-up budget and a first year that runs."
 category: personal
 version: 1.0.0
-tags: [family-office, single-family-office-set-up, parent, founder, single-family-office, build-or-outsource, office-entity, liquidity-event]
+tags: [family-office, single-family-office-set-up, parent, founder, single-family-office, build-or-outsource, office-entity, liquidity-event, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Single-family office purpose and scope statement
               description: |-
                 ## Purpose
-                Families who skip this step end up with an office that does whatever the loudest relative asks, at a cost nobody agreed. A one-page statement saying why the office exists, which services it will and will not provide, and who it serves becomes the test for every later hire, system and budget line.
+                Families who skip this step end up with an office that does whatever the loudest relative asks, at a cost nobody agreed. A one-page statement saying why the office exists, which services it will and will not provide, and who it serves becomes the test for every later hire, system and budget line. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The three to five reasons the family wants an office written in plain words, such as consolidated oversight, privacy or continuity after the founder.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Keep investment selection separate from the office's purpose at this stage. Whether the office will manage money itself or oversee outside managers is a later, bigger decision with regulatory consequences.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -46,8 +48,8 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "6"
               tasks:
-                - "Write down in one sentence why you want a family office at all"
-                - "List every service you imagine the office providing in its first two years"
+                - "Ask each founding family member to write in one sentence why they want a family office"
+                - "List every service the family imagines the office providing in its first two years"
                 - "Mark each service as in scope, out of scope or later"
                 - "Circulate the draft statement to the family sponsors for comment"
             - name: Inventory of current family affairs and who handles them
@@ -546,7 +548,7 @@ starter_structure:
             - name: Regulatory perimeter briefing for a family office
               description: |-
                 ## Purpose
-                Many countries exempt a genuine single-family office from investment adviser or fund manager licensing, but the exemption often depends on who counts as family, whether outsiders are served and whether the office is paid. Understanding where those lines sit before the office starts managing money keeps the family out of an unlicensed activity by accident.
+                Many countries exempt a genuine single-family office from investment adviser or fund manager licensing, but the exemption often depends on who counts as family, whether outsiders are served and whether the office is paid. In the United States, for example, the SEC's family office rule (Rule 202(a)(11)(G)-1 under the Advisers Act) excludes an office that serves only family clients, is wholly owned and controlled by the family and does not hold itself out to the public as an adviser. Understanding where those lines sit before the office starts managing money keeps the family out of an unlicensed activity by accident.
 
                 ## Milestones
                 1. Counsel asked for a written briefing on how the office would be treated in its chosen location.

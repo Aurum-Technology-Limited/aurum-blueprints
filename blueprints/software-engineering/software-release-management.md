@@ -4,7 +4,7 @@ name: Software Release Management
 description: "A versioning scheme, branching model and written release process, go or no-go reviews, honest changelogs, rehearsed rollbacks and the communication that tells people what changed."
 category: business
 version: 1.0.0
-tags: [software-engineering, software-release-management, engineer, team, enterprise, versioning, changelogs, rollbacks]
+tags: [software-engineering, software-release-management, engineer, team, enterprise, versioning, changelogs, rollbacks, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Inventory of every component you release
               description: |-
                 ## Purpose
-                Most teams can name their main app but not the worker image, the CLI, the SDK on a package registry and the database migration bundle that ship alongside it, each with its own version and owner. Listing everything that leaves the building as a release, where it goes and who can publish it is the starting point for every rule later in this area.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most teams can name their main app but not the worker image, the CLI, the SDK on a package registry and the database migration bundle that ship alongside it, each with its own version and owner. Listing everything that leaves the building as a release, where it goes and who can publish it is the starting point for every rule later in this area.
 
                 ## Milestones
                 1. A list of every releasable component: apps, services, libraries, CLIs, mobile builds, migration bundles and infrastructure modules.

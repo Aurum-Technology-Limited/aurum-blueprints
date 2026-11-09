@@ -4,7 +4,7 @@ name: Nonprofit Capital Campaign
 description: "A multi-year capital campaign run with discipline: readiness and a planning study, a gift range chart and case for support, a quiet phase led by lead gifts, pledge and recognition records, then launch, close and dedication."
 category: business
 version: 1.0.0
-tags: [fundraising-investors, nonprofit-capital-campaign, nonprofit, manager, capital-campaign, case-for-support, gift-range-chart, endowment]
+tags: [fundraising-investors, nonprofit-capital-campaign, nonprofit, manager, capital-campaign, case-for-support, gift-range-chart, endowment, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Capital campaign readiness assessment
               description: |-
                 ## Purpose
-                Before anyone mentions a building fund in public, the organisation needs an honest look at whether it can carry three to five years of concentrated fundraising. A readiness assessment checks the board's own giving and willingness to ask, the strength of major gift relationships, the state of donor records and whether staff have capacity, so weak spots are fixed in the planning year rather than discovered in front of a lead donor.
+                Before anyone mentions a building fund in public, the organisation needs an honest look at whether it can carry three to five years of concentrated fundraising. A readiness assessment checks the board's own giving and willingness to ask, the strength of major gift relationships, the state of donor records and whether staff have capacity, so weak spots are fixed in the planning year rather than discovered in front of a lead donor. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A readiness scorecard covering board, leadership, donor base, data, staff capacity and finances, each rated red, amber or green.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Organisations that skip this step often discover the problem is not the goal but the absence of anyone ready to make a lead gift. Be candid: the scorecard is an internal document.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
@@ -635,7 +635,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "6"
               tasks:
-                - "Read your sector body's guidance on legacies and planned gifts"
+                - "Campaign director reads the sector body's guidance on legacies and planned gifts"
                 - "Check how the counting rules treat bequest intentions and deferred gifts"
                 - "Write a one-page explainer on planned gift options for solicitors"
                 - "Agree who follows up when a donor mentions a legacy"

@@ -33,9 +33,11 @@ starter_structure:
                 4. A clear rule written down for when you would pause self-practice and ask for help.
 
                 ## Notes
+                If you are thinking of harming yourself or feel unable to keep yourself safe, call your local emergency number now, or a crisis line such as Samaritans on 116 123 in the UK and Ireland or the 988 Suicide & Crisis Lifeline in the US (call or text 988).
+
                 If you are already in therapy, ask your therapist which version of the thought record they use, so your self-practice matches the sessions rather than competing with them.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -4,7 +4,7 @@ name: Charitable Foundation Grants
 description: "Trust prospects that fit, applications written to each funder's guidelines with full-cost budgets, and the monitoring, reporting and funder contact that turn first grants into renewals."
 category: business
 version: 1.0.0
-tags: [fundraising-investors, charitable-foundation-grants, nonprofit, manager, trusts, foundations, grant-writing, grant-reporting]
+tags: [fundraising-investors, charitable-foundation-grants, nonprofit, manager, trusts, foundations, grant-writing, grant-reporting, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Grant readiness check for a charity or community group
               description: |-
                 ## Purpose
-                Most trusts screen out applications on eligibility before anyone reads about the project, and the usual reasons are dull: accounts overdue at the regulator, no safeguarding policy, a governing document nobody can find, or a bank account with a single signatory. A half-day check against the requirements that appear in almost every funder's guidance tells you what to fix before you spend weeks writing.
+                Most trusts screen out applications on eligibility before anyone reads about the project, and the usual reasons are dull: accounts overdue at the regulator, no safeguarding policy, a governing document nobody can find, or a bank account with a single signatory. A half-day check against the requirements that appear in almost every funder's guidance tells you what to fix before you spend weeks writing. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Legal status, registration number and the current governing document confirmed and located.
@@ -39,7 +39,7 @@ starter_structure:
                 ## Notes
                 Many trusts will not fund an organisation whose last accounts are late at the regulator, even by a few weeks. Fix filing before anything else.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -354,7 +354,7 @@ starter_structure:
                 success_criteria: "A monthly spend report for every restricted grant is reviewed with finance, and every variance over the threshold has a recorded reason."
                 cadence: rolling
               tasks:
-                - "Confirm with the finance team that each active grant has its own fund code"
+                - "Finance manager confirms each active grant has its own restricted fund code"
                 - "Review spend against budget for every grant with finance @recurring(monthly:12)"
                 - "Forecast year-end spend on each grant and flag likely underspends @recurring(quarterly)"
                 - "Write a reason beside every variance above the agreed threshold"

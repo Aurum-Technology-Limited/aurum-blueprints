@@ -4,7 +4,7 @@ name: Data Governance & Ownership
 description: "A governance charter, named owners and stewards for every data domain, a classification scheme, access approval and recertification, retention schedules and a clear route for deciding what a dataset means."
 category: business
 version: 1.0.0
-tags: [data-analytics, data-governance-ownership, enterprise, manager, team, data-stewardship, access-control, data-retention]
+tags: [data-analytics, data-governance-ownership, enterprise, manager, team, data-stewardship, access-control, data-retention, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Data governance charter and scope
               description: |-
                 ## Purpose
-                Governance programmes that begin with a tool purchase and no mandate stall the first time an owner says no. A two-page charter that names the sponsor, the problems being solved (conflicting numbers, unclear access, data kept forever), what is in and out of scope for the first year, and who has the final word gives every later project something to point at. Write it before appointing anyone, because the people you ask to be owners will want to read it first.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Governance programmes that begin with a tool purchase and no mandate stall the first time an owner says no. A two-page charter that names the sponsor, the problems being solved (conflicting numbers, unclear access, data kept forever), what is in and out of scope for the first year, and who has the final word gives every later project something to point at. Write it before appointing anyone, because the people you ask to be owners will want to read it first.
 
                 ## Milestones
                 1. A charter of no more than two pages naming the executive sponsor, the first-year scope and three problems it exists to fix.

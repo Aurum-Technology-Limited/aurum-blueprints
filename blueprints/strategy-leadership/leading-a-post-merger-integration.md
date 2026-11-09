@@ -4,7 +4,7 @@ name: Leading a Post-Merger Integration
 description: "Lead two organisations into one after a deal: a clear value case and integration office, Day 1 and the first 100 days, key people and customers kept, structure and systems chosen, and savings tracked to the end."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, leading-a-post-merger-integration, manager, enterprise, post-merger-integration, mergers-and-acquisitions, synergies, day-one]
+tags: [strategy-leadership, leading-a-post-merger-integration, manager, enterprise, post-merger-integration, mergers-and-acquisitions, synergies, day-one, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Integration value case on one page
               description: |-
                 ## Purpose
-                Deals are approved on a model, but integrations are run by people who have often never seen it. Translating the board paper into one page, with the three to five sources of value, the figure attached to each and the year it was promised, gives every workstream the same answer to the question of why this deal was done.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Deals are approved on a model, but integrations are run by people who have often never seen it. Translating the board paper into one page, with the three to five sources of value, the figure attached to each and the year it was promised, gives every workstream the same answer to the question of why this deal was done.
 
                 ## Milestones
                 1. The board paper, deal model and any lender or regulator submissions gathered in one folder.
@@ -738,7 +738,7 @@ starter_structure:
                 5. Employee representatives consulted where the law or existing agreements require it.
 
                 ## Notes
-                In many countries, transferred employees' terms are protected by law for a period. Ask counsel before promising or changing anything.
+                In many countries transferred employees' terms are protected by law (in the UK, for example, TUPE makes a change to terms void where the transfer is the sole or principal reason, subject to limited exceptions and with no fixed time limit). Ask counsel before promising or changing anything.
               priority: medium
               frontmatter:
                 mode: building

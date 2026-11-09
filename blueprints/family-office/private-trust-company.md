@@ -4,7 +4,7 @@ name: Private Trust Company
 description: "A considered decision on whether the family should run its own trustee, and if so a private trust company built properly: ownership, board, licensing route, costs, decision records, filings and continuity across generations."
 category: personal
 version: 1.0.0
-tags: [family-office, private-trust-company, parent, retiree, trustee-governance, ptc-board, purpose-trust, trust-administration]
+tags: [family-office, private-trust-company, parent, retiree, trustee-governance, ptc-board, purpose-trust, trust-administration, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -28,7 +28,7 @@ starter_structure:
             - name: Private trust company fit assessment
               description: |-
                 ## Purpose
-                Families usually hear about private trust companies from another family or a banker, and the idea sounds like control without the fees. In practice a PTC suits a family with several substantial trusts, unusual assets such as an operating business, and members willing to serve as directors for decades. A written assessment against those tests stops the family spending a year and a large legal bill on a structure it did not need.
+                Families usually hear about private trust companies from another family or a banker, and the idea sounds like control without the fees. In practice a PTC suits a family with several substantial trusts, unusual assets such as an operating business, and members willing to serve as directors for decades. A written assessment against those tests stops the family spending a year and a large legal bill on a structure it did not need. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The reasons the family is considering a PTC written down in the family's own words.
@@ -38,6 +38,8 @@ starter_structure:
 
                 ## Notes
                 A common false start is treating a PTC as a way to keep control the settlor has already given away. If the main motive is control, raise it with the trust lawyer first, because it shapes everything that follows.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
@@ -70,7 +72,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "10"
               tasks:
-                - "Start a table of every family trust you know of with its current trustee"
+                - "Start a table of every family trust the family knows of, with its current trustee"
                 - "Request copies of each trust deed and any variations from the trustees"
                 - "Note the governing law and main assets of each trust in the table"
                 - "Mark each trust as move, stay or wind up and note why"

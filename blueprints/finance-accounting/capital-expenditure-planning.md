@@ -4,7 +4,7 @@ name: Capital Expenditure Planning
 description: "A capital policy, house appraisal assumptions, business cases a panel can decide on, monthly spend against approval and post-investment reviews, from a first van to a group capital programme."
 category: business
 version: 1.0.0
-tags: [finance-accounting, capital-expenditure-planning, manager, enterprise, small-business, business-case, payback, capital-budgeting]
+tags: [finance-accounting, capital-expenditure-planning, manager, enterprise, small-business, business-case, payback, capital-budgeting, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Capital expenditure policy and approval scope
               description: |-
                 ## Purpose
-                Capital requests in most growing businesses arrive as an email asking for a new machine by Friday, and approval depends on who asks loudest. A short policy that says which spend goes through the capital process, the value above which a written business case is needed, who reviews it and how unbudgeted needs are handled gives every manager the same route. It sits alongside the capitalisation policy used for the accounts but answers a different question: not how spend is booked, but how it is decided.
+                Capital requests in most growing businesses arrive as an email asking for a new machine by Friday, and approval depends on who asks loudest. A short policy that says which spend goes through the capital process, the value above which a written business case is needed, who reviews it and how unbudgeted needs are handled gives every manager the same route. It sits alongside the capitalisation policy used for the accounts but answers a different question: not how spend is booked, but how it is decided. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A written definition of capital expenditure for decision purposes, covering equipment, property works, vehicles and systems.
@@ -39,7 +39,7 @@ starter_structure:
                 ## Notes
                 Keep it to two pages. A long policy is skipped; a short one with a clear threshold is followed.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -586,7 +586,7 @@ starter_structure:
                 effort_hours_estimate: "5"
               tasks:
                 - "Ask your tax adviser for a short note on relief for capital spend"
-                - "Write a one-page summary in your own words"
+                - "Write a one-page summary for the capital panel"
                 - "Rework one business case with tax effects in the right years"
                 - "Agree when the adviser must review a capital case"
             - name: Writing a business case a panel can decide on
@@ -1188,4 +1188,4 @@ starter_structure:
 
 This area is for anyone who has to decide whether to spend serious money on equipment, vehicles, property works or systems, from the owner weighing up a first van to the finance team running a capital panel across several sites. It starts with the foundations (a capital policy, project categories, a three-year needs list, house assumptions, a business case template and a project register), then the routines that keep spend and benefits visible, the appraisal skills behind a sound case, the decisions about leasing, replacing, ranking and tendering, the events that need preparing, situations for small firms, managers and groups, and finally specialist work on simulation, real options and forecasting bias.
 
-What repeats is the monthly spend report against authorisation, the monthly panel meeting and benefits log, a quarterly rephasing of capital spend and check for post-investment reviews due, and a yearly bid round, five-year plan roll-forward, hurdle rate review and year-end carry-forward. The Purchase decision, Risk register, Board meeting, Vendor, Metrics log and Meeting notes templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is the monthly spend report against authorisation, the monthly panel meeting and benefits log, a quarterly rephasing of capital spend and check for post-investment reviews due, and a yearly bid round, five-year plan roll-forward, hurdle rate review and year-end carry-forward. The Purchase decision, Risk register, Board meeting, Vendor, Metrics log and Meeting notes templates pair with the projects that name them. In a shared workspace, project sponsors own their business cases, finance runs appraisal and tracking, and the capital panel or board approves spend within delegated limits, with tax relief and accounting treatment confirmed by a qualified accountant. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

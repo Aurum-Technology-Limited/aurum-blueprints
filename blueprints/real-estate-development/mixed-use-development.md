@@ -4,7 +4,7 @@ name: Mixed-Use Development
 description: "Mixed-use schemes that work as one building: a use mix backed by demand, separate cores and servicing, a clear ownership split, commercial units leased well and homes sold or held with confidence."
 category: business
 version: 1.0.0
-tags: [real-estate-development, mixed-use-development, founder, small-business, ground-floor-retail, workspace, service-charges, active-frontage]
+tags: [real-estate-development, mixed-use-development, founder, small-business, ground-floor-retail, workspace, service-charges, active-frontage, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Use mix brief for a mixed-use site
               description: |-
                 ## Purpose
-                Every later drawing, appraisal and lender conversation depends on one early answer: how much of the building is homes, how much is shops and how much is workspace, and why. A one-page brief that states the floor area for each use, the reason for it and what would make you change it stops the architect designing around a guess. Write it before the first massing study.
+                Every later drawing, appraisal and lender conversation depends on one early answer: how much of the building is homes, how much is shops and how much is workspace, and why. A one-page brief that states the floor area for each use, the reason for it and what would make you change it stops the architect designing around a guess. Write it before the first massing study. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Gross and net floor area set out for each use, with the residential unit count and commercial unit sizes.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Many first schemes include commercial space only because planning asks for it. That is a valid reason, but say so, because it changes how much you should spend on that space.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help your team organise its work. It is not legal advice, and following it does not make anyone your organisation's lawyer. Rules differ between countries and change often, so check decisions that matter, and anything your organisation signs, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -49,7 +49,7 @@ starter_structure:
               tasks:
                 - "List the uses you are considering and the floor area each might take"
                 - "Write one sentence on why each use belongs in this scheme"
-                - "Set the smallest and largest commercial area you would accept"
+                - "Development director sets the smallest and largest commercial area to accept"
                 - "Send the brief to the architect and agree it as the starting point"
             - name: Demand evidence for ground-floor commercial space
               description: |-
@@ -512,7 +512,7 @@ starter_structure:
                 effort_hours_estimate: "8"
               tasks:
                 - "Read a plain guide to compartmentation and escape in mixed-use buildings"
-                - "Ask the fire engineer how commercial units are separated from the homes"
+                - "Development manager asks the fire engineer how commercial units are separated from the homes"
                 - "Check how kitchen extract ducts will be fire stopped through residential floors"
                 - "Add the fire strategy rules to the tenant fit-out guide"
             - name: Acoustic separation between homes and commercial units
@@ -561,7 +561,7 @@ starter_structure:
                 - "List the main clauses of a commercial lease in plain words"
                 - "Mark the clauses that affect residents living above"
                 - "Review a sample heads of terms against your list"
-                - "Write your standard positions and send them to your solicitor"
+                - "Asset manager writes standard lease positions and sends them to the solicitor"
             - name: Service charge apportionment methods
               description: |-
                 ## Purpose

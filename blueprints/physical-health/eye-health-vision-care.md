@@ -24,7 +24,7 @@ starter_structure:
             - name: Booking an overdue eye examination
               description: |-
                 ## Purpose
-                Adults are commonly advised to have an eye examination every two years, more often after sixty or with a family history of glaucoma, yet many people go five years or more because their glasses still seem fine. Glaucoma and early macular change cause no symptoms until sight is already lost, so an examination is the only way to catch them. Booking the overdue test this month resets the clock and gives every other project here a starting point.
+                Adults are commonly advised to have an eye examination every two years (UK NHS advice), or more often if the optometrist recommends it, for example from about 70 or from 40 with a close relative who has glaucoma, yet many people go five years or more because their glasses still seem fine. Glaucoma and early macular change cause no symptoms until sight is already lost, so an examination is the only way to catch them. Booking the overdue test this month resets the clock and gives every other project here a starting point.
 
                 ## Milestones
                 1. The date of your last eye examination found or estimated.
@@ -35,7 +35,7 @@ starter_structure:
                 ## Notes
                 If you notice a sudden change in your sight, do not wait for a routine appointment. The warning signs card project lists what needs same-day care.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

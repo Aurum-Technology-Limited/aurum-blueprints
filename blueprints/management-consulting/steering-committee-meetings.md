@@ -4,7 +4,7 @@ name: Steering Committee Meetings
 description: "A working system for consulting steering committees: terms of reference, pre-wiring each member, a deck built around decisions, minutes out within a day and actions chased until they close."
 category: business
 version: 1.0.0
-tags: [management-consulting, steering-committee-meetings, knowledge-worker, steering-committee, governance, pre-wiring, decision-making, minutes]
+tags: [management-consulting, steering-committee-meetings, knowledge-worker, steering-committee, governance, pre-wiring, decision-making, minutes, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Steering committee terms of reference
               description: |-
                 ## Purpose
-                Many engagement steering committees run for months without anyone writing down what they are for, which is why they drift into hour-long status updates. A two-page terms of reference agreed at the first meeting fixes the purpose, the members, the quorum, the decisions it owns and how often it meets, so every later argument about whether something belongs on the agenda has an answer.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Many engagement steering committees run for months without anyone writing down what they are for, which is why they drift into hour-long status updates. A two-page terms of reference agreed at the first meeting fixes the purpose, the members, the quorum, the decisions it owns and how often it meets, so every later argument about whether something belongs on the agenda has an answer.
 
                 ## Milestones
                 1. A two-page draft covering purpose, members, chair, quorum, frequency and decisions in scope.

@@ -4,7 +4,7 @@ name: Data Warehouse Cost Control
 description: "A queryable spend baseline, owners and tags on every workload, weekly anomaly checks and monthly showback, and the query, storage and compute fixes that cut the bill without slowing anyone down."
 category: business
 version: 1.0.0
-tags: [data-analytics, data-warehouse-cost-control, engineer, manager, finops, query-performance, cloud-costs]
+tags: [data-analytics, data-warehouse-cost-control, engineer, manager, finops, query-performance, cloud-costs, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Twelve-month data platform spend baseline
               description: |-
                 ## Purpose
-                Before anyone can say whether cost control is working, someone has to know what the platform costs today and how that figure moved over the last year. Pulling twelve months of invoices and usage into one sheet, split into compute, storage, data transfer and third-party tools, turns a vague worry about the bill into a number with a trend that engineers and finance can both quote.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before anyone can say whether cost control is working, someone has to know what the platform costs today and how that figure moved over the last year. Pulling twelve months of invoices and usage into one sheet, split into compute, storage, data transfer and third-party tools, turns a vague worry about the bill into a number with a trend that engineers and finance can both quote.
 
                 ## Milestones
                 1. Twelve months of warehouse invoices and usage statements gathered in one place.

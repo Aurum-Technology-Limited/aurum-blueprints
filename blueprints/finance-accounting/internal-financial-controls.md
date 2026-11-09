@@ -4,7 +4,7 @@ name: Internal Financial Controls
 description: "A risk and control matrix with named owners, segregation of duties and access reviews, walkthroughs and sample testing, deficiency tracking and remediation, and reporting that lets leadership rely on the numbers."
 category: business
 version: 1.0.0
-tags: [finance-accounting, internal-financial-controls, enterprise, manager, team, segregation-of-duties, control-testing, risk-control-matrix]
+tags: [finance-accounting, internal-financial-controls, enterprise, manager, team, segregation-of-duties, control-testing, risk-control-matrix, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -28,7 +28,7 @@ starter_structure:
             - name: Finance control risk assessment by process
               description: |-
                 ## Purpose
-                Controls designed without a risk assessment tend to cluster where checking is easy, such as bank reconciliations, while the real exposures sit in revenue cut-off, manual journals or supplier master data. Walking each finance process and asking what could go wrong, how likely it is and how far it would move the accounts gives you a ranked list to design against. It takes a few workshops and decides where the next year's effort goes.
+                Controls designed without a risk assessment tend to cluster where checking is easy, such as bank reconciliations, while the real exposures sit in revenue cut-off, manual journals or supplier master data. Walking each finance process and asking what could go wrong, how likely it is and how far it would move the accounts gives you a ranked list to design against. It takes a few workshops and decides where the next year's effort goes. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every finance process listed, from order to cash through to the close and reporting.
@@ -39,7 +39,7 @@ starter_structure:
                 ## Notes
                 Start from the **Risk register** template. Write risks as events, such as 'sales recorded in the wrong period', not as missing controls.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -1004,7 +1004,7 @@ starter_structure:
               tasks:
                 - "Ask the agent to summarise the last two audit management letters into themes"
                 - "Book a half hour with each key control owner"
-                - "Reperform five key controls yourself in the first two months"
+                - "New controller reperforms five key controls in the first two months"
                 - "Present a controls plan to the finance director by day ninety"
             - name: Practical controls for a finance team of three
               description: |-
@@ -1169,4 +1169,4 @@ starter_structure:
 
 This area is for finance managers, controllers and finance teams in growing and larger organisations who need controls that stop errors and fraud and stand up to testing. It starts with the foundations (a risk assessment, scoping, the risk and control matrix, process narratives, named owners, a segregation of duties matrix and an access baseline), then the operating routines of access reviews, self-certification, exception reports and deficiency tracking, the testing skills of walkthroughs, sampling and severity rating, control sets for each finance cycle and other improvements, dated events such as the annual attestation and a system go-live, situations from a team of three to an acquired subsidiary or a listing, and finally specialist work on analytics, role redesign and combined assurance.
 
-What repeats is a monthly round of leaver checks, owner self-certifications, journal and master data exception reviews, privileged activity and system change reviews and deficiency chasing, a quarterly access review, testing check-in and audit committee report, and a yearly matrix refresh, fraud risk update, provider report review and attestation. The Risk register, Compliance control, Metrics log, Remediation plan, Meeting notes, Operational checklist and Onboarding 30/60/90 templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a monthly round of leaver checks, owner self-certifications, journal and master data exception reviews, privileged activity and system change reviews and deficiency chasing, a quarterly access review, testing check-in and audit committee report, and a yearly matrix refresh, fraud risk update, provider report review and attestation. The Risk register, Compliance control, Metrics log, Remediation plan, Meeting notes, Operational checklist and Onboarding 30/60/90 templates pair with the projects that name them. In a shared workspace, control owners run and evidence their controls, the controller or internal audit tests them and the audit committee receives the results. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

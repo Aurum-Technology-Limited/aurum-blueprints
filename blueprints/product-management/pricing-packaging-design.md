@@ -4,7 +4,7 @@ name: Pricing & Packaging Design
 description: "A full map of what you charge today, packaging principles and tiers built on value, disciplined discounting, and price changes for existing customers planned with enough notice and care to keep their trust."
 category: business
 version: 1.0.0
-tags: [product-management, pricing-packaging-design, founder, team, manager, pricing-strategy, packaging, price-increase]
+tags: [product-management, pricing-packaging-design, founder, team, manager, pricing-strategy, packaging, price-increase, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Inventory of every live price and plan
               description: |-
                 ## Purpose
-                Most products that have been selling for a few years carry more prices than anyone can name: the public plans, two retired plans still billing, a legacy annual rate, partner discounts and a handful of hand-negotiated contracts. Listing every price actually being charged, and how many customers sit on each, is the starting point for every later pricing decision, because you cannot change what you cannot see.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most products that have been selling for a few years carry more prices than anyone can name: the public plans, two retired plans still billing, a legacy annual rate, partner discounts and a handful of hand-negotiated contracts. Listing every price actually being charged, and how many customers sit on each, is the starting point for every later pricing decision, because you cannot change what you cannot see.
 
                 ## Milestones
                 1. Every plan, add-on and price point currently billing listed from the billing system, not the pricing page.

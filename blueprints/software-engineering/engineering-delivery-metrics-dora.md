@@ -4,7 +4,7 @@ name: Engineering Delivery Metrics (DORA)
 description: "Agreed definitions, traceable deploy and incident data, a trustworthy baseline for the four DORA metrics, review rhythms and the experiments that improve delivery without anyone gaming the numbers."
 category: business
 version: 1.0.0
-tags: [software-engineering, engineering-delivery-metrics-dora, manager, engineer, enterprise, dora, lead-time, deployment-frequency]
+tags: [software-engineering, engineering-delivery-metrics-dora, manager, engineer, enterprise, dora, lead-time, deployment-frequency, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Written purpose for measuring delivery
               description: |-
                 ## Purpose
-                Teams that start collecting DORA numbers without saying why usually end up with a leaderboard nobody trusts. Writing one page that states the questions the metrics should answer, such as where changes wait longest or whether releases are getting safer, and the decisions they will feed, sets the tone before the first chart exists. Agree it with the people being measured, not only the people asking for the numbers.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Teams that start collecting DORA numbers without saying why usually end up with a leaderboard nobody trusts. Writing one page that states the questions the metrics should answer, such as where changes wait longest or whether releases are getting safer, and the decisions they will feed, sets the tone before the first chart exists. Agree it with the people being measured, not only the people asking for the numbers.
 
                 ## Milestones
                 1. Three to five questions the metrics must help answer, written in plain language.
@@ -62,7 +62,7 @@ starter_structure:
                 5. All four definitions stored in version control with an owner and a change log.
 
                 ## Notes
-                The DORA research measures lead time from commit to running in production. If you choose a different start, write down why, because published benchmarks will no longer apply directly.
+                The DORA research measures lead time from commit to running in production. If you choose a different start, write down why, because published benchmarks will no longer apply directly. DORA's current guide at dora.dev calls the fourth metric failed deployment recovery time and adds a fifth, deployment rework rate; this plan starts with the original four.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -794,7 +794,7 @@ starter_structure:
             - name: Adding reliability as a fifth metric
               description: |-
                 ## Purpose
-                Throughput metrics can improve while users suffer, which is why the DORA research added operational reliability as a fifth measure. Deciding how to bring a reliability signal into delivery reviews, usually by reusing the service level objectives the team already has, keeps faster delivery from being bought with a worse service. Keep the SLO definitions themselves owned by whoever owns reliability.
+                Throughput metrics can improve while users suffer, which is why the DORA research has also measured operational reliability since 2021. Deciding how to bring a reliability signal into delivery reviews, usually by reusing the service level objectives the team already has, keeps faster delivery from being bought with a worse service. Keep the SLO definitions themselves owned by whoever owns reliability.
 
                 ## Milestones
                 1. The existing reliability signals for each service listed.

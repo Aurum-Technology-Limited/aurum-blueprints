@@ -4,7 +4,7 @@ name: SQL Training for Teams
 description: "A needs survey, safe read-only access and a masked sandbox, a course built on your own warehouse tables, office hours and a shared query library, peer review, assessments and the advanced patterns your best learners will want next."
 category: business
 version: 1.0.0
-tags: [data-analytics, sql-training-for-teams, knowledge-worker, educator, team, sql, training-programme, query-patterns]
+tags: [data-analytics, sql-training-for-teams, knowledge-worker, educator, team, sql, training-programme, query-patterns, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: SQL needs survey across the team
               description: |-
                 ## Purpose
-                Before writing a single lesson, find out who actually needs SQL, what they do with data today and which questions they currently wait days to have answered. A ten-question survey of the people being trained usually reveals three groups: those who have never queried anything, those who copy and edit queries they do not understand, and one or two who could help teach. Designing for all three from the start avoids a course that bores half the room and loses the other half.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before writing a single lesson, find out who actually needs SQL, what they do with data today and which questions they currently wait days to have answered. A ten-question survey of the people being trained usually reveals three groups: those who have never queried anything, those who copy and edit queries they do not understand, and one or two who could help teach. Designing for all three from the start avoids a course that bores half the room and loses the other half.
 
                 ## Milestones
                 1. A short survey sent to everyone in scope, covering current tools, confidence and typical data questions.

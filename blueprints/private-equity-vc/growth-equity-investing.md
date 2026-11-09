@@ -4,7 +4,7 @@ name: Growth Equity Investing
 description: "A working method for minority growth investments: clear criteria, a standard term sheet and protective provisions, growth diligence on cohorts and unit economics, and a steady rhythm of working alongside founders who keep control."
 category: business
 version: 1.0.0
-tags: [private-equity-vc, growth-equity-investing, knowledge-worker, minority-investing, term-sheets, growth-diligence, protective-provisions, founders]
+tags: [private-equity-vc, growth-equity-investing, knowledge-worker, minority-investing, term-sheets, growth-diligence, protective-provisions, founders, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Growth equity investing criteria one-pager
               description: |-
                 ## Purpose
-                Growth deals arrive from bankers, founders and venture funds looking for a later-stage partner, and without written criteria every one of them looks interesting for a week. A single page covering revenue band, growth rate, profitability or a credible path to it, cheque size, ownership range and sectors lets you say no in a day and spend the saved time on the few that fit.
+                Growth deals arrive from bankers, founders and venture funds looking for a later-stage partner, and without written criteria every one of them looks interesting for a week. A single page covering revenue band, growth rate, profitability or a credible path to it, cheque size, ownership range and sectors lets you say no in a day and spend the saved time on the few that fit. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page criteria sheet with revenue band, growth floor, margin profile and cheque size range.
@@ -35,6 +35,8 @@ starter_structure:
 
                 ## Notes
                 Write the criteria as ranges, not targets. A company growing 25 percent with 90 percent retention may beat one growing 60 percent that buys every customer.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -47,7 +49,7 @@ starter_structure:
                 - "List the last ten growth deals you looked at and why each progressed or died"
                 - "Draft the revenue, growth, margin and cheque size ranges"
                 - "Write the sector exclusions with one reason each"
-                - "Review the draft with your investment lead and agree changes"
+                - "Investment committee reviews the draft and agrees changes"
             - name: Where growth equity sits between venture and buyout
               description: |-
                 ## Purpose

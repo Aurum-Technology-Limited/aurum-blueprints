@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 Use the tax authority's own pages and your adviser for the conditions. Blog summaries go out of date quickly, and limits change in budgets.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help you organise decisions about money. It is not financial, investment, tax or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with a qualified, licensed adviser in yours. Investing and trading can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -723,7 +723,7 @@ starter_structure:
                 4. The split reflected in the subscription documents and board minutes.
 
                 ## Notes
-                In the UK, SEIS shares are generally issued before EIS shares rather than on the same day. Confirm the current rule with your adviser.
+                In the UK, SEIS shares currently need to be issued before EIS shares rather than on the same day; the government has announced a change allowing same-day issue for shares issued from 6 April 2027. Confirm the rule that applies to your dates with your adviser.
               priority: medium
               deadlineOffsetDays: 60
               frontmatter:

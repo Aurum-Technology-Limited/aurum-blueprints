@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Keep it to one page. If it needs two, you are drawing P&IDs rather than understanding the plant.
+
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -969,7 +971,7 @@ starter_structure:
                 cadence: phased
                 effort_hours_estimate: "16"
               tasks:
-                - "Ask HSE for the current statutory examination requirements"
+                - "Ask your HSE lead or the OSH Agency for the current statutory examination requirements"
                 - "List every item subject to examination with last and next due dates"
                 - "Tie each upcoming examination to a planned outage"
                 - "Check the statutory examination register for items due in the next twelve months @recurring(yearly)"

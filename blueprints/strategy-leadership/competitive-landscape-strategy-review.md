@@ -4,7 +4,7 @@ name: Competitive Landscape Strategy Review
 description: "A clear map of who you really compete with, an evidence routine that keeps it current, and written choices about where to compete, how to differentiate and which fights to stay out of."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, competitive-landscape-strategy-review, manager, founder, enterprise, competitive-intelligence, positioning, win-loss]
+tags: [strategy-leadership, competitive-landscape-strategy-review, manager, founder, enterprise, competitive-intelligence, positioning, win-loss, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Framing the decision the competitive review must inform
               description: |-
                 ## Purpose
-                Competitor research without a decision attached grows into a folder nobody opens. Writing down the one or two choices the review must feed, such as which segment to prioritise next year or whether to match a rival's price cut, tells you what evidence matters and what can be ignored.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Competitor research without a decision attached grows into a folder nobody opens. Writing down the one or two choices the review must feed, such as which segment to prioritise next year or whether to match a rival's price cut, tells you what evidence matters and what can be ignored.
 
                 ## Milestones
                 1. One or two decisions written as questions, each with the person who will make it.

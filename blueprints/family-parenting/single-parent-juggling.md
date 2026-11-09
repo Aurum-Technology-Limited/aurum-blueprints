@@ -479,7 +479,7 @@ starter_structure:
                 4. At least one change made in response to a low score.
 
                 ## Notes
-                If you feel unable to cope, or have thoughts of harming yourself, contact your doctor or a crisis line the same day rather than waiting for the next check.
+                If you feel unable to cope, or have thoughts of harming yourself, contact your doctor or a crisis line the same day rather than waiting for the next check, such as Samaritans on 116 123 in the UK and Ireland or 988 in the US. If you are in immediate danger, call your local emergency number.
               priority: medium
               frontmatter:
                 mode: operating
@@ -968,6 +968,8 @@ starter_structure:
 
                 ## Notes
                 Legal arrangements with the other parent belong with a family solicitor or mediator. This plan covers running the household around them.
+
+                If you feel afraid of a partner, ex-partner or family member, or someone is controlling, threatening or hurting you or the children, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233).
               priority: high
               deadlineOffsetDays: 180
               frontmatter:

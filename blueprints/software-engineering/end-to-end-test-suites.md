@@ -4,7 +4,7 @@ name: End-to-End Test Suites
 description: "A browser and API test suite built around your real user flows, with stable selectors and seeded data, a weekly flake triage, quarantine rules and run-time budgets that keep the team trusting a red build."
 category: business
 version: 1.0.0
-tags: [software-engineering, end-to-end-test-suites, engineer, team, browser-testing, flaky-tests, test-automation, regression]
+tags: [software-engineering, end-to-end-test-suites, engineer, team, browser-testing, flaky-tests, test-automation, regression, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -24,7 +24,7 @@ starter_structure:
             - name: Critical user flow inventory
               description: |-
                 ## Purpose
-                Most suites grow by accident, one test per bug, until nobody can say which flows are covered and which are not. Listing the ten to twenty flows that would cost real money or trust if they broke, such as sign-up, login, checkout, password reset and the core action of the product, gives every later test a reason to exist and a priority order.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most suites grow by accident, one test per bug, until nobody can say which flows are covered and which are not. Listing the ten to twenty flows that would cost real money or trust if they broke, such as sign-up, login, checkout, password reset and the core action of the product, gives every later test a reason to exist and a priority order.
 
                 ## Milestones
                 1. A list of the critical flows, each written as a one-line user goal with a start and end state.

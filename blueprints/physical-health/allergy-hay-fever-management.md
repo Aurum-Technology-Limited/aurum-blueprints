@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Start from the **Metrics log** template. Record any wheeze or tight chest separately: those belong in front of a clinician, not only in a diary.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
@@ -495,6 +495,9 @@ starter_structure:
                 2. The difference between mild and severe signs on your action plan understood.
                 3. The emergency number and what to say on the call rehearsed.
                 4. Two people in the household able to list the severe signs from memory.
+
+                ## Notes
+                The usual first steps in UK and US guidance are the same: if adrenaline has been prescribed, use it straight away at the first severe sign, call your local emergency number and say anaphylaxis, and lie the person flat with legs raised, or sitting up if breathing is hard. Follow your own action plan where it differs.
               priority: high
               frontmatter:
                 mode: learning

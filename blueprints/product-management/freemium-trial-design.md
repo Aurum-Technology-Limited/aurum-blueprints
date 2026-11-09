@@ -4,7 +4,7 @@ name: Freemium & Trial Design
 description: "A measured free-to-paid funnel, a deliberate choice between freemium, free trial and reverse trial, free limits and upgrade prompts that convert without annoying people, and the reviews that keep the free offer paying for itself."
 category: business
 version: 1.0.0
-tags: [product-management, freemium-trial-design, founder, team, freemium, free-trial, reverse-trial, product-led-growth, conversion]
+tags: [product-management, freemium-trial-design, founder, team, freemium, free-trial, reverse-trial, product-led-growth, conversion, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Free-to-paid funnel baseline
               description: |-
                 ## Purpose
-                Before changing a trial length or a free limit, you need today's numbers written down: sign-ups per week, how many start a trial or stay on the free plan, how many reach the first meaningful use, and how many pay within 30, 60 and 90 days. Most teams discover their conversion figure has three different definitions in three different dashboards. A single agreed baseline is what every later experiment in this area is measured against.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before changing a trial length or a free limit, you need today's numbers written down: sign-ups per week, how many start a trial or stay on the free plan, how many reach the first meaningful use, and how many pay within 30, 60 and 90 days. Most teams discover their conversion figure has three different definitions in three different dashboards. A single agreed baseline is what every later experiment in this area is measured against.
 
                 ## Milestones
                 1. Sign-ups, trial starts, first meaningful use and paid conversions counted for the last three full months.

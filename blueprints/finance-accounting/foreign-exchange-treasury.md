@@ -4,7 +4,7 @@ name: Foreign Exchange & Treasury Management
 description: "A currency exposure map, a treasury policy the board has signed, hedging and payment routines, and the pooling and surplus cash decisions for businesses that trade or hold money across borders."
 category: business
 version: 1.0.0
-tags: [finance-accounting, foreign-exchange-treasury, enterprise, manager, small-business, currency-risk, hedging, international-payments]
+tags: [finance-accounting, foreign-exchange-treasury, enterprise, manager, small-business, currency-risk, hedging, international-payments, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Currency exposure map for the business
               description: |-
                 ## Purpose
-                Most businesses underestimate their currency exposure because it hides in places finance does not look: a software subscription billed in dollars, a freight contract priced in euros, a customer who pays in sterling. Mapping every flow and balance by currency, with its size and timing, is the starting point for every later decision in this area, from hedging to which accounts to hold.
+                Most businesses underestimate their currency exposure because it hides in places finance does not look: a software subscription billed in dollars, a freight contract priced in euros, a customer who pays in sterling. Mapping every flow and balance by currency, with its size and timing, is the starting point for every later decision in this area, from hedging to which accounts to hold. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every revenue stream, supplier, payroll, loan and lease line listed with the currency it is priced and paid in.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Include indirect exposures, such as a home currency supplier who passes on the cost of imported parts. They often move with the exchange rate even when the invoice does not.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -1204,4 +1204,4 @@ starter_structure:
 
 This area is for owners, finance managers and group treasurers whose business buys, sells, borrows or holds money in more than one currency. It starts with the foundations (a map of every currency flow, a list of every foreign balance, the sensitivity of the budget to rate moves, a tolerance the board has agreed and a first treasury policy), then the weekly and monthly machinery of payments, confirmations, revaluation and exposure reporting, the skills behind forwards, options and payment messages, decisions on providers, invoicing currency and hedging design, dated events such as a large overseas purchase, situations from a small importer paying in dollars to a currency shortage or devaluation, and finally netting, hedge accounting and cash repatriation for groups.
 
-What repeats is the Monday cash position by currency, the weekly international payment run and Friday deal confirmations, the month-end revaluation and exposure report, a monthly FX cost log, treasury committee and surplus cash placement, quarterly counterparty and policy limit checks, and the yearly budget rate and policy review. The Operational checklist, Metrics log, Meeting notes, Purchase decision and Risk register templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is the Monday cash position by currency, the weekly international payment run and Friday deal confirmations, the month-end revaluation and exposure report, a monthly FX cost log, treasury committee and surplus cash placement, quarterly counterparty and policy limit checks, and the yearly budget rate and policy review. The Operational checklist, Metrics log, Meeting notes, Purchase decision and Risk register templates pair with the projects that name them. In a shared workspace, the treasurer or finance manager runs exposures and dealing within the board-approved policy, a second person confirms every deal, and hedging products are chosen with the bank and a qualified adviser; nothing here recommends any product. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

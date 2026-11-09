@@ -4,7 +4,7 @@ name: Business Turnaround Leadership
 description: "A thirteen-week cash forecast you can defend, an honest diagnosis of the decline, the hard cost and portfolio choices, lenders and staff kept on side, and a recovery plan credible enough to fund."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, business-turnaround-leadership, manager, enterprise, small-business, turnaround, restructuring, cash-management]
+tags: [strategy-leadership, business-turnaround-leadership, manager, enterprise, small-business, turnaround, restructuring, cash-management, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: First fortnight turnaround situation diagnosis
               description: |-
                 ## Purpose
-                In the first two weeks of a turnaround, everyone wants a plan and almost nobody has the facts. A short, structured diagnosis of cash, profitability by line, debt terms, customer health and staff mood, written before any cuts are announced, stops you fixing the wrong problem and gives lenders a reason to believe you understand the business.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. In the first two weeks of a turnaround, everyone wants a plan and almost nobody has the facts. A short, structured diagnosis of cash, profitability by line, debt terms, customer health and staff mood, written before any cuts are announced, stops you fixing the wrong problem and gives lenders a reason to believe you understand the business.
 
                 ## Milestones
                 1. Cash on hand, committed payments and available facilities confirmed to the nearest week.

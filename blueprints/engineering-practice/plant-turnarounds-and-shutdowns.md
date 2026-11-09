@@ -4,7 +4,7 @@ name: Plant Turnarounds and Shutdowns
 description: "A turnaround run as a project with gates: scope challenged and frozen on time, contractors mobilised safely, a critical path you trust, costs forecast weekly and a start-up that goes right first time."
 category: business
 version: 1.0.0
-tags: [engineering-practice, plant-turnarounds-and-shutdowns, engineer, manager, turnaround, shutdown, scope-freeze, critical-path]
+tags: [engineering-practice, plant-turnarounds-and-shutdowns, engineer, manager, turnaround, shutdown, scope-freeze, critical-path, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Turnaround milestone timeline from T-24 months
               description: |-
                 ## Purpose
-                Every well-run turnaround works backwards from the shutdown date along a published milestone timeline, often counted as T-24 months to T+3 months. Without one, scope arrives late, long-lead items miss the window and the plan is still being written when contractors arrive. Drawing the timeline first gives every later project a date to aim at and lets the steering group see slippage while it can still be fixed.
+                Every well-run turnaround works backwards from the shutdown date along a published milestone timeline, often counted as T-24 months to T+3 months. Without one, scope arrives late, long-lead items miss the window and the plan is still being written when contractors arrive. Drawing the timeline first gives every later project a date to aim at and lets the steering group see slippage while it can still be fixed. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A target shutdown date and duration agreed with operations and the business planning team.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Industry practice varies, but scope freeze is commonly set around six to nine months before shutdown for a major unit. Agree your site's figure rather than borrowing one.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

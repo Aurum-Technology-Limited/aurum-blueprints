@@ -4,7 +4,7 @@ name: Transfer Pricing Documentation
 description: "A mapped set of intercompany flows, a group pricing policy, local and master files on an annual cycle, benchmarks, true-ups and filings, ready for any tax authority request."
 category: business
 version: 1.0.0
-tags: [finance-accounting, transfer-pricing-documentation, enterprise, manager, transfer-pricing, intercompany, oecd-guidelines, international-tax]
+tags: [finance-accounting, transfer-pricing-documentation, enterprise, manager, transfer-pricing, intercompany, oecd-guidelines, international-tax, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Related-party transaction map for the group
               description: |-
                 ## Purpose
-                Most groups underestimate how many intercompany flows they have: the obvious sale of goods, but also shared software licences, seconded staff, guarantees on bank facilities and a brand used by every subsidiary. A single map of every related-party transaction, with the paying and receiving entity, the annual value and how it is priced today, is the starting point for every policy, benchmark and filing that follows.
+                Most groups underestimate how many intercompany flows they have: the obvious sale of goods, but also shared software licences, seconded staff, guarantees on bank facilities and a brand used by every subsidiary. A single map of every related-party transaction, with the paying and receiving entity, the annual value and how it is priced today, is the starting point for every policy, benchmark and filing that follows. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every intercompany flow for the last full year listed from the ledger's intercompany accounts.
@@ -39,7 +39,7 @@ starter_structure:
                 ## Notes
                 Look beyond the intercompany accounts. Costs one entity pays on behalf of another and never recharges are related-party transactions too, and they are often the first thing an authority finds.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -346,6 +346,7 @@ starter_structure:
                 - "Send each local controller a questionnaire on this year's business changes @recurring(yearly)"
                 - "Update transaction values and tested party margins in each local file"
                 - "Ask the agent to draft a summary of year-on-year changes for each entity"
+                - "Have a qualified transfer pricing adviser review each local file"
                 - "Finalise each local file before its internal deadline"
             - name: Annual master file update
               description: |-
@@ -812,6 +813,7 @@ starter_structure:
                 - "Collect revenue, profit, tax, employee and asset data for every jurisdiction @recurring(yearly)"
                 - "Reconcile the report totals to the consolidated accounts"
                 - "Ask the agent to flag ratios an examiner would query in the draft report"
+                - "Have the group tax lead and a qualified tax adviser sign off the report before filing"
             - name: Country-by-country reporting notifications
               description: |-
                 ## Purpose
@@ -1184,4 +1186,4 @@ starter_structure:
 
 This area is for group tax and finance teams in international groups, and for the finance managers and local controllers who live with the results of intercompany pricing. It starts with the foundations (a map of every related-party transaction, the entity chart, a country requirements matrix, the group policy, the functional analysis and signed agreements), moves to the operating rhythm of monthly charges, quarterly margin monitoring, year-end true-ups and annual files, then the skills behind methods, benchmarks and intangibles, the pricing decisions and support files, the dated filings and reviews, the situations groups grow into, and finally audits, advance pricing agreements, double tax cases and restructurings.
 
-What repeats is a monthly charge run, a deadline look-ahead and a controller check of recharges, quarterly margin monitoring, evidence filing and agreement reviews, a year-end true-up, and the annual cycle of local files, the master file, benchmark updates, return disclosures and the country-by-country report. The Meeting notes, Compliance control, Vendor, Purchase decision, Risk register and Onboarding 30/60/90 templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a monthly charge run, a deadline look-ahead and a controller check of recharges, quarterly margin monitoring, evidence filing and agreement reviews, a year-end true-up, and the annual cycle of local files, the master file, benchmark updates, return disclosures and the country-by-country report. The Meeting notes, Compliance control, Vendor, Purchase decision, Risk register and Onboarding 30/60/90 templates pair with the projects that name them. In a shared workspace, the group tax lead owns policy and filings and local controllers own entity data and charges, and every pricing position, local file and country-by-country report is reviewed or signed off by qualified tax advisers before it is relied on or filed. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

@@ -4,7 +4,7 @@ name: Enterprise AI Strategy
 description: "An AI ambition the executive team agrees, a scored use-case portfolio, guardrails the board approves, steering, value and risk rhythms, and the capability work that turns AI pilots into results."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, enterprise-ai-strategy, enterprise, manager, artificial-intelligence, generative-ai, ai-governance, ai-adoption]
+tags: [strategy-leadership, enterprise-ai-strategy, enterprise, manager, artificial-intelligence, generative-ai, ai-governance, ai-adoption, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: AI ambition statement agreed by the executive team
               description: |-
                 ## Purpose
-                Executive teams often say yes to AI before agreeing what it is for, and then every function reads the mandate differently. A one-page ambition that names the two or three outcomes AI should move, such as cost to serve, cycle time or revenue per customer, and what the organisation will not use it for, gives every later choice a test to pass.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Executive teams often say yes to AI before agreeing what it is for, and then every function reads the mandate differently. A one-page ambition that names the two or three outcomes AI should move, such as cost to serve, cycle time or revenue per customer, and what the organisation will not use it for, gives every later choice a test to pass.
 
                 ## Milestones
                 1. Each executive's view of what AI should change in three years collected in their own words.

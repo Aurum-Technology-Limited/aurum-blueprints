@@ -4,7 +4,7 @@ name: Delegation of Financial Authority
 description: "An authority matrix that says who can approve spend, sign contracts and commit the business at each level, kept current through board re-approval, people changes and regular compliance checks."
 category: business
 version: 1.0.0
-tags: [finance-accounting, delegation-of-financial-authority, manager, enterprise, founder, approval-limits, signing-authority, governance]
+tags: [finance-accounting, delegation-of-financial-authority, manager, enterprise, founder, approval-limits, signing-authority, governance, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -24,7 +24,7 @@ starter_structure:
             - name: Map of who approves what today
               description: |-
                 ## Purpose
-                Before writing any limits, find out how decisions are actually made: who signs contracts, who releases payments, who agrees discounts, and who is doing all three without anyone having said they could. Most growing companies find that real practice and the founder's assumptions differ in a handful of places, and those gaps are where the first matrix has to start.
+                Before writing any limits, find out how decisions are actually made: who signs contracts, who releases payments, who agrees discounts, and who is doing all three without anyone having said they could. Most growing companies find that real practice and the founder's assumptions differ in a handful of places, and those gaps are where the first matrix has to start. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A list of the twelve to fifteen commitment types the business makes, from supplier orders to job offers.
@@ -35,7 +35,7 @@ starter_structure:
                 ## Notes
                 Pull real examples from the last six months of contracts, purchase orders and payment approvals. Interviews alone make things sound tidier than they are.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -1175,4 +1175,4 @@ starter_structure:
 
 This area is for founders handing out authority for the first time, managers who have just been given an approval limit, and finance and governance teams running an authority framework across a group. It starts with the foundations (a map of current practice, the board's reserved matters, the delegating resolution, the matrix and its limits), then the routines that keep it current, the knowledge behind the harder rules, decisions about commercial, people and treasury authority, the events that redraw the lines, variants for each stage of company, and the specialist work of approval analytics, automated spending and listing readiness.
 
-What repeats is a monthly reconciliation of people changes, breaches and e-signature accounts, a quarterly compliance sample, change review and bank mandate check, and a yearly board re-approval with delegate acknowledgements and conflict declarations. The Board meeting, Compliance control and Remediation plan templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a monthly reconciliation of people changes, breaches and e-signature accounts, a quarterly compliance sample, change review and bank mandate check, and a yearly board re-approval with delegate acknowledgements and conflict declarations. The Board meeting, Compliance control and Remediation plan templates pair with the projects that name them. In a shared workspace, the finance or governance lead maintains the matrix, managers own their limits and the board approves the framework and every change to reserved matters, with legal effect confirmed by the company's lawyer. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

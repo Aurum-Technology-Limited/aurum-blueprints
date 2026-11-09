@@ -37,7 +37,9 @@ starter_structure:
                 ## Notes
                 Start from the **Metrics log** template. Keep it under a minute; a longer form usually gets abandoned by day four.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                If you are thinking of harming yourself or feel unable to keep yourself safe, call your local emergency number or a crisis line now, for example Samaritans on 116 123 in the UK and Ireland, or call or text 988 in the US.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -164,7 +166,7 @@ starter_structure:
                 4. The numbers checked once a year, since services change.
 
                 ## Notes
-                If you or a mate is in immediate danger, call emergency services. A full crisis safety plan is a bigger piece of work, worth doing separately if things have been very hard.
+                Examples: Samaritans on 116 123 in the UK and Ireland, Shout by texting SHOUT to 85258 in the UK, and 988 by call or text in the US. If you or a mate is in immediate danger, call emergency services. A full crisis safety plan is a bigger piece of work, worth doing separately if things have been very hard.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:

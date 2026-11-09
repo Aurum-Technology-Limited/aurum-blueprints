@@ -4,7 +4,7 @@ name: Data Catalogue & Lineage
 description: "A searchable catalogue of datasets and columns, lineage from source system to dashboard, a documentation standard with coverage routines, and certified data people can find and trust."
 category: business
 version: 1.0.0
-tags: [data-analytics, data-catalogue-lineage, enterprise, engineer, team, metadata, data-lineage, business-glossary]
+tags: [data-analytics, data-catalogue-lineage, enterprise, engineer, team, metadata, data-lineage, business-glossary, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Catalogue scope and pilot domain choice
               description: |-
                 ## Purpose
-                Catalogues fail most often by trying to document everything at once and finishing nothing. Choosing one domain, such as finance or orders, and the systems in scope for the first release (the warehouse, the transformation layer, the main BI tool) gives a finish line you can reach in a quarter and a group of real users to test it on.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Catalogues fail most often by trying to document everything at once and finishing nothing. Choosing one domain, such as finance or orders, and the systems in scope for the first release (the warehouse, the transformation layer, the main BI tool) gives a finish line you can reach in a quarter and a group of real users to test it on.
 
                 ## Milestones
                 1. A written scope naming the systems the first release will ingest and those it will not.

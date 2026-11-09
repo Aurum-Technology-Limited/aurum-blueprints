@@ -4,7 +4,7 @@ name: Leading All-Hands and Town Halls
 description: "All-hands and town halls people attend and trust: a clear purpose and format, honest question handling, a production rhythm, hard announcements done well and proof that people leave more aligned."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, leading-all-hands-and-town-halls, manager, founder, team, town-hall, internal-communications, q-and-a]
+tags: [strategy-leadership, leading-all-hands-and-town-halls, manager, founder, team, town-hall, internal-communications, q-and-a, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: All-hands purpose and audience statement
               description: |-
                 ## Purpose
-                Most all-hands drift into a parade of departmental updates because nobody wrote down what the meeting is for. A short statement naming the audience, the two or three jobs the session does (explain strategy, answer questions, recognise work) and what it deliberately does not do gives every agenda decision a test to pass.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most all-hands drift into a parade of departmental updates because nobody wrote down what the meeting is for. A short statement naming the audience, the two or three jobs the session does (explain strategy, answer questions, recognise work) and what it deliberately does not do gives every agenda decision a test to pass.
 
                 ## Milestones
                 1. A one-paragraph purpose statement naming who the all-hands is for and the jobs it does.

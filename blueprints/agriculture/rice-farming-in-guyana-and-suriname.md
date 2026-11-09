@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Use the same field numbers in every record from now on, including what you tell the combine operator. A phone mapping app that records a walked track along the dams is accurate enough to start.
+
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Where your adviser says a matter is a personal choice, write down the choice you made and why, so it is not reopened every month.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -828,6 +828,10 @@ starter_structure:
                 2. A local or overseas arrangement chosen and paid for through a reputable organisation.
                 3. Freezer space cleared if meat is coming home.
                 4. Distribution of the meat planned and carried out.
+
+                ## Notes
+
+                Animal slaughter is tightly regulated in most countries. In the UK, for example, an animal killed for meat to be shared beyond the owner's household, or killed without stunning, must go through an approved slaughterhouse. Book a local qurbani only through a provider that uses an approved slaughterhouse, and check the rules where you live.
               priority: medium
               frontmatter:
                 mode: event

@@ -4,7 +4,7 @@ name: Service Level Objectives
 description: "User flows turned into SLIs, SLO targets set from real data, error budgets with an agreed policy, burn-rate alerts and the review rhythm that turns reliability into a planning input."
 category: business
 version: 1.0.0
-tags: [software-engineering, service-level-objectives, engineer, team, sre, error-budgets, reliability, sli]
+tags: [software-engineering, service-level-objectives, engineer, team, sre, error-budgets, reliability, sli, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Critical user flow inventory for one service
               description: |-
                 ## Purpose
-                Every SLO is only as useful as the user experience it measures, and most teams start by measuring whatever their metrics system already exports. Listing the five to ten things users actually do with the service, such as signing in, searching or paying, and ranking them by how much a failure hurts, gives every later SLI a reason to exist. Pick one service you own and finish this before touching a dashboard.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Every SLO is only as useful as the user experience it measures, and most teams start by measuring whatever their metrics system already exports. Listing the five to ten things users actually do with the service, such as signing in, searching or paying, and ranking them by how much a failure hurts, gives every later SLI a reason to exist. Pick one service you own and finish this before touching a dashboard.
 
                 ## Milestones
                 1. A list of every user-facing interaction the service supports, gathered from product, support tickets and traffic data.

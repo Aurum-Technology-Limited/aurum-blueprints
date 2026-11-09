@@ -4,7 +4,7 @@ name: Digital Transformation Leadership
 description: "A maturity baseline, a funded roadmap, a steering and benefits rhythm, the build, buy and cloud decisions, and the leadership work of bringing people, process and technology along together."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, digital-transformation-leadership, manager, enterprise, digital-transformation, operating-model, legacy-modernisation, change-leadership]
+tags: [strategy-leadership, digital-transformation-leadership, manager, enterprise, digital-transformation, operating-model, legacy-modernisation, change-leadership, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Digital maturity baseline across the organisation
               description: |-
                 ## Purpose
-                Most transformations start with a vendor's answer before anyone has described the problem. A short, honest baseline across customer channels, internal processes, data, technology and skills shows where the organisation really is, which functions are ahead and which are still on spreadsheets and paper, so the first investments go where the gap hurts most.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most transformations start with a vendor's answer before anyone has described the problem. A short, honest baseline across customer channels, internal processes, data, technology and skills shows where the organisation really is, which functions are ahead and which are still on spreadsheets and paper, so the first investments go where the gap hurts most.
 
                 ## Milestones
                 1. A maturity scale of four or five levels chosen and applied to six dimensions: customer, process, data, technology, people and governance.

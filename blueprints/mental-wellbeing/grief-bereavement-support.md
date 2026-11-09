@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Shock often makes people feel numb, calm or oddly busy at first. That is common and says nothing about how much you loved them.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -166,7 +166,7 @@ starter_structure:
                 4. One trusted person told where the list is kept.
 
                 ## Notes
-                If you have thoughts of ending your life or feel unsafe, contact emergency services or a crisis line straight away. Grief can make these thoughts appear, and saying them out loud to someone trained is the right step.
+                If you have thoughts of ending your life or feel unsafe, contact emergency services or a crisis line straight away. Grief can make these thoughts appear, and saying them out loud to someone trained is the right step. Crisis lines include Samaritans on 116 123 in the UK and Ireland and the 988 Suicide & Crisis Lifeline in the US (call or text 988).
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -1160,7 +1160,7 @@ starter_structure:
                 4. A way to answer questions about how they died chosen.
 
                 ## Notes
-                If you have thoughts of ending your life, contact emergency services or a crisis line now. Many countries have a dedicated suicide bereavement support line and a free information pack for families.
+                If you have thoughts of ending your life, contact emergency services or a crisis line now. Many countries have a dedicated suicide bereavement support line and a free information pack for families. Crisis lines include Samaritans on 116 123 in the UK and Ireland and the 988 Suicide & Crisis Lifeline in the US (call or text 988).
               priority: high
               frontmatter:
                 mode: building

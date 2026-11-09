@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Ask the met service or the extension office for the station records; many will share monthly totals free. A simple plastic gauge on a post is enough.
+
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

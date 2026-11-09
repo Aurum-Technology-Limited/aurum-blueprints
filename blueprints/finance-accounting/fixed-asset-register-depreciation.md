@@ -4,7 +4,7 @@ name: Fixed Asset Register & Depreciation
 description: "A fixed asset register that agrees to the ledger, a written capitalisation policy, monthly depreciation, yearly counts and disposals handled properly, from one van to a multi-site estate."
 category: business
 version: 1.0.0
-tags: [finance-accounting, fixed-asset-register-depreciation, small-business, manager, enterprise, depreciation, capitalisation, asset-register]
+tags: [finance-accounting, fixed-asset-register-depreciation, small-business, manager, enterprise, depreciation, capitalisation, asset-register, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Capitalisation policy and threshold
               description: |-
                 ## Purpose
-                Without a written threshold, one person expenses a new laptop while another capitalises a desk chair, and the register fills with items nobody will ever count. A one-page policy setting the capitalisation threshold, the costs that go into an asset's value and the treatment of grouped purchases gives every coder and approver the same rule. Agree it with your accountant before the next year end so the accounts and the tax computation both start from it.
+                Without a written threshold, one person expenses a new laptop while another capitalises a desk chair, and the register fills with items nobody will ever count. A one-page policy setting the capitalisation threshold, the costs that go into an asset's value and the treatment of grouped purchases gives every coder and approver the same rule. Agree it with your accountant before the next year end so the accounts and the tax computation both start from it. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A capitalisation threshold set in your reporting currency and agreed with your accountant or auditor.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Pick a threshold high enough that the register stays manageable. Local practice and tax rules vary, so ask your accountant what businesses of your size usually use.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -1179,4 +1179,4 @@ starter_structure:
 
 This area is for anyone who owns or looks after the equipment, vehicles, fit-outs and property on a business balance sheet, from the owner with one van to the finance team running a register across several sites. It starts with the foundations (a capitalisation policy, asset classes and useful lives, the ledger accounts and a register agreed to the balance sheet), then the monthly and yearly routines, the technical skills behind capital and revenue calls, the decisions that tidy the register, the events that test it, the situations particular to small firms, managers and larger groups, and finally impairment, revaluation and other specialist work.
 
-What repeats is the monthly depreciation run, the register to ledger reconciliation and the sweep for missed capital items, quarterly checks on disposals, transfers and site confirmations, and a yearly physical verification, useful life review, insurance comparison and year-end roll-forward. The Month-end close, Operational checklist, Purchase decision and Remediation plan templates pair with the projects that name them. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is the monthly depreciation run, the register to ledger reconciliation and the sweep for missed capital items, quarterly checks on disposals, transfers and site confirmations, and a yearly physical verification, useful life review, insurance comparison and year-end roll-forward. The Month-end close, Operational checklist, Purchase decision and Remediation plan templates pair with the projects that name them. In a shared workspace, the asset accountant keeps the register, site and department managers confirm what they hold, and the financial controller and a qualified accountant sign off policy, impairment and tax treatment. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

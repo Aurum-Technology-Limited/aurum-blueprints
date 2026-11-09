@@ -113,6 +113,8 @@ starter_structure:
 
                 ## Notes
                 Examples include Switchboard in the UK or the Trevor Project for young people in the US; use whatever serves your country. In immediate danger, call your local emergency number first.
+
+                If a partner or family member is controlling, threatening or hurting you, a domestic abuse helpline can help: Galop's National LGBT+ Domestic Abuse Helpline (0800 999 5428) in the UK, or the National Domestic Violence Hotline (1-800-799-7233) in the US. For thoughts of harming yourself, call Samaritans on 116 123 (UK and Ireland) or 988 (US).
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

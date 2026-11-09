@@ -4,7 +4,7 @@ name: Customer Data Platform
 description: "A customer data platform that earns its licence: use cases first, a tracking plan and identity rules, consent that follows the profile, governed audiences and destinations, and measured personalisation."
 category: business
 version: 1.0.0
-tags: [data-analytics, customer-data-platform, team, enterprise, identity-resolution, segmentation, personalisation, consent]
+tags: [data-analytics, customer-data-platform, team, enterprise, identity-resolution, segmentation, personalisation, consent, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Customer data use case inventory
               description: |-
                 ## Purpose
-                Most CDP programmes that disappoint were bought for a capability rather than a problem, and end up as an expensive event pipe. Writing down the ten to twenty things marketing, product, service and analytics teams would do with unified profiles, each with an owner and a rough value, gives every later decision on vendors, identity and tracking something to be measured against.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most CDP programmes that disappoint were bought for a capability rather than a problem, and end up as an expensive event pipe. Writing down the ten to twenty things marketing, product, service and analytics teams would do with unified profiles, each with an owner and a rough value, gives every later decision on vendors, identity and tracking something to be measured against.
 
                 ## Milestones
                 1. At least ten use cases listed, each with a one-line description, a requesting team and the channel it acts in.

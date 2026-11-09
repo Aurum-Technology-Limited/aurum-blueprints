@@ -478,6 +478,8 @@ starter_structure:
 
                 ## Notes
                 If you feel afraid of someone, are being monitored, or feel unable to leave, contact a domestic abuse service. They help people at every stage, including those unsure whether what is happening counts.
+
+                If you feel afraid of a partner or family member, or someone is controlling, threatening or hurting you, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233).
               priority: high
               frontmatter:
                 mode: learning

@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 Most club deals that go wrong do so between the people, not in the building. Weigh the friendship as an asset you could lose.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -111,6 +111,7 @@ starter_structure:
 
                 ## Notes
                 A partner who needs the money back in two years will force a sale at the wrong time. Ask about time horizon directly.
+                Before approaching anyone, especially passive investors or people you do not know well, read the project on when a club stops being a private arrangement: inviting money from others can fall under securities or collective investment rules, so get a lawyer's view first.
               priority: high
               deadlineOffsetDays: 45
               frontmatter:
@@ -122,6 +123,7 @@ starter_structure:
               tasks:
                 - "List everyone you would consider and what each could contribute"
                 - "Write the five questions you will ask every candidate"
+                - "Ask a lawyer whether approaching these candidates could count as a regulated offering @priority(high)"
                 - "Hold a short one-to-one with each candidate on time horizon and capacity"
                 - "Pick the shortlist and check the total equity covers the deal plus reserve"
             - name: Partner expectations workshop

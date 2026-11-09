@@ -4,7 +4,7 @@ name: Strategy Execution Reviews
 description: "A register of every strategic initiative, status definitions people trust, a monthly review run by exception, quarterly reallocation of money and people, and the habits that catch stalled work early."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, strategy-execution-reviews, manager, enterprise, execution, initiative-portfolio, resource-reallocation, delivery-governance]
+tags: [strategy-leadership, strategy-execution-reviews, manager, enterprise, execution, initiative-portfolio, resource-reallocation, delivery-governance, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Single register of strategic initiatives in flight
               description: |-
                 ## Purpose
-                Most leadership teams cannot say, within a week of asking, how many strategic initiatives are running, who owns each one and what they cost. A single register with one row per initiative is the base every execution review stands on, and building it usually turns up duplicates, zombie projects and work nobody formally approved.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most leadership teams cannot say, within a week of asking, how many strategic initiatives are running, who owns each one and what they cost. A single register with one row per initiative is the base every execution review stands on, and building it usually turns up duplicates, zombie projects and work nobody formally approved.
 
                 ## Milestones
                 1. Every initiative above an agreed size threshold listed with sponsor, delivery lead, budget and start date.

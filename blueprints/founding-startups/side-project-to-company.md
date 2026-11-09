@@ -33,6 +33,9 @@ starter_structure:
                 2. The hours you spent on the project in the last four weeks estimated from your calendar and commit history.
                 3. The three things users most often praise or ask for written down in their own words.
                 4. A one-line verdict on what the project is today: hobby, side income or early company.
+
+                ## Notes
+                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice, and following it does not make anyone your lawyer. Rules differ between countries and change often, so check decisions that matter, and anything you sign, with a qualified lawyer or the official authority in the country concerned.
               priority: medium
               deadlineOffsetDays: 14
               frontmatter:

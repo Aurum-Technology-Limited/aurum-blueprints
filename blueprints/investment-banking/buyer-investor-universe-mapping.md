@@ -4,7 +4,7 @@ name: Buyer and Investor Universe Mapping
 description: "A buyer and investor universe built from clean data, every name scored on fit, appetite and capacity, conflicts cleared, and an approach order the client has signed off."
 category: business
 version: 1.0.0
-tags: [investment-banking, buyer-investor-universe-mapping, knowledge-worker, analyst, associate, m-and-a, buyer-lists, sponsors]
+tags: [investment-banking, buyer-investor-universe-mapping, knowledge-worker, analyst, associate, m-and-a, buyer-lists, sponsors, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -24,7 +24,7 @@ starter_structure:
             - name: Reading three buyer lists from closed deals
               description: |-
                 ## Purpose
-                Most groups have a house style for buyer lists that nobody writes down: how names are tiered, which columns matter and how much rationale a VP expects per buyer. Pulling the final buyer lists from three closed sale processes, and seeing which buyers actually bid, shows you what a good list looks like and how far the winner usually sat from the top of it.
+                Most groups have a house style for buyer lists that nobody writes down: how names are tiered, which columns matter and how much rationale a VP expects per buyer. Pulling the final buyer lists from three closed sale processes, and seeing which buyers actually bid, shows you what a good list looks like and how far the winner usually sat from the top of it. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Three closed sale processes chosen, each with its final buyer list and its bid summary located.
@@ -946,7 +946,7 @@ starter_structure:
                 - "Sort investors by typical ticket size and sector appetite"
                 - "Ask counsel about investor eligibility rules for the placement"
                 - "Agree a target list of fifteen to twenty-five names with the deal team"
-            - name: Your first buyer screen as an analyst
+            - name: A new analyst's first buyer screen
               description: |-
                 ## Purpose
                 First screens are usually handed over with a sentence and a deadline, and new analysts either return 600 raw rows or panic and stop at 40. Working through one screen end to end, from criteria to cleaned output with a cover note, with checkpoints where you show the associate your progress, builds the confidence to do the next one alone.

@@ -4,7 +4,7 @@ name: Build-to-Rent Development
 description: "Purpose-built rental housing from first thesis to a stabilised scheme: rent evidence, design for long-term letting, amenity and operating cost budgets, income-based appraisals and forward funding deals."
 category: business
 version: 1.0.0
-tags: [real-estate-development, build-to-rent-development, founder, small-business, build-to-rent, forward-funding, rental-housing, operating-costs]
+tags: [real-estate-development, build-to-rent-development, founder, small-business, build-to-rent, forward-funding, rental-housing, operating-costs, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Build-to-rent thesis for one target town
               description: |-
                 ## Purpose
-                Rental schemes succeed or fail on whether enough people in one place want to rent a well-run new home at a rent above the local average. Writing a one-page thesis for a single town, naming the renters, the employers, the transport links and the rent gap to existing stock, gives every later appraisal and funder conversation the same starting point. Do it before you spend money on a site.
+                Rental schemes succeed or fail on whether enough people in one place want to rent a well-run new home at a rent above the local average. Writing a one-page thesis for a single town, naming the renters, the employers, the transport links and the rent gap to existing stock, gives every later appraisal and funder conversation the same starting point. Do it before you spend money on a site. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. One target town or district named, with the reason it suits long-term renting.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Pick one town, not a region. Funders back specific locations they can visit, and a thesis spread across five towns is five guesses.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help your team organise its work. It is not legal advice, and following it does not make anyone your organisation's lawyer. Rules differ between countries and change often, so check decisions that matter, and anything your organisation signs, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -241,7 +241,7 @@ starter_structure:
                 - "Collect every unfamiliar term from one rental market report"
                 - "Write a one-sentence definition of each term in your own words"
                 - "Work gross to net and yield on cost on an example of 100 flats"
-                - "Ask the agent to test you on the glossary until you answer without notes"
+                - "Ask the agent to quiz each team member on the glossary until they answer without notes"
             - name: Monthly rental market tracker
               description: |-
                 ## Purpose
@@ -397,7 +397,7 @@ starter_structure:
                 - "Collect the latest annual rental market reports from two sources"
                 - "Compare yields, rents and build costs with last year's appraisal"
                 - "Run the yearly market and policy review of your thesis @recurring(yearly)"
-                - "Record whether you keep, adjust or change the thesis"
+                - "Development director records whether the team keeps, adjusts or changes the thesis"
             - name: Rent regulation and tenancy law watch
               description: |-
                 ## Purpose
@@ -467,7 +467,7 @@ starter_structure:
                 - "Ask your solicitor for an anonymised forward funding agreement to study"
                 - "Summarise how and when the developer's profit is paid"
                 - "Write plain-language notes on overrun, delay and income guarantee clauses"
-                - "Agree the five clauses that matter most with your solicitor"
+                - "Development director agrees the five clauses that matter most with the solicitor"
             - name: Gross-to-net modelling practice
               description: |-
                 ## Purpose
@@ -581,7 +581,7 @@ starter_structure:
                 - "Describe in-house, third-party and white-label operation on one page"
                 - "Ask two operators how they structure management fees"
                 - "Ask a funder which model they prefer for a scheme your size"
-                - "Record your preferred model and the reason"
+                - "Record the team's preferred model and the reason"
             - name: Tenancy law basics for long-term letting
               description: |-
                 ## Purpose
@@ -707,7 +707,7 @@ starter_structure:
                 - "Describe the three routes in a table of cash, risk and profit timing"
                 - "Calculate profit, equity and peak debt under each route"
                 - "Discuss the shortlisted route with your solicitor and accountant"
-                - "Record the chosen route and what would change your mind"
+                - "Board or investment committee records the chosen route and what would change it"
             - name: Durable specification for rental fit-out
               description: |-
                 ## Purpose
@@ -866,7 +866,7 @@ starter_structure:
                 effort_hours_estimate: "15"
               tasks:
                 - "Draft the fifteen-page pitch pack from the appraisal and demand pack"
-                - "Walk the tour route yourself and time it"
+                - "Development manager walks the tour route and times it"
                 - "Write answers to the ten hardest questions on rents and costs"
                 - "Send promised figures to the funder within two working days of the visit"
             - name: Forward funding deal to signing
@@ -1174,7 +1174,7 @@ starter_structure:
                 success_criteria: "Ten-year income and value under three inflation scenarios, with rents limited by your review policy and any legal caps."
                 cadence: rolling
               tasks:
-                - "Write down your rent review policy and any legal caps"
+                - "Asset manager writes the rent review policy and any legal caps, checked by the solicitor"
                 - "Set low, central and high inflation for rents and for costs"
                 - "Log the latest consumer price index figure beside the scenarios @recurring(monthly:19)"
                 - "Model ten-year net income and value under each scenario"

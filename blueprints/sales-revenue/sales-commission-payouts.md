@@ -4,7 +4,7 @@ name: Sales Commission Tracking & Payouts
 description: "Effective-dated rates, a calculation anyone can trace, monthly reconciliation, clear statements, clean payroll handoffs, clawbacks and a fair dispute process, so every seller is paid the right commission on time."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-commission-payouts, manager, small-business, team, commissions, payroll, sales-operations]
+tags: [sales-revenue, sales-commission-payouts, manager, small-business, team, commissions, payroll, sales-operations, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Commission process map with named owners
               description: |-
                 ## Purpose
-                Commission often gets paid through a chain of favours: a sales manager exports deals, someone in finance types numbers into a spreadsheet and payroll pays whatever arrives. Mapping each step from closed deal to money in the rep's account, with one named owner and one backup per step, shows where errors creep in and who fixes them when the person who knows the spreadsheet is on holiday.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Commission often gets paid through a chain of favours: a sales manager exports deals, someone in finance types numbers into a spreadsheet and payroll pays whatever arrives. Mapping each step from closed deal to money in the rep's account, with one named owner and one backup per step, shows where errors creep in and who fixes them when the person who knows the spreadsheet is on holiday.
 
                 ## Milestones
                 1. A one-page flow from closed-won deal to payslip, with every handoff shown.

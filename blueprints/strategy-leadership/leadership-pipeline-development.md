@@ -4,7 +4,7 @@ name: Leadership Pipeline Development
 description: "A leadership bench you can see and grow: critical roles, a capability framework, talent reviews and calibration, stretch roles, mentoring and cohort programmes that turn promising people into ready leaders."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, leadership-pipeline-development, manager, enterprise, talent-review, high-potential, mentoring, stretch-assignments]
+tags: [strategy-leadership, leadership-pipeline-development, manager, enterprise, talent-review, high-potential, mentoring, stretch-assignments, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Leadership pipeline current-state audit
               description: |-
                 ## Purpose
-                Before designing anything, find out where future leaders actually come from today: how many leadership vacancies were filled internally last year, how long they stayed open, and how many new managers failed within eighteen months. A two-week audit built from HR data and a dozen interviews replaces impressions with numbers and shows which level of the pipeline leaks most.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before designing anything, find out where future leaders actually come from today: how many leadership vacancies were filled internally last year, how long they stayed open, and how many new managers failed within eighteen months. A two-week audit built from HR data and a dozen interviews replaces impressions with numbers and shows which level of the pipeline leaks most.
 
                 ## Milestones
                 1. Internal versus external fill rates for every leadership vacancy in the last two years, split by level.

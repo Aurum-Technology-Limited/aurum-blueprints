@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Start from the **Metrics log** template. Keep each entry under two minutes or the diary will not survive the first week.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -209,7 +209,7 @@ starter_structure:
                 4. A decision written down: keep, adjust, or move to a dietitian-led approach.
 
                 ## Notes
-                Change one or two things at a time. Changing everything at once makes it impossible to tell what helped.
+                Change one or two things at a time. Changing everything at once makes it impossible to tell what helped. If you have ever had an eating disorder or disordered eating, talk to your doctor before cutting out foods, and stop if food rules or tracking start to feel distressing. Your national eating disorder charity (such as Beat in the UK) can help.
               priority: medium
               deadlineOffsetDays: 42
               frontmatter:
@@ -516,6 +516,9 @@ starter_structure:
                 2. The three phases of elimination, reintroduction and personalisation understood.
                 3. A reputable FODMAP food app or guide chosen.
                 4. Your clinician or a dietitian asked whether the diet suits you.
+
+                ## Notes
+                If you have ever had an eating disorder or disordered eating, talk to your doctor before cutting out foods, and stop if food rules or tracking start to feel distressing. Your national eating disorder charity (such as Beat in the UK) can help.
               priority: medium
               frontmatter:
                 mode: learning

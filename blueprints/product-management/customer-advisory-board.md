@@ -4,7 +4,7 @@ name: Customer Advisory Board
 description: "A customer advisory board that earns its keep: charter, sponsor and member selection, agreements, quarterly sessions with pre-reads, closing the loop with members, and measuring what the board actually changed."
 category: business
 version: 1.0.0
-tags: [product-management, customer-advisory-board, manager, founder, enterprise, advisory-board, strategic-customers, executive-relationships]
+tags: [product-management, customer-advisory-board, manager, founder, enterprise, advisory-board, strategic-customers, executive-relationships, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Advisory board charter and purpose statement
               description: |-
                 ## Purpose
-                Without a written charter, an advisory board drifts into either a sales showcase or a complaints desk, and members stop clearing their diaries. A one-page charter states what the board exists to advise on, what it does not decide, how often it meets and what members get in return, so every later invitation and agenda has something to point back to.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Without a written charter, an advisory board drifts into either a sales showcase or a complaints desk, and members stop clearing their diaries. A one-page charter states what the board exists to advise on, what it does not decide, how often it meets and what members get in return, so every later invitation and agenda has something to point back to.
 
                 ## Milestones
                 1. A one-page charter naming the board's purpose, the three to five topics it advises on and the topics it never covers.

@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Start from the **Metrics log** template. Scoring each symptom from 0 to 3 is quicker than writing notes and far easier to compare later.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 60
               frontmatter:
@@ -443,7 +443,7 @@ starter_structure:
                 4. A plan in place for who you would contact if mood dropped sharply.
 
                 ## Notes
-                If you have thoughts of harming yourself, contact your doctor, an urgent mental health line or emergency services the same day.
+                If you have thoughts of harming yourself or feel unable to keep yourself safe, call your local emergency number or a crisis line straight away, such as Samaritans on 116 123 in the UK and Ireland or 988 in the US.
               priority: medium
               frontmatter:
                 mode: operating

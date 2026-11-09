@@ -4,7 +4,7 @@ name: Office and Retail Leasing
 description: "Leasing office and retail space as a landlord: vacant units marketed well, heads of terms you can defend, incentives priced as net effective rent, a tenant mix that works and renewals agreed before they become breaks."
 category: business
 version: 1.0.0
-tags: [real-estate-development, office-and-retail-leasing, small-business, knowledge-worker, heads-of-terms, lease-incentives, tenant-mix, lease-renewals]
+tags: [real-estate-development, office-and-retail-leasing, small-business, knowledge-worker, heads-of-terms, lease-incentives, tenant-mix, lease-renewals, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Vacancy and lease event schedule for your buildings
               description: |-
                 ## Purpose
-                Every leasing decision starts from one list: which units are empty, which leases expire or can be broken in the next three years, and when each rent review falls. Most small landlords keep this in their head or across several lease files, and miss a break notice window or a review date as a result. One schedule, checked against the actual leases, turns surprises into a plan.
+                Every leasing decision starts from one list: which units are empty, which leases expire or can be broken in the next three years, and when each rent review falls. Most small landlords keep this in their head or across several lease files, and miss a break notice window or a review date as a result. One schedule, checked against the actual leases, turns surprises into a plan. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every unit listed with its size, current tenant, passing rent and lease start and end dates.
@@ -38,7 +38,7 @@ starter_structure:
                 ## Notes
                 Read the break clause itself for each lease. Conditions such as vacant possession or rent paid up to date change how likely a break is to be valid, and your solicitor should confirm the dates.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help your team organise its work. It is not legal advice, and following it does not make anyone your organisation's lawyer. Rules differ between countries and change often, so check decisions that matter, and anything your organisation signs, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -562,7 +562,7 @@ starter_structure:
               tasks:
                 - "Write a vetting checklist for prospective tenants"
                 - "Pull filed accounts and a credit report for two recent tenants"
-                - "Set thresholds for asking for a deposit or a guarantee"
+                - "Asset manager sets thresholds for asking for a deposit or a guarantee"
                 - "Add the vetting step before heads of terms are signed"
             - name: Category A and Category B office fit-out explained
               description: |-
@@ -766,8 +766,8 @@ starter_structure:
                 effort_hours_estimate: "3"
               tasks:
                 - "Ask the agent what security packages are usual locally"
-                - "Set deposit and guarantee levels for each covenant band"
-                - "Agree with your solicitor how deposits are held and released"
+                - "Leasing manager sets deposit and guarantee levels for each covenant band"
+                - "Solicitor confirms how rent deposits are held and released under local law"
                 - "Add the policy to the heads of terms template"
             - name: Amenity offer that wins office occupiers
               description: |-

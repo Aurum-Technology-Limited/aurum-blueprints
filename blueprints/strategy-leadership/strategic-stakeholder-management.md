@@ -4,7 +4,7 @@ name: Strategic Stakeholder Management
 description: "Know whose support your strategy depends on: a living stakeholder map, named relationship owners, engagement plans and commitments kept, and the skills to bring sceptics, regulators, funders and partners along."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, strategic-stakeholder-management, manager, enterprise, nonprofit, stakeholder-mapping, stakeholder-engagement, government-relations]
+tags: [strategy-leadership, strategic-stakeholder-management, manager, enterprise, nonprofit, stakeholder-mapping, stakeholder-engagement, government-relations, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Strategy dependencies on outside support
               description: |-
                 ## Purpose
-                Every strategy rests on a handful of yeses that the organisation cannot give itself: a licence renewed, a funder's second grant, a partner's channel, a union's agreement to new shifts. Going through the strategy choice by choice and writing down whose support each one needs turns stakeholder work from general goodwill into a list tied to what the plan must deliver.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Every strategy rests on a handful of yeses that the organisation cannot give itself: a licence renewed, a funder's second grant, a partner's channel, a union's agreement to new shifts. Going through the strategy choice by choice and writing down whose support each one needs turns stakeholder work from general goodwill into a list tied to what the plan must deliver.
 
                 ## Milestones
                 1. Each major strategic choice listed with the outside or internal approvals and support it relies on.

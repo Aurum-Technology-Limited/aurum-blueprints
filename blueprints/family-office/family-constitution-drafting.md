@@ -4,7 +4,7 @@ name: Family Constitution Drafting
 description: "A family constitution drafted, agreed and kept alive: a drafting group and adviser, member interviews, the values, ownership, roles, disputes and amendment chapters, ratification and a regular review."
 category: personal
 version: 1.0.0
-tags: [family-office, family-constitution-drafting, parent, retiree, family-charter, family-values, succession, governance-documents]
+tags: [family-office, family-constitution-drafting, parent, retiree, family-charter, family-values, succession, governance-documents, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -24,7 +24,7 @@ starter_structure:
             - name: Deciding whether the family is ready for a constitution
               description: |-
                 ## Purpose
-                Families usually reach for a constitution after a trigger: a founder turning seventy, a grandchild marrying, a sale of the business or a row about who gets a board seat. Before anyone writes a word, an honest look at what problem the document should solve, and whether the key people are willing, saves a year of drafting a text nobody wants to sign.
+                Families usually reach for a constitution after a trigger: a founder turning seventy, a grandchild marrying, a sale of the business or a row about who gets a board seat. Before anyone writes a word, an honest look at what problem the document should solve, and whether the key people are willing, saves a year of drafting a text nobody wants to sign. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The two or three events or tensions prompting the idea written down in plain words.
@@ -34,6 +34,8 @@ starter_structure:
 
                 ## Notes
                 A constitution does not fix a live dispute. If two branches are not speaking, deal with the conflict first and come back to drafting afterwards.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

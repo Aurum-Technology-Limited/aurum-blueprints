@@ -4,7 +4,7 @@ name: Off-Plan and Development Sales
 description: "Selling the homes in your scheme on purpose: a sales strategy and price list, an agent on clear terms, reservations and deposits handled properly, weekly progression, show units, launch events and a calm completion and keys day."
 category: business
 version: 1.0.0
-tags: [real-estate-development, off-plan-and-development-sales, founder, small-business, new-homes-sales, pricing, reservations, sales-progression]
+tags: [real-estate-development, off-plan-and-development-sales, founder, small-business, new-homes-sales, pricing, reservations, sales-progression, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Sales strategy and route to market for the scheme
               description: |-
                 ## Purpose
-                Every later sales choice, from the agent to the launch date, depends on a few early answers: who the buyers are, whether to sell off-plan or at completion, how many sales the lender needs and what share of GDV you can spend selling. Writing a two-page sales strategy before the first enquiry means the agent, the lender and your partners all work to the same plan. Revisit it at each funding or market change.
+                Every later sales choice, from the agent to the launch date, depends on a few early answers: who the buyers are, whether to sell off-plan or at completion, how many sales the lender needs and what share of GDV you can spend selling. Writing a two-page sales strategy before the first enquiry means the agent, the lender and your partners all work to the same plan. Revisit it at each funding or market change. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Target buyer groups named, with the share of units each is expected to take.
@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 Write the reasons down. When the market turns, the first question from partners is why you chose that route, and a dated note answers it.
 
-                Before you start: this plan is general information to help you organise your own affairs. It is not legal advice. Rules differ between countries and change often, so check decisions that matter with a qualified lawyer or the official authority in the country concerned.
+                Before you start: this plan is general information to help your team organise its work. It is not legal advice, and following it does not make anyone your organisation's lawyer. Rules differ between countries and change often, so check decisions that matter, and anything your organisation signs, with a qualified lawyer or the official authority in the country concerned.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -171,7 +171,7 @@ starter_structure:
                 - "Ask your solicitor for their list of documents a new-build sales pack needs"
                 - "Gather plans, specification, planning consent and warranty details"
                 - "Check plot plans and parking against the sales schedule"
-                - "Approve the draft contract and pack with your solicitor"
+                - "Sales director approves the draft contract and pack with the solicitor"
             - name: Reservation form and deposit handling process
               description: |-
                 ## Purpose
@@ -192,7 +192,7 @@ starter_structure:
                 effort_hours_estimate: "4"
               tasks:
                 - "Ask your solicitor to approve the reservation form wording"
-                - "Confirm in writing which account receives fees and deposits"
+                - "Solicitor confirms in writing which protected account receives fees and deposits"
                 - "Write the agent's steps from reservation to sales pack issue"
                 - "Create the receipt buyers get on the day money arrives"
             - name: Buyer identity and source of funds checks
@@ -214,7 +214,7 @@ starter_structure:
                 cadence: one-shot
                 effort_hours_estimate: "3"
               tasks:
-                - "Ask the agent and solicitor which checks each of them carries out"
+                - "Sales director asks the agent and solicitor which checks each carries out under local AML law"
                 - "Agree the document list buyers receive at reservation"
                 - "Add a checks completed column to the sales progression tracker"
                 - "Write the rule for pausing a sale when checks stall"
@@ -395,7 +395,7 @@ starter_structure:
                 ## Milestones
                 1. A ledger listing each buyer's fees and deposits, amounts, dates and holding account.
                 2. Monthly reconciliation to bank and solicitor client account statements.
-                3. Any money released to the developer matched to the contract term that allows it.
+                3. Any money released to the developer matched to the contract term that allows it and confirmed by the solicitor as permitted by local deposit law.
                 4. Refunds on cancelled reservations recorded with dates.
               priority: high
               frontmatter:
@@ -1002,7 +1002,7 @@ starter_structure:
               tasks:
                 - "Test a live video walkthrough of the show unit or plans"
                 - "Agree overseas buyer checks with your solicitor"
-                - "Write the route for international deposit payments"
+                - "Solicitor confirms the route for international deposit payments into the holding account"
                 - "Prepare an information note for overseas buyers"
             - name: Selling through a slow or falling market
               description: |-

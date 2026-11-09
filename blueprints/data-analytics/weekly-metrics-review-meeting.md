@@ -4,7 +4,7 @@ name: Weekly Metrics Review Meeting
 description: "A weekly metrics review leaders actually use: a written purpose, a fixed deck and agenda, owner commentary before the meeting, an action log that closes, and formats for small businesses, frontline teams and growing companies."
 category: business
 version: 1.0.0
-tags: [data-analytics, weekly-metrics-review-meeting, manager, team, small-business, weekly-business-review, meeting-cadence, action-log]
+tags: [data-analytics, weekly-metrics-review-meeting, manager, team, small-business, weekly-business-review, meeting-cadence, action-log, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Written purpose for the weekly metrics review
               description: |-
                 ## Purpose
-                Most weekly metrics meetings drift into status updates because nobody ever wrote down what they are for. A three-sentence purpose that names the decisions the meeting exists to make, the people it serves and what it is not for gives the chair something to point at when the agenda starts to sprawl.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most weekly metrics meetings drift into status updates because nobody ever wrote down what they are for. A three-sentence purpose that names the decisions the meeting exists to make, the people it serves and what it is not for gives the chair something to point at when the agenda starts to sprawl.
 
                 ## Milestones
                 1. A purpose of no more than three sentences naming the decisions the review exists to make.

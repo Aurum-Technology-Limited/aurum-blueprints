@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 Start from the **Metrics log** template. Write entries once you have cooled down, not in the heat of the moment, and log near misses as well as outbursts.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -185,7 +185,7 @@ starter_structure:
                 4. A doctor, counsellor or specialist programme contacted if anyone at home is afraid of you.
 
                 ## Notes
-                If someone at home is frightened of you, a specialist behaviour change programme is usually the right route, and joint couples counselling is generally not advised until safety is established. If you think you may seriously hurt someone, call your emergency number now.
+                If someone at home is frightened of you, a specialist behaviour change programme is usually the right route, and joint couples counselling is generally not advised until safety is established. If you think you may seriously hurt someone, call your emergency number now. In the UK, the Respect Phoneline (0808 802 4040) supports people worried about their own behaviour towards a partner; if you are on the receiving end of abuse, use a domestic abuse helpline such as the National Domestic Abuse Helpline (0808 2000 247) in the UK or the National Domestic Violence Hotline (1-800-799-7233) in the US.
               priority: high
               deadlineOffsetDays: 7
               frontmatter:
@@ -843,7 +843,7 @@ starter_structure:
             - name: Preparing for a hard conversation you know is coming
               description: |-
                 ## Purpose
-                Some conversations are guaranteed to provoke you: a pay dispute, a talk with an ex about money, a sibling about a parent's care. Preparing the three points you need to make, the lines that usually set you off and your exit plan means you walk in at three out of ten instead of seven.
+                Some conversations are almost certain to provoke you: a pay dispute, a talk with an ex about money, a sibling about a parent's care. Preparing the three points you need to make, the lines that usually set you off and your exit plan means you walk in at three out of ten instead of seven.
 
                 ## Milestones
                 1. The goal of the conversation written in one sentence.
@@ -1019,6 +1019,9 @@ starter_structure:
                 2. A message rule set: brief, informative, friendly and firm.
                 3. A handover routine agreed that keeps adult discussion out of the children's earshot.
                 4. Two months without a raised voice at a handover.
+
+                ## Notes
+                If you feel afraid of a partner or family member, or someone is controlling, threatening or hurting you, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233).
               priority: medium
               frontmatter:
                 mode: building

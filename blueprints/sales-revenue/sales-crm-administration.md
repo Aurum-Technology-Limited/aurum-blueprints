@@ -4,7 +4,7 @@ name: Sales CRM Administration
 description: "Deal stages with exit criteria, stage-gated required fields, permissions, duplicate cleanup, backups and reports reps trust, plus the routines that keep a sales CRM clean."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-crm-administration, small-business, team, manager, crm, data-quality, sales-operations]
+tags: [sales-revenue, sales-crm-administration, small-business, team, manager, crm, data-quality, sales-operations, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: CRM health audit and baseline
               description: |-
                 ## Purpose
-                Before changing anything, measure what the CRM holds today: how many open deals have a close date in the past, how many contacts lack an email or company, how many duplicate accounts exist and how many users logged in last month. A one-page baseline turns the vague complaint that the CRM is a mess into five numbers you can improve and report on.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Before changing anything, measure what the CRM holds today: how many open deals have a close date in the past, how many contacts lack an email or company, how many duplicate accounts exist and how many users logged in last month. A one-page baseline turns the vague complaint that the CRM is a mess into five numbers you can improve and report on.
 
                 ## Milestones
                 1. Counts recorded for open deals with past close dates, deals with no activity in 30 days and records missing key fields.

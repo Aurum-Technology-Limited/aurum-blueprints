@@ -35,7 +35,7 @@ starter_structure:
                 ## Notes
                 Start from the **Purchase decision** template. If the budget only stretches to one blade, a 15 cm semi-flexible boning knife handles both meat and medium-sized fish.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -807,6 +807,8 @@ starter_structure:
 
                 ## Notes
                 Use your own food safety agency's figures. Mince and poultry are treated differently from whole steaks because bacteria can be spread right through the meat, not only on the surface.
+
+                Pink or rare whole-muscle cuts are a choice for healthy adults only. For anyone pregnant, young children, older people or anyone with a weakened immune system, follow your food safety agency's advice for those groups (UK NHS advice in pregnancy is to cook all meat thoroughly until steaming hot with no pink or blood), and always cook burgers, sausages and mince right through.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:

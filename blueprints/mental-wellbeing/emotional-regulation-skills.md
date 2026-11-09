@@ -37,7 +37,7 @@ starter_structure:
                 ## Notes
                 A questionnaire is a mirror, not a diagnosis. If your scores worry you, take them to your doctor or a therapist rather than interpreting them alone.
 
-                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice and does not replace a doctor, therapist or counsellor. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -231,7 +231,7 @@ starter_structure:
                 4. One trusted person told where to find this note.
 
                 ## Notes
-                If you are thinking about harming yourself or feel unsafe right now, contact your emergency number or a crisis line today. A full crisis safety plan deserves its own careful attention, ideally with support.
+                If you are thinking about harming yourself or feel unsafe right now, contact your emergency number or a crisis line today. Crisis lines include Samaritans on 116 123 in the UK and Ireland and the 988 Suicide & Crisis Lifeline in the US (call or text 988). A full crisis safety plan deserves its own careful attention, ideally with support.
               priority: high
               deadlineOffsetDays: 10
               frontmatter:

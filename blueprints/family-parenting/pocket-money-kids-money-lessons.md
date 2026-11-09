@@ -1173,7 +1173,7 @@ starter_structure:
                 4. The yearly statement read together with your teen.
 
                 ## Notes
-                This is organisational, not investment advice. For decisions about what to invest in, read independent government or regulator guidance or speak to a regulated financial adviser.
+                This is organisational, not investment advice. The value of investments can fall as well as rise, so a child may get back less than was put in. For decisions about what to invest in, read independent government or regulator guidance or speak to a regulated financial adviser.
               priority: low
               frontmatter:
                 mode: research

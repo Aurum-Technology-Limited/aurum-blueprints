@@ -4,7 +4,7 @@ name: KPI Metric Definitions
 description: "An inventory of the metrics in circulation, one definition standard and dictionary, named owners and sources, change control, reconciliation and the hard cases of customers, revenue, churn and active users."
 category: business
 version: 1.0.0
-tags: [data-analytics, kpi-metric-definitions, knowledge-worker, manager, team, metric-dictionary, semantic-layer, reporting]
+tags: [data-analytics, kpi-metric-definitions, knowledge-worker, manager, team, metric-dictionary, semantic-layer, reporting, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Inventory of every KPI currently reported
               description: |-
                 ## Purpose
-                Most teams that argue about numbers have never seen the full list of metrics in circulation. Pulling every recurring KPI from the board pack, the leadership dashboard, team decks and standing spreadsheets into one sheet, with where each appears and who produces it, exposes the duplicates behind the disagreements. Expect two or three versions of revenue, customers and active users in an organisation of any size.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most teams that argue about numbers have never seen the full list of metrics in circulation. Pulling every recurring KPI from the board pack, the leadership dashboard, team decks and standing spreadsheets into one sheet, with where each appears and who produces it, exposes the duplicates behind the disagreements. Expect two or three versions of revenue, customers and active users in an organisation of any size.
 
                 ## Milestones
                 1. A sheet listing every recurring KPI with its name, the report it appears in and the person who produces it.

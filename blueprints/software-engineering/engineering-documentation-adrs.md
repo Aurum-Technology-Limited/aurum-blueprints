@@ -4,7 +4,7 @@ name: Engineering Documentation & ADRs
 description: "An ADR habit, design document and README standards, runbooks people can follow, and the review rhythms that keep engineering knowledge current after people move on or forget."
 category: business
 version: 1.0.0
-tags: [software-engineering, engineering-documentation-adrs, engineer, team, architecture-decision-records, design-docs, runbooks, docs-as-code]
+tags: [software-engineering, engineering-documentation-adrs, engineer, team, architecture-decision-records, design-docs, runbooks, docs-as-code, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: Documentation inventory and ownership map
               description: |-
                 ## Purpose
-                Most teams have docs scattered across a wiki, repository READMEs, shared drives and chat threads, and nobody can say which ones are current. A single spreadsheet listing every significant document, where it lives, who owns it and when it was last touched shows where the real gaps are before anyone writes a new page.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most teams have docs scattered across a wiki, repository READMEs, shared drives and chat threads, and nobody can say which ones are current. A single spreadsheet listing every significant document, where it lives, who owns it and when it was last touched shows where the real gaps are before anyone writes a new page.
 
                 ## Milestones
                 1. Every repository, wiki space and shared folder holding engineering docs listed in one sheet.

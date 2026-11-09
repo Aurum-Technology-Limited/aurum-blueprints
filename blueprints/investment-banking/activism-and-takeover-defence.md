@@ -4,7 +4,7 @@ name: Activism and Takeover Defence
 description: "Defence advisory from the banker's seat: vulnerability analysis, stock watch, governance and rules inventories, shareholder engagement, the engage, settle or fight call, proxy contests and responses to unsolicited bids."
 category: business
 version: 1.0.0
-tags: [investment-banking, activism-and-takeover-defence, knowledge-worker, shareholder-activism, takeover-defence, proxy-contest, hostile-bid, board-advisory]
+tags: [investment-banking, activism-and-takeover-defence, knowledge-worker, shareholder-activism, takeover-defence, proxy-contest, hostile-bid, board-advisory, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Anatomy of an activist campaign and its escalation ladder
               description: |-
                 ## Purpose
-                Most activist campaigns follow a recognisable ladder: a quiet stake, a private letter, a public letter or white paper, a nomination notice, a proxy contest and, often, a settlement before the vote. Juniors who know the rungs can tell a board where it stands and what usually comes next, which is the first question every chair asks. Learning the pattern from public campaigns takes a fortnight of reading and pays off on every mandate.
+                Most activist campaigns follow a recognisable ladder: a quiet stake, a private letter, a public letter or white paper, a nomination notice, a proxy contest and, often, a settlement before the vote. Juniors who know the rungs can tell a board where it stands and what usually comes next, which is the first question every chair asks. Learning the pattern from public campaigns takes a fortnight of reading and pays off on every mandate. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A one-page ladder of the usual campaign stages, from first stake to settlement or vote, with typical gaps between them.
@@ -1234,4 +1234,4 @@ starter_structure:
 
 This area is for bankers who advise boards facing activist investors or unsolicited bids: analysts building the vulnerability and vote analysis, associates and VPs running the defence workstream, and senior bankers who sit with the chair when the letter arrives. It starts with foundations (how campaigns and hostile bids work, the shareholder register, the governance and takeover rules inventory, a vulnerability assessment and a day-one protocol), moves to the preparedness routines and the analytical skills behind a defence, then the big decisions on engaging, settling or fighting, the dated events from a stake disclosure to the meeting vote, variants for each seat on the team and the activist side, and finally specialist work on short attacks, universal proxy contests, governance and sustainability-led campaigns, takeover code timetables and creeping control.
 
-What repeats is a weekly trading and filings review, a monthly activist tracker and peer return check, a daily war room rhythm during a live campaign, quarterly preparedness updates for the board and engagement rounds with top holders, and yearly refreshes of the governance inventory, the rules summary and proxy adviser policies. The Risk register, Operational checklist, Reading queue, Meeting notes, Vendor and Board meeting templates pair with the projects that name them. Client data and inside information stay on the bank's systems under its wall-crossing rules; these projects hold your own method, checklists and public material, and legal, disclosure and regulatory calls go to counsel and compliance. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+What repeats is a weekly trading and filings review, a monthly activist tracker and peer return check, a daily war room rhythm during a live campaign, quarterly preparedness updates for the board and engagement rounds with top holders, and yearly refreshes of the governance inventory, the rules summary and proxy adviser policies. The Risk register, Operational checklist, Reading queue, Meeting notes, Vendor and Board meeting templates pair with the projects that name them. Client data and inside information stay on the bank's systems under its wall-crossing rules; these projects hold the team's method, checklists and public material, and legal, disclosure and regulatory calls go to counsel and compliance. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

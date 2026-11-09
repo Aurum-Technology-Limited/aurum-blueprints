@@ -238,6 +238,8 @@ starter_structure:
 
                 ## Notes
                 Do this privately, on a device your partner does not use. If anything on the checklist applies, the Leaving an Unhealthy Relationship area and a specialist support service are the right starting point, and couples counselling is usually not advised while abuse is present.
+
+                If you feel afraid of a partner or family member, or someone is controlling, threatening or hurting you, contact your local emergency number if you are in danger, or a domestic abuse helpline (for example the National Domestic Abuse Helpline in the UK on 0808 2000 247, or the National Domestic Violence Hotline in the US on 1-800-799-7233).
               priority: high
               deadlineOffsetDays: 7
               frontmatter:

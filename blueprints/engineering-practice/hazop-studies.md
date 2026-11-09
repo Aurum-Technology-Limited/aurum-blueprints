@@ -4,7 +4,7 @@ name: HAZOP Studies
 description: "Everything a HAZOP needs from one engineer: a clear scope, sound nodes and design intent, a well run session, worksheets that stand up to audit, and actions closed out with named owners and evidence."
 category: business
 version: 1.0.0
-tags: [engineering-practice, hazop-studies, engineer, process-safety, hazop, hazard-analysis, p-and-id, action-close-out]
+tags: [engineering-practice, hazop-studies, engineer, process-safety, hazop, hazard-analysis, p-and-id, action-close-out, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -26,7 +26,7 @@ starter_structure:
             - name: HAZOP method grounding from IEC 61882
               description: |-
                 ## Purpose
-                People sit in HAZOPs for years without reading how the method is meant to work, and it shows in vague deviations and safeguards that are really just hopes. Working through the application guide in IEC 61882 and the hazard evaluation guidance from CCPS gives you the shared vocabulary of nodes, design intent, guidewords, parameters, deviations, causes, consequences and safeguards that every later project relies on.
+                People sit in HAZOPs for years without reading how the method is meant to work, and it shows in vague deviations and safeguards that are really just hopes. Working through the application guide in IEC 61882 and the hazard evaluation guidance from CCPS gives you the shared vocabulary of nodes, design intent, guidewords, parameters, deviations, causes, consequences and safeguards that every later project relies on. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The structure of a HAZOP study, from definition through examination to documentation and follow-up, summarised on one page.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Your company procedure overrides the textbook on details such as risk ranking and recording format. Read both, and note where they differ.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               frontmatter:
                 mode: learning

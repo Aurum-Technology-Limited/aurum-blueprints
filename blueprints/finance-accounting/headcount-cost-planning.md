@@ -4,7 +4,7 @@ name: Headcount Cost Planning
 description: "A position-level model of what your people really cost, with employer taxes, benefits and per-head costs, a hiring plan tied to budget and runway, and the monthly checks that keep it matched to payroll."
 category: business
 version: 1.0.0
-tags: [finance-accounting, headcount-cost-planning, manager, founder, enterprise, workforce-planning, hiring-plan, people-costs]
+tags: [finance-accounting, headcount-cost-planning, manager, founder, enterprise, workforce-planning, hiring-plan, people-costs, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -24,7 +24,7 @@ starter_structure:
             - name: Current headcount roster matched to payroll and HR
               description: |-
                 ## Purpose
-                Before any hiring plan can be costed, finance, HR and payroll need to agree on who is actually employed today, on what hours and at what pay. First attempts usually find two or three mismatches: a leaver still on the HR system, a part-timer recorded as full time, a fixed-term contract nobody listed. Matching the sources once gives every later number a trustworthy starting point.
+                Before any hiring plan can be costed, finance, HR and payroll need to agree on who is actually employed today, on what hours and at what pay. First attempts usually find two or three mismatches: a leaver still on the HR system, a part-timer recorded as full time, a fixed-term contract nobody listed. Matching the sources once gives every later number a trustworthy starting point. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. A list of every current employee exported from the HR system and from the latest payroll run.
@@ -35,7 +35,7 @@ starter_structure:
                 ## Notes
                 Match on employee numbers rather than names; duplicates and spelling differences hide mismatches.
 
-                Before you start: this plan is general information to help you organise your own money decisions. It is not financial, investment, tax or legal advice. Check decisions that matter with a qualified, licensed adviser in your country, and remember that investing and trading can lose money.
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -1194,4 +1194,4 @@ starter_structure:
 
 Headcount cost planning answers two questions finance is asked every week: what do our people really cost, and what will the next hires do to the budget and the runway? It starts with foundations (a roster matched to payroll, employer on-cost rates, per-head costs and a position-level model), moves through the routines that keep the plan matched to reality, then the skills, decisions and dated submissions, versions for founders, department managers and large organisations, and finally specialist work such as driver ratios, capitalised labour and long-range workforce models.
 
-The rhythm is a weekly recruiting and approvals check, a monthly reconciliation to payroll with a runway check, leaver tracking and a people cost pack, a quarterly plan refresh and access review, and yearly updates for statutory rates, salary bands, benefits renewals and the pay review. The Metrics log, Purchase decision and Board meeting templates pair with the monthly reconciliation, the planning tool choice and the board paper. Installing adds all 50 projects as active, so archive the ones that are not for you yet.
+The rhythm is a weekly recruiting and approvals check, a monthly reconciliation to payroll with a runway check, leaver tracking and a people cost pack, a quarterly plan refresh and access review, and yearly updates for statutory rates, salary bands, benefits renewals and the pay review. The Metrics log, Purchase decision and Board meeting templates pair with the monthly reconciliation, the planning tool choice and the board paper. In a shared workspace, finance owns the model, HR owns the roster and hiring plan, department heads own their requests and the CFO approves changes, with employer rates confirmed by the payroll provider or a qualified adviser in each country. Installing adds all 50 projects as active, so archive the ones that are not for you yet.

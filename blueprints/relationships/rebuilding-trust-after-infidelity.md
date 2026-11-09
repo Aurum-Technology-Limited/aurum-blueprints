@@ -35,7 +35,9 @@ starter_structure:
                 5. A doctor's appointment booked if sleep or appetite has not returned after a week.
 
                 ## Notes
-                If you have thoughts of harming yourself, contact emergency services or a crisis line now. If there has been any threat or violence, your safety comes before every other step in this area.
+                If you have thoughts of harming yourself, contact emergency services or a crisis line now, such as Samaritans on 116 123 (UK and Ireland) or 988 (US). If there has been any threat or violence, your safety comes before every other step in this area: a domestic abuse helpline can help, for example 0808 2000 247 in the UK or 1-800-799-7233 in the US.
+
+                Before you start: this plan is general information to help you look after your own wellbeing. It is not medical or psychological advice or therapy, and it does not replace a doctor, therapist or counsellor who knows you. If you are in crisis, in danger or thinking about harming yourself, contact your local emergency number or a crisis line now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -114,7 +116,7 @@ starter_structure:
                 5. A review date for the rules set six weeks out.
 
                 ## Notes
-                If either of you feels afraid, controlled or unsafe at home, contact a domestic abuse service before negotiating any household rules.
+                If either of you feels afraid, controlled or unsafe at home, contact a domestic abuse service before negotiating any household rules, and call your local emergency number if you are in danger.
               priority: high
               deadlineOffsetDays: 21
               frontmatter:
@@ -162,7 +164,7 @@ starter_structure:
                 4. Fees, frequency and cancellation terms written down.
 
                 ## Notes
-                Ask each therapist how they handle secrets told in individual sessions. A clear policy matters a great deal after an affair.
+                Ask each therapist how they handle secrets told in individual sessions. A clear policy matters a great deal after an affair. Joint therapy is generally not advised where there is fear, threats or violence between partners; tell any therapist about this in an individual call first.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

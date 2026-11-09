@@ -4,7 +4,7 @@ name: In-App Monetisation
 description: "A trusted revenue baseline, a clean product catalogue, fair paywalls and upgrade moments, store rules and refunds handled, and the offers, experiments and audits that grow revenue per user."
 category: business
 version: 1.0.0
-tags: [product-management, in-app-monetisation, team, founder, in-app-purchases, paywalls, virtual-currency, app-store]
+tags: [product-management, in-app-monetisation, team, founder, in-app-purchases, paywalls, virtual-currency, app-store, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: In-app revenue and payer baseline
               description: |-
                 ## Purpose
-                Every paywall or offer change later in this area needs a before figure, and most apps report revenue three ways: gross from the store console, net after commission, and booked revenue in finance. Writing down last quarter's payer rate, revenue per paying user, revenue per daily active user and the split between purchases, subscriptions and ads gives one baseline that product and finance both accept.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Every paywall or offer change later in this area needs a before figure, and most apps report revenue three ways: gross from the store console, net after commission, and booked revenue in finance. Writing down last quarter's payer rate, revenue per paying user, revenue per daily active user and the split between purchases, subscriptions and ads gives one baseline that product and finance both accept.
 
                 ## Milestones
                 1. Gross and net in-app revenue for the last three full months, split by platform.

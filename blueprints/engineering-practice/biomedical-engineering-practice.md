@@ -38,6 +38,8 @@ starter_structure:
 
                 ## Notes
                 A new edition of a standard rarely applies the day it is published. Note the transition period each regulator allows, and record which edition each product's evidence was generated against.
+
+                Before you start: this plan is general information to help you organise your own work. It does not replace your professional judgement, the rules of your regulator or professional body, your firm's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -86,7 +88,7 @@ starter_structure:
                 ## Milestones
                 1. The quality manual and quality policy read in full.
                 2. The procedures that govern your work listed, including design control, document control, change control, CAPA and training.
-                3. Each listed procedure mapped to its clause in ISO 13485 and any regional regulation such as the FDA quality system rule.
+                3. Each listed procedure mapped to its clause in ISO 13485 and any regional regulation such as the FDA Quality Management System Regulation (21 CFR Part 820, which since February 2026 incorporates ISO 13485).
                 4. Your training records checked as complete for every procedure you work under.
                 5. Three questions about how the system works in practice answered by the quality lead.
 

@@ -4,7 +4,7 @@ name: Churn Prediction Models
 description: "A churn definition the business agrees on, leak-free customer snapshots, scores sized to what the retention team can handle, holdout groups that prove which saves were real, and the monthly routines that keep the model honest."
 category: business
 version: 1.0.0
-tags: [data-analytics, churn-prediction-models, researcher, engineer, team, customer-retention, survival-analysis, uplift-modelling]
+tags: [data-analytics, churn-prediction-models, researcher, engineer, team, customer-retention, survival-analysis, uplift-modelling, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Written churn definition for your business model
               description: |-
                 ## Purpose
-                Ask finance, customer success and product what churn means and you will usually get three answers: a cancelled contract, a lapsed card, ninety days without a login. A subscription business with contracts can see churn as an event, while a shop or app without contracts has to infer it from silence, and the model inherits whichever choice you make. Agreeing one written definition before any modelling means the score, the dashboard and the board report all count the same customers.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Ask finance, customer success and product what churn means and you will usually get three answers: a cancelled contract, a lapsed card, ninety days without a login. A subscription business with contracts can see churn as an event, while a shop or app without contracts has to infer it from silence, and the model inherits whichever choice you make. Agreeing one written definition before any modelling means the score, the dashboard and the board report all count the same customers.
 
                 ## Milestones
                 1. The business model classified as contractual, non-contractual or mixed, with the reason recorded.

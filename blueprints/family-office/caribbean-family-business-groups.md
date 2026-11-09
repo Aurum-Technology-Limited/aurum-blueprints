@@ -4,7 +4,7 @@ name: Caribbean Family Business Groups
 description: "A Caribbean family group run as one: every company and island mapped, listed holdings kept within the market's rules, family and non-family executives held to one standard, and succession planned across generations."
 category: personal
 version: 1.0.0
-tags: [family-office, caribbean-family-business-groups, parent, founder, caribbean, conglomerate, listed-companies, multi-island]
+tags: [family-office, caribbean-family-business-groups, parent, founder, caribbean, conglomerate, listed-companies, multi-island, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -25,7 +25,7 @@ starter_structure:
             - name: Group map across islands and sectors
               description: |-
                 ## Purpose
-                Few families can say from memory which companies the group owns in which island, at what percentage, through which holding entity, and who runs each one day to day. A single map of every operating company, its island, sector, ownership route, listed or private status and chief executive is the page every later governance decision starts from, and it usually turns up a dormant company or a forgotten minority stake.
+                Few families can say from memory which companies the group owns in which island, at what percentage, through which holding entity, and who runs each one day to day. A single map of every operating company, its island, sector, ownership route, listed or private status and chief executive is the page every later governance decision starts from, and it usually turns up a dormant company or a forgotten minority stake. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. Every operating and holding company in the group listed with its island of incorporation and where it trades.
@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Draw it on one page if you can. A group that needs six pages to explain has usually grown by accident, and the map is where that conversation begins.
+
+                Before you start: this plan is general information to help your team organise its work. It is not financial, investment, tax, accounting or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with qualified, licensed advisers in the countries concerned. Investing can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

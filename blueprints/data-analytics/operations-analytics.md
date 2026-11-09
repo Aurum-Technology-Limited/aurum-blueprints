@@ -4,7 +4,7 @@ name: Operations Analytics
 description: "Process maps, event logs and baselines for arrivals, handling time, flow and service levels, then a staffing and backlog rhythm, queueing skills, capacity decisions, peaks and analysis for contact centres, warehouses and clinics."
 category: business
 version: 1.0.0
-tags: [data-analytics, operations-analytics, knowledge-worker, manager, capacity-planning, queueing, service-levels, workforce-management]
+tags: [data-analytics, operations-analytics, knowledge-worker, manager, capacity-planning, queueing, service-levels, workforce-management, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Operations decisions the analysis must serve
               description: |-
                 ## Purpose
-                Operations data gets collected because systems produce it, not because anyone asked a question of it, so analysts end up reporting volumes nobody acts on. Listing the real decisions an operation makes, such as how many people to roster on Monday morning, which queue to clear first or whether to promise a two-day turnaround, tells you which measures matter and which can wait. Ten decisions written down, each with its owner and frequency, is enough to start.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Operations data gets collected because systems produce it, not because anyone asked a question of it, so analysts end up reporting volumes nobody acts on. Listing the real decisions an operation makes, such as how many people to roster on Monday morning, which queue to clear first or whether to promise a two-day turnaround, tells you which measures matter and which can wait. Ten decisions written down, each with its owner and frequency, is enough to start.
 
                 ## Milestones
                 1. Ten recurring operational decisions listed, each with the person who makes it and how often.

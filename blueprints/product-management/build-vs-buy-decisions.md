@@ -4,7 +4,7 @@ name: Build vs Buy Decisions
 description: "Build, buy or partner calls made on evidence: a decision register, total cost of ownership models, vendor shortlists and proofs of concept, renewal and exit plans, and reviews that check whether past choices still hold."
 category: business
 version: 1.0.0
-tags: [product-management, build-vs-buy-decisions, manager, founder, team, sourcing, vendor-selection, total-cost-of-ownership]
+tags: [product-management, build-vs-buy-decisions, manager, founder, team, sourcing, vendor-selection, total-cost-of-ownership, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Build vs buy decision register
               description: |-
                 ## Purpose
-                Most teams cannot say when they chose to build their own billing, buy their search engine or partner for payments, or who agreed it and why. A single register listing each sourcing decision with the options considered, the reasoning, the owner and a review date stops the same argument being reopened every year and gives every later project in this area somewhere to record its outcome.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most teams cannot say when they chose to build their own billing, buy their search engine or partner for payments, or who agreed it and why. A single register listing each sourcing decision with the options considered, the reasoning, the owner and a review date stops the same argument being reopened every year and gives every later project in this area somewhere to record its outcome.
 
                 ## Milestones
                 1. A register with columns for capability, options considered, choice made, decision date, owner, main reasons and review date.

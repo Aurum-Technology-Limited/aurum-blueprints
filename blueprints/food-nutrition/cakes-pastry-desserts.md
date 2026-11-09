@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 Buy sandwich tins as a matching pair so the layers bake evenly, and skip the ten-piece sets full of shapes you will never use.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -1143,6 +1143,10 @@ starter_structure:
                 2. Insert and sponge made and frozen on day one.
                 3. Mousse assembled in an acetate-lined ring and frozen solid overnight.
                 4. Mirror glaze poured at its working temperature onto the frozen cake for a clean, bubble-free finish.
+
+                ## Notes
+
+                Some mousse recipes use raw or lightly cooked egg. If you are serving anyone pregnant, very young, older or with a weakened immune system, follow your food safety agency's advice: in the UK, eggs with the British Lion mark are considered safe raw or lightly cooked, and elsewhere use pasteurised eggs or a cooked-egg method such as Italian meringue.
               priority: low
               frontmatter:
                 mode: building

@@ -4,7 +4,7 @@ name: Sales Rep Onboarding & Ramp
 description: "A ninety-day route to a productive seller: a clear ramp definition, a planned first week, stage gates, weekly scorecards, certification calls and early warning signs, built for sales managers and their teams."
 category: business
 version: 1.0.0
-tags: [sales-revenue, sales-rep-onboarding-ramp, manager, team, enterprise, onboarding, ramp, certification]
+tags: [sales-revenue, sales-rep-onboarding-ramp, manager, team, enterprise, onboarding, ramp, certification, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Defining what ramped means for your team
               description: |-
                 ## Purpose
-                Ask five sales managers when a new seller is fully ramped and you will often hear five answers, which turns every ramp conversation into an argument about the finish line. A written definition, such as two consecutive months at or above 80 percent of full quota, gives the new hire, their manager and finance the same target and makes ramp time measurable at all.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Ask five sales managers when a new seller is fully ramped and you will often hear five answers, which turns every ramp conversation into an argument about the finish line. A written definition, such as two consecutive months at or above 80 percent of full quota, gives the new hire, their manager and finance the same target and makes ramp time measurable at all.
 
                 ## Milestones
                 1. A one-sentence definition of fully ramped for each selling role, agreed by sales leadership.

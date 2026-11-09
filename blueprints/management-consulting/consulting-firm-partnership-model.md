@@ -4,7 +4,7 @@ name: Consulting Firm Partnership Model
 description: "Partner economics for a consulting firm you own: the ownership baseline, equity or profit share, origination credit, drawings, buy-ins, admitting new partners and fair, documented exits."
 category: business
 version: 1.0.0
-tags: [management-consulting, consulting-firm-partnership-model, founder, small-business, partner-compensation, origination-credit, partner-buy-in, partnership-agreement]
+tags: [management-consulting, consulting-firm-partnership-model, founder, small-business, partner-compensation, origination-credit, partner-buy-in, partnership-agreement, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -24,7 +24,7 @@ starter_structure:
             - name: One-page ownership and profit split baseline
               description: |-
                 ## Purpose
-                Most small consulting firms run for years on a handshake about who owns what, and the first serious disagreement reveals that each founder remembers a different deal. Putting current ownership percentages, profit shares, capital contributed and any side promises on a single page, agreed by every owner, gives every later decision in this area a starting point.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most small consulting firms run for years on a handshake about who owns what, and the first serious disagreement reveals that each founder remembers a different deal. Putting current ownership percentages, profit shares, capital contributed and any side promises on a single page, agreed by every owner, gives every later decision in this area a starting point.
 
                 ## Milestones
                 1. Every current owner listed with ownership percentage, profit share and capital contributed.

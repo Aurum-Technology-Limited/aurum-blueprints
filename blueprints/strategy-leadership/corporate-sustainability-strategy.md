@@ -4,7 +4,7 @@ name: Corporate Sustainability Strategy
 description: "Double materiality, an agreed ambition and target set, board oversight and claims control, then the transition plan, capital tests and pay links that put sustainability into the core business."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, corporate-sustainability-strategy, enterprise, manager, esg, materiality, climate-targets, sustainability-governance]
+tags: [strategy-leadership, corporate-sustainability-strategy, enterprise, manager, esg, materiality, climate-targets, sustainability-governance, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -28,7 +28,7 @@ starter_structure:
             - name: Sustainability starting-point audit
               description: |-
                 ## Purpose
-                Most organisations already have scattered commitments before anyone writes a strategy: a net zero pledge in an old annual report, a supplier code, a diversity target and three different emissions figures. Gathering every existing commitment, metric, policy and public claim into one table shows what has been promised, what is measured and where the gaps and contradictions sit, so the strategy starts from fact rather than memory.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. Most organisations already have scattered commitments before anyone writes a strategy: a net zero pledge in an old annual report, a supplier code, a diversity target and three different emissions figures. Gathering every existing commitment, metric, policy and public claim into one table shows what has been promised, what is measured and where the gaps and contradictions sit, so the strategy starts from fact rather than memory.
 
                 ## Milestones
                 1. Every public sustainability commitment of the last five years listed with its source, date and owner.

@@ -36,6 +36,8 @@ starter_structure:
 
                 ## Notes
                 Ask each registered agent for a current certificate of incumbency. It is the quickest way to confirm directors, shareholders and good standing in one document.
+
+                Before you start: this plan is general information to help you organise decisions about money. It is not financial, investment, tax or legal advice, and it does not recommend any product, investment or deal. Rules differ between countries, so check decisions that matter with a qualified, licensed adviser in yours. Investing and trading can lose money, and raising or managing other people's money is regulated in most countries.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:

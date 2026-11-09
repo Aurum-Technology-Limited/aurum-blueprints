@@ -4,7 +4,7 @@ name: Cross-Functional Strategic Alignment
 description: "Get departments pulling the same way: one shared priority list, mapped dependencies, a fair escalation path for conflicts, a planning interlock and the habits that keep teams aligned between plans."
 category: business
 version: 1.0.0
-tags: [strategy-leadership, cross-functional-strategic-alignment, manager, enterprise, team, dependencies, interlock, matrix-working]
+tags: [strategy-leadership, cross-functional-strategic-alignment, manager, enterprise, team, dependencies, interlock, matrix-working, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: One shared priority list across departments
               description: |-
                 ## Purpose
-                When sales, product, operations and finance each keep their own top ten, the organisation has forty priorities and none of them win the argument for people or money. A single ranked list of no more than seven cross-functional priorities, agreed by every department head, gives teams a tie-breaker they can point to when two requests collide.
+                This is a team plan, best installed into a shared workspace so everyone with a role in it can see and own their tasks. When sales, product, operations and finance each keep their own top ten, the organisation has forty priorities and none of them win the argument for people or money. A single ranked list of no more than seven cross-functional priorities, agreed by every department head, gives teams a tie-breaker they can point to when two requests collide.
 
                 ## Milestones
                 1. Every department's current priorities collected on one sheet, with owners and expected outcomes.

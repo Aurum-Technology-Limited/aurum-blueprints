@@ -36,7 +36,7 @@ starter_structure:
                 ## Notes
                 Pins and needles, numbness or memory problems point more towards B12 than iron, so mention them even if they seem unrelated.
 
-                Before you start: this plan is general information to help you organise your own health. It is not medical advice and does not replace a doctor, nurse, pharmacist or other qualified professional. Check any change to treatment, medicine or diet with them first, and get urgent care if you feel unwell.
+                Before you start: this plan is general information to help you organise your own health. It is not medical advice, and it does not replace a doctor, nurse, pharmacist or other qualified professional who knows your situation. Check any change to treatment, medicine, diet or activity with them first. If you feel very unwell or think it is an emergency, call your local emergency number now.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:
@@ -625,7 +625,7 @@ starter_structure:
                 4. Your clinician told which product you are taking.
 
                 ## Notes
-                Start from the **Purchase decision** template. Slow-release products are often gentler but may release iron past where it is best absorbed; ask whether they suit you.
+                Start from the **Purchase decision** template. Slow-release products are often gentler but may release iron past where it is best absorbed; ask whether they suit you. Do not start iron on your own without a blood test showing you need it: low iron needs its cause found, and too much iron can be harmful. Take the dose and course length your clinician or pharmacist agrees.
               priority: medium
               deadlineOffsetDays: 30
               frontmatter:

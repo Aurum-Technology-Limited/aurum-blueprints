@@ -37,6 +37,10 @@ starter_structure:
 
                 ## Notes
                 Wear gloves while counting, and never sniff or open an unlabelled container to identify it. Ask the extension officer or the pesticides authority how to deal with unknowns.
+
+                This plan organises safety work and records. It does not replace the product label, applicator training and certification, or advice from your extension officer, pesticides authority or a doctor. Rules on which products are allowed, who may apply them and what records to keep differ between countries, so check them with the authority in your country.
+
+                Before you start: this plan is general information, not a safety manual or a substitute for proper training. Follow the law where you live and work, the manufacturer's and label instructions for machinery, chemicals, animal medicines and equipment, and any site safety rules. Use trained, licensed or certified people for regulated work such as electrical, gas, structural, pesticide or veterinary work, and stop if something seems unsafe.
               priority: high
               deadlineOffsetDays: 14
               frontmatter:

@@ -4,7 +4,7 @@ name: Management of Change
 description: "A working management of change system: clear rules on what counts as a change, risk-tiered reviews, temporary change expiry, pre-start-up checks, updated drawings and the audits that prove it works."
 category: business
 version: 1.0.0
-tags: [engineering-practice, management-of-change, engineer, manager, process-safety, moc, pssr, temporary-changes]
+tags: [engineering-practice, management-of-change, engineer, manager, process-safety, moc, pssr, temporary-changes, team-plan]
 author: Aurum Technology
 starter_structure:
   templates:
@@ -27,7 +27,7 @@ starter_structure:
             - name: Site MOC procedure gap check against good practice
               description: |-
                 ## Purpose
-                Most sites have an MOC procedure, but many were written years ago and drift from what regulators and good practice now expect, such as the OSHA PSM change element, Seveso and COMAH duties, or the CCPS management of change guidelines. Reading your procedure against one recognised reference shows where it is silent on temporary changes, organisational change, software or closeout, before an auditor or an incident finds the gap.
+                Most sites have an MOC procedure, but many were written years ago and drift from what regulators and good practice now expect, such as the US OSHA PSM change element, EU Seveso and UK COMAH duties, or the CCPS management of change guidelines. Reading your procedure against one recognised reference shows where it is silent on temporary changes, organisational change, software or closeout, before an auditor or an incident finds the gap. This is a team plan, best installed into a shared workspace so each role can own its tasks.
 
                 ## Milestones
                 1. The current controlled copy of the site MOC procedure located, with its revision and owner recorded.
@@ -37,6 +37,8 @@ starter_structure:
 
                 ## Notes
                 Compare against the regulation that actually applies to your site first, then good practice guidance. Ask the process safety lead which one the regulator uses.
+
+                Before you start: this plan is general information to help your team organise its work. It does not replace professional judgement, the rules of your regulator or professional body, your organisation's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
@@ -365,7 +367,7 @@ starter_structure:
                 4. The checklist used on every change commissioned in a quarter.
 
                 ## Notes
-                Start from the **Operational checklist** template. Where the OSHA PSM rule applies, the pre-start-up review is a specific requirement for new and modified facilities.
+                Start from the **Operational checklist** template. Where the US OSHA PSM rule applies, the pre-start-up review is a specific requirement for new and modified facilities.
               priority: high
               frontmatter:
                 mode: operating

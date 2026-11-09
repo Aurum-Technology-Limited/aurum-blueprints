@@ -35,6 +35,10 @@ starter_structure:
 
                 ## Notes
                 Keep the procedure short enough that a receptionist can follow it on a busy day. The detail belongs in the log and the case file, not the policy.
+
+                This plan organises complaint handling. It is not legal advice. Complaint and fitness to practise rules, including response deadlines, are set by your regulator and differ by profession and country, so follow their current rules, and tell your indemnity insurer or defence organisation and take their advice as soon as a regulator becomes involved.
+
+                Before you start: this plan is general information to help you organise your own work. It does not replace your professional judgement, the rules of your regulator or professional body, your firm's policies, or advice from a qualified lawyer, accountant or other adviser. Where a law, code or standard applies, use the current official version for your country, and get qualified sign-off on regulated or safety-critical work.
               priority: high
               deadlineOffsetDays: 30
               frontmatter:
