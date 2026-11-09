@@ -13,7 +13,8 @@ seed their Life OS (PAPT: Pillars, Areas, Projects, Tasks) from one of these blu
   file is still validated and waits, ready to publish by adding its id.
 - **`blueprints/*.md`**: the three original starters (balanced-life, founder, student).
 - **`blueprints/<pillar-id>/<area-id>.md`**: the blueprint library (see below).
-- **`taxonomy/`**: the library's master lists of pillars and areas.
+- **`taxonomy/`**: the library's master lists of pillars and areas, and the skills
+  each published blueprint trains (`blueprint-skills.json`, see below).
 - **`scripts/`**: the validator and the catalog builder.
 - **`GENERATION.md`**: the spec every library blueprint is written to.
 
@@ -63,6 +64,32 @@ kind or recurrence form.
 per library file listed in `launch.json`, with a `starterSummary` (pillar names, area, project and task
 counts) and a `contentHash` (`sha256:<hex>` of the file bytes, the form the app's
 integrity check accepts). Line endings are pinned to LF so the hash is stable.
+Every entry, including the three original ones, also gets `skills` from
+`taxonomy/blueprint-skills.json`.
+
+## Skills
+
+Aurum Life levels up a set of core skills as you complete work. Each published
+blueprint says which ones its plan trains, so the app can show skill badges on the
+card and stamp the skills on the pages it installs.
+
+- `taxonomy/blueprint-skills.json` maps each blueprint id to **2 to 4** core skills,
+  most relevant first: `{ "<id>": ["Skill", ...] }`. Team plans (tag `team-plan`)
+  list the skills a team member builds by doing the work.
+- The names must be the app's 22 core skills, spelled exactly as the app spells them
+  (`CORE_SKILLS` in `scripts/lib/skills.mjs`, copied from the app's
+  `gamification/skills.rs`): Fitness, Nutrition, Self-Care, Learning, Focus, Analysis,
+  Expertise, Technology, Leadership, Communication, Entrepreneurship, Money Management,
+  Investing, Connection, Family, Community, Creativity, Practical Skills, Mindfulness,
+  Resilience, Discipline, Organisation.
+- `build-catalog` copies each list onto its catalog entry as `skills: string[]`, right
+  after `tags`. The app reads that field (`BlueprintManifest.skills`) and prefers it over
+  the fallback map it bundles, so changing a blueprint's skills needs no app release.
+- `validate` fails if a published blueprint (a legacy starter or a `launch.json` id) has
+  no skills, fewer than 2 or more than 4, a repeated or non-core name, if the map names an
+  id with no blueprint file, or if `catalog.json` disagrees with the map.
+
+When you publish a blueprint by adding its id to `launch.json`, add its skills here too.
 
 ## Adding a hand-written starter (main)
 
@@ -70,7 +97,8 @@ integrity check accepts). Line endings are pinned to LF so the hash is stable.
    (`pillars` > `areas` > `projects` > `tasks`).
 2. Add a matching entry to `catalog.json` (`id`, `name`, `description`, `category`,
    `version`, `path`, and a `starterSummary` whose `totalAreas` / `totalProjects`
-   match the file), then run `npm run validate`.
+   match the file). Add its 2 to 4 skills to `taxonomy/blueprint-skills.json`, then run
+   `npm run build:catalog && npm run validate`.
 3. Commit to `main`. The app picks it up on the next catalog refresh.
 
 ## Professional-advice notices

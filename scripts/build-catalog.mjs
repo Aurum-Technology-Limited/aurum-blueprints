@@ -14,6 +14,11 @@
 // Only library blueprints listed in launch.json are written: catalog.json is
 // what the app browses (directly, and through the registry seed), so it holds
 // the launch catalog, not every file in the repo.
+//
+// Every entry, legacy and library, gets `skills` (beside `tags`) from
+// taxonomy/blueprint-skills.json: the core skills the plan trains, which the
+// app shows as badges and stamps on installed pages. validate.mjs checks the
+// map covers every published id.
 
 import { readFileSync, writeFileSync } from "node:fs";
 import {
@@ -25,6 +30,7 @@ import {
   loadBlueprint,
   summarizeStarter,
 } from "./lib/blueprint.mjs";
+import { SKILLS_PATH, loadSkillMap } from "./lib/skills.mjs";
 
 const check = process.argv.includes("--check");
 
@@ -32,8 +38,22 @@ const existingText = readFileSync(CATALOG_PATH, "utf8");
 const existing = JSON.parse(existingText);
 const existingList = Array.isArray(existing) ? existing : existing.blueprints ?? [];
 
-// Keep every entry that is not a library file.
-const legacy = existingList.filter((m) => !libraryPathParts(m.path ?? ""));
+const skillMap = loadSkillMap();
+
+// Rebuild an entry with `skills` right after `tags` (types.rs field order),
+// dropping it when the map has nothing for the id, so validate can say so.
+function withSkills(m) {
+  const out = {};
+  for (const [k, v] of Object.entries(m)) {
+    if (k === "skills") continue;
+    out[k] = v;
+    if (k === "tags" && Array.isArray(skillMap[m.id])) out.skills = skillMap[m.id];
+  }
+  return out;
+}
+
+// Keep every entry that is not a library file, as written, apart from skills.
+const legacy = existingList.filter((m) => !libraryPathParts(m.path ?? "")).map(withSkills);
 
 const live = launchIds();
 const library = [];
@@ -44,7 +64,7 @@ for (const rel of listBlueprintFiles()) {
     const { fm } = loadBlueprint(rel);
     if (!live.has(fm.id)) continue;
     // Field order follows types.rs::BlueprintManifest so diffs read naturally.
-    library.push({
+    library.push(withSkills({
       id: fm.id,
       name: fm.name,
       description: fm.description,
@@ -55,7 +75,7 @@ for (const rel of listBlueprintFiles()) {
       author: fm.author,
       starterSummary: summarizeStarter(fm.starter_structure),
       contentHash: contentHash(rel),
-    });
+    }));
   } catch (e) {
     failures.push(`${rel}: ${e.message}`);
   }
@@ -70,6 +90,12 @@ library.sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0));
 const unknown = [...live].filter((id) => !library.some((m) => m.id === id));
 if (unknown.length) {
   console.error(`launch.json lists ${unknown.length} id(s) with no blueprint file, e.g. ${unknown[0]}`);
+  process.exit(1);
+}
+
+const unskilled = [...legacy, ...library].filter((m) => !m.skills).map((m) => m.id);
+if (unskilled.length) {
+  console.error(`${SKILLS_PATH} has no skills for ${unskilled.length} published id(s), e.g. ${unskilled.slice(0, 5).join(", ")}`);
   process.exit(1);
 }
 
